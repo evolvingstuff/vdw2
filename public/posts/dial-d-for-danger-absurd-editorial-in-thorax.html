@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Dial D for danger – absurd editorial in Thorax</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Dial D for danger – absurd editorial in Thorax</h1><time>October 27, 2012</time><div data-pagefind-body><h1 id=dial-d-for-danger>Dial D for danger?</h1><p>Andrew Bush, Ian Pavord, Editors</p><p>Thorax 2012;67:i doi:10.1136/thoraxjnl-2012-202790</p><p>Many of us are following the vitamin D papers with the same apprehension as we contemplate our erratic teenage sons—huge potential for future good, but how much damage may be done to the family home and the parental psyche in the meantime? In this issue of Thorax, we feature two contributions to the unfolding Vitamin D story.</p><p>In Basic Science for the Chest Physician, <a href="http://thorax.bmj.com/content/67/11/1018.abstract?sid=54537522-3561-499c-b812-522e657dc10d%20">Pfeffer and Hawrylowicz</a> steer the non-immunologists through the complexities of the actions of 1,25(OH)D3, which is now known to be generated in far more organs than just the kidney, the nuclear Vitamin D receptor, and the end-results on the expression of genes concerned in the adaptive and immune responses (see page 1017).</p><p>Although Vitamin D deficiency seems to have numerous adverse effects in a number of respiratory diseases, is it true that D is good but is more better? Not so, say the Southampton group, at least in <strong>pregnancy</strong> (see page 950); there was no relationship between maternal serum Vitamin D at 34?weeks gestation and any wheeze outcome, atopic status or lung function through to age 6 in a large group of mother-child pairs. So D would appear to be for Don&rsquo;t do it—Don&rsquo;t give vitamin D supplements to pregnant women in the hope that asthma will go away.</p><hr><h3 id=comment-by-vitamindwiki>Comment by VitaminDWiki:</h3><ol><li><p>There is not a single indication of any danger of vitamin D in the editorial, nor abstracts</p></li><li><p>The pregnancy study found that there was no difference between ultra-low and very low vitamin D levels of mothers on the resulting child asthma</p></li></ol><blockquote><p>No supplements were given in the study, yet the editors somehow concluded that supplements are bad!</p></blockquote><blockquote><p>To reduce asthma, the mother needs much more vitamin D than is now available without supplements or lots of sun</p></blockquote><p>– – – – – – – – – – – – – – – – –</p><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><a href=/posts/overview-asthma-and-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 1433">Overview Asthma and Vitamin D</a></li></ul><blockquote><p>For mothers with high vitamin D during pregnancy the child is <strong><span style=color:red>5X</span></strong> less likely to get asthma</p></blockquote><ul><li><p><a href="http://clinicaltrials.gov/ct2/results?term=asthma+&amp;recr=&amp;rslt=&amp;type=&amp;cond=&amp;intr=%22vitamin+d%22&amp;outc=&amp;spons=&amp;lead=&amp;id=&amp;state1=&amp;cntry1=&amp;state2=&amp;cntry2=&amp;state3=&amp;cntry3=&amp;locn=&amp;gndr=&amp;rcv_s=&amp;rcv_e=&amp;lup_s=&amp;lup_e=">US Clinical Trials</a> 23 Vitamin D intervention trials for Asthma and Vitamin D as of Oct 2012, including</p><ul><li><a href="http://clinicaltrials.gov/ct2/show/NCT00920621?term=asthma+%22vitamin+d%22&amp;rank=1">4,000 IU daily</a> for prevention of childhood asthma by supplementing pregnant mother</li></ul></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/asthma.html><span class=tag>asthma</span></a>
+<a href=/tags/asthma-receptor.html><span class=tag>asthma receptor</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/breathing.html><span class=tag>Breathing</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/pregnancy.html><span class=tag>Pregnancy</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a></div><div data-pagefind-meta=tags hidden>asthma, asthma receptor, breathing, Breathing, child, dosage, genetics, pregnancy, Pregnancy, vitamin d, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

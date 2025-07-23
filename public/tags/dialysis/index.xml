@@ -1,492 +1,638 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dialysis on VitaminDWiki</title><link>/tags/dialysis.html</link><description>Recent content in Dialysis on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 21 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/dialysis/index.xml" rel="self" type="application/rss+xml"/><item><title>5700 IU of vitamin D helped half with chronic kidney disease if not having dialysis</title><link>/posts/5700-iu-of-vitamin-d-helped-half-with-chronic-kidney-disease-if-not-having-dialysis.html</link><pubDate>Sat, 21 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/5700-iu-of-vitamin-d-helped-half-with-chronic-kidney-disease-if-not-having-dialysis.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!Randomized controlled trial of cholecalciferol supplementation in chronic kidney disease patients with hypovitaminosis D`
-│ inner_content: `Randomized controlled trial of cholecalciferol supplementation in chronic kidney disease patients with hypovitaminosis D`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Randomized controlled trial of cholecalciferol supplementation in chronic kidney disease patients with hypovitaminosis D`
-│ │ inner_content: `Randomized controlled trial of cholecalciferol supplementation in chronic kidney disease patients with hypovitaminosis D`├── TextNode
-│ full_match: `\nNephrology Dialysis Transplantation (2012), First published online: July 20, 2012\nPeter Marckmann 1,2?, Hanne Agerskov 1, Sasikala Thineshkumar 1,2, Else-Marie Bladbjerg 3, Johannes J. Sidelmann 3, Jørgen Jespersen 3, Mads Nybo 4, Lars M. Rasmussen 4, Ditte Hansen 5 and Alexandra Scholze 1,2\n1 Clinical Research Unit, Department of Nephrology, Odense University Hospital, Odense, Denmark\n2 Clinical Institute, University of Southern Denmark, Odense, Denmark\n3 Unit for Thrombosis Research, Institute of Public Health, University of Southern Denmark and Department of Clinical Biochemistry, Hospital of Southwest Denmark, Esbjerg, Denmark\n4 Department of Clinical Biochemistry, Odense University Hospital, Odense, Denmark\n5 Department of Internal Medicine, Roskilde Hospital, Roskilde, Denmark\nCorrespondence to: Peter Marckmann; E-mail: peter.marckmann@dadlnet.dk\nReceived December 2, 2011. Accepted March 19, 2012.\n\nBackground Hypovitaminosis D is common in chronic kidney disease (CKD). \nEffects of 25-hydroxyvitamin D replenishment in CKD are not well described.\n\nMethods An 8-week randomized, placebo-controlled, double-blind parallel intervention study was conducted in haemodialysis (HD) and non-HD CKD patients. Treatment consisted of 40 000 IU of cholecalciferol orally per week. Plasma 25-hydroxyvitamin D (25-OHD), plasma 1,25-dihydroxyvitamin D (1,25-diOHD), plasma parathyroid hormone (PTH), serum phosphate, ionized serum calcium and serum fibroblast growth factor 23 (FGF-23) were analysed. We also investigated biomarkers related to cardiovascular disease (plasma D-dimer, plasma fibrinogen, plasma von Willebrand factor antigen and activity, plasma interleukin 6, plasma C-reactive protein, blood pressure, aortic augmentation index, aortic pulse wave velocity and 24-h urinary protein loss). Objective and subjective health variables were assessed (muscle function tests, visual analogue scores and Health Assessment Questionnaire).\n\nResults Fifty-two CKD patients with 25-OHD &amp;lt;50 nmol/L at screening were included. Cholecalciferol supplementation led to a significant increase to a median of 155 nmol/L 25-OHD (interquartile range 137–173 nmol/L) in treated patients (n = 25, P &amp;lt; 0.001). \n\nIn non-HD patients, we saw a significant increase in 1,25-diOHD (n = 13, P &amp;lt; 0.01) and a lowering of PTH (n = 13, P &amp;lt; 0.001). \n\nThis was not observed in HD patients. Cholecalciferol supplementation caused a significant increase in serum calcium and FGF-23.\n\nConclusions 25-OHD replenishment was effectively obtained with the employed cholecalciferol dosing. In non-HD patients, it had favourable effects on 1,25-diOHD and PTH. Vitamin D-supplemented patients must be monitored for hypercalcaemia. \n\nThe present study could not identify significant pleiotropic effects of 25-OHD replenishment.\n\n`
-│ inner_content: `\nNephrology Dialysis Transplantation (2012), First published online: July 20, 2012\nPeter Marckmann 1,2?, Hanne Agerskov 1, Sasikala Thineshkumar 1,2, Else-Marie Bladbjerg 3, Johannes J. Sidelmann 3, Jørgen Jespersen 3, Mads Nybo 4, Lars M. Rasmussen 4, Ditte Hansen 5 and Alexandra Scholze 1,2\n1 Clinical Research Unit, Department of Nephrology, Odense University Hospital, Odense, Denmark\n2 Clinical Institute, University of Southern Denmark, Odense, Denmark\n3 Unit for Thrombosis Research, Institute of Public Health, University of Southern Denmark and Department of Clinical Biochemistry, Hospital of Southwest Denmark, Esbjerg, Denmark\n4 Department of Clinical Biochemistry, Odense University Hospital, Odense, Denmark\n5 Department of Internal Medicine, Roskilde Hospital, Roskilde, Denmark\nCorrespondence to: Peter Marckmann; E-mail: peter.marckmann@dadlnet.dk\nReceived December 2, 2011. Accepted March 19, 2012.\n\nBackground Hypovitaminosis D is common in chronic kidney disease (CKD). \nEffects of 25-hydroxyvitamin D replenishment in CKD are not well described.\n\nMethods An 8-week randomized, placebo-controlled, double-blind parallel intervention study was conducted in haemodialysis (HD) and non-HD CKD patients. Treatment consisted of 40 000 IU of cholecalciferol orally per week. Plasma 25-hydroxyvitamin D (25-OHD), plasma 1,25-dihydroxyvitamin D (1,25-diOHD), plasma parathyroid hormone (PTH), serum phosphate, ionized serum calcium and serum fibroblast growth factor 23 (FGF-23) were analysed. We also investigated biomarkers related to cardiovascular disease (plasma D-dimer, plasma fibrinogen, plasma von Willebrand factor antigen and activity, plasma interleukin 6, plasma C-reactive protein, blood pressure, aortic augmentation index, aortic pulse wave velocity and 24-h urinary protein loss). Objective and subjective health variables were assessed (muscle function tests, visual analogue scores and Health Assessment Questionnaire).\n\nResults Fifty-two CKD patients with 25-OHD &amp;lt;50 nmol/L at screening were included. Cholecalciferol supplementation led to a significant increase to a median of 155 nmol/L 25-OHD (interquartile range 137–173 nmol/L) in treated patients (n = 25, P &amp;lt; 0.001). \n\nIn non-HD patients, we saw a significant increase in 1,25-diOHD (n = 13, P &amp;lt; 0.01) and a lowering of PTH (n = 13, P &amp;lt; 0.001). \n\nThis was not observed in HD patients. Cholecalciferol supplementation caused a significant increase in serum calcium and FGF-23.\n\nConclusions 25-OHD replenishment was effectively obtained with the employed cholecalciferol dosing. In non-HD patients, it had favourable effects on 1,25-diOHD and PTH. Vitamin D-supplemented patients must be monitored for hypercalcaemia. \n\nThe present study could not identify significant pleiotropic effects of 25-OHD replenishment.\n\n`├── BoldNode
-│ full_match: `__– – – – – – – – – – – – – – – – – – - - - - - - - - - - - - - - - - - - - - - - - __`
-│ inner_content: `– – – – – – – – – – – – – – – – – – - - - - - - - - - - - - - - - - - - - - - - - `
-│ children:
-│ ├── TextNode
-│ │ full_match: `– – – – – – – – – – – – – – – – – – - - - - - - - - - - - - - - - - - - - - - - - `
-│ │ inner_content: `– – – – – – – – – – – – – – – – – – - - - - - - - - - - - - - - - - - - - - - - - `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!Summary by author for VitaminDWiki`
-│ inner_content: `Summary by author for VitaminDWiki`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Summary by author for VitaminDWiki`
-│ │ inner_content: `Summary by author for VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*40,000 IU cholecalciferol weekly for just 8 weeks to 25 patients with Chronic Kidney Disease and hypovitaminosis D (vitamin D levels below 20 nanograms/mL) , placebo to 24 matched controls `
-│ inner_content: `40,000 IU cholecalciferol weekly for just 8 weeks to 25 patients with Chronic Kidney Disease and hypovitaminosis D (vitamin D levels below 20 nanograms/mL) , placebo to 24 matched controls `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `40,000 IU cholecalciferol weekly for just 8 weeks to 25 patients with Chronic Kidney Disease and hypovitaminosis D (vitamin D levels below 20 nanograms/mL) , placebo to 24 matched controls `
-│ │ inner_content: `40,000 IU cholecalciferol weekly for just 8 weeks to 25 patients with Chronic Kidney Disease and hypovitaminosis D (vitamin D levels below 20 nanograms/mL) , placebo to 24 matched controls `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Active treatment corrected hypovitaminosis in all patients with final average vitamin D levels of 62 nanograms/mL versus 9 nanograms/mL in the placebo group. `
-│ inner_content: `Active treatment corrected hypovitaminosis in all patients with final average vitamin D levels of 62 nanograms/mL versus 9 nanograms/mL in the placebo group. `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Active treatment corrected hypovitaminosis in all patients with final average vitamin D levels of 62 nanograms/mL versus 9 nanograms/mL in the placebo group. `
-│ │ inner_content: `Active treatment corrected hypovitaminosis in all patients with final average vitamin D levels of 62 nanograms/mL versus 9 nanograms/mL in the placebo group. `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Note: Vitamin D levels would probably have been much higher if the trial had lasted longer `
-│ inner_content: `Note: Vitamin D levels would probably have been much higher if the trial had lasted longer `
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Note: Vitamin D levels would probably have been much higher if the trial had lasted longer `
-│ │ inner_content: `Note: Vitamin D levels would probably have been much higher if the trial had lasted longer `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Vitamin D half-life is 4-8 weeks.`
-│ inner_content: `Vitamin D half-life is 4-8 weeks.`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D half-life is 4-8 weeks.`
-│ │ inner_content: `Vitamin D half-life is 4-8 weeks.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Beneficial effects on bone metabolism were seen in the subgroup of patients who were NOT undergoing dialysis, but not in patients undergoing dialysis `
-│ inner_content: `Beneficial effects on bone metabolism were seen in the subgroup of patients who were NOT undergoing dialysis, but not in patients undergoing dialysis `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Beneficial effects on bone metabolism were seen in the subgroup of patients who were NOT undergoing dialysis, but not in patients undergoing dialysis `
-│ │ inner_content: `Beneficial effects on bone metabolism were seen in the subgroup of patients who were NOT undergoing dialysis, but not in patients undergoing dialysis `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=813|Overview Kidney and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=813|Overview Kidney and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=813|Overview Kidney and Vitamin D]`
-│ │ inner_content: `Overview Kidney and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=813`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Kidney and Vitamin D`
-│ │ │ inner_content: `Overview Kidney and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2758|Kidney Conference had many Vitamin D papers – May 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2758|Kidney Conference had many Vitamin D papers – May 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2758|Kidney Conference had many Vitamin D papers – May 2012]`
-│ │ inner_content: `Kidney Conference had many Vitamin D papers – May 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2758`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Kidney Conference had many Vitamin D papers – May 2012`
-│ │ │ inner_content: `Kidney Conference had many Vitamin D papers – May 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2720|Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2720|Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2720|Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012]`
-│ │ inner_content: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2720`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012`
-│ │ │ inner_content: `Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1196|Adding Vitamin __decreased kidney deaths by 4x__ – Dec 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1196|Adding Vitamin __decreased kidney deaths by 4x__ – Dec 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1196|Adding Vitamin __decreased kidney deaths by 4x__ – Dec 2010]`
-│ │ inner_content: `Adding Vitamin __decreased kidney deaths by 4x__ – Dec 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1196`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Adding Vitamin `
-│ │ │ inner_content: `Adding Vitamin `
-│ │ ├── BoldNode
-│ │ │ full_match: `__decreased kidney deaths by 4x__`
-│ │ │ inner_content: `decreased kidney deaths by 4x`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `decreased kidney deaths by 4x`
-│ │ │ │ inner_content: `decreased kidney deaths by 4x`
-│ │ ├── TextNode
-│ │ │ full_match: ` – Dec 2010`
-│ │ │ inner_content: ` – Dec 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+It is amazing that such excellent results were buried in the paper. They were not in the title nor abstract.`
-│ inner_content: `It is amazing that such excellent results were buried in the paper. They were not in the title nor abstract.`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `It is amazing that such excellent results were buried in the paper. They were not in the title nor abstract.`
-│ │ inner_content: `It is amazing that such excellent results were buried in the paper. They were not in the title nor abstract.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+This is the result of about 10 trials with about 5,000 kidney disease patients.`
-│ inner_content: `This is the result of about 10 trials with about 5,000 kidney disease patients.`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `This is the result of about 10 trials with about 5,000 kidney disease patients.`
-│ │ inner_content: `This is the result of about 10 trials with about 5,000 kidney disease patients.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Note: some of the trials were terminated as they felt it was __~~#30F:morally wrong to not give vitamin D to all of the Kidney patients~~__`
-│ inner_content: `Note: some of the trials were terminated as they felt it was __~~#30F:morally wrong to not give vitamin D to all of the Kidney patients~~__`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Note: some of the trials were terminated as they felt it was `
-│ │ inner_content: `Note: some of the trials were terminated as they felt it was `
-│ ├── BoldNode
-│ │ full_match: `__~~#30F:morally wrong to not give vitamin D to all of the Kidney patients~~__`
-│ │ inner_content: `~~#30F:morally wrong to not give vitamin D to all of the Kidney patients~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#30F:morally wrong to not give vitamin D to all of the Kidney patients~~`
-│ │ │ inner_content: `morally wrong to not give vitamin D to all of the Kidney patients`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #30F
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `morally wrong to not give vitamin D to all of the Kidney patients`
-│ │ │ │ inner_content: `morally wrong to not give vitamin D to all of the Kidney patients`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&amp;amp;sort_mode=created_desc|All items in Kidney and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&amp;amp;sort_mode=created_desc|All items in Kidney and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&amp;amp;sort_mode=created_desc|All items in Kidney and Vitamin D]`
-│ │ inner_content: `All items in Kidney and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in Kidney and Vitamin D`
-│ │ │ inner_content: `All items in Kidney and Vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3073|Chronic Kidney Disease reduced with 3500 IU average vitamin D – RCT Aug 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3073|Chronic Kidney Disease reduced with 3500 IU average vitamin D – RCT Aug 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3073|Chronic Kidney Disease reduced with 3500 IU average vitamin D – RCT Aug 2012]`
-│ │ inner_content: `Chronic Kidney Disease reduced with 3500 IU average vitamin D – RCT Aug 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3073`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Chronic Kidney Disease reduced with 3500 IU average vitamin D – RCT Aug 2012`
-│ │ │ inner_content: `Chronic Kidney Disease reduced with 3500 IU average vitamin D – RCT Aug 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3188|How often should I take 50000 IU of vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3188|How often should I take 50000 IU of vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3188|How often should I take 50000 IU of vitamin D]`
-│ │ inner_content: `How often should I take 50000 IU of vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3188`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `How often should I take 50000 IU of vitamin D`
-│ │ │ inner_content: `How often should I take 50000 IU of vitamin D`
-
-Original Tiki:
--------------
-!Randomized controlled trial of cholecalciferol supplementation in chronic kidney disease patients with hypovitaminosis D
-Nephrology Dialysis Transplantation (2012), First published online: July 20, 2012
-Peter Marckmann 1,2?, Hanne Agerskov 1, Sasikala Thineshkumar 1,2, Else-Marie Bladbjerg 3, Johannes J. Sidelmann 3, Jørgen Jespersen 3, Mads Nybo 4, Lars M. Rasmussen 4, Ditte Hansen 5 and Alexandra Scholze 1,2
-1 Clinical Research Unit, Department of Nephrology, Odense University Hospital, Odense, Denmark
-2 Clinical Institute, University of Southern Denmark, Odense, Denmark
-3 Unit for Thrombosis Research, Institute of Public Health, University of Southern Denmark and Department of Clinical Biochemistry, Hospital of Southwest Denmark, Esbjerg, Denmark
-4 Department of Clinical Biochemistry, Odense University Hospital, Odense, Denmark
-5 Department of Internal Medicine, Roskilde Hospital, Roskilde, Denmark
-Correspondence to: Peter Marckmann; E-mail: peter.marckmann@dadlnet.dk
-Received December 2, 2011. Accepted March 19, 2012.
-
-Background Hypovitaminosis D is common in chronic kidney disease (CKD). 
-Effects of 25-hydroxyvitamin D replenishment in CKD are not well described.
-
-Methods An 8-week randomized, placebo-controlled, double-blind parallel intervention study was conducted in haemodialysis (HD) and non-HD CKD patients. Treatment consisted of 40 000 IU of cholecalciferol orally per week. Plasma 25-hydroxyvitamin D (25-OHD), plasma 1,25-dihydroxyvitamin D (1,25-diOHD), plasma parathyroid hormone (PTH), serum phosphate, ionized serum calcium and serum fibroblast growth factor 23 (FGF-23) were analysed. We also investigated biomarkers related to cardiovascular disease (plasma D-dimer, plasma fibrinogen, plasma von Willebrand factor antigen and activity, plasma interleukin 6, plasma C-reactive protein, blood pressure, aortic augmentation index, aortic pulse wave velocity and 24-h urinary protein loss). Objective and subjective health variables were assessed (muscle function tests, visual analogue scores and Health Assessment Questionnaire).
-
-Results Fifty-two CKD patients with 25-OHD &amp;lt;50 nmol/L at screening were included. Cholecalciferol supplementation led to a significant increase to a median of 155 nmol/L 25-OHD (interquartile range 137–173 nmol/L) in treated patients (n = 25, P &amp;lt; 0.001). 
-
-In non-HD patients, we saw a significant increase in 1,25-diOHD (n = 13, P &amp;lt; 0.01) and a lowering of PTH (n = 13, P &amp;lt; 0.001). 
-
-This was not observed in HD patients. Cholecalciferol supplementation caused a significant increase in serum calcium and FGF-23.
-
-Conclusions 25-OHD replenishment was effectively obtained with the employed cholecalciferol dosing. In non-HD patients, it had favourable effects on 1,25-diOHD and PTH. Vitamin D-supplemented patients must be monitored for hypercalcaemia. 
-
-The present study could not identify significant pleiotropic effects of 25-OHD replenishment.
-
-__– – – – – – – – – – – – – – – – – – - - - - - - - - - - - - - - - - - - - - - - - __
-!!Summary by author for VitaminDWiki
-*40,000 IU cholecalciferol weekly for just 8 weeks to 25 patients with Chronic Kidney Disease and hypovitaminosis D (vitamin D levels below 20 nanograms/mL) , placebo to 24 matched controls 
-*Active treatment corrected hypovitaminosis in all patients with final average vitamin D levels of 62 nanograms/mL versus 9 nanograms/mL in the placebo group. 
-+Note: Vitamin D levels would probably have been much higher if the trial had lasted longer 
-+Vitamin D half-life is 4-8 weeks.
-*Beneficial effects on bone metabolism were seen in the subgroup of patients who were NOT undergoing dialysis, but not in patients undergoing dialysis 
-!!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=813|Overview Kidney and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2758|Kidney Conference had many Vitamin D papers – May 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2720|Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1196|Adding Vitamin __decreased kidney deaths by 4x__ – Dec 2010]
-+It is amazing that such excellent results were buried in the paper. They were not in the title nor abstract.
-+This is the result of about 10 trials with about 5,000 kidney disease patients.
-+Note: some of the trials were terminated as they felt it was __~~#30F:morally wrong to not give vitamin D to all of the Kidney patients~~__
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=15&amp;amp;sort_mode=created_desc|All items in Kidney and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=15{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3073|Chronic Kidney Disease reduced with 3500 IU average vitamin D – RCT Aug 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3188|How often should I take 50000 IU of vitamin D]
-&lt;/code>
-&lt;/pre></description></item><item><title>Aortic Calcification 85 percent more likely if vitamin D level lower than 29 ng</title><link>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</link><pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!!ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
-│ inner_content: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
-│ │ inner_content: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`├── TextNode
-│ full_match: `\nKidney Research and Clinical Practice, Volume 31, Issue 2, Page A31\nMaria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni\n\nThe best biomarker of Vitamin D status is calcifediol `
-│ inner_content: `\nKidney Research and Clinical Practice, Volume 31, Issue 2, Page A31\nMaria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni\n\nThe best biomarker of Vitamin D status is calcifediol `├── LinkNode
-│ full_match: `[25(OH)D]`
-│ inner_content: `25(OH)D`
-│ url: `25(OH)D`
-│ children:
-│ ├── TextNode
-│ │ full_match: `25(OH)D`
-│ │ inner_content: `25(OH)D`├── TextNode
-│ full_match: `. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. \n\nBone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). \n- - - - - - - - - -\n`
-│ inner_content: `. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. \n\nBone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). \n- - - - - - - - - -\n`├── HeadingNode
-│ full_match: `!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
-│ │ inner_content: `Overview Cardiovascular and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1422`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Cardiovascular and Vitamin D`
-│ │ │ inner_content: `Overview Cardiovascular and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] `
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] `
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011]`
-│ │ inner_content: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1955`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
-│ │ │ inner_content: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D]`
-│ │ inner_content: `All items in Cardiovascular and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in Cardiovascular and Vitamin D`
-│ │ │ inner_content: `All items in Cardiovascular and Vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
-│ │ inner_content: `Arterial stiffness reduced with vitamin D intervention – June 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1787`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Arterial stiffness reduced with vitamin D intervention – June 2011`
-│ │ │ inner_content: `Arterial stiffness reduced with vitamin D intervention – June 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
-│ │ inner_content: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=376`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`
-│ │ │ inner_content: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
-│ │ inner_content: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2987`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`
-│ │ │ inner_content: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`├── TextNode
-│ full_match: `\n- - - - - - - - - - - - - - - - - - - - -\nNo associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), \nwhile we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). \n\nFurthermore, we found a `
-│ inner_content: `\n- - - - - - - - - - - - - - - - - - - - -\nNo associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), \nwhile we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). \n\nFurthermore, we found a `├── BoldNode
-│ full_match: `__OR 1.85__`
-│ inner_content: `OR 1.85`
-│ children:
-│ ├── TextNode
-│ │ full_match: `OR 1.85`
-│ │ inner_content: `OR 1.85`├── TextNode
-│ full_match: ` (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. \n\nDuring follow-up (2.7±0.5 years) mortality was of 19.9%. \n\nNo association was found between mortality and calcifediol levels (p=0.5394). \n\nIn conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification `
-│ inner_content: ` (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. \n\nDuring follow-up (2.7±0.5 years) mortality was of 19.9%. \n\nNo association was found between mortality and calcifediol levels (p=0.5394). \n\nIn conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification `
-
-Original Tiki:
--------------
-!!!ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.
-Kidney Research and Clinical Practice, Volume 31, Issue 2, Page A31
-Maria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni
-
-The best biomarker of Vitamin D status is calcifediol [25(OH)D]. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. 
-
-Bone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). 
-- - - - - - - - - -
-!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] 
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]
-- - - - - - - - - - - - - - - - - - - - -
-No associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), 
-while we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). 
-
-Furthermore, we found a __OR 1.85__ (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. 
-
-During follow-up (2.7±0.5 years) mortality was of 19.9%. 
-
-No association was found between mortality and calcifediol levels (p=0.5394). 
-
-In conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification 
-&lt;/code>
-&lt;/pre></description></item><item><title>Quarterly vitamin D3 is too infrequent – it increases the occurrence of pneumonia</title><link>/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia.html</link><pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia.html</guid><description>&lt;h3 id="is-quarterly-bolus-vitamin-d3-supplementation-adequate-to-prevent-childhood-pneumonia">Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dialysis on VitaminDWiki</title><link>/tags/dialysis.html</link><description>Recent content in Dialysis on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/dialysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Vitamin D review</title><link>/posts/vitamin-d-review.html</link><pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-review.html</guid><description>&lt;p>&lt;strong>Beneficial Effects of UV-Radiation: Vitamin D and beyond&lt;/strong>&lt;/p>
+&lt;p>International Journal of Environmental Research and Public Health; 2016,13,1028; doi:10.3390/ijerph13101028&lt;/p>
+&lt;p>Christian Trammer, Marlene Pandis 1, Nicolas Verheyen , Martin R. Grubler 1,s,&lt;/p>
+&lt;p>Martin Gaksch 1, Barbara Obermayer-Pietsch 1, Andreas Tomaschitz , Thomas R. Pieber 1, Stefan Pilz h* and Verena Schwetz 1&lt;/p>
+&lt;p>Division of Endocrinology and Diabetology, Department of Internal Medicine, Medical University of Graz, Auenbruggerplatz 15, Graz 8036, Austria; &lt;a href="mailto:christian.trummer@medunigraz.at">christian.trummer@medunigraz.at&lt;/a> (C.T.); &lt;a href="mailto:marlene.pandis@medunigraz.at">marlene.pandis@medunigraz.at&lt;/a> (M.P.); &lt;a href="mailto:martin.gruebler@gmx.net">martin.gruebler@gmx.net&lt;/a> (M.R.G.); &lt;a href="mailto:martin.gaksch@gmail.com">martin.gaksch@gmail.com&lt;/a> (M.G.); &lt;a href="mailto:barbara.obermayer@medunigraz.at">barbara.obermayer@medunigraz.at&lt;/a> (B.O.-P.); &lt;a href="mailto:thomas.pieber@medunigraz.at">thomas.pieber@medunigraz.at&lt;/a> (T.R.P.); &lt;a href="mailto:verena.schwetz@medunigraz.at">verena.schwetz@medunigraz.at&lt;/a> (V.S.)&lt;/p></description></item><item><title>Kidney failure – still debating what form of vitamin D to use</title><link>/posts/kidney-failure-still-debating-what-form-of-vitamin-d-to-use.html</link><pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/kidney-failure-still-debating-what-form-of-vitamin-d-to-use.html</guid><description>&lt;h4 id="pro-should-we-correct-vitamin-d-deficiencyinsufficiency-in-chronic-kidney-disease-patients-with-inactive-forms-of-vitamin-d-or-just-treat-them-with-active-vitamin-d-forms">Pro: Should we correct vitamin D deficiency/insufficiency in chronic kidney disease patients with inactive forms of vitamin D or just treat them with active vitamin D forms?&lt;/h4>
+&lt;p>Nephrology Dialysis Transplantation Volume 31, Issue 5Pp. 698-705.&lt;/p>
+&lt;p>David J.A. Goldsmith, &lt;a href="mailto:david.goldsmith@gstt.nhs.uk">david.goldsmith@gstt.nhs.uk&lt;/a>&lt;/p>
+&lt;p>Guy&amp;rsquo;s and St Thomas’ Hospitals, London, UK&lt;/p>
+&lt;p>Evidence for the usefulness of using vitamin D to treat ‘renal bone disease’ is now nearly six decades old. In regular clinical practice, however, it is more like three decades, at most, that we have routinely been using vitamin D to try to prevent, or reverse, the impact of hyperparathyroidism on the skeleton of patients with chronic kidney disease (CKD). The practice has been in the main to use high doses of synthetic vitamin D compounds, not naturally occurring ones. However, the pharmacological impacts of the different vitamin D species and of their different modes, and styles of administration cannot be assumed to be uniform across the spectrum. It is disappointingly true to say that even in 2016 there is a remarkable paucity of evidence concerning the clinical benefits of vitamin D supplementation to treat vitamin D insufficiency in patients with stage 3b–5 CKD. This is even more so if we consider the non-dialysis population. While there are a number of studies that report the impact of vitamin D supplementation on serum vitamin D concentrations (unsurprisingly, usually reporting an increase), and some variable evidence of parathyroid hormone concentration suppression, there has been much less focus on hard or semi-rigid clinical end point analysis (e.g. fractures, hospitalizations and overall mortality). Now, in 2016, with the practice pattern changes of first widespread clinical use of vitamin D and second widespread supplementation of cholecalciferol or ergocalciferol by patients (alone, or as multivitamins), it is now, in my view, next to impossible to run a placebo-controlled trial over a decent period of time, especially one which involved clinically meaningful (fractures, hospitalisation, parathyroidectomy, death) end-points. In this challenging situation, we need to ask what it is we are trying to achieve here, and how best to balance potential benefits with potential harm.&lt;/p></description></item><item><title>Vitamin D Receptor Activator might help treat or prevent various diseases</title><link>/posts/vitamin-d-receptor-activator-might-help-treat-or-prevent-various-diseases.html</link><pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-receptor-activator-might-help-treat-or-prevent-various-diseases.html</guid><description>&lt;h4 id="pubmed-vitamin-d-receptor-activator-httpwwwncbinlmnihgovpubmedterm22vitamindreceptoractivator22-89-items-as-of-oct-2018">&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=%22Vitamin+D+Receptor+Activator+%22">PubMed: &amp;ldquo;Vitamin D Receptor Activator &amp;ldquo;&lt;/a> 89 items as of Oct 2018&lt;/h4>
+&lt;hr>
+&lt;h4 id="predialysis-vitamin-d-receptor-activator-treatment-and-cardiovascular-events-after-dialysis-initiation-a-multicenter-observational-study--april-2016">Predialysis Vitamin D Receptor Activator Treatment and Cardiovascular Events after Dialysis Initiation: A Multicenter Observational Study – April 2016&lt;/h4>
+&lt;p>Nephron, (DOI:10.1159/000445507)&lt;/p>
+&lt;p>Inaguma D. · Tanaka A. · Shinjo H. · Kato A. · Murata M. · Aichi cohort study of prognosis in patients newly initiated into dialysis (AICOPP) group&lt;/p>
+&lt;p>Department of Nephrology, Japanese Red Cross Nagoya Daini Hospital, Nagoya, Japan&lt;/p></description></item><item><title>Pregnancy and placenta: benefits of vitamin D – 2010</title><link>/posts/pregnancy-and-placenta-benefits-of-vitamin-d-2010.html</link><pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/pregnancy-and-placenta-benefits-of-vitamin-d-2010.html</guid><description>&lt;h4 id="vitamin-d-effects-on-pregnancy-and-the-placenta">Vitamin D effects on pregnancy and the placenta&lt;/h4>
+&lt;p>J.S. Shina,b, M.Y. Choib, M.S. Longtineb, D.M. Nelson b &lt;a href="mailto:nelsondm@wudosis.wustl.edu">nelsondm@wudosis.wustl.edu&lt;/a>&lt;/p>
+&lt;p>a Department of Obstetrics and Gynecology, CHA University School of Medicine, Seoul, Republic of Korea b Department of Obstetrics and Gynecology, Washington University School of Medicine, 4566 Scott Ave, St. Louis, MO 63110, USA&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/healthy-pregnancies-need-lots-of-vitamin-d">Healthy pregnancies need lots of vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/the-placenta-and-vitamin-d">The placenta and vitamin D – July 2012&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=placenta&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for PLACENTA&lt;/a> 339 items as of Aug 2016&lt;/p></description></item><item><title>Vitamin D – millions of years more ancient than Calcium</title><link>/posts/vitamin-d-millions-of-years-more-ancient-than-calcium.html</link><pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-millions-of-years-more-ancient-than-calcium.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-a-dynamic-molecule-how-relevant-might-the-dynamism-for-a-vitamin-be">Vitamin D: a dynamic molecule. How relevant might the dynamism for a vitamin be?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#history-of-vitamin-by-lorenz-borsche---written-to-a-friend---march-2022">History of Vitamin by Lorenz Borsche - written to a friend - March 2022&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-a-dynamic-molecule-how-relevant-might-the-dynamism-for-a-vitamin-be">Vitamin D: a dynamic molecule. How relevant might the dynamism for a vitamin be?&lt;/h4>
+&lt;p>Nephrology Dialysis Transplantation Volume 31, Issue 1Pp. 23-30.&lt;/p>
+&lt;p>Sandro Mazzaferro1, &lt;a href="mailto:sandro.mazzaferro@uniroma1.it">sandro.mazzaferro@uniroma1.it&lt;/a> and Marzia Pasquali1&lt;/p>
+&lt;p>1Department of Cardiovascular Respiratory Nephrologic Anesthetic and Geriatric Sciences, Sapienza University of Rome, Rome, Italy&lt;/p></description></item><item><title>Congenital Heart problems - vitamin D levels drop even lower after surgery, loading dose probably required - thesis 2015</title><link>/posts/congenital-heart-problems-vitamin-d-levels-drop-even-lower-after-surgery-loading-red-thesis-2015.html</link><pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/congenital-heart-problems-vitamin-d-levels-drop-even-lower-after-surgery-loading-red-thesis-2015.html</guid><description>&lt;h4 id="table-of-contents-in-thesis">Table of contents in thesis&lt;/h4>
+&lt;p>&lt;strong>Chapter 1 - Thesis overview&lt;/strong>&lt;/p>
+&lt;p>Summary&lt;/p>
+&lt;p>Hypotheses&lt;/p>
+&lt;p>Objectives&lt;/p>
+&lt;p>Global Objectives&lt;/p>
+&lt;p>Specific Objectives for the thesis&lt;/p>
+&lt;p>Presentation of thesis work	3&lt;/p>
+&lt;p>&lt;strong>Chapter 2 - Background&lt;/strong>&lt;/p>
+&lt;p>Population and problem	5&lt;/p>
+&lt;p>Overview of Vitamin D	5&lt;/p>
+&lt;p>Vitamin D axis&lt;/p>
+&lt;p>Evaluation of vitamin D status&lt;/p>
+&lt;p>Vitamin D deficiency in CHD	patients	7&lt;/p>
+&lt;p>Factors contributing to post-operative VDD	9&lt;/p>
+&lt;p>Primary vitamin D deficiency&lt;/p>
+&lt;p>Secondary vitamin D deficiency&lt;/p>
+&lt;p>Role of vitamin D deficiency in	CHD patients	11&lt;/p></description></item><item><title>Chronic Kidney Disease not treated by 1400 IU of vitamin D</title><link>/posts/chronic-kidney-disease-not-treated-by-1400-iu-of-vitamin-d.html</link><pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/chronic-kidney-disease-not-treated-by-1400-iu-of-vitamin-d.html</guid><description>&lt;h3 id="vitamin-d-status-and-cholecalciferol-supplementation-in-chronic-kidney-disease-patients-an-italian-cohort-report">Vitamin D status and cholecalciferol supplementation in chronic kidney disease patients: an Italian cohort report&lt;/h3>
+&lt;p>International Journal of Nephrology and Renovascular Disease November 2015 Volume 2015:8 Pages 151—157&lt;/p>
+&lt;p>Cupisti A, Vigo V, Baronti ME, D’Alessandro C, Ghiadoni L, Egidi MF&lt;/p>
+&lt;p>Nephrology, Transplant and Dialysis Division, AOUP, Department of Clinical and Experimental Medicine, University of Pisa, Pisa, Italy&lt;/p>
+&lt;p>This study investigated the factors associated with hypovitaminosis D, in a cohort of 405 prevalent patients with chronic kidney disease (CKD) stages 2–4, living in Italy and followed-up in tertiary care.&lt;/p></description></item><item><title>Vitamin D papers from European Vitamin D Association Conference</title><link>/posts/vitamin-d-papers-from-european-vitamin-d-association-conference.html</link><pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-papers-from-european-vitamin-d-association-conference.html</guid><description>&lt;p>Most of the ENGLISH presentations of the conference follow&lt;/p>
+&lt;p>Polish Presentations and Polish abstracts are in the &lt;span>[dl3144]&lt;/span>&lt;/p>
+&lt;p>Graphics and table are generally in the &lt;span>[dl3144]&lt;/span>&lt;/p>
+&lt;p>References are generally in the &lt;span>[dl3144]&lt;/span> as well&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-update-2015-what-we-need-to-know-about-its-health-benefits-and-potential-for-toxicity">Vitamin D Update 2015: What We Need to Know about Its Health Benefits and Potential for Toxicity?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanskin-synthesis-of-vitamin-d---pros-and-consspan-english-abstract">&lt;span>[Skin synthesis of vitamin D - pros and cons]&lt;/span> English Abstract&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#nutritional-rickets---global-guidelines-for-prevention-and-treatment">Nutritional Rickets - global guidelines for prevention and treatment&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-role-of-vitamin-d-supplementation-in-treating-health-conditions-and-diseases-common-among-those-with-intellectual-andor-developmental-disabilities">The role of vitamin D supplementation in treating health conditions and diseases common among those with intellectual and/or developmental disabilities&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanvitamin-d-in-dermatologists-practicespan-english-abstract">&lt;span>[Vitamin D in dermatologists&amp;rsquo; practice]&lt;/span> English abstract&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-role-of-vdr-gene-polymorphisms-in-basal-cell-carcinoma-development">The role of VDR gene polymorphisms in basal cell carcinoma development&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-melanoma">Vitamin D and melanoma&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#potential-use-of-vitamin-d-analogs-in-the-treatment-of-skin-diseases">Potential use of vitamin D analogs in the treatment of skin diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#biomarkers-of-vitamin-d-metabolism-current-state-of-knowledge">Biomarkers of Vitamin D Metabolism: Current State of Knowledge&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#standardization-of-vitamin-d-assays">Standardization of Vitamin D Assays:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#assays-for-vitamin-d-metabolites-performance-in-the-real-world">Assays for vitamin D metabolites; performance in the real world&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#comparison-of-two-immunoassays-for-vitamin-d-measurement-is-age-a-confounder">Comparison of two immunoassays for vitamin D measurement is age a confounder?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pleiotropic-action-of-vitamin-d-in-light-of-recent-meta-analyzes">Pleiotropic action of vitamin D in light of recent meta-analyzes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-requirements-during-pregnancy-and-lactation">Vitamin D Requirements during Pregnancy and Lactation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#25-hydroxyvitamin-d-insufficiency-in-extraskeletal-diseases">25-hydroxyvitamin D insufficiency in extraskeletal diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-cardiovascular-disorders">Vitamin D and Cardiovascular disorders&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#endothelial-function-and-pulse-wave-velocity-in-patients-with-chronic-heart-failure-and-d-deficiency">Endothelial function and pulse wave velocity in patients with chronic heart failure and D-deficiency&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-insufficiency-in-young-children-in-russia-the-results-of-the-multicentre-cohort-study-rodnichok-2013-2014">Vitamin D Insufficiency in Young Children in Russia: the Results of the Multicentre Cohort Study RODNICHOK (2013-2014)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-in-residents-of-belarus-analysis-of-the-three-year-data">Vitamin D status in residents of Belarus: analysis of the three-year data&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-correction-in-elderly-people">Vitamin D deficiency correction in elderly people&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#span-stylecolorf00postersspan">&lt;span style="color:#F00;">POSTERS&lt;/span>&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-status-in-north-west-russian-region">Vitamin D status in north-west russian region&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-ways-of-vitamin-d-deficiency-correction-in-ukraine">The ways of vitamin d deficiency correction in ukraine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#high-dose-vitamin-d3-supplementation-as-a-novel-strategy-in-clinical-management-of-wintertime-preeclampsia">High-dose vitamin D3 supplementation as a novel strategy in clinical management of wintertime preeclampsia&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#association-of-bsmi-polymorphism-of-vdr-gene-with-vitamin-d-status-in-children-with-vitamin-d---deficient-rickets">Association of BsmI polymorphism of VDR gene with vitamin D status in children with vitamin D - deficient rickets&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-levels-may-influence-microarchitecture-of-bone-tissue-in-men">Vitamin D levels may influence microarchitecture of bone tissue in men&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ameliorative-effect-of-vitamin-d3-against-liver-disorders-and-impaired-bone-remodeling-associated-with-experimental-type-1-diabetes">Ameliorative effect of vitamin D3 against liver disorders and impaired bone remodeling associated with experimental type 1 diabetes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-and-inflammation-in-copd-patients-preliminary-findings-from-a-seasonal-observation-study">Vitamin D status and inflammation in COPD patients: preliminary findings from a seasonal observation study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effect-of-a-primary-prevention-program-incorporating-vitamin-and-mineral-supplementation-on-glycemic-status-an-observational-study">Effect of a primary prevention program incorporating vitamin and mineral supplementation on glycemic status: an observational study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation---positive-effects-on-lipid-profile-in-patients-with-hypertension">Vitamin D supplementation - positive effects on lipid profile in patients with hypertension&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-effects-of-a-preventive-health-program-and-vitamin-d-status-on-metabolic-syndrome">The Effects of a Preventive Health Program and Vitamin D Status on Metabolic Syndrome&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#serum-vitamin-d-status-a-threat-neither-for-hypercalcemia-nor-for-inflammation">Serum Vitamin D Status, a Threat neither for Hypercalcemia nor for Inflammation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#synthesis-of-novel-vitamin-d-analogs-and-their-biological-evaluation">Synthesis of novel vitamin D analogs and their biological evaluation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tissue-in-children-with-ergocalciferol-deficiency-in-anamnesis">Tissue in children with ergocalciferol deficiency in anamnesis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#correlation-between-vitamin-d-level-and-behcets-disease-activity-in-patients-in-west-region-of-ukraine">Correlation between Vitamin D level and Behcet&amp;rsquo;s disease activity in patients in West region of Ukraine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dynamics-of-the-vitamin-d-and-of-the-bones-metabolism-other-indicators-in-the-pregnant-women-with-perinatal-infection">Dynamics of the vitamin D and of the bone&amp;rsquo;s metabolism other indicators in the pregnant women with perinatal infection&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-intakes-among-pregnant-women-in-an-urban-and-rural-population-of-western-ukraine">Vitamin d intakes among pregnant women in an urban and rural population of Western Ukraine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-curious-situation-of-europeans-and-vitamin-d---an-environmental-mismatch">The Curious Situation of Europeans and Vitamin D - an Environmental Mismatch?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-among-healthy-infants-in-poland---assessment-based-on-randomly-selected-sample-from-the-population">Vitamin D status among healthy infants in Poland - assessment based on randomly selected sample from the population&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-protective-effect-of-vitamin-d3-against-prednisolone-induced-liver-injury-in-rats">The protective effect of vitamin D3 against prednisolone-induced liver injury in rats&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effect-of-cholecalciferol-on-plasma-rennin-activity-in-women-with-arterial-hypertension-in-premenopausal-and-early-postmenopausal-periods">Effect of cholecalciferol on plasma rennin activity in women with arterial hypertension in premenopausal and early postmenopausal periods&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#multiple-mechanisms-by-which-both-vitamin-d-deficiency-and-toxicity-affect-cardiovascular-health">Multiple mechanisms by which both vitamin D deficiency and toxicity affect cardiovascular health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-undifferentiated-connective-tissue-dysplasia-provide-the-vitamin-d3-for-adolescent-children">The undifferentiated connective tissue dysplasia provide the vitamin D3 for adolescent children&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#prevalence-of-25-hydroxyvitamin-d-deficiency-in-children-on-dialysis-and-after-kidney-transplantation">Prevalence of 25-Hydroxyvitamin D Deficiency in Children on Dialysis and After Kidney Transplantation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-in-children-with-bronchial-asthma">Vitamin D status in children with bronchial asthma&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#prevalence-of-vitamin-d-deficiency-in-adult-outpatients-with-schizophrenia-or-bipolar-disorder">Prevalence of vitamin D deficiency in adult outpatients with schizophrenia or bipolar disorder&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#rickets-in-premature-infants-with-very-low-birth-weight-clinical-features-and-course-of-the-disease">Rickets in Premature Infants with Very Low Birth Weight: Clinical Features and Course of the Disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-undifferentiated-connective-tissue-dysplasia-provide-the-vitamin-d3-for-adolescent-children-1">The undifferentiated connective tissue dysplasia provide the vitamin D3 for adolescent children&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#influence-of-125oh2d3-and-its-derivatives---pri-2191-and-pri-2205">Influence of 1,25(OH)2D3 and its derivatives - PRI-2191 and PRI-2205&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-in-patients-with-subclinical-and-overt-hypothyroidism">Vitamin d deficiency in patients with subclinical and overt hypothyroidism&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d3-supplementation-using-an-oral-spray-solution-resolves-deficiency-but-has-no-significant-effect-on-vo2max-in-gaelic-athletes-results-from-a-randomised-doubleblind-placebo-controlled-trial__">Vitamin D3 supplementation using an oral spray solution resolves deficiency but has no significant effect on VO2max in Gaelic athletes:** results from a randomised, doubleblind, placebo-controlled trial__&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-obesity-and-associated-vitamin-d-status-in-pregnancy-data-from-the-fasstt-study">Maternal obesity and associated vitamin D status in pregnancy: data from the FASSTT study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#immunoglobulin-g-in-children-with-recurrent-respiratory-infections">immunoglobulin G in children with recurrent respiratory infections&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-cancer-diseases">Vitamin d and cancer diseases&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#correction-of-hypovitaminosis-d-with-vitamin-d-supplements-in-patients-with-psoriasis">Correction of hypovitaminosis D with vitamin D supplements in patients with psoriasis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#association-between-vitamin-d-and-lipid-accumulation-product-in-community-dwelling-elderly-persons">Association Between Vitamin D and Lipid Accumulation Product in Community Dwelling Elderly Persons&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementary-intake-throughout-3rd-trimester-of-pregnancy">Vitamin D supplementary intake throughout 3rd trimester of pregnancy&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#evaluation-of-the-current-vitamin-d-content-of-ni-milk-and-its-efficacy-to-increase-vitamin-d-intake-of-the-population-through-fortification">Evaluation of the current vitamin D content of NI milk and its efficacy to increase vitamin D intake of the population through fortification&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#can-vitamin-d-influence-bmd-in-hyperthyroid-patients-with-and-without-silent-vertebral-fractures">Can Vitamin D influence BMD in hyperthyroid patients with and without silent vertebral fractures?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h4 id="vitamin-d-update-2015-what-we-need-to-know-about-its-health-benefits-and-potential-for-toxicity">Vitamin D Update 2015: What We Need to Know about Its Health Benefits and Potential for Toxicity?&lt;/h4>
+&lt;p>Michael F. Holick&lt;/p></description></item><item><title>Magnesium in Prevention and Therapy – (28 pages)</title><link>/posts/magnesium-in-prevention-and-therapy-28-pages.html</link><pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/magnesium-in-prevention-and-therapy-28-pages.html</guid><description>&lt;p>Nutrients ISSN 2072-6643&lt;/p>
+&lt;p>Uwe Grober &lt;a href="mailto:uwegroeber@gmx.net">uwegroeber@gmx.net&lt;/a> , Joachim Schmidt1 and Klaus Kisters 1,2&lt;/p>
+&lt;p>Academy of Micronutrient Medicine, Essen 45130, Germany;&lt;/p>
+&lt;p>E-Mails: &lt;a href="mailto:Prof.schmidt.dd@t-online.de">Prof.schmidt.dd@t-online.de&lt;/a> (J.S.); &lt;a href="mailto:kisters@annahospital.de">kisters@annahospital.de&lt;/a> (K.K.)&lt;/p>
+&lt;p>Department of Internal Medicine I, St. Anna-Hospital, Herne 44649, Germany&lt;/p>
+&lt;p>Received: 18 June 2015 /Accepted: 11 September 2015 /Published: 23 September 2015&lt;/p>
+&lt;p>Abstract:&lt;/p>
+&lt;p>Magnesium is the fourth most abundant mineral in the body. It has been recognized as a cofactor for more than 300 enzymatic reactions, where it is crucial for adenosine triphosphate (ATP) metabolism. Magnesium is required for DNA and RNA synthesis, reproduction, and protein synthesis. Moreover, magnesium is essential for the regulation of muscular contraction, blood pressure, insulin metabolism, cardiac excitability, vasomotor tone, nerve transmission and neuromuscular conduction. Imbalances in magnesium status—primarily hypomagnesemia as it is seen more common than hypermagnesemia—might result in unwanted neuromuscular, cardiac or nervous disorders. Based on magnesium&amp;rsquo;s many functions within the human body, it plays an important role in prevention and treatment of many diseases. Low levels of magnesium have been associated with a number of chronic diseases, such as Alzheimer’s disease, insulin resistance and type-2 diabetes mellitus, hypertension, cardiovascular disease (e.g., stroke), migraine headaches, and attention deficit hyperactivity disorder (ADHD).&lt;/p></description></item><item><title>Vitamin D, Calcium and protein very important to bone health</title><link>/posts/vitamin-d-calcium-and-protein-very-important-to-bone-health.html</link><pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-calcium-and-protein-very-important-to-bone-health.html</guid><description>&lt;p>&lt;strong>Life-course approach to nutrition&lt;/strong>&lt;/p>
+&lt;p>Osteoporos Int DOI 10.1007/s00198-015-3288-6&lt;/p>
+&lt;p>P. J. Mitchell1,2 • C. Cooper3,4 • B. Dawson-Hughes • C. M. Gordon • R. Rizzoli, &lt;a href="mailto:cc@mrc.soton.ac.uk">cc@mrc.soton.ac.uk&lt;/a>&lt;/p>
+&lt;p>Synthesis Medical NZ Ltd, Auckland, New Zealand&lt;/p>
+&lt;p>University of Notre Dame Australia, Sydney, Australia&lt;/p>
+&lt;p>NIHR Musculoskeletal Biomedical Research Unit, Nuffield Dept of Orthopaedics, Rheumatology and Musculoskeletal Sciences, U. of Oxford, Oxford, UK&lt;/p>
+&lt;p>MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton General Hospital, Southampton, UK&lt;/p>
+&lt;p>Jean Mayer USDA Human Nutrition Research Center on Aging, Tufts University, Boston, MA, USA&lt;/p></description></item><item><title>Vitamin D Binding Protein</title><link>/posts/vitamin-d-binding-protein.html</link><pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-binding-protein.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-binding-protein-and-its-gene-polymorphisms-the-risk-of-malignant-tumors-and-other-diseases---oct-2020">Vitamin D Binding Protein and Its Gene Polymorphisms —The Risk of Malignant Tumors and Other Diseases - Oct 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#low-response-to-vitamin-d-can-be-improved-in-many-ways">Low response to Vitamin D can be improved in many ways&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-binding-protein-mutations-are-not-noticed-by-the-vitamin-d-test--march-2024">Vitamin D Binding Protein mutations are not noticed by the Vitamin D Test – March 2024&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-binding-protein-and-its-gene-polymorphisms-the-risk-of-malignant-tumors-and-other-diseases---oct-2020">Vitamin D Binding Protein and Its Gene Polymorphisms —The Risk of Malignant Tumors and Other Diseases - Oct 2020&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/vdbp1.jpg" alt="image" width="800">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/vdbp2.jpg" alt="image" width="800">
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/vdbp-tumors-etc..pdf">PDF &lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Graph of weekly response to monthly vitamin D supplementation</title><link>/posts/graph-of-weekly-response-to-monthly-vitamin-d-supplementation.html</link><pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/graph-of-weekly-response-to-monthly-vitamin-d-supplementation.html</guid><description>&lt;h4 id="kinetics-of-serum-25-hydroxyvitamin-d-in-haemodialysis-patients-treated-with-monthly-oral-cholecalciferol">Kinetics of serum 25-hydroxyvitamin D in haemodialysis patients treated with monthly oral cholecalciferol.&lt;/h4>
+&lt;p>Clin Kidney J. 2015 Aug;8(4):388-92. &lt;a href="https://doi.org/10.1093/ckj/sfv052.">doi: 10.1093/ckj/sfv052.&lt;/a> Epub 2015 Jun 30.&lt;/p>
+&lt;p>Jean G1, Souberbielle JC2, Lechevallier S3, Chazot C1.&lt;/p>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>We previously reported that oral cholecalciferol (CCF) (100 000 IU) taken monthly by haemodialysis patients is effective in accomplishing serum 25-hydroxyvitamin D (25-D) levels &amp;gt;75 nmol/L in &amp;gt;80% of cases. We aimed to study the weekly kinetecs of serum 25-D in HD patients receiving oral CCF during the first 6 months of HD.&lt;/p></description></item><item><title>Links between Vitamin D Deficiency and Cardiovascular Diseases</title><link>/posts/links-between-vitamin-d-deficiency-and-cardiovascular-diseases.html</link><pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/links-between-vitamin-d-deficiency-and-cardiovascular-diseases.html</guid><description>&lt;p>Biomed Res Int. 2015;2015:109275. Epub 2015 Apr 27.&lt;/p>
+&lt;p>Mozos I1, Marginean O2&lt;/p>
+&lt;p>1 Department of Functional Sciences, &amp;ldquo;Victor Babes&amp;rdquo; University of Medicine and Pharmacy, 300173 Timisoara, Romania.&lt;/p>
+&lt;p>2 Department of Pediatrics, &amp;ldquo;Victor Babes&amp;rdquo; University of Medicine and Pharmacy, 300173 Timisoara, Romania.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
+&lt;p>&lt;a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D&lt;/a>&lt;/p></description></item><item><title>ICU death 2X more likely if low vitamin D (sensitivity and selectivity chart)</title><link>/posts/icu-death-2x-more-likely-if-low-vitamin-d-sensitivity-and-selectivity-chart.html</link><pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/icu-death-2x-more-likely-if-low-vitamin-d-sensitivity-and-selectivity-chart.html</guid><description>&lt;h3 id="vitamin-d-deficiency-is-independently-associated-with-mortality-among-critically-ill-patients">Vitamin D deficiency is independently associated with mortality among critically ill patients&lt;/h3>
+&lt;p>Clinics vol.70 no.5 São Paulo May 2015 Epub May 2015,&lt;/p>
+&lt;p>&lt;a href="http://dx.doi.org/10.6061/clinics/2015(05)04">http://dx.doi.org/10.6061/clinics/2015(05)04&lt;/a>&lt;/p>
+&lt;p>Rafael Barberena MoraesI*, Gilberto FriedmanI, Iuri Christmann WawrzeniakI, Leonardo S. MarquesI, Fabiano Márcio NagelI, Thiago Costa LisboaI, Mauro Antonio CzepielewskiII&lt;/p>
+&lt;p>IUniversidade Federal do Rio Grande do Sul, Department of Internal Medicine, Division of Critical Care Medicine, Porto Alegre/RS, Brazil&lt;/p>
+&lt;p>IIUniversidade Federal do Rio Grande do Sul, Hospital de Clínicas de Porto Alegre, Department of Internal Medicine, Division of Endocrinology, Porto Alegre/RS, Brazil.&lt;/p></description></item><item><title>Vitamin D video: calcification, narrow-band UV, 4,000 IU, 50 ng – Dr. DeLuca</title><link>/posts/vitamin-d-video-calcification-narrow-band-uv-4000-iu-50-ng-dr-deluca.html</link><pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-video-calcification-narrow-band-uv-4000-iu-50-ng-dr-deluca.html</guid><description>&lt;h4 id="vitamin-d-a-pharmaceutical-fountain---with-hector-delucahttpsvimeocom128651420">&lt;a href="https://vimeo.com/128651420">Vitamin D: A Pharmaceutical Fountain - with Hector DeLuca&lt;/a>&lt;/h4>
+&lt;p>Vimeo, 60 minute talk, 29 minute Q&amp;amp;A&lt;/p>
+&lt;p>Renowned biochemist and Wisconsin Academy Fellow Hector DeLuca discusses the profound application of vitamin D in medicine, including new treatments in the areas of immunity and autoimmunity, in this special Wisconsin Academy Talk.&lt;/p>
+&lt;p>DeLuca shares insight from a career devoted to the research of vitamin D and physiological events linked to the function of this vitamin. Among the most important research activities in his laboratory has been the synthesis of tissue-specific analogs of vitamin D for the treatment of diseases. DeLuca&amp;rsquo;s group has produced eight pharmaceuticals that are used for the treatment of diseases, including osteoporosis, vitamin D-resistant rickets, and bone diseases linked to kidney failure.&lt;/p></description></item><item><title>Cardiovascular Diseases and Vitamin D – Review</title><link>/posts/cardiovascular-diseases-and-vitamin-d-review.html</link><pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate><guid>/posts/cardiovascular-diseases-and-vitamin-d-review.html</guid><description>&lt;p>&lt;strong>Links between Vitamin D Deficiency and Cardiovascular Diseases - Review Article&lt;/strong>&lt;/p>
+&lt;p>BioMed Research International, Volume 2015 (2015), Article ID 109275, 12 pages&lt;/p>
+&lt;p>&lt;a href="http://dx.doi.org/10.1155/2015/109275">http://dx.doi.org/10.1155/2015/109275&lt;/a>&lt;/p>
+&lt;p>Ioana Mozos 1 and Otilia Marginean 2&lt;/p>
+&lt;p>1Department of Functional Sciences, “Victor Babes” University of Medicine and Pharmacy, 300173 Timisoara, Romania&lt;/p>
+&lt;p>2Department of Pediatrics, “Victor Babes” University of Medicine and Pharmacy, 300173 Timisoara, Romania&lt;/p>
+&lt;p>Received 31 October 2014; Accepted 8 February 2015&lt;/p>
+&lt;p>&lt;strong>Abstract&lt;/strong>&lt;/p>
+&lt;p>The aim of the present paper was to review the most important mechanisms explaining the possible association of vitamin D deficiency and cardiovascular diseases, focusing on recent experimental and clinical data. Low vitamin D levels favor atherosclerosis enabling vascular inflammation, endothelial dysfunction, formation of foam cells, and proliferation of smooth muscle cells. The antihypertensive properties of vitamin D include suppression of the renin-angiotensin-aldosterone system, renoprotective effects, direct effects on endothelial cells and calcium metabolism, inhibition of growth of vascular smooth muscle cells, prevention of secondary hyperparathyroidism, and beneficial effects on cardiovascular risk factors. Vitamin D is also involved in glycemic control, lipid metabolism, insulin secretion, and sensitivity, explaining the association between vitamin D deficiency and metabolic syndrome. Vitamin D deficit was associated in some studies with the number of affected coronary arteries, postinfarction complications, inflammatory cytokines and cardiac remodeling in patients with myocardial infarction, direct electromechanical effects and inflammation in atrial fibrillation, and neuroprotective effects in stroke. In peripheral arterial disease, vitamin D status was related to the decline of the functional performance, severity, atherosclerosis and inflammatory markers, arterial stiffness, vascular calcifications, and arterial aging. Vitamin D supplementation should further consider additional factors, such as phosphates, parathormone, renin, and fibroblast growth factor 23 levels.&lt;/p></description></item><item><title>Gallbladder performs poorly during pregnancy if low vitamin D</title><link>/posts/gallbladder-performs-poorly-during-pregnancy-if-low-vitamin-d.html</link><pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate><guid>/posts/gallbladder-performs-poorly-during-pregnancy-if-low-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-deficiency-is-associated-with-gallbladder-stasis-among-pregnant-women">Vitamin-D Deficiency Is Associated with Gallbladder Stasis Among Pregnant Women&lt;/h4>
+&lt;p>Digestive Diseases and Sciences, May 2015&lt;/p>
+&lt;p>Rimpi Singla, Usha Dutta, Neelam Aggarwal, Sanjay Kumar Bhadada, Rakesh Kochhar, Lakhbir K. Dhaliwal&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:550px">
+&lt;p>&lt;strong>20%&lt;/strong> of pregnant women with low vitamin D had Gallbladder Statis&lt;/p>
+&lt;p>&lt;strong>0%&lt;/strong> of pregnant women with adequate vitamin D had Gallbladder Stasis&lt;/p>
+&lt;p>&lt;strong>See also VitaminDWiki&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="/posts/gallbladder-removal-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency">Gallbladder removal and vitamin D deficiency&lt;/a>&lt;/p></description></item><item><title>Blacks have 4X more Kidney disease than whites – probably due to low vitamin D</title><link>/posts/blacks-have-4x-more-kidney-disease-than-whites-probably-due-to-low-vitamin-d.html</link><pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/blacks-have-4x-more-kidney-disease-than-whites-probably-due-to-low-vitamin-d.html</guid><description>&lt;h3 id="kidney-failure-a-leading-cause-of-death-in-african-americanshttpbaystatebannercomnews2015mar18kidney-failure-leading-cause-death-african-america-bay-state-banner">&lt;a href="http://baystatebanner.com/news/2015/mar/18/kidney-failure-leading-cause-death-african-america/">Kidney failure: A leading cause of death in African Americans&lt;/a> Bay State Banner&lt;/h3>
+&lt;ul>
+&lt;li>“The problem is that kidney disease is initially silent. Damage progresses slowly and quietly through five stages. Stage 5 is considered end-stage kidney failure. At that point, only two procedures — dialysis or transplantation — can keep a person alive.”&lt;/li>
+&lt;/ul>
+&lt;p>Dark skin ==&amp;gt; Low Vitamin D&lt;/p>
+&lt;p>Smoking ==&amp;gt; Low Vitamin D&lt;/p>
+&lt;p>Obesity ==&amp;gt; Low Vitamin D&lt;/p>
+&lt;p>Low vitamin D ==&amp;gt; Diabetes ==&amp;gt; Kidney failure&lt;/p></description></item><item><title>Kidney disease helped by active or high dose Vitamin D</title><link>/posts/kidney-disease-helped-by-active-or-high-dose-vitamin-d.html</link><pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/kidney-disease-helped-by-active-or-high-dose-vitamin-d.html</guid><description>&lt;h4 id="the-beneficial-impact-of-vitamin-d-treatment-in-ckd-patients-whats-next---editorial-comment">The beneficial impact of vitamin D treatment in CKD patients: what&amp;rsquo;s next? - Editorial Comment&lt;/h4>
+&lt;p>Clin Kidney J (2015) 8:38-40 &lt;a href="https://doi.org/10.1093/ckj/sfu135">doi: 10.1093/ckj/sfu135&lt;/a>&lt;/p>
+&lt;p>Patients with chronic kidney disease (CKD) have markedly higher rates of severe vitamin D deficiency and reduced ability to convert 25-(OH)vitamin D into the active form, 1,25-dihydroxyvitamin D &lt;sup>[1]&lt;/sup>. In the setting of CKD, secondary hyperparathyroidism develops as a consequence of reduced renal production of active vitamin D and phosphate retention resulting in hypocalcaemia and hyperpho- sphataemia. This is a process that is dangerously linked with metabolic bone disease, arterial calcifications and cardiovascular mortality &lt;sup>[2]&lt;/sup>. Therefore, the conventional rationale for vitamin D treatment in CKD is to slow the progression of secondary hyperparathyroidism.&lt;/p></description></item><item><title>Calcitriol (active Vitamin D) recommended after kidney transplant</title><link>/posts/calcitriol-active-vitamin-d-recommended-after-kidney-transplant.html</link><pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/calcitriol-active-vitamin-d-recommended-after-kidney-transplant.html</guid><description>&lt;h3 id="therapeutic-use-of-calcitriol">Therapeutic use of calcitriol.&lt;/h3>
+&lt;p>Curr Vasc Pharmacol. 2014 Mar;12(2):294-9.&lt;/p>
+&lt;p>Rodriguez M, Munoz-Castaneda JR, Almaden Y1.&lt;/p>
+&lt;p>The synthesis of 1α,25-dihydroxyvitamin D3 (Calcitriol) takes place mostly in the kidneys through the action of 1α-hydroxylase (CYP27B1) which converts 25(OH)D into 1,25(OH)2D3. Renal production of calcitriol is stimulated by PTH, low calcium and low phosphate and it is reduced by high phosphate and FGF23. Binding of 1α,25-dihydroxyvitamin D3 to its receptor (VDR) causes gut absorption of calcium and phosphate, decrease in PTH synthesis, stimulation of FGF23. At the bone level calcitriol suppresses pre-osteoblasts and activates mature osteoblasts. VDR is present in a large variety of cells that do not have any direct role in the regulation of mineral metabolism. Calcitriol regulates immune and inflammatory response, cell turnover, cell differentiation, Renin production, reduces proteinuria and others. In patients with Chronic Kidney Disease (CKD) there is a decrease in calcitriol that is apparent at early stages of renal disease; this is probably due to the elevation of FGF23 which is present since very early stage of CKD. In CKD stage, 3-4 moderate doses of calcitriol are effective to control secondary hyperparathyroidism and observational studies suggest that calcitriol therapy increases survival and slows the progression of renal disease as long as phosphate and calcium levels are controlled. Calcitriol (0.5 µg calcitriol twice per week) has been effective in decreasing proteinuria in patients with IgA nephropathy. In dialysis patients, the administration of calcitriol reduces serum PTH levels but it is also known that high doses of calcitriol are associated with hypercalcemia and worse control of hyperphosphatemia.&lt;/p></description></item><item><title>Peritoneal Dialysis nicely treated by active vitamin D</title><link>/posts/peritoneal-dialysis-nicely-treated-by-active-vitamin-d.html</link><pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/peritoneal-dialysis-nicely-treated-by-active-vitamin-d.html</guid><description>&lt;h4 id="treatment-with-oral-active-vitamin-d-is-associated-with-decreased-risk-of-peritonitis-and-improved-survival-in-patients-on-peritoneal-dialysis">Treatment with Oral Active Vitamin D Is Associated with Decreased Risk of Peritonitis and Improved Survival in Patients on Peritoneal Dialysis&lt;/h4>
+&lt;h3 id="chart-was-created-from-study-data">Chart was created from study data&lt;/h3>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/kerschbaum.jpg" alt="image">
+&lt;p>PLOS One 2013DOI: 10.1371/journal.pone.0067836&lt;/p>
+&lt;p>Julia Kerschbaum, Andreas Vychytil, Karl Lhotta, Friedrich C. Prischl, Martin Wiesholzer, Veronika Machhold-Fabrizii, Gertrude Kopriva-Altfahrt, Christoph Schwarz, Peter Balcke, Rainer Oberbauer, Reinhard Kramar, Paul König, Michael Rudnicki mail&lt;/p>
+&lt;p>Peritonitis is a major complication of peritoneal dialysis (PD) being associated with hospitalization, catheter loss, technique failure, and increased mortality. Data on incidence rates and risk factors for peritonitis episodes vary between centers. In seven Austrian PD units clinical and laboratory data on each peritonitis episode were collected from all patients (n = 726) who performed PD between January 2000 and December 2009. The peritonitis incidence rate was 0.32 episodes/patient-year. In a multivariate analysis the risk of peritonitis was decreased by 57% in patients treated with oral active vitamin D (HR 0.43; 95% CI 0.28–0.64). Renal disease classified as “other or unknown” (HR 1.65; 95% CI 1.08–2.53) and serum albumin &amp;lt;3500 mg/dl (HR 1.49; 95% CI 1.04–2.15) were also associated with an increased risk of peritonitis. Albumin levels &amp;lt;3500 mg/dl (HR 1.89; 95% CI 1.13–3.17), age (HR 1.06 per year; 95% CI 1.03–1.09), and cardiomyopathy (HR 3.01; 95% CI 1.62–5.59) were associated with increased mortality, whereas treatment with oral active vitamin D was associated with a significantly lower risk of death (HR 0.46; 95% CI 0.27–0.81). In this retrospective multi-center study we identified several factors being related to increased risk of peritonitis in PD patients. Treatment with oral active vitamin D was identified as being independently associated with decreased risk of peritonitis, and decreased all-cause mortality in PD patients.&lt;/p></description></item><item><title>Uptodate – Medical professional information – on Vitamin D, etc.</title><link>/posts/uptodate-medical-professional-information-on-vitamin-d-etc.html</link><pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate><guid>/posts/uptodate-medical-professional-information-on-vitamin-d-etc.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>UpToDate® is an evidence-based, physician-authored clinical decision support resource which clinicians trust to make the right point-of-care decisions.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>More than 5,700 world-renowned physician authors, editors and peer reviewers use a rigorous editorial process to synthesize the most recent medical information into trusted, evidence-based recommendations that are proven to improve patient care and quality.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>More than 850,000 clinicians in 164 countries and almost 90% of academic medical centers in the United States rely on UpToDate to provide the best care.&lt;/p></description></item><item><title>Quantifying the vitamin D economy in the body - Heaney</title><link>/posts/quantifying-the-vitamin-d-economy-in-the-body-heaney.html</link><pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/quantifying-the-vitamin-d-economy-in-the-body-heaney.html</guid><description>&lt;p>&lt;strong>Figure 1&lt;/strong>&lt;/p>
+&lt;img src="/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;p>Quantifying the vitamin D economy&lt;/p>
+&lt;p>Nutrition Reviews VR Vol. 73(1):51–67, &lt;a href="https://doi.org/10.1093/nutrit/nuu004">doi: 10.1093/nutrit/nuu004&lt;/a> Special Article&lt;/p>
+&lt;p>Robert P. Heaney and Laura A.G. Armas&lt;/p>
+&lt;p>R.P. Heaney is with Creighton University, Omaha, Nebraska, USA. &lt;a href="mailto:rpheaney@creighton.edu">rpheaney@creighton.edu&lt;/a>&lt;/p>
+&lt;p>L.A.G. Armas is with the Department of Medicine, Creighton University, Omaha, Nebraska, USA&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/quantifying-the-vitamin-d-economy.pdf">Download the PDF with all figures from VitaminDWiki.&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>The following is virtually all of the text, most of the equations, and a few of the figures&lt;/strong>&lt;/p></description></item><item><title>Antimicrobial peptides (which attack pathogens) are increased by Vitamin D</title><link>/posts/antimicrobial-peptides-which-attack-pathogens-are-increased-by-vitamin-d.html</link><pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/antimicrobial-peptides-which-attack-pathogens-are-increased-by-vitamin-d.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Cathelicidins&lt;/strong> are antimicrobial peptides found in vertebrates that kill pathogens directly and regulate immune responses. They contain a conserved cathelin domain and variable antimicrobial region, functioning in both pathogen defense and immune modulation.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Antimicrobial particles, proteins, and peptides&lt;/strong> are natural defense molecules that fight pathogens. Particles are the largest, proteins are medium-sized complex molecules, and peptides are the smallest (12-100 amino acids). All three types kill microbes, but peptides are particularly effective due to their size and multiple mechanisms of action.&lt;/p></description></item><item><title>Vitamin D levels in Europe</title><link>/posts/vitamin-d-levels-in-europe.html</link><pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-levels-in-europe.html</guid><description>&lt;p>&lt;strong>Vitamin D: An overview of vitamin D status and intake in Europe&lt;/strong>&lt;/p>
+&lt;p>Nutrition Bulletin. Article first published online: 30 SEP 2014, DOI: 10.1111/nbu.12108&lt;/p>
+&lt;p>A. Spiro* and J. L. Buttriss&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/e-t4.jpg" alt="image" width="1000">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/e-t5.jpg" alt="image" width="1000">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/e-t7.jpg" alt="image" width="1000">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/e-t6.jpg" alt="image" width="500">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/policies.jpg" alt="image" width="1000">
+&lt;p>In recent years, there have been reports suggesting a high prevalence of low vitamin D intakes and vitamin D deficiency or inadequate vitamin D status in Europe. Coupled with growing concern about the health risks associated with low vitamin D status, this has resulted in increased interest in the topic of vitamin D from healthcare professionals, the media and the public. Adequate vitamin D status has a key role in skeletal health. Prevention of the well-described vitamin D deficiency disorders of rickets and osteomalacia are clearly important, but there may also be an implication of low vitamin D status in bone loss, muscle weakness and falls and fragility fractures in older people, and these are highly significant public health issues in terms of morbidity, quality of life and costs to health services in Europe.&lt;/p></description></item><item><title>VPS Healthcare in Abu Dhabi invested million dollars in Vitamin D research</title><link>/posts/vps-healthcare-in-abu-dhabi-invested-million-dollars-in-vitamin-d-research.html</link><pubDate>Thu, 11 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/vps-healthcare-in-abu-dhabi-invested-million-dollars-in-vitamin-d-research.html</guid><description>&lt;h4 id="this-1000000-will-fund-vitamin-d-rd">This $1,000,000 will fund Vitamin D R&amp;amp;D:&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>causes and consequences of deficiencies,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>the effect deficiency has on pregnancy within the UAE.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>impact of Vitamin D deficiency on chronic kidney disease patients requiring dialysis.”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>creation of new protocols in the supplementation and fortification, guidelines&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>provide insights into the retrospective and interventional aspects of Vitamin D.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Research will be extended to cancer, diabetes and neurological disorders.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Principle Scientist for the research will be Dr. Haq&lt;/strong>&lt;/p></description></item><item><title>UVB increases vitamin D even if poor kidney by changing CYP27B1 genes in skin</title><link>/posts/uvb-increases-vitamin-d-even-if-poor-kidney-by-changing-cyp27b1-genes-in-skin.html</link><pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/uvb-increases-vitamin-d-even-if-poor-kidney-by-changing-cyp27b1-genes-in-skin.html</guid><description>&lt;h4 id="a-narrow-band-ultraviolet-b-course-improves-vitamin-d-balance-and-alters-cutaneous-cyp27a1-and-cyp27b1-mrna-expression-levels-in-haemodialysis-patients-supplemented-with-oral-vitamin-d">A narrow-band ultraviolet B course improves vitamin D balance and alters cutaneous CYP27A1 and CYP27B1 mRNA expression levels in haemodialysis patients supplemented with oral vitamin D.&lt;/h4>
+&lt;p>Nephron Clin Pract. 2013;124(1-2):17-22. &lt;a href="https://doi.org/10.1159/000355010.">doi: 10.1159/000355010.&lt;/a> Epub 2013 Sep 12.&lt;/p>
+&lt;p>Ala-Houhala MJ1, Vähävihu K, Snellman E, Hasan T, Kautiainen H, Karisola P, Dombrowski Y, Schauber J, Saha H, Reunala T.&lt;/p>
+&lt;p>Department of Dermatology, Tampere University Hospital, Tampere, Finland&lt;/p>
+&lt;p>BACKGROUND/AIMS:&lt;/p>
+&lt;p>Chronic kidney disease (CKD) patients on dialysis are prone to vitamin D insufficiency despite oral vitamin D supplementation. Here, we studied whether narrow-band ultraviolet B (NB-UVB) exposures improve vitamin D balance.&lt;/p></description></item><item><title>Blood tests can be a poor measure of actual vitamin D due to D Binding Protein (DBP)</title><link>/posts/blood-tests-can-be-a-poor-measure-of-actual-vitamin-d-due-to-d-binding-protein-dbp.html</link><pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate><guid>/posts/blood-tests-can-be-a-poor-measure-of-actual-vitamin-d-due-to-d-binding-protein-dbp.html</guid><description>&lt;p>&lt;strong>Vitamin D Binding Protein Impact on 25-Hydroxyvitamin D Levels under Different Physiologic and Pathologic Conditions&lt;/strong>&lt;/p>
+&lt;p>Hindawi Publishing Corporation International Journal of Endocrinology Volume 2014, Article ID 981581, 6 pages &lt;a href="http://dx.doi.org/10.1155/2014/981581">http://dx.doi.org/10.1155/2014/981581&lt;/a>&lt;/p>
+&lt;p>Pegah Yousefzadeh,1 Sue A. Shapses,2 and Xiangbing Wang1&lt;/p>
+&lt;p>1 Division of Endocrinology, Metabolism &amp;amp; Nutrition, Department of Medicine, Rutgers University-Robert Wood Johnson Medical School, New Brunswick, NJ 08903, USA&lt;/p>
+&lt;p>2 Department of Nutritional Sciences, Rutgers University, New Brunswick, NJ 08901, USA&lt;/p></description></item><item><title>Vitamin D-binding protein and vitamin D status of black Americans and white Americans</title><link>/posts/vitamin-d-binding-protein-and-vitamin-d-status-of-black-americans-and-white-americans.html</link><pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-binding-protein-and-vitamin-d-status-of-black-americans-and-white-americans.html</guid><description>&lt;p>N Engl J Med. 2013 Nov 21;369(21):1991-2000. &lt;a href="https://doi.org/10.1056/NEJMoa1306357.">doi: 10.1056/NEJMoa1306357.&lt;/a>&lt;/p>
+&lt;p>Powe CE1, Evans MK, Wenger J, Zonderman AB, Berg AH, Nalls M, Tamez H, Zhang D, Bhan I, Karumanchi SA, Powe NR, Thadhani R.&lt;/p>
+&lt;p>1From the Department of Medicine, Brigham and Women&amp;rsquo;s Hospital (C.E.P.), Division of Nephrology, Massachusetts General Hospital (J.W., H.T., I.B., R.T.), Department of Pathology, Beth Israel Deaconess Medical Center and Harvard Medical School (A.H.B.), Division of Nephrology, Beth Israel Deaconess Medical Center (D.Z., S.A.K.), and Howard Hughes Medical Institute (D.Z., S.A.K.) - all in Boston; the Laboratory of Epidemiology and Population Sciences, National Institute on Aging, National Institutes of Health, Baltimore (M.K.E., A.B.Z.); the Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, Bethesda, MD (M.N.); and the Department of Medicine, San Francisco General Hospital and University of California, San Francisco, San Francisco (N.R.P.).&lt;/p></description></item><item><title>Vitamin D Conference papers and poster abstracts – London</title><link>/posts/vitamin-d-conference-papers-and-poster-abstracts-london.html</link><pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-conference-papers-and-poster-abstracts-london.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#F00;">188 abstracts&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>Browser (cntrl F usually) can FIND words, phrases, authors, etc.&lt;/p>
+&lt;p>Note: due to extraction and formatting problems all &lt;span>[ became ( &lt;del>hs&lt;/del> &lt;del>hs&lt;/del> and all ]&lt;/span> became )&lt;/p>
+&lt;p>Conference is described at: &lt;a href="/posts/vitamin-d-conference-in-england-april-23-25-2014">Vitamin D conference in England - April 23-25 2014&lt;/a>&lt;/p>
+&lt;p>These absracts of presentations and posters were published in the &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/25054551?dopt=Abstract">Journal Nutrients&lt;/a> July 2014&lt;/p>
+&lt;p>    Note: Clicking on Hide Health Problems above will make it easier to read the Table of Contents&lt;/p></description></item><item><title>137 health problems associated with low vitamin D – meta-meta-analysis</title><link>/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta-analysis.html</link><pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/137-health-problems-associated-with-low-vitamin-d-meta-meta-analysis.html</guid><description>&lt;p>Vitamin D and multiple health outcomes: umbrella review of systematic reviews and meta-analyses of observational studies and randomised trials&lt;/p>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#evidence-category-from-the-study">Evidence category (from the study)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#forest-plots-from-the-study">Forest plots (from the study)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#methods">Methods&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#structure-of-umbrella-review">Structure of umbrella review&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#search-strategy">Search strategy&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#eligibility-criteria-and-appraisal-of-included-studies">Eligibility criteria and appraisal of included studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#data-extraction">Data extraction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#data-analysis">Data analysis&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#results">Results&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-concentrations-and-health-outcomes-systematic-reviews-of-observational-studies">Vitamin D concentrations and health outcomes: systematic reviews of observational studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-concentrations-and-health-outcomes-meta-analyses-of-observational-studies">Vitamin D concentrations and health outcomes: meta-analyses of observational studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#summary-effects-heterogeneity-and-bias-tests-for-meta-analyses-of-observational-associations">Summary effects, heterogeneity, and bias tests for meta-analyses of observational associations&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#significant-observational-associations-without-hints-of-bias">Significant observational associations without hints of bias&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#meta-analyses-of-randomised-controlled-trials-of-vitamin-d-supplementation">Meta-analyses of randomised controlled trials of vitamin D supplementation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#comparison-of-findings-from-observational-studies-and-clinical-trials">Comparison of findings from observational studies and clinical trials&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#discussion">Discussion&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#strengths-and-weaknesses-of-study-and-in-relation-to-other-studies">Strengths and weaknesses of study and in relation to other studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#possible-explanations-and-implications-for-clinicians-and-policy-makers">Possible explanations and implications for clinicians and policy makers&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#conclusions-unanswered-questions-and-future-research">Conclusions, unanswered questions, and future research&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#what-is-already-known-on-this-topic">What is already known on this topic&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-this-study-adds">What this study adds&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#editorial-on-the-study-vitamin-d-and-chronic-disease-prevention">Editorial on the study: Vitamin D and chronic disease prevention&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#references-1">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>BMJ2014;348:g2035 &lt;a href="https://doi.org/10.1136/bmj.g2035">doi: 10.1136/bmj.g2035&lt;/a> (Published 1 April 2014)&lt;/p></description></item><item><title>Atherogenesis, atherosclerosis and vitamin D – review</title><link>/posts/atherogenesis-atherosclerosis-and-vitamin-d-review.html</link><pubDate>Thu, 20 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/atherogenesis-atherosclerosis-and-vitamin-d-review.html</guid><description>&lt;h2 id="the-role-of-the-intraplaque-vitamin-d-system-in-atherogenesis">The Role of the Intraplaque Vitamin D System in Atherogenesis&lt;/h2>
+&lt;p>Scientifica, Volume 2013 (2013), Article ID 620504, 14 pages, &lt;a href="http://dx.doi.org/10.1155/2013/620504">http://dx.doi.org/10.1155/2013/620504&lt;/a>&lt;/p>
+&lt;p>Federico Carbone 1,2 and Fabrizio Montecucco 1,3&lt;/p>
+&lt;p>1Department of Internal Medicine, University of Genoa School of Medicine, IRCCS Azienda Ospedaliera Universitaria San Martino-IST Istituto Nazionale per la Ricerca sul Cancro, 6 Viale Benedetto XV, 16132 Genoa, Italy&lt;/p>
+&lt;p>2Cardiology Division, Foundation for Medical Researches, Department of Internal Medicine, University of Geneva, 64, Avenue de la Roseraie, 1211 Geneva, Switzerland&lt;/p></description></item><item><title>Chronic Kidney Disease patients need more vitamin D and phosphate</title><link>/posts/chronic-kidney-disease-patients-need-more-vitamin-d-and-phosphate.html</link><pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/chronic-kidney-disease-patients-need-more-vitamin-d-and-phosphate.html</guid><description>&lt;h3 id="nutrition-prescription-to-achieve-positive-outcomes-in-chronic-kidney-disease-a-systematic-review">Nutrition prescription to achieve positive outcomes in chronic kidney disease: a systematic review.&lt;/h3>
+&lt;p>Nutrients. 2014 Jan 22;6(1):416-51. &lt;a href="https://doi.org/10.3390/nu6010416.">doi: 10.3390/nu6010416.&lt;/a>&lt;/p>
+&lt;p>Ash S1, Campbell KL2, Bogard J3, Millichamp A4.&lt;/p>
+&lt;p>In Chronic Kidney Disease (CKD), management of diet is important in prevention of disease progression and symptom management, however evidence on nutrition prescription is limited. Recent international CKD guidelines and literature was reviewed to address the following question &amp;ldquo;What is the appropriate nutrition prescription to achieve positive outcomes in adult patients with chronic kidney disease?&amp;rdquo; Databases included in the search were Medline and CINAHL using EBSCOhost search engine, Embase and the Cochrane Database of Systematic Reviews published from 2000 to 2009. International guidelines pertaining to nutrition prescription in CKD were also reviewed from 2000 to 2013. Three hundred and eleven papers and eight guidelines were reviewed by three reviewers. Evidence was graded as per the National Health and Medical Research Council of Australia criteria. The evidence from thirty six papers was tabulated under the following headings: protein, weight loss, enteral support, vitamin D, sodium, fat, fibre, oral nutrition supplements, nutrition counselling, including protein and phosphate, nutrients in peritoneal dialysis solution and intradialytic parenteral nutrition, and was compared to international guidelines. While more evidence based studies are warranted, the customary nutrition prescription remains satisfactory with the exception of Vitamin D and phosphate. In these two areas, additional research is urgently needed given the potential of adverse outcomes for the CKD patient.&lt;/p></description></item><item><title>Roles of Vitamin D in 11 diseases</title><link>/posts/roles-of-vitamin-d-in-11-diseases.html</link><pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/roles-of-vitamin-d-in-11-diseases.html</guid><description>&lt;h3 id="summary-of-studies-of-vitamin-d-and-the-following-concerns">Summary of studies of Vitamin D and the following concerns&lt;/h3>
+&lt;p>Sorry that we do not have hyperlinks (yet). You will have to scroll down or FIND table #&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Table 1 Diabetes Mellitus&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 2 Tuberculosis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 3 Hypertension&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 4 Cardiovascular Diseases&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 5 Osteoporosis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 6 Multiple Sclerosis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 7 Cognition&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 8 Chronic Pain&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 9 Colon Cancer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 10 Breast cancer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 11 Prostate cancer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Table 12 Vitamin D levels recommended&lt;/p></description></item><item><title>Vitamin D and its active metabolites – DeLuca</title><link>/posts/vitamin-d-and-its-active-metabolites-deluca.html</link><pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-its-active-metabolites-deluca.html</guid><description>&lt;h3 id="history-of-the-discovery-of-vitamin-d-and-its-active-metabolites">History of the discovery of vitamin D and its active metabolites&lt;/h3>
+&lt;p>BoneKEy Reports 3, Article number: 479 (2014) | doi:10.1038/bonekey.2013.213 © 2014 International Bone &amp;amp; Mineral Society All rights reserved 2047-6396/14 Hector F DeLuca&lt;/p>
+&lt;p>Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA. &lt;a href="mailto:deluca@biochem.wisc.edu">deluca@biochem.wisc.edu&lt;/a>&lt;/p>
+&lt;p>Before the twentieth century, it was not possible to describe the essentials of a diet that could support life, growth and reproduction of higher animals. The discovery of vitamin A by McCollum and Davis in 1913 ushered in the era of accessory food substances culminating in the achievement of that goal. It included the discovery of vitamin D and its production in skin caused by ultraviolet light. This was followed by a description of its actions at the physiological level that resulted in a healthy skeleton and beyond. To carry out these functions, vitamin D is converted to a hormone that acts through a nuclear receptor. The findings leading to this concept and their importance to biology and medicine are presented.&lt;/p></description></item><item><title>Vascular calcification greatly reduced by 3 per week 1000 ug of Vitamin K2 MK-7</title><link>/posts/vascular-calcification-greatly-reduced-by-3-per-week-1000-ug-of-vitamin-k2-mk-7.html</link><pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/vascular-calcification-greatly-reduced-by-3-per-week-1000-ug-of-vitamin-k2-mk-7.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#press-release-12192013-menaq7-vitamin-k2-supplementation-may-benefit-dialysis-patients-by-inhibiting-vascular-calcification">Press Release 12/19/2013: MenaQ7® Vitamin K2 Supplementation May Benefit Dialysis Patients by Inhibiting Vascular Calcification&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-k2-supplementation-in-haemodialysis-patients-a-randomized-dose-finding-study">Vitamin K2 supplementation in haemodialysis patients: a randomized dose-finding study*&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="press-release-12192013-menaq7-vitamin-k2-supplementation-may-benefit-dialysis-patients-by-inhibiting-vascular-calcification">Press Release 12/19/2013: MenaQ7® Vitamin K2 Supplementation May Benefit Dialysis Patients by Inhibiting Vascular Calcification&lt;/h4>
+&lt;p>NattoPharma has announced the publication of a new study performed in collaboration with OLV Hospital, Belgium, St. Jan Hospital, Belgium and VitaK, University of Maastricht, the Netherlands, published by Nephrology Dialysis Transplantation. &lt;a href="https://doi.org/10.1093/ndt/gft464">doi: 10.1093/ndt/gft464&lt;/a> .&lt;/p></description></item><item><title>Handbook of Vitamin D – 700 pages – 2013</title><link>/posts/handbook-of-vitamin-d-700-pages-2013.html</link><pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/handbook-of-vitamin-d-700-pages-2013.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#handbook-of-vitamin-d-in-human-health-vitamin-d-in-human-health-prevention-treatment-and-toxicity">Handbook of vitamin D in human health: vitamin D in human health, Prevention, treatment and toxicity&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#overview-of-key-vitamin-d-modified-conditions">Overview of key vitamin D modified conditions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-musculoskeletal-health">Vitamin D and musculoskeletal health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-chronic-disease">Vitamin D and chronic disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-infectious-disease">Vitamin D and infectious disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-cancer">Vitamin D and cancer&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#women-and-children">Women and children&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#index">Index&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="handbook-of-vitamin-d-in-human-health-vitamin-d-in-human-health-prevention-treatment-and-toxicity">Handbook of vitamin D in human health: vitamin D in human health, Prevention, treatment and toxicity&lt;/h3>
+&lt;p>Edited by: Ronald Ross Watson&lt;/p></description></item><item><title>UVB improved vitamin D levels in 3 diseases, controls improved more – PHD</title><link>/posts/uvb-improved-vitamin-d-levels-in-3-diseases-controls-improved-more-phd.html</link><pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/uvb-improved-vitamin-d-levels-in-3-diseases-controls-improved-more-phd.html</guid><description>&lt;p>&lt;strong>Narrow-band Ultraviolet B Exposures Improve Vitamin D Balance Trials Involving Dermatological and Haemodialysis Patients and Healthy Subjects&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>MERI ALA-HOUHALA&lt;/strong>&lt;/p>
+&lt;p>ACADEMIC DISSERTATION To be presented, with the permission of the Board of the School of Medicine of the University of Tampere, for public discussion in the Small Auditorium of Building M, Pirkanmaa Hospital District, Teiskontie 35, Tampere, on November 22nd, 2013, at 12 o&amp;rsquo;clock.&lt;/p>
+&lt;p>UNIVERSITY OF TAMPERE&lt;/p>
+&lt;p>&lt;strong>ACADEMIC DISSERTATION University of Tampere, School of Medicine&lt;/strong>&lt;/p></description></item><item><title>Chronic Kidney Disease clinical trials of UV in Germany</title><link>/posts/chronic-kidney-disease-clinical-trials-of-uv-in-germany.html</link><pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/chronic-kidney-disease-clinical-trials-of-uv-in-germany.html</guid><description>&lt;h2 id="vitamin-d-and-uv-exposure-in-chronic-kidney-disease">Vitamin D and UV exposure in chronic kidney disease&lt;/h2>
+&lt;p>Rolfdieter Krause&lt;/p>
+&lt;p>Dermato-Endocrinology Vol 5 #1&lt;/p>
+&lt;p>With loss of renal function and decreasing glomerula filtration rate the serum levels of 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> as well as 1,25-dihydroxyvitamin D &lt;span>[1,25 (OH)2 D]&lt;/span> often decrease simultaneously. In representative groups of German patients on renal replacement therapy (hemodialysis, peritoneal dialysis, kidney transplantation) our group retrospectively analyzed the vitamin D status over a period of 12 y (1995‒2006).&lt;/p></description></item><item><title>20 ng is enough vitamin D for healthy Nordic Caucasians: 5th Nordic meta-analysis</title><link>/posts/20-ng-is-enough-vitamin-d-for-healthy-nordic-caucasians-5th-nordic-meta-analysis.html</link><pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/20-ng-is-enough-vitamin-d-for-healthy-nordic-caucasians-5th-nordic-meta-analysis.html</guid><description>&lt;h2 id="nordic-nutrition-recommendations---the-nnr5-project">Nordic Nutrition Recommendations - the NNR5 project&lt;/h2>
+&lt;p>Department of Food and Environmental Sciences, University of Helsinki, Helsinki, Finland;&lt;/p>
+&lt;p>2UIT-The Arctic University of Norway, Troms0, Norway; 3Department of Community Medicine, Institute of Health and Society, University of Oslo, Oslo, Norway; 4Norwegian Institute of Public Health, Oslo, Norway; 5Unit for Nutrition Research, LandspitaliUniversity Hospital&amp;amp; University of Iceland, Reykjavik, Iceland&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">Appendicies are attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p></description></item><item><title>Off topic: Low-income black churches interest in early disease detection</title><link>/posts/off-topic-low-income-black-churches-interest-in-early-disease-detection.html</link><pubDate>Wed, 04 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/off-topic-low-income-black-churches-interest-in-early-disease-detection.html</guid><description>&lt;p>Article below is from &lt;a href="http://www.salon.com/2013/09/03/it_really_does_take_a_village_how_memphis_is_fixing_healthcare/">Salon – Sept 2013&lt;/a>&lt;/p>
+&lt;p>Wonder if churches might increase vitamin D usage in those with dark skin.&lt;/p>
+&lt;p>FACT: Most people with dark skins and modern life style have low vitamin D.&lt;/p>
+&lt;p>FACT: Vitamin D levels in the Southern US have dropped a lot in past 40 years with the use of air conditioning, increasing the problem&lt;/p>
+&lt;p>FACT: Increasing vitamin D improves health&lt;/p>
+&lt;p>Note: Poor health of dark skinned immigrants is a big problem around the world - churches might be able to help&lt;/p></description></item><item><title>HIV increases Calcium in soft tissues and reduces Calcium in bones</title><link>/posts/hiv-increases-calcium-in-soft-tissues-and-reduces-calcium-in-bones.html</link><pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/hiv-increases-calcium-in-soft-tissues-and-reduces-calcium-in-bones.html</guid><description>&lt;h3 id="inverse-correlation-between-vascular-calcification-and-bone-mineral-density-in-human-immunodeficiency-virus-infected-patients">Inverse Correlation Between Vascular Calcification and Bone Mineral Density in Human Immunodeficiency Virus-Infected Patients&lt;/h3>
+&lt;p>Calcified Tissue International, August 2013&lt;/p>
+&lt;p>Antonio Bellasi,&lt;/p>
+&lt;p>Stefano Zona,&lt;/p>
+&lt;p>Gabriella Orlando,&lt;/p>
+&lt;p>Federica Carli,&lt;/p>
+&lt;p>Guido Ligabue,&lt;/p>
+&lt;p>Vincenzo Rochira,&lt;/p>
+&lt;p>Antonella Santoro,&lt;/p>
+&lt;p>Cristina Mussini,&lt;/p>
+&lt;p>Giovanni Guaraldi, &lt;a href="mailto:giovanni.guaraldi@unimore.it">giovanni.guaraldi@unimore.it&lt;/a>&lt;/p>
+&lt;p>Paolo Raggi&lt;/p>
+&lt;p>HIV-infected individuals suffer from accelerated aging, which manifests as premature cardiovascular and bone disease. However, little is known of the association of these two disorders in the HIV population. Our objective was to investigate the association between a marker of atherosclerosis (coronary artery calcium &lt;span>[CAC]&lt;/span>) and low bone mineral density (BMD) in a cross-sectional cohort of HIV-infected patients. The study was conducted at the University of Modena and Reggio Emilia, Italy. A total of 636 consecutive middle-aged, HIV-infected subjects were recruited between January 2006 and December 2010. All patients underwent CAC and BMD assessment. Patients were categorized according to a CAC score &amp;lt;100 or &amp;gt;100 units based on previous literature that identified this cut-point as a marker of increased risk.&lt;/p></description></item><item><title>Kidney patients need some form vitamin D – the question is, which form</title><link>/posts/kidney-patients-need-some-form-vitamin-d-the-question-is-which-form.html</link><pubDate>Wed, 07 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/kidney-patients-need-some-form-vitamin-d-the-question-is-which-form.html</guid><description>&lt;h2 id="which-vitamin-d-in-ckd-mbd-the-time-of-burning-questions">Which Vitamin D in CKD-MBD? The Time of Burning Questions&lt;/h2>
+&lt;p>BioMed Research International, Volume 2013 (2013), Article ID 864012, 10 pages&lt;/p>
+&lt;p>1 Antonio Bellasi,2,3 Sara Auricchio,1 Sergio Papagni,4 and Mario Cozzolino31Medical Department, Nephrology Unit, AO Desio Vimercate, Desio Hospital, 20832 Desio, Italy&lt;/p>
+&lt;p>2 Department of Nephrology, Sant’Anna Hospital, 22020 Como, Italy&lt;/p>
+&lt;p>3 Department of Health Sciences, University of Milan, 20142 Milan, Italy&lt;/p>
+&lt;p>4 Division of Nephrology, Dialysis Center CBH-Città di Bisceglie, 70052 Bisceglie, Italy&lt;/p></description></item><item><title>Dialysis patients need real vitamin D – Editorial</title><link>/posts/dialysis-patients-need-real-vitamin-d-editorial.html</link><pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/dialysis-patients-need-real-vitamin-d-editorial.html</guid><description>&lt;h3 id="the-many-forms-and-functions-of-essential-vitamin-d-for-dialysis-patients">The Many Forms and Functions of Essential Vitamin D for Dialysis Patients&lt;/h3>
+&lt;p>Journal of Renal Nutrition, Volume 23, Issue 4 , Pages e87-e88, July 2013&lt;/p>
+&lt;p>Caroline Hamatake, MPH, RD &lt;a href="mailto:caroline.hamatake@fmc-na.com">caroline.hamatake@fmc-na.com&lt;/a>&lt;/p>
+&lt;p>Liberty Dialysis–Hawaii, Honolulu, Hawaii&lt;/p>
+&lt;p>Feature Editor: Catherine M. Goeddeke-Merickel, MS, RD, LD&lt;/p>
+&lt;p>Introduction/Overview&lt;/p>
+&lt;p>The screening and treatment of vitamin D deficiency is now routinely done in most dialysis clinics. Many dialysis patients have suboptimal levels of serum 25-hydroxyvitamin D and require vitamin D supplementation even in clinics located in the tropics.&lt;/p></description></item><item><title>Those Dialysis patients with low vitamin D were 75% more likely to die</title><link>/posts/those-dialysis-patients-with-low-vitamin-d-were-75-percent-more-likely-to-die.html</link><pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/those-dialysis-patients-with-low-vitamin-d-were-75-percent-more-likely-to-die.html</guid><description>&lt;h4 id="vitamin-d-deficiency-and-mortality-in-patients-receiving-dialysis-the-comprehensive-dialysis-study">Vitamin D Deficiency and Mortality in Patients Receiving Dialysis: The Comprehensive Dialysis Study&lt;/h4>
+&lt;p>Journal of Renal Nutrition, Available online 19 July 2013, &lt;a href="http://dx.doi.org/10.1053/j.jrn.2013.05.003">http://dx.doi.org/10.1053/j.jrn.2013.05.003&lt;/a>&lt;/p>
+&lt;p>Shuchi Anand, MD∗, Corresponding author&lt;/p>
+&lt;p>Glenn M. Chertow, MD, MPH∗,&lt;/p>
+&lt;p>Kirsten L. Johansen, MD†, ‡,&lt;/p>
+&lt;p>Barbara Grimes, PhD§,&lt;/p>
+&lt;p>Lorien S. Dalrymple, MD, MPH¶,&lt;/p>
+&lt;p>George A. Kaysen, MD, PhD¶, ∗∗,&lt;/p>
+&lt;p>Manjula Kurella Tamura, MD, MPH∗, ††&lt;/p>
+&lt;p>∗ Division of Nephrology, Department of Medicine, Stanford University School of Medicine, Palo Alto, California&lt;/p></description></item><item><title>Tuberculosis, UV and perhaps vitamin D</title><link>/posts/tuberculosis-uv-and-perhaps-vitamin-d.html</link><pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-uv-and-perhaps-vitamin-d.html</guid><description>&lt;h1 class="svTitle">
+&lt;p>&lt;span style="font-size:22px;">Vitamin D and solar ultraviolet radiation in the risk and treatment of tuberculosis&lt;/span>&lt;/h1>&lt;/p>
+&lt;div class="publicationHead titleBanner">
+&lt;div class="cover">
+&lt;div class="title">
+&lt;p>&lt;a class="cLink" href="http://www.sciencedirect.com/science/journal/14733099" title="Go to The Lancet Infectious Diseases on SciVerse ScienceDirect">&lt;img alt="The Lancet Infectious Diseases" class="imgLazyJSB" height="25" src="http://ars.els-cdn.com/content/image/B14733099.gif" width="310" />&lt;/a>&lt;a href="http://www.sciencedirect.com/science/journal/14733099/13/1" title="Go to table of contents for this volume/issue">Volume 13, Issue 1&lt;/a>, January 2013, Pages 77–88&lt;/div>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;ul class="authorGroup noCollab">&lt;li>
+&lt;p>&lt;span class="authorDegrees">Dr &lt;/span>&lt;a class="authorName" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#" id="authname_N5d0e3940N5d020df8">Anna P Ralph&lt;/a>, &lt;span class="authorDegrees">PhD&lt;/span>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff1" id="baff1" title="Affiliation: a">&lt;sup>a&lt;/sup>&lt;/a>&lt;sup>, &lt;/sup>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff2" id="baff2" title="Affiliation: b">&lt;sup>b&lt;/sup>&lt;/a>&lt;sup>, &lt;/sup>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff3" id="baff3" title="Affiliation: c">&lt;sup>c&lt;/sup>&lt;/a>&lt;sup>, &lt;/sup>&lt;a class="intra_ref auth_corr" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#cor1" id="bcor1" title="Corresponding author contact information">&lt;img alt="Corresponding author contact information" class="imgLazyJSB" src="http://cdn.els-cdn.com/sd/entities/REcor.gif" />&lt;/a>&lt;sup>, &lt;/sup>&lt;a href="mailto:anna.ralph@menzies.edu.au">anna.ralph@menzies.edu.au&lt;/a>&lt;/li>&lt;/p>
+&lt;li>
+&lt;p>&lt;a class="authorName" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#" id="authname_N5d0e3940N5d020ee8">Robyn M Lucas&lt;/a>, &lt;span class="authorDegrees">PhD&lt;/span>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff4" id="baff4" title="Affiliation: d">&lt;sup>d&lt;/sup>&lt;/a>,&lt;/li>&lt;/p></description></item><item><title>Chronic kidney with low vitamin D: 90 percent of pediatric nephrologists now recommend more D</title><link>/posts/chronic-kidney-with-low-vitamin-d-90-percent-of-pediatric-nephrologists-now-recommend-more-d.html</link><pubDate>Wed, 26 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/chronic-kidney-with-low-vitamin-d-90-percent-of-pediatric-nephrologists-now-recommend-more-d.html</guid><description>&lt;h2 id="nutritional-vitamin-d-use-in-chronic-kidney-disease-a-survey-of-pediatric-nephrologists">Nutritional vitamin D use in chronic kidney disease: a survey of pediatric nephrologists.&lt;/h2>
+&lt;p>Pediatr Nephrol. 2013 Feb;28(2):265-75. &lt;a href="https://doi.org/10.1007/s00467-012-2307-5.">doi: 10.1007/s00467-012-2307-5.&lt;/a> Epub 2012 Oct 20.&lt;/p>
+&lt;p>Griffin LM, Denburg MR, Shults J, Furth SL, Salusky IB, Hwang W, Leonard MB.&lt;/p>
+&lt;p>Department of Pediatrics, Children&amp;rsquo;s Hospital of Philadelphia, 3535 Market Street, Room 868, Philadelphia, PA, USA.&lt;/p>
+&lt;p>BACKGROUND: Vitamin D deficiency may contribute to risk of cardiovascular disease, diabetes, and infections, in addition to known effects on mineral metabolism. Controversy remains regarding the use of nutritional vitamin D supplementation in chronic kidney disease (CKD), and the supplementation practices of pediatric nephrologists are unknown.&lt;/p></description></item><item><title>Standard and artificial vitamin D both help Chronic Kidney Disease – meta-analysis</title><link>/posts/standard-and-artificial-vitamin-d-both-help-chronic-kidney-disease-meta-analysis.html</link><pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/standard-and-artificial-vitamin-d-both-help-chronic-kidney-disease-meta-analysis.html</guid><description>&lt;h2 id="impact-of-vitamin-d-on-chronic-kidney-diseases-in-non-dialysis-patients">Impact of Vitamin D on Chronic Kidney Diseases in Non-Dialysis Patients:&lt;/h2>
+&lt;p>A Meta-Analysis of Randomized Controlled Trials&lt;/p>
+&lt;p>PLoS ONE 8(4): e61387. doi:10.1371/journal.pone.0061387&lt;/p>
+&lt;p>Lijuan Xu, Xuesi Wan, Zhimin Huang, Fangfang Zeng, Guohong Wei, Donghong Fang, Wanping Deng, Yanbing Li mail&lt;/p>
+&lt;p>Background and Objectives: Recent studies have supported a role for both newer and more established vitamin D compounds in improving proteinuria, although systematic evaluation is lacking. Furthermore, concerns remain regarding the influence of vitamin D on the progression of renal function. We analyzed the efficacy and safety of vitamin D in non-dialysis patients and compared the use of newer versus established vitamin D compounds by performing a meta-analysis of randomized controlled trials.&lt;/p></description></item><item><title>Annual cost of 1000 IU of Vitamin D daily - Consumer Reports</title><link>/posts/annual-cost-of-1000-iu-of-vitamin-d-daily-consumer-reports.html</link><pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/annual-cost-of-1000-iu-of-vitamin-d-daily-consumer-reports.html</guid><description>&lt;h4 id="click-herehttpwwwconsumerreportsorgcromagazine201305most-vitamin-d-pills-measure-up-our-tests-findindexhtm-to-see-full-article">&lt;a href="http://www.consumerreports.org/cro/magazine/2013/05/most-vitamin-d-pills-measure-up-our-tests-find/index.htm">CLICK HERE&lt;/a> to see full article&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>at least three samples of each product were analyzed for their level of vitamin D3&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Average vitamin D3 levels ranged from 105 % to 141 % of the labeled amount&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/cr1.jpg" alt="image">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/cr2.jpg" alt="image">
+&lt;h2 id="see-also-vitamindwiki">See also VitaminDWiki&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/most-vitamin-d-bought-over-the-counter-meet-requirements">Most vitamin D bought over-the-counter meet requirements – Feb 2013&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/how-vitamin-d3-is-made-from-wool" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How vitamin D3 is made from wool">How vitamin D3 is made from wool&lt;/a>   &lt;a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies&lt;/a>&lt;/p></description></item><item><title>1700 IU of vitamin D not enough to help hemodialysis patients</title><link>/posts/1700-iu-of-vitamin-d-not-enough-to-help-hemodialysis-patients.html</link><pubDate>Sat, 16 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/1700-iu-of-vitamin-d-not-enough-to-help-hemodialysis-patients.html</guid><description>&lt;h3 id="effects-of-cholecalciferol-on-functional-biochemical-vascular-and-quality-of-life-outcomes-in-hemodialysis-patients">Effects of Cholecalciferol on Functional, Biochemical, Vascular, and Quality of Life Outcomes in Hemodialysis Patients.&lt;/h3>
+&lt;p>Clin J Am Soc Nephrol. 2013 Mar 14.&lt;/p>
+&lt;p>Hewitt NA, O&amp;rsquo;Connor AA, O&amp;rsquo;Shaughnessy DV, Elder GJ.&lt;/p>
+&lt;p>Postgraduate Medical School, University of Notre Dame, Sydney, Australia;, †Renal Resource Centre, Sydney Dialysis Centre, Royal North Shore Hospital, Sydney, Australia;, ‡Department of Renal Medicine, Westmead Hospital, Sydney, Australia, §Osteoporosis and Bone Biology Division, Garvan Institute of Medical Research, Sydney, Australia.&lt;/p></description></item><item><title>Vitamin D: Is It the Best Thing Under the Sun - Medscape</title><link>/posts/vitamin-d-is-it-the-best-thing-under-the-sun-medscape.html</link><pubDate>Fri, 08 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-is-it-the-best-thing-under-the-sun-medscape.html</guid><description>&lt;p>Robert Finn; Deborah Flapan; Darbe Rotach&lt;/p>
+&lt;h3 id="the-following-is-the-first-of-25-images">The following is the first of 25 images&lt;/h3>
+&lt;img src="/attachments/d3.mock.jpg" alt="image"> 
+&lt;p>The number of research studies on vitamin D has soared in recent years.&lt;/p>
+&lt;p>Citations of studies involving vitamin D increased from 1142 in the year 2000 to 3877 in 2012.&lt;/p>
+&lt;p>In comparison, citations for research on vitamin A and vitamin C have remained more or less level.&lt;/p>
+&lt;p>You have to register with &lt;a href="http://www.medscape.com/features/slideshow/vitamin-d#20">Medscape&lt;/a> to see the other images, with text&lt;/p></description></item><item><title>50 percent of Chronic Kidney Disease treatments in Germany include vitamin D</title><link>/posts/50-percent-of-chronic-kidney-disease-treatments-in-germany-include-vitamin-d.html</link><pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/50-percent-of-chronic-kidney-disease-treatments-in-germany-include-vitamin-d.html</guid><description>&lt;h4 id="implementation-and-first-results-of-a-german-chronic-kidney-disease-registry">Implementation and first results of a German Chronic Kidney Disease Registry.&lt;/h4>
+&lt;p>Clin Nephrol. 2012 Dec 4.&lt;/p>
+&lt;p>Kleophas W, Bieber B, Robinson BM, Duttlinger J, Fliser D, Lonnemann G, Rump LC, Pisoni RL, Port FK, Reichel H.&lt;/p>
+&lt;p>Advanced chronic kidney disease (CKD) is gaining increasing medical and economical importance, but little information exists about treatment variation and the impact of routine clinical treatments on survival, quality of life, and cost. We demonstrate the first results of a national electronic registry of nephrology clinic data that will serve as a resource for the prospective observation of CKD patients in Germany. A large network of German nephrologist practices is currently joining the project. Routinely obtained clinical data for non-dialysis dependent CKD patients are documented in health records electronically, and elements from these data are extracted using QuaNT (Qualitätssicherung Nephrologie und Transplantation) to create a centralized database. Here, we report cross-sectional data from 59 participating nephrology clinics and 6,187 patients with CKD Stage 3 - 5 in 2011. Mean age ± standard deviation (SD) was 72 ± 12 years. The distribution of CKD 3, 4, and 5 (non-dialysis) was 60%, 33%, and 8%, respectively. The major renal diseases were hypertension/vascular nephropathy (47%) and diabetic nephropathy (26%).&lt;/p></description></item><item><title>The problems of vitamin d insufficiency in older people</title><link>/posts/the-problems-of-vitamin-d-insufficiency-in-older-people.html</link><pubDate>Tue, 04 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/the-problems-of-vitamin-d-insufficiency-in-older-people.html</guid><description>&lt;h3 id="the-problems-of-vitamin-d-insufficiency-in-older-people">The problems of vitamin d insufficiency in older people.&lt;/h3>
+&lt;p>Aging Dis. 2012 Aug;3(4):313-29. Epub 2012 Jun 6.&lt;/p>
+&lt;p>Boucher BJ. Queen Mary University of London, Centre for Diabetes, Blizard Institute, London, E12AT, UK.&lt;/p>
+&lt;p>&lt;strong>(PDF is attached at the bottom of this page)&lt;/strong>&lt;/p>
+&lt;p>This report reviews evidence on disorders related to inadequate vitamin D repletion in older people. Vitamin D is as essential for bone health in adults as in children, preventing osteomalacia and muscle weakness and protecting against falls and low-impact fractures. Vitamin D is provided by skin synthesis by UVB-irradiation from summer sunshine and to a small extent by absorption from food. However, these processes become less efficient with age. Loss of mobility or residential care restricts solar exposure. Reduced appetite and financial problems often add to these problems. Thus, hypovitaminosis D is common world-wide, but is more common and more severe in older people.&lt;/p></description></item><item><title>Vitamin D Posters at Beyond the Bone</title><link>/posts/vitamin-d-posters-at-beyond-the-bone.html</link><pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-posters-at-beyond-the-bone.html</guid><description>&lt;h2 id="a-hrefpostsclick-here-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-3457click-herea-for-entire-beyond-the-bone-conference">&lt;a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3457">CLICK HERE&lt;/a> for entire Beyond the Bone conference&lt;/h2>
+&lt;p>&lt;strong>&lt;span style="color:#F00;">The following is extracted from PDF at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Ameri, Pietro&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Coleman, Laura A.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gilmour, Joyanna&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Giudici, Kelly&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kelly, Owen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>LeFever, F. Frank&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Li, Lily&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Plotnikoff, Gregory A.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rutten, Erica PA&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sergeev, Igor&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Trinko, J. Richard&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Weishaar, Tom&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Whisner, Corrie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yen, Tim&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="1--------serum-igf-i-concentration-increases-following-treatment-with-vitamin-d-a-proof-of-principle-study">1. SERUM IGF-I CONCENTRATION INCREASES FOLLOWING TREATMENT WITH VITAMIN D: A PROOF OF PRINCIPLE STUDY&lt;/h2>
+&lt;p>Ameri, P1,2, Bovio M1, Giusti A3, Canepa M1,4, Ferone D1, Murialdo G&lt;/p></description></item><item><title>Vitamin D, Beyond the Bone – Presentation New York</title><link>/posts/vitamin-d-beyond-the-bone-presentation-new-york.html</link><pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-beyond-the-bone-presentation-new-york.html</guid><description>&lt;p>Presented by the Abbott Nutrition Health Institute, the New York Academy of Sciences, and the Sackler Institute for Nutrition Science&lt;/p>
+&lt;p>Reported by Nicholette Zeliadt | Posted November 21, 2012&lt;/p>
+&lt;p>Keynote speaker: Daniel D. Bikle (University of California, San Francisco and VA Medical Center)&lt;/p>
+&lt;h3 id="beyond-the-bone-conference-summary--june-2013postsbeyond-the-bone-conference-summary--update">&lt;a href="/posts/beyond-the-bone-conference-summary">Beyond the bone: conference summary – June 2013&lt;/a> update&lt;/h3>
+&lt;p>First identified nearly a century ago for its essential role in maintaining bone health, vitamin D has recently undergone a renaissance of interest due to the resurgence of vitamin D deficiency and the identification of vitamin D receptors in tissues and cells outside the skeletal system. Indeed, a growing body of evidence indicates that vitamin D has several extraskeletal functions and plays a key role in the immune, cardiovascular, and nervous systems. Furthermore, a growing body of research links vitamin D status to health and vitamin D deficiency to the risk of developing certain diseases, including cancers, multiple sclerosis, type 1 diabetes, rheumatoid arthritis, hypertension, and cardiovascular disease. On September 21, 2012, basic science and clinical researchers gathered to discuss non-classical effects at the Vitamin D: Beyond Bone conference presented by the Abbott Nutrition Health Institute, the Sackler Institute for Nutrition Science, and the New York Academy of Sciences.&lt;/p></description></item><item><title>Thyroid and parathyroid</title><link>/posts/thyroid-and-parathyroid.html</link><pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/thyroid-and-parathyroid.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#what-is-the-difference-between-the-intact-parathyroid-hormone-and-the-parathyroid-hormone-asked-ai">What is the difference between the Intact Parathyroid Hormone and the Parathyroid Hormone (asked AI)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="what-is-the-difference-between-the-intact-parathyroid-hormone-and-the-parathyroid-hormone-asked-ai">What is the difference between the Intact Parathyroid Hormone and the Parathyroid Hormone (asked AI)&lt;/h4>
+&lt;p>The difference between Intact Parathyroid Hormone (iPTH) and Parathyroid Hormone (PTH) primarily lies in the specific forms of the hormone that each assay measures and their clinical utility.&lt;/p>
+&lt;p>&lt;strong>Intact Parathyroid Hormone (iPTH)&lt;/strong>&lt;/p>
+&lt;p>The iPTH assay measures the level of 1-84 PTH, which is the full, active form of the hormone, along with large truncated fragments of non-1-84 PTH, including 7-84 PTH. This assay is widely used, especially in the context of managing patients with chronic kidney disease, including those on dialysis, to assess parathyroid function and secondary hyperparathyroidism. The iPTH assay is considered the standard measurement for PTH in clinical practice and is used for approximately 90% of Japanese dialysis patients 1.&lt;/p></description></item><item><title>Vitamin D3 far better than D2 for hemodialysis</title><link>/posts/vitamin-d3-far-better-than-d2-for-hemodialysis.html</link><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d3-far-better-than-d2-for-hemodialysis.html</guid><description>&lt;h2 id="vitamin-d2-versus-vitamin-d3-supplementation-in-hemodialysis-patients">Vitamin D2 versus vitamin D3 supplementation in hemodialysis patients:&lt;/h2>
+&lt;p>a comparative pilot study.&lt;/p>
+&lt;p>Daroux M, Shenouda M, Bacri JL, Lemaitre V, Vanhille P, Bataille P&lt;/p>
+&lt;p>Department of Nephrology, Doctor Duchenne Hospital, Boulogne-sur-Mer - France; and Department of Nephrology, Regional University Hospital of Lille, Lille - France.&lt;/p>
+&lt;p>Journal of Nephrology &lt;span>[2012:0]&lt;/span>&lt;/p>
+&lt;p>Background: In patients with chronic kidney disease, vitamin D insufficiency is highly prevalent. It can be corrected by supplementation with either vitamin D2 or vitamin D3. Recent studies in patients without impaired kidney function suggest that vitamin D3 is more efficient than vitamin D2 in correcting vitamin D insufficiency. However, no direct comparison has been made in hemodialysis (HD) patients.&lt;/p></description></item><item><title>Kidney Dialysis clinics reluctant to add vitamin D treatment as they are not reimbursed</title><link>/posts/kidney-dialysis-clinics-reluctant-to-add-vitamin-d-treatment-as-they-are-not-reimbursed.html</link><pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/kidney-dialysis-clinics-reluctant-to-add-vitamin-d-treatment-as-they-are-not-reimbursed.html</guid><description>&lt;p>&lt;strong>And, treating with vitamin D would decrease their number of patients thus and their income&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-cost-effective-complement-to-managing-the-vitamin-d-deficient-and-anemic-dialysis-patient-in-the-bundledworld">A cost effective complement to managing the vitamin D deficient and anemic dialysis patient in the bundled world.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-alsoweb">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="a-cost-effective-complement-to-managing-the-vitamin-d-deficient-and-anemic-dialysis-patient-in-the-bundledworld">A cost effective complement to managing the vitamin D deficient and anemic dialysis patient in the bundled world.&lt;/h4>
+&lt;p>Nephrol News Issues. 2012 Jul;26(8):22-4, 26.&lt;/p>
+&lt;p>Larkin J, Bea L, Sharma A.&lt;/p>
+&lt;p>Pacific Renal Research Institute, Caldwell, Idaho, USA.&lt;/p></description></item><item><title>Omega 3 increases vitamin D in the blood – many studies</title><link>/posts/omega-3-increases-vitamin-d-in-the-blood-many-studies.html</link><pubDate>Sun, 26 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/omega-3-increases-vitamin-d-in-the-blood-many-studies.html</guid><description>&lt;p>&lt;strong>Many articles on this page&lt;/strong>&lt;/p>
+&lt;p>Omega-3 increases levels of active vitamin D&lt;/p>
+&lt;p>Active vitamin D is the form which the body actually used&lt;/p>
+&lt;p>Active vitamin D is not measured by standard vitamin D tests&lt;/p>
+&lt;p>Omega-3 is thus especially useful to get vitamin D to the body if the kidney is not functioning properly&lt;/p>
+&lt;hr>
+&lt;h4 id="the-effects-of-omega-3-fatty-acid-on-vitamin-d-activation-in-hemodialysis-patients-a-pilot-study--2015">The Effects of Omega-3 Fatty Acid on Vitamin D Activation in Hemodialysis Patients: A Pilot Study- 2015&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/active-d-and-omega-3.jpg" alt="image">
+&lt;p>Mar. Drugs 2015, 13(2), 741-755; doi:10.3390/md13020741&lt;/p></description></item><item><title>Echocardiograms confirm problems with low vitamin D</title><link>/posts/echocardiograms-confirm-problems-with-low-vitamin-d.html</link><pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/echocardiograms-confirm-problems-with-low-vitamin-d.html</guid><description>&lt;h1 id="relationship-of-vitamin-d-deficiency-to-echocardiography-findings-in-veterans">Relationship of Vitamin D Deficiency to Echocardiography Findings in Veterans&lt;/h1>
+&lt;p>Joshi et al., J Clin Exp Cardiolog 2012, S:3 &lt;a href="http://dx.doi.org/10.4172/2155-9880.S3-005">http://dx.doi.org/10.4172/2155-9880.S3-005&lt;/a>&lt;/p>
+&lt;p>Hetvi Joshi 1, Pablo Lopez 1, Beth Bailey 2, Costy Mattar 3, Todd Manning 4 and Alan Peiris 5 &lt;a href="mailto:peiris@etsu.edu">peiris@etsu.edu&lt;/a>&lt;/p>
+&lt;p>&amp;lsquo;East Tennessee State University, Department of Internal Medicine, USA 2East Tennessee State University, Department of Family Medicine, USA &amp;lsquo;Division of Cardiology, Mountain Home Veterans Affairs Medical Center, USA&lt;/p>
+&lt;p>Received April &amp;lsquo;2, 2012; Accepted May 2&amp;rsquo;, 2012; Published May 23, 2012&lt;/p></description></item><item><title>Quarterly vitamin D3 is too infrequent – it increases the occurrence of pneumonia</title><link>/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia.html</link><pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia.html</guid><description>&lt;h3 id="is-quarterly-bolus-vitamin-d3-supplementation-adequate-to-prevent-childhood-pneumonia">Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?&lt;/h3>
 &lt;p>?Transl Pediatr 2012 Jun 11. DOI: 10.3978/j.issn.2224-4336.2012.06.01&lt;/p>
 &lt;p>Ursula Thiem1, Enikö Kállay2, Kyra Borchhardt1&lt;/p>
 &lt;p>1Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, Vienna, Austria;&lt;/p>

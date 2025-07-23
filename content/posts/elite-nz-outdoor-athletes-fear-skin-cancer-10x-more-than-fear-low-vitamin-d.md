@@ -1,0 +1,1375 @@
+{
+    "title": "Elite NZ Outdoor athletes fear skin cancer 10X more than fear low vitamin D",
+    "slug": "elite-nz-outdoor-athletes-fear-skin-cancer-10x-more-than-fear-low-vitamin-d",
+    "aliases": [
+        "/Elite+NZ+Outdoor+athletes+fear+skin+cancer+10X+more+than+fear+low+vitamin+D+\u2013+Sept+2014",
+        "/5773"
+    ],
+    "tiki_page_id": 5773,
+    "date": "2014-09-18",
+    "categories": [
+        "Sun",
+        "Sports",
+        "AU, NZ"
+    ],
+    "tags": [
+        "AU, NZ",
+        "Sports",
+        "Sun",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bone",
+        "bone cancer",
+        "bone stress fractures",
+        "cancer",
+        "diabetes",
+        "falls fractures",
+        "high dose",
+        "immunity",
+        "intervention",
+        "metabolic",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "pregnancy",
+        "skin cancer",
+        "therapeutic intervention",
+        "tuberculosis",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
+}
+
+
+<h3 class="showhide_heading" id="Knowledge_and_attitudes_to_vitamin_D_and_sun_exposure_in_elite_New_Zealand_athletes:_a_cross-sectional_study">
+
+Knowledge and attitudes to vitamin D and sun exposure in elite New Zealand athletes: a cross-sectional study</h3>
+
+<p>
+
+Journal of the International Society of Sports Nutrition 2014, 11:47 doi:10.1186/s12970-014-0047-6<br />
+
+Nicole Walker1, Thomas D Love2, Dane Francis Baker3, Phillip Brian Healey3, Jillian Haszard1, Antony S Edwards4 and Katherine Elizabeth Black1 katherine.black@otago.ac.nz</p>
+
+<p>
+
+Background Sun safety and vitamin D status are important for prolonged health. They are of particular interest to those working with athletes for whom for whom safe sun practices maybe limited. The aim of this cross-sectional study was to describe the attitudes of elite New Zealand athletes to both vitamin D and sun exposure.</p>
+
+<p>
+
+Methods 110 elite New Zealand outdoor athletes volunteered to participate in an interview with a trained interviewer. The interviewer asked the athletes questions on their Vitamin D knowledge, attitudes and practices regarding sun exposure as well as their concerns about skin cancer.</p>
+
+<p>
+
+Results Athletes were more concerned about their risk of skin cancer (66%) than their vitamin D status (6%). Although the majority (97%) were aware of Vitamin D and could identify the sun as a source (76%) only 17% could name another source of Vitamin D. Only 10 (9%) reported always applying sunscreen before going out in the sun. No athlete reported reapplying sunscreen every hour and 25 suggesting that they never reapply sunscreen.</p>
+
+<p>
+
+Conclusions Athletes are concerned about skin cancer however, their use of sunscreen is not optimal suggesting reapplication of sunscreen could be targeted in order to reduce the risk of sun cancer. Awareness of sources of Vitamin D other than the sun may also need to be improved potentially through educational interventions and possibly in conjunction with sun smart messages.</p>
+
+<div>
+
+---
+
+<p style="margin-left:61pt;">
+
+Background</p>
+
+<p style="margin-left:61pt;">
+
+The Vitamin D status of athletes has been described for various athletic populations <sup>[1]</sup>. History shows that Vitamin D deficiency or insufficiency may be detrimental to performance <span>[2-4]</span> and more recent evidence suggests health implications for those with inadequate compared to those with an adequate serum vitamin D concentration <sup>[5]</sup>. Insufficient serum Vitamin D concentration has been associated with lower muscle strength and endurance capacity, further it is known that Vitamin D plays an important role in bone health <sup>[1,2,6]</sup>. However, the awareness of athletes to Vitamin D and their knowledge of its potential implications for health and performance is currently unknown. An understanding of an athlete’s awareness, knowledge and attitudes towards Vitamin D could help guide interventions aimed at ensuring adequate Vitamin D status in elite athletes.</p>
+
+<p style="margin-left:61pt;">
+
+Vitamin D is produced in the skin when ultraviolet B (UVB) radiation from sunlight converts cutaneous 7-dehydrocholesterol to previtamin D <sup>[7]</sup>. Given the importance of sun exposure for vitamin D synthesis and skin cancer risk, an athletes attitudes towards skin cancer risk may influence their vitamin D status. At present no study has investigated elite athletes’ attitudes to sun exposure and skin cancer. Sun safety messages are commonplace in New Zealand and Australia due to the high rates of skin cancer in these countries from sun exposure <span>[8-10]</span>. Outdoor athletes may have a increased risk of skin cancer as they spend many hours training in the sun <span>[11-13]</span>, are limited in the sun protective clothing they are able to wear <sup>[13,14]</sup>, and often cannot seek shade during training or games, with the effectiveness of sunscreen reduced by sweating <sup>[13,15]</sup> all factors which increase the risk of skin cancer. Therefore these athletes are likely to be at higher risk of skin cancer than the general population. On the contrary, information about Vitamin D is not as strongly promoted and is much less understood by the public <sup>[8,9]</sup>. It is therefore important to understand an athletes knowledge and concerns for Vitamin D and sun exposure prior to initiating educational programs.</p>
+
+<p style="margin-left:61pt;">
+
+Methods</p>
+
+<p style="margin-left:61pt;">
+
+110 elite outdoor athletes volunteered and provided written, informed consent to participate. Elite was defined as competing internationally. Ethical approval was obtained from the University of Otago Ethics Committee before athletes were approached to participate in the study. Athletes were recruited from rugby, field hockey and rowing and all provided written consent prior to any data collection. Data was collected at the team training bases located around 37° latitude (Hamiliton, Auckland and Lake Karapioro) during a New Zealand summer.</p>
+
+<p style="margin-left:61pt;">
+
+Participants were interviewed in private on topics including Vitamin D and sun exposure. In total there were 57 multiple-choice or short answer questions based on previous questionnaires <span>[16-19]</span>. The interview sessions were peer reviewed by a registered sports dietitian and pilot tested for clarity via a focus group prior to the main study.</p>
+
+<p style="margin-left:61pt;">
+
+Participants were asked to identify their ethnicity (self-selected based on the New Zealand census) <sup>[20]</sup>. Athletes were also asked to describe the colour of their natural, untanned skin using the Fitzgerald scale <sup>[21]</sup>.</p>
+
+<p style="margin-left:61pt;">
+
+Knowledge of vitamin D was initiated by first asking the participants if they “had ever heard of vitamin D?”, followed by questions “are you able to name any health benefits of vitamin D?”, and “do you know any personal characteristics that could affect an individual’s vitamin D levels?”. A knowledge score was created by summing the number of correct responses for both these questions. Participants were not informed if their responses were correct and no help or prompts were provided by the interviewer.</p>
+
+<p style="margin-left:61pt;">
+
+Participants were also asked “are you concerned about your Vitamin D status?”</p>
+
+<p style="margin-left:61pt;">
+
+A section of the questionnaire was designed to assess athletes attitudes towards sun exposure. This section included questions on the participant’s concern about their risk of skin cancer from sun exposure, concern about their vitamin D status and whether they intentionally spend time in the sun to improve their vitamin D status or to tan; sunscreen use and, if appropriate, reasons for not using sunscreen or the sunscreen protection factor and reapplication were asked; clothing during training sessions including questions on sunglasses and hat use was collected.</p>
+
+<p style="margin-left:61pt;">
+
+Statistical analyses were undertaken using Stata 12.0 (StataCorp, USA). Chi-squared tests were used to determine if answers to questions on knowledge of vitamin D, attitudes to vitamin D and sun exposure differed between sports, ethnicity and gender. Where significant differences (p &lt; 0.05) within groups were found, post-hoc binomial probability tests were used to determine whether there were proportional differences in the answers given between each of the three sports and four ethnic groups. Bonferroni adjustment was used to account for multiple comparisons. The Kruskal-Wallis test was used to determine differences between sport, ethnicity and gender for the questions related to sun exposure and sunscreen use which had five possible answers “Never”, “Rarely”, “Sometime”, “Often”, “Always”. The data are presented as the number of participants (percentage of that category of participants) unless otherwise stated.</p>
+
+<p style="margin-left:61pt;">
+
+Results</p>
+
+<p style="margin-left:61pt;">
+
+The characteristics of athletes are shown in Table 1. Ethnic groups were; New Zealand (NZ) European, Maori, Pacific Island and “Other” which included all other ethnicities.</p>
+
+<table align="center" cellpadding="0" cellspacing="0" width="573"><tbody><tr><td align="left">
+
+<p>
+
+Table 1 Number (%) of participants in each gender, ethnicity, skin colour and sport category and mean (±SD) age (years)__</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="width:141px;height:18px;">
+
+<p>
+
+Characteristic</p>
+
+</td>
+
+<td style="width:195px;height:18px;">
+
+<p style="margin-left:53pt;">
+
+Category</p>
+
+</td>
+
+<td style="width:237px;height:18px;">
+
+<p style="margin-left:48pt;">
+
+All n = 110</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:17px;">
+
+<p>
+
+Gender*</p>
+
+</td>
+
+<td style="width:195px;height:17px;">
+
+<p style="margin-left:53pt;">
+
+Male</p>
+
+</td>
+
+<td style="width:237px;height:17px;">
+
+<p style="margin-left:48pt;">
+
+76 (69%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Female</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+34 (31%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:16px;">
+
+<p>
+
+Age (yearsf</p>
+
+</td>
+
+<td style="width:195px;height:16px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:237px;height:16px;">
+
+<p style="margin-left:48pt;">
+
+23.53 ± 3.11</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+Ethnicity*</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+NZ European</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+76 (69%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Maori</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+19 (17%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:14px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:14px;">
+
+<p style="margin-left:53pt;">
+
+Pacific Island</p>
+
+</td>
+
+<td style="width:237px;height:14px;">
+
+<p style="margin-left:48pt;">
+
+11 (10%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Other</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+4 (4%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+Skin Colour*</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Fair</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+35 (32%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Medium</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+42 (38%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:14px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:14px;">
+
+<p style="margin-left:53pt;">
+
+Olive</p>
+
+</td>
+
+<td style="width:237px;height:14px;">
+
+<p style="margin-left:48pt;">
+
+18 (16%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Dark</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+15 (14%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+Sport*</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Rugby</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+35 (32%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:15px;">
+
+<p style="margin-left:53pt;">
+
+Hockey</p>
+
+</td>
+
+<td style="width:237px;height:15px;">
+
+<p style="margin-left:48pt;">
+
+22 (20%)</p>
+
+</td>
+
+</tr><tr><td style="width:141px;height:16px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:195px;height:16px;">
+
+<p style="margin-left:53pt;">
+
+Rowing</p>
+
+</td>
+
+<td style="width:237px;height:16px;">
+
+<p style="margin-left:48pt;">
+
+53 (48%)</p>
+
+</td>
+
+</tr></tbody></table><div style="clear:both;">
+
+</div>
+
+<p>
+
+* number (%), | mean ± SD,</p>
+
+<p>
+
+</p>
+
+</td>
+
+</tr></tbody></table><div style="clear:both;">
+
+</div>
+
+<br clear="all" /><p>
+
+</p>
+
+<p style="margin-left:61pt;">
+
+The majority 107 of the 110 (97%) athletes reported that they had heard of vitamin D and there were no significant differences between these groups.</p>
+
+<p style="margin-left:61pt;">
+
+84 (76%) of athletes were able to identify the sun as source of vitamin D as shown in Table 2. There were differences in ethnicity (p &lt; 0.001) as more NZ European and Maori athletes knew the sun was a source of vitamin D compared to Pacific Island athletes (p &lt; 0.008). However, only 18 (17%) of the total sample was able to name another source of vitamin D such as food sources (6%) or supplements (10%). Examples of the correct food sources the participants identified included: milk, meat, fish and eggs. Incorrect answers included a variety of fruits and vegetables. One athlete correctly mentioned sunbeds as a source. There were no differences between males and females or the four ethnicities in athletes’ knowledge of sources of vitamin D, other than the sun. However, there was a difference between sports (p = 0.038) with rowers more likely to know another source than hockey players (p = 0.017).</p>
+
+</div>
+
+<p>
+
+</p>
+
+<div>
+
+<table align="center" cellpadding="0" cellspacing="0" width="883"><tbody><tr><td align="left">
+
+<p align="left">
+
+Table 2 Proportion of athletes able to name a source of Vitamin D</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="width:99px;height:33px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:338px;height:33px;">
+
+<p style="margin-left:15pt;">
+
+Able to name the sun as a source of vitamin D n (%)</p>
+
+</td>
+
+<td style="width:65px;height:33px;">
+
+<p style="margin-left:9pt;">
+
+p-value<sup>A</sup></p>
+
+</td>
+
+<td style="width:264px;height:33px;">
+
+<p style="margin-left:10pt;">
+
+Able to name another source of vitamin D n (%)</p>
+
+</td>
+
+<td style="width:117px;height:33px;">
+
+<p style="margin-left:38pt;">
+
+p-valueA</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:17px;">
+
+<p>
+
+All</p>
+
+</td>
+
+<td style="width:338px;height:17px;">
+
+<p style="margin-left:15pt;">
+
+84 (76%)</p>
+
+</td>
+
+<td style="width:65px;height:17px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:17px;">
+
+<p style="margin-left:10pt;">
+
+19 (17%)</p>
+
+</td>
+
+<td style="width:117px;height:17px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:14px;">
+
+<p>
+
+Gender</p>
+
+</td>
+
+<td style="width:338px;height:14px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:65px;height:14px;">
+
+<p style="margin-left:9pt;">
+
+0.323</p>
+
+</td>
+
+<td style="width:264px;height:14px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:117px;height:14px;">
+
+<p style="margin-left:38pt;">
+
+0.634</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p style="margin-left:14pt;">
+
+Male</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p style="margin-left:15pt;">
+
+56 (74%)</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p style="margin-left:10pt;">
+
+14 (18%)</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p style="margin-left:14pt;">
+
+Female</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p style="margin-left:15pt;">
+
+28 (82%)</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p style="margin-left:10pt;">
+
+5 (15%)</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p>
+
+Ethnicity</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p style="margin-left:9pt;">
+
+&lt;0.001</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p style="margin-left:38pt;">
+
+0.119</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p style="margin-left:14pt;">
+
+NZ European</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p style="margin-left:15pt;">
+
+64 (84%)</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p style="margin-left:10pt;">
+
+13 (17%)</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:14px;">
+
+<p style="margin-left:14pt;">
+
+Maori</p>
+
+</td>
+
+<td style="width:338px;height:14px;">
+
+<p style="margin-left:15pt;">
+
+16 (84%)</p>
+
+</td>
+
+<td style="width:65px;height:14px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:14px;">
+
+<p style="margin-left:10pt;">
+
+6 (31%)</p>
+
+</td>
+
+<td style="width:117px;height:14px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p style="margin-left:14pt;">
+
+Pacific Island</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p style="margin-left:15pt;">
+
+2 (18%)*<sup>1,2</sup></p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p style="margin-left:10pt;">
+
+0</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p style="margin-left:14pt;">
+
+Other</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p style="margin-left:15pt;">
+
+2 (50%)</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p style="margin-left:10pt;">
+
+0</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p>
+
+Sport</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p style="margin-left:9pt;">
+
+0.058</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p style="margin-left:38pt;">
+
+0.038</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p style="margin-left:14pt;">
+
+Rugby</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p style="margin-left:15pt;">
+
+22 (63%)</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p style="margin-left:10pt;">
+
+6 (17%)</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:15px;">
+
+<p style="margin-left:14pt;">
+
+Hockey</p>
+
+</td>
+
+<td style="width:338px;height:15px;">
+
+<p style="margin-left:15pt;">
+
+17 (77%)</p>
+
+</td>
+
+<td style="width:65px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:15px;">
+
+<p style="margin-left:10pt;">
+
+0</p>
+
+</td>
+
+<td style="width:117px;height:15px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr><tr><td style="width:99px;height:16px;">
+
+<p style="margin-left:14pt;">
+
+Rowing</p>
+
+</td>
+
+<td style="width:338px;height:16px;">
+
+<p style="margin-left:15pt;">
+
+45 (85%)</p>
+
+</td>
+
+<td style="width:65px;height:16px;">
+
+<p>
+
+</p>
+
+</td>
+
+<td style="width:264px;height:16px;">
+
+<p style="margin-left:10pt;">
+
+13 (25%)*<sup>3</sup></p>
+
+</td>
+
+<td style="width:117px;height:16px;">
+
+<p>
+
+</p>
+
+</td>
+
+</tr></tbody></table><div style="clear:both;">
+
+</div>
+
+</td>
+
+</tr></tbody></table><div style="clear:both;">
+
+</div>
+
+<br clear="all" /><table align="center" cellpadding="0" cellspacing="0" width="883"><tbody><tr><td align="left">
+
+<p>
+
+</p>
+
+</td>
+
+</tr></tbody></table><div style="clear:both;">
+
+</div>
+
+<br clear="all" /><p>
+
+</p>
+
+<p>
+
+n = 110.</p>
+
+<p>
+
+* p &lt; 0.05 with Bonferroni adjustment.</p>
+
+<p>
+
+<sup>A</sup> Chi-squared test.</p>
+
+<p>
+
+<sup>1      </sup><span dir="ltr">Significant difference between NZ European and Pacific Island ethnicity (p &lt; 0.05).</span></p>
+
+<p>
+
+<sup>2       </sup><span dir="ltr">Significant difference between Maori and Pacific Island ethnicity (p &lt; 0.05).</span></p>
+
+<p>
+
+<sup>3       </sup><span dir="ltr">Significant difference between Rowing and Hockey (p &lt; 0.05).</span></p>
+
+</div>
+
+<p>
+
+</p>
+
+<div>
+
+<p>
+
+Almost half (n = 45) (45%) of the sample who had heard of vitamin D were able to correctly name at least one personal characteristic that affects vitamin D status such as: skin colour (n = 30, 27%), sun exposure (n = 22, 20%), diet (n = 9, 8%), body fat (n = 2, 2%) and age (n = 2, 2%). Fourteen percent of athletes could name two or more characteristics and although three quarters of these athletes were rowers this was not a significantly different between sports. There were no differences in athletes’ knowledge of personal characteristics affecting vitamin D status according to gender, sport or ethnicity.</p>
+
+<p>
+
+<strong>Of those athletes who had heard of vitamin D, one quarter (n = 27, 25%) were able to name at least one health benefit of having an adequate vitamin D status.</strong> The health benefits named included: bone health (n = 18, 16%), immunity (n = 7, 6% of athletes), mood (n = 6, 5%), and muscle strength (n = 2, 2%).</p>
+
+<p>
+
+Many of those who named bone health as a benefit were rowers (94%). There was a significant difference in knowledge of the health benefits of having an adequate vitamin D status between sports (p = 0.031) with rowing having greater knowledge than hockey.</p>
+
+<p>
+
+One third of athletes (n = 36, 33%) reported intentionally spending time in the sun in order to get a tan and two thirds (n = 74, 66%) were concerned about the risk of skin cancer when exposing their skin to the sun as shown in Table 3. This compared to only 6% (7 athletes) who were concerned with their Vitamin D status. There were gender differences (p &lt; 0.01), sport differences (p &lt; 0.01) and ethnic differences (p = 0.031) for the athletes that spent time in the sun to tan. Over half of female athletes (n = 22) spend time in the sun to tan in comparison to 18% (n = 14) of males (p &lt; 0.01). No Pacific Island athletes reported spending time in the sun to tan compared to 65% (n = 31) of NZ Europeans (p &lt; 0.01). Hockey players (n = 16, 73%) were significantly more likely to spend time in the sun to tan than rowers (n = 14, 26%) or rugby players (n = 6, 17%) (p &lt; 0.01). Male hockey players reported spending more time in the sun than male rowers and rugby players (p &lt; 0.001). In addition, female hockey players spent more time in sun to tan than female rowers (p = 0.018).</p>
+
+</div>
+
+<p>
+
+</p>
+
+<div>
+
+<p>
+
+<br clear="all" /><sup>A</sup> Chi-squared test.</p>
+
+<p>
+
+Significant difference between NZ European and Pacific Island ethnicity (p &lt; 0.05). Significant difference between Hockey and Rugby (p &lt; 0.05).</p>
+
+<p>
+
+Significant difference between Hockey and Rowing (p &lt; 0.05).</p>
+
+<p>
+
+Significant difference between Rugby and Hockey (p &lt; 0.05).</p>
+
+<p>
+
+Significant difference between Rugby and Rowing (p &lt; 0.05).</p>
+
+</div>
+
+<p>
+
+</p>
+
+<p>
+
+As displayed in Table 3, there was a difference between sports in those that were concerned about their risk of skin cancer with sun exposure (p = 0.047). Half (n = 18) of rugby players were concerned about the risk of skin cancer when exposed to the sun which was significantly less than the proportion of concerned hockey players (n = 18, 82%) or rowers (n = 37, 70%) (p &lt; 0.01). There was no difference between gender or ethnicity.</p>
+
+<p>
+
+Ninety-nine of 110 athletes reported using some sunscreen, however <strong>only 10 (9%) athletes reported that they always apply sunscreen before going out in the sun.</strong> There was a significant difference between ethnicity for sunscreen use with those of Pacific Island ethnicity reporting less sunscreen use compared to the NZ European (p &lt; 0.001) and tending to less regularly use sunscreen compared to NZ Maori (P = 0.076). No participant reported reapplying sunscreen every hour, 5 reported reapplying it at breaks in training and the same number only if they were reminded to do so. A further 8 (7%) reported reapplying sunscreen if they felt their skin burning and another 15 saying they only did it randomly when they remembered. However, 48 (44%) reported that they never reapply sunscreen and 25 (23%) did not know how regularly they reapplyed sunscreen. Of those that were concerned about skin cancer (n = 73), only 45% (n = 33) reported using sunscreen always or most of the time, which was not significantly different (p = 0.312) to those that were not concerned about skin cancer (n = 37), with 13 athletes (35%) reporting that they used sunscreen most or all of the time. There was no difference in sunscreen use by gender (p = 0.094) nor by sport when controlling for ethnicity (p = 0.471). The majority of athletes stated that they used an SPF30 for protection (range SPF15-100). Time and availability were the two main reasons provided for not applying sunscreen with 75 (68%) and 67 (61%) athletes respectively providing these as a barrier to sunscreen use. Despite lack of availability being cited as a reason for not using sunscreen 65 athletes did state that it was available at training. Sunglasses were always worn by 40 athletes but 36 responded that they never wear sunglasses. Only two athletes stated that they always seek the shade and 68 never actively seeking the shade for protection. NZ European sought shade more frequently than Maori (p = 0.028) and Pacific Island (p = 0.001). There was also a gender difference with females less frequently seeking shade than males (p &lt; 0.001). In terms of sun protection for the head only one athlete always wore a hat and 56 never wore one. The most common type of hat was a baseball type cap.</p>
+
+<p>
+
+Discussion</p>
+
+<p>
+
+This study showed that more elite New Zealand athletes were concerned about their future skin cancer risk than concerned about their vitamin D status. Yet despite their skin cancer concerns, the athletes’ practices in the sun, especially around sunscreen re-application could be elevating their risk of skin cancer.</p>
+
+<p>
+
+It seems that they are more aware of Vitamin D than the general population. Almost all (97%) athletes in this study had heard of vitamin D, in comparison, published literature from the general population reports only 69-84% have heard of vitamin D <sup>[16,19,22]</sup>. The differences between the general population and this athletic population may reflect the dietetic and medical support available to these elite athletes, which is less available to the general population. Future studies should investigate the source of information. Further, athletes generally had good knowledge of the sun as a source of vitamin D (76%) which was similar to previous findings in the general population <sup>[16,22,23]</sup>. However in contrast to the published research in the general population, a smaller proportion of participants could name a correct food source or supplements as a source of vitamin D in the present study <sup>[16,22,24]</sup>. Although vitamin D intake from food sources alone would not provide sufficient vitamin D for optimal serum concentrations, intake from food could assist when sun exposure is limited. Elite New Zealand athletes have greater access to nutritional support and education than the general population and given the potential role for Vitamin D in health and performance it is interesting that their knowledge of food sources of Vitamin D was not higher than the general population. However, these results must be interpreted with caution as the type of questionnaire used to assess knowledge may influence the scores. The present study utilised an open ended question style whereas others have used a multi-choice type questionnaire <sup>[16,22]</sup>, which generally overestimated the participants knowledge. When groups are asked prompted questions they seem to have a greater knowledge of vitamin D <sup>[16,19,22]</sup> than when asked open-ended questions <sup>[19,22]</sup>, indicating the ability to express vitamin D knowledge might be highly dependent on the question format. This is highlighted by Kung and Lee <sup>[19]</sup> who asked older (&gt;50 years) Chinese women either open-ended questions or prompted responses about Vitamin D, the proportion of correct responses varied depending on the type of questioning <sup>[16,22]</sup>. Only one-quarter named the sun as a source of vitamin D, less than 10% named correct food sources and less than 1% were aware vitamin D could be obtained from supplements. Interestingly, when they were then prompted, responses were inconsistent as over half of the group claimed to know the sun is a source of vitamin D. Furthermore, caution must be taken when comparing studies as the results may reflect the sun smart messages individual to each country <sup>[9,23]</sup>. Regardless of previous studies, athletes’ vitamin D knowledge was poor especially when considering the potential risk of low vitamin D status to health and sporting performance <sup>[25]</sup>.</p>
+
+<p>
+
+<strong>Despite the role vitamin D plays in health, only a small percentage of athletes were concerned about vitamin D status (6%) which is similar to studies in the general population in which 9% </strong><sup>[16]</sup> and 12% <sup>[22]</sup> were concerned with their vitamin D status. In the current study, those who had a greater knowledge score were concerned about vitamin D. Therefore they may have understood their risk of deficiency and educated themselves on potential solutions. Another study <sup>[24]</sup> found those who knew more about the sources of vitamin D tended to consume more vitamin D-containing foods and supplements. Therefore educating athletes about the importance of vitamin D for helath and importance may increase concern for their vitamin D status and subsequently, behaviours that have the potential to improve vitamin D status, either through food, supplementation, safe sun exposure or a combination of factors, will be undertaken. There have been no studies to date investigating the effectiveness of educational interventions on behaviour change and vitamin D status.</p>
+
+<p>
+
+<strong>The proportion of athletes who intentionally spend time in the sun to improve their vitamin D status (12%) was similar to the general population (9%) of New Zealand <sup>[26]</sup>.</strong> One Australian study <sup>[22]</sup> found 16% of participants intended to increase their sun exposure due to concerns about their vitamin D status and 21% had already changed their behaviour. This practice could increase the risk for skin cancer; which is well-known to be associated with sun exposure <sup>[27]</sup>. Advice to athletes regarding Vitamin D should be provided alongside messages about sunscreen use to ensure athletes are not further increasing their risk of skin cancer in attempt to improve vitamin D status <sup>[9,28]</sup>.</p>
+
+<p>
+
+In contrast to the number of athletes concerned with their vitamin D status, a greater number were concerned about skin cancer as the result of sun exposure (66%), this possibly reflects the strongly promoted sun safety messages and the high prevalence of skin cancer in New Zealand <sup>[29,30]</sup>. The high rate of concern for skin cancer may be the reason for the high proportion of athletes who report sunscreen use. This suggests an awareness of sunscreen use to attenuate the risk of skin cancer. However, the lower proportion who use sunscreen all the time and the even smaller amount who regularly reapply sunscreen is of concern especially given the higher risk of skin cancer in New Zealand <sup>[29,30]</sup>. The data suggest that even those who are concerned about skin cancer risk are not fully aware of the optimal application of sunscreen. In order to promote a more effective use of sunscreen ie frequent reapplication, the reasons for not using sunscreen need to be addressed. Factors such as ensuring sunscreen is available at the training location and that the athletes are provided with training breaks in order to reapply sunscreen along with towels to wipe excess cream off their hands therefore minimizing the impact on training could help promote sunscreen use and attenuate the risk of skin cancer. Factors such as seeking shade and the wearing of sunglasses maybe more difficult to address in some sports due to the training venue or sporting regulations, however, in such cases education about attenuating the risk of skin cancer whilst away from training may be beneficial.</p>
+
+<p>
+
+Conclusion</p>
+
+<p>
+
+The current guidelines in New Zealand and the United Kingdom suggest casual summer sun exposure is enough to maintain vitamin D in a healthy population <sup>[9,12,28]</sup>, therefore there is no reason that sun safety messages and vitamin D cannot be promoted in unison.</p>
+
+<p>
+
+<span style="font-size:14px;">References</span></p>
+
+<p>
+
+1.     <span dir="ltr">Larson-Meyer DE, Willis KS: </span>Vitamin D and athletes. Curr Sports Med Rep 2010, 9(4):220-226.</p>
+
+<p>
+
+2.     <span dir="ltr">Foo LH, Zhang Q, Zhu K, Ma G, Hu X, Greenfield H, Fraser DR: </span>Low vitamin D status has an adverse influence on bone mass, bone turnover, and muscle strength in Chinese adolescent girls. JNutr 2009, 139(5):1002-1007.</p>
+
+<p>
+
+3.     <span dir="ltr">Glerup H, Mikkelsen K, Poulsen L, Hass E, Overbeck S, Andersen H, Charles P, Eriksen</span></p>
+
+<p>
+
+E: Hypovitaminosis D myopathy without biochemical signs of osteomalacic bone involvement. Calcif Tissue Int 2000, 66(6):419-424.</p>
+
+<p>
+
+4.     <span dir="ltr">Hamilton B: </span>Vitamin D and human skeletal muscle. Scand J Med Sci Sports 2010, 20(2): 182-190.</p>
+
+<p>
+
+5.     <span dir="ltr">Cannell JJ, Hollis BW, Sorenson MB, Taft TN, Anderson JJB: </span>Athletic performance and vitamin D. Med Sci Sports Exerc 2009, 41(5): 1102-1110.</p>
+
+<p>
+
+6.     <span dir="ltr">Ruohola JP, Laaksi I, Ylikomi T, Haataja R, Mattila VM, Sahi T, Tuohimaa P, Pihlajamaki H: </span>Association between serum 25(OH)D concentrations and bone stress fractures in Finnish young men. J Bone Miner Res 2006, 21(9):1483-1488.</p>
+
+<p>
+
+7.     <span dir="ltr">Engelsen O: </span>The relationship between ultraviolet radiation exposure and vitamin D status. Nutrients 2010, 2(5):482-495.</p>
+
+<p>
+
+8.     <span dir="ltr">Bonevski B, Bryant J, Lambert S, Brozek I, Rock V: </span>The ABC of Vitamin D: a qualitative study of the knowledge and attitudes regarding vitamin D deficiency amongst selected population groups. Nutrients 2013, 5(3):915-927.</p>
+
+<p>
+
+9.     <span dir="ltr">New Zealand Ministry of Health: </span>Consensus Statement vitamin D and Sun Exposure in NZ. In MoHaCSoN. Edited by Zealand. Wellington: Ministry of Health; 2012.</p>
+
+<p>
+
+10.     <span dir="ltr">O’Dea D: </span>The costs of skin cancer to New Zealand <span>[Internet]</span>. 2009. <span>[updated 2009 Oct; cited 2012 Sept 25]</span>. Available from: <a href="http://www.cancernz.org.nz/reducing-your-cancer-risk/sunsmart/about-skin-cancer/costs-of-skin-cancer/">http://www.cancernz.org.nz/reducing-your-cancer- risk/sunsmart/about-skin-cancer/costs-of-skin-cancer/</a>.</p>
+
+<p>
+
+11.     <span dir="ltr">Moehrle M: </span>Ultraviolet exposure in the Ironman triathlon. Med Sci Sports Exerc 2001, 33(8):1385-1386.</p>
+
+<p>
+
+12.     <span dir="ltr">Herlihy E, Gies PH, Roy CR, Jones M: </span>Personal dosimetry of solar UV radiation for <span style="font-size:.75em;line-height:1.5;">different outdoor activities. Photochem Photobiol 1994, 60(3):288-294.</span></p>
+
+<p>
+
+13.     <span dir="ltr">Moehrle M: </span>Outdoor sports and skin cancer. Clin Dermatol 2008, 26(1): 12-15.</p>
+
+<p>
+
+14.     <span dir="ltr">Lawler S, Spathonis K, Eakin E, Gallois C, Leslie E, Owen N: </span>Sun exposure and sun protection behaviours among young adult sport competitors. Aust N Z J Public Health 2007, 31(3):230-234.</p>
+
+<p>
+
+15.    <span dir="ltr">Moehrle M, Koehle W, Dietz K, Lischka G: </span>Reduction of minimal erythema dose by sweating. Photodermatol Photo 2000, 16(6):260-262.</p>
+
+<p>
+
+16.     <span dir="ltr">Vu LH, van der Pols JC, Whiteman DC, Kimlin MG, Neale RE: </span>Knowledge and attitudes about vitamin D and impact on sun protection practices among urban office workers in Brisbane, Australia. Cancer Epidemiol BiomarkPrev 2010, 19(7):1784-1789.</p>
+
+<p>
+
+17.    <span dir="ltr">Froiland K, Koszewski W, Hingst J, Kopecky L: </span>Nutritional supplement use among college athletes and their sources of information. Int J Sport Nutr Exerc Metab 2004, 14:104-120.</p>
+
+<p>
+
+18.    <span dir="ltr">Glanz K, Yaroch EL, Dancel M, Saraiya M, Crane LA, Buller DB, Manne S, O’Riordan DL, Heckman CJ, Hay J, Robinson JK: </span>Measures of sun exposure and sun protection practices for behavioral and epidemiologic research. Arch Dermatol 2008, 144(2):217.</p>
+
+<p>
+
+19.    <span dir="ltr">Kung AWC, Lee KK: </span>Knowledge of vitamin D and perceptions and attitudes toward sunlight among Chinese middle-aged and elderly women: a population survey in Hong Kong. BioMed Central Public Health 2006, 6:226-232.</p>
+
+<p>
+
+20.     <span dir="ltr">Statistics New Zealand: </span>New Zealand 2013 Census. Edited by Statistics. Auckland: New Zealand Governement; Statistics New Zealand;</p>
+
+<p>
+
+21.    <span dir="ltr">Fitzpatrick TB: </span>The validity and practicality of sun-reactive skin types I through VI.<span style="font-size:.75em;line-height:1.5;">Arch Dermatol (I960) 1988, 124(6):869.</span></p>
+
+<p>
+
+22.    <span dir="ltr">Youl PH, Janda M, Kimlin M: </span>Vitamin D and sun protection: the impact of mixed public health messages in Australia. Int J Cancer 2009, 124(8): 1963-1970.</p>
+
+<p>
+
+23.    <span dir="ltr">Dixon H, Warne C, Scully M, Dobbinson S, Wakefield M: </span>Agenda-setting effects of sun-related news coverage on public attitudes and beliefs about tanning and skin cancer. Health Commun 2013, 27(3):261-269.</p>
+
+<p>
+
+24.    <span dir="ltr">Toher C, Lindsay K, McKenna M, Kilbane M, Curran S, Harrington L, Uduma O, McAuliffe FM: </span>Relationship between vitamin D knowledge and 25-hydroxyvitamin D levels amongst pregnant women. J Hum Nutr Diet 2013, 29(2):173-181.</p>
+
+<p>
+
+25.    <span dir="ltr">Angeline ME, Gee AO, Shindle M, Warren RF, Rodeo SA: </span>The effects of vitamin D deficiency in athletes. Am J Sports Med 2013, 41(2):461-464.</p>
+
+<p>
+
+26.     <span dir="ltr">Gray R: </span>Does Concern about Vitamin D Affect People’s Sun Protection Behaviour? <span>[In Fact]</span>. Wellington: Health Sponsorship Council; 2010.</p>
+
+<p>
+
+27.    <span dir="ltr">Moehrle M: </span>Extreme UV exposure of professional cyclists. Dermatology (Basel) 2000, 201(1):44.</p>
+
+<p>
+
+28.     <span dir="ltr">British Association of Dermatoligists, Cancer Research UK, Diabetes UK, Multiple Sclerosis Society, National Heart Forum, National Osteoporosis Society, Society. PCD: </span>Consensus vitamin D position statement. In NHS livewell. Edited by UK CR. United Kingdom: Cancer Research UK; 2010.</p>
+
+<p>
+
+29.     <span dir="ltr">Diffey BL: </span>When should sunscreen be reapplied? J Am Acad Dermatol 2001, 45(6):882-885.</p>
+
+<p>
+
+30.      <span dir="ltr">Pruim B, Green A: </span>Photobiological aspects of sunscreen re-application. Australas J Dermatol 1999, 40(1): 14-18.</p>
+
+<p>
+
+</p>

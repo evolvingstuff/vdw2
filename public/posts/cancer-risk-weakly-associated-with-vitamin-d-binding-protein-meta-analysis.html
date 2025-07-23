@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Cancer risk weakly associated with vitamin D-binding protein – meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Cancer risk weakly associated with vitamin D-binding protein – meta-analysis</h1><time>September 14, 2015</time><div data-pagefind-body><h4 id=meta-analysis-of-vitamin-d-binding-protein-and-cancer-risk>Meta-analysis of vitamin D-binding protein and cancer risk.</h4><p>Cancer Epidemiol Biomarkers Prev. 2015 Sep 12. pii: cebp.0262.2015. <span>[Epub ahead of print]</span></p><p>Tagliabue E1, Raimondi S2, Gandini S3.</p><p>BACKGROUND:</p><p>Epidemiologic evidence supported a role for vitamin D and vitamin D receptor (VDR) polymorphisms in cancer risk. Beyond VDR, the biological effects of vitamin D are mediated by the vitamin D binding protein (DBP), a key protein in vitamin D metabolism. Furthermore, the gene encoding the DBP (GC, Group-specific component) has an important role in vitamin D pathway. Several studies investigated DBP serological levels and GC polymorphisms in association with cancer risk with controversial results. Thus we carried out a meta-analysis to investigate these associations.</p><p>METHODS:</p><p>We included 28 independent studies concerning: basal cell carcinoma, bladder, breast, colon-rectum, endometrium, liver, esophagus, stomach, melanoma, pancreas, prostate and kidney. Through random effect models we calculated the Summary Odd Ratios (SORs) for serum DBP and the GC polymorphisms rs2282679, rs12512631, rs7041, rs4588, rs17467825, rs1155563 and rs1352844.</p><p>RESULTS:</p><p>We found a borderline decrease in cancer risk for subjects with high compared to low levels of DBP (SOR;95%CI:0.75;0.56-1.00). Dose-response meta-analysis indicate a non-significant decrease risk for an increase of 1,000 nmol/L of DBP: (SOR;95%CI:0.96;0.91-1.01). <strong>We found no significant alterations in cancer risk for subjects carrying any of the studied GC polymorphisms compared to wild-type subjects both in the main analysis and in analyses stratified by cancer type and ethnicity.</strong></p><p>CONCLUSIONS:</p><p>We found trends toward significance suggesting a role of DBP in cancer etiology, that should be confirmed in further studies.</p><p>IMPACT:</p><p>To our knowledge, this is the first study to investigate GC polymorphisms and DBP serological levels in association with any type of cancer.</p><p>Copyright © 2015, American Association for Cancer Research.</p><p>PMID: 26364161</p><p><strong><a href=http://cebp.aacrjournals.org/content/early/2015/09/12/1055-9965.EPI-15-0262.full.pdf+html>Publisher wants $35 for the PDF</a></strong></p><hr><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/posts/vitamin-d-level-can-be-high-but-little-benefit-due-to-kidney-genes-low-magnesium-etc>Vitamin D level can be high, but little benefit: due to kidney, genes, low Magnesium etc.</a></p></li><li><p><a href=/posts/benefits-of-vitamin-d-often-limited-by-genes>Benefits of Vitamin D often limited by genes</a> - note - Vitamin D tests cannot detect Binding Protein probems</p></li><li><p><a href=/posts/food-allergy-12x-more-likely-if-low-vitamin-d-and-vitamin-d-binding-gene-problem>Food allergy 12X more likely if low vitamin D and vitamin D binding gene problem – Aug 2015</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>Cancer</span></a>
+<a href=/tags/cancer-in-vdr.html><span class=tag>cancer in VDR</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/magnesium-and-cancer.html><span class=tag>magnesium and cancer</span></a>
+<a href=/tags/melanoma.html><span class=tag>melanoma</span></a>
+<a href=/tags/meta-analysis.html><span class=tag>Meta-analysis</span></a>
+<a href=/tags/vit-d-binding-protein.html><span class=tag>Vit D Binding Protein</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-binding.html><span class=tag>vitamin d binding</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a></div><div data-pagefind-meta=tags hidden>blood levels, cancer, Cancer, cancer in VDR, genetics, magnesium, magnesium and cancer, melanoma, Meta-analysis, Vit D Binding Protein, vitamin d, vitamin d binding, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

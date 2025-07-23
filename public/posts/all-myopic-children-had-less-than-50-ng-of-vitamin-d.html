@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>All myopic children had less than 50 ng of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>All myopic children had less than 50 ng of vitamin D</h1><time>March 29, 2016</time><div data-pagefind-body><h4 id=low-serum-vitamin-d-is-associated-with-axial-length-and-risk-of-myopia-in-young-children>Low serum vitamin D is associated with axial length and risk of myopia in young children.</h4><p>Eur J Epidemiol. 2016 Mar 8. <span>[Epub ahead of print]</span></p><p>Tideman JW1,2, Polling JR3,4, Voortman T5, Jaddoe VW5,6, Uitterlinden AG5,7, Hofman A5, Vingerling JR3, Franco OH5, Klaver CC8,9.</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/myopia.jpg alt=image width=590><p>1Department of Ophthalmology, Erasmus Medical Center, NA2808, PO Box 5201, 3008 AE, Rotterdam, The Netherlands. <a href=mailto:j.tideman@erasmusmc.nl>j.tideman@erasmusmc.nl</a>.</p><p>2Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands. <a href=mailto:j.tideman@erasmusmc.nl>j.tideman@erasmusmc.nl</a>.</p><p>3Department of Ophthalmology, Erasmus Medical Center, NA2808, PO Box 5201, 3008 AE, Rotterdam, The Netherlands.</p><p>4Department of Orthoptics and Optometry, Faculty of Health, University of Applied Sciences, Utrecht, The Netherlands.</p><p>5Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands.</p><p>6Department of Paediatrics, Erasmus Medical Center, Rotterdam, The Netherlands.</p><p>7Department of Internal Medicine, Erasmus Medical Center, Rotterdam, The Netherlands.</p><p>8Department of Ophthalmology, Erasmus Medical Center, NA2808, PO Box 5201, 3008 AE, Rotterdam, The Netherlands. <a href=mailto:c.c.w.klaver@erasmusmc.nl>c.c.w.klaver@erasmusmc.nl</a>.</p><p>9Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands. <a href=mailto:c.c.w.klaver@erasmusmc.nl>c.c.w.klaver@erasmusmc.nl</a>.</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:700px"><p>2666 children in the Netherlands</p><p><strong>Myopia 35% less likely for each 10 ng increase in Vitamin D</strong></p><p>VitaminDWiki added a <strong><span style=color:#00f>blue line</span></strong> for 50 nanogram of vitamin D</p><p><a href=http://www.vitamindcouncil.org/blog/low-vitamin-d-status-linked-with-nearsighted-vision-in-young-children/>Vitamin D Council first reviewed this study</a></p><ul><li><a href=/posts/myopia-may-be-related-to-low-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Myopia may be related to low vitamin D">Myopia may be related to low vitamin D</a> Overview in VitaminDWiki</li></ul><p><strong>See also web</strong></p><ul><li><a href=http://www.ncbi.nlm.nih.gov/pubmed/24970253>Myopia is associated with lower vitamin D status in young adults</a> June 2014</li></ul><blockquote><p>Adjusted risk: 2.1 times more likely to be myoptic if &lt; 20 nanograms of vitamin D.</p></blockquote><blockquote><p>Free PDF online</p></blockquote><ul><li>Low serum 25-hydroxyvitamin D is associated with myopia in Korean adolescents</li></ul><blockquote><p>April 2014, <strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/myopea-korea.pdf>Download the PDF from VitaminDWiki</a></strong></p></blockquote></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/myopia.pdf>Download the PDF from VitaminDWiki</a></strong></p><p>The aim of the study was to investigate the relationship between serum 25(OH)D levels and axial length (AL) and myopia in 6-year-old children. A total of 2666 children aged 6 years participating in the birth-cohort study Generation R underwent a stepwise eye examination. First, presenting visual acuity (VA) and AL were performed. Second, automated cycloplegic refraction was measured if LogMAR VA > 0.1. Serum 25-hydroxyvitamin D <span>[25(OH)D]</span> was determined from blood using liquid chromatography/tandem mass spectrometry. Vitamin D related SNPs were determined with a SNP array; outdoor exposure was assessed by questionnaire. The relationships between 25(OH)D and AL or myopia were investigated using linear and logistic regression analysis. Average 25(OH)D concentration was 68.8 nmol/L (SD ± 27.5; range 4-211); average AL 22.35 mm (SD ± 0.7; range 19.2-25.3); and prevalence of myopia 2.3 % (n = 62). After adjustment for covariates, 25(OH)D concentration (per 25 nmol/L) was inversely associated with AL (β -0.043; P &lt; 0.01), and after additional adjusting for time spent outdoors (β -0.038; P &lt; 0.01). Associations were not different between European and non-European children (β -0.037 and β -0.039 respectively). Risk of myopia (per 25 nmol/L) was OR 0.65 (95 % CI 0.46-0.92). None of the 25(OH)D related SNPs showed an association with AL or myopia. Lower 25(OH)D concentration in serum was associated with longer AL and a higher risk of myopia in these young children. This effect appeared independent of outdoor exposure and may suggest a more direct role for 25(OH)D in myopia pathogenesis.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/infant-child.html><span class=tag>Infant-Child</span></a>
+<a href=/tags/myopia.html><span class=tag>myopia</span></a>
+<a href=/tags/vision.html><span class=tag>vision</span></a>
+<a href=/tags/vision.html><span class=tag>Vision</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, child, Infant-Child, myopia, vision, Vision, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

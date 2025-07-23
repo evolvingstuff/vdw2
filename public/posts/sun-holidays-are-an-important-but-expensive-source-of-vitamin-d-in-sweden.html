@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Sun holidays are an important, but expensive, source of vitamin D in Sweden</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Sun holidays are an important, but expensive, source of vitamin D in Sweden</h1><time>July 10, 2014</time><div data-pagefind-body><h4 id=evaluation-of-sun-holiday-diet-habits-origin-and-other-factors-as-determinants-of-vitamin-d-status-in-swedish-primary-health-care-patients-a-cross-sectional-study-with-regression-analysis-of-ethnic-swedish-and-immigrant-women>Evaluation of sun holiday, diet habits, origin and other factors as determinants of vitamin D status in Swedish primary health care patients: a cross-sectional study with regression analysis of ethnic Swedish and immigrant women.</h4><p>BMC Fam Pract. 2013 Sep 3;14:129. <a href=https://doi.org/10.1186/1471-2296-14-129.>doi: 10.1186/1471-2296-14-129.</a></p><p>Björk A1, Andersson Å, Johansson G, Björkegren K, Bardel A, Kristiansson P.</p><p>1Department of Public Health and Caring Sciences, Family Medicine and Preventive Medicine unit, Uppsala University, Box 564, Uppsala SE-751 22, Sweden. <a href=mailto:anne.bjork@pubcare.uu.se>anne.bjork@pubcare.uu.se</a>.</p><p>BACKGROUND:</p><p>Determinants of vitamin D status measured as 25-OH-vitamin D in blood are exposure to sunlight and intake of vitamin D through food and supplements. It is unclear how large the contributions are from these determinants in Swedish primary care patients, considering the low radiation of UVB in Sweden and the fortification of some foods. Asian and African immigrants in Norway and Denmark have been found to have very low levels, but it is not clear whether the same applies to Swedish patients. The purpose of our study was to identify contributors to vitamin D status in Swedish women attending a primary health care centre at latitude 60°N in Sweden.</p><p>METHODS:</p><p>In this cross-sectional, observational study, 61 female patients were consecutively recruited between January and March 2009, irrespective of reason for attending the clinic. The women were interviewed about their sun habits, smoking, education and food intake at a personal appointment and blood samples were drawn for measurements of vitamin D and calcium concentrations.</p><p>RESULTS:</p><p>Plasma concentration of 25-OH-vitamin D below 25 nmol/L was found in 61% (19/31) of immigrant and 7% (2/30) of native women. Multivariate analysis showed that reported <strong>sun holiday of one week during the last year at latitude below 40°N</strong> with the purpose of sun-bathing and native origin, were significantly, independently and positively associated with 25-OH-vitamin D concentrations in plasma with the strongest association for sun holiday during the past year.</p><p>CONCLUSIONS:</p><p>Vitamin D deficiency was common among the women in the present study, with sun holiday and origin as main determinants of 25-OH-vitamin D concentrations in plasma. Given a negative effect on health this would imply needs for vitamin D treatment particularly in women with immigrant background who have moved from lower to higher latitudes.</p><p>PMID: 24004547</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sun-holiday-f1.jpg alt=image height=400>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sun-holiday-f3.jpg alt=image height=400></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/far-from-equator.html><span class=tag>Far from equator</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/smoking.html><span class=tag>smoking</span></a>
+<a href=/tags/sun.html><span class=tag>Sun</span></a>
+<a href=/tags/top-news.html><span class=tag>Top news</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>blood levels, Far from equator, health risk, smoking, Sun, Top news, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

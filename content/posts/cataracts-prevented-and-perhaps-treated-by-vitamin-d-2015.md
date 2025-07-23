@@ -1,0 +1,391 @@
+{
+    "title": "Cataracts prevented and perhaps treated by Vitamin D - 2015",
+    "slug": "cataracts-prevented-and-perhaps-treated-by-vitamin-d-2015",
+    "aliases": [
+        "/Cataracts+prevented+and+perhaps+treated+by+Vitamin+D+-+2015",
+        "/7160"
+    ],
+    "tiki_page_id": 7160,
+    "date": "2015-12-06",
+    "categories": [
+        "Vision"
+    ],
+    "tags": [
+        "CYPR",
+        "Vision",
+        "asthma",
+        "asthma receptor",
+        "atopic dermatitis",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cataracts",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "dry eye",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "intervention",
+        "life span",
+        "macular degeneration",
+        "magnesium",
+        "magnesium and cancer",
+        "metabolic",
+        "mortality",
+        "myopia",
+        "osteoporosis",
+        "rickets",
+        "skin cancer",
+        "smoking",
+        "therapeutic intervention",
+        "uveitis",
+        "vision",
+        "vitamin d",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+#### Cataracts dissolved by 5,000 IU of vitamin D - Dec 2015
+
+ **Communications of VitaminDWiki with Dr. Brown - author of June 2015 article (below)** 
+
+ **Quick summary by VitaminDWiki** 
+
+ALL 5 of his patients who:
+
+1) Had mild early stage posterior subcapsular cataracts (without calcification)
+
+2) Took 5,000 IU vitamin D daily
+
+3) Could be tracked for 2 years (did not move away, die, etc.)
+
+Had their cataracts resolved
+
+ **Later email from Dr. Brown, Dec 2015** 
+
+* Steroid use is the most commonly known cause of posterior subcapsular cataract, which is the most visually disabling form of cataract.
+
+* It affects patients at younger ages than other forms of cataract and leads to expensive surgery earlier and more often than other types of surgery. .
+
+* The majority of posterior subcapsular cataracts are of unknown cause.
+
+* Two hundred consecutive patients with posterior subcapsular cataract were tested for Vitamin D deficiency.
+
+* Mean average Vitamin D level was  30 ng/ml   in patients exposed to steroids, and which is about the same as the mean average Vitamin D level of people in the United States.
+
+* Mean average Vitamin D level in posterior subcapsular cataract patients not exposed to steroids was 22 ng/ml
+
+* This was statistically highly significant at the P < 0.001 level.
+
+* Patients who had posterior subcapsular cataracts but did not require surgery were followed and treated if they had Vitamin D deficiency. 
+
+*  **5 such patients with early uncalcified posterior subcapsular cataracts were treated with 5000 iu Vitamin D3 and by three years had completely resolved their cataract.** 
+
+* This suggests that the largest risk factor for this serious form of cataract is Vitamin D deficiency, and that early diagnosis and treatment might slow or reverse posterior subcapsular cataracts and avoid later surgery. 
+
+ **[Dr. Craig Brown podcast](http://www.vitamindcouncil.org/blog/vitamin-d-council-podcast-09-dr-craig-brown/) Dec 2015** 
+
+* Today, Dr. Cannell interviews Dr. Craig Brown, an ophthalmologist with an expertise in the role of vitamin D on eye health. Dr. Brown has performed over  **9000 cataract operations**  and thousands of ophthalmic laser procedures. Dr. Brown uses laboratory and genetic testing as a foundation when providing effective prevention and treatment protocols for his patients.
+
+* In his 30+ years practicing, Dr. Brown began to notice a connection between vitamin D deficiency and the presence and severity of specific eye conditions, including dry eye, macular degeneration and cataracts. This led Dr. Brown to conduct a study evaluating the role of vitamin D status in the prevalence and severity of posterior subcapsular cataracts, a clinically common and visually debilitating form of cataracts.
+
+* In this episode, Dr. Brown provides insight into the findings of his study and discusses the current research that has linked vitamin D deficiency with several common eye conditions.
+
+---
+
+#### Cataracts and low vitamin D - June 2015
+
+ **Vitamin D deficiency and posterior subcapsular cataract - June 2015** 
+
+Clinical Ophthalmology 2015:9 '093-1098
+
+Brown CJ1, Akaichi F2.
+
+1 The Eye Center, Fayetteville, AR, USA.
+
+2 Scotland's Rural College, Edinburgh, UK.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/vitamin-d-deficiency-and-posterior-subcapsular-cataract.pdf">Download the PDF from VitaminDWiki</a>** 
+
+Purpose: To evaluate risk factors associated with posterior subcapsular cataract (PSC) development and the relationship between vitamin D deficiency and etiology of PSC. 
+
+Methods: Of 195 consecutive patients from a private ophthalmology practice, diagnosed with PSC, serum vitamin D3 (25-OH D) levels were obtained for 175, and associations among risk factors, comorbidities, and PSC were assessed.
+
+Results: In all 175 PSC patients, mean 25-OH D levels were low (24 ng/mL ±11 SD) compared with age/sex-matched standards. Significant differences in 25-OH D levels were noted between PSC subjects taking/not taking calcium supplements, systemic steroids, osteoporosis medications, etc. Alone, smoking status and calcium channel blockers and/or topical steroids use made no significant difference in PSC subjects 25-OH D levels, but two or more of these factors were associated with lowered levels of 25-OH D (PC0.001). Low vitamin D was correlated with female sex, autoimmune disease, and non-skin cancer diagnosis, but not with age, or other comorbidities or medication use. In five early-stage PSC patients taking 5,000 IU of 25-OH D daily for vitamin D deficiency, there was resolution of their cataracts during the 2-year follow-up period.
+
+Conclusion: Vitamin D levels for most PSC patients fell below the 30 ng/mL calcium homeostasis threshold. Some comorbidities and non-ophthalmic interventions are associated with the development of PSC at less depressed levels of 25-OH D. In this series, vitamin D deficiency was associated with PSC cataract, suggesting that raising the level of vitamin D intake may reduce PSC incidence.
+
+Keywords: posterior subcapsular, cataracts, vitamin D deficiency, risk factors, hypocalcemia, case report
+
+ **Introduction** 
+
+Posterior subcapsular cataract (PSC) is clinically common and known to be visually debilitating, having a high societal burden in terms of lost work and need for early surgical intervention. Prolonged corticosteroid use can lead to the development of PSC.1-3 Although other described risk factors4 include myopia,5 various skin disorders,6 diabetes,7 intraocular inflammation or trauma,8 retinitis pigmentosa,9 and smoking,10 the majority of PSCs have an unknown etiology.11 PSC resembles the hypocalcemic cataract described in the endocrine and veterinary literature, and can be reproduced in vitro or in vivo by incubating clear excised lenses in hypocalcemic media or by feeding animals diets deficient in calcium or in severe vitamin D deficiency states.12-16 It was noted by one of the authors that within a large series of PSC cases, patients frequently presented with vitamin D insufficiency or deficiency. A retrospective examination of other risk factors was undertaken to establish any possible interactions with vitamin D deficiency as causative mechanisms of PSC formation, supporting the validity of the hypocalcemic animal model in humans.
+
+ **Methods** 
+
+This study comprised 195 of 1,585 consecutive cataract patients seen in a private practice ophthalmology clinic between June 1,2008 and June 1,2010, and diagnosed with PSC/anterior subcapsular cataract (ASC) alone or mixed cataract PSC/ASC combined with nuclear or cortical opacities. Histories and risk factors were recorded by the senior author including steroid use, use of calcium supplements or osteoporosis medications, prior trauma, autoimmune or skin cancer disorders, diabetes, cancer diagnosis, or cardiopulmonary disease. The use of concomitant medications for their control was taken from the chart record (Table 1). Levels of 25-OH D were obtained or available for 175 of 195 PSC patients using either the DiaSorin LIAISON® Immunochemiluminometric assay or the QuestAssureD™ liquid chromatography, tandem mass spectrometry. Both methods,
+
+ **Table 1 Patient demographics, cataract types, comorbidities, and risk factors** 
+
+Abbreviations: PSC, posterior subcapsular cataract; ASC, anterior subcapsular cataract; COPD, chronic obstructive pulmonary disease; IDDM, insulin-dependent diabetes mellitus; NIDDM, non-insulin-dependent diabetes mellitus.
+
+as performed by commercial laboratory testing services, had an analytical sensitivity of at least 4 ng/mL. Associations between risk factors and comorbidities and the presence of PSC were then assessed. A f-test for independent samples was used to determine whether the differences of 25-OH D levels in PSC subjects with and without risk factors and concomitant medications were statistically different from zero. In addition, a linear regression analysis was carried out to model the relationship between the level of 25-OH D and variables such as age, sex, autoimmune disease, hypertension, skin cancer, and antidepressant use. Access to anonymized clinical records by nonclinical personnel was approved by the Washington Regional Medical Center Institutional Review Board. All patients had received routine medical and surgical care. Patients whose cataracts interfered with daily vision function were scheduled for cataract surgery. Those whose cataracts were minimally symptomatic or asymptomatic were followed without surgery. Patients in this interval of care newly diagnosed with low levels of vitamin D were treated and referred to their primary care physician for follow up. This was a retrospective chart review study, and all patients received routine care with no experimental intervention.
+
+ **Results** 
+
+All eyes were examined in the dilated state. Anterior and posterior subcapsular opacities were identified with the slit lamp set for retroillumination, spanning a range from axial retrodots to dense fibrotic plaques involving the capsule and immediately adjacent degenerating cortical lens fibers. In this study, all degrees of PSC and ASC were included. Lens Opacity Classification System III17 grades P1-P5 represented the majority of subcapsular cataracts. Additionally, some PSCs were greater than P5, involving the entire posterior capsule, and some patients had predominantly anterior subcapsular opacities identical to posterior subcapsular opacities, except for anterior location and more severe functional visual disturbance. Of 1,585 unique cataract patients seen during the study period, 12.3% had PSC (195/1,585), while 27.6% of patients who received cataract surgery had a PSC component (164/595). Vitamin D levels were evaluated for 175 (most bilateral; 62.3% female, 37.7% male; most were Caucasian) PSC patients (76% confirmed after diagnosis by serum testing, 24% as lab values were obtained from history/referral chart). Mean 25-OH D level of PSC cataract patients was on the low normal end of the spectrum (24 ng/mL ± 11SD) compared to age/sex-matched national standards for vitamin D levels.18 This serum 25-OH D level has been defined by some authorities as vitamin D insufficiency.19
+
+ **Figure 1** 
+
+Notes: aN< 175 total. Information on all variables not available or not collected for all PSC subjects. Some patients declined to share their past medical histories or their current medications. Abbreviation: PSC, posterior subcapsular cataract.
+
+Significant differences in 25-OH D levels were noted between PSC subjects with and without certain risk factors and variables, including with or without calcium supplementation (28±11 vs 23±10 ng/mL; P=0.01), systemic steroids exposure (30±12 vs 22±9 ng/mL; P<0.001), or taking osteoporosis medications or not (28±14 vs 24± 10 ng/mL; P=0.05) (Table 2). Smoking, use of calcium channel blockers, or topical steroid use alone showed no significant difference in 25-OH D levels between PSC patients with that variable or without it. However, marginally significant lower levels of vitamin D were noted when two or more variables were present compared with none of the variables (23±11 vs 25±11 ng/mL; P=0.06) (Table 3). Linear regression analysis showed that 25-OH D levels also correlated with female sex (P=0.042), autoimmune disease (P<0.001), (non-skin) cancer diagnosis (P=0.016), but not with age, hypertension, eye trauma or inflammation (not shown), cardiopulmonary disease (not shown), diabetes (not shown), or antidepressant use (Table 4). Five patients with early-stage multiple axial posterior or anterior subcapsular water cleft cysts and retro dots who began taking 5,000 IU of vitamin D3 (25-OH D) daily, completely resolved their early-stage cataracts.
+
+Discussion
+
+Low vitamin D status is extremely common worldwide when the cut point of <30-32 ng/mL is applied. In the USA, vitamin D levels have fallen over the last few decades due to fewer work and recreation-related outdoor activities, including more air conditioning in homes and offices, television viewing, computer use, and intentional sun avoidance (ie, sun screen use).20 Milk fortification and dietary supplement have not closed the gap. The National Health and Nutrition Examination Surveys conducted between 1988 and 1994 compared with those conducted between 2001 and 2006 showed a mean decrease in age-specific 25-OH D levels of 5-10 ng/mL for Caucasian men and 2-6 ng/mL for Caucasian women. Other racial groups typically exhibited lower vitamin D levels even in the reference decades. Comorbidities on the rise due to lifestyle diseases or the aging demographic, including diabetic nephropathy and bone and mineral metabolism defects, may also be associated with vitamin D insufficiency or deficiency.21,22 
+
+ **Table 3 Similar 25-OH vitamin D levels in PSC subjects with and without other risk factors and concomitant medications** 
+
+Notes: aN< 175 total. Information on all variables not available or not collected for all PSC subjects. Some patients declined to share their past medical histories or their current medications.
+
+ **Table 4?**  Abbreviation: PSC, posterior subcapsular cataract.
+
+Notes: aExplanatory variables used in the regression include age expressed as a continuous variable expressed in the number of years; all others expressed as dummy variable that takes the value 1 if patient sex is male and 0 if female; or 1 with disease or medication characteristic or 0 without characteristic.
+
+Abbreviation: PSC, posterior subcapsular cataract.
+
+Several agencies and guides now categorize serum 25-OH D levels <10.0 ng/mL as very deficient with impaired bone mineralization (rickets/ osteomalacia), <20 ng/mL as deficiency, 20-29 ng/mL as insufficiency, and above 30 ng/mL vitamin D as normal serum levels. The Institute of Medicine recently revised the Recommended Dietary Allowances of vitamin D in order to maintain serum 25-OH D at or above 50 nM (20 ng/mL) to sustain bone density and calcium absorption and minimize the risk of osteomalacia and rickets.23 But because vitamin D insufficiency seems to be associated with a number of adverse health effects, scientists and health professionals are advocating increasing vitamin D status to above 75 nM (30 ng/mL) 25-OH D.24 Furthermore in a large cohort study, the association of serum 25-OH D levels with all-cause mortality was shown to be a nonlinear inverse association with risk increasing slightly at 25-OH D concentrations, <75 nM (30 ng/mL) and was most strongly increased in subjects with vitamin D deficiency.25 In this series, the mean 25-OH D level for many more PSC patients was below this value (Figure 1).
+
+Vitamin D is the chief regulator of systemic calcium as well as calcium levels in the serum and aqueous humor. Serum levels of vitamin D are negatively (P<0.01) correlated with parathyroid (PTH). There is a stable plateau for serum PTH levels as long as serum 25-OH D levels remain above 31 ng/mL, but increase when 25-OH D levels drop below 31 ng/mL.26 Historic observations also suggest that PSC can be associated with PTH disorders.27,28 Disruption of calcium homeostasis in the lens has been shown experimentally to produce lens opacification via several mechanisms, including lens protein aggregation, enhanced migration of lens epithelial cells (LECs) onto the posterior capsule, abnormal differentiation of LECs into fibrocytes, lens fiber gap junction uncoupling, and loss of activity of calcium channels.29,30 Paradoxically, both hypocalcemia and hypercalcemia have been observed in association with experimental cataract models and in other forms of human cataract.31 It is possible that causative factors for PSC cataracts fall into a bimodal distribution pattern for vitamin D levels, where one class of PSC cataracts develops in subjects with 25-OH D levels above 28-32 ng/mL and the other in subjects with lower levels. The group with levels below 28-32 ng/mL may have no other known risk factors for PCS except systemic hypocalcemia/low aqueous calcium. The group above ~30 ng/mL may have known risk factors such as systemic steroid exposure, use of calcium supplements, or a need for osteoporosis medications.
+
+PSC patients in the series reported here who were or had been using systemic steroids (but not topical steroids) showed a mean level of 25-OH D of 30 ng/mL, significantly higher than PSC subjects without systemic steroid exposure whose mean level was 22 ng/mL (Table 2 and Figure 1). Several studies have noted the association between the use of inhaled or oral corticosteroids and the long-term cataract risk.32 Several cataractogenic mechanisms of action have been suggested for steroids, including modulation of LEC migration33 and downregulation of LEC fibroblast growth factor receptor and P-crystallin protein.32 LECs exhibit a steroid-binding membrane protein whose activities are mediated in part by calcium.34 Administration of a calcium-containing compound can reverse the cataract-inducing activity of steroids in an animal model.35 The failure to find an association between vitamin D levels in individuals with PSC, and comorbidities such as asthma and chronic obstructive pulmonary disease where steroid use would be expected, may be a result of their use of other management medications, insufficient duration of steroid use, or just a sample size limitation. The involvement of calcium signaling in PSC formation appears complex, given that individuals taking calcium supplements and osteoporosis medications appeared to have higher 25-OH D levels despite PSC formation. In the instance of patients on Ca2+ supplements, usually for incipient osteopenia or a diagnosis of osteoporosis, these supplements often include vitamin D in the formulation contributing to their elevated 25-OH D level. It has been shown that as long as vitamin D levels are adequate, calcium intake need be no higher than 800 mg/day36 for osteoporosis. Those taking calcium channel blockers had similar levels of vitamin D to those not using these medications. Because Ca2+ channel blockers are prescribed for hypertension, also not strongly correlated with vitamin D deficiency, this may also not be unexpected.
+
+In the early stage of ASC and PSC, vitamin D deficiency affects the calcium metabolism of the LEC, causing cell junctions to separate and creating cystic vacuoles that are visible as water cleft cysts. With time, the lens tissue becomes cloudy and distorted with calcium deposition; microscopically, the clear LECs turn into cloudy fibrocytes, eventually breaking down and depositing Ca2+ on the capsule forming white lens retrodots.37 In five patients in this series with evidence of early axial subcapsular water cleft cysts,38 their lenses unexpectedly normalized after taking 5,000 IU of vitamin D3 taken to treat their low vitamin D level.
+
+Although 25-OH D is available in the human diet, it can also be synthesized from ultraviolet irradiation of 7-dehy- droxycholesterol, a precursor present in mammalian skin. Following cutaneous production or intestinal absorption from nutritional sources, it is metabolized to 25-OH D3 in the liver by cytochrome P450 (CYP) 27A1. CYP27B1 in the kidney then converts this compound to the physiologically active hormone, 1 a,25-dihydroxyvitamin D (calcitriol).39 Calcitriol binds to the intracellular vitamin D receptor (VDR), which heterodimerizes with retinoic X receptor and binds DNA. The protein transcription thus initiated regulates calcium metabolism. The gene for VDR has variant polymorphisms in a fraction of American population with various diseases.40 Patients with the E420A mutant form of VDR are known to have vitamin D-resistant rickets, requiring vitamin D supplementation at doses up to 100,000 IU daily to maintain adequate blood levels.41 It is suspected that less severe forms of VDR impairment make it harder for some individuals to maintain adequate vitamin D3 levels without supplementation. It is hoped that with increasing and inexpensive gene testing methods, other haplotype VDR variations may be characterized to help identify patients who could benefit from additional vitamin D supplementation and thereby reduce their risk of PSC cataract formation and other allied disorders.
+
+ **References** 
+
+1. Jick SS, Vasilakis-Scaramozza C, Maier WC. The risk of cataract among users of inhaled steroids. Epidemiology. 2001;12(2):229-234.
+
+1. Praveen MR, Shah GD, Vasavada AR, et al. Posterior capsule opacification in eyes with steroid-induced cataracts: comparison of early results. J Cataract Refract Surg. 2011;37(1):88-96.
+
+1. Urban RC Jr, Cotlier E. Corticosteroid-induced cataracts. Surv Ophthalmol 1986;31(2):102-110.
+
+1. Delcourt C, Cristol JP, Tessier F, et al. Risk factors for cortical, nuclear, and posterior subcapsular cataracts: the POLA study. Am J Epidemiol. 2000;151(5):497-504.
+
+1. Brown NA, Hill AR. Cataract: the relation between myopia and cataract morphology. Br J Ophthalmol. 1987;71(6):405-414.
+
+1. Sasaki K, Kojima M, Nakaizumi H, et al. Early lens changes seen in patients with atopic dermatitis applying image analysis processing of Scheimpflug and specular microscopic images. Ophthalmologica. 1998; 212(2):88-94.
+
+1. Bron AJ, Sparrow J, Brown NA, et al. The lens in diabetes. Eye (Lond). 1993;7(2):260-275.
+
+1. Hooper PL, Rao NA, Smith RE. Cataract extraction in uveitis patients. Surv Ophthalmol. 1990;35(2):120-144.
+
+1. Dilley KJ, Bron AJ, Habgood JO. Anterior polar and posterior subcap- sular cataract in a patient with retinitis pigmentosa: a light-microscopic and ultrastructural study. Exp Eye Res. 1976;22(2):155-167.
+
+1. Hiller R, Sperduto RD, Podgor MJ, et al. Cigarette smoking and the risk of development of lens opacities. The Framingham studies. Arch Ophthalmol. 1997;115(9):1113-1118.
+
+1. Vasavada AR, Mamidipudi PR, Sharma PS. Morphology of and visual performance with posterior subcapsular cataract. J Cataract Refract Surg. 2004;30(10):2097-2104.
+
+1. Plesker R, Hetzel U, Schmidt W. Cataracts in a laboratory colony of African green monkeys (Chlorocebus aethiops). J Med Primatol. 2005; 34(3):139-146.
+
+1. Ringvold A, Sagen E, Bjerve KS, et al. The calcium and magnesium content of the human lens and aqueous humour. A study in patients with hypocalcemic and senile cataract. Acta Ophthalmol (Copenh). 1988;66(2):153-156.
+
+1. Srivastava VK, Srivastava SK. Vitamin D3 and calcitonin-induced regulation of calcium and phosphate in rat lens - its significance in cataract formation. Ann Ophthalmol. 1989;21(4):149-152.
+
+1. Srivastava VK, Srivastava SK, Garg M, et al. Endocrine regulation of calcium and phosphate in rat eye lens and its significance in cataract formation. Indian J Exp Biol. 1990;28(4):365-368.
+
+1. Takahashi H. Ca(2+)-ATPase activity in the hypocalcemic cataract. Nihon Ganka Gakkai Zasshi. 1994;98(2):142-149.
+
+1. Chylack LT, Wolfe JK, Singer DM, et al. The Lens Opacities Classification System III. Arch Ophthalmol. 1993;111(6):831-836.
+
+1. Looker AC, Johnson CL, Lacher DA, Pfeiffer CM, Schleicher RL, Sempos CT. Vitamin D status: United States, 2001-2006. NCHS Data Brief. 2011;(59):1-8.
+
+1. Ginde AA, Liu MC, Camargo CA Jr. Demographic differences and trends of vitamin D insufficiency in the US population, 1988-2004. Arch Intern Med. 2009;169(6):626-632.
+
+1. Linos E, Keiser E, Kanzler M, et al. Sun protective behaviors and vitamin D levels in the US population: NHANES 2003-2006. Cancer Causes Control. 2012;23(1):133-140.
+
+1. Diaz VA, Mainous AG 3rd, Carek PJ, et al. The association of vitamin D deficiency and insufficiency with diabetic nephropathy: implications for health disparities. J Am Board Fam Med. 2009;22(5): 521-527.
+
+1. Gutierrez OM, Farwell WR, Kermah D, et al. Racial differences in the relationship between vitamin D, bone mineral density, and parathyroid hormone in the National Health and Nutrition Examination Survey. Osteoporos Int. 2011;22(6):1745-1753.
+
+1. Institute of Medicine. Dietary Reference Intakes for Calcium and Vitamin D. Washington, DC: The National Academies Press; 2011.
+
+1. Heaney RP, Holick MF. Why the IOM recommendations for vitamin D are deficient. J Bone Miner Res. 2011;26(3):455-457.
+
+1. Schottker B, Haug U, Schomburg L, et al. Strong associations of 25-hydroxyvitamin D concentrations with all-cause, cardiovascular, cancer, and respiratory disease mortality in a large cohort study. Am J Clin Nutr. 2013;97(4):782-793.
+
+1. Chapuy MC, Preziosi P, Maamer M, et al. Prevalence of vitamin D insufficiency in an adult normal population. Osteoporos Int. 1997 ;7(5): 439-443.
+
+1. Goswami R, Brown EM, Kochupillai N, et al. Prevalence of calcium sensing receptor autoantibodies in patients with sporadic idiopathic hypoparathyroidism. Eur J Endocrinol. 2004;150(1):9-18.
+
+1. Haviv Y S, Safadi R, Zamir E. A rapidly progressive cataract in a patient with autoimmune hypoparathyroidism and acute liver and renal failure. Am J Nephrol 1999;19(4):523-526.
+
+1. Gupta PD, Johar K, Vasavada A. Causative and preventive action of calcium in cataracto-genesis. Acta Pharmacol Sin. 2004;25(10): 1250-1256.
+
+1. Maddala R, Nagendran T, de Ridder GG, et al. L-type calcium channels play a critical role in maintaining lens transparency by regulating phosphorylation of aquaporin-0 and myosin light chain and expression of connexins. PLoS One. 2013;8(5):e64676.
+
+1. Jedziniak JA, Nicoli DF, Yates EM, et al. On the calcium concentration of cataractous and normal human lenses and protein fractions of cataractous lenses. Exp Eye Res. 1976;23(3):325-332.
+
+1. Wang JJ, Rochtchina E, Tan AG, et al. Use of inhaled and oral corticosteroids and the long-term risk of cataract. Ophthalmology. 2009; 116(4):652-657.
+
+1. James ER. The etiology of steroid cataract. J Ocul Pharmacol Ther. 2007;23(5):403-420.
+
+1. Zhu XL, Sexton PS, Cenedella RJ. Characterization of membrane steroid binding protein mRNA and protein in lens epithelial cells. Exp Eye Res. 2001;73(2):213-219.
+
+1. Velpandian T, Nirmal J, Gupta P, et al. Evaluation of calcium dobesilate for its anti-cataract potential in experimental animal models. Methods Find Exp Clin Pharmacol. 2010;32(3):171-179.
+
+1. Steingrimsdottir L, Gunnarsson O, Indridason OS, et al. Relationship between serum parathyroid hormone levels, vitamin D sufficiency, and calcium intake. JAMA. 2005;294(18):2336-2341.
+
+1. Vrensen GF, de Wolf A. Calcium distribution in the human eye lens. Ophthalmic Res. 1996;28 Suppl 2:78-85.
+
+1. Tan AG, Mitchell P, Rochtchina E, et al. Lens retrodots and vacuoles and their associations with the prevalence and incidence of age-related cataract. Eye (Lond). 2012;26(4):568-575.
+
+1. Bikle DD. Vitamin D: newly discovered actions require reconsideration of physiologic requirements. Trends Endocrinol Metab. 2010; 21(6):375-384.
+
+1. Zmuda JM, Cauley JA, Ferrell RE. Molecular epidemiology of vitamin D receptor gene variants. Epidemiol Rev. 2000;22(2):203-217.
+
+1. Malloy PJ, Zhou Y, Wang J, et al. Hereditary vitamin D-resistant rickets (HVDRR) owing to a heterozygous mutation in the vitamin D receptor. J Bone Miner Res. 2011;26(11):2710-2718.
+
+ **[Cited by 25 studies as of Nov 2021](https://scholar.google.com/scholar?cites=3328381412810060211&as_sdt=5,48&sciodt=0,48&hl=en)** 
+
+* Serum 25-hydroxyvitamin D and Age-Related Cataract - 2017 https://doi.org/10.1080/09286586.2017.1281427 9% more likely if <30 ng
+
+---
+
+#### Cataracts 40% more likely in women < age 70 if low vitamin D - July 2015
+
+ **The Relationship Between Serum 25-Hydroxyvitamin D Levels and Nuclear Cataract in the Carotenoid Age-Related Eye Study (CAREDS), an Ancillary Study of the Women's Health Initiative.** 
+
+[Invest Ophthalmol Vis Sci. 2015 Jul;56(8):4221-30](http://iovs.arvojournals.org/article.aspx?articleid=2389239). [doi: 10.1167/iovs.15-16835.](https://doi.org/10.1167/iovs.15-16835.)
+
+Rao P1, Millen AE2, Meyers KJ1, Liu Z1, Voland R1, Sondel S1, Tinker L3, Wallace RB4, Blodi BA1, Binkley N5, Sarto G6, Robinson J4, LeBlanc E7, Mares JA1.
+
+1Department of Ophthalmology and Visual Sciences University of Wisconsin, Madison, Wisconsin, United States.
+
+2Department of Social and Preventive Medicine, School of Public Health and Health Professions, University at Buffalo, The State University of New York, Buffalo, New York, United States.
+
+3Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington, United States.
+
+4Department of Epidemiology, University of Iowa, Iowa City, Iowa, United States.
+
+5Department of Medicine, University of Wisconsin, Madison, Wisconsin, United States.
+
+6Department of Obstetrics and Gynecology, University of Wisconsin, Madison, Wisconsin, United States.
+
+7Kaiser Permanente Center for Health Research, Portland, Oregon, United States.
+
+PURPOSE:
+
+To investigate the relationship between serum 25-hydroxyvitamin D (25<span>[OH]</span>D) levels and nuclear cataract among participants of the Carotenoids in Age-Related Eye Disease Study (CAREDS), an ancillary study of the Women's Health Initiative (WHI) Observational Study (OS).
+
+METHODS:
+
+Nuclear cataract was assessed from slit lamp photographs (2001-2004) taken 6 years after collecting serum analyzed for 25(OH)D levels at WHI baseline (1994-1998) in 1278 CAREDS participants age 50 to 79 years. Multivariate (age, iris color, smoking, pulse pressure) odds ratios (ORs) for nuclear cataract (nuclear opacities > level 4 or cataract extraction) by quintiles of serum 25(OH)D were estimated using logistic regression.
+
+RESULTS:
+
+No significant association was observed between serum 25(OH)D and nuclear cataract among women of all ages (age-adjusted OR <span>[95% confidence interval (CI)]</span> 0.97 <span>[0.65-1.45]</span>). However, there was a significant age interaction (P for interaction = 0.04). There were no significant associations in the women 70 years or older. 
+
+In women younger than 70 years, we observed an inverse association between serum 25(OH)D and nuclear cataract (multivariate adjusted ORs <span>[95% CI]</span> 0.54 <span>[0.29-0.99]</span> and 0.66 <span>[0.36-1.20]</span> for quintiles 4 and 5 vs. 1, respectively; P = 0.03). Further adjustment for 25(OH)D determinants (body mass index, vitamin D intake, and UVB exposure) attenuated this association.
+
+CONCLUSIONS:
+
+Serum 25(OH)D levels were unrelated to nuclear opacities in this study sample. However, exploratory analyses suggest a protective association in women younger than 70 years. Further investigations of the relationship between vitamin D and nuclear lens opacities are warranted.
+
+PMID: 26132781
+
+---
+
+#### 24% less likely to have cataracts if have high level of vitamin D - Aug 2015
+
+ **Association between serum 25-hydroxyvitamin D levels and age-related cataracts** 
+
+J Cataract Refract Surg. 2015 Aug;41(8):1705-15. [doi: 10.1016/j.jcrs.2014.12.052.](https://doi.org/10.1016/j.jcrs.2014.12.052.)
+
+Jee D1, Kim EC2.
+
+1From the Department of Ophthalmology and Visual Science (Jee), St. Vincent's Hospital, College of Medicine, Catholic University of Korea, Suwon, Gyenggido, and the Department of Ophthalmology and Visual Science (Kim), Bucheon St. Mary's Hospital, College of Medicine, Catholic University of Korea, Bucheon, Gyeonggido, South Korea.
+
+2From the Department of Ophthalmology and Visual Science (Jee), St. Vincent's Hospital, College of Medicine, Catholic University of Korea, Suwon, Gyenggido, and the Department of Ophthalmology and Visual Science (Kim), Bucheon St. Mary's Hospital, College of Medicine, Catholic University of Korea, Bucheon, Gyeonggido, South Korea. Electronic address: eunchol@hanmail.net.
+
+PURPOSE: To investigate associations between serum 25-hydroxyvitamin D levels and age-related cataracts.
+
+SETTING: Department of Ophthalmology, College of Medicine, Catholic University of Korea, South Korea.
+
+DESIGN: Observational cross-sectional study.
+
+METHODS: Participants aged 40 years or older in the fourth (2008 to 2009) and fifth (2010 to 2012) Korea National Health and Nutrition Examination Survey (KNHANES) had evaluation of their serum 25-hydroxyvitamin D levels and ophthalmic slitlamp examinations to identify cataract. An age-related cataract was defined as the presence of a cortical, nuclear, anterior subcapsular, posterior subcapsular, or mixed cataract or a history of cataract surgery.
+
+RESULTS: The study evaluated eyes of 18 804 patients. The mean levels of serum 25-hydroxyvitamin D were 20.0 ng/mL in men and 17.5 ng/mL in women. In men, but not in women, the odds ratio (OR) for age-related cataracts decreased statistically significantly when the serum 25-hydroxyvitamin D levels were in the highest quintile than when they were in the lowest quintile ( **OR, 0.76;** 95% confidence interval, 0.59-0.99) after adjusting for potentially confounding factors including age, sex, smoking status, diabetes, hypertension, and sunlight exposure. However, trend analysis did not show a significant declining trend in the cataract risk associated with higher serum 25-hydroxyvitamin D quintiles (P = .084). In women, serum 25-hydroxyvitamin D levels were not associated with age-related cataracts.
+
+ **CONCLUSIONS:**  The age-related cataract risk decreased in men with higher serum 25-hydroxyvitamin D levels than in those with lower serum 25-hydroxyvitamin D levels after adjusting for potential confounding factors. In light of previous research indicating an antioxidative effect of vitamin D, the connection between vitamin D and age-related cataract warrants further study.
+
+PMID: 26432129
+
+---
+
+#### 30% less likely to get cataract surgery if have high level of Vitamin<span style="color:#F00;">K1</span> - June 2017
+
+Association of Dietary Vitamin K1 Intake With the Incidence of Cataract Surgery in an Adult Mediterranean Population: A Secondary Analysis of a Randomized Clinical Trial.JAMA Ophthalmol. 2017 Jun 1;135(6):657-661. [doi: 10.1001/jamaophthalmol.2017.1076.](https://doi.org/10.1001/jamaophthalmol.2017.1076.)
+
+Camacho-Barcia ML1, Bulló M2, Garcia-Gavilán JF1, Ruiz-Canela M3, Corella D4, Estruch R5, Fitó M6, García-Layana A7, Arós F8, Fiol M9, Lapetra J10, Serra-Majem L11, Pintó X12, García-Arellano A13, Vinyoles E6, Sorli JV4, Salas-Salvadó J2.
+
+IMPORTANCE:
+
+Cataract, one of the most frequent causes of blindness in developed countries, is strongly associated with aging. The exact mechanisms underlying cataract formation are still unclear, but growing evidence suggests a potential role of inflammatory and oxidative processes. Therefore, antioxidant and anti-inflammatory factors of the diet, such as vitamin K1, could play a protective role.
+
+OBJECTIVE: To examine the association between dietary vitamin K1 intake and the risk of incident cataracts in an elderly Mediterranean population.
+
+DESIGN, SETTING, AND PARTICIPANTS:
+
+A prospective analysis was conducted in 5860 participants from the Prevención con Dieta Mediterránea Study, a randomized clinical trial executed between 2003 and 2011. Participants were community-dwelling men (44.2%) and women (55.8%), and the mean (SD) age was 66.3 (6.1) years.
+
+MAIN OUTCOMES AND MEASURES:
+
+Dietary vitamin K1 intake was evaluated using a validated food frequency questionnaire. The time to the cataract event was calculated as the time between recruitment and the date of the occurrence to cataract surgery, the time to the last visit of the follow-up, date of death, or the end of the study. Hazard ratios and 95% CIs for cataract incidence were estimated with a multivariable Cox proportional hazards model.
+
+RESULTS:
+
+Participants were community-dwelling men (44.2%; n = 868) and women (55.8%; n = 1086), and the mean (SD) age was 66.3 (6.1) years. After a median of 5.6 years follow-up, we documented a total of 768 new cataracts. Participants in the highest tertile of dietary vitamin K1 intake had a lower risk of cataracts than those in the lowest tertile (hazard ratio, 0.71; 95% CI, 0.58-0.88; P = .002), after adjusting for potential confounders.
+
+CONCLUSIONS AND RELEVANCE: High intake of dietary vitamin K1 was associated with a reduced risk of cataracts in an elderly Mediterranean population even after adjusting by other potential confounders.
+
+TRIAL REGISTRATION: isrctn.org: ISRCTN35739639.
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/cataract-vitamin-k1.pdf">Download the PDF from VitaminDWiki</a>** 
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/cataract-vitamin-k1.jpg" alt="image" width="400">
+
+---
+
+#### Cataract Risk factors in Europe include smoking and diabetes - 2013
+
+ **Note: Both <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking</a> and <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Diabetes</a> lower vitamin D levels** 
+
+| | |
+| --- | --- |
+| Former smoker | 3.8 |
+| Current smoker | 2.3 |
+| Diabetes of duration >10 years  | 2.7 |
+| asthma or chronic bronchitis  | 2.0 |
+| Intake of a multivitamin ⁄ mineral formulation  | 2.0 |
+| Intake of corticosteroids | 2.1  |
+
+Many more risk factors in the PDF
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/j.1755-3768.2012.02444.x.pdf">Download the PDF from VitaminDWiki</a>**

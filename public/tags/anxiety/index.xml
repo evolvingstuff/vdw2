@@ -1,270 +1,657 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anxiety on VitaminDWiki</title><link>/tags/anxiety.html</link><description>Recent content in Anxiety on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 13 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/anxiety/index.xml" rel="self" type="application/rss+xml"/><item><title>Depression not reduced with 5700 IU vitamin D average in 6 months</title><link>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</link><pubDate>Fri, 13 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!!Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial`
-│ inner_content: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: `
-│ │ inner_content: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: `
-│ ├── NewlineNode
-│ │ full_match: `%%%`
-│ │ inner_content: ``
-│ ├── TextNode
-│ │ full_match: `nested case–control study and randomised clinical trial`
-│ │ inner_content: `nested case–control study and randomised clinical trial`├── TextNode
-│ full_match: `\nMarie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde\nCorrespondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no\nBJ Psych July 12, 2012, `
-│ inner_content: `\nMarie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde\nCorrespondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no\nBJ Psych July 12, 2012, `├── DoiLinkNode
-│ full_match: `doi: 10.1192/bjp.bp.111.104349`
-│ inner_content: `10.1192/bjp.bp.111.104349`├── TextNode
-│ full_match: `\n\nAims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.\n\nMethod Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov (`
-│ inner_content: `\n\nAims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.\n\nMethod Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov (`├── LinkNode
-│ full_match: `[http://clinicaltrials.gov/ct2/show/NCT00960232|NCT00960232]`
-│ inner_content: `NCT00960232`
-│ url: `http://clinicaltrials.gov/ct2/show/NCT00960232`
-│ children:
-│ ├── TextNode
-│ │ full_match: `NCT00960232`
-│ │ inner_content: `NCT00960232`├── TextNode
-│ full_match: `).\n\nResults Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). \nIn the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.\n\nConclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.\n– – – – – – – – – – \n`
-│ inner_content: `).\n\nResults Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). \nIn the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.\n\nConclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.\n– – – – – – – – – – \n`├── HeadingNode
-│ full_match: `!See also VitaminDWiki `
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D]`
-│ │ inner_content: `All items in depression and vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in depression and vitamin D`
-│ │ │ inner_content: `All items in depression and vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011]`
-│ │ inner_content: `36 percent less depression when have high level of vitamin D – July 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1864`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `36 percent less depression when have high level of vitamin D – July 2011`
-│ │ │ inner_content: `36 percent less depression when have high level of vitamin D – July 2011`
-│ ├── TextNode
-│ │ full_match: ` also by Kjærgaard`
-│ │ inner_content: ` also by Kjærgaard`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
-│ │ inner_content: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2439`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`
-│ │ │ inner_content: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+The teen study used a loading dose for 1 month, and got great results in just 3 months`
-│ inner_content: `The teen study used a loading dose for 1 month, and got great results in just 3 months`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `The teen study used a loading dose for 1 month, and got great results in just 3 months`
-│ │ inner_content: `The teen study used a loading dose for 1 month, and got great results in just 3 months`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
-│ │ inner_content: `Much less depression if more than 43 ng of vitamin D – Oct 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3289`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Much less depression if more than 43 ng of vitamin D – Oct 2012`
-│ │ │ inner_content: `Much less depression if more than 43 ng of vitamin D – Oct 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!See also web`
-│ inner_content: `See also web`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also web`
-│ │ inner_content: `See also web`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article`
-│ inner_content: `[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://www.medscape.com/viewarticle/767799?src=rss|Medscape]`
-│ │ inner_content: `Medscape`
-│ │ url: `http://www.medscape.com/viewarticle/767799?src=rss`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Medscape`
-│ │ │ inner_content: `Medscape`
-│ ├── TextNode
-│ │ full_match: ` review of article`
-│ │ inner_content: ` review of article`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article`
-│ inner_content: `[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council]`
-│ │ inner_content: `Vitamin D Council`
-│ │ url: `http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D Council`
-│ │ │ inner_content: `Vitamin D Council`
-│ ├── TextNode
-│ │ full_match: ` review of article`
-│ │ inner_content: ` review of article`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
-│ inner_content: `&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
-│ level: `1`
-│ children:
-│ ├── EmphasisNode
-│ │ full_match: `&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
-│ │ inner_content: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`
-│ │ │ inner_content: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
-│ inner_content: `&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
-│ level: `1`
-│ children:
-│ ├── EmphasisNode
-│ │ full_match: `&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
-│ │ inner_content: `The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `The `
-│ │ │ inner_content: `The `
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:__authors note that the biggest limitation__~~`
-│ │ │ inner_content: `__authors note that the biggest limitation__`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── BoldNode
-│ │ │ │ full_match: `__authors note that the biggest limitation__`
-│ │ │ │ inner_content: `authors note that the biggest limitation`
-│ │ │ │ children:
-│ │ │ │ ├── TextNode
-│ │ │ │ │ full_match: `authors note that the biggest limitation`
-│ │ │ │ │ inner_content: `authors note that the biggest limitation`
-│ │ ├── TextNode
-│ │ │ full_match: ` in their study was study length at 6 months in a disorder that may take several years to develop.`
-│ │ │ inner_content: ` in their study was study length at 6 months in a disorder that may take several years to develop.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013`
-│ inner_content: `[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention]`
-│ │ inner_content: `Clinical Trials for Depression with vitamin D intervention`
-│ │ url: `http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Clinical Trials for Depression with vitamin D intervention`
-│ │ │ inner_content: `Clinical Trials for Depression with vitamin D intervention`
-│ ├── TextNode
-│ │ full_match: ` 22 INTERVENTION trials listed as of Jan 2013`
-│ │ inner_content: ` 22 INTERVENTION trials listed as of Jan 2013`
-
-Original Tiki:
--------------
-!!!Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial
-Marie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde
-Correspondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no
-BJ Psych July 12, 2012, doi: 10.1192/bjp.bp.111.104349
-
-Aims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.
-
-Method Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov ([http://clinicaltrials.gov/ct2/show/NCT00960232|NCT00960232]).
-
-Results Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). 
-In the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.
-
-Conclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.
-– – – – – – – – – – 
-!See also VitaminDWiki 
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]
-+The teen study used a loading dose for 1 month, and got great results in just 3 months
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]
-!!See also web
-*[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article
-*[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article
-+&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;
-+&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;
-*[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013
-&lt;/code>
-&lt;/pre></description></item><item><title>Fertility problem (PCOS) reduced by vitamin D, etc: many studies</title><link>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</link><pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anxiety on VitaminDWiki</title><link>/tags/anxiety.html</link><description>Recent content in Anxiety on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/anxiety/index.xml" rel="self" type="application/rss+xml"/><item><title>Licorice while pregnant reduced cortisol to fetus, increasing the risk of ADD by 3X, etc</title><link>/posts/licorice-while-pregnant-reduced-cortisol-to-fetus-increasing-the-risk-of-add-by-3x-etc.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/licorice-while-pregnant-reduced-cortisol-to-fetus-increasing-the-risk-of-add-by-3x-etc.html</guid><description>&lt;h4 id="maternal-licorice-consumption-during-pregnancy-and-pubertal-cognitive-and-psychiatric-outcomes-in-children">Maternal Licorice Consumption During Pregnancy and Pubertal, Cognitive, and Psychiatric Outcomes in Children&lt;/h4>
+&lt;p>Katri Räikkönen Silja Martikainen Anu-Katriina Pesonen Jari Lahti Kati Heinonen Riikka Pyhälä Marius Lahti Soile Tuovinen Karoliina Wehkalampi Sara Sammallahti &amp;hellip; Show more&lt;/p>
+&lt;p>Am J Epidemiol (2017) 1-12. DOI: &lt;a href="https://doi.org/10.1093/aje/kww172">https://doi.org/10.1093/aje/kww172&lt;/a>, 03 February 2017&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>
+&lt;p>Note: Most of the references for Attention Deficit Disorder in VitaminDWiki concern low Magnesium&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">ADHD and Vitamin D Deficiency&lt;/a>&lt;/p></description></item><item><title>DNA and VDR tests - 100 to 200 dollars</title><link>/posts/dna-and-vdr-tests-100-to-200-dollars.html</link><pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/dna-and-vdr-tests-100-to-200-dollars.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#many-dna-gene-testing-services-most-only-provide-ancestry-info">Many DNA gene testing services (most only provide ancestry info.)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vdr-tests-the-gene-you-were-born-with-not-its-activation">VDR tests the gene you were born with, not it&amp;rsquo;s activation&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-receptor-test-119">Vitamin D Receptor test $119&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-receptor-test-86--ship-to-greece">Vitamin D Receptor test $86 + ship to Greece&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#varous-companies-can-post-analyze-dna-tests-such-as-23andme-to-discover-vdr-etc">Varous companies can post-analyze DNA tests (such as 23andMe) to discover VDR, etc.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vdr-test--muscle-mass-and-bone-strength-dec-2016">VDR test : muscle mass and bone strength (Dec 2016)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="many-dna-gene-testing-services-most-only-provide-ancestry-info">Many DNA gene testing services (most only provide ancestry info.)&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://geneticsdigest.com/best_ancestry_genealogy_dna_test/index_jul25_var.html?gc_id=1404720398&amp;amp;h_ad_id=611982145119&amp;amp;gad=1&amp;amp;gclid=CjwKCAjwzo2mBhAUEiwAf7wjkgDT-xs4soMj42mZuld7wSRcZaWIsQHxVQOkTISKHKSbDjZfAARHeRoCmOUQAvD_BwE">3 Essential Tips You Must Know Before Buying a DNA Test&lt;/a>&lt;/p></description></item><item><title>Vitamin D review</title><link>/posts/vitamin-d-review.html</link><pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-review.html</guid><description>&lt;p>&lt;strong>Beneficial Effects of UV-Radiation: Vitamin D and beyond&lt;/strong>&lt;/p>
+&lt;p>International Journal of Environmental Research and Public Health; 2016,13,1028; doi:10.3390/ijerph13101028&lt;/p>
+&lt;p>Christian Trammer, Marlene Pandis 1, Nicolas Verheyen , Martin R. Grubler 1,s,&lt;/p>
+&lt;p>Martin Gaksch 1, Barbara Obermayer-Pietsch 1, Andreas Tomaschitz , Thomas R. Pieber 1, Stefan Pilz h* and Verena Schwetz 1&lt;/p>
+&lt;p>Division of Endocrinology and Diabetology, Department of Internal Medicine, Medical University of Graz, Auenbruggerplatz 15, Graz 8036, Austria; &lt;a href="mailto:christian.trummer@medunigraz.at">christian.trummer@medunigraz.at&lt;/a> (C.T.); &lt;a href="mailto:marlene.pandis@medunigraz.at">marlene.pandis@medunigraz.at&lt;/a> (M.P.); &lt;a href="mailto:martin.gruebler@gmx.net">martin.gruebler@gmx.net&lt;/a> (M.R.G.); &lt;a href="mailto:martin.gaksch@gmail.com">martin.gaksch@gmail.com&lt;/a> (M.G.); &lt;a href="mailto:barbara.obermayer@medunigraz.at">barbara.obermayer@medunigraz.at&lt;/a> (B.O.-P.); &lt;a href="mailto:thomas.pieber@medunigraz.at">thomas.pieber@medunigraz.at&lt;/a> (T.R.P.); &lt;a href="mailto:verena.schwetz@medunigraz.at">verena.schwetz@medunigraz.at&lt;/a> (V.S.)&lt;/p></description></item><item><title>Omega-3 reduces many psychiatric disorders – 2 reviews 2016</title><link>/posts/omega-3-reduces-many-psychiatric-disorders-2-reviews-2016.html</link><pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/omega-3-reduces-many-psychiatric-disorders-2-reviews-2016.html</guid><description>&lt;h3 id="supplementation-with-omega-3-fatty-acids-in-psychiatric-disorders-a-review-of-literature-data">Supplementation with Omega-3 Fatty Acids in Psychiatric Disorders: A Review of Literature Data.&lt;/h3>
+&lt;p>J Clin Med. 2016 Jul 27;5(8). pii: E67. &lt;a href="https://doi.org/10.3390/jcm5080067.">doi: 10.3390/jcm5080067.&lt;/a>&lt;/p>
+&lt;p>Bozzatello P1, Brignolo E2, De Grandi E3, Bellino S4.&lt;/p>
+&lt;p>1Centre for Personality Disorders, Department of Neuroscience, University of Turin, 10126 Turin, Italy. &lt;a href="mailto:paola.bozzatello@unito.it">paola.bozzatello@unito.it&lt;/a>.&lt;/p>
+&lt;p>2Centre for Personality Disorders, Department of Neuroscience, University of Turin, 10126 Turin, Italy. &lt;a href="mailto:elena.brignolo@yahoo.com">elena.brignolo@yahoo.com&lt;/a>.&lt;/p>
+&lt;p>3Centre for Personality Disorders, Department of Neuroscience, University of Turin, 10126 Turin, Italy. &lt;a href="mailto:elisa.degrandi@gmail.com">elisa.degrandi@gmail.com&lt;/a>.&lt;/p></description></item><item><title>COPD, Osteoporosis, and low Vitamin D</title><link>/posts/copd-osteoporosis-and-low-vitamin-d.html</link><pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate><guid>/posts/copd-osteoporosis-and-low-vitamin-d.html</guid><description>&lt;p>&lt;strong>Osteoporosis Associated with Chronic Obstructive Pulmonary Disease&lt;/strong>&lt;/p>
+&lt;p>J Bone Metab 2016;23:111-120 &lt;a href="http://dx.doi">http://dx.doi&lt;/a>.Org/10.11005/jbm.2016.23.3.111 pISSN 2287-6375 eISSN 2287-7029&lt;/p>
+&lt;p>Ryo Okazaki, Reiko Watanabe, Daisuke Inoue&lt;/p>
+&lt;p>Third Department of Medicine, Teikyo University Chiba Medical Center, Japan&lt;/p>
+&lt;p>Corresponding author: Ryo Okazaki, Third Department of Medicine, Teikyo University Chiba Medical Center, 3426-3 Anesaki Ichihara, Chiba 299-0111, Japan Tel: +81-436-62-1211, Fax: +81-436-7340, E-mail: &lt;a href="mailto:rokazaki@med.teikyo-u.ac.jp">rokazaki@med.teikyo-u.ac.jp&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/copd-fought-by-vitamin-d-many-studies">COPD fought by Vitamin D - many studies&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=Glucocorticoid&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for Glucocorticoids&lt;/a> 311 items as of Sept 2016&lt;/p></description></item><item><title>Need for Routine Vitamin D Screening in Military Personnel</title><link>/posts/need-for-routine-vitamin-d-screening-in-military-personnel.html</link><pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate><guid>/posts/need-for-routine-vitamin-d-screening-in-military-personnel.html</guid><description>&lt;p>Military Medicine Vol 181 Issue 9, September 2016, pp. 1163-1164&lt;/p>
+&lt;p>COL Albert F. DiNicola , MC USAR (Ret.)*; Peter J. DiNicola , BS†; Lucia Sanchez *&lt;/p>
+&lt;p>DOI: &lt;a href="http://dx.doi.org/10.7205/MILMED-D-16-00115">http://dx.doi.org/10.7205/MILMED-D-16-00115&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Pinnacle Medical Group, 8110 Mango Avenue, Fontana, CA 92335.&lt;/li>
+&lt;/ul>
+&lt;p>†University of California, Riverside, 900 University Avenue, Riverside, CA 92521.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/trial-starting-for-vitamin-d-with-us-soldiers-2000-and-5000-iu-for-3-months">Trial starting for Vitamin D with US soldiers – 2,000 and 5,000 IU for 3 months – Nov 2016&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/military-and-vitamin-d-many-studies">Military and Vitamin D - many studies&lt;/a>&lt;/p></description></item><item><title>Fibromyalgia helped by Vitamin D – still not sure how much, and why</title><link>/posts/fibromyalgia-helped-by-vitamin-d-still-not-sure-how-much-and-why.html</link><pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate><guid>/posts/fibromyalgia-helped-by-vitamin-d-still-not-sure-how-much-and-why.html</guid><description>&lt;h4 id="vitamin-d-in-fibromyalgia-a-causative-or-confounding-biological-interplay">Vitamin D in Fibromyalgia: A Causative or Confounding Biological Interplay?&lt;/h4>
+&lt;p>Nutrients 2016, 8(6), 343; doi:10.3390/nu8060343&lt;/p>
+&lt;p>Spyridon Karras * , Eleni Rapti, Stauros Matsoukas and Kalliopi Kotsa&lt;/p>
+&lt;p>First Department of Internal Medicine, Division of Endocrinology and Metabolism, AHEPA Hospital, Thessaloniki 54636, Greece&lt;/p>
+&lt;p>&lt;strong>FM suplementation with Vitamin D&lt;/strong>&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/fm-supplementation.jpg" alt="image" width="900">
+&lt;p>Fibromyalgia (FM) is a chronic syndrome with an increasing prevalence, characterized by widespread musculoskeletal pain in combination with a variety of cognitive symptoms and fatigue. A plethora of scientific evidence that has accumulated during the last decades, resulted in a significant improvement of the understanding of the pathophysiology of the disease. However, current therapeutic approaches in patients with FM remains a multidimensional approach including patient education, behavioral therapy, exercise, pain management, and relief of chronic symptoms, rather than the use drug therapies, based on the mechanisms of disease development. Vitamin D, a fat-soluble vitamin derived mainly from skin synthesis through ultraviolet radiation, has been recognized to manifest a plethora of extraskeletal actions, apart from its fundamental role in skeletal and calcium homeostasis, including modulation of cell growth, neuromuscular actions, and potential anti-inflammatory properties. Recent findings indicate that hypovitaminosis D to be highly prevalent in patients with FM. Supplementation studies are limited so far, indicating potential beneficial effects on pain and severity of the disease, however specific recommendations are lacking. This review aims to summarize and critically appraise data regarding the pathophysiological interplay between vitamin D and FM, available results from observational and supplementation studies so far, with a clinical discourse on current knowledge gaps and future r&lt;/p></description></item><item><title>Zika – Should asymptomatic pregnant travelers be tracked (no)</title><link>/posts/zika-should-asymptomatic-pregnant-travelers-be-tracked-no.html</link><pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate><guid>/posts/zika-should-asymptomatic-pregnant-travelers-be-tracked-no.html</guid><description>&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;ul>
+&lt;li>40,000,000 travelers each year&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Of which approximately 1 in 1,000 will typically be pregnant&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>So 40,000 pregnant women to track (CDC says they will track)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Why not track the other adults who might also carry the virus to US mosquitos?&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Of 39.96 million non-pregnant we guess that only 1/3 (10 million) will be in regions inhabited by mosquitos capable of sucking up the Zika virus from the travelers&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Zika test results have many false positives and false negatives&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Guessing a false positive rate of 10%, 4,000 women will be incorrectly diagnosed as having Zika.&lt;/p></description></item><item><title>Zika tests of asymptomatic pregnancies give poor results – so don’t test</title><link>/posts/zika-tests-of-asymptomatic-pregnancies-give-poor-results-so-dont-test.html</link><pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate><guid>/posts/zika-tests-of-asymptomatic-pregnancies-give-poor-results-so-dont-test.html</guid><description>&lt;h4 id="asymptomatic-pregnant-women-returning-to-the-united-states-from-countries-experiencing-a-zika-virus-outbreak-should-be-tested-for-zika-virus-against-not-so-fast">Asymptomatic pregnant women returning to the United States from countries experiencing a Zika virus outbreak should be tested for Zika virus: AGAINST: Not so fast&lt;/h4>
+&lt;p>International Journal of Obstetrics and Gynocology, First published: 6 May 2016, DOI: 10.1111/1471-0528.14068&lt;/p>
+&lt;p>George R. Saade&lt;/p>
+&lt;p>These articles are part of a collection of articles on the Zika virus, introduced by an Editorial by SS Witkin.&lt;/p>
+&lt;p>To view this Editorial visit &lt;a href="http://dx.doi.org/10.1111/1471-0528.14076">http://dx.doi.org/10.1111/1471-0528.14076&lt;/a>.&lt;/p>
+&lt;p>Updated guidance issued in response to the recent reports of an association between maternal Zika infection and fetal microcephaly included a statement that serological testing for Zika virus can &lt;span>[emphasis added]&lt;/span> be offered to asymptomatic pregnant women who travelled to an area with ongoing Zika virus transmission (SMFM Publications Committee Am J Obstet Gynecol 2016;pii:S0002–9378&lt;sup>[16]&lt;/sup>00343-4. &lt;a href="https://doi.org/10.1016/j.ajog.2016.02.043">doi: 10.1016/j.ajog.2016.02.043&lt;/a>; Oduyebo et al. MMWR 2016;65:122–7).&lt;/p></description></item><item><title>Sunlight - not too much and not too little</title><link>/posts/sunlight-not-too-much-and-not-too-little.html</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>/posts/sunlight-not-too-much-and-not-too-little.html</guid><description>&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>&lt;a href="/posts/sun-is-needed-but-as-with-ice-cream-getting-too-much-can-cause-problems">Sun is needed, but as with ice cream, getting too much can cause problems – Aug 2015&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/go-ahead-soak-up-some-sun-but-dont-burn-holick">Go ahead, soak up some sun (but don’t burn) – Holick July 2015&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/overly-restrictive-sun-exposure-warnings-pose-health-risk">Overly restrictive sun exposure warnings pose health risk - July 2015&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/less-sun-means-more-disease-grant-holick-cannell-et-al">Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/vitamin-d-from-the-sun-while-minimizing-skin-cancer-interview-by-dr-mercolla-of-dr-cannell">Vitamin D from the sun while minimizing skin cancer - Interview by Dr. Mercolla of Dr. Cannell - Nov 2014&lt;/a>&lt;/p></description></item><item><title>Farmed salmon is the most toxic food known</title><link>/posts/farmed-salmon-is-the-most-toxic-food-known.html</link><pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/farmed-salmon-is-the-most-toxic-food-known.html</guid><description>&lt;h4 id="update-march-2018">Update March 2018&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://articles.mercola.com/sites/articles/archive/2018/03/24/why-farmed-salmon-are-toxic.aspx?utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20180324Z1_UCM&amp;amp;et_cid=DM200215&amp;amp;et_rid=255027766">Why Farmed Salmon Are a Toxic ‘Junk Food’&lt;/a> Mercola&lt;/strong>&lt;/p>
+&lt;p>Mice were fed farmed salmon with and without toxins removed.&lt;/p>
+&lt;p>&lt;a href="https://www.huffingtonpost.com/dr-walter-crinnion/salmon-diabetes_b_1332820.html">Mice fed salmon with toxins quickly got diabetes&lt;/a> - without toxins there was no diabetes&lt;/p>
+&lt;p>&amp;ldquo;. . .the PCBs you get from one meal of farmed salmon will not be fully cleared out of the body for between 50 and 75 years&amp;rdquo;&lt;/p>
+&lt;hr>
+&lt;h4 id="an-inside-look-into-the-fish-industry-reveals-disturbing-facts-that-could-threaten-your-healthhttparticlesmercolacomsitesarticlesarchive20160430salmon-fish-farmingaspxutm_sourcednlutm_mediumemailutm_contentart1utm_campaign20160430z1et_ciddm104129et_rid1464985068-mercola-april-2016">&lt;a href="http://articles.mercola.com/sites/articles/archive/2016/04/30/salmon-fish-farming.aspx?utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20160430Z1&amp;amp;et_cid=DM104129&amp;amp;et_rid=1464985068">An Inside Look Into the Fish Industry Reveals Disturbing Facts That Could Threaten Your Health&lt;/a> Mercola April 2016&lt;/h4>
+&lt;p>&lt;strong>Snips&lt;/strong>&lt;/p></description></item><item><title>Stress after natural disaster reduced by just 1000 IU Vitamin D – RCT</title><link>/posts/stress-after-natural-disaster-reduced-by-just-1000-iu-vitamin-d-rct.html</link><pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/stress-after-natural-disaster-reduced-by-just-1000-iu-vitamin-d-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-randomised-trial-of-nutrient-supplements-to-minimise-psychological-stress-after-a-natural-disaster">A randomised trial of nutrient supplements to minimise psychological stress after a natural disaster.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effect-of-monthly-vitamin-d3-supplementation-in-healthy-adults-on-adverse-effects-of-earthquakes-randomised-controlled-trialhttpwwwncbinlmnihgovpubmed25516139-2014">&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/25516139">Effect of monthly vitamin D3 supplementation in healthy adults on adverse effects of earthquakes: randomised controlled trial&lt;/a> 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="a-randomised-trial-of-nutrient-supplements-to-minimise-psychological-stress-after-a-natural-disaster">A randomised trial of nutrient supplements to minimise psychological stress after a natural disaster.&lt;/h4>
+&lt;p>Psychiatry Res. 2015 Aug 30;228(3):373-9. &lt;a href="https://doi.org/10.1016/j.psychres.2015.05.080">doi: 10.1016/j.psychres.2015.05.080&lt;/a>&lt;/p>
+&lt;p>Kaplan BJ1, Rucklidge JJ2, Romijn AR2, Dolph M3.&lt;/p>
+&lt;p>After devastating flooding in southern Alberta in June 2013, we attempted to replicate a New Zealand randomised trial that showed that micronutrient (minerals, vitamins) consumption after the earthquakes of 2010-11 resulted in improved mental health. Residents of southern Alberta were invited to participate in a study on the potential benefit of nutrient supplements following a natural disaster. Fifty-six adults aged 23-66 were randomised to receive a single nutrient (vitamin D, n=17), a few-nutrients formula (B-Complex, n=21), or a broad-spectrum mineral/vitamin formula (BSMV, n=18). Self-reported changes in depression, anxiety and stress were monitored for six weeks. Although all groups showed substantial decreases on all measures, those consuming the B-Complex and the BSMV formulas showed significantly greater improvement in stress and anxiety compared with those consuming the single nutrient, with large effect sizes (Cohen&amp;rsquo;s d range 0.76-1.08). There were no group differences between those consuming the B-Complex and BSMV. The use of nutrient formulas with multiple minerals and/or vitamins to minimise stress associated with natural disasters is now supported by three studies. Further research should be carried out to evaluate the potential population benefit that might accrue if such formulas were distributed as a post-disaster public health measure.&lt;/p></description></item><item><title>10 Diseases associated with Multiple Sclerosis are also associated with low Omega-3 and vitamin D</title><link>/posts/10-diseases-associated-with-multiple-sclerosis-are-also-associated-with-low-omega-3-and-vitamin-d.html</link><pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/10-diseases-associated-with-multiple-sclerosis-are-also-associated-with-low-omega-3-and-vitamin-d.html</guid><description>&lt;h4 id="multiple-sclerosis---a-lifestyle-disease">Multiple sclerosis - A lifestyle disease?&lt;/h4>
+&lt;p>Neurology Journal Editorial doi:http:/​/​dx.​doi.​org/​10.​1212/​WNL.​0000000000002487&lt;/p>
+&lt;p>William B. Grant, PhD and Trond Riise, PhD&lt;/p>
+&lt;p>&lt;strong>Publisher provided Free Excerpt&lt;/strong>&lt;/p>
+&lt;p>Chronic diseases are the primary cause of disability, morbidity, and death in Western developed countries. Many of these diseases are related to environmental influences including diet, smoking, and other lifestyle factors. Public health measures address some of these factors, and studies strengthening the links between environmental factors and health can be useful in this regard.&lt;/p></description></item><item><title>PMS reduced by half in girls who had low levels of vitamin D – RCT</title><link>/posts/pms-reduced-by-half-in-girls-who-had-low-levels-of-vitamin-d-rct.html</link><pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/pms-reduced-by-half-in-girls-who-had-low-levels-of-vitamin-d-rct.html</guid><description>&lt;h4 id="vitamin-d-supplementation-on-premenstrual-syndrome-related-mood-disorders-in-adolescents-with-severe-hypovitaminosis-d">Vitamin D Supplementation on Premenstrual Syndrome-Related Mood Disorders in Adolescents with Severe Hypovitaminosis D.&lt;/h4>
+&lt;p>J Pediatr Adolesc Gynecol. 2015 Dec 24. pii: S1083-3188(15)00444-1. &lt;a href="https://doi.org/10.1016/j.jpag.2015.12.006.">doi: 10.1016/j.jpag.2015.12.006.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Tartagni M1, Cicinelli MV1, Tartagni MV2, Alrasheed H3, Matteo M1, Baldini D3, De Salvia M1, Loverro G1, Montagnani M4.&lt;/p>
+&lt;p>1Department of Biomedical Sciences and Human Oncology, School of Medicine, University of Bari &amp;ldquo;Aldo Moro&amp;rdquo;, Bari, ITALY.&lt;/p>
+&lt;p>2Centro di Fecondazione Medicalmente Assistita MoMò Fertilife, Bisceglie, ITALY; Department of Biomedical Sciences and Human Oncology, School of Medicine, University of Bari &amp;ldquo;Aldo Moro&amp;rdquo;, Bari, ITALY.&lt;/p></description></item><item><title>Off topic: Cannabis and disease studies at GreenMedInfo</title><link>/posts/off-topic-cannabis-and-disease-studies-at-greenmedinfo.html</link><pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/off-topic-cannabis-and-disease-studies-at-greenmedinfo.html</guid><description>&lt;h4 id="raw-cannabis-juice-helps-young-woman-ditch-40-medicationshttptvgreenmedinfocomraw-cannabis-juice-helps-young-woman-ditch-40-medications">&lt;a href="http://tv.greenmedinfo.com/raw-cannabis-juice-helps-young-woman-ditch-40-medications/">Raw Cannabis Juice Helps Young Woman Ditch 40 Medications&lt;/a>&lt;/h4>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;p>&lt;strong>Note – There is a BIG difference between cannabis products&lt;/strong>&lt;/p>
+&lt;p>Most research - such as in the table below does not distinguish between THC and CBD&lt;/p>
+&lt;p>In a nutshell :It appears that&lt;/p>
+&lt;p>&lt;strong>| | | |
+| &amp;mdash; | &amp;mdash; | &amp;mdash; |
+| | THC | CBD |
+| Benefit | Get high | Pain relief |
+| Typical cannabis | 50% | 50% |
+| High-grade cannabis | 90% | 10% |
+| Pain relief cannabis | 5% | 95% |
+| Legal in US states | &amp;lt;10% | 100% |&lt;/strong>&lt;/p></description></item><item><title>Seasonal Affective Disorder - treated by both vitamin D and bright light</title><link>/posts/seasonal-affective-disorder-treated-by-both-vitamin-d-and-bright-light.html</link><pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/seasonal-affective-disorder-treated-by-both-vitamin-d-and-bright-light.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#seasonal-affective-disorder-an-overview-of-assessment-and-treatment-approaches---2015">Seasonal Affective Disorder: An Overview of Assessment and Treatment Approaches - 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#both-light-and-vitamin-d-increase-serotonin-which-reduces-depression">Both Light and Vitamin D increase Serotonin, which reduces depression&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="seasonal-affective-disorder-an-overview-of-assessment-and-treatment-approaches---2015">Seasonal Affective Disorder: An Overview of Assessment and Treatment Approaches - 2015&lt;/h4>
+&lt;p>Depression Research and Treatment, Volume 2015 (2015), 6 pages, &lt;a href="http://dx.doi.org/10.1155/2015/178564">http://dx.doi.org/10.1155/2015/178564&lt;/a>&lt;/p>
+&lt;p>Sherri Melrose, Faculty of Health Disciplines, Athabasca University, Athabasca, AB, Canada T9S 3A3&lt;/p>
+&lt;p>Seasonal affective disorder or SAD is a recurrent major depressive disorder with a seasonal pattern usually beginning in fall and continuing into winter months. A subsyndromal type of SAD, or S-SAD, is commonly known as “winter blues.” Less often, SAD causes depression in the spring or early summer. Symptoms center on sad mood and low energy. Those most at risk are female, are younger, live far from the equator, and have family histories of depression, bipolar disorder, or SAD. Screening instruments include the Seasonal Pattern Assessment Questionnaire (SPAQ). Typical treatment includes antidepressant medications, light therapy, Vitamin D, and counselling. This paper provides an overview of SAD.&lt;/p></description></item><item><title>Battling the winter blues with vitamin D (4000 IU)</title><link>/posts/battling-the-winter-blues-with-vitamin-d-4000-iu.html</link><pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/battling-the-winter-blues-with-vitamin-d-4000-iu.html</guid><description>&lt;h4 id="battling-the-winter-blues-and-seasonal-affective-disorder-with-vitamin-d">Battling the winter blues and seasonal affective disorder with vitamin D&lt;/h4>
+&lt;p>&lt;strong>NEWS RELEASE. December 14, 2015, Vitamin D Society - Canada&lt;/strong>&lt;/p>
+&lt;p>TORONTO - Canada’s long, dark winter brings with it the blahs and symptoms of seasonal affective disorder (SAD) for many, however a Canadian doctor is looking to the sunshine vitamin to aid those suffering.&lt;/p>
+&lt;p>Seasonal depression and SAD is a mental condition that develops in some individuals who do not receive enough natural light. Shorter winter days makes Canadians more at risk of the disorder, which can lead to symptoms of decreased energy to difficulty concentrating to feelings of anxiety and despair, among others.&lt;/p></description></item><item><title>Magnesium in Prevention and Therapy – (28 pages)</title><link>/posts/magnesium-in-prevention-and-therapy-28-pages.html</link><pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/magnesium-in-prevention-and-therapy-28-pages.html</guid><description>&lt;p>Nutrients ISSN 2072-6643&lt;/p>
+&lt;p>Uwe Grober &lt;a href="mailto:uwegroeber@gmx.net">uwegroeber@gmx.net&lt;/a> , Joachim Schmidt1 and Klaus Kisters 1,2&lt;/p>
+&lt;p>Academy of Micronutrient Medicine, Essen 45130, Germany;&lt;/p>
+&lt;p>E-Mails: &lt;a href="mailto:Prof.schmidt.dd@t-online.de">Prof.schmidt.dd@t-online.de&lt;/a> (J.S.); &lt;a href="mailto:kisters@annahospital.de">kisters@annahospital.de&lt;/a> (K.K.)&lt;/p>
+&lt;p>Department of Internal Medicine I, St. Anna-Hospital, Herne 44649, Germany&lt;/p>
+&lt;p>Received: 18 June 2015 /Accepted: 11 September 2015 /Published: 23 September 2015&lt;/p>
+&lt;p>Abstract:&lt;/p>
+&lt;p>Magnesium is the fourth most abundant mineral in the body. It has been recognized as a cofactor for more than 300 enzymatic reactions, where it is crucial for adenosine triphosphate (ATP) metabolism. Magnesium is required for DNA and RNA synthesis, reproduction, and protein synthesis. Moreover, magnesium is essential for the regulation of muscular contraction, blood pressure, insulin metabolism, cardiac excitability, vasomotor tone, nerve transmission and neuromuscular conduction. Imbalances in magnesium status—primarily hypomagnesemia as it is seen more common than hypermagnesemia—might result in unwanted neuromuscular, cardiac or nervous disorders. Based on magnesium&amp;rsquo;s many functions within the human body, it plays an important role in prevention and treatment of many diseases. Low levels of magnesium have been associated with a number of chronic diseases, such as Alzheimer’s disease, insulin resistance and type-2 diabetes mellitus, hypertension, cardiovascular disease (e.g., stroke), migraine headaches, and attention deficit hyperactivity disorder (ADHD).&lt;/p></description></item><item><title>Depression Hospitalization associated with low vitamin D</title><link>/posts/depression-hospitalization-associated-with-low-vitamin-d.html</link><pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/depression-hospitalization-associated-with-low-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-deficiency-and-depressive-symptomatology-in-psychiatric-patients-hospitalized-with-a-current-depressive-episode-a-factor-analytic-study">Vitamin D Deficiency and Depressive Symptomatology in Psychiatric Patients Hospitalized with a Current Depressive Episode: A Factor Analytic Study.&lt;/h4>
+&lt;p>PLoS One. 2015 Sep 23;10(9):e0138550. &lt;a href="https://doi.org/10.1371/journal.pone.0138550.">doi: 10.1371/journal.pone.0138550.&lt;/a>&lt;/p>
+&lt;p>von Känel R1, Fardad N2, Steurer N2, Horak N2, Hindermann E2, Fischer F3, Gessler K2.&lt;/p>
+&lt;p>1Department of Psychosomatic Medicine, Clinic Barmelweid, Barmelweid, Switzerland; Department of Neurology, Bern University Hospital, Inselspital, and University of Bern, Bern, Switzerland; Department of Clinical Research, University of Bern, Bern, Switzerland.&lt;/p></description></item><item><title>Pill taking is not a problem with vitamin D</title><link>/posts/pill-taking-is-not-a-problem-with-vitamin-d.html</link><pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/pill-taking-is-not-a-problem-with-vitamin-d.html</guid><description>&lt;h4 id="some-vitamin-d-capsules-can-be-twisted-open-and-put-the-tastless-powder-on-food-in-drinks-or-directly-on-your-tongue">Some vitamin D capsules can be twisted open and put the tastless powder on food, in drinks, or directly on your tongue&lt;/h4>
+&lt;p>Example &lt;a href="http://www.biotechpharmacal.com/">Bio-Tech Pharmacal&lt;/a> tiny 5,000 IU and 50,000 IU capsules contain water-soluble powder&lt;/p>
+&lt;h4 id="some-vitamin-d-is-available-as-liquid-spray-topical-injection-monthly-etc">Some vitamin D is available as liquid, spray, topical, injection (monthly), etc&lt;/h4>
+&lt;p>&lt;a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk&lt;/a>&lt;/p></description></item><item><title>Vitamin D - Comparing Symptoms of Hypercalcemia with Low Magnesium</title><link>/posts/vitamin-d-comparing-symptoms-of-hypercalcemia-with-low-magnesium.html</link><pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-comparing-symptoms-of-hypercalcemia-with-low-magnesium.html</guid><description>&lt;h4 id="from-httpwwwvitamindcouncilorgq-a-forumtopicis-there-a-form-of-vitamin-d-that-wont-give-me-nausea-i-was-taking-the-3k-worth-of-d-that-my-md-recommended-and-i-started-to-experience-extreme-nausea-what-good-is-the-d-if-i-throw-it-up">From [http://www.vitamindcouncil.org/q-a-forum/topic/is-there-a-form-of-vitamin-d-that-wont-give-me-nausea-i-was-taking-the-3k-worth-of-d-that-my-md-recommended-and-i-started-to-experience-extreme-nausea-what-good-is-the-d-if-i-throw-it-up/|&lt;/h4>
+&lt;p>Is there a form of vitamin D that won&amp;rsquo;t give me nausea? I was taking the 3K worth of D that my MD recommended and I started to experience extreme nausea] Vitamin D Council&lt;/p>
+&lt;p>{SPLIT(fixedsize=&amp;ldquo;y&amp;rdquo; colsize=&amp;ldquo;200px|200px|&amp;rdquo;)}&lt;/p>
+&lt;p>&lt;strong>Hypercalcemia Symptoms&lt;/strong>&lt;/p>
+&lt;p>(too much vitamin D)&lt;/p>
+&lt;p>•	feeling sick or being sick&lt;/p>
+&lt;p>•	poor appetite or loss of appetite&lt;/p>
+&lt;p>• feeling very thirsty&lt;/p>
+&lt;p>•	passing urine often&lt;/p>
+&lt;p>• constipation or diarrhea&lt;/p>
+&lt;p>• abdominal pain&lt;/p></description></item><item><title>Vitamin D supplementation improved quality of life</title><link>/posts/vitamin-d-supplementation-improved-quality-of-life.html</link><pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-supplementation-improved-quality-of-life.html</guid><description>&lt;h4 id="the-effectiveness-of-a-preventive-health-program-and-vitamin-d-status-in-improving-health-related-quality-of-life-of-older-canadians">The effectiveness of a preventive health program and vitamin D status in improving health-related quality of life of older Canadians.&lt;/h4>
+&lt;p>Qual Life Res. 2015 Aug 18. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Ekwaru JP1, Ohinmaa A, Veugelers PJ.&lt;/p>
+&lt;p>1School of Public Health, University of Alberta, 3-50 University Terrace, 8303 - 112 Street, Edmonton, AB, T6G 2T4, Canada.&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/qol.jpg" alt="image" width="900">
+&lt;p>PURPOSE: To assess the effectiveness of a preventive health program and vitamin D status in improving the health-related quality of life (HRQOL) of older residents of Canada.&lt;/p></description></item><item><title>Psychiatric distress 2.4X more likely if low vitamin D</title><link>/posts/psychiatric-distress-24x-more-likely-if-low-vitamin-d.html</link><pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/psychiatric-distress-24x-more-likely-if-low-vitamin-d.html</guid><description>&lt;h4 id="the-association-of-vitamin-d-deficiency-with-psychiatric-distress-and-violence-behaviors-in-iranian-adolescents-the-caspian-iii-study">The association of vitamin D deficiency with psychiatric distress and violence behaviors in Iranian adolescents: the CASPIAN-III study&lt;/h4>
+&lt;p>Journal of Diabetes &amp;amp; Metabolic Disorders, July 2015, 14:62,&lt;/p>
+&lt;p>Asal Ataie-Jafari, Mostafa Qorbani, Ramin Heshmat, Gelayol Ardalan, Mohammad Esmaeil Motlagh, Hamid Asayesh, Seyed Masoud Arzaghi, Mohammad Hasan Tajadini, Sara Nejatinamini, Parinaz Poursafa,&lt;/p>
+&lt;h4 id="1-to-2-reduction-per-nanogram-of-vitamin-d">1 to 2% reduction PER NANOGRAM of Vitamin D&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/distress-per-ng.jpg" alt="image">
+&lt;p>Background: Subtle effects of vitamin D deficiency on behavior have been suggested. We investigated the association of vitamin D status with mental health and violence behaviors in a sample of Iranian adolescents.&lt;/p></description></item><item><title>Omega-3 prevents PTSD and some mood disorders</title><link>/posts/omega-3-prevents-ptsd-and-some-mood-disorders.html</link><pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/omega-3-prevents-ptsd-and-some-mood-disorders.html</guid><description>&lt;h3 id="omega-3-polyunsaturated-fatty-acids-in-prevention-of-mood-and-anxiety-disorders">Omega-3 Polyunsaturated Fatty Acids in Prevention of Mood and Anxiety Disorders.&lt;/h3>
+&lt;p>Clin Psychopharmacol Neurosci. 2015 Aug 31;13(2):129-37. &lt;a href="https://doi.org/10.9758/cpn.2015.13.2.129.">doi: 10.9758/cpn.2015.13.2.129.&lt;/a>&lt;/p>
+&lt;p>Su KP1,2, Matsuoka Y3, Pae CU4.&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/omega-3-mood-f1.jpg" alt="image">
+&lt;p>Psychiatric disorders in general, and major depression and anxiety disorders in particular, account for a large burden of disability, morbidity and premature mortality worldwide. Omega-3 polyunsaturated fatty acids (PUFAs) have a range of neurobiological activities in modulation of neurotransmitters, anti-inflammation, anti-oxidation and neuroplasticity, which could contribute to psychotropic effects. Here we reviewed recent research on the benefits of omega-3 PUFA supplements in prevention against major depression, bipolar disorders, interferon-α-induced depression patients with chronic hepatitis C viral infection, and &lt;strong>posttraumatic stress disorder&lt;/strong> . The biological mechanisms underlying omega-3 PUFAs&amp;rsquo;psychotropic effects are proposed and reviewed. Nutrition is a modifiable environmental factor that might be important in prevention medicine, which have been applied for many years in the secondary prevention of heart disease with omega-3 PUFAs. This review extends the notion that nutrition in psychiatry is a modifiable environmental factor and calls for more researches on prospective clinical studies to justify the preventive application of omega-3 PUFAs in daily practice.&lt;/p></description></item><item><title>Vitamin D increases mineral availability which protect against toxic elements</title><link>/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements.html</link><pubDate>Sat, 18 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements.html</guid><description>&lt;h2 id="higher-concentration-of-some-metals-associated-with-higher-vitamin-d-near-a-mine-in-mexico---aug-2015">Higher concentration of some metals associated with higher vitamin D near a mine in Mexico - Aug 2015&lt;/h2>
+&lt;p>Association of arsenic and metals with concentrations of 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D among adolescents in Torreón, Mexico.&lt;/p>
+&lt;p>Environ Health Perspect. 2014 Nov;122(11):1233-8. &lt;a href="https://doi.org/10.1289/ehp.1307861.">doi: 10.1289/ehp.1307861.&lt;/a> Epub 2014 Aug 5.&lt;/p>
+&lt;p>Zamoiski RD1, Guallar E, García-Vargas GG, Rothenberg SJ, Resnick C, Andrade MR, Steuerwald AJ, Parsons PJ, Weaver VM, Navas-Acien A, Silbergeld EK.&lt;/p>
+&lt;p>1Department of Environmental Health Sciences, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.&lt;/p></description></item><item><title>Omega-3, Vitamin D, and other nutrients decrease mental health problems</title><link>/posts/omega-3-vitamin-d-and-other-nutrients-decrease-mental-health-problems.html</link><pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/omega-3-vitamin-d-and-other-nutrients-decrease-mental-health-problems.html</guid><description>&lt;h3 id="from-importance-of-a-balanced-diet-for-mental-healthhttpwwwsciencedailycomreleases201506150608081759htm-science-daily">From &lt;a href="http://www.sciencedaily.com/releases/2015/06/150608081759.htm">Importance of a balanced diet for mental health&lt;/a> Science Daily&lt;/h3>
+&lt;p>Omega-3, essential amino acids, B-group vitamins (B12 and folate), vitamin D and minerals like zinc, magnesium and iron.&lt;/p>
+&lt;p>A balanced and high-quality diet, such as the Mediterranean, provides all of these, the researchers note.&lt;/p>
+&lt;p>Jerome Sarris, Alan C Logan, Tasnime N Akbaraly, G Paul Amminger, Vicent Balanzá-Martínez, Marlene P Freeman, Joseph Hibbeln, Yutaka Matsuoka, David Mischoulon, Tetsuya Mizoue, Akiko Nanri, Daisuke Nishi, Drew Ramsey, Julia J Rucklidge, Almudena Sanchez-Villegas, Andrew Scholey, Kuan-Pin Su, Felice N Jacka. Nutritional medicine as mainstream in psychiatry. The Lancet Psychiatry, 2015; 2 (3): 271 DOI:10.1016/S2215-0366(14)00051-0&lt;/p></description></item><item><title>Magnesium: its role in nutrition and carcinogenesis - 2013</title><link>/posts/magnesium-its-role-in-nutrition-and-carcinogenesis-2013.html</link><pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate><guid>/posts/magnesium-its-role-in-nutrition-and-carcinogenesis-2013.html</guid><description>&lt;p>Rocz Panstw Zakl Hig. 2013;64(3):165-71.&lt;/p>
+&lt;p>Blaszczyk U 1, Duda-Chodak A.&lt;/p>
+&lt;p>1Department of Fermentation Technology and Technical Microbiology, Agricultural University in Krakow, Poland. &lt;a href="mailto:ublaszczyk@ur.krakow.pl">ublaszczyk@ur.krakow.pl&lt;/a>&lt;/p>
+&lt;p>Magnesium (Mg2+) plays a key role in many essential cellular processes such as intermediary metabolism, DNA replication and repair, transporting potassium and calcium ions, cell proliferation together with signalling transduction.&lt;/p>
+&lt;p>Dietary sources rich in magnesium are whole and unrefined grains, seeds, cocoa, nuts, almonds and green leafy vegetables.&lt;/p></description></item><item><title>Magnesium – I used to believe that food had enough, now I supplement with 400 mg daily – Dr. Lundberg</title><link>/posts/magnesium-i-used-to-believe-that-food-had-enough-now-i-supplement-with-400-mg-daily-dr-lundberg.html</link><pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate><guid>/posts/magnesium-i-used-to-believe-that-food-had-enough-now-i-supplement-with-400-mg-daily-dr-lundberg.html</guid><description>&lt;h4 id="see-also-web">See also Web&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ancient-minerals.com/transdermal-magnesium/dietary/"> &lt;strong>Magnesium in the Diet: The Bad News about Magnesium Food Sources&lt;/strong> &lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Magnesium content in vegetables has seen declines from 25-80% since pre-1950 figures,&amp;hellip;&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;The average American diet contains &lt;strong>barely over 50%&lt;/strong> of the conservative US recommended daily allowance (RDA) for magnesium, and roughly three quarters of the population consumes a magnesium insufficient diet&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Absorption rates can vary, and according to studies can sometimes be as low as 20%&amp;rdquo;&lt;/p></description></item><item><title>Role of vitamins in gastrointestinal diseases – review</title><link>/posts/role-of-vitamins-in-gastrointestinal-diseases-review.html</link><pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate><guid>/posts/role-of-vitamins-in-gastrointestinal-diseases-review.html</guid><description>&lt;p>World J Gastroenterol. 2015 May 7; 21(17): 5191–5209., &lt;a href="https://doi.org/10.3748/wjg.v21.i17.5191">doi: 10.3748/wjg.v21.i17.5191&lt;/a>&lt;/p>
+&lt;p>Omar A Masri, Jean M Chalhoub, and Ala I Sharara&lt;/p>
+&lt;p>A tremendous amount of data from research was published over the past decades concerning the roles of different vitamins in various gastrointestinal diseases. For instance, most vitamins showed an inverse relationship with the risk of colorectal carcinoma as well as other malignancies like gastric and esophageal cancer in observational trials, however interventional trials failed to prove a clear beneficial preventive role. On the other hand, more solid evidence was obtained from high quality studies for a role of certain vitamins in specific entities. Examples for this include the&lt;/p></description></item><item><title>Autoimmune Thyroid Disease 3X more likely if low vitamin D – meta-analysis</title><link>/posts/autoimmune-thyroid-disease-3x-more-likely-if-low-vitamin-d-meta-analysis.html</link><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/autoimmune-thyroid-disease-3x-more-likely-if-low-vitamin-d-meta-analysis.html</guid><description>&lt;h4 id="meta-analysis-of-the-association-between-vitamin-d-and-autoimmune-thyroid-disease">Meta-Analysis of the Association between Vitamin D and Autoimmune Thyroid Disease.&lt;/h4>
+&lt;p>Nutrients. 2015 Apr 3;7(4):2485-2498.&lt;/p>
+&lt;p>Wang J1, Lv S2, Chen G3, Gao C4, He J5, Zhong H6, Xu Y7.&lt;/p>
+&lt;p>1Department of Endocrinology and Metabolism, Affiliated Hospital of Luzhou Medical College, Luzhou 646000, China. &lt;a href="mailto:wangjiying90@aliyun.com">wangjiying90@aliyun.com&lt;/a>.&lt;/p>
+&lt;p>2Department of Endocrinology and Metabolism, Affiliated Hospital of Luzhou Medical College, Luzhou 646000, China. &lt;a href="mailto:lss219219@163.com">lss219219@163.com&lt;/a>.&lt;/p>
+&lt;p>3Department of Endocrinology and Metabolism, Affiliated Hospital of Luzhou Medical College, Luzhou 646000, China. &lt;a href="mailto:terry1210@aliyun.com">terry1210@aliyun.com&lt;/a>.&lt;/p></description></item><item><title>Vitamin D, Omega-3 supplementation helps cognition – perhaps due to serotonin</title><link>/posts/vitamin-d-omega-3-supplementation-helps-cognition-perhaps-due-to-serotonin.html</link><pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-omega-3-supplementation-helps-cognition-perhaps-due-to-serotonin.html</guid><description>&lt;p>&lt;strong>Vitamin D and the omega-3 fatty acids control serotonin synthesis and action, part 2: relevance for ADHD, bipolar, schizophrenia, and impulsive behavior.&lt;/strong>&lt;/p>
+&lt;p>FASEB J. 2015 Feb 24. pii: fj.14-268342&lt;/p>
+&lt;p>Patrick RP1, Ames BN1.&lt;/p>
+&lt;p>Serotonin regulates a wide variety of brain functions and behaviors. Here, we synthesize previous findings that serotonin regulates executive function, sensory gating, and social behavior and that attention deficit hyperactivity disorder, bipolar disorder, schizophrenia, and impulsive behavior all share in common defects in these functions. It has remained unclear why supplementation with omega-3 fatty acids and vitamin D improve cognitive function and behavior in these brain disorders. Here, we propose mechanisms by which serotonin synthesis, release, and function in the brain are modulated by vitamin D and the 2 marine omega-3 fatty acids, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). Brain serotonin is synthesized from tryptophan by tryptophan hydroxylase 2, which is transcriptionally activated by vitamin D hormone. Inadequate levels of vitamin D (∼70% of the population) and omega-3 fatty acids are common, suggesting that brain serotonin synthesis is not optimal. We propose mechanisms by which EPA increases serotonin release from presynaptic neurons by reducing E2 series prostaglandins and DHA influences serotonin receptor action by increasing cell membrane fluidity in postsynaptic neurons. We propose a model whereby insufficient levels of vitamin D, EPA, or DHA, in combination with genetic factors and at key periods during development, would lead to dysfunctional serotonin activation and function and may be one underlying mechanism that contributes to neuropsychiatric disorders and depression. This model suggests that optimizing vitamin D and marine omega-3 fatty acid intake may help prevent and modulate the severity of brain dysfunction.&lt;/p></description></item><item><title>ALL of the top 10 health problems of women are associated with low vitamin D</title><link>/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d.html</link><pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d.html</guid><description>&lt;h4 id="major-causes-of-all-dalys-2003--2023--females">Major Causes of all DALYs 2003 &amp;amp; 2023 – Females&lt;/h4>
+&lt;h4 id="condition2003-2023">||Condition|2003| |2023|&lt;/h4>
+&lt;p>&lt;a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;deep=off&amp;amp;type=">Anxiety - Depression&lt;/a>|10.0%|1|8.7%|1&lt;/p>
+&lt;p>&lt;a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Type 2 Diabetes&lt;/a>|4.9%|4|8.0%|2&lt;/p>
+&lt;p>&lt;a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Dementia&lt;/a>|4.8%|5|7.4%|3&lt;/p>
+&lt;p>&lt;a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Ischaemic Heart&lt;/a> |8.9%|2|6.1%|4&lt;/p>
+&lt;p>&lt;a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Stroke&lt;/a>|5.1%|3|3.8%|5&lt;/p></description></item><item><title>Longer time to fall to sleep in winter unless eat salmon (vitamin D and Omega-3)</title><link>/posts/longer-time-to-fall-to-sleep-in-winter-unless-eat-salmon-vitamin-d-and-omega-3.html</link><pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/longer-time-to-fall-to-sleep-in-winter-unless-eat-salmon-vitamin-d-and-omega-3.html</guid><description>&lt;h4 id="fish-consumption-sleep-daily-functioning-and-heart-rate-variability">Fish consumption, sleep, daily functioning, and heart rate variability.&lt;/h4>
+&lt;p>J Clin Sleep Med. 2014 May 15;10(5):567-75. &lt;a href="https://doi.org/10.5664/jcsm.3714.">doi: 10.5664/jcsm.3714.&lt;/a>&lt;/p>
+&lt;p>Hansen AL1, Dahl L2, Olson G3, Thornton D3, Graff IE2, Frøyland L2, Thayer JF4, Pallesen S5.&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/salmon-ofset-winter-sleep-delay.jpg" alt="image">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/salmon-sleep-and-omega-3.jpg" alt="image">
+&lt;p>STUDY OBJECTIVES:&lt;/p>
+&lt;p>This study investigated the effects of fatty fish on sleep, daily functioning and biomarkers such as heart rate variability (HRV), vitamin D status (serum 25-hydroxyvitamin D (25OHD), and eicosapentaenoic acid (EPA, 20:5n-3) + docosahexaenoic acid (DHA, 22:6n-3) in red blood cells. Moreover the relationship among sleep, daily functioning, HRV, vitamin D status, and levels of EPA+DHA was investigated.&lt;/p></description></item><item><title>COPD becoming suddenly worse is 30X more likely if low vitamin D</title><link>/posts/copd-becoming-suddenly-worse-is-30x-more-likely-if-low-vitamin-d.html</link><pubDate>Sat, 13 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/copd-becoming-suddenly-worse-is-30x-more-likely-if-low-vitamin-d.html</guid><description>&lt;h4 id="severe-vitamin-d-deficiency-is-associated-with-frequent-exacerbations-and-hospitalization-in-copd-patients">Severe vitamin D deficiency is associated with frequent exacerbations and hospitalization in COPD patients&lt;/h4>
+&lt;p>Respiratory Research 2014, 15:131 doi:10.1186/s12931-014-0131-0&lt;/p>
+&lt;p>Andrei Malinovschi2, Monica Masoero1, Michela Bellocchia1, Antonio Ciuffreda1, Paolo Solidoro3, Alessio Mattei3, Lorena Mercante3, Enrico Heffler1, Giovanni Rolla1 and Caterina Bucca1 &lt;a href="mailto:caterina.bucca@unito.it">caterina.bucca@unito.it&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>
+&lt;p>96% of COPD patients had low vitamin D = &lt;strong>33X&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Those with low Vitamin D were &lt;strong>18X&lt;/strong> as likely to have COPD&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Some of the associated diseases (from PDF)&lt;/strong>&lt;/p></description></item><item><title>Salmon intervention (vitamin D and Omega-3) improved heart rate variability and reduced anxiety</title><link>/posts/salmon-intervention-vitamin-d-and-omega-3-improved-heart-rate-variability-and-reduced-anxiety.html</link><pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/salmon-intervention-vitamin-d-and-omega-3-improved-heart-rate-variability-and-reduced-anxiety.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#anxiety-decreased">Anxiety decreased&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#heart-rate-variability-improved">Heart Rate Variability improved&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="anxiety-decreased">Anxiety decreased&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/salmon-anxiety.jpg" alt="image" width="400">
+&lt;hr>
+&lt;h4 id="heart-rate-variability-improved">Heart Rate Variability improved&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/salmon-hrv-improved.jpg" alt="image" width="400">
+&lt;p>Heart Rate Varibilithy = ability of the heart rate to vary as needed&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/salmon-intervention.pdf">Download the PDF from VitaminDWiki.&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Low heart rate variability (bad) is associated with low Vitamin D and COVID – many studies</title><link>/posts/low-heart-rate-variability-bad-is-associated-with-low-vitamin-d-and-covid-many-studies.html</link><pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate><guid>/posts/low-heart-rate-variability-bad-is-associated-with-low-vitamin-d-and-covid-many-studies.html</guid><description>&lt;p>Heart Rate Variability (HRV) is the moment to moment variation in Heart Rate&lt;/p>
+&lt;p>HRV &amp;lt;40 is a sign of poor heart function and thus a reason to not exercise&lt;/p>
+&lt;p>Many devices costing about $100 can constantly display HRV&lt;/p>
+&lt;p>Long-COVID, Fibromyalgia, and low Vitamin D are all associated with low HRV&lt;/p>
+&lt;p>A few studies have found that Vitamin supplementation improves HRV for some diseases&lt;/p>
+&lt;p>    &lt;span style="color:#00F;">Speculation: Vitamin D will also improve low HRV for COVID&lt;/span>&lt;/p></description></item><item><title>Mental stress significantly lowered the vitamin D levels of Heart patients</title><link>/posts/mental-stress-significantly-lowered-the-vitamin-d-levels-of-heart-patients.html</link><pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate><guid>/posts/mental-stress-significantly-lowered-the-vitamin-d-levels-of-heart-patients.html</guid><description>&lt;h4 id="association-of-vitamin-d-status-with-mental-stress-induced-myocardial-ischemia-in-patients-with-coronary-artery-disease">Association of vitamin d status with mental stress-induced myocardial ischemia in patients with coronary artery disease.&lt;/h4>
+&lt;p>Psychosom Med. 2014 Sep;76(7):569-75. &lt;a href="https://doi.org/10.1097/PSY.0000000000000088.">doi: 10.1097/PSY.0000000000000088.&lt;/a>&lt;/p>
+&lt;p>Ramadan R1, Vaccarino V, Esteves F, Sheps DS, Bremner JD, Raggi P, Quyyumi AA.&lt;/p>
+&lt;p>From the Department of Medicine (R.R., V.V., A.Q.),&lt;/p>
+&lt;p>Division of Cardiology, and Departments of Radiology (F.E.) and Psychiatry, (J.D.B.),&lt;/p>
+&lt;p>Emory University School of Medicine, Atlanta, Georgia; Department of Epidemiology (V.V.),&lt;/p>
+&lt;p>Emory University Rollins School of Public Health, Atlanta, Georgia; Department of Epidemiology (D.S.S.),&lt;/p></description></item><item><title>What you eat is a function of what your gut flora wants</title><link>/posts/what-you-eat-is-a-function-of-what-your-gut-flora-wants.html</link><pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/what-you-eat-is-a-function-of-what-your-gut-flora-wants.html</guid><description>&lt;h4 id="is-eating-behavior-manipulated-by-the-gastrointestinal-microbiota-evolutionary-pressures-and-potential-mechanisms">Is eating behavior manipulated by the gastrointestinal microbiota? Evolutionary pressures and potential mechanisms.&lt;/h4>
+&lt;p>Bioessays. 2014 Aug 8. &lt;a href="https://doi.org/10.1002/bies.201400071.">doi: 10.1002/bies.201400071.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Joe Alcock 1, Carlo C. Maley 2,3,4, &lt;a href="mailto:cmaley@alum.mit.edu">cmaley@alum.mit.edu&lt;/a> and C. Athena Aktipis 2,3,4,5&lt;/p>
+&lt;p>1 Department of Emergency Medicine, University of New Mexico, Albuquerque, NM, USA&lt;/p>
+&lt;p>2 Center for Evolution and Cancer, Helen Diller Family Comprehensive Cancer Center, San Francisco, CA, USA&lt;/p>
+&lt;p>3 Department of Surgery, University of California San Francisco, San Francisco, CA, USA&lt;/p></description></item><item><title>Off Topic: 4X increase in Americans taking morphine-type drugs in last decade (consider Vitamin D instead)</title><link>/posts/off-topic-4x-increase-in-americans-taking-morphine-type-drugs-in-last-decade-con-tamin-d-instead.html</link><pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/off-topic-4x-increase-in-americans-taking-morphine-type-drugs-in-last-decade-con-tamin-d-instead.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#47-million-americans-now-take-morphine-type-drug-sometime-each-year-httparticlesmercolacomsitesarticlesarchive20140806hydrocodone-medicationaspxe_cid20140806z1_dnl_art_1utm_sourcednlutm_mediumemailutm_contentart1utm_campaign20140806z1et_ciddm53129et_rid61166271420-mercola-aug-2014">&lt;a href="http://articles.mercola.com/sites/articles/archive/2014/08/06/hydrocodone-medication.aspx?e_cid=20140806Z1_DNL_art_1&amp;amp;utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20140806Z1&amp;amp;et_cid=DM53129&amp;amp;et_rid=611662714%20">47 million Americans now take morphine-type drug sometime each year &lt;/a> Mercola Aug 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#drug-overdoses-are-the-9th-leading-cause-of-death-in-the-ushttparticlesmercolacomsitesarticlesarchive20170419drug-overdose-9th-leading-cause-of-us-deathsaspxutm_sourcednlutm_mediumemailutm_contentart1utm_campaign20170419z1_ucmet_ciddm140582et_rid1974832225-mercola-april-2017">&lt;a href="http://articles.mercola.com/sites/articles/archive/2017/04/19/drug-overdose-9th-leading-cause-of-us-deaths.aspx?utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20170419Z1_UCM&amp;amp;et_cid=DM140582&amp;amp;et_rid=1974832225">Drug Overdoses Are the 9th Leading Cause of Death in the US&lt;/a> Mercola April 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#depressed-and-anxious-patients-receive-more-than-half-of-all-opioid-prescriptionshttparticlesmercolacomsitesarticlesarchive20170727opioid-prescriptions-depression-anxietyaspxutm_sourcednlutm_mediumemailutm_contentart1utm_campaign20170727z1_ucmet_ciddm152250et_rid2095170499-mercola-july-2017">&lt;a href="http://articles.mercola.com/sites/articles/archive/2017/07/27/opioid-prescriptions-depression-anxiety.aspx?utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20170727Z1_UCM&amp;amp;et_cid=DM152250&amp;amp;et_rid=2095170499">Depressed and Anxious Patients Receive More Than Half of All Opioid Prescriptions&lt;/a> Mercola July 2017&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="47-million-americans-now-take-morphine-type-drug-sometime-each-year-httparticlesmercolacomsitesarticlesarchive20140806hydrocodone-medicationaspxe_cid20140806z1_dnl_art_1utm_sourcednlutm_mediumemailutm_contentart1utm_campaign20140806z1et_ciddm53129et_rid61166271420-mercola-aug-2014">&lt;a href="http://articles.mercola.com/sites/articles/archive/2014/08/06/hydrocodone-medication.aspx?e_cid=20140806Z1_DNL_art_1&amp;amp;utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20140806Z1&amp;amp;et_cid=DM53129&amp;amp;et_rid=611662714%20">47 million Americans now take morphine-type drug sometime each year &lt;/a> Mercola Aug 2014&lt;/h4>
+&lt;p>5,000,000,000 hydrocodone-containing pain pills in 2011&lt;/p>
+&lt;p>= enough for 8 times per day for three weeks for every man, woman, and child&lt;/p></description></item><item><title>Cognition and vitamin D – summary of expert opinions</title><link>/posts/cognition-and-vitamin-d-summary-of-expert-opinions.html</link><pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/cognition-and-vitamin-d-summary-of-expert-opinions.html</guid><description>&lt;p>&lt;strong>Vitamin D and Cognition in Older Adults&amp;rsquo;: updated international recommendations&lt;/strong>&lt;/p>
+&lt;p>Accepted Date : 23-May-2014 Article type : Review&lt;/p>
+&lt;p>Cedric Annweiler 1'2, Erding Dursun3, Francois Feron4, Duygu Gezen-Ak3, Allan V. Kaluejf, Thomas Littlejohns6, David J. Llewellyn6, Pascal Millet4, Tammy Scott7, Katherine L. Tucker8, 3 1, Selma Yilmazer &amp;amp; Olivier Beauchet&lt;/p>
+&lt;p>From the department of Neuroscience, Division of Geriatric Medicine and Memory Clinic, UPRES EA 4638, UNAM, Angers University Hospital, Angers, France; Robarts Research Institute, Department of Medical Biophysics, Schulich School of Medicine and Dentistry, the University of Western Ontario, London, ON, Canada; Department of Medical Biology, Cerrahpasa Faculty of Medicine, Istanbul University, Istanbul, Turkey; 4Aix Marseille Universite, CNRS, NICN UMR 7259, 13916, Marseille, France; 5ZENEREI Institute, Slidell, LA, USA; 6University of Exeter Medical School, Exeter, UK; 7Jean Mayer USDA Human Nutrition Research Center on Aging, Tufts University, Boston, MA, USA; and 8Department of Clinical Laboratory and Nutritional Sciences, University of Massachusetts, Lowell, MA, USA&lt;/p></description></item><item><title>Osteocalcin and Vitamin D - both are hormones</title><link>/posts/osteocalcin-and-vitamin-d-both-are-hormones.html</link><pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/osteocalcin-and-vitamin-d-both-are-hormones.html</guid><description>&lt;h2 id="see-also-vitamindwiki">See also VitaminDWiki&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=Osteocalcin&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for OSTEOCALCIN&lt;/a> 201 items as of July 2014&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/obesity-related-to-osteocalcin-but-not-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity related to osteocalcin but not vitamin D – Feb 2012">Obesity related to osteocalcin but not vitamin D – Feb 2012&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>    &lt;strong>There is a strong relationship between vitamin K2 and osteocalcin&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="see-also-web">See also web&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed?term=osteocalcin%5BTitle%5D">Search PubMed for OSTEOCALCIN in TITLE&lt;/a> 1570 as of July 2014&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/24847664">Reduced serum total osteocalcin is associated with central obesity in Korean children&lt;/a> May 2014&lt;/p></description></item><item><title>Vitamin D Conference papers and poster abstracts – London</title><link>/posts/vitamin-d-conference-papers-and-poster-abstracts-london.html</link><pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-conference-papers-and-poster-abstracts-london.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#F00;">188 abstracts&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>Browser (cntrl F usually) can FIND words, phrases, authors, etc.&lt;/p>
+&lt;p>Note: due to extraction and formatting problems all &lt;span>[ became ( &lt;del>hs&lt;/del> &lt;del>hs&lt;/del> and all ]&lt;/span> became )&lt;/p>
+&lt;p>Conference is described at: &lt;a href="/posts/vitamin-d-conference-in-england-april-23-25-2014">Vitamin D conference in England - April 23-25 2014&lt;/a>&lt;/p>
+&lt;p>These absracts of presentations and posters were published in the &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/25054551?dopt=Abstract">Journal Nutrients&lt;/a> July 2014&lt;/p>
+&lt;p>    Note: Clicking on Hide Health Problems above will make it easier to read the Table of Contents&lt;/p></description></item><item><title>One pill every two weeks gives you all the vitamin D most adults need</title><link>/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need.html</link><pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need.html</guid><description>&lt;h4 id="50000-iu-of-vitamin-d-once-every-two-weeks-proven-to-preventtreat">50,000 IU of Vitamin D once every two weeks proven to prevent/treat:&lt;/h4>
+&lt;!-- ~tc~ start2 ~/tc~ -->
+&lt;p>&lt;strong>Diabetes + Heart Failure + Chronic Pain + Depression + Autism + Breast Cancer + Colon Cancer + Prostate Cancer + BPH (prostate) + Preeclampsia + Premature Birth + Falls + Cognitive Decline + Respiratory Tract Infection + Influenza + Tuberculosis + Chronic Obstructive Pulmonary Disease + Lupus + Inflammatory Bowel Syndrome + Urinary Tract Infection + Poor Sleep + Growing Pain + Multiple Sclerosis + PMS + Schizophrenia + Endometriosis + Smoking&lt;/strong>     &lt;strong>&lt;span style="color:#F00;">27 problems&lt;/span>&lt;/strong>&lt;/p></description></item><item><title>Military and Vitamin D - many studies</title><link>/posts/military-and-vitamin-d-many-studies.html</link><pubDate>Tue, 11 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/military-and-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#overview">Overview&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-in-the-military-its-time-to-act---oct2021">Vitamin D Deficiency in the Military: It’s Time to Act! - Oct 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#86-of-us-military-no-longer-have-enough-vitamin-d-30-ng--dec2020">86% of US military no longer have enough Vitamin D (30 ng) – Dec 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#soldiers-vitamin-d-levels-dropped-by-half-over-18-years--march2014">Soldiers&amp;rsquo; vitamin D levels dropped by half over 18 years – March 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#chart-vitamin-d-levels-of-everyone-dropped-by-half-over-18years">Chart: Vitamin D levels of everyone dropped by half over 18 years&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#need-for-routine-vitamin-d-screening-in-military-personnel---letter-to-editor2016">Need for Routine Vitamin D Screening in Military Personnel - letter to Editor 2016&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#related-items-on-theweb">Related items on the web&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="overview">Overview&lt;/h4>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>
+&lt;p>Vitamin D is essential for soldiers, to enhance physical and mental performance, and to combat stress and fatigue&lt;/p></description></item><item><title>Children with mental disorders have somewhat less vitamin D levels (graph)</title><link>/posts/children-with-mental-disorders-have-somewhat-less-vitamin-d-levels-graph.html</link><pubDate>Sun, 23 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/children-with-mental-disorders-have-somewhat-less-vitamin-d-levels-graph.html</guid><description>&lt;h3 id="do-children-with-mental-disorders-have-higher-prevalence-of-hypovitaminosis-d">Do children with mental disorders have higher prevalence of hypovitaminosis D?&lt;/h3>
+&lt;p>Mini Zhang1, Keith Cheng1, Robert Rope2, Elizabeth Martin3, Ajit Jetmalani1&lt;/p>
+&lt;p>Inadequate vitamin D level is associated with various adverse medical outcomes. There is a growing concern that insufficient vitamin D may play a role in the development of psychiatric symptoms. This study aims to answer the question: do children with mental disorders have a higher prevalence of hypovitaminosis D?&lt;/p></description></item><item><title>Central Nervous System helped by Vitamin D – Review – 2013</title><link>/posts/central-nervous-system-helped-by-vitamin-d-review-2013.html</link><pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/central-nervous-system-helped-by-vitamin-d-review-2013.html</guid><description>&lt;h2 id="vitamin-d-and-the-central-nervous-system">Vitamin D and the central nervous system&lt;/h2>
+&lt;p>Pharmacological Reports 2013, 65, 271-278 ISSN 1734-1140&lt;/p>
+&lt;p>Matgorzata Wrzosek1, Jacek tukaszkiewicz2, Michat Wrzosek3, Andrzej Jakubczyk4, Halina Matsumoto4, Pawet Piatkiewicz3, Maria Radziwoh-Zaleska4, Marcin Wojnar4,5, Grazyna Nowicka1&lt;/p>
+&lt;p>department of Pharmacogenomics, department of Biochemistry and Clinical Chemistry,&lt;/p>
+&lt;p>department of Internal Medicine and Diabetology, department of Psychiatry, Medical University of Warsaw,&lt;/p>
+&lt;p>Zwirki i Wigury 61, PL 02-091 Warszawa, Poland&lt;/p>
+&lt;p>department of Psychiatry, University of Michigan, 4250 Plymouth Rd., Ann Arbor, MI 48109, USA Correspondence: Grazyna Nowicka, e-mail: &lt;a href="mailto:grazyna.nowicka@wum.edu.p">grazyna.nowicka@wum.edu.p&lt;/a>&lt;/p></description></item><item><title>Fibromyalgia pain reduced with vitamin D intervention that achieved 30-48 ng – RCT</title><link>/posts/fibromyalgia-pain-reduced-with-vitamin-d-intervention-that-achieved-30-48-ng-rct.html</link><pubDate>Sun, 19 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/fibromyalgia-pain-reduced-with-vitamin-d-intervention-that-achieved-30-48-ng-rct.html</guid><description>&lt;h3 id="effects-of-vitamin-d-on-patients-with-fibromyalgia-syndrome">Effects of vitamin D on patients with fibromyalgia syndrome:&lt;/h3>
+&lt;p>A randomized placebo-controlled trial&lt;/p>
+&lt;p>PAIN Volume 155, Issue 2, February 2014, Pages 261–268&lt;/p>
+&lt;p>Florian Wepner a &lt;a href="mailto:florian.wepner@oss.at">florian.wepner@oss.at&lt;/a>, Raphael Scheuer a, Birgit Schuetz-Wieser a, Peter Machacek a, Elisabeth Pieler-Bruha a, Heide S. Cross b, Julia Hahne a, Martin Friedrich a&lt;/p>
+&lt;p>a Department of Orthopedic Pain Management, Spine Unit, Center of Excellence for Orthopaedic Pain Management, Speising, Vienna, Austria&lt;/p>
+&lt;p>b Department of Pathophysiology, Medical University of Vienna, Vienna, Austria&lt;/p></description></item><item><title>Schizophrenia Prevention – Vitamin D is one possibility</title><link>/posts/schizophrenia-prevention-vitamin-d-is-one-possibility.html</link><pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/schizophrenia-prevention-vitamin-d-is-one-possibility.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#prevention-of-schizophreniawill-a-broader-prevention-agenda-support-this-aim">Prevention of Schizophrenia—Will a Broader Prevention Agenda Support This Aim?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="prevention-of-schizophreniawill-a-broader-prevention-agenda-support-this-aim">Prevention of Schizophrenia—Will a Broader Prevention Agenda Support This Aim?&lt;/h3>
+&lt;p>Schizophrenia Bulletin Advance Access published January 4, 2014, doi:10.1093/schbul/sbt202&lt;/p>
+&lt;p>EDITORIAL Felice N. Jacka*1,2 and Michael Berk 1-1&lt;/p>
+&lt;p>1 School of Medicine, Deakin University, Geelong, Victoria, Australia;&lt;/p>
+&lt;p>2 Department of Psychiatry, University of Melbourne, Parkville, Victoria, Australia;&lt;/p>
+&lt;p>3 ORYGEN Youth Health Research Centre, Centre for Youth Mental Health, University of Melbourne, Parkville, Victoria, Australia;&lt;/p></description></item><item><title>Parkinson’s Disease and the “Sunshine” Vitamin (vitamin D)</title><link>/posts/parkinsons-disease-and-the-sunshine-vitamin-vitamin-d.html</link><pubDate>Thu, 26 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/parkinsons-disease-and-the-sunshine-vitamin-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#biology-of-the-sunshine-vitamin">Biology of the &amp;ldquo;Sunshine&amp;rdquo; Vitamin&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#prevalence-of-hypovitaminosis-d">Prevalence of Hypovitaminosis D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pd-and-the-sunshine-vitamin-the-relationship">PD and the &amp;ldquo;Sunshine&amp;rdquo; Vitamin: The Relationship&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pd-and-vitamin-d-biological-evidence-for-a-relationship">PD and Vitamin D: Biological Evidence for a Relationship&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-inducible-nitric-oxide-synthase--peroxynitrite--and-glutathione">Vitamin D, Inducible Nitric Oxide Synthase, &lt;strong>peroxynitrite&lt;/strong> and Glutathione&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-the-vitamin-d-receptor-and-glial-derived-neurotrophic-factor">Vitamin D, the Vitamin D Receptor, and Glial-Derived Neurotrophic Factor&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-the-nurrl-gene">Vitamin D and the Nurrl Gene&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#pd-and-vitamin-d-evidence-against-a-relationship-less-pd-with-darker-skin">PD and Vitamin D: Evidence Against a Relationship (less PD with darker skin)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#discussion">Discussion&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#meta-analysis">Meta-analysis&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-pd-biological-evidence-for-and-against">Vitamin D and PD: Biological Evidence for and Against&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#clinical-trials">Clinical Trials&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#conclusions">Conclusions&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#epidemiological-studies-present">Epidemiological Studies Present&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#proposed-novel-experimental-paradigms">Proposed Novel Experimental Paradigms&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#clinical-trials-1">Clinical Trials&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h1 id="parkinsons-disease-and-the-sunshine-vitamin---july-2013">Parkinson’s Disease and the “Sunshine” Vitamin - July 2013&lt;/h1>
+&lt;p>Alzheimers Dis Parkinsonism 3:120. &lt;a href="https://doi.org/10.4172/2161-0460.1000120">doi: 10.4172/2161-0460.1000120&lt;/a>&lt;/p></description></item><item><title>Vitamin D at CureTogether: Fibromyalgia, MS, Psoriasis, etc</title><link>/posts/vitamin-d-at-curetogether-fibromyalgia-ms-psoriasis-etc.html</link><pubDate>Wed, 25 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-at-curetogether-fibromyalgia-ms-psoriasis-etc.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#curetogetherhttpcuretogethercomconditions-crowd-sources-information-on-a-wide-variety-of-health-concerns">&lt;a href="http://curetogether.com/conditions">CureTogether&lt;/a> crowd-sources information on a wide variety of health concerns&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#all-fibromyalgia-cures">All Fibromyalgia Cures&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#fibromyalgia---just-vitamin-d-is-labledhttpcuretogethercomfibromyalgiaigtreatment-effectiveness-vs-popularity">&lt;a href="http://curetogether.com/fibromyalgia/ig/treatment-effectiveness-vs-popularity">Fibromyalgia - just vitamin D is labled&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#psoriasishttpcuretogethercompsoriasisigtreatment-effectiveness-vs-popularity-and-sunlight">&lt;a href="http://curetogether.com/psoriasis/ig/treatment-effectiveness-vs-popularity">Psoriasis&lt;/a> and sunlight&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#multiple-sclerosishttpcuretogethercommultiple-sclerosisigtreatment-effectiveness-vs-popularity">&lt;a href="http://curetogether.com/multiple-sclerosis/ig/treatment-effectiveness-vs-popularity">Multiple Sclerosis&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#crohns-disease">Crohn&amp;rsquo;s Disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#opinions-of-vitamin-d-deficiency-treatmentshttpcuretogethercomvitamin-d-deficiencytreatments">&lt;a href="http://curetogether.com/vitamin-d-deficiency/treatments/">Opinions of Vitamin D deficiency treatments&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#symptoms-of-vitamin-d-deficiencyhttpcuretogethercomvitamin-d-deficiencysymptoms-sorted-by-popularity">&lt;a href="http://curetogether.com/vitamin-d-deficiency/symptoms/">Symptoms of Vitamin D Deficiency&lt;/a> Sorted by popularity&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#symptom-severityhttpcuretogethercomvitamin-d-deficiencysymptoms">&lt;a href="http://curetogether.com/vitamin-d-deficiency/symptoms/">Symptom Severity&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#curetogether-categories-as-of-dec-2013">CureTogether categories as of Dec 2013&lt;/a>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#musculoskeletal">Musculoskeletal&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#digestive-system">Digestive System&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#skin-and-hair">Skin and Hair&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cardiovascular-and-blood">Cardiovascular and Blood&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#womens-health">Women&amp;rsquo;s Health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#respiratory">Respiratory&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#infectious">Infectious&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#injuries">Injuries&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#genetic-disorders">Genetic Disorders&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mental-health">Mental Health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#neurological">Neurological&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#eyes-and-ears">Eyes and Ears&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#endocrine-and-metabolic">Endocrine and Metabolic&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mens-health">Men&amp;rsquo;s Health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#urological">Urological&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sexual">Sexual&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#patientslikeme-is-somewhat-similarhttpswwwpatientslikemecomtreatmentsshow322-vitamin-d-side-effects-and-efficacybrandfoverview">&lt;a href="https://www.patientslikeme.com/treatments/show/322-vitamin-d-side-effects-and-efficacy?brand=f#overview">PatientsLikeMe is somewhat similar&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="curetogetherhttpcuretogethercomconditions-crowd-sources-information-on-a-wide-variety-of-health-concerns">&lt;a href="http://curetogether.com/conditions">CureTogether&lt;/a> crowd-sources information on a wide variety of health concerns&lt;/h2>
+&lt;p>&lt;strong>Has been a part of 23andMe since July 2012&lt;/strong> (DNA prediction of health problems for $99 as of Dce 2013)&lt;/p></description></item><item><title>Fibromyalgia patients with low vitamin D have more pain</title><link>/posts/fibromyalgia-patients-with-low-vitamin-d-have-more-pain.html</link><pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/fibromyalgia-patients-with-low-vitamin-d-have-more-pain.html</guid><description>&lt;h3 id="fibromyalgia-syndrome-is-it-related-to-vitamin-d-deficiency-in-premenopausal-female-patients">Fibromyalgia syndrome: is it related to vitamin d deficiency in premenopausal female patients?&lt;/h3>
+&lt;p>Pain Manag Nurs. 2013 Dec;14(4):e156-63. &lt;a href="https://doi.org/10.1016/j.pmn.2011.09.006.">doi: 10.1016/j.pmn.2011.09.006.&lt;/a> Epub 2011 Dec 20.&lt;/p>
+&lt;p>Okumus M, Koybası M, Tuncay F, Ceceli E, Ayhan F, Yorgancioglu R, Borman P.&lt;/p>
+&lt;p>There are a number of studies that have evaluated the relationship between fibromyalgia (FM) and vitamin D deficiency with conflicting results. The aim of this study was to assess vitamin D deficiency in patients with FM and to evaluate the relationship with the common symptoms of FM and levels of serum vitamin D. Forty premenopausal female fibromyalgia patients and 40 age- and sex-matched control subjects were included in the study. The demographic characteristics of all subjects, including age, sex, and body mass index, were recorded. The number of tender points was recorded, and the intensity of the widespread pain of the subjects was measured by the visual analog scale. The activities of daily living component of the Fibromyalgia Impact Questionnaire (FIQ-ADL), was used to assess physical functional capacity. Serum vitamin D was measured in both groups, and vitamin D levels &amp;lt;37.5 nmol/L were accepted as vitamin D deficiency. The vitamin D levels and clinical and laboratory characteristics of the patient and control groups were comparatively analyzed. The relationship between vitamin D levels and clinical findings of the FM patients were also determined. The mean age was 41.23 ± 4.8 and 39.48 ± 4.08 years for the patient and control groups, respectively.&lt;/p></description></item><item><title>Magnesium update by Dr. Dean</title><link>/posts/magnesium-update-by-dr-dean.html</link><pubDate>Sun, 08 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/magnesium-update-by-dr-dean.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#the-magnesium-miracle-a-special-interview-with-carolyn-dean">The Magnesium Miracle: A Special Interview with Carolyn Dean&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="the-magnesium-miracle-a-special-interview-with-carolyn-dean">The Magnesium Miracle: A Special Interview with Carolyn Dean&lt;/h2>
+&lt;p>GP: Gaea Powell CD: Carolyn Dean &lt;span>[&lt;strong>bolding&lt;/strong> by VitaminDWiki]&lt;/span> &lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://articles.mercola.com/sites/articles/archive/2013/12/08/magnesium-health-benefits.aspx"> &lt;strong>Video and great overview on Dr. Mercola website&lt;/strong> &lt;/a>&lt;/p>
+&lt;p>&lt;strong>Introduction:&lt;/strong>&lt;/p>
+&lt;p>GP: Hi, thank you so much for joining us and for being willing to come and share your important message with our audience. We greatly appreciate it.&lt;/p></description></item><item><title>A protocol to review of vitamin D supplementation in depression in adults</title><link>/posts/a-protocol-to-review-of-vitamin-d-supplementation-in-depression-in-adults.html</link><pubDate>Sat, 09 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/a-protocol-to-review-of-vitamin-d-supplementation-in-depression-in-adults.html</guid><description>&lt;h3 id="efficacy-of-vitamin-d-supplementation-in-depression-in-adults-a-systematic-review-protocol">Efficacy of vitamin D supplementation in depression in adults: a systematic review protocol.&lt;/h3>
+&lt;p>Syst Rev. 2013 Aug 8;2:64. &lt;a href="https://doi.org/10.1186/2046-4053-2-64.">doi: 10.1186/2046-4053-2-64.&lt;/a>&lt;/p>
+&lt;p>Li G, Mbuagbaw L, Samaan Z, Zhang S, Adachi JD, Papaioannou A, Thabane L.&lt;/p>
+&lt;p>Department of Clinical Epidemiology &amp;amp; Biostatistics, McMaster University, 1280 Main Street West, Hamilton, ON L8S 4L8, Canada.&lt;/p>
+&lt;p>BACKGROUND: The role of vitamin D in management of depression is unclear. Results from observational and emerging randomized controlled trials (RCTs) investigating the efficacy of vitamin D in depression lack consistency - with some suggesting a positive association while others show a negative or inconclusive association.&lt;/p></description></item><item><title>Parkinson's Disease perhaps prevented and treated by Vitamin D</title><link>/posts/parkinsons-disease-perhaps-prevented-and-treated-by-vitamin-d.html</link><pubDate>Sat, 02 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/parkinsons-disease-perhaps-prevented-and-treated-by-vitamin-d.html</guid><description>&lt;h2 id="parkinsons-disease-and-the-sunshine-vitamin">Parkinson&amp;rsquo;s Disease and the &amp;ldquo;Sunshine&amp;rdquo; Vitamin&lt;/h2>
+&lt;p>Alzheimers Dis Parkinsonism 2013, 3:2 &lt;a href="http://dx.doi.org/10.4172/2161-0460.1000120">http://dx.doi.org/10.4172/2161-0460.1000120&lt;/a>&lt;/p>
+&lt;p>Lucy Elisabeth James1 and Ayodeji A Asuni2 &lt;a href="mailto:a.a.asuni@soton.ac.uk">a.a.asuni@soton.ac.uk&lt;/a>&lt;/p>
+&lt;p>1 Biomedical Sciences Undergraduate Program, Centre for Biological Sciences, Institute for Life Sciences, University of Southampton, Southampton, United Kingdom&lt;/p>
+&lt;p>2 Centre for Biological Sciences, Institute for Life Sciences, University of Southampton, Southampton, United Kingdom&lt;/p>
+&lt;p>Accrued evidence suggesting that hypovitaminosis D acts as a risk factor for developing Parkinson&amp;rsquo;s disease (PD) remains controversial. Herein we evaluated existing results, and outline several biological mechanisms by which the hypovitaminosis D-PD relationship may occur. We performed a meta-analysis, using data obtained from a search of PubMed from July 2002 to July 2012, for studies reporting serum vitamin D levels in PD and control patients.We found that in comparison to healthy individuals, those with PD had lower levels of serum vitamin D. Furthermore, we explore a number of potential associated biological mechanisms, including the actions of reactive nitrogen species (RNS), glutathione (GSH), and glial-derived neurotrophic factor (GDNF) in the brain. We also examine the roles of Nurrl and VDR genes in PD. Although a unifying hypothesis remains challenging, there is evidence to demonstrate that supplementation with the vitamin can to have a positive effect on PD pathobiology. We surmise that hypovitaminosis D does act as a risk factor in the development of PD. However, the need for new epidemiological studies and further research around vitamin D metabolism is highlighted. Urgent efforts to correct vitamin D deficiency through supplementation are warranted as they may improve either motor and/or non-motor symptoms in PD.&lt;/p></description></item><item><title>Cluster headaches virtually eliminated in 7,000 people with high-dose vitamin D and cofactors</title><link>/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors.html</link><pubDate>Tue, 24 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors.html</guid><description>&lt;h4 id="fda-approved-cluster-headache-drug-in-spring-2019">FDA approved Cluster Headache drug in Spring 2019&lt;/h4>
+&lt;ul>
+&lt;li>$550/mo only slightly better than placebo, major side effects, &lt;a href="https://dgalerts.docguide.com/first-treatment-approved-fda-episodic-cluster-headache?nl_ref=newsletter&amp;amp;pk_campaign=newsletter&amp;amp;nl_eventid=29908%20">News Release&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Emgality experienced 8.7 fewer weekly cluster headache attacks than they did at baseline, compared to 5.2 fewer attacks for patients on placebo. &amp;quot;&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Emgality is given by patient self-injection. It was first approved by the FDA in September 2018 for the preventive treatment of migraine in adults. The FDA granted the approval of Emgality to Eli Lilly. &amp;quot;&lt;/p></description></item><item><title>Huntington disease patients also have low levels of vitamin D</title><link>/posts/huntington-disease-patients-also-have-low-levels-of-vitamin-d.html</link><pubDate>Wed, 04 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/huntington-disease-patients-also-have-low-levels-of-vitamin-d.html</guid><description>&lt;h3 id="high-prevalence-of-vitamin-d-deficiency-and-insufficiency-in-patients-with-manifest-huntington-disease-an-explorative-study">High prevalence of vitamin D deficiency and insufficiency in patients with manifest Huntington disease: An explorative study&lt;/h3>
+&lt;p>Dermato-Endocrinology 5:3, ; July 1, 2013; © 2013 Landes Bioscience.&lt;/p>
+&lt;p>Victor GM Chel, 1, 2, * Marcel E Ooms, 2 Jessie van der Bent, 1 Fleur Veldkamp, 1 Raymund AC Roos, 3 Wilco P Achterberg, 1, 4 Paul Lips 5&lt;/p>
+&lt;p>Vitamin D deficiency and insufficiency are common in older institutionalized people and known to be associated with muscle weakness, impaired balance and increased fall risk. Falls and balance problems are common in people with Huntington disease (HD). Despite this, the prevalence of vitamin D deficiency in patients with manifest HD has never been investigated.&lt;/p></description></item><item><title>Magnesium roundup including bioavailability</title><link>/posts/magnesium-roundup-including-bioavailability.html</link><pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/magnesium-roundup-including-bioavailability.html</guid><description>&lt;h3 id="web-update-may-2016">Web update May 2016&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.dietvsdisease.org/best-magnesium-supplement/">What Is The Best Magnesium Supplement? A Comprehensive Review&lt;/a> 2016?&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Dietetian decided Citrate and Gluconate were best&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Reviews Oxide, Oxalate, Gluconate, Citrate, Chloride, Hydroxide. Aspartate, Glycinate, Orotate, L-Threonate&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h3 id="from-httpsuppversityblogspotcomhttpsuppversityblogspotcom">From &lt;a href="http://suppversity.blogspot.com/">http://suppversity.blogspot.com/&lt;/a>&lt;/h3>
+&lt;h4 id="magnesium-round-up-know-if-you-are-deficient-whether-you-need-more-where-to-find-it-how-dietary-mg-contents-changed--how-it-interacts-w-vitamin-dhttpwwwsuperhumanradiocomcomponentscom_podcastmediamp3sshr_show_1251mp3-audio">&lt;a href="http://www.superhumanradio.com/components/com_podcast/media/mp3s/SHR_Show_1251.mp3">Magnesium Round-Up: Know If You Are Deficient, Whether You Need More, Where to Find It, How Dietary Mg Contents Changed &amp;amp; How it Interacts W/ Vitamin D&lt;/a> audio&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="http://2.bp.blogspot.com/-3wdWUEp5WLM/UgXRq9rCpVI/AAAAAAAAZIo/d0febp7ix34/s1600/a.jpg">&lt;img src="http://2.bp.blogspot.com/-3wdWUEp5WLM/UgXRq9rCpVI/AAAAAAAAZIo/d0febp7ix34/s200/a.jpg" alt="image">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>24%, 23% and 22% of the DV for magnesium that&amp;rsquo;s what you can find in one serving of sunflower seeds (0.25cup), halibut (4oz) and a large(r) banana - now you tell me it was impossible to get your magnesium from dietary sources.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>After having handled half of the &lt;a href="http://www.superhumanradio.com/components/com_podcast/media/mp3s/SHR_Show_1251.mp3">Science Round-Up from Thursday&lt;/a> yesterday, &lt;a href="http://suppversity.blogspot.de/2013/08/the-neurotransmitter-depleting-effects.html">yesterday&lt;/a>, there is still something left to serve: seconds to the seconds, if you will and probably not so &amp;ldquo;new&amp;rdquo; as the average SuppVersity news. In order not to bore you, I will yet refrain from telling you how important magnesium is and how it is involved in thousands of enzymatic reactions &amp;hellip; you know the whole magnesium-guru-spiel all too well, anyway. I mean, anyone doing a cursory Google search will have to conclude that there is nothing magnesium cannot cure, right?. Whatever you may suffer from, someone has already found out that it must be related to magnesium deficiency or, even more profitable, taking the wrong form of magnesium supplements.&lt;/p></description></item><item><title>Vitamin D intoxication if more than 150 ng</title><link>/posts/vitamin-d-intoxication-if-more-than-150-ng.html</link><pubDate>Sun, 14 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-intoxication-if-more-than-150-ng.html</guid><description>&lt;h1 id="vitamin-d-intoxication">Vitamin D intoxication&lt;/h1>
+&lt;p>The Turkish Journal of Pediatrics 2012; 54: 93-98 March&lt;/p>
+&lt;p>Behzat Ozkan1, §ukru Hatun2, Abdullah Bereket3&lt;/p>
+&lt;p>Departments of Pediatric Endocrinology, 1istanbul Medeniyet University Faculty of Medicine, Istanbul, 2Kocaeli University Faculty of Medicine, Kocaeli, and 3Marmara University Faculty of Medicine, Istanbul, Turkey&lt;/p>
+&lt;p>SUMMARY:&lt;/p>
+&lt;p>Vitamin D intoxication (VDI) may result from supplementation rarely, but it has been reported more frequently in recent years. This may be attributable to an increase in vitamin D supplement intake due to an understanding of the role of vitamin D (25OHD) in the pathogenesis of several diseases. The symptoms and findings associated with VDI are closely related to serum calcium concentration and duration of hypercalcemia. In patients with VDI, hypercalcemia, normal or high serum phosphorus levels, normal or low levels of alkaline phosphatase (ALP), high levels of serum 25OHD, low serum parathyroid hormone (PTH), and high urine calcium/creatinine are usually present. Serum 25OHD levels above 150 ng/ml are considered as VDI. The main goal of treatment for VDI is correction of the hypercalcemia. When the calcium concentration exceeds 14 mg/dl, emergency intervention is necessary because of the adverse effects of hypercalcemia on cardiac, central nervous system, renal, and gastrointestinal functions. However, since vitamin D is stored in fat tissues, effects of toxicity may last for months despite the removal of the exogenous source of vitamin D. Treatment for VDI includes: discontinuation of intake, a diet with low calcium and phosphorus content, intravenous hydration with saline, loop diuretics, glucocorticoids, calcitonin, and bisphosphonates. In conclusion, the diagnosis of vitamin D deficiency rickets (VDDR) without checking serum 25OHD level may cause redundant treatment that leads to VDI. All patients who are clinically suspected of VDDR should be checked for serum vitamin D status and questioned for previous vitamin D administration before starting vitamin D therapy. On the other hand, parents of all infants should be asked whether they are using dietary or oral supplements, and serial questioning may be required during supplementation to avoid excessive intake.&lt;/p></description></item><item><title>Vitamin D is important for the central nervous system and cognition</title><link>/posts/vitamin-d-is-important-for-the-central-nervous-system-and-cognition.html</link><pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-is-important-for-the-central-nervous-system-and-cognition.html</guid><description>&lt;h3 id="vitamin-d-and-the-central-nervous-system">Vitamin D and the central nervous system&lt;/h3>
+&lt;p>Pharmacological Reports, 2013, 65, 271-278 ISSN 1734-1140&lt;/p>
+&lt;p>Matgorzata Wrzosek1, Jacek tukaszkiewicz2, Michat Wrzosek3, Andrzej Jakubczyk4, Halina Matsumoto4, Pawet Piatkiewicz3, Maria Radziwoh-Zaleska4, Marcin Wojnar4,5, Grazyna Nowicka1&lt;/p>
+&lt;p>department of Pharmacogenomics, department of Biochemistry and Clinical Chemistry,&lt;/p>
+&lt;p>department of Internal Medicine and Diabetology, department of Psychiatry, Medical University of Warsaw, Zwirki i Wigury 61, PL 02-091 Warszawa, Poland&lt;/p>
+&lt;p>department of Psychiatry, University of Michigan, 4250 Plymouth Rd., Ann Arbor, MI 48109, USA Correspondence: Grazyna Nowicka, e-mail: &lt;a href="mailto:grazyna.nowicka@wum.edu.p">grazyna.nowicka@wum.edu.p&lt;/a>&lt;/p></description></item><item><title>Alzheimer’s and Parkinson’s diseases associated with low vitamin D – meta-analysis</title><link>/posts/alzheimers-and-parkinsons-diseases-associated-with-low-vitamin-d-meta-analysis.html</link><pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate><guid>/posts/alzheimers-and-parkinsons-diseases-associated-with-low-vitamin-d-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-levels-in-alzheimers-and-parkinsons-diseases-a-meta-analysis">Vitamin D levels in Alzheimer’s and Parkinson’s diseases: A meta-analysis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="vitamin-d-levels-in-alzheimers-and-parkinsons-diseases-a-meta-analysis">Vitamin D levels in Alzheimer’s and Parkinson’s diseases: A meta-analysis&lt;/h2>
+&lt;p>Nutrition, Volume 29, Issue 6 , Pages 828-832, June 2013&lt;/p>
+&lt;p>Yan Zhao, B.Sc., Yan Sun, B.Sc., Hong-Fang Ji, Ph.D. &lt;a href="mailto:jhf@sdut.edu.cn">jhf@sdut.edu.cn&lt;/a>, Liang Shen, Ph.D.email address&lt;/p>
+&lt;p>Shandong Provincial Research Center for Bioinformatic Engineering and Technique, Shandong University of Technology, Zibo, P. R. China&lt;/p>
+&lt;p>Received 6 July 2012; accepted 25 November 2012. published online 15 February 2013.&lt;/p></description></item><item><title>Fewest Google searches for Mental Health when there is lots of vitamin D from the sun</title><link>/posts/fewest-google-searches-for-mental-health-when-there-is-lots-of-vitamin-d-from-the-sun.html</link><pubDate>Thu, 18 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/fewest-google-searches-for-mental-health-when-there-is-lots-of-vitamin-d-from-the-sun.html</guid><description>&lt;h2 id="seasonality-in-seeking-mental-health-information-on-google">Seasonality in Seeking Mental Health Information on Google&lt;/h2>
+&lt;p>American Journal of Preventive Medicine. Volume 44, Issue 5 , Pages 520-525, May 2013&lt;/p>
+&lt;p>John W. Ayers, PhD, MA. Benjamin M. Althouse, ScM , Jon-Patrick Allem, MA , J. Niels Rosenquist, MD, PhD , Daniel E. Ford, MD, MPH&lt;/p>
+&lt;p>Background” Population mental health surveillance is an important challenge limited by resource constraints, long time lags in data collection, and stigma. One promising approach to bridge similar gaps elsewhere has been the use of passively generated digital data.&lt;/p></description></item><item><title>Low vitamin D and depression - Study and meta-analysis,</title><link>/posts/low-vitamin-d-and-depression-study-and-meta-analysis.html</link><pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-and-depression-study-and-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#the-association-between-low-vitamin-d-and-depressive-disorders">The association between low vitamin D and depressive disorders&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#8-less-likely-to-be-depressed-for-10ng-higher-level-of-vitamin-d---meta-analysis">8% less likely to be depressed for 10ng higher level of vitamin D - Meta-analysis&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="the-association-between-low-vitamin-d-and-depressive-disorders">The association between low vitamin D and depressive disorders&lt;/h2>
+&lt;p>Molecular Psychiatry , (9 April 2013) | doi:10.1038/mp.2013.36&lt;/p>
+&lt;p>Y Milaneschi, W Hoogendijk, P Lips, A C Heijboer, R Schoevers, A M van Hemert, A T F Beekman, J H Smit and B W J H Penninx&lt;/p></description></item><item><title>US Minorities have poor health – how much is due to little sun</title><link>/posts/us-minorities-have-poor-health-how-much-is-due-to-little-sun.html</link><pubDate>Sat, 02 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/us-minorities-have-poor-health-how-much-is-due-to-little-sun.html</guid><description>&lt;p>&lt;strong>Minority Health: Recent Findings&lt;/strong>&lt;/p>
+&lt;p>AHRQ Pub. No. 12(13)-P005-EF (Replaces AHRQ Pub. No. 09-P002) February 2013&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>The mission of AHRQ is to improve the quality, safety, efficiency, and effectiveness of health care by:&lt;/strong>&lt;/p>
+&lt;p>• Using evidence to improve health care.&lt;/p>
+&lt;p>• Improving health care outcomes through research.&lt;/p>
+&lt;p>• Transforming research into practice.&lt;/p>
+&lt;p>The overall health of the American population has improved over the past few decades, but not all Americans have benefitted equally from these improvements. Minority populations, in particular, continue to lag behind whites in a number of areas, including quality of care, access to care, timeliness, and outcomes. Other health care problems that disproportionately affect minorities include provider biases, poor provider-patient communication, and health literacy issues.&lt;/p></description></item><item><title>Mental health problems cut in half when have adequate level of vitamin D</title><link>/posts/mental-health-problems-cut-in-half-when-have-adequate-level-of-vitamin-d.html</link><pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/mental-health-problems-cut-in-half-when-have-adequate-level-of-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-and-common-mental-disorders-in-mid-life-cross-sectional-and-prospective-findings">Vitamin D and common mental disorders in mid-life: cross-sectional and prospective findings&lt;/h4>
+&lt;p>Clinical Nutrition, Jan 2013&lt;/p>
+&lt;p>Jane Maddock, Diane J. Berry, Marie-Claude Geoffroy, Chris Power, Elina Hyppönen&lt;/p>
+&lt;p>MRC Centre of Epidemiology for Child Health/Centre for Paediatric Epidemiology and Biostatistics, UCL Institute of Child Health, UK&lt;/p>
+&lt;p>The relationship between vitamin D and common mental disorders (CMDs) remains unclear. We aimed to determine if behaviours affecting vitamin D concentrations differ between individuals with or without CMDs and evaluate, cross-sectionally and prospectively, the extent to which the association between 25(OH)D and CMDs are explained by these behaviours.&lt;/p></description></item><item><title>Overview: Omega-3 many benefits include helping vitamin D</title><link>/posts/overview-omega-3-many-benefits-include-helping-vitamin-d.html</link><pubDate>Sun, 25 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/overview-omega-3-many-benefits-include-helping-vitamin-d.html</guid><description>&lt;h4 id="span-stylecolor00fomega-3-and-vitamin-d-separately-and-together-help-with-depression-cardiovascular-cognition-pregnancy-infant-obesity-mortality-breast-cancer----span">&lt;span style="color:#00F;">Omega-3 and Vitamin D separately and together help with Depression, Cardiovascular, Cognition, Pregnancy, Infant, Obesity, Mortality, Breast Cancer, . . . &lt;/span>&lt;/h4>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;hr>
+&lt;h4 id="there-are-many-books-on-omega-3--i-such-as-the-omega-3-effect">There are many books on Omega-3: I such as: The Omega-3 Effect&lt;/h4>
+&lt;p>Everything you need to know about the supernutrient for living longer, happier, and healthier&lt;/p>
+&lt;p>Willian Sears, 2012 &lt;a href="http://www.amazon.com/Omega-3-Effect-Everything-Supernutrient-Healthier/dp/0316196843/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1354293017&amp;amp;sr=1-1&amp;amp;keywords=the+omega-3+effect+everything+you+need+to+know+about+the+supernutrient+for+living+longer">Amazon&lt;/a> $6 Kindle&lt;/p>
+&lt;hr>
+&lt;h4 id="omega-3-content-of-3-ounces-of-wild-not-farmed-fish-150-to-1900-mg">Omega-3 content of 3 ounces of (wild, not farmed) fish (150 to 1,900 mg)&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://omegaquant.com/do-all-fish-have-omega-3s/">OmegaQuant&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Mackerel (Atlantic &amp;amp; Pacific): 1,900 mg EPA + DHA&lt;/p></description></item><item><title>Fertility and sperm</title><link>/posts/fertility-and-sperm.html</link><pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/fertility-and-sperm.html</guid><description>&lt;h4 id="vitamin-d-greatly-improves-fertility">Vitamin D greatly improves Fertility&lt;/h4>
+&lt;!-- ~tc~ start2 ~/tc~ -->
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="/posts/vitamin-d-is-needed-for-human-fertility-goal-is-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed for human fertility – goal is 50 ng – Sept 2018">Vitamin D is needed for human fertility – goal is 50 ng – Sept 2018&lt;/a>&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="/posts/in-vitro-fertilization-costs-at-least-10000-dollars-vitamin-d-costs-5-dollars" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars">In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Hypothesis: Some Mental Illness could be treated or prevented with vitamin D</title><link>/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d.html</link><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#started-reading-anatomy-of-an-epidemic-magic-bullets-psychiatric-drugs-and-the-astonishing-rise-of-mental-illness-in-america-httpwwwamazoncomanatomy-epidemic-bullets-psychiatric-astonishingdp0307452425refsr_1_1sbooksieutf8qid1351721770sr1-1keywordsepidemic">Started reading &lt;a href="http://www.amazon.com/Anatomy-Epidemic-Bullets-Psychiatric-Astonishing/dp/0307452425/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1351721770&amp;amp;sr=1-1&amp;amp;keywords=epidemic">Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America &lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#i-observe-that">I observe that&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#it-will-be-interesting-how-many-a-hrefpostsother-factors-to-point-to-health-problems-associated-with-low-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-597other-factors-to-point-to-health-problems-associated-with-low-vitamin-da-such-as">It will be interesting how many &lt;a href="/posts/other-factors-to-point-to-health-problems-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 597">other factors to point to health problems associated with low vitamin D&lt;/a> such as:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-levels-of-psychiatric-out-patients-did-not-vary-much-with-season">Vitamin D levels of psychiatric out-patients did not vary much with season&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-is-it-ready-for-psychiatric-prime-time">Vitamin D: Is It Ready for Psychiatric Prime Time?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-does-it-play-a-role-in-psychiatry">Vitamin D: Does it play a role in psychiatry?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#seasonal-distribution-of-psychiatric-births-in-england">Seasonal Distribution of Psychiatric Births in England&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#why-are-mental-illness-patients-extremely-low-on-vitamin-d">Why are Mental Illness patients extremely low on vitamin D?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-among-psychiatric-inpatients">Vitamin D Deficiency Among Psychiatric Inpatients&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-psychiatric-inpatients-in-new-zealands-waikato-region">Vitamin D status of psychiatric inpatients in New Zealand’s Waikato region&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#feasibility-of-screening-for-and-treating-vitamin-d-deficiency-in-forensic-psychiatric-inpatients">Feasibility of screening for and treating vitamin D deficiency in forensic psychiatric inpatients.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-among-psychiatric-inpatients-1">Vitamin d deficiency among psychiatric inpatients.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-association-of-25-hydroxyvitamin-d3-and-d2-with-behavioural-problems-in-childhood">The association of 25-hydroxyvitamin D3 and D2 with behavioural problems in childhood.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-psychotic-features-in-mentally-ill-adolescents-a-cross-sectional-study">Vitamin D deficiency and psychotic features in mentally ill adolescents: A cross-sectional study.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-psychiatric-inpatients-in-new-zealands-waikato-region-1">Vitamin D status of psychiatric inpatients in New Zealand&amp;rsquo;s Waikato region.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-depression-causal-relationship-or-artifact">Vitamin D deficiency and depression: Causal relationship or artifact?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-a-potential-role-in-reducing-suicide-risk">Vitamin D: a potential role in reducing suicide risk?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effects-of-vitamin-d-supplementation-on-cognitive-and-emotional-functioning-in-young-adults--a-randomised-controlled-trial">Effects of vitamin D supplementation on cognitive and emotional functioning in young adults&amp;ndash;a randomised controlled trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#d-for-depression-any-role-for-vitamin-d-food-for-thought-ii">&amp;lsquo;D&amp;rsquo; for depression: any role for vitamin D? &amp;lsquo;Food for Thought&amp;rsquo; II.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-depression">Vitamin D and depression.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#5700-iu-of-vitamin-d-not-enough-to-decrease-depression">5700 IU of vitamin D not enough to decrease depression&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#children-and-adolescents-with-severe-mental-illness-need-vitamin-d-supplementation-regardless-of-disease-or-treatment">Children and adolescents with severe mental illness need vitamin D supplementation regardless of disease or treatment.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanthe-effect-of-vitamin-d-on-neuropsychiatric-conditionsspan">&lt;span>[The effect of vitamin D on neuropsychiatric conditions]&lt;/span>.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#37-of-psychiatric-inpatients-had-vitamin-d-levels--25-ng">37% of Psychiatric Inpatients had vitamin D levels &amp;lt; 25 ng&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mental-disorders-wikipediahttpenwikipediaorgwikilist_of_mental_disorders_as_defined_by_the_dsm_and_icd">&lt;a href="http://en.wikipedia.org/wiki/List_of_mental_disorders_as_defined_by_the_DSM_and_ICD">Mental Disorders wikipedia&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="started-reading-anatomy-of-an-epidemic-magic-bullets-psychiatric-drugs-and-the-astonishing-rise-of-mental-illness-in-america-httpwwwamazoncomanatomy-epidemic-bullets-psychiatric-astonishingdp0307452425refsr_1_1sbooksieutf8qid1351721770sr1-1keywordsepidemic">Started reading &lt;a href="http://www.amazon.com/Anatomy-Epidemic-Bullets-Psychiatric-Astonishing/dp/0307452425/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1351721770&amp;amp;sr=1-1&amp;amp;keywords=epidemic">Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America &lt;/a>&lt;/h3>
+&lt;h3 id="i-observe-that">I observe that&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>People with mental illness often have diseases associated with low vitamin D&lt;/p></description></item><item><title>Programmers Must Take Vitamin D</title><link>/posts/programmers-must-take-vitamin-d.html</link><pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/programmers-must-take-vitamin-d.html</guid><description>&lt;h2 id="a-few-items-from-informed-forum-discussion-hackernewshttpnewsycombinatorcomitemid452473520">a few items from informed forum discussion: &lt;a href="http://news.ycombinator.com/item?id=4524735%20">HackerNews&lt;/a>&lt;/h2>
+&lt;h2 id="devilboy-15-days-ago-">Devilboy 15 days ago |&lt;/h2>
+&lt;p>Every day at about lunch time I go lie on the roof in the sun for 10 minutes - doctor&amp;rsquo;s orders. I also take D supplements but that alone was not enough to get my levels back to the normal range so I have to get some actual sun as often as I can too.&lt;/p>
+&lt;p>It&amp;rsquo;s a bit of a &amp;lsquo;damned if you do, damned if you don&amp;rsquo;t&amp;rsquo; situation here in Australia: Approximately two in three Australians will be diagnosed with skin cancer before the age of 70, while approximately one out of three Australians have vitamin D deficiency&amp;hellip;&lt;/p></description></item><item><title>Fertility problem (PCOS) reduced by vitamin D, etc: many studies</title><link>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</link><pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</guid><description>&lt;nav id="TableOfContents">
  &lt;ul>
  &lt;li>
  &lt;ul>

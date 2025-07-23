@@ -1,4 +1,514 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stillbirth on VitaminDWiki</title><link>/tags/stillbirth.html</link><description>Recent content in Stillbirth on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 02 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/stillbirth/index.xml" rel="self" type="application/rss+xml"/><item><title>Low vitamin D increased probability of low birth weight by 60 percent – meta-analysis</title><link>/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis.html</link><pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis.html</guid><description>&lt;h4 id="vitamin-d-during-pregnancy-and-maternal-neonatal-and-infant-health-outcomes-a-systematic-review-and-meta-analysis">Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis&lt;/h4>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stillbirth on VitaminDWiki</title><link>/tags/stillbirth.html</link><description>Recent content in Stillbirth on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/stillbirth/index.xml" rel="self" type="application/rss+xml"/><item><title>Pregnancy and Vitamin D bibliography - Dr. Grant</title><link>/posts/pregnancy-and-vitamin-d-bibliography-dr-grant.html</link><pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/pregnancy-and-vitamin-d-bibliography-dr-grant.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#maternal-vitamin-d-insufficiency-and-risk-of-adverse-pregnancy-and-birth-outcomes-a-systematic-review-and-meta-analysis-of-longitudinal-studies">Maternal vitamin D insufficiency and risk of adverse pregnancy and birth outcomes: A systematic review and meta-analysis of longitudinal studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-in-pregnancy-prenatal-25ohd-levels-race-and-subsequent-asthma-or-recurrent-wheeze-in-offspring-secondary-analyses-from-the-vitamin-d-antenatal-asthma-reduction-trial">Vitamin D supplementation in pregnancy, prenatal 25(OH)D levels, race, and subsequent asthma or recurrent wheeze in offspring: Secondary analyses from the Vitamin D Antenatal Asthma Reduction Trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-autism-whats-new">Vitamin D and autism, what&amp;rsquo;s new?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-vitamin-d-status-in-the-late-second-trimester-and-the-risk-of-severe-preeclampsia-in-southeastern-china">Maternal Vitamin D Status in the Late Second Trimester and the Risk of Severe Preeclampsia in Southeastern China.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-administration-during-pregnancy-as-prevention-for-pregnancy-neonatal-and-postnatal-complications">Vitamin D administration during pregnancy as prevention for pregnancy, neonatal and postnatal complications.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-during-pregnancy-improvements-in-birth-outcomes-and-complications-through-direct-genomic-alteration">Vitamin D supplementation during pregnancy: Improvements in birth outcomes and complications through direct genomic alteration.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#adverse-perinatal-outcomes-and-postpartum-multi-systemic-dysregulation-adding-vitamin-d-deficiency-to-the-allostatic-load-index">Adverse Perinatal Outcomes and Postpartum Multi-Systemic Dysregulation: Adding Vitamin D Deficiency to the Allostatic Load Index.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#infant-respiratory-tract-infections-or-wheeze-and-maternal-vitamin-d-in-pregnancy-a-systematic-review">Infant Respiratory Tract Infections or Wheeze and Maternal Vitamin D in Pregnancy: A Systematic Review.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-effect-of-vitamin-d-supplementation-on-gestational-diabetes-in-high-risk-women-results-from-a-randomized-placebo-controlled-trial">The effect of vitamin D supplementation on gestational diabetes in high-risk women: Results from a randomized placebo-controlled trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanrelationship-between-vitamin-d-deficiency-and-early-onset-neonatal-sepsisspan">&lt;span>[Relationship between vitamin D deficiency and early-onset neonatal sepsis]&lt;/span>.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#relationship-between-newborn-craniotabes-and-vitamin-d-status">Relationship between newborn craniotabes and vitamin D status.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-risk-of-preterm-birth-up-to-date-meta-analysis-of-randomized-controlled-trials-and-observational-studies">Vitamin D and risk of preterm birth: Up-to-date meta-analysis of randomized controlled trials and observational studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-vitamin-d-levels-during-pregnancy-and-neonatal-health-evidence-to-date-and-clinical-implications">Maternal vitamin D levels during pregnancy and neonatal health: evidence to date and clinical implications.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#does-maternal-vitamin-d-deficiency-increase-the-risk-of-preterm-birth-a-meta-analysis-of-observational-studies">Does Maternal Vitamin D Deficiency Increase the Risk of Preterm Birth: A Meta-Analysis of Observational Studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-autism-spectrum-disorder-a-literature-review">Vitamin D and Autism Spectrum Disorder: A Literature Review.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#micronutrient-deficiencies-in-pregnancy-worldwide-health-effects-and-prevention">Micronutrient deficiencies in pregnancy worldwide: health effects and prevention.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#post-hoc-comparison-of-vitamin-d-status-at-three-timepoints-during-pregnancy-demonstrates-lower-risk-of-preterm-birth-with-higher-vitamin-d-closer-to-delivery">Post-hoc comparison of vitamin D status at three timepoints during pregnancy demonstrates lower risk of preterm birth with higher vitamin D closer to delivery.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#post-hoc-analysis-of-vitamin-d-status-and-reduced-risk-of-preterm-birth-in-two-vitamin-d-pregnancycohorts-compared-with-south-carolina-march-of-dimes-2009-2011-rates">Post-hoc analysis of vitamin D status and reduced risk of preterm birth in two vitamin D pregnancycohorts compared with South Carolina March of Dimes 2009-2011 rates.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-and-pediatric-health-outcomes-in-relation-to-gestational-vitamin-d-sufficiency">Maternal and Pediatric Health Outcomes in relation to Gestational Vitamin D Sufficiency.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-increases-the-risk-of-gestational-diabetes-mellitus-a-meta-analysis-of-observational-studies">Vitamin D Deficiency Increases the Risk of Gestational Diabetes Mellitus: A Meta-Analysis of Observational Studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-vitamin-d-status-and-spontaneous-preterm-birth-by-placental-histology-in-the-us-collaborative-perinatal-project">Maternal vitamin D status and spontaneous preterm birth by placental histology in the US Collaborative Perinatal Project.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-may-be-a-link-to-black-white-disparities-in-adverse-birth-outcomes">Vitamin D may be a link to black-white disparities in adverse birth outcomes.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#association-between-vitamin-d-deficiency-and-primary-cesarean-section">Association between vitamin D deficiency and primary cesarean section.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sunlight-and-vitamin-d-necessary-for-public-health">Sunlight and Vitamin D: Necessary for Public Health.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-randomized-trial-of-vitamin-d-supplementation-in-2-community-health-center-networks-in-south-carolina">A randomized trial of vitamin D supplementation in 2 community health center networks in South Carolina.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-during-pregnancy-double-blind-randomized-clinical-trial-of-safety-and-effectiveness">Vitamin D supplementation during pregnancy: double-blind, randomized clinical trial of safety and effectiveness.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>PLoS One. 2017 Mar 17;12(3):e0173605. &lt;a href="https://doi.org/10.1371/journal.pone.0173605.">doi: 10.1371/journal.pone.0173605.&lt;/a> eCollection 2017.&lt;/p></description></item><item><title>Alcohol while pregnant lowers the vitamin D levels in Winter and Spring</title><link>/posts/alcohol-while-pregnant-lowers-the-vitamin-d-levels-in-winter-and-spring.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/alcohol-while-pregnant-lowers-the-vitamin-d-levels-in-winter-and-spring.html</guid><description>&lt;h4 id="vitamin-d-deficiency-in-pregnant-ukrainian-women-effects-of-alcohol-consumption-on-vitamin-d-status">Vitamin D Deficiency in Pregnant Ukrainian Women: Effects of Alcohol Consumption on Vitamin D Status.&lt;/h4>
+&lt;p>J Am Coll Nutr. 2017 Jan;36(1):44-56. &lt;a href="https://doi.org/10.1080/07315724.2016.1174091.">doi: 10.1080/07315724.2016.1174091.&lt;/a>&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>&lt;a href="/posts/getting-vitamin-d-during-pregnancy-is-even-more-important-than-avoiding-alcohol">Getting vitamin D during pregnancy is even more important than avoiding alcohol&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>includes &amp;ldquo;Stillbirth rate = 0.9% if &amp;gt; 4 drinks per week&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-alcohol-and-vitamin-d">Overview Alcohol and Vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/alchoholics-have-low-calcium-and-low-vitamin-d-increasing-vit-d-might-help">Alchoholics have low Calcium and low Vitamin D, increasing Vit D might help – Nov 2016&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Question: Do pregnant women has a stronger urge to drink when they have low vitamin D (Winter and Spring)?&lt;/p></description></item><item><title>Pregnant women were 2.6 times more likely to stop smoking when given financial rewards – RCT</title><link>/posts/pregnant-women-were-26-times-more-likely-to-stop-smoking-when-given-financial-rewards-rct.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/pregnant-women-were-26-times-more-likely-to-stop-smoking-when-given-financial-rewards-rct.html</guid><description>&lt;h4 id="financial-incentives-for-smoking-cessation-in-pregnancy-randomised-controlled-trial">Financial incentives for smoking cessation in pregnancy: randomised controlled trial&lt;/h4>
+&lt;p>BMJ 2015; 350 &lt;a href="https://doi.org/https">doi: https&lt;/a>://doi.org/10.1136/bmj.h134 (Published 27 January 2015)&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Pregnant women were promised and given money incrementally as they quit smoking&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>2.6 X improvement in rate of stopping smoking was similar to a previous study&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>22.5% of those given financial rewards quit vs 8.6% who were not given financial rewards&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>1. needed to treat = 7.2&lt;/strong> It appears that only 1 in 7 women who were offered incentives actually quit&lt;/p></description></item><item><title>Preterm births are VERY costly</title><link>/posts/preterm-births-are-very-costly.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/preterm-births-are-very-costly.html</guid><description>&lt;h4 id="indiebirthshttpwwwindiebirthcompremature-birth-and-the-new-paradigm-jan-2017">&lt;a href="http://www.indiebirth.com/premature-birth-and-the-new-paradigm/">IndieBirths&lt;/a> Jan 2017&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>“In 2005 the estimated cost for preterm birth in the United States was $26.2 billion annually, above the average cost of term births.”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“Preterm babies are &lt;span>[also]&lt;/span> at higher risks for complications and health issues such as jaundice, retinopathy of prematurity, and chronic lung disease.”&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="march-of-dimes-2016httpwwwmarchofdimesorgmissionprematurity-reportcardaspx20-span-stylecolorf00pretermspan">&lt;a href="http://www.marchofdimes.org/mission/prematurity-reportcard.aspx%20">March of Dimes 2016&lt;/a>: &lt;span style="color:#F00;">preterm&lt;/span>&lt;/h4>
+&lt;p>&lt;strong>| | |
+| &amp;mdash; | &amp;mdash; |
+| Non-Hispanic white | 8.9% |
+| Hispanic | 9.1% |
+| Non-Hispanic black | 13.4% |&lt;/strong>&lt;/p></description></item><item><title>Iodine Deficiency During Pregnancy – many studies</title><link>/posts/iodine-deficiency-during-pregnancy-many-studies.html</link><pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/iodine-deficiency-during-pregnancy-many-studies.html</guid><description>&lt;p>&lt;strong>Summary&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>RDA (minimum) says 220 ug of Iodine during pregnancy and 290 ug during breastfeeding&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Many prenatal vitamins contain ZERO Iodine&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Iodine is particularly needed in first 3 months of pregnancy, but some women do not start prenatal vitamins that early&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Consensus: no best way to test for Iodine Deficiency&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Disagree: &amp;gt;150 ug is needed during pregnancy, &amp;gt; 250 ug is needed&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Disagree: Iodine loading is possible (otherwise it takes 9-12 months to restore levels)&lt;/strong>&lt;/p></description></item><item><title>Costs of Pregnancy much reduced by Vitamin D</title><link>/posts/costs-of-pregnancy-much-reduced-by-vitamin-d.html</link><pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/costs-of-pregnancy-much-reduced-by-vitamin-d.html</guid><description>&lt;p>:: &lt;strong>Under construction&lt;/strong> ::&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Problem&lt;/td>
+ &lt;td>Rate&lt;/td>
+ &lt;td>Medical Cost&lt;br>Include 1st year&lt;/td>
+ &lt;td>Reduction &lt;br>wirh Vit D&lt;/td>
+ &lt;td>1. needed&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>to treat&lt;/td>
+ &lt;td>Amortized savings&lt;br>per pregnancy&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>((Vitamin D Webinar - cost of pre-term birth etc- Baggerly Nov 2013&lt;/td>
+ &lt;td>Preterm &amp;amp; LBW))&lt;/td>
+ &lt;td>12%&lt;/td>
+ &lt;td>$51,800&lt;/td>
+ &lt;td>50%&lt;/td>
+ &lt;td>20&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Low Birth&lt;br>Weight&lt;/td>
+ &lt;td>&lt;a href="http://www.cdc.gov/nchs/fastats/birthweight.htm">8%&lt;/a>&lt;br>CDC&lt;/td>
+ &lt;td>$50,000&lt;/td>
+ &lt;td>((Low vitamin D increased probability of low birth weight by 60 percent – meta-analysis June 2012&lt;/td>
+ &lt;td>60%))&lt;/td>
+ &lt;td>21&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Miscarriage&lt;/td>
+ &lt;td>20%&lt;/td>
+ &lt;td>$4,000 &lt;br> 1/2 get D&amp;amp;C&lt;/td>
+ &lt;td>40% &lt;br>if &amp;gt; 20 ng&lt;/td>
+ &lt;td>12.5&lt;/td>
+ &lt;td>$320&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Stillbirth &lt;br> (Omega-3)&lt;/td>
+ &lt;td>0.6%&lt;/td>
+ &lt;td>$7,500 &lt;br> mean&lt;/td>
+ &lt;td>66%&lt;/td>
+ &lt;td>242&lt;/td>
+ &lt;td>$30&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vibrosis&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Note&lt;/strong>&lt;/p></description></item><item><title>Zika birth defects – comprehensive analysis</title><link>/posts/zika-birth-defects-comprehensive-analysis.html</link><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid>/posts/zika-birth-defects-comprehensive-analysis.html</guid><description>&lt;p>&lt;strong>The global threat of Zika virus to pregnancy: epidemiology, clinical perspectives, mechanisms, and impact&lt;/strong>&lt;/p>
+&lt;p>BMC Medicine 2016 Aug 3;14(1):112. &lt;a href="https://doi.org/10.1186/s12916-016-0660-0.">doi: 10.1186/s12916-016-0660-0.&lt;/a> Received: 3 June 2016 Accepted: 27 July 2016 Published online: 03 August 2016&lt;/p>
+&lt;p>&lt;strong>Figure 1&lt;/strong>&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/boeuf-f1.jpg" alt="image" width="400">
+&lt;p>&lt;strong>Figure 2&lt;/strong>&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/boeuf-f2.jpg" alt="image">
+&lt;p>Boeuf P1,2, Drummer HE3,4,5, Richards JS3,6,4, Scoullar MJ3,6, Beeson JG7,8,9.&lt;/p>
+&lt;p>1Centre for Biomedical Research, Burnet Institute, Melbourne, Australia. &lt;a href="mailto:philippe.boeuf@burnet.edu.au">philippe.boeuf@burnet.edu.au&lt;/a>.&lt;/p>
+&lt;p>2Department of Medicine, The University of Melbourne, Melbourne, Australia. &lt;a href="mailto:philippe.boeuf@burnet.edu.au">philippe.boeuf@burnet.edu.au&lt;/a>.&lt;/p>
+&lt;p>3Centre for Biomedical Research, Burnet Institute, Melbourne, Australia.&lt;/p></description></item><item><title>Zika key messages - CDC</title><link>/posts/zika-key-messages-cdc.html</link><pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate><guid>/posts/zika-key-messages-cdc.html</guid><description>&lt;div>
+&lt;p>
+&lt;p>6/2/16&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>KEY MESSAGES - ZIKA VIRUS DISEASE&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Purpose: This document is for internal and external use. The document contains cleared key messages for use in developing other materials.&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Updated June 2, 2016&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Updated information is in blue.&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>CONTENTS&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Outbreak Summary 2&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Zika &amp;amp; the Continental United States 3&lt;/p>&lt;/p>
+&lt;p style="margin-left:13pt;">
+&lt;p>Local Transmission 3&lt;/p>&lt;/p>
+&lt;p style="margin-left:13pt;">
+&lt;p>Travel-Associated Cases 3&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Background on Zika 4&lt;/p>&lt;/p>
+&lt;p style="margin-left:13pt;">
+&lt;p>Guillain-Barre Syndrome 4&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Symptoms 4&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Diagnosis 4&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Transmission 5&lt;/p>&lt;/p>
+&lt;p style="margin-left:13pt;">
+&lt;p>Sexual Transmission 5&lt;/p>&lt;/p>
+&lt;p style="margin-left:13pt;">
+&lt;p>Blood Transfusion 7&lt;/p>&lt;/p>
+&lt;p style="margin-left:22pt;">
+&lt;p>Zika Virus Blood Screening 7&lt;/p>&lt;/p>
+&lt;p style="margin-left:22pt;">
+&lt;p>Puerto Rico Survey of Blood Collection Centers 7&lt;/p></description></item><item><title>Zika microcephaly risk may be 5 percent in first trimester</title><link>/posts/zika-microcephaly-risk-may-be-5-percent-in-first-trimester.html</link><pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate><guid>/posts/zika-microcephaly-risk-may-be-5-percent-in-first-trimester.html</guid><description>&lt;h3 id="estimates-for-just-microcephaly-range-from-1-to-13">Estimates for just microcephaly range from 1% to 13%&lt;/h3>
+&lt;h4 id="and-microcephaly-might-be-just-the-tip-of-the-iceberg">And, Microcephaly might be just the tip of the iceberg&lt;/h4>
+&lt;p>Many more birth defects which are not as severe&lt;/p>
+&lt;h4 id="not-clear-after-a-brief-read">Not clear after a brief read&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Did all of the women have symptoms, or were some asymtomatic?&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Was the microcephaly determed at live birth (vs abortion, miscarriage or stillbirth)&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="if-a-pregnant-woman-gets-zika-whats-the-risk-of-microcephaly-for-the-babyhttpwwwtheatlanticcomhealtharchive201605if-a-pregnant-woman-gets-zika-whats-the-risk-of-microcephaly-for-the-baby48448120-the-atlantic">&lt;a href="http://www.theatlantic.com/health/archive/2016/05/if-a-pregnant-woman-gets-zika-whats-the-risk-of-microcephaly-for-the-baby/484481/%20">If a Pregnant Woman Gets Zika, What&amp;rsquo;s the Risk of Microcephaly for the Baby?&lt;/a> The Atlantic&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>“. . .CDC calculated that if a woman is infected in her first trimester, there is between a 1 and 13 percent chance of her fetus developing microcephaly.”&lt;/p></description></item><item><title>Omega-3 map (most of the world has low levels)</title><link>/posts/omega-3-map-most-of-the-world-has-low-levels.html</link><pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate><guid>/posts/omega-3-map-most-of-the-world-has-low-levels.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#global-survey-of-the-omega-3-fatty-acids-docosahexaenoic-acid-and-eicosapentaenoic-acid-in-the-blood-stream-of-healthy-adults">Global survey of the omega-3 fatty acids, docosahexaenoic acid and eicosapentaenoic acid in the blood stream of healthy adults&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#541-studies-cited-this-study-as-of-dec-2023">541 studies cited this study as of Dec 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="global-survey-of-the-omega-3-fatty-acids-docosahexaenoic-acid-and-eicosapentaenoic-acid-in-the-blood-stream-of-healthy-adults">Global survey of the omega-3 fatty acids, docosahexaenoic acid and eicosapentaenoic acid in the blood stream of healthy adults&lt;/h4>
+&lt;p>Progress in Lipid Research, doi:10.1016/j.plipres.2016.05.001&lt;/p>
+&lt;p>Ken D. Stark a, &lt;a href="mailto:kstark@uwaterloo.ca">kstark@uwaterloo.ca&lt;/a>, , Mary E. Van Elswyk b, , M. Roberta Higgins c, , Charli A. Weatherford d, , Norman Salem Jr. e,&lt;/p></description></item><item><title>Zika virus and pregnancy - evidence, management, and prevention</title><link>/posts/zika-virus-and-pregnancy-evidence-management-and-prevention.html</link><pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/zika-virus-and-pregnancy-evidence-management-and-prevention.html</guid><description>&lt;p>&lt;strong>The Journal of Maternal-Fetal &amp;amp; Neonatal Medicine, Doi: 10.3109/14767058.2016.1174210&lt;/strong>&lt;/p>
+&lt;p>Ayse Citil-Dogan, MD, Sandra Wayne, MS WHNP-BC, Samuel Bauer, MD, Dotun Ogunyemi, MD, Santosh K. Kulkharni, MB, BS, Devika Maulik, MD, Christopher F. Carpenter, MD, Ray O. Bahado-Singh, MD, MBA&lt;/p>
+&lt;p>Corresponding author: Ray O. Bahado-Singh MD, MBA, Medical Office Building, 3535 West 13 Mile Road, Suite 233, Royal Oak, MI 48073&lt;/p>
+&lt;p>&lt;strong>Table 2&lt;/strong>&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/micro-t2.jpg" alt="image" width="600">
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;p>7 causes of reduced brain growth&lt;/p>
+&lt;p>MRI appears better than ultrasound at detection, but more expensive&lt;/p></description></item><item><title>Zika virus and pregnancy literature review</title><link>/posts/zika-virus-and-pregnancy-literature-review.html</link><pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/zika-virus-and-pregnancy-literature-review.html</guid><description>&lt;h4 id="zika-virus-infection-during-pregnancy-and-microcephaly-occurrence-a-review-of-literature-and-brazilian-data">Zika virus infection during pregnancy and microcephaly occurrence: a review of literature and Brazilian data&lt;/h4>
+&lt;p>The Brazilian Journal of INFECTIOUS DISEASES&lt;/p>
+&lt;p>qi Newton Sergio de Carvalhoa’, Beatriz Freitas de Carvalhob, Cyllian Arias Fugagab}&lt;/p>
+&lt;p>Bruna Dorisb, Evellyn Silverio Biscaiab&lt;/p>
+&lt;p>a Departamento de Tocoginecologia, Setor de Infecqdes em Ginecologia e Obstetricia, Hospital de Clinicas, Universidade Federal do Parana (UFPR), Curitiba, PR, Brazil&lt;/p>
+&lt;p>b Pontificia Universidade Catolica do Parana, Curitiba, PR, Brazil&lt;/p>
+&lt;p>In November of 2015, the Ministry of Health of Brazil published an announcement confirming the relationship between Zika virus and the microcephaly outbreak in the Northeast, suggesting that infected pregnant women might have transmitted the virus to their fetuses. The objectives of this study were to conduct a literature review about Zika virus infection and microcephaly, evaluate national and international epidemiological data, as well as the current recommendations for the health teams. Zika virus is an arbovirus, whose main vector is the Aedes sp. The main symptoms of the infection are maculopapular rash, fever, non-purulent conjunctivitis, and arthralgia. Transmission of this pathogen occurs mainly by mosquito bite, but there are also reports via the placenta. Microcephaly is defined as a measure of occipto-frontal circumference being more than two standard deviations below the mean for age and gender. The presence of microcephaly demands evaluation of the patient, in order to diagnose the etiology. Health authorities issued protocols, reports and notes concerning the management of microcephaly caused by Zika virus, but there is still controversy about managing the cases. The Ministry of Health advises notifying any suspected or confirmed cases of children with microcephaly related to the pathogen, which is confirmed by a positive specific laboratory test for the virus. The first choice for imaging exam in children with this malformation is transfontanellar ultrasound. The most effective way to control this outbreak of microcephaly probably caused by this virus is to combat the vector. Since there is still uncertainty about the period of vulnerability of transmission via placenta, the use of repellents is crucial throughout pregnancy. More investigations studying the consequences of this viral infection on the body of newborns and in their development are required.&lt;/p></description></item><item><title>Stillbirth - still a global problem - Lancet 2015</title><link>/posts/stillbirth-still-a-global-problem-lancet-2015.html</link><pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate><guid>/posts/stillbirth-still-a-global-problem-lancet-2015.html</guid><description>&lt;h4 id="no-mention-of-vitamin-d-nor-omega-3-in-either-reference">No mention of vitamin D nor Omega-3 in either reference&lt;/h4>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/stillbirth-series-lancet-2015.pdf">Download the Lancet PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Determinants of increases in stillbirth rates from 2000 to 2010&lt;/strong> British Columbia, Canada&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/stillbirths-bc.jpg" alt="image">
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/stillbirth-2013.pdf">Download the BC PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Stillbirth rate typically 1 in 200, perhaps only 1 in 800 with Omega-3</title><link>/posts/stillbirth-rate-typically-1-in-200-perhaps-only-1-in-800-with-omega-3.html</link><pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/stillbirth-rate-typically-1-in-200-perhaps-only-1-in-800-with-omega-3.html</guid><description>&lt;p>&lt;strong>&lt;a href="/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studies">Pregnancy and infants healthier with Omega-3 supplementation - many studies&lt;/a> 4X less stillbirth with Omega-3&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#extra-750-for-stillbirth-but-less-cost-for-child-development">Extra $750 for stillbirth, but less cost for child development&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#stillbirth-costs-and-subsequent-pregnancy-costs-in-england-2013">Stillbirth costs and subsequent pregnancy costs in England– 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#stillbirthhttpwwwnhsukconditionsstillbirthpagesdefinitionaspx-nhs">&lt;a href="http://www.nhs.uk/conditions/Stillbirth/Pages/Definition.aspx">Stillbirth&lt;/a> NHS&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#increase-in-stillbirth-rate-by-13-2000---2010--may-2013-determinants-of-increases-in-stillbirth-rates-from-2000-to-2010-cmaj-2013-may-141858e345-51-doi-101503cmaj121372httpsdoiorg101503cmaj121372-epub-2013-apr-8">Increase in stillbirth rate by 13% (2000 - 2010) – May 2013** Determinants of increases in stillbirth rates from 2000 to 2010. **CMAJ. 2013 May 14;185(8):E345-51. &lt;a href="https://doi.org/10.1503/cmaj.121372.">doi: 10.1503/cmaj.121372.&lt;/a> Epub 2013 Apr 8.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h4 id="extra-750-for-stillbirth-but-less-cost-for-child-development">Extra $750 for stillbirth, but less cost for child development&lt;/h4>
+&lt;p>&lt;strong>Hospital costs associated with stillbirth delivery.&lt;/strong>&lt;/p></description></item><item><title>Omega-3 helps pregnancy in many ways: preterm 26 percent less likely etc – review</title><link>/posts/omega-3-helps-pregnancy-in-many-ways-preterm-26-percent-less-likely-etc-review.html</link><pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/omega-3-helps-pregnancy-in-many-ways-preterm-26-percent-less-likely-etc-review.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#effect-of-n-3-long-chain-polyunsaturated-fatty-acid-intake-during-pregnancy-on-maternal-infant-and-child-health-outcomes-a-systematic-review">Effect of n-3 long-chain polyunsaturated fatty acid intake during pregnancy on maternal, infant, and child health outcomes: a systematic review.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="effect-of-n-3-long-chain-polyunsaturated-fatty-acid-intake-during-pregnancy-on-maternal-infant-and-child-health-outcomes-a-systematic-review">Effect of n-3 long-chain polyunsaturated fatty acid intake during pregnancy on maternal, infant, and child health outcomes: a systematic review.&lt;/h4>
+&lt;p>Paediatr Perinat Epidemiol. 2012 Jul;26 Suppl 1:91-107. &lt;a href="https://doi.org/10.1111/j.1365-3016.2012.01292.x.">doi: 10.1111/j.1365-3016.2012.01292.x.&lt;/a>&lt;/p>
+&lt;p>Imhoff-Kunsch B1, Briggs V, Goldenberg T, Ramakrishnan U.&lt;/p>
+&lt;p>Evidence from observational studies and randomised trials has suggested a potential association between intake of n-3 long-chain polyunsaturated fatty acids (LCPUFA) during pregnancy and certain pregnancy and birth outcomes. Marine foods (e.g. fatty sea fish, algae) and select freshwater fish contain pre-formed n-3 LCPUFA, which serve as precursors for bioactive molecules (e.g. prostaglandins) that influence a variety of biological processes. The main objective of this analysis was to summarise evidence of the effect of n-3 LCPUFA intake during pregnancy on select maternal and child health outcomes. Searches were performed in PubMed, EMBASE, and other electronic databases to identify trials where n-3 LCPUFA were provided to pregnant women for at least one trimester of pregnancy. Data were extracted into a standardised abstraction table and pooled analyses were conducted using RevMan software.&lt;/p></description></item><item><title>Pregnancy helped by Magnesium - many studies</title><link>/posts/pregnancy-helped-by-magnesium-many-studies.html</link><pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/pregnancy-helped-by-magnesium-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activity-in-preterm-infants--rct-may-2024">800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-role-of-magnesium-in-pregnancy-and-in-fetal-programming-of-adult-diseases---2020">The Role of Magnesium in Pregnancy and in Fetal Programming of Adult Diseases - 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effect-of-magnesium-supplement-on-pregnancy-outcomes-rct---2017">Effect of Magnesium Supplement on Pregnancy Outcomes: RCT - 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activity-in-preterm-infants--rct-may-2024-1">800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#preterm-labor-18x-more-likely-if-low-magnesium---2014">Preterm labor 1.8X more likely if low Magnesium - 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#importance-of-magnesium-in-pregnancy--sept-2016">Importance of Magnesium in Pregnancy – Sept 2016&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pre-eclampsia-inversely-proportional-to-serum-magnesium--oct-2014">Pre-eclampsia inversely proportional to serum Magnesium – Oct 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cochrane-review-of-a-variety-of-magnesium-compounds-during-pregnancy-found-some-benefit---2014">Cochrane review of a variety of Magnesium compounds during pregnancy found some benefit - 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-pubmed">See also PubMed&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#preterm-birth-and-the-role-of-neuroprotection--jan-2015">Preterm birth and the role of neuroprotection.- Jan 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-use-of-intravenous-magnesium-in-non-preeclamptic-pregnant-women-fetalneonatal-neuroprotection---may-2015">The use of intravenous magnesium in non-preeclamptic pregnant women: fetal/neonatal neuroprotection. - May 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanmagnesium-and-pregnancyspan-spanarticle-in-japanesespan---aug-2012">&lt;span>[Magnesium and pregnancy]&lt;/span>. &lt;span>[Article in Japanese]&lt;/span> - Aug 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#magnesium-sulphate-for-preventing-preterm-birth-in-threatened-preterm-labour">Magnesium sulphate for preventing preterm birth in threatened preterm labour&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#benefits-of-magnesium-during-pregnancy---may-2015">Benefits of Magnesium during pregnancy - May 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#magnesium-sulfate-slows-or-stops-preterm-labor---2014">Magnesium Sulfate slows or stops preterm labor - 2014&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#magnesium-sulfate-reduced-cerebral-palsy-in-premies---dec-2013">Magnesium Sulfate reduced cerebral palsy in premies - Dec 2013&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#more-magneiusm-half-as-many-pregnancy-leg-cramps---rct-aug-2012">More Magneiusm, half as many pregnancy leg cramps - RCT Aug 2012&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#magnesium-appears-to-decrease-morning-sickness">Magnesium appears to decrease morning sickness&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h2 id="800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activity-in-preterm-infants--rct-may-2024">800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024&lt;/h2>
+&lt;p>&lt;strong>&lt;a href="/posts/800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activit-erm-infants-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024">800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Healthy pregnancies need lots of vitamin D</title><link>/posts/healthy-pregnancies-need-lots-of-vitamin-d.html</link><pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/healthy-pregnancies-need-lots-of-vitamin-d.html</guid><description>&lt;!-- ~tc~ start ~/tc~ -->
+&lt;p>&lt;strong>Most were taking 2,000 to 7,000 IU daily for &amp;gt;50% of pregnancy&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>    Click on hyperlinks for details&lt;/strong>&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>::Problem::&lt;/td>
+ &lt;td>Vit. D&lt;br>Reduces&lt;/td>
+ &lt;td>Evidence&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>0. ((Women with more than minimum vitamin D were 3.4 X more likely to achieve pregnancy and 1.6 X more likely to have live births – June 2017&lt;/td>
+ &lt;td>Chance of not conceiving))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">3.4 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. ((Miscarriage in first trimester 2.5X more likely if less than 20 ng of vitamin D – July 2015&lt;/td>
+ &lt;td>Miscarriage))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">2.5 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2. ((Preeclampsia risk reduced by higher levels of vitamin D (VDAART 4,400 IU) - RCT Nov 2016&lt;/td>
+ &lt;td>Pre-eclampsia))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">3.6 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>3. ((Gestational Diabetes reduce 3 times by 5,000 IU of Vitamin D – RCT Jan 2016&lt;/td>
+ &lt;td>Gestational Diabetes))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">3 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>4. ((Poor sleep quality in mid-pregnancy 3.5 X more likely if low vitamin D – March 2017&lt;/td>
+ &lt;td>Good 2nd trimester sleep quality))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">3.5 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>5. ((Pre-term birth - many of risk factors are associated with low vitamin D&lt;/td>
+ &lt;td>Premature birth))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">2 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>6. ((Unplanned c-section birth 40 percent less often if sufficient vitamin D – Sept 2014&lt;/td>
+ &lt;td>C-section - unplanned))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">1.6 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>        ((Pregnancy and infants healthier with Omega-3 supplementation - many studies&lt;/td>
+ &lt;td>Stillbirth - OMEGA-3))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">4 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>7. ((Perinatal depression decreased 40 percent with just a few weeks of 2,000 IU of vitamin D – RCT Aug 2016&lt;/td>
+ &lt;td>Depression AFTER pregnancy))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">1.4 times &lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>8. ((Small for gestational age is 1.6 X more likely if mother was vitamin D deficient – meta-analysis Aug 2017&lt;/td>
+ &lt;td>Small for Gestational Age))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">1.6 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>9. ((Vitamin D intervention for 8 weeks of pregnancy: infants taller, heavier and bigger heads – RCT Oct 2013&lt;/td>
+ &lt;td>Infant height, weight, head size ))&lt;br>         within normal limits&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10. Childhood ((Wheezing reduced 35 percent if vitamin D added during pregnancy – April 2015&lt;/td>
+ &lt;td>Wheezing ))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">1.3 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>11. ((Autism rate in siblings reduced 4X by vitamin D: 5,000 IU during pregnancy, 1,000 IU to infants – Feb 2016&lt;/td>
+ &lt;td>Additional child is Autistic))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">4 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>12.Young adult ((Multiple Sclerosis much more likely if low vitamin D during pregnancy –many studies&lt;/td>
+ &lt;td>Multiple Sclerosis))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">1.9 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>13. ((Preeclampsia 3.5 times more likely if low vitamin D (affects 348 Vit. D genes) – RCT Nov 2016&lt;/td>
+ &lt;td>Preeclampsia)) in young adult&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">3.5 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>14. ((Poor motor development in infant was 40 percent more likely if low maternal vitamin D – July 2017&lt;/td>
+ &lt;td>Good motor skills @ age 3))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">1.4 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>15. Childhood ((Five times less mite allergy when vitamin D added in mid pregnancy and to infant – RCT April 2016&lt;/td>
+ &lt;td>Mite allergy))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">5 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>16. Childhood ((Respiratory Tract Infection visits 2.5 less likely with vitamin D: Pregnancy 2000 IU, Infant 800 IU – RCT Oct 2014&lt;/td>
+ &lt;td>Respiratory Tract visits))&lt;/td>
+ &lt;td>&lt;strong>&lt;span style="color:#00F;">2.5 times&lt;/span>&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>RCT = Randomized Controlled Trial&lt;/strong>&lt;/p></description></item><item><title>Pregnancy and infants healthier with Omega-3 supplementation - many studies</title><link>/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studies.html</link><pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studies.html</guid><description>&lt;h3 id="assisted-reproduction-and-life-birth-rate-up-by-8-for-each-1-increase-in-omega-3--nov-2017">Assisted reproduction and life birth rate up by 8% for each 1% increase in Omega-3 – Nov 2017&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Note: Optimal level of Omega-3 is 8%, Omega-3 going from 4% to 8% would increased AR rate by 4 X 8% = 32%&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Serum omega-3 fatty acids and treatment outcomes among women undergoing assisted reproduction&lt;/strong>&lt;/p>
+&lt;p>Y -H Chiu A E Karmon A J Gaskins M Arvizu P L Williams I Souter B R Rueda R Hause J E Chavarro for the EARTH Study Team&lt;/p></description></item><item><title>Prenatal VITAMIN D is more important than other prenatal vitamins</title><link>/posts/prenatal-vitamin-d-is-more-important-than-other-prenatal-vitamins.html</link><pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/prenatal-vitamin-d-is-more-important-than-other-prenatal-vitamins.html</guid><description>&lt;p> &lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#cdc-review-of-folic-acid---not-much-benefit">CDC review of Folic acid - not much benefit&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#prenatal-vitamins-a-review-of-the-literature-on-benefits-and-risks-of-various-nutrient-supplementshttpformularyjournalmodernmedicinecomformulary-journalrcclinicalclinical-pharmacologyprenatal-vitamins-review-literature-benefits-apagefull">&lt;a href="http://formularyjournal.modernmedicine.com/formulary-journal/RC/clinical/clinical-pharmacology/prenatal-vitamins-review-literature-benefits-a?page=full">Prenatal vitamins: A review of the literature on benefits and risks of various nutrient supplements&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#iron-deficiency-anemia-in-pregnancy---baby-center-oct-2014">Iron-deficiency anemia in pregnancy - Baby Center, Oct 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#do-all-pregnant-women-need-to-take-iron-supplements---pubmed-march-2014">Do all pregnant women need to take iron supplements? - PubMed, March 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#preconception-not-prenatal-multivitamins-help">Preconception (not prenatal) multivitamins help&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#neural-tube-defects-in-mice-reduced-by-vitamin-d">Neural tube defects (in mice) reduced by Vitamin D&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="cdc-review-of-folic-acid---not-much-benefit">CDC review of Folic acid - not much benefit&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6401a2.htm">Updated Estimates of Neural Tube Defects Prevented by Mandatory Folic Acid Fortification — United States, 1995–2011 &lt;/a> Jan 2015&lt;/strong>&lt;/p></description></item><item><title>Getting vitamin D during pregnancy is even more important than avoiding alcohol</title><link>/posts/getting-vitamin-d-during-pregnancy-is-even-more-important-than-avoiding-alcohol.html</link><pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/getting-vitamin-d-during-pregnancy-is-even-more-important-than-avoiding-alcohol.html</guid><description>&lt;h3 id="stillbirth-rate--09-if--4-drinks-per-week">Stillbirth rate = 0.9% if &amp;gt; 4 drinks per week&lt;/h3>
+&lt;p>&lt;a href="http://aje.oxfordjournals.org/content/155/4/305.full">Moderate Alcohol Intake during Pregnancy and the Risk of Stillbirth and Death in the First Year of Life&lt;/a> 2001&lt;/p>
+&lt;p>The authors evaluated the association between alcohol intake during pregnancy and risk of stillbirth and infant death in a cohort of pregnant women receiving routine antenatal care at Aarhus University Hospital (Aarhus, Denmark) between 1989 and 1996. Prospective information on alcohol intake, other lifestyle factors, maternal characteristics, and obstetric risk factors was obtained from self-administered questionnaires and hospital files, and 24,768 singleton pregnancies were included in the analyses (116 stillbirths, 119 infant deaths). The risk ratio for stillbirth among women who consumed ≥5 drinks/week during pregnancy was 2.96 (95% confidence interval: 1.37, 6.41) as compared with women who consumed &amp;lt;1 drink/week. Adjustment for smoking habits, caffeine intake, age, prepregnancy body mass index, marital status, occupational status, education, parity, and sex of the child did not change the conclusions, nor did restriction of the highest intake group to women who consumed 5–14 drinks/week ( &lt;strong>risk ratio = 3.13,&lt;/strong> 95% confidence interval: 1.45, 6.77). The rate of stillbirth due to fetoplacental dysfunction increased across alcohol categories, from 1.37 per 1,000 births for women consuming &amp;lt;1 drink/week to &lt;strong>8.83 per 1,000 births for women consuming ≥5 drinks/week&lt;/strong> . &lt;strong>The increased risk could not be attributed to the effect of alcohol on the risk of low birth weight, preterm delivery, or malformations.&lt;/strong> There was little if any association between alcohol intake and infant death.&lt;/p></description></item><item><title>Off topic – Making birth defects ‘preventable’ Folic acid and the politics of risk reduction</title><link>/posts/off-topic-making-birth-defects-preventable-folic-acid-and-the-politics-of-risk-reduction.html</link><pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/off-topic-making-birth-defects-preventable-folic-acid-and-the-politics-of-risk-reduction.html</guid><description>&lt;p>
+&lt;p>Vitamin D not mentioned&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>PDF is attached at the bottom of the page&lt;/p>&lt;/p>
+&lt;div class="publicationHead">
+&lt;div class="title">
+&lt;p>&lt;a class="cLink" href="http://www.sciencedirect.com/science/journal/13698486" title="Go to Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences on ScienceDirect">&lt;span>Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences&lt;/span>&lt;/a>&lt;/div>&lt;/p>
+&lt;p class="volIssue">
+&lt;p>Available online 21 November 2013&lt;/p>&lt;/p>
+&lt;p class="articlePress">
+&lt;p>&lt;span>&lt;a class="cLink" href="http://www.sciencedirect.com/science/journal/aip/13698486">In Press, Corrected Proof&lt;/a>&lt;/span> — &lt;a href="http://www.sciencedirect.com/science/article/pii/S1369848613001349#FCANote">Note to users&lt;/a>&lt;/p>&lt;/p>
+&lt;/div>
+&lt;div class="publicationCover cover2">
+&lt;/div>
+&lt;div class="page_fragment auth_frag" id="frag_1">
+&lt;h1 class="svTitle" id="tm005">
+&lt;p>Making birth defects ‘preventable’: Pre-conceptional vitamin supplements and the politics of risk reduction &lt;sup>&lt;a class="intra_ref" href="http://www.sciencedirect.com/science/article/pii/S1369848613001349#item1" id="bitem1">☆&lt;/a>&lt;/sup>&lt;/h1>&lt;/p></description></item><item><title>Early Puberty if low vitamin D - many studies</title><link>/posts/early-puberty-if-low-vitamin-d-many-studies.html</link><pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/early-puberty-if-low-vitamin-d-many-studies.html</guid><description>&lt;p>&lt;strong>Note: Vitamin D levels have been &lt;a href="/posts/4-reasons-why-vitamin-d-levels-are-crashing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing">crashing&lt;/a> in the past 40 years AND the age of puberty has also been dropping around the world&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#early-puberty-occurs-153-x-more-often-if-low-vitamin-d--meta-analysis-dec-2023">Early puberty occurs 1.53 X more often if low vitamin D – meta-analysis Dec 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#early-puberty-occurs-225-x-more-often-if-low-vitamin-d---meta-analysis-may-2023">Early puberty occurs 2.25 X more often if low vitamin D - Meta-analysis May 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#idiopathic-central-precocious-puberty-in-girls-7-x-more-likely-if-low-vitamin-d---july-2023">idiopathic central precocious puberty in girls 7 X more likely if low vitamin D - July 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#5x-increase-in-precocious-puberty-during-early-covid-lockdown--sept-2022">5X increase in Precocious Puberty during early COVID lockdown- Sept 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#early-puberty-during-pandemic-perhaps-just-low-vitamin-d---sept-2022">Early puberty during pandemic (perhaps just low vitamin D) - Sept 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#nyt-article-wondering-why-earlier-and-earlier-puberty-over-the-past-50-years---may-2022">NYT article wondering why earlier and earlier puberty over the past 50 years - May 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#nyt-girls-of-color-are-getting-their-periods-earlier-no-one-quite-knows-why-june-2024">NYT: Girls of Color Are Getting Their Periods Earlier. No One Quite Knows Why. June 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#early-puberty-cases-among-girls-surged-during-pandemic---april-2022">Early puberty cases among girls surged during pandemic - April 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#early-puberty-2x-more-likely-if-low-vitamin-d--meta-analysis-feb-2020">Early puberty 2X more likely if low vitamin D – Meta-analysis Feb 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#early-puberty-more-likely-if--20-ng-of-vitamin-d---aug-2018">Early puberty more likely if &amp;lt; 20 ng of Vitamin D - Aug 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-age-at-menarche-a-prospective-study---oct-2011">Vitamin D deficiency and age at menarche: a prospective study - Oct 2011&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#early-puberty-increasing-in-obese-and-dark-skin-children-probably-lower-vitamin-d--nov-2013">Early puberty increasing in obese and dark skin children (probably lower vitamin D) – Nov 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#3x-more-likely-to-be-vitamin-d-deficient-if-early-puberty---june-2014">3X more likely to be vitamin D deficient if early puberty - June 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#speculation-obesity--lower-vitamin-d--early-puberty">Speculation: Obesity ==&amp;gt; lower Vitamin D ==&amp;gt; early puberty&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="early-puberty-occurs-153-x-more-often-if-low-vitamin-d--meta-analysis-dec-2023">Early puberty occurs 1.53 X more often if low vitamin D – meta-analysis Dec 2023&lt;/h4>
+&lt;p>&lt;strong>An updated meta-analysis of the relationship between vitamin D levels and precocious puberty&lt;/strong>&lt;/p></description></item><item><title>Low vitamin D increased probability of low birth weight by 60 percent – meta-analysis</title><link>/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis.html</link><pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis.html</guid><description>&lt;h4 id="vitamin-d-during-pregnancy-and-maternal-neonatal-and-infant-health-outcomes-a-systematic-review-and-meta-analysis">Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis&lt;/h4>
 &lt;p>Andrew Thorne-Lyman1,*, Wafaie W. Fawzi1,2,3; Article first published online: 28 JUN 2012&lt;/p>
 &lt;p>© 2012 Blackwell Publishing Ltd&lt;/p>
 &lt;p>Paediatric and Perinatal Epidemiology, Volume 26, Issue Supplement s1, pages 75–90, July 2012&lt;/p>

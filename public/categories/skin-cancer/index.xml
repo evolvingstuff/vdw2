@@ -1,387 +1,256 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Skin Cancer on VitaminDWiki</title><link>/categories/skin-cancer.html</link><description>Recent content in Skin Cancer on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 11 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/categories/skin-cancer/index.xml" rel="self" type="application/rss+xml"/><item><title>Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011</title><link>/posts/seniors-like-everyone-else-need-vitamin-d-and-should-avoid-sunburns-2011.html</link><pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/seniors-like-everyone-else-need-vitamin-d-and-should-avoid-sunburns-2011.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`
-│ inner_content: `Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`
-│ │ inner_content: `Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`├── TextNode
-│ full_match: `\nGlossmann H.\nGerontology. 2011;57(4):350-3. Epub 2010 Dec 22.\nInstitute for Biochemical Pharmacology, University of Innsbruck, Innsbruck, Austria. Hartmut.Glossmann@i-med.ac.at\n\nThere is mounting concern about vitamin D insufficiency, especially in the ageing population. Increases in indoor lifestyle, obesity, car travel, clothing habits, the use of photo-protective makeup, and campaigns driven by dermatologists, governments, and the cosmetic industry to avoid or protect against the sun as much as possible are contributing to this trend. \n\nIn a recent article in Gerontology, Barysch et al. `
-│ inner_content: `\nGlossmann H.\nGerontology. 2011;57(4):350-3. Epub 2010 Dec 22.\nInstitute for Biochemical Pharmacology, University of Innsbruck, Innsbruck, Austria. Hartmut.Glossmann@i-med.ac.at\n\nThere is mounting concern about vitamin D insufficiency, especially in the ageing population. Increases in indoor lifestyle, obesity, car travel, clothing habits, the use of photo-protective makeup, and campaigns driven by dermatologists, governments, and the cosmetic industry to avoid or protect against the sun as much as possible are contributing to this trend. \n\nIn a recent article in Gerontology, Barysch et al. `├── LinkNode
-│ full_match: `[1]`
-│ inner_content: `1`
-│ url: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `1`
-│ │ inner_content: `1`├── TextNode
-│ full_match: ` recommend that the ageing population avoid any &amp;#39;intentional&amp;#39; UV radiation as well as &amp;#39;minimize sun exposure&amp;#39; based on known dangers of developing skin cancer. They warn that &amp;#39;studies with vitamin D supplements reported increased risks of prostate and esophagus cancer as well as atopy in childhood&amp;#39; and concluded that &amp;#39;adequate levels of vitamin D are essential for the elderly&amp;#39;, but do not suggest which level is optimal. I will argue that the ageing population should keep their serum 25-(OH)-vitamin D(3) (25-(OH)-D) levels in the 75-100 nmol/l range. An oral cholecalciferol intake of ?2,000 IU/day is recommended as a supplement throughout the year for those who cannot enjoy the sun in summer or only during &amp;#39;vitamin D winter&amp;#39; for the others.\n\nCopyright © 2010 S. Karger AG, Basel.\n\nPMID: 21196703\n`
-│ inner_content: ` recommend that the ageing population avoid any &amp;#39;intentional&amp;#39; UV radiation as well as &amp;#39;minimize sun exposure&amp;#39; based on known dangers of developing skin cancer. They warn that &amp;#39;studies with vitamin D supplements reported increased risks of prostate and esophagus cancer as well as atopy in childhood&amp;#39; and concluded that &amp;#39;adequate levels of vitamin D are essential for the elderly&amp;#39;, but do not suggest which level is optimal. I will argue that the ageing population should keep their serum 25-(OH)-vitamin D(3) (25-(OH)-D) levels in the 75-100 nmol/l range. An oral cholecalciferol intake of ?2,000 IU/day is recommended as a supplement throughout the year for those who cannot enjoy the sun in summer or only during &amp;#39;vitamin D winter&amp;#39; for the others.\n\nCopyright © 2010 S. Karger AG, Basel.\n\nPMID: 21196703\n`├── HeadingNode
-│ full_match: `\n!!Interesting statements in the paper`
-│ inner_content: `Interesting statements in the paper`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Interesting statements in the paper`
-│ │ inner_content: `Interesting statements in the paper`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`
-│ inner_content: `Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`
-│ │ inner_content: `Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation [15]`
-│ inner_content: `The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation [15]`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation `
-│ │ inner_content: `The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation `
-│ ├── LinkNode
-│ │ full_match: `[15]`
-│ │ inner_content: `15`
-│ │ url: `15`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `15`
-│ │ │ inner_content: `15`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`
-│ inner_content: `. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`
-│ │ inner_content: `. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`
-│ inner_content: `. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`
-│ │ inner_content: `. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`
-│ inner_content: `’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`
-│ │ inner_content: `’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Are your chances of dying – compared to a population without BCC or SCC – better or worse? `
-│ inner_content: `Are your chances of dying – compared to a population without BCC or SCC – better or worse? `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Are your chances of dying – compared to a population without BCC or SCC – better or worse? `
-│ │ inner_content: `Are your chances of dying – compared to a population without BCC or SCC – better or worse? `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+The answer is surprising and unexpected: `
-│ inner_content: `The answer is surprising and unexpected: `
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `The answer is surprising and unexpected: `
-│ │ inner_content: `The answer is surprising and unexpected: `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`
-│ inner_content: `you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`
-│ │ inner_content: `you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`├── TextNode
-│ full_match: `\n– – – – – – – – \n`
-│ inner_content: `\n– – – – – – – – \n`├── HeadingNode
-│ full_match: `!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n(all of the following are on the VitaminDWiki, but do not have time to make all of the hyperlinks)\n`
-│ inner_content: `\n(all of the following are on the VitaminDWiki, but do not have time to make all of the hyperlinks)\n`├── ListItemNode
-│ full_match: `*Seniors need 3X as much time in the sun to get same amount of vitamin D`
-│ inner_content: `Seniors need 3X as much time in the sun to get same amount of vitamin D`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Seniors need 3X as much time in the sun to get same amount of vitamin D`
-│ │ inner_content: `Seniors need 3X as much time in the sun to get same amount of vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Need about 2X more if overweight`
-│ inner_content: `Need about 2X more if overweight`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Need about 2X more if overweight`
-│ │ inner_content: `Need about 2X more if overweight`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Various anti-oxidants reduce the chance of sunburns`
-│ inner_content: `Various anti-oxidants reduce the chance of sunburns`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Various anti-oxidants reduce the chance of sunburns`
-│ │ inner_content: `Various anti-oxidants reduce the chance of sunburns`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Maximize the amount of vitamin D while minimizing the chance of sunburn `
-│ inner_content: `Maximize the amount of vitamin D while minimizing the chance of sunburn `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Maximize the amount of vitamin D while minimizing the chance of sunburn `
-│ │ inner_content: `Maximize the amount of vitamin D while minimizing the chance of sunburn `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+by spending a small amount of time out in the hot sun with a minimum of clothing.`
-│ inner_content: `by spending a small amount of time out in the hot sun with a minimum of clothing.`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `by spending a small amount of time out in the hot sun with a minimum of clothing.`
-│ │ inner_content: `by spending a small amount of time out in the hot sun with a minimum of clothing.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Perhaps having enough vitamin D reduces chance of sunburning`
-│ inner_content: `Perhaps having enough vitamin D reduces chance of sunburning`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Perhaps having enough vitamin D reduces chance of sunburning`
-│ │ inner_content: `Perhaps having enough vitamin D reduces chance of sunburning`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun] _~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun] _~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun]`
-│ │ inner_content: ` All items in Noontime Sun`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in Noontime Sun`
-│ │ │ inner_content: `All items in Noontime Sun`
-│ ├── TextNode
-│ │ full_match: ` _`
-│ │ inner_content: ` _`
-│ ├── ColorNode
-│ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~`
-│ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items`
-│ │ attrs_dict:
-│ │ │ raw_content: #00F
-│ │ children:
-│ │ ├── SqlNode
-│ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL}`
-│ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ db: &amp;gt;vitamind
-│ │ ├── TextNode
-│ │ │ full_match: ` items`
-│ │ │ inner_content: ` items`
-│ ├── TextNode
-│ │ full_match: `__`
-│ │ inner_content: `__`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]`
-│ │ inner_content: `Overview Suntans melanoma and vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1462`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Suntans melanoma and vitamin D`
-│ │ │ inner_content: `Overview Suntans melanoma and vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]`
-│ │ inner_content: `Overview Seniors and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=28`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Seniors and Vitamin D`
-│ │ │ inner_content: `Overview Seniors and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki] 32 items as of May 2013`
-│ inner_content: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki] 32 items as of May 2013`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki]`
-│ │ inner_content: ` Search for Glossman on VitaminDWiki`
-│ │ url: `https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Search for Glossman on VitaminDWiki`
-│ │ │ inner_content: `Search for Glossman on VitaminDWiki`
-│ ├── TextNode
-│ │ full_match: ` 32 items as of May 2013`
-│ │ inner_content: ` 32 items as of May 2013`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))`
-│ inner_content: `((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))`
-│ │ inner_content: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`
-│ │ page: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`
-│ │ │ inner_content: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))`
-│ inner_content: `((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))`
-│ │ inner_content: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`
-│ │ page: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`
-│ │ │ inner_content: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))`
-│ inner_content: `((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))`
-│ │ inner_content: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`
-│ │ page: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`
-│ │ │ inner_content: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011] a subsequent paper by Dr. Glossmann`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011] a subsequent paper by Dr. Glossmann`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011]`
-│ │ inner_content: `Pharmacology of vitamin D - April 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2269`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Pharmacology of vitamin D - April 2011`
-│ │ │ inner_content: `Pharmacology of vitamin D - April 2011`
-│ ├── TextNode
-│ │ full_match: ` a subsequent paper by Dr. Glossmann`
-│ │ inner_content: ` a subsequent paper by Dr. Glossmann`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough] which has the following graphic`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough] which has the following graphic`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough]`
-│ │ inner_content: `No – 10 minutes per day of sun-UVB is NOT enough`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1689`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `No – 10 minutes per day of sun-UVB is NOT enough`
-│ │ │ inner_content: `No – 10 minutes per day of sun-UVB is NOT enough`
-│ ├── TextNode
-│ │ full_match: ` which has the following graphic`
-│ │ inner_content: ` which has the following graphic`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ImgBlockNode
-│ full_match: `{IMG(fileId=&amp;quot;2105&amp;quot; max =&amp;quot;700&amp;quot;)}{IMG}`
-│ inner_content: ``
-│ attrs_dict:
-│ │ raw_content: fileId=&amp;quot;2105&amp;quot; max =&amp;quot;700&amp;quot;
-│ │ fileId: 2105
-│ │ max: 700
-
-Original Tiki:
--------------
-!Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?
-Glossmann H.
-Gerontology. 2011;57(4):350-3. Epub 2010 Dec 22.
-Institute for Biochemical Pharmacology, University of Innsbruck, Innsbruck, Austria. Hartmut.Glossmann@i-med.ac.at
-
-There is mounting concern about vitamin D insufficiency, especially in the ageing population. Increases in indoor lifestyle, obesity, car travel, clothing habits, the use of photo-protective makeup, and campaigns driven by dermatologists, governments, and the cosmetic industry to avoid or protect against the sun as much as possible are contributing to this trend. 
-
-In a recent article in Gerontology, Barysch et al. [1] recommend that the ageing population avoid any &amp;#39;intentional&amp;#39; UV radiation as well as &amp;#39;minimize sun exposure&amp;#39; based on known dangers of developing skin cancer. They warn that &amp;#39;studies with vitamin D supplements reported increased risks of prostate and esophagus cancer as well as atopy in childhood&amp;#39; and concluded that &amp;#39;adequate levels of vitamin D are essential for the elderly&amp;#39;, but do not suggest which level is optimal. I will argue that the ageing population should keep their serum 25-(OH)-vitamin D(3) (25-(OH)-D) levels in the 75-100 nmol/l range. An oral cholecalciferol intake of ?2,000 IU/day is recommended as a supplement throughout the year for those who cannot enjoy the sun in summer or only during &amp;#39;vitamin D winter&amp;#39; for the others.
-
-Copyright © 2010 S. Karger AG, Basel.
-
-PMID: 21196703
-
-!!Interesting statements in the paper
-*Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM
-*The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation [15]
-*. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .
-*. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .
-*’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D
-*Are your chances of dying – compared to a population without BCC or SCC – better or worse? 
-+The answer is surprising and unexpected: 
-+you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)
-– – – – – – – – 
-!See also VitaminDWiki
-(all of the following are on the VitaminDWiki, but do not have time to make all of the hyperlinks)
-*Seniors need 3X as much time in the sun to get same amount of vitamin D
-*Need about 2X more if overweight
-*Various anti-oxidants reduce the chance of sunburns
-*Maximize the amount of vitamin D while minimizing the chance of sunburn 
-+by spending a small amount of time out in the hot sun with a minimum of clothing.
-*Perhaps having enough vitamin D reduces chance of sunburning
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun] _~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]
-*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki] 32 items as of May 2013
-*((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))
-*((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))
-*((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011] a subsequent paper by Dr. Glossmann
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough] which has the following graphic
-{IMG(fileId=&amp;quot;2105&amp;quot; max =&amp;quot;700&amp;quot;)}{IMG}
-&lt;/code>
-&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Skin Cancer on VitaminDWiki</title><link>/categories/skin-cancer.html</link><description>Recent content in Skin Cancer on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/skin-cancer/index.xml" rel="self" type="application/rss+xml"/><item><title>Skin Cancers, Vitamin D, Vitamin D Receptor and Genes</title><link>/posts/skin-cancers-vitamin-d-vitamin-d-receptor-and-genes.html</link><pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/skin-cancers-vitamin-d-vitamin-d-receptor-and-genes.html</guid><description/></item><item><title>UVA causes skin cancer, perhaps UVB (Vitamin D) prevents skin cancer</title><link>/posts/uva-causes-skin-cancer-perhaps-uvb-vitamin-d-prevents-skin-cancer.html</link><pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/uva-causes-skin-cancer-perhaps-uvb-vitamin-d-prevents-skin-cancer.html</guid><description/></item><item><title>People with metastatic melanoma and initially Vitamin D deficient had 4.7 times worse outcome if not get enough D</title><link>/posts/people-with-metastatic-melanoma-and-initially-vitamin-d-deficient-had-47-times-w-ot-get-enough-d.html</link><pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/people-with-metastatic-melanoma-and-initially-vitamin-d-deficient-had-47-times-w-ot-get-enough-d.html</guid><description/></item><item><title>Malignant melanoma may be reduced by skin-activated vitamin D</title><link>/posts/malignant-melanoma-may-be-reduced-by-skin-activated-vitamin-d.html</link><pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/malignant-melanoma-may-be-reduced-by-skin-activated-vitamin-d.html</guid><description>&lt;p>&lt;strong>Current knowledge on the active form of Vitamin D synthesized in the skin and its effects on malignant melanoma&lt;/strong>&lt;/p>
+&lt;p>Neoplasma, doi:10.4149/neo_2017_101, Received April 18, 2016 / Accepted August 27, 2016&lt;/p>
+&lt;p>b. bolerazska &lt;a href="mailto:beata@moly.sk">beata@moly.sk&lt;/a>, m. rabajdova, i. spakova, m. marekova&lt;/p>
+&lt;p>Department of Medical and Clinical Biochemistry, Faculty of Medicine, P. J. Safarik University in Kosice, Kosice, Slovakia&lt;/p>
+&lt;nav id="TableOfContents">&lt;/nav>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;p>Vitamin D can be activated in many places in the body&lt;/p>
+&lt;p>This study incorrectly states that activatation only occurs in the skin and Kidneys&lt;/p></description></item><item><title>Sunscreen used daily vs discretionary: no difference in skin cancer rate – RCT 2016</title><link>/posts/sunscreen-used-daily-vs-discretionary-no-difference-in-skin-cancer-rate-rct-2016.html</link><pubDate>Sat, 06 Aug 2016 00:00:00 +0000</pubDate><guid>/posts/sunscreen-used-daily-vs-discretionary-no-difference-in-skin-cancer-rate-rct-2016.html</guid><description>&lt;h4 id="sun-protection-including-sunscreens-to-prevent-basal-cell-carcinoma-and-cutaneous-squamous-cell-carcinoma-of-the-skin">Sun protection (including sunscreens) to prevent basal cell carcinoma and cutaneous squamous cell carcinoma of the skin&lt;/h4>
+&lt;p>Cochrane Review Published: 25 July 2016&lt;/p>
+&lt;p>Sánchez G, Nova J, Rodriguez-Hernandez A, Medina R, Solorzano-Restrepo C, Gonzalez J, Olmos M, Godfrey K, Arevalo-Rodriguez I&lt;/p>
+&lt;p>DOI: 10.1002/14651858.CD011161.pub2&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job">Melanoma is 44 percent LESS LIKELY if get sun on the job – Nov 2013&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013">Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013&lt;/a>&lt;/p></description></item><item><title>Skin cancer (in mice) due to UV was prevented by vitamin D (active, topical)</title><link>/posts/skin-cancer-in-mice-due-to-uv-was-prevented-by-vitamin-d-active-topical.html</link><pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate><guid>/posts/skin-cancer-in-mice-due-to-uv-was-prevented-by-vitamin-d-active-topical.html</guid><description/></item><item><title>Some statins increase skin cancer risk by 40 percent (reducing vitamin D levels)</title><link>/posts/some-statins-increase-skin-cancer-risk-by-40-percent-reducing-vitamin-d-levels.html</link><pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/some-statins-increase-skin-cancer-risk-by-40-percent-reducing-vitamin-d-levels.html</guid><description>&lt;h4 id="relation-of-statin-use-with-non-melanoma-skin-cancer-prospective-results-from-the-womens-health-initiative">Relation of statin use with non-melanoma skin cancer: prospective results from the Women&amp;rsquo;s Health Initiative.&lt;/h4>
+&lt;p>Br J Cancer. 2016 Jan 7. &lt;a href="https://doi.org/10.1038/bjc.2015.376.">doi: 10.1038/bjc.2015.376.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Wang A1, Stefanick ML2, Kapphahn K3, Hedlin H3, Desai M3, Manson JA4, Strickler H5, Martin L6, Wactawski-Wende J7, Simon M8, Tang JY1.&lt;/p>
+&lt;p>1Department of Dermatology, Stanford University School of Medicine, 450 Broadway Street, Pavilion B, 4th Floor MC 5338, Redwood City, CA 94063, USA.&lt;/p></description></item><item><title>Skin cancer 20 percent more likely with some Vitamin D receptor gene polymorphisms</title><link>/posts/skin-cancer-20-percent-more-likely-with-some-vitamin-d-receptor-gene-polymorphisms.html</link><pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/skin-cancer-20-percent-more-likely-with-some-vitamin-d-receptor-gene-polymorphisms.html</guid><description>&lt;h4 id="vitamin-d-receptor-polymorphisms-and-survival-in-patients-with-cutaneous-melanoma-a-population-based-study">Vitamin D receptor polymorphisms and survival in patients with cutaneous melanoma: a population-based study.&lt;/h4>
+&lt;p>Carcinogenesis. 2015 Oct 31. pii: bgv157. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Orlow I, Reiner AS, Thomas NE1, Roy P, Kanetsky PA2, Luo L3, Paine S3, Armstrong BK4, Kricker A4, Marrett LD5, Rosso S6, Zanetti R6, Gruber SB7, Anton-Culver H8, Gallagher RP9, Dwyer T10, Busam K11, Begg CB, Berwick M3; GEM Study Group.&lt;/p>
+&lt;p>1Department of Dermatology, Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27514, USA.&lt;/p></description></item><item><title>Melanoma survival doubled with Vitamin D binding protein polymorphism</title><link>/posts/melanoma-survival-doubled-with-vitamin-d-binding-protein-polymorphism.html</link><pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/melanoma-survival-doubled-with-vitamin-d-binding-protein-polymorphism.html</guid><description>&lt;h4 id="genetic-variants-in-the-vitamin-d-pathway-genes-vdbp-and-rxra-modulate-cutaneous-melanoma-disease-specific-survival">Genetic Variants in the Vitamin D Pathway Genes VDBP and RXRA Modulate Cutaneous Melanoma Disease-Specific Survival.&lt;/h4>
+&lt;p>Pigment Cell Melanoma Res. 2015 Nov 17. &lt;a href="https://doi.org/10.1111/pcmr.12437.">doi: 10.1111/pcmr.12437.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Yin J1,2,3,4, Liu H2,3, Yi X2,3, Wu W5, Amos CI6, Fang S7, Lee JE7, Han J5,8, Wei Q2,3.&lt;/p>
+&lt;p>1Department of Epidemiology, School of Public Health, Medical College of Soochow University, 199 Ren-ai Road Industrial Park District, Suzhou, China.&lt;/p>
+&lt;p>2Duke Cancer Institute, Duke University Medical Center, Durham, NC 27710, USA.&lt;/p></description></item><item><title>Skin Cancer (SCC) minimized if get sun time around noon</title><link>/posts/skin-cancer-scc-minimized-if-get-sun-time-around-noon.html</link><pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/skin-cancer-scc-minimized-if-get-sun-time-around-noon.html</guid><description>&lt;h4 id="daily-seasonal-and-latitudinal-variations-in-solar-ultraviolet-a-and-b-radiation-in-relation-to-vitamin-d-production-and-risk-for-skin-cancer">Daily, seasonal, and latitudinal variations in solar ultraviolet A and B radiation in relation to vitamin D production and risk for skin cancer.&lt;/h4>
+&lt;p>Int J Dermatol. 2015 Nov 6. &lt;a href="https://doi.org/10.1111/ijd.13065.">doi: 10.1111/ijd.13065.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Grigalavicius M1, Moan J1,2, Dahlback A2, Juzeniene A1.&lt;/p>
+&lt;p>1 Department of Radiation Biology, Institute for Cancer Research, Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway.&lt;/p>
+&lt;p>2 Institute of Physics, University of Oslo, Oslo, Norway.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Solar ultraviolet (UV) radiation varies with latitude, time of day, and season. Both spectral UV composition and ambient UV dose lead to different health outcomes at different latitudes. Finding the optimal time for sun exposure, whereby the positive effects of UV exposure (vitamin D) are facilitated and the negative effects (skin cancer, photoimmunosuppression) avoided are the most important consideration in modern skin cancer prevention programs.&lt;/p></description></item><item><title>Alzheimer disease 5X less likely with nonmelanoma skin cancer (lots of vitamin D)</title><link>/posts/alzheimer-disease-5x-less-likely-with-nonmelanoma-skin-cancer-lots-of-vitamin-d.html</link><pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/alzheimer-disease-5x-less-likely-with-nonmelanoma-skin-cancer-lots-of-vitamin-d.html</guid><description>&lt;h3 id="nonmelanoma-skin-cancer-is-associated-with-reduced-alzheimer-disease-risk">Nonmelanoma skin cancer is associated with reduced Alzheimer disease risk&lt;/h3>
+&lt;p>Neurology 2013;80:1966–1972&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/alz-skin-cancer.jpg" alt="image">
+&lt;p>Objective: To explore the association of nonmelanoma skin cancer (NMSC) and Alzheimer disease&lt;/p>
+&lt;p>(AD) in the Einstein Aging Study, an epidemiologic study of aging in New York City.&lt;/p>
+&lt;p>Methods: Community-residing volunteers aged 70 years or older were assessed annually,&lt;/p>
+&lt;p>followed by multidisciplinary diagnostic consensus. Cancer status and type was obtained by&lt;/p>
+&lt;p>self-report. Cox proportional hazards models were used to test associations between NMSC&lt;/p></description></item><item><title>18X increased destruction of skin cancers if active vitamin D added to photodynamic therapy (mice)</title><link>/posts/18x-increased-destruction-of-skin-cancers-if-active-vitamin-d-added-to-photodynamic-therapy-mice.html</link><pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate><guid>/posts/18x-increased-destruction-of-skin-cancers-if-active-vitamin-d-added-to-photodynamic-therapy-mice.html</guid><description>&lt;h4 id="topical-calcitriol-prior-to-photodynamic-therapy-enhances-treatment-efficacy-in-non-melanoma-skin-cancer-mouse-models">Topical calcitriol prior to photodynamic therapy enhances treatment efficacy in non-melanoma skin cancer mouse models.&lt;/h4>
+&lt;p>Proc SPIE Int Soc Opt Eng. 2015 Mar 2;9308:93080Q.&lt;/p>
+&lt;p>Rollakanti K 1, Anand S 2, Maytin EV 3.&lt;/p>
+&lt;p>1Department of Chemical and Biomedical Engineering, Cleveland State University, 2121 Euclid Avenue, Cleveland, OH, USA 44115 ; Department of Biomedical Engineering, Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH, USA 44195.&lt;/p>
+&lt;p>2Department of Biomedical Engineering, Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH, USA 44195 ; Department of Dermatology, Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH, USA 44195.&lt;/p></description></item><item><title>UV – adverse and beneficial effects – review</title><link>/posts/uv-adverse-and-beneficial-effects-review.html</link><pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/uv-adverse-and-beneficial-effects-review.html</guid><description>&lt;h4 id="the-consequences-for-human-health-of-stratospheric-ozone-depletion-in-association-with-other-environmental-factors">The consequences for human health of stratospheric ozone depletion in association with other environmental factors.&lt;/h4>
+&lt;p>Photochem Photobiol Sci. 2014 Nov 10. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Lucas RM1, Norval M, Neale RE, Young AR, de Gruijl FR, Takizawa Y, van der Leun JC.&lt;/p>
+&lt;p>Author information&lt;/p>
+&lt;p>1National Centre for Epidemiology and Population Health, The Australian National University, Canberra 2601, Australia. &lt;a href="mailto:robyn.lucas@anu.edu.au">robyn.lucas@anu.edu.au&lt;/a>.&lt;/p>
+&lt;p>Due to the implementation of the Montreal Protocol, which has limited, and is now probably reversing, the depletion of the stratospheric ozone layer, only modest increases in solar UV-B radiation at the surface of the Earth have occurred.&lt;/p></description></item><item><title>Will vitamin D loading dose and 50,000 IU monthly will help after melanoma surgery</title><link>/posts/will-vitamin-d-loading-dose-and-50000-iu-monthly-will-help-after-melanoma-surgery.html</link><pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate><guid>/posts/will-vitamin-d-loading-dose-and-50000-iu-monthly-will-help-after-melanoma-surgery.html</guid><description>&lt;h4 id="adjuvant-therapy-with-high-dose-vitamin-d-following-primary-treatment-of-melanoma-at-high-risk-of-recurrence-a-placebo-controlled-randomised-phase-ii-trial-anzmtg-0209-mel-d">Adjuvant therapy with high dose vitamin D following primary treatment of melanoma at high risk of recurrence: a placebo controlled randomised phase II trial (ANZMTG 02.09 Mel-D)&lt;/h4>
+&lt;p>BMC Cancer 2014, 14:780 doi:10.1186/1471-2407-14-780, Published: 24 October 2014&lt;/p>
+&lt;p>Robyn PM Saw, Bruce K Armstrong, Rebecca S Mason, Rachael L Morton, Kerwin F Shannon, Andrew J Spillane, Jonathan R Stretch and John F Thompson&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:>75%">
+&lt;p>500,000 IU loading dose is about right&lt;/p>
+&lt;p>50,000 IU monthly proposed is probably to small, except for the participants who are slim.&lt;/p></description></item><item><title>Thin epidermis under skin cancer was thickened when vitamin D was raised to 70 ng</title><link>/posts/thin-epidermis-under-skin-cancer-was-thickened-when-vitamin-d-was-raised-to-70-ng.html</link><pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate><guid>/posts/thin-epidermis-under-skin-cancer-was-thickened-when-vitamin-d-was-raised-to-70-ng.html</guid><description>&lt;h4 id="pilot-study-on-the-bioactivity-of-vitamin-d-in-the-skin-after-oral-supplementation">Pilot study on the bioactivity of vitamin D in the skin after oral supplementation&lt;/h4>
+&lt;p>Proceedings: AACR Annual Meeting 2014; April 5-9, 2014; San Diego, CA&lt;/p>
+&lt;p>Clara Curiel-Lewandrowski1, Jean Tang2, Janine Einspahr1, Yira Bermudez1, Chiu-Hsieh Hsu3, Melika Rezaee2, Alex Lee2, Joe Tangrea4, Howard Parnes4, David Alberts1, and H-H. Sherry Chow1&lt;/p>
+&lt;p>1University of Arizona Cancer Center, Tucson, AZ;&lt;/p>
+&lt;p>2Stanford University, Stanford, CA;&lt;/p>
+&lt;p>3University of Arizona, Tucson, AZ;&lt;/p>
+&lt;p>4National Cancer Institute, Bethesda, MD.&lt;/p></description></item><item><title>Egg-white omelets are now so 1995 – When will excessive sunscreen be so 2010</title><link>/posts/egg-white-omelets-are-now-so-1995-when-will-excessive-sunscreen-be-so-2010.html</link><pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/egg-white-omelets-are-now-so-1995-when-will-excessive-sunscreen-be-so-2010.html</guid><description>&lt;h3 id="does-avoiding-the-sun-shorten-your-lifespanhttpchriskressercomdoes-avoiding-the-sun-shorten-your-lifespan-c-kressler-aug-2014">&lt;a href="http://chriskresser.com/does-avoiding-the-sun-shorten-your-lifespan">Does Avoiding The Sun Shorten Your Lifespan?&lt;/a> C Kressler Aug 2014&lt;/h3>
+&lt;h4 id="his-post-starts-with">His post starts with:&lt;/h4>
+&lt;p>A few weeks ago I was at a conference in Tuscon, Arizona. Two things really surprised me while I was there. First, quite a few people ordered egg-white omelets for breakfast. Huh? Didn’t they get the memo that dietary cholesterol doesn’t increase the risk of heart disease, or even raise blood cholesterol levels? &lt;strong>Egg-white omelets are so 1995!&lt;/strong>&lt;/p></description></item><item><title>Melanoma huge increase - perhaps due to use of sunscreen or lower vitamin D</title><link>/posts/melanoma-huge-increase-perhaps-due-to-use-of-sunscreen-or-lower-vitamin-d.html</link><pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/melanoma-huge-increase-perhaps-due-to-use-of-sunscreen-or-lower-vitamin-d.html</guid><description>&lt;h3 id="melanoma--epidemiology-genetics-and-risk-factors">Melanoma — Epidemiology, Genetics and Risk Factors&lt;/h3>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF 1st chapter of book is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://www.intechopen.com/books/recent-advances-in-the-biology-therapy-and-management-of-melanoma">Entire Book – free&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>While squamous cell carcinoma of the skin has been closely associated with long term occupational exposure to the sun, risk of developing melanoma seems to be more associated with intermittent, high intensity sun exposure (MacKie and Aitchison, 1982; Lew et al., 1983)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Various epidemiologic studies support the finding that the number of severe sunburns and total childhood sun exposure are positively associated with the development of melanoma (Holman et al., 1986; Scotto and Fears, 1987; Cust et al., 2011; Newton-Bishop et al., 2011; Volkovova et al., 2012)&lt;/p></description></item><item><title>Melanoma REDUCED by those getting the most UV, unless 5 blistering sunburns while in teen years</title><link>/posts/melanoma-reduced-by-those-getting-the-most-uv-unless-5-blistering-sunburns-while-in-teen-years.html</link><pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate><guid>/posts/melanoma-reduced-by-those-getting-the-most-uv-unless-5-blistering-sunburns-while-in-teen-years.html</guid><description>&lt;h4 id="long-term-ultraviolet-flux-other-potential-risk-factors-and-skin-cancer-risk-a-cohort-study">Long-term Ultraviolet Flux, Other Potential Risk Factors, and Skin Cancer Risk: A Cohort Study&lt;/h4>
+&lt;p>Cancer Epidemiol Biomarkers Prev; 23(6); 1080–9. ©2014 AACR.&lt;/p>
+&lt;p>Shaowei Wu1,2, Jiali Han1,2,3,5, Francine Laden2,3,4, and Abrar A. Qureshi1,2,6 &lt;a href="mailto:abrar_qureshi@brown.edu">abrar_qureshi@brown.edu&lt;/a>&lt;/p>
+&lt;p>1Department of Dermatology; 2Channing Division of Network Medicine, Department of Medicine, Brigham and Women&amp;rsquo;s Hospital and Harvard Medical School; Departments of 3Epidemiology and 4Environmental Health, Harvard School of Public Health, Boston, Massachusetts; 5Department of Epidemiology, Fairbanks School of Public Health, Simon Cancer Center, Indiana University, Indianapolis, Indiana; and 6Department of Dermatology, Warren Alpert Medical School, Brown University, Providence, Rhode Island&lt;/p></description></item><item><title>Death from melanoma (without ulcers) greatly decreased if have lots of vitamin D receptors</title><link>/posts/death-from-melanoma-without-ulcers-greatly-decreased-if-have-lots-of-vitamin-d-receptors.html</link><pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate><guid>/posts/death-from-melanoma-without-ulcers-greatly-decreased-if-have-lots-of-vitamin-d-receptors.html</guid><description>&lt;h3 id="decreased-vdr-expression-in-cutaneous-melanomas-as-marker-of-tumor-progression-new-data-and-analyses">Decreased VDR Expression in Cutaneous Melanomas as Marker of Tumor Progression: New Data and Analyses&lt;/h3>
+&lt;p>ANNA A. BROŻYNA1⇑, WOJCIECH JÓŹWICKI1 and ANDRZEJ T. SLOMINSKI2,3⇑&lt;/p>
+&lt;p>1Department of Tumor Pathology and Pathomorphology, Oncology Centre, Prof. Franciszek Łukaszczyk Memorial Hospital, The Ludwik Rydygier Collegium Medicum, Nicolaus Copernicus University, Bydgoszcz, Poland&lt;/p>
+&lt;p>2Department of Pathology and Laboratory Medicine, University of Tennessee Health Science Center, Memphis, TN, U.S.A.&lt;/p>
+&lt;p>3Division of Dermatology, Department of Medicine, University of Tennessee Health Science Center, Memphis, TN, U.S.A.&lt;/p></description></item><item><title>Melanoma risk 2X to 4X higher if Vitamin D receptor genes had morphed</title><link>/posts/melanoma-risk-2x-to-4x-higher-if-vitamin-d-receptor-genes-had-morphed.html</link><pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/melanoma-risk-2x-to-4x-higher-if-vitamin-d-receptor-genes-had-morphed.html</guid><description>&lt;h3 id="melanoma-risk-is-associated-with-vitamin-d-receptor-gene-polymorphisms">Melanoma risk is associated with vitamin D receptor gene polymorphisms&lt;/h3>
+&lt;p>Melanoma Res. 2014 Mar 14. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Zeljic K, Kandolf-Sekulovic L, Supic G, Pejovic J, Novakovic M, Mijuskovic Z, Magic Z.&lt;/p>
+&lt;p>aLaboratory for Molecular Genetics, Institute for Medical Research&lt;/p>
+&lt;p>bClinic for Dermatovenereology&lt;/p>
+&lt;p>cCenter for Biochemistry&lt;/p>
+&lt;p>dClinic for Plastic Surgery and Burns, Military Medical Academy&lt;/p>
+&lt;p>eFaculty of Medicine, Military Medical Academy, University of Defense&lt;/p>
+&lt;p>fDepartment of Genetics and Evolution, Faculty of Biology, University of Belgrade, Belgrade, Serbia.&lt;/p></description></item><item><title>Nonmelanoma skin cancer IS associated with increased risk of other cancers</title><link>/posts/nonmelanoma-skin-cancer-is-associated-with-increased-risk-of-other-cancers.html</link><pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/nonmelanoma-skin-cancer-is-associated-with-increased-risk-of-other-cancers.html</guid><description>&lt;h3 id="is-a-personal-history-of-nonmelanoma-skin-cancer-associated-with-increased-or-decreased-risk-of-other-cancers">Is a personal history of nonmelanoma skin cancer associated with increased or decreased risk of other cancers?&lt;/h3>
+&lt;p>Cancer Epidemiol Biomarkers Prev. 2014 Mar;23(3):433-6. &lt;a href="https://doi.org/10.1158/1055-9965.EPI-13-1309.">doi: 10.1158/1055-9965.EPI-13-1309.&lt;/a>&lt;/p>
+&lt;p>Alberg AJ 1, Fischer AH.&lt;/p>
+&lt;p>1Authors&amp;rsquo; Affiliations: Hollings Cancer Center and Department of Public Health Sciences, Medical University of South Carolina, Charleston, South Carolina; and Johns Hopkins University School of Medicine, Baltimore, Maryland.&lt;/p>
+&lt;p>Two conflicting hypotheses have been tested concerning the association between a personal history of nonmelanoma skin cancer (NMSC) and risk of other malignancies. One hypothesis is that as a marker of extensive sunlight exposure and hence vitamin D status, NMSC should be inversely associated with risk of other cancers. Alternatively, under the multiple primary cancer model, NMSC is postulated to be an informative first cancer to study as a marker of increased risk of subsequent primary cancer diagnoses. In this journal issue, Ong and colleagues report the results of a large-scale study in the United Kingdom with findings that NMSC was significantly associated with increased risk of a broad spectrum of other malignancies, with the associations stronger the younger the age of onset of NMSC. These results are consistent with the larger body of evidence on this topic, which is highly asymmetrical in favor of the multiple primary cancer hypothesis.&lt;/p></description></item><item><title>Hypothesis - Dark skin evolved to avoid skin cancer</title><link>/posts/hypothesis-dark-skin-evolved-to-avoid-skin-cancer.html</link><pubDate>Sun, 02 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/hypothesis-dark-skin-evolved-to-avoid-skin-cancer.html</guid><description>&lt;h3 id="was-skin-cancer-a-selective-force-for-black-pigmentation-in-early-hominin-evolution">Was skin cancer a selective force for black pigmentation in early hominin evolution?&lt;/h3>
+&lt;p>Proc. R. Soc. B 2014 281, 20132955&lt;/p>
+&lt;p>Mel Greaves &lt;a href="mailto:mel.greaves@icr.ac.uk">mel.greaves@icr.ac.uk&lt;/a>&lt;/p>
+&lt;p>Centre for Evolution and Cancer, Division of Molecular Pathology, Institute of Cancer Research, Brookes Lawley Building, 15 Cotswold Road, Sutton, Surrey SM2 5NG, UK&lt;/p>
+&lt;p>Melanin provides a crucial filter for solar UV radiation and its genetically determined variation influences both skin pigmentation and risk of cancer. Genetic evidence suggests that the acquisition of a highly stable melanocortin 1 receptor allele promoting black pigmentation arose around the time of savannah colonization by hominins at some 1-2 Ma. The adaptive significance of dark skin is generallybelievedtobeprotectionfromUVdamagebut thepathologies that might have had a deleterious impact on survival and/or reproductive fitness, though much debated, are uncertain. Here, I suggest that data on age-associated cancer incidence and lethality in albinos living at low latitudes in both Africa and Central America support the contention that skin cancer could have provided a potent selective force for the emergence of black skin in early hominins.&lt;/p></description></item><item><title>Vitamin D looks promising for head and neck squamous cell cancers</title><link>/posts/vitamin-d-looks-promising-for-head-and-neck-squamous-cell-cancers.html</link><pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-looks-promising-for-head-and-neck-squamous-cell-cancers.html</guid><description>&lt;h3 id="immune-regulatory-activity-of-vitamin-d3-in-head-and-neck-cancer">Immune regulatory activity of vitamin d3 in head and neck cancer.&lt;/h3>
+&lt;p>Cancers (Basel). 2013 Aug 14;5(3):1072-85. &lt;a href="https://doi.org/10.3390/cancers5031072.">doi: 10.3390/cancers5031072.&lt;/a>&lt;/p>
+&lt;p>Young MR, Day TA.&lt;/p>
+&lt;p>While vitamin D exhibits a multitude of cellular effects that can impact on cancer development and progression, this review focuses on its immune modulatory effects. These immune modulatory effects can be both direct and indirect. Compared to other cancer types, head and neck squamous cell carcinomas (HNSCC) have received less attention, but are a fascination immunologically because of the profound extent to which they inhibit immune defenses. This review describes the mechanisms of some of these immune inhibitory processes and how vitamin D can help overcome aspects of this immune suppression.&lt;/p></description></item><item><title>Decreased risk of non-melanoma skin cancer by working outdoors in Europe</title><link>/posts/decreased-risk-of-non-melanoma-skin-cancer-by-working-outdoors-in-europe.html</link><pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/decreased-risk-of-non-melanoma-skin-cancer-by-working-outdoors-in-europe.html</guid><description>&lt;h3 id="occupational-exposure-to-ultraviolet-radiation-and-risk-of-non-melanoma-skin-cancer-in-a-multinational-european-study">Occupational Exposure to Ultraviolet Radiation and Risk of Non-Melanoma Skin Cancer in a Multinational European Study&lt;/h3>
+&lt;p>PLoS ONE 8(4): e62359. doi:10.1371/journal.pone.0062359&lt;/p>
+&lt;p>Simona Surdu1,2,3 &lt;a href="mailto:ssurdu@albany.edu">ssurdu@albany.edu&lt;/a>, Edward F. Fitzgerald1,2, Michael S. Bloom1,2,3, Francis P. Boscoe2,4, David O. Carpenter1,3, Richard F. Haase3,5, Eugen Gurzau6, Peter Rudnai7, Kvetoslava Koppova8, Joelle Fevotte9, Giovanni Leonardi10,11, Marie Vahter12, Walter Goessler13, Rajiv Kumar14, Tony Fletcher10&lt;/p>
+&lt;p>1 Department of Environmental Health Sciences, School of Public Health, University at Albany, State University of New York, Rensselaer, New York, United States of America,&lt;/p></description></item><item><title>UV and Melanoma: are they related – 2013</title><link>/posts/uv-and-melanoma-are-they-related-2013.html</link><pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/uv-and-melanoma-are-they-related-2013.html</guid><description>&lt;h3 id="uv-radiation-and-cutaneous-malignant-melanoma">UV RADIATION AND CUTANEOUS MALIGNANT MELANOMA&lt;/h3>
+&lt;p>&lt;strong>Chapter from book: Sunlight, Vitamin D and Skin Cancer, Second Edition, edited by Jörg Reichrath&lt;/strong>&lt;/p>
+&lt;p>Johan Emilian Moan,*1,2 Zivile Baturaite,1 Arne Dahlback2 and Alina Carmen Porojnicu1&lt;/p>
+&lt;p>lDepartment of Radiation Biology, Institute for Cáncer Research, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway; 2Institute of Physics, University of Oslo, Oslo, Norway. *Corresponding Author: Johan EmilianMoan—Email: &lt;a href="mailto:j.e.moan@fys.uio.no">j.e.moan@fys.uio.no&lt;/a>&lt;/p>
+&lt;p>Abstract:&lt;/p>
+&lt;p>Essential features of the epidemiology and photobiology of cutaneous malignant melanoma (CMM) in Norway were studied in comparison with data from countries at lower latitudes. Arguments for and against a relationship between UV radiation (UV) from sun and artificial light and CMM are discussed. Our data indícate that UV is a carcinogen for CMM and that intermittent exposures are notably melanomagenic. This hypothesis was supported both by latitude gradients, by time trends and by changing patterns of tumor density on different body localizations. However, even though UV radiation generates CMM, it may also have a protective action and/or an action that improves prognosis.&lt;/p></description></item><item><title>Skin cancer increases other cancers (low-vitamin D)</title><link>/posts/skin-cancer-increases-other-cancers-low-vitamin-d.html</link><pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/skin-cancer-increases-other-cancers-low-vitamin-d.html</guid><description>&lt;h2 id="skin-cancer-may-increase-subsequent-primary-malignancy-riskhttpdrkenboakewordpresscomtagvitamin-d20-dr-boake">&lt;a href="http://drkenboake.wordpress.com/tag/vitamin-d/%20">Skin cancer may increase subsequent primary malignancy risk&lt;/a> Dr. Boake&lt;/h2>
+&lt;p>Research suggests that people with non-melanoma skin cancer (NMSC) are at moderately increased risk for developing other primary malignancies in the future, particularly breast and lung cancer and melanoma.&lt;/p>
+&lt;p>Vitamin D was not mentioned&lt;/p></description></item><item><title>Vitamin D receptor may suppress skin cancer</title><link>/posts/vitamin-d-receptor-may-suppress-skin-cancer.html</link><pubDate>Sat, 14 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-receptor-may-suppress-skin-cancer.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#the-vitamin-d-receptor-a-tumor-suppressor-in-skin">THE VITAMIN D RECEPTOR: A Tumor Suppressor in Skin&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#introduction">introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-metabolism">vitamin d metabolism&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-receptor-mechanism-of-action">VITAMIN D RECEpTOR: MECHANISM OF ACTION&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mechanisms-of-tumor-suppression-by-vitamin-d-general">MECHANISMS Of TUMOR SUppRESSION By VITAMIN D: GENERAL&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cell-cycle-regulation">Cell Cycle Regulation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#growth-factors">Growth Factors&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#apoptosis">Apoptosis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#oxidative-stress">Oxidative Stress&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#prostaglandins">Prostaglandins&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#angiogenesis">Angiogenesis&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#immune-system">Immune System&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mechanisms-of-tumor-suppression-by-125oh2dvdr-in-the-epidermis">MECHANISMS OF TUMOR SUppRESSION By 1,25(OH)2D/VDR IN THE EpiDERMIS&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-regulation-of-epidermal-proliferation-and-differentiation">Vitamin D Regulation of Epidermal proliferation and Differentiation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-regulation-of-immune-function-in-the-skin">Vitamin D Regulation of Immune Function in the Skin&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-regulation-of-the-dna-damage-response">Vitamin D Regulation of the DNA Damage Response&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>This is a chapter in Sunlight, Vitamin D and Skin Cancer, Second Edition, edited by Jörg reichrath.&lt;/p></description></item><item><title>Melanoma is 44 percent LESS LIKELY if get sun on the job</title><link>/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job.html</link><pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job.html</guid><description>&lt;h3 id="occupational-sun-exposure-and-risk-of-melanoma-according-to-anatomical-site">Occupational sun exposure and risk of melanoma according to anatomical site&lt;/h3>
+&lt;p>International Journal of Cancer, Article first published online: 29 NOV 2013. DOI: 10.1002/ijc.28603&lt;/p>
+&lt;p>Kylie Vuong1,*,&lt;/p>
+&lt;p>Kevin McGeechan2,&lt;/p>
+&lt;p>Bruce K. Armstrong1,&lt;/p>
+&lt;p>AMFS Investigators†,&lt;/p>
+&lt;p>GEM Investigators‡,&lt;/p>
+&lt;p>Anne E. Cust1&lt;/p>
+&lt;p>1 Cancer Epidemiology and Services Research, Sydney School of Public Health, University of Sydney, NSW, Australia&lt;/p>
+&lt;p>2 Sydney School of Public Health, University of Sydney, NSW, Australia&lt;/p>
+&lt;p>† AMFS Investigators: Graham J. Mann, Joanne F. Aitken, Graham G. Giles, Richard F. Kefford, Bruce K. Armstrong, John L. Hopper, Helen Schmid, Elizabeth A. Holland, Mark A. Jenkins, Anne E. Cust.&lt;/p></description></item><item><title>UV Radiation and the Skin</title><link>/posts/uv-radiation-and-the-skin.html</link><pubDate>Thu, 28 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/uv-radiation-and-the-skin.html</guid><description>&lt;p>Int. J. Mol. Sci. 2013, 14(6), 12222-12248; doi:10.3390/ijms140612222&lt;/p>
+&lt;p>John D&amp;rsquo;Orazio 1,* , Stuart Jarrett 2, Alexandra Amaro-Ortiz 3 and Timothy Scott 3&lt;/p>
+&lt;p>1 Graduate Center for Toxicology and the Departments of Pediatrics, Biomedical and Molecular Pharmacology and Physiology, Markey Cancer Center, University of Kentucky College of Medicine, 800 Rose Street, Lexington, KY 40536, USA 2 Markey Cancer Center, University of Kentucky College of Medicine, 800 Rose Street, Lexington, KY 40536, USA 3 Graduate Center for Toxicology, University of Kentucky College of Medicine, 800 Rose Street, Lexington, KY 40536, USA&lt;/p></description></item><item><title>Melanoma not as thick if recently had a sunny vacation</title><link>/posts/melanoma-not-as-thick-if-recently-had-a-sunny-vacation.html</link><pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/melanoma-not-as-thick-if-recently-had-a-sunny-vacation.html</guid><description>&lt;h3 id="sunny-holidays-before-and-after-melanoma-diagnosis-are-respectively-associated-with-lower-breslow-thickness-and-lower-relapse-rates-in-italy">Sunny Holidays before and after Melanoma Diagnosis Are Respectively Associated with Lower Breslow Thickness and Lower Relapse Rates in Italy.&lt;/h3>
+&lt;p>PLoS One. 2013 Nov 4;8(11):e78820. &lt;a href="https://doi.org/10.1371/journal.pone.0078820.">doi: 10.1371/journal.pone.0078820.&lt;/a>&lt;/p>
+&lt;p>Gandini S, De Vries E, Tosti G, Botteri E, Spadola G, Maisonneuve P, Martinoli C, Joosse A, Ferrucci PF, Baldini F, Cocorocchio E, Pennacchioli E, Cataldo F, Bazolli B, Clerici A, Barberis M, Bataille V, Testori A.&lt;/p>
+&lt;p>Division of Epidemiology and Biostatistics, European Institute of Oncology, Milan, Italy.&lt;/p></description></item><item><title>Skin cancer risk and vitamin D from sun both decrease with darker skin</title><link>/posts/skin-cancer-risk-and-vitamin-d-from-sun-both-decrease-with-darker-skin.html</link><pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/skin-cancer-risk-and-vitamin-d-from-sun-both-decrease-with-darker-skin.html</guid><description>&lt;h2 id="north-south-gradients-of-melanomas-and-non-melanomas-a-role-of-vitamin-d">North-South gradients of melanomas and non-melanomas: A role of vitamin D?&lt;/h2>
+&lt;p>Johan Moan, 1,2; Mantas Grigalavicius,1, Zivile Baturaite, 1; Asta Juzeniene 1; and Arne Dahlback 2&lt;/p>
+&lt;p>1 Department of Radiation Biology; Institute for Cancer Research; oslo, Norway;&lt;/p>
+&lt;p>2 Department of physics; University of oslo; oslo, Norway&lt;/p>
+&lt;p>Incidence rates of skin cancer increase with decreasing latitude in Norway, as in many other countries with white populations. The latitudinal trends of the incidence rates of skin cancer were studied and compared with data for vitamin D-induced by UV and for vitamin D intake. The north-south gradient for CMM incidence rates on sun exposed skin is much smaller than those for BCC and SCC, and that for BCC is smaller than that for SCC. This indicates that SCC and BCC are mainly due to solar UVB, while UVA may play a significant role for CMM and a smaller role for BCC, since the north-south gradient of annual UVB fluences is larger than that of UVA fluences. However, there is an inverse latitudinal gradient of skin cancer in central Europe. This is probably due to a gradient of skin color, since white skin is an important determinant of increased risk of skin cancer. The role of vitamin D for skin cancer risk is difficult to evaluate, since serum levels of 25-hydroxyvitamin D, as well as vitamin D intakes, are widely different from country to country. Still, epidemiological evidence indicates a role: for melanomas arising on non-sun exposed body localizations (uveal melanomas, melanomas arising in the vulva and perianal/anorectal regions) there appears to be no latitudinal gradient, or, a negative gradient, i.e., increasing rates with decreasing latitude as would be expected if UV-generated vitamin D plays a protective role. Both skin cancer risk and vitamin D photosynthesis decrease with increasing skin darkness.&lt;/p></description></item><item><title>Prostate Cancer increased melanoma rate by 2X (vitamin D not mentioned)</title><link>/posts/prostate-cancer-increased-melanoma-rate-by-2x-vitamin-d-not-mentioned.html</link><pubDate>Sat, 09 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/prostate-cancer-increased-melanoma-rate-by-2x-vitamin-d-not-mentioned.html</guid><description>&lt;h3 id="personal-history-of-prostate-cancer-and-increased-risk-of-incident-melanoma-in-the-united-states">Personal History of Prostate Cancer and Increased Risk of Incident Melanoma in the United States&lt;/h3>
+&lt;p>Journal of Clinical Oncology November 4, 2013, &lt;a href="https://doi.org/10.1200/JCO.2013.51.1915">doi: 10.1200/JCO.2013.51.1915&lt;/a>&lt;/p>
+&lt;p>Wen-Qing Li, Abrar A. Qureshi, Jing Ma, Alisa M. Goldstein, Edward L. Giovannucci, Meir J. Stampfer and Jiali Han⇑&lt;/p>
+&lt;p>Wen-Qing Li and Alisa M. Goldstein, National Cancer Institute, National Institutes of Health, Rockville, MD; Wen-Qing Li, Abrar A. Qureshi, Jing Ma, Edward L. Giovannucci, Meir J. Stampfer, and Jiali Han, Brigham and Women’s Hospital, Harvard Medical School; Edward L. Giovannucci and Meir J. Stampfer, Harvard School of Public Health, Boston, MA; Jiali Han, Richard M. Fairbanks School of Public Health, Simon Cancer Center, Indiana University, Indianapolis, IN; and Jiali Han, Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.&lt;/p></description></item><item><title>The Protective Role of Vitamin D Signaling in Non-Melanoma Skin Cancer</title><link>/posts/the-protective-role-of-vitamin-d-signaling-in-non-melanoma-skin-cancer.html</link><pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/the-protective-role-of-vitamin-d-signaling-in-non-melanoma-skin-cancer.html</guid><description>&lt;p>Cancers 2013, 5(4), 1426-1438; doi:10.3390/cancers5041426&lt;/p>
+&lt;p>Daniel D. Bikle &lt;a href="mailto:daniel.bikle@ucsf.edu">daniel.bikle@ucsf.edu&lt;/a>; and Yan Jiang&lt;/p>
+&lt;p>Department of Medicine and Endocrine, Research Unit and Department of Dermatology, VA Medical Center, University of California San Francisco, 4150 Clement St (111N), San Francisco, CA 94121, USA&lt;/p>
+&lt;p>Received: 2 September 2013; in revised form: 18 September 2013 / Accepted: 30 September 2013 / Published: 5 November 2013&lt;/p>
+&lt;p>Although the epidemiologic evidence that adequate vitamin D nutrition protects against non-melanoma skin cancer (NMSC) is limited, recent evidence that the vitamin D receptor (VDR) is protective is compelling. The role of vitamin D signaling in limiting the proliferation while promoting the differentiation of keratinocytes, the major cell in the epidermis from which NMSC are derived, is well known. However, recent findings that mice lacking the VDR are predisposed to skin cancer has brought to the fore the question of how the VDR is protective. In this review we will look first at the role of vitamin D signaling in regulating the proliferation and differentiation of keratinocytes. We will examine two pathways, β-catenin (CTNNB) and hedgehog (HH), that are regulated by vitamin D signaling and may contribute to the dysregulated proliferation and differentiation in the absence of VDR. We will then examine the failure of VDR deficient keratinocytes to repair DNA damaged by UVB. Finally we will examine the change in long non-coding RNA (LncRNA) expression in VDR null keratinocytes that in other cells is associated with malignant transformation, a potential newly appreciated mechanism by which vitamin D signaling is protective against NMSC.&lt;/p></description></item><item><title>Molecular Link between Vitamin D and Cancer Prevention</title><link>/posts/molecular-link-between-vitamin-d-and-cancer-prevention.html</link><pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/molecular-link-between-vitamin-d-and-cancer-prevention.html</guid><description>&lt;p>Nutrients 2013, 5(10), 3993-4021; doi:10.3390/nu5103993&lt;/p>
+&lt;p>Meis Moukayed 1email and William B. Grant 2,* email&lt;/p>
+&lt;p>1 School of Arts and Sciences, American University in Dubai, P. O. Box 28282, Dubai, UAE&lt;/p>
+&lt;p>2 Sunlight, Nutrition, and Health Research Center, San Francisco, CA 94164-1603, USA&lt;/p>
+&lt;ul>
+&lt;li>Author to whom correspondence should be addressed.&lt;/li>
+&lt;/ul>
+&lt;p>Received: 7 August 2013; in revised form: 11 September 2013 / Accepted: 18 September 2013 / Published: 30 September 2013&lt;/p>
+&lt;p>(This article belongs to the Special Issue Vitamin D and Human Health)&lt;/p></description></item><item><title>Squamous cell cancers of head and neck, vitamin D, and the immune system</title><link>/posts/squamous-cell-cancers-of-head-and-neck-vitamin-d-and-the-immune-system.html</link><pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/squamous-cell-cancers-of-head-and-neck-vitamin-d-and-the-immune-system.html</guid><description>&lt;h4 id="immune-regulatory-activity-of-vitamin-d3-in-head-and-neck-cancer--review">Immune Regulatory Activity of Vitamin D3 in Head and Neck Cancer – Review&lt;/h4>
+&lt;p>Cancers 2013, 5(3), 1072-1085; doi:10.3390/cancers5031072&lt;/p>
+&lt;p>M. Rita I. Young 1,2,3, &lt;a href="mailto:rita.young@va.gov">rita.young@va.gov&lt;/a> and Terry A. Day 2&lt;/p>
+&lt;p>1 Research Service, Ralph H. Johnson VA Medical Center, 109 Bee Street, Charleston, SC 29401, USA&lt;/p>
+&lt;p>2 Department of Otolaryngology—Head and Neck Surgery, Medical University of South Carolina, 135 Rutledge Avenue, Charleston, SC 29425, USA&lt;/p>
+&lt;p>3 Department of Medicine, Division of Hematology/Oncology, Medical University of South Carolina, 96 Jonathan Lucas Street, Charleston, SC 29425, USA&lt;/p></description></item><item><title>Melanoma and Vitamin D - association is not certain - 2012</title><link>/posts/melanoma-and-vitamin-d-association-is-not-certain-2012.html</link><pubDate>Sun, 14 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/melanoma-and-vitamin-d-association-is-not-certain-2012.html</guid><description>&lt;h2 id="vitamin-d-and-melanoma-incidence-and-mortality">Vitamin D and melanoma incidence and mortality.&lt;/h2>
+&lt;p>Pigment Cell Melanoma Res. 2013 Jan;26(1):9-15. &lt;a href="https://doi.org/10.1111/pcmr.12015.">doi: 10.1111/pcmr.12015.&lt;/a> Epub 2012 Oct 24.&lt;/p>
+&lt;p>Berwick M, Erdei EO.&lt;/p>
+&lt;p>Division of Epidemiology, Biostatistics and Preventive Medicine, Department of Internal Medicine, University of New Mexico Cancer Center, Albuquerque, NM, USA. &lt;a href="mailto:mberwick@salud.unm.edu">mberwick@salud.unm.edu&lt;/a>&lt;/p>
+&lt;p>The role of vitamin D (25-OH-D, or 25-hydroxyvitamin D) and its potential confounders in relationship to melanoma risk and mortality is discussed. The paradox that ultraviolet radiation (UVR) exposure is the major environmental risk factor for melanoma etiology as well as a major source of vitamin D might be explained by viewing vitamin D levels as the result of a healthy lifestyle rather than a cause of health.&lt;/p></description></item><item><title>On-job UV associated with LESS, not more, skin cancer</title><link>/posts/on-job-uv-associated-with-less-not-more-skin-cancer.html</link><pubDate>Sun, 14 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/on-job-uv-associated-with-less-not-more-skin-cancer.html</guid><description/></item><item><title>Dermatologists in Australia – Squamous cell carcinoma not a function of vitamin D</title><link>/posts/dermatologists-in-australia-squamous-cell-carcinoma-not-a-function-of-vitamin-d.html</link><pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/dermatologists-in-australia-squamous-cell-carcinoma-not-a-function-of-vitamin-d.html</guid><description>&lt;h4 id="actually-they-found-that-squamous-cell-carcinoma-50-percent-less-likely-if-the-vitamin-d-cut-point-is-30-ng-but-no-difference-if-cut-point-is-20-ng">Actually: they found that squamous cell carcinoma 50 percent LESS likely if the vitamin D cut point is 30 ng, but no difference if cut point is 20 ng&lt;/h4>
+&lt;h2 id="vitamin-d-status-and-skin-cancer-risk-span-stylecolorf00independent-of-time-outdoorsspan-11-year-prospective-study-in-an-australian-community">Vitamin D status and skin cancer risk &lt;span style="color:#F00;">independent of time outdoors&lt;/span>: 11-year prospective study in an Australian community.&lt;/h2>
+&lt;p>J Invest Dermatol. 2013 Mar;133(3):637-41. &lt;a href="https://doi.org/10.1038/jid.2012.346.">doi: 10.1038/jid.2012.346.&lt;/a> Epub 2012 Oct 18.&lt;/p>
+&lt;p>van der Pols JC, Russell A, Bauer U, Neale RE, Kimlin MG, Green AC.&lt;/p></description></item><item><title>Sunlight, Vitamin D and Skin Cancer – 2nd edition</title><link>/posts/sunlight-vitamin-d-and-skin-cancer-2nd-edition.html</link><pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/sunlight-vitamin-d-and-skin-cancer-2nd-edition.html</guid><description>&lt;p>&lt;strong>&lt;a href="http://www.amazon.com/Sunlight-Vitamin-Advances-Experimental-Medicine/dp/0387775730/ref=sr_1_1?ie=UTF8&amp;amp;qid=1366405896&amp;amp;sr=8-1&amp;amp;keywords=Sunlight%2C+Vitamin+D+and+Skin+Cancer%20">Amazon &lt;/a> 2008 edition&lt;/strong>&lt;/p>
+&lt;p>Approx $200 for entire book or you can buy individual chapters for about $20&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/skin-cancer-scc-minimized-if-get-sun-time-around-noon">Skin Cancer (SCC) minimized if get sun time around noon – Nov 2015&lt;/a> some of the same authors&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>&lt;strong>&lt;a href="http://www.landesbioscience.com/curie/chapter/5426/">CLICK HERE&lt;/a> for the website&lt;/strong>&lt;/p>
+&lt;p>The following are abstracts of many of the chapers&lt;/p></description></item><item><title>Melanoma reduces by half the amount of vitamin D activated by the skin</title><link>/posts/melanoma-reduces-by-half-the-amount-of-vitamin-d-activated-by-the-skin.html</link><pubDate>Wed, 17 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/melanoma-reduces-by-half-the-amount-of-vitamin-d-activated-by-the-skin.html</guid><description>&lt;h3 id="expression-of-the-vitamin-d-activating-enzyme-1α-hydroxylase-cyp27b1-decreases-during-melanoma-progression">Expression of the vitamin D-activating enzyme 1α-hydroxylase (CYP27B1) decreases during melanoma progression.&lt;/h3>
+&lt;p>Hum Pathol. 2013 Mar;44(3):374-87. &lt;a href="https://doi.org/10.1016/j.humpath.2012.03.031.">doi: 10.1016/j.humpath.2012.03.031.&lt;/a> Epub 2012 Sep 17.&lt;/p>
+&lt;p>Brożyna AA, Jóźwicki W, Janjetovic Z, Slominski AT &lt;a href="mailto:aslominski@uthsc.edu">aslominski@uthsc.edu&lt;/a>&lt;/p>
+&lt;p>Department of Tumor Pathology and Pathomorphology, Oncology Centre-Prof. Franciszek Łukaszczyk Memorial Hospital, The Ludwik Rydygier Collegium Medicum, Nicolaus Copernicus University, 85-796 Bydgoszcz, Poland.&lt;/p>
+&lt;p>1α-Hydroxylase (CYP27B1), the enzyme responsible for the synthesis of the biologically active form of vitamin D (1,25(OH)(2)D(3)), is expressed in the skin. To assess the correlation between progression of melanocytic tumors and CYP27B1, we analyzed its expression in 29 benign nevi, 75 primary cutaneous melanomas, 40 metastases, and 4 re-excision and 6 normal skin biopsies. Immunoreactivity for CYP27B1 was significantly lower in the vertical growth phase and metastatic melanomas (0.6 and 0.5 arbitrary units, respectively) in comparison with nevi and radial growth phase tumors (1.2 and 1.1 arbitrary units, respectively); and expression was reduced in more advanced lesions (Clark levels III-V, Breslow thickness ≥2.1 mm; 0.8 and 0.7 arbitrary units, respectively). There was an inverse correlation between CYP27B1 and Ki-67 expression. Furthermore, CYP27B1 expression was reduced in primary melanomas that created metastases in comparison with non-metastasizing melanomas. Reduced CYP27B1 expression in radial growth phase was related to shorter overall survival (810 versus 982 versus 1151 days in melanomas with absent, low, and high CYP27B1 immunoreactivity), and low CYP27B1 expression in radial growth phase and vertical growth phase was related to shorter disease-free survival (114 versus 339 versus 737 days and 129 versus 307 versus 737 days, respectively, in melanomas with absent, low, and high CYP27B1). Also, CYP27B1 expression was inversely related to melanin in melanoma cells in vivo and melanoma cells cultured in vitro. Thus, reduction of CYP27B1 correlates with melanoma phenotype and behavior, and its lack affects the survival of melanoma patients, indicating a role in the pathogenesis and progression of this cancer.&lt;/p></description></item><item><title>Merkel cell carcinoma (a rare skin cancer) recurrence 3X more likely if low vitamin D</title><link>/posts/merkel-cell-carcinoma-a-rare-skin-cancer-recurrence-3x-more-likely-if-low-vitamin-d.html</link><pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/merkel-cell-carcinoma-a-rare-skin-cancer-recurrence-3x-more-likely-if-low-vitamin-d.html</guid><description>&lt;h1 id="vitamin-d-deficiency-is-associated-with-greater-tumor-size-and-poorer-outcome-in-merkel-cell-carcinoma-patients">Vitamin D deficiency is associated with greater tumor size and poorer outcome in Merkel cell carcinoma patients&lt;/h1>
+&lt;p>Journal of the European Academy of Dermatology and Venereology&lt;/p>
+&lt;p>M. Samimi1,2,3,*, A. Touzé1,2, H. Laude4,5, E. Le Bidre3,6, F. Arnold1,2, A. Carpentier1,2,&lt;/p>
+&lt;p>C. Gardair2,7, A. Carlotti4,5, E. Maubec8, N. Dupin4,5, F. Aubin9, M.F. Avril4,5,&lt;/p>
+&lt;p>F. Rozenberg4,5, M. Avenel-Audran10, S. Guyetant2,7, G. Lorette1,2,3, L. Machet2,3, P. Coursaget1,2&lt;/p>
+&lt;p>Merkel cell polyomavirus has been recognized to be associated with Merkel cell carcinoma (MCC), but the evolution of this cancer probably depends on various factors. Vitamin D deficiency, defined by serum 25-hydroxyvitamin D levels &amp;lt;50 nmol/L, seems to influence cancer behavior and progression, but has never been assessed in MCC patients.&lt;/p></description></item><item><title>Sunshine: Dangerous or Healthy – Schachter Center 2009</title><link>/posts/sunshine-dangerous-or-healthy-schachter-center-2009.html</link><pubDate>Tue, 22 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/sunshine-dangerous-or-healthy-schachter-center-2009.html</guid><description>&lt;h1 id="sunshine-dangerous-or-healthyhttpwwwschachtercentercomsunshinehtm20-2009">&lt;a href="http://www.schachtercenter.com/sunshine.htm%20">Sunshine: Dangerous or Healthy?&lt;/a> 2009&lt;/h1>
+&lt;p>By Tom Petrie, B.S., C.D.N. of Schachter Center&lt;/p>
+&lt;p>As with so many health topics in America, the public is often misinformed. Such is the case with the &amp;ldquo;health dangers of sunshine&amp;rdquo;.&lt;/p>
+&lt;h2 id="the-dangers-of-sun-exposure">The Dangers of Sun Exposure&lt;/h2>
+&lt;p>Currently, some 600,000 new cases of skin cancer are reported every year.(1) Over the years, there have been numerous publications making the claim that sunshine exposure increases the risk of developing skin cancer as well as hastens aging of the skin. It would seem, therefore, that &amp;ldquo;avoiding the sun&amp;rdquo; would be an obvious response to this problem. It is believed that Ultraviolet A rays are the cause of hastened aging and skin cancer while the Ultraviolet B rays are the source of sunburn. The UVB rays are also the source for making Vitamin D in the skin. Melanomas are currently the tenth most common form of cancer in the U.S.&lt;/p></description></item><item><title>Most German skin cancer doctors recommend both sunscreen and vitamin D</title><link>/posts/most-german-skin-cancer-doctors-recommend-both-sunscreen-and-vitamin-d.html</link><pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/most-german-skin-cancer-doctors-recommend-both-sunscreen-and-vitamin-d.html</guid><description>&lt;h1 id="vitamin-d-supply-from-sun-or-pill-">Vitamin D supply: from sun or pill? –&lt;/h1>
+&lt;h3 id="attitudes-and-recommendation-on-vitamin-d-and-impact-on-sun-protection-practices-among-german-general-practitioners-evaluated-by-the-network-of-dermato-oncologists-onkoderm-ev">Attitudes and recommendation on vitamin D and impact on sun protection practices among German general practitioners evaluated by the network of dermato-oncologists, Onkoderm e.V.&lt;/h3>
+&lt;p>Oncol Lett. 2012 Dec;4(6):1392-1396. Epub 2012 Sep 26.&lt;/p>
+&lt;p>Reinhold U, Dirschka T, Hartgens K, Kirchesch H, Ostendorf R, Petering H, Prieur H, Krähn-Senftleben G, Malaisse WJ.&lt;/p>
+&lt;p>Department of Dermatology and Dermatological Oncology, Medical Center Bonn Friedensplatz, Bonn;&lt;/p>
+&lt;p>Recommendations concerning the intake of vitamin D and/or sunlight exposure in the handling of patients with vitamin D deficiency remain a matter of debate. The present study of the German network of dermato-oncologists (Onkoderm e.V.) refers to an inquiry conducted among general practitioners on this and related issues. Based on 448 answers provided to 10 distinct questions, the consulted physicians &lt;strong>recommended vitamin D intake (94% replies)&lt;/strong> and/or exposure to sunlight (63% replies) in their patients with vitamin D deficiency. An average of approximately 26 min daily unprotected exposure to sunlight at midday in spring and summer was recommended. Nevertheless, &lt;strong>91% of the physicians considered the use of creams protecting against sunlight to be judicious&lt;/strong> .&lt;/p></description></item><item><title>Melanoma less likely when far from equator</title><link>/posts/melanoma-less-likely-when-far-from-equator.html</link><pubDate>Fri, 07 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/melanoma-less-likely-when-far-from-equator.html</guid><description>&lt;h1 id="biologically-efficient-solar-radiation">Biologically efficient solar radiation:&lt;/h1>
+&lt;h2 id="vitamin-d-production-and-induction-of-cutaneous-malignant-melanoma">Vitamin D production and induction of cutaneous malignant melanoma&lt;/h2>
+&lt;p>&lt;a href="http://www.landesbioscience.com/journals/dermatoendocrinology/article/22941/%20">Dermato Endocrinology Volume 4, Issue 4&lt;/a> October/November/December 2012&lt;/p>
+&lt;p>Authors: Mantas Grigalavicius, Asta Juzeniene, Zivile Baturaite, Arne Dahlback and Johan Moan&lt;/p>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>Solar UV (UV) radiation is the main source of vitamin D production and is also the most important environmental risk factor for cutaneous malignant melanoma (CMM) development. In the present study the relationship between daily or seasonal UV radiation doses and vitamin D status, dietary vitamin D intake and CMM incidence rates at different geographical latitudes were investigated. South-North gradients of 25-hydroxyvitamin D (25(OH)D) generation and CMM induction were calculated, based on known action spectra, and compared with measured vitamin D levels and epidemiological data on CMM. The relative roles of UVA and UVB in CMM induction are discussed. Latitudinal dependencies of serum 25(OH)D levels and CMM incidence rates can only partly be explained by ambient UV doses. The UV sensitivity is obviously different for different populations. This is well known for CMM, but seems also to be true for vitamin D status. The fact that UV-induced vitamin D may reduce the risk of CMM complicates the discussion. To some extent high dietary vitamin D intake seems to compensate low UV doses.&lt;/p></description></item><item><title>Indoor tanning not apparently associated with skin cancer</title><link>/posts/indoor-tanning-not-apparently-associated-with-skin-cancer.html</link><pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/indoor-tanning-not-apparently-associated-with-skin-cancer.html</guid><description/></item><item><title>Risk of skin cancer vs. risk of low vitamin D</title><link>/posts/risk-of-skin-cancer-vs-risk-of-low-vitamin-d.html</link><pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/risk-of-skin-cancer-vs-risk-of-low-vitamin-d.html</guid><description/></item><item><title>Sunlight Vitamin D and Skin Cancer</title><link>/posts/sunlight-vitamin-d-and-skin-cancer.html</link><pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/sunlight-vitamin-d-and-skin-cancer.html</guid><description>&lt;p>Anti-Cancer Agents in Medicinal Chemistry Volume 13 Issue 1 pp.83-97 (15)&lt;/p>
+&lt;p>Authors: Rebecca S. Mason, Jorg Reichrath&lt;/p>
+&lt;p>Today, there is a controversial debate in many scientific and public communities on how much sunlight is appropriate to balance between the positive and negative effects of solar UV-exposure. UV exposure undoubtedly causes DNA damage of skin cells and is a major environmental risk factor for all types of skin cancers. In geographic terms, living in parts of the world with increased erythemal UV or high average annual bright sun results in increased risks of skin cancers, with the greatest increased risk for squamous cell carcinoma, followed by basal cell carcinoma and then melanoma. On the other hand, sunlight exerts positive effects on human health, that are mediated in part via UV-B-mediated cutaneous photosynthesis of vitamin D. It has been estimated that at present, approximately 1 billion people worldwide are vitamin D-deficient or –insufficient. This epidemic causes serious health problems that are still widely under-recognized. Vitamin D deficiency leads to well documented problems for bone and muscle function. There are also associations between vitamin D-deficiency and increased incidence of and/or unfavourable outcome for a broad variety of independent diseases, including various types of malignancies (e.g. colon-, skin-, and breast cancer), autoimmune diseases, infectious diseases, and cardiovascular diseases. In this review, the present literature is analyzed to summarize our present knowledge about the important relationship of sunlight, vitamin D and skin cancer.&lt;/p></description></item><item><title>Red-haired mice can get melanoma without UV</title><link>/posts/red-haired-mice-can-get-melanoma-without-uv.html</link><pubDate>Thu, 29 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/red-haired-mice-can-get-melanoma-without-uv.html</guid><description>&lt;h2 id="an-ultraviolet-radiation-independent-pathway-to-melanoma-carcinogenesis-in-the-red-hairfair-skin-background">An ultraviolet-radiation-independent pathway to melanoma carcinogenesis in the red hair/fair skin background&lt;/h2>
+&lt;p>Devarati Mitra,	 Xi Luo,	 Ann Morgan,	 Jin Wang,	 Mai P. Hoang,	 Jennifer Lo,	 Candace R. Guerrero,	 Jochen K. Lennerz,	 Martin C. Mihm,	 Jennifer A. Wargo,	 Kathleen C. Robinson, Suprabha P. Devi,	 Jillian C. Vanover,	 John A. D’Orazio,	 Martin McMahon,	 Marcus W. Bosenberg,	 Kevin M. Haigis,	 Daniel A. Haber,	 Yinsheng Wang	 &amp;amp; David E. Fisher&lt;/p>
+&lt;p>AffiliationsContributionsCorresponding author&lt;/p>
+&lt;p>&lt;a href="http://www.nature.com/nature/journal/v491/n7424/full/nature11624.html">Nature 491, 449–453 (15 November 2012) doi:10.1038/nature11624&lt;/a>&lt;/p></description></item><item><title>Cancer - Skin</title><link>/posts/cancer-skin.html</link><pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/cancer-skin.html</guid><description/></item><item><title>Vitamin D protects mouse from skin cancer</title><link>/posts/vitamin-d-protects-mouse-from-skin-cancer.html</link><pubDate>Thu, 18 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-protects-mouse-from-skin-cancer.html</guid><description/></item><item><title>Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013</title><link>/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013.html</link><pubDate>Wed, 17 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013.html</guid><description>&lt;p>&lt;strong>Extensive proof that Vitamin D protects DNA in skin from UV damage&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Observation:&lt;/strong> People get a sunburn when getting lots of sun after months of little sun.&lt;/p>
+&lt;p>&lt;strong>Question:&lt;/strong> Would they not get a sunburn if they first stocked up on vitamin D?&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#sunlight-and-vitamin-d-affect-dna-damage-cell-division-and-cell-death-in-human-lymphocytes-a-cross-sectional-study-in-south-australia">Sunlight and vitamin D affect DNA damage, cell division and cell death in human lymphocytes: a cross-sectional study in South Australia.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#125-dihydroxyvitamin-d3-enhances-cellular-defences-against-uv-induced-oxidative-and-other-forms-of-dna-damage-in-skin">1?,25 Dihydroxyvitamin D(3) enhances cellular defences against UV-induced oxidative and other forms of DNA damage in skin.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#perspective-protective-actions-of-vitamin-d-in-uvb-induced-skin-cancer">Perspective Protective actions of vitamin D in UVB induced skin cancer&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#active-vitamin-d-protects-skin-against-sunlight-damage--nov-2012">Active vitamin D protects skin against sunlight damage – Nov 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-death-by-sunshine">Vitamin D and Death by Sunshine&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#biologically-efficient-solar-radiation-vitamin-d-production-and-induction-of-cutaneous-malignant-melanoma">Biologically efficient solar radiation: Vitamin D production and induction of cutaneous malignant melanoma&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="sunlight-and-vitamin-d-affect-dna-damage-cell-division-and-cell-death-in-human-lymphocytes-a-cross-sectional-study-in-south-australia">Sunlight and vitamin D affect DNA damage, cell division and cell death in human lymphocytes: a cross-sectional study in South Australia.&lt;/h4>
+&lt;p>Mutagenesis. 2012 Sep;27(5):609-14. &lt;a href="https://doi.org/10.1093/mutage/ges026.">doi: 10.1093/mutage/ges026.&lt;/a> Epub 2012 Apr 29.&lt;/p></description></item><item><title>Hypothesis: vitamin D suppresses skin cancer</title><link>/posts/hypothesis-vitamin-d-suppresses-skin-cancer.html</link><pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate><guid>/posts/hypothesis-vitamin-d-suppresses-skin-cancer.html</guid><description/></item><item><title>No association found between melanoma and low vitamin D levels</title><link>/posts/no-association-found-between-melanoma-and-low-vitamin-d-levels.html</link><pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate><guid>/posts/no-association-found-between-melanoma-and-low-vitamin-d-levels.html</guid><description>&lt;p>Pre-diagnostic circulating vitamin D and risk of melanoma in men.&lt;/p>
+&lt;p>PLoS One. 2012;7(4):e35112. Epub 2012 Apr 25.&lt;/p>
+&lt;p>Major JM, Kiruthu C, Weinstein SJ, Horst RL, Snyder K, Virtamo J, Albanes D.&lt;/p>
+&lt;p>Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America. &lt;a href="mailto:jacqueline.major@nih.gov">jacqueline.major@nih.gov&lt;/a>&lt;/p>
+&lt;p>PURPOSE:&lt;/p>
+&lt;p>Various studies have examined the association between serum vitamin D levels and different cancers; however, this is the first prospective study of this association with melanoma risk. The aim of this study is to investigate the association between serum vitamin D &lt;span>[25(OH)D]&lt;/span> levels and melanoma in a cohort of older, middle-aged Finnish male smokers.&lt;/p></description></item><item><title>Too much UVB: skin cancer, too little UVB: other cancers due to low vitamin D</title><link>/posts/too-much-uvb-skin-cancer-too-little-uvb-other-cancers-due-to-low-vitamin-d.html</link><pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/too-much-uvb-skin-cancer-too-little-uvb-other-cancers-due-to-low-vitamin-d.html</guid><description>&lt;h4 id="hope-and-challenge-the-importance-of-ultraviolet-uv-radiation-for-cutaneous-vitamin-d-synthesis-and-skin-cancer">Hope and challenge: The importance of ultraviolet (UV) radiation for cutaneous Vitamin D synthesis and skin cancer&lt;/h4>
+&lt;p>April 2012, Vol. 72, No. S243 , Pages 112-119&lt;/p>
+&lt;p>Jörg Reichrath &amp;amp; Sandra Reichrath&lt;/p>
+&lt;p>Klinik für Dermatologie, Venerologie und Allergologie, Universitätsklinikum des Saarlandes, 66421 Homburg/Saar, Germany&lt;/p>
+&lt;p>Correspondence: Jörg Reichrath, Klinik für Dermatologie, Venerologie und Allergologie, Universitätsklinikum des Saarlandes, D-66421 Homburg/Saar, Germany. E-mail: &lt;a href="mailto:joerg.reichrath@uks.eu">joerg.reichrath@uks.eu&lt;/a>&lt;/p>
+&lt;p>Solar ultraviolet (UV)-radiation is the most important environmental risk factor for the development of non-melanoma skin cancer (most importantly basal and squamous cell carcinomas), that represent the most common malignancies in Caucasian populations.&lt;/p></description></item><item><title>New Zealand doctors are starting to prescribe more sunshine</title><link>/posts/new-zealand-doctors-are-starting-to-prescribe-more-sunshine.html</link><pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/new-zealand-doctors-are-starting-to-prescribe-more-sunshine.html</guid><description/></item><item><title>Hypothesis – Increasing Folate or vitamin D decreases probability of skin cancer</title><link>/posts/hypothesis-increasing-folate-or-vitamin-d-decreases-probability-of-skin-cancer.html</link><pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/hypothesis-increasing-folate-or-vitamin-d-decreases-probability-of-skin-cancer.html</guid><description/></item><item><title>Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011</title><link>/posts/seniors-like-everyone-else-need-vitamin-d-and-should-avoid-sunburns-2011.html</link><pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/seniors-like-everyone-else-need-vitamin-d-and-should-avoid-sunburns-2011.html</guid><description/></item></channel></rss>

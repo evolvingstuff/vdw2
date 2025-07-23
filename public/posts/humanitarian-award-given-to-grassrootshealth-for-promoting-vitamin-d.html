@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset=utf-8><title>Humanitarian award given to GrassrootsHealth for promoting Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Humanitarian award given to GrassrootsHealth for promoting Vitamin D</h1><time>November 29, 2016</time><div data-pagefind-body><h4 id=press-release-grassrootshealth-receives-humanitarian-award-from-the-american-college-of-nutritionhttpwwwprwebcomreleasesvitamindwinsawardprweb13882995htm20><a href=http://www.prweb.com/releases/vitamind/winsaward/prweb13882995.htm%20>Press Release: GrassrootsHealth Receives Humanitarian Award from the American College of Nutrition</a></h4><p><strong>Award recognizes dedication to moving public health messages regarding vitamin D from research into practice.</strong></p><p>This award is especially deserved given the crisis of vitamin D insufficiency and deficiency across America, especially in minority communities, and its profound health impacts.</p><p>The American College of Nutrition honored non-profit, GrassrootsHealth, with their Humanitarian Award at their 57th annual conference held in San Diego November 9 - 11. This award is presented to individuals or organizations who have worked selflessly and effectively in the broader field of nutrition to benefit humanity. Past recipients include UNICEF, David Perlmutter (author of Grain Brain), and Vitamin Angels.</p><p>The Humanitarian Award was presented to GrassrootsHealth to honor their tireless efforts to move vitamin D research into practice. Without the work of GrassrootsHealth it might take another generation to bring this low-cost, safe, nutritional need to light. In addition to working with over 10,000 individuals in their D*action program to test vitamin D levels, GrassrootsHealth is also teaming up with hospitals and cancer centers across the country to make optimizing vitamin D levels a standard of care.</p><p>“This award is especially deserved given the crisis of vitamin D insufficiency and deficiency across America, especially in minority communities, and its profound health impacts,” states Michael Stroka, Executive Director of the American College of Nutrition. “We are grateful to Carole for her team’s work on behalf of human health, and are pleased to be able to recognize and contribute to their work in this way.”</p><p>The Humanitarian Award comes with a monetary donation derived from proceeds of the exhibit hall. This year, the donation that accompanied the award was <strong>$28,000</strong> . GrassrootsHealth will use the funds to further their work of moving vitamin D research into practice – helping to expand their public reach and education.</p><p>“I share this award with the 48 vitamin D scientists and researchers who share a common goal and have worked countless hours to this end,” stated Carole Baggerly, Founder and Director of GrassrootsHealth. “Together, we have the methodology to implement the call to action – to get the WORLD to the recommended 40-60 ng/ml (100-150 nmol/L). Participating medical institutions are realizing both health benefits and cost savings in their practice by optimizing vitamin D levels. These institutions either participate in our pregnancy project, Protect our Children NOW! or our new Cancer Prevention project.”</p><p>About GrassrootsHealth</p><p>GrassrootsHealth is a nonprofit public health research organization dedicated to moving public health messages regarding vitamin D from research into practice. It has a panel of 48 senior vitamin D researchers from around the world contributing to its operations. GrassrootsHealth is currently running the D<em>action population intervention program to solve the vitamin D deficiency epidemic worldwide. Under the D</em>action umbrella, there are programs looking at the entire population as well as targeted programs for breast cancer prevention and a ‘Protect Our Children NOW!’ program to stop vitamin D deficiency where it starts, in utero.</p><p>About the American College of Nutrition</p><p>The American College of Nutrition, founded in 1959, is on a mission to advance nutrition science to prevent and treat disease. Key goals of the professional society are to stimulate nutrition research and publication, elevate nutrition knowledge among clinicians and researchers, and provide practical guidance on clinical nutrition. The American College of Nutrition accepts no funding from for-profit corporations fostering its mission and ability to advance uncompromising science.</p><hr><p><a href="http://www.tandfonline.com/action/doSearch?AllField=%22vitamin+d%22&amp;SeriesKey=uacn20">Journal had 388 articles on Vitamin D as of Nov 2016</a></p><p>Note $28,000 for <strong>PROMOTING</strong> vitamin D, vs a <a href=/posts/professor-who-concluded-that-vitamin-d-800-iu-does-not-help-bones-got-324000-dollar-prize>a professor got $324,000 for <strong>DEMOTING</strong> Vitamin D</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/brain.html><span class=tag>brain</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-cancer.html><span class=tag>childhood cancer</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/top-news.html><span class=tag>Top news</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>blood levels, brain, breast cancer, cancer, child, childhood cancer, cognitive, pregnancy, Top news, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

@@ -1,224 +1,351 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Atrial Fibrillation on VitaminDWiki</title><link>/tags/atrial-fibrillation.html</link><description>Recent content in Atrial Fibrillation on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 24 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/atrial-fibrillation/index.xml" rel="self" type="application/rss+xml"/><item><title>Atrial Fibrillation associated with lower levels of vitamin D</title><link>/posts/atrial-fibrillation-associated-with-lower-levels-of-vitamin-d.html</link><pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/atrial-fibrillation-associated-with-lower-levels-of-vitamin-d.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!The Effects of Vitamin D Deficiency on the Atrial Fibrillation`
-│ inner_content: `The Effects of Vitamin D Deficiency on the Atrial Fibrillation`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `The Effects of Vitamin D Deficiency on the Atrial Fibrillation`
-│ │ inner_content: `The Effects of Vitamin D Deficiency on the Atrial Fibrillation`├── TextNode
-│ full_match: `\nMehmet Demir, MD drmehmetmd@gmail\nUmut Uyan, MD, Mehmet Melek, MD\nCLIN APPL THROMB HEMOST July 23, 2012 1076029612453762\n\nBackground: Vitamin D deficiency is associated with cardiovascular disease such as coronary artery disease, heart failure, and hypertension. Vitamin D deficiency activates the renin–angiotensin–aldosterone system, which affects the cardiovascular system. For this reason, it could be suggested that there is a relationship between vitamin D deficiency and atrial fibrillation (AF). In our study, we compared 25-hydroxyvitamin D (25-OHD) levels between nonvalvular AF, valvular AF, and control groups in sinus rhythm. \n\nMethod: A total of 102 patients with nonvalvular chronic AF without any other cardiovascular disease (mean age 62.51 ± 5.88; group I) and 96 patients with AF, which is associated with mitral valve disease (mean age 61.51 ± 5; group II) were included in our study. Of all, 100 age-matched healthy people with sinus rhythm were accepted as control groups (mean age 61.35 ± 5.44). Routine biochemical parameters, 25-OHD and parathormone levels were performed. \n\nResults: Baseline characteristics of the study groups were comparable. Group I patients had a lower vitamin D level than group II and the control group (6.51 ± 4.89, 9.24 ± 7.39, and 11.18 ± 6.98 ng/mL, P &amp;lt; .001, respectively). In groups I and II, the patients’ left atrium diameter and systolic pulmonary artery pressure are higher than the control group. \n\nConclusion: As a result, our study revealed a relationship between vitamin D deficiency and nonvalvular AF.\n– – – – – – – – – - - - - - - - - - - - - \n`
-│ inner_content: `\nMehmet Demir, MD drmehmetmd@gmail\nUmut Uyan, MD, Mehmet Melek, MD\nCLIN APPL THROMB HEMOST July 23, 2012 1076029612453762\n\nBackground: Vitamin D deficiency is associated with cardiovascular disease such as coronary artery disease, heart failure, and hypertension. Vitamin D deficiency activates the renin–angiotensin–aldosterone system, which affects the cardiovascular system. For this reason, it could be suggested that there is a relationship between vitamin D deficiency and atrial fibrillation (AF). In our study, we compared 25-hydroxyvitamin D (25-OHD) levels between nonvalvular AF, valvular AF, and control groups in sinus rhythm. \n\nMethod: A total of 102 patients with nonvalvular chronic AF without any other cardiovascular disease (mean age 62.51 ± 5.88; group I) and 96 patients with AF, which is associated with mitral valve disease (mean age 61.51 ± 5; group II) were included in our study. Of all, 100 age-matched healthy people with sinus rhythm were accepted as control groups (mean age 61.35 ± 5.44). Routine biochemical parameters, 25-OHD and parathormone levels were performed. \n\nResults: Baseline characteristics of the study groups were comparable. Group I patients had a lower vitamin D level than group II and the control group (6.51 ± 4.89, 9.24 ± 7.39, and 11.18 ± 6.98 ng/mL, P &amp;lt; .001, respectively). In groups I and II, the patients’ left atrium diameter and systolic pulmonary artery pressure are higher than the control group. \n\nConclusion: As a result, our study revealed a relationship between vitamin D deficiency and nonvalvular AF.\n– – – – – – – – – - - - - - - - - - - - - \n`├── HeadingNode
-│ full_match: `!!Summary by VitaminDWiki`
-│ inner_content: `Summary by VitaminDWiki`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Summary by VitaminDWiki`
-│ │ inner_content: `Summary by VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── TableNode
-│ full_match: `|| Atrial Fibrillation | ng.\nNone| 11.1\nNonvalvular|9.2\nValvular|6.5||`
-│ inner_content: ` Atrial Fibrillation | ng.\nNone| 11.1\nNonvalvular|9.2\nValvular|6.5`
-│ children:
-│ ├── TableRowNode
-│ │ full_match: ` Atrial Fibrillation | ng.`
-│ │ inner_content: ` Atrial Fibrillation | ng.`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: ` Atrial Fibrillation `
-│ │ │ inner_content: ` Atrial Fibrillation `
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Atrial Fibrillation `
-│ │ │ │ inner_content: `Atrial Fibrillation `
-│ │ ├── TableCellNode
-│ │ │ full_match: ` ng.`
-│ │ │ inner_content: ` ng.`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `ng.`
-│ │ │ │ inner_content: `ng.`
-│ ├── TableRowNode
-│ │ full_match: `None| 11.1`
-│ │ inner_content: `None| 11.1`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `None`
-│ │ │ inner_content: `None`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `None`
-│ │ │ │ inner_content: `None`
-│ │ ├── TableCellNode
-│ │ │ full_match: ` 11.1`
-│ │ │ inner_content: ` 11.1`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `11.1`
-│ │ │ │ inner_content: `11.1`
-│ ├── TableRowNode
-│ │ full_match: `Nonvalvular|9.2`
-│ │ inner_content: `Nonvalvular|9.2`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Nonvalvular`
-│ │ │ inner_content: `Nonvalvular`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Nonvalvular`
-│ │ │ │ inner_content: `Nonvalvular`
-│ │ ├── TableCellNode
-│ │ │ full_match: `9.2`
-│ │ │ inner_content: `9.2`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `9.2`
-│ │ │ │ inner_content: `9.2`
-│ ├── TableRowNode
-│ │ full_match: `Valvular|6.5`
-│ │ inner_content: `Valvular|6.5`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Valvular`
-│ │ │ inner_content: `Valvular`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Valvular`
-│ │ │ │ inner_content: `Valvular`
-│ │ ├── TableCellNode
-│ │ │ full_match: `6.5`
-│ │ │ inner_content: `6.5`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `6.5`
-│ │ │ │ inner_content: `6.5`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `\n!!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Overview of Magnesium and Vitamin D] very important to reduce Fibrillation `
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Overview of Magnesium and Vitamin D] very important to reduce Fibrillation `
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Overview of Magnesium and Vitamin D]`
-│ │ inner_content: `Overview of Magnesium and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=947`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview of Magnesium and Vitamin D`
-│ │ │ inner_content: `Overview of Magnesium and Vitamin D`
-│ ├── TextNode
-│ │ full_match: ` very important to reduce Fibrillation `
-│ │ inner_content: ` very important to reduce Fibrillation `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1171|Vitamin D also reduced Hypertension]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1171|Vitamin D also reduced Hypertension]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1171|Vitamin D also reduced Hypertension]`
-│ │ inner_content: `Vitamin D also reduced Hypertension`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1171`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D also reduced Hypertension`
-│ │ │ inner_content: `Vitamin D also reduced Hypertension`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in category Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in category Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in category Cardiovascular and Vitamin D]`
-│ │ inner_content: `All items in category Cardiovascular and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in category Cardiovascular and Vitamin D`
-│ │ │ inner_content: `All items in category Cardiovascular and Vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=%22atrial+fibrilation%22&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for &amp;quot;atrial fibrilation&amp;quot; ] 47 items as of Dec 2013`
-│ inner_content: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=%22atrial+fibrilation%22&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for &amp;quot;atrial fibrilation&amp;quot; ] 47 items as of Dec 2013`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=%22atrial+fibrilation%22&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for &amp;quot;atrial fibrilation&amp;quot; ]`
-│ │ inner_content: `Search VitaminDWiki for &amp;quot;atrial fibrilation&amp;quot; `
-│ │ url: `https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=%22atrial+fibrilation%22&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Search VitaminDWiki for &amp;quot;atrial fibrilation&amp;quot; `
-│ │ │ inner_content: `Search VitaminDWiki for &amp;quot;atrial fibrilation&amp;quot; `
-│ ├── TextNode
-│ │ full_match: ` 47 items as of Dec 2013`
-│ │ inner_content: ` 47 items as of Dec 2013`
-
-Original Tiki:
--------------
-!The Effects of Vitamin D Deficiency on the Atrial Fibrillation
-Mehmet Demir, MD drmehmetmd@gmail
-Umut Uyan, MD, Mehmet Melek, MD
-CLIN APPL THROMB HEMOST July 23, 2012 1076029612453762
-
-Background: Vitamin D deficiency is associated with cardiovascular disease such as coronary artery disease, heart failure, and hypertension. Vitamin D deficiency activates the renin–angiotensin–aldosterone system, which affects the cardiovascular system. For this reason, it could be suggested that there is a relationship between vitamin D deficiency and atrial fibrillation (AF). In our study, we compared 25-hydroxyvitamin D (25-OHD) levels between nonvalvular AF, valvular AF, and control groups in sinus rhythm. 
-
-Method: A total of 102 patients with nonvalvular chronic AF without any other cardiovascular disease (mean age 62.51 ± 5.88; group I) and 96 patients with AF, which is associated with mitral valve disease (mean age 61.51 ± 5; group II) were included in our study. Of all, 100 age-matched healthy people with sinus rhythm were accepted as control groups (mean age 61.35 ± 5.44). Routine biochemical parameters, 25-OHD and parathormone levels were performed. 
-
-Results: Baseline characteristics of the study groups were comparable. Group I patients had a lower vitamin D level than group II and the control group (6.51 ± 4.89, 9.24 ± 7.39, and 11.18 ± 6.98 ng/mL, P &amp;lt; .001, respectively). In groups I and II, the patients’ left atrium diameter and systolic pulmonary artery pressure are higher than the control group. 
-
-Conclusion: As a result, our study revealed a relationship between vitamin D deficiency and nonvalvular AF.
-– – – – – – – – – - - - - - - - - - - - - 
-!!Summary by VitaminDWiki
-|| Atrial Fibrillation | ng.
-None| 11.1
-Nonvalvular|9.2
-Valvular|6.5||
-
-!!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Overview of Magnesium and Vitamin D] very important to reduce Fibrillation 
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1171|Vitamin D also reduced Hypertension]
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in category Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__
-*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=%22atrial+fibrilation%22&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for &amp;quot;atrial fibrilation&amp;quot; ] 47 items as of Dec 2013
-&lt;/code>
-&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Atrial Fibrillation on VitaminDWiki</title><link>/tags/atrial-fibrillation.html</link><description>Recent content in Atrial Fibrillation on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/atrial-fibrillation/index.xml" rel="self" type="application/rss+xml"/><item><title>DNA and VDR tests - 100 to 200 dollars</title><link>/posts/dna-and-vdr-tests-100-to-200-dollars.html</link><pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/dna-and-vdr-tests-100-to-200-dollars.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#many-dna-gene-testing-services-most-only-provide-ancestry-info">Many DNA gene testing services (most only provide ancestry info.)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vdr-tests-the-gene-you-were-born-with-not-its-activation">VDR tests the gene you were born with, not it&amp;rsquo;s activation&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-receptor-test-119">Vitamin D Receptor test $119&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-receptor-test-86--ship-to-greece">Vitamin D Receptor test $86 + ship to Greece&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#varous-companies-can-post-analyze-dna-tests-such-as-23andme-to-discover-vdr-etc">Varous companies can post-analyze DNA tests (such as 23andMe) to discover VDR, etc.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vdr-test--muscle-mass-and-bone-strength-dec-2016">VDR test : muscle mass and bone strength (Dec 2016)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="many-dna-gene-testing-services-most-only-provide-ancestry-info">Many DNA gene testing services (most only provide ancestry info.)&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://geneticsdigest.com/best_ancestry_genealogy_dna_test/index_jul25_var.html?gc_id=1404720398&amp;amp;h_ad_id=611982145119&amp;amp;gad=1&amp;amp;gclid=CjwKCAjwzo2mBhAUEiwAf7wjkgDT-xs4soMj42mZuld7wSRcZaWIsQHxVQOkTISKHKSbDjZfAARHeRoCmOUQAvD_BwE">3 Essential Tips You Must Know Before Buying a DNA Test&lt;/a>&lt;/p></description></item><item><title>Cancer risk in older women reduced 32 percent by 2,000 IU of Vitamin D plus Calcium – 4 year RCT</title><link>/posts/cancer-risk-in-older-women-reduced-32-percent-by-2000-iu-of-vitamin-d-plus-calcium-4-year-rct.html</link><pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/cancer-risk-in-older-women-reduced-32-percent-by-2000-iu-of-vitamin-d-plus-calcium-4-year-rct.html</guid><description>&lt;h4 id="vitamin-d3-and-calcium-supplementation-significantly-decreases-cancer-risk-in-older-women">Vitamin D3 and calcium supplementation significantly decreases cancer risk in older women&lt;/h4>
+&lt;p>American Public Health Association 2016 meeting Oct 31, 2016&lt;/p>
+&lt;p>Joan Lappe, Creighton University; Dianne Travers-Gustafson, Creighton University; Cedric Garland, University of California at San Diego; Robert Heaney, Creighton University; Robert Recker, Creighton University; Patrice Watson, Creighton University&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;p>This RCT did not have an arm for Vitamin D without Calcium&lt;/p>
+&lt;p>There is a lot of controversy about Calcium - does it help or harm health?&lt;/p></description></item><item><title>Atrial Fibrillation 1.3 times more likely if low vitamin D – meta-analysis</title><link>/posts/atrial-fibrillation-13-times-more-likely-if-low-vitamin-d-meta-analysis.html</link><pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate><guid>/posts/atrial-fibrillation-13-times-more-likely-if-low-vitamin-d-meta-analysis.html</guid><description>&lt;h4 id="meta-analysis-of-vitamin-d-deficiency-and-risk-of-atrial-fibrillation">Meta-analysis of Vitamin D Deficiency and Risk of Atrial Fibrillation.&lt;/h4>
+&lt;p>Clin Cardiol. 2016 Sep;39(9):537-43. &lt;a href="https://doi.org/10.1002/clc.22563.">doi: 10.1002/clc.22563.&lt;/a> Epub 2016 Aug 24.&lt;/p>
+&lt;p>Zhang Z1, Yang Y1, Ng CY2, Wang D1, Wang J1, Li G1, Liu T3.&lt;/p>
+&lt;p>1Tianjin Key Laboratory of Ionic-Molecular Function of Cardiovascular Disease, Department of Cardiology, Tianjin Institute of Cardiology, Second Hospital of Tianjin Medical University, Tianjin, People&amp;rsquo;s Republic of China.&lt;/p>
+&lt;p>2Cardiac Arrhythmia Service, Massachusetts General Hospital, Boston, Massachusetts.&lt;/p>
+&lt;p>3Tianjin Key Laboratory of Ionic-Molecular Function of Cardiovascular Disease, Department of Cardiology, Tianjin Institute of Cardiology, Second Hospital of Tianjin Medical University, Tianjin, People&amp;rsquo;s Republic of China. &lt;a href="mailto:liutongdoc@126.com">liutongdoc@126.com&lt;/a>.&lt;/p></description></item><item><title>Is a health problem associated with Low vitamin D, Low Magnesium, or too much Calcium</title><link>/posts/is-a-health-problem-associated-with-low-vitamin-d-low-magnesium-or-too-much-calcium.html</link><pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/is-a-health-problem-associated-with-low-vitamin-d-low-magnesium-or-too-much-calcium.html</guid><description>&lt;h4 id="essential-nutrient-interactions-does-low-or-suboptimal-magnesium-status-interact-with-vitamin-d-andor-calcium-status">Essential Nutrient Interactions: Does Low or Suboptimal Magnesium Status Interact with Vitamin D and/or Calcium Status?&lt;/h4>
+&lt;p>Adv Nutr. 2016 Jan 15;7(1):25-43. &lt;a href="https://doi.org/10.3945/an.115.008631.">doi: 10.3945/an.115.008631.&lt;/a> Print 2016 Jan.&lt;/p>
+&lt;p>Rosanoff A1, Dai Q2, Shapses SA3.&lt;/p>
+&lt;p>1 &lt;a href="http://www.magnesiumeducation.com/">Center for Magnesium Education and Research&lt;/a>, Pahoa, HI; &lt;a href="mailto:arosanoff@gmail.com">arosanoff@gmail.com&lt;/a>.&lt;/p>
+&lt;p>2 Vanderbilt Epidemiology Center, Department of Medicine, School of Medicine, Vanderbilt University, Nashville, TN&lt;/p>
+&lt;p>3 Rutgers University, New Brunswick, NJ.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;p>Optimum Calcium somewhere 1.7 - 2.5 X Magnesium &lt;a href="/posts/calcium-2x-of-magnesium-seems-good-china">China says 2.0 X&lt;/a>&lt;/p></description></item><item><title>Atrial fibrillation sometimes treated by Omega-3 – meta-analysis</title><link>/posts/atrial-fibrillation-sometimes-treated-by-omega-3-meta-analysis.html</link><pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/atrial-fibrillation-sometimes-treated-by-omega-3-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-current-role-of-omega-3-fatty-acids-in-the-management-of-atrial-fibrillation">The Current Role of Omega-3 Fatty Acids in the Management of Atrial Fibrillation&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-current-role-of-omega-3-fatty-acids-in-the-management-of-atrial-fibrillation">The Current Role of Omega-3 Fatty Acids in the Management of Atrial Fibrillation&lt;/h4>
+&lt;p>Int. J. Mol. Sci. 2015, 16, 22870-22887; doi:10.3390/ijms160922870&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/omega-3-treat-afib-1.jpg" alt="image" width="1000">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/omega-3-treat-afib-2.jpg" alt="image" width="1000">
+&lt;p>Georgios A. Christou 1 &lt;a href="mailto:georgios.christou@yahoo.gr">georgios.christou@yahoo.gr&lt;/a>, Konstantinos A. Christou , Panagiotis Korantzopoulos 3,&lt;/p>
+&lt;p>Evangelos C. Rizos 4, Dimitrios N. Nikas 3 and John A. Goudevenos 3&lt;/p>
+&lt;p>Laboratory of Physiology, Medical School, University of Ioannina, 45110 Ioannina, Greece&lt;/p>
+&lt;p>First Department of Internal Medicine, University Hospital of Ioannina, 45110 Ioannina, Greece; E-Mail: &lt;a href="mailto:kostaschristou1@gmail.com">kostaschristou1@gmail.com&lt;/a>&lt;/p></description></item><item><title>Rotterdam Vitamin D dissertation text</title><link>/posts/rotterdam-vitamin-d-dissertation-text.html</link><pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/rotterdam-vitamin-d-dissertation-text.html</guid><description>&lt;p>&lt;strong>Summary and PDF is at &lt;a href="/posts/more-vitamin-d-makes-for-better-health-dissertation-based-on-rotterdam-studies">More vitamin D makes for better health – dissertation based on Rotterdam studies – Oct 2015&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>The following is a rough dump of the text from the dissertation - for ease of translation&lt;/p>
+&lt;p>&lt;strong>Vitamin D and Cardio-metabolic Health in the Elderly - The Rotterdam Study&lt;/strong>&lt;/p>
+&lt;p>Vitamine D en cardiometabole gezondheid in ouderen: De - Rotterdam Studie&lt;/p>
+&lt;p>Thesis&lt;/p>
+&lt;p>to obtain the degree of Doctor from the&lt;/p>
+&lt;p>Erasmus University Rotterdam&lt;/p></description></item><item><title>Cardiovascular Disease and vitamin D – no proof yet</title><link>/posts/cardiovascular-disease-and-vitamin-d-no-proof-yet.html</link><pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/cardiovascular-disease-and-vitamin-d-no-proof-yet.html</guid><description>&lt;h4 id="optimal-vitamin-d-supplementation-levels-for-cardiovascular-disease-protection">Optimal Vitamin D Supplementation Levels for Cardiovascular Disease Protection.&lt;/h4>
+&lt;p>Dis Markers. 2015;2015:864370. &lt;a href="https://doi.org/10.1155/2015/864370.">doi: 10.1155/2015/864370.&lt;/a> Epub 2015 Sep 8.&lt;/p>
+&lt;p>Lugg ST1, Howells PA1, Thickett DR1.&lt;/p>
+&lt;p>1School of Clinical and Experimental Medicine, College of Medical and Dental Sciences, Centre for Translational Inflammation Research (CTIR), University of Birmingham Laboratories, Queen Elizabeth Hospital Birmingham, Birmingham B15 2TH, UK.&lt;/p>
+&lt;p>First described in relation to musculoskeletal disease, there is accumulating data to suggest that vitamin D may play an important role in cardiovascular disease (CVD). In this review we aim to provide an overview of the role of vitamin D status as both a marker of and potentially causative agent of hypertension, coronary artery disease, heart failure, atrial fibrillation, stroke, and peripheral vascular disease. The role of vitamin D levels as a disease marker for all-cause mortality is also discussed. We review the current knowledge gathered from experimental studies, observational studies, randomised controlled trials, and subsequent systematic reviews in order to suggest the optimal vitamin D level for CVD protection.&lt;/p></description></item><item><title>If you add Omega-3, also add Vitamin E to protect it</title><link>/posts/if-you-add-omega-3-also-add-vitamin-e-to-protect-it.html</link><pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/if-you-add-omega-3-also-add-vitamin-e-to-protect-it.html</guid><description>&lt;p>&lt;strong>Vitamin E function and requirements in relation to PUFA&lt;/strong>&lt;/p>
+&lt;p>British Journal of Nutrition [I take almonds with my Vitamin D](Online%20before%20print}
+&lt;a href="mailto:Daniel%20Raederstorff%201%20Daniel.Raederstorff@dsm.com">Daniel%20Raederstorff%201%20Daniel.Raederstorff@dsm.com&lt;/a>,%20Adrian%20Wyss%201,%20Philip%20C.%20Calder%202,%20Peter%20Weber%201%20and%20Manfred%20Eggersdorfer%201
+1DSM%20Nutritional%20Products,%20Basel%20CH-4002,%20Switzerland
+2%20Human%20Development%20and%20Health%20Academic%20Unit,%20Faculty%20of%20Medicine,%20University%20of%20Southampton,%20Southampton%20SO16%206YD,%20UK%20
+{BOX(title=&amp;gt;VitaminDWiki%20Summary%20based%20on%20a%20very%20quick%20read%20class=&amp;ldquo;border&amp;rdquo;%20bg=&amp;gt;#FF9,width=%20&amp;quot;600px&amp;quot;)}
+90%%20in%20the%20US%20do%20not%20get%20even%20bare%20minimum%20of%20Vitamin%20E%20-%20see%20chart%20below
+There%20are%20many%20forms%20of%20Vitamin%20E%20-%20be%20sure%20to%20get%20the%20right%20form
+Appears%20that%200.5%20mg%20needed%20per%20gram%20of%20PUFA
+&lt;strong>See%20also%20VitaminDWiki&lt;/strong>
+*((Vitamin%20D%20Cofactors%20in%20a%20nutshell))
+*((Omega-3%20conference%20and%2012%20publications%20–%20Nov%202014))
+*((Vitamin%20D%20and%20Omega-3%20are%20the%20first%20focus%20of%20Global%20Nutrition%20and%20Health%20Alliance))
+*((Inflammation%20reduction%20through%20diet:%20Omega-3%20etc.%20Feb%202014))
+*((Overview:%20Omega-3%20many%20benefits%20include%20helping%20vitamin%20D))
+*((Atopic%20Dermatitis%20and%20Eczema%20-%20many%20studies))
+*((I%20use%20Vectomega%20brand%20of%20Omega-3%20–%20Admin%20of%20VitaminDWiki,%20May%202014))
+*((Most%20people%20not%20getting%20enough%20Vitamin%20D,%20Magnesium,%20and%20Vitamin%20E%20–%20Aug%202011))
+&lt;strong>The%20taller%20the%20bar,%20the%20more%20deficient%20for%20those%20older%20than%2019&lt;/strong>
+{IMG(attId=&amp;ldquo;722&amp;rdquo;%20wideth=&amp;ldquo;500&amp;rdquo;)}{IMG}&lt;/p>
+&lt;p>&lt;strong>Note%20by%20VitaminDWiki%20admin:&lt;/strong>
+Almonds%20are%20among%20the%20many%20foods%20which%20naturally%20have%20Vitamin%20E%20-%20to%20prevent%20oxidation
+1%20ounce%20of%20almonds%20=%207.4%20milligrams%20of%20vitamin%20E.​%20(3.8X%20as%20much%20as%201%20tablespoon%20of%20olive%20oli)
+It%20seems%20that%20this%20study%20says%20that%20one%20ounce%20of%20almonds%20provides%20enough%20Vitamin%20E%20to%20protect%20the%20Omega-3
+[https://www.VitaminDWiki.com/blogpost22-Almonds-with-Vitamin-D) - note: almonds have Magnesium too&lt;/p>
+&lt;p>&lt;strong>See also Web&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/">Vitamin E Fact Sheet for Health Professionals&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>It appears that Vitamin E and Omega-3 both thin the blood&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>{BOX}&lt;/p></description></item><item><title>Vitamin K and cognition in the elderly</title><link>/posts/vitamin-k-and-cognition-in-the-elderly.html</link><pubDate>Wed, 12 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-k-and-cognition-in-the-elderly.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-relationships-between-vitamin-k-and-cognition-a-review-of-current-evidence---may-2019">The Relationships Between Vitamin K and Cognition: A Review of Current Evidence - May 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dietary-vitamin-k-intake-is-associated-with-cognition-and-behaviour-among-geriatric-patients-the-clip-study---2015">Dietary Vitamin K Intake Is Associated with Cognition and Behaviour among Geriatric Patients: The CLIP Study - 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#use-of-drugs-which-block-vitamin-k-was-associated-with-17x-increase-in-cognitive-imparement---2015">Use of drugs which block Vitamin K was associated with 17X increase in cognitive imparement - 2015&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-relationships-between-vitamin-k-and-cognition-a-review-of-current-evidence---may-2019">The Relationships Between Vitamin K and Cognition: A Review of Current Evidence - May 2019&lt;/h4>
+&lt;p>Front Neurol. 2019 Mar 19;10:239. &lt;a href="https://doi.org/10.3389/fneur.2019.00239.">doi: 10.3389/fneur.2019.00239.&lt;/a> eCollection 2019.&lt;/p></description></item><item><title>Calcium supplementation associated with 3.9X increase risk of atrial fibrillation</title><link>/posts/calcium-supplementation-associated-with-39x-increase-risk-of-atrial-fibrillation.html</link><pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/calcium-supplementation-associated-with-39x-increase-risk-of-atrial-fibrillation.html</guid><description>&lt;p>Note: The increased Afib is probably due to the high ratio of Ca to Mg&lt;/p>
+&lt;/div>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Supplementation of calcium (Ca) and vitamin D for the prevention of osteoporosis is frequently found in Western countries. Recent re-analyses of clinical trials observed a higher risk of myocardial infarction and stroke in subjects taking Ca (+vitamin D) supplements, although the underlying mechanisms are not clear.&lt;/p>
+&lt;p>OBJECTIVE:&lt;/p>
+&lt;p>Thus, we analyzed the associations between Ca and vitamin D supplementation as well as serum concentrations of Ca and 25-hydroxyvitamin D (25(OH)D) and subclinical cardiovascular disease (CVD) phenotypes, namely intima-media thickness, ankle-brachial-index (ABI), intermittent claudication, and atrial fibrillation (AF).&lt;/p></description></item><item><title>Links between Vitamin D Deficiency and Cardiovascular Diseases</title><link>/posts/links-between-vitamin-d-deficiency-and-cardiovascular-diseases.html</link><pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/links-between-vitamin-d-deficiency-and-cardiovascular-diseases.html</guid><description>&lt;p>Biomed Res Int. 2015;2015:109275. Epub 2015 Apr 27.&lt;/p>
+&lt;p>Mozos I1, Marginean O2&lt;/p>
+&lt;p>1 Department of Functional Sciences, &amp;ldquo;Victor Babes&amp;rdquo; University of Medicine and Pharmacy, 300173 Timisoara, Romania.&lt;/p>
+&lt;p>2 Department of Pediatrics, &amp;ldquo;Victor Babes&amp;rdquo; University of Medicine and Pharmacy, 300173 Timisoara, Romania.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
+&lt;p>&lt;a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D&lt;/a>&lt;/p></description></item><item><title>Cardiovascular Diseases and Vitamin D – Review</title><link>/posts/cardiovascular-diseases-and-vitamin-d-review.html</link><pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate><guid>/posts/cardiovascular-diseases-and-vitamin-d-review.html</guid><description>&lt;p>&lt;strong>Links between Vitamin D Deficiency and Cardiovascular Diseases - Review Article&lt;/strong>&lt;/p>
+&lt;p>BioMed Research International, Volume 2015 (2015), Article ID 109275, 12 pages&lt;/p>
+&lt;p>&lt;a href="http://dx.doi.org/10.1155/2015/109275">http://dx.doi.org/10.1155/2015/109275&lt;/a>&lt;/p>
+&lt;p>Ioana Mozos 1 and Otilia Marginean 2&lt;/p>
+&lt;p>1Department of Functional Sciences, “Victor Babes” University of Medicine and Pharmacy, 300173 Timisoara, Romania&lt;/p>
+&lt;p>2Department of Pediatrics, “Victor Babes” University of Medicine and Pharmacy, 300173 Timisoara, Romania&lt;/p>
+&lt;p>Received 31 October 2014; Accepted 8 February 2015&lt;/p>
+&lt;p>&lt;strong>Abstract&lt;/strong>&lt;/p>
+&lt;p>The aim of the present paper was to review the most important mechanisms explaining the possible association of vitamin D deficiency and cardiovascular diseases, focusing on recent experimental and clinical data. Low vitamin D levels favor atherosclerosis enabling vascular inflammation, endothelial dysfunction, formation of foam cells, and proliferation of smooth muscle cells. The antihypertensive properties of vitamin D include suppression of the renin-angiotensin-aldosterone system, renoprotective effects, direct effects on endothelial cells and calcium metabolism, inhibition of growth of vascular smooth muscle cells, prevention of secondary hyperparathyroidism, and beneficial effects on cardiovascular risk factors. Vitamin D is also involved in glycemic control, lipid metabolism, insulin secretion, and sensitivity, explaining the association between vitamin D deficiency and metabolic syndrome. Vitamin D deficit was associated in some studies with the number of affected coronary arteries, postinfarction complications, inflammatory cytokines and cardiac remodeling in patients with myocardial infarction, direct electromechanical effects and inflammation in atrial fibrillation, and neuroprotective effects in stroke. In peripheral arterial disease, vitamin D status was related to the decline of the functional performance, severity, atherosclerosis and inflammatory markers, arterial stiffness, vascular calcifications, and arterial aging. Vitamin D supplementation should further consider additional factors, such as phosphates, parathormone, renin, and fibroblast growth factor 23 levels.&lt;/p></description></item><item><title>Atrial fibrillation reduced with modest vitamin D levels (did not consider Magnesium)</title><link>/posts/atrial-fibrillation-reduced-with-modest-vitamin-d-levels-did-not-consider-magnesium.html</link><pubDate>Tue, 05 May 2015 00:00:00 +0000</pubDate><guid>/posts/atrial-fibrillation-reduced-with-modest-vitamin-d-levels-did-not-consider-magnesium.html</guid><description>&lt;h4 id="vitamin-d-and-the-risk-of-atrial-fibrillation---the-rotterdam-study">Vitamin d and the risk of atrial fibrillation - the rotterdam study.&lt;/h4>
+&lt;p>PLoS One. 2015 May 1;10(5):e0125161. &lt;a href="https://doi.org/10.1371/journal.pone.0125161.">doi: 10.1371/journal.pone.0125161.&lt;/a> eCollection 2015.&lt;/p>
+&lt;p>Vitezova A1, Cartolano NS1, Heeringa J1, Zillikens MC2, Hofman A1, Franco OH1, Kiefte-de Jong JC1.&lt;/p>
+&lt;p>1 Department of Epidemiology, Erasmus MC University Medical Center, Rotterdam, The Netherlands.&lt;/p>
+&lt;p>2 Department of Internal Medicine, Erasmus MC University Medical Center, Rotterdam, The Netherlands.&lt;/p>
+&lt;p>Atrial fibrillation (AF) is the most common chronic arrhythmia and it increases the risk of cardiovascular morbidity and mortality. Still there is not a complete understanding of its etiology and underlying pathways. Vitamin D might regulate renin-angiotensin-aldosterone system and might be involved in inflammation, both implicated in the pathophysiology of AF. The objective of this work was to investigate the association between vitamin D status with the risk of AF in the elderly. This study was conducted within the Rotterdam Study, a community-based cohort of middle-aged and elderly participants in Rotterdam, The Netherlands. We had 3,395 participants who were free of AF diagnosis at the start of our study and who had vitamin D data available. We analyzed the association between serum 25-hydroxivitamin D (25(OH)D) and incidence of AF using Cox regression models. Vitamin D deficiency was defined as serum 25(OH)D concentrations &amp;lt;50nmol/l, insufficiency between 50nmol/l and 75nmol/l, while serum 25(OH)D concentrations equal to and above 75nmol/l were considered as adequate. After mean follow-up of 12.0 years 263 (7.7%) participants were diagnosed with incident AF. Vitamin D status was not associated with AF in any of the 3 multivariate models tested (model adjusted for socio-demographic factors and life-style factors: HR per 10 unit increment in serum 25(OH)D 0.96, 95% CI: 0.91-1.02; HR for insufficiency: 0.82, 95%CI: 0.60-1.11,and HR for adequate status: 0.76, 95%CI: 0.52-1.12 compared to deficiency). This prospective cohort study does not support the hypothesis that vitamin D status is associated with AF.&lt;/p></description></item><item><title>Higher vitamin D levels associated with health and lower risk of atrial fibrillation</title><link>/posts/higher-vitamin-d-levels-associated-with-health-and-lower-risk-of-atrial-fibrillation.html</link><pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate><guid>/posts/higher-vitamin-d-levels-associated-with-health-and-lower-risk-of-atrial-fibrillation.html</guid><description>&lt;h3 id="vitamin-d-and-the-risk-of-atrial-fibrillation---the-rotterdam-study">Vitamin D and the Risk of Atrial Fibrillation - The Rotterdam Study&lt;/h3>
+&lt;p>PLOS ONE: May 1, 2015DOI: 10.1371/journal.pone.0125161&lt;/p>
+&lt;p>Anna Vitezova , Natasha S. Cartolano , Jan Heeringa, M. Carola Zillikens, Albert Hofman, Oscar H. Franco, Jessica C. Kiefte-de Jong&lt;/p>
+&lt;p>Atrial fibrillation (AF) is the most common chronic arrhythmia and it increases the risk of cardiovascular morbidity and mortality. Still there is not a complete understanding of its etiology and underlying pathways. Vitamin D might regulate renin-angiotensin-aldosterone system and might be involved in inflammation, both implicated in the pathophysiology of AF. The objective of this work was to investigate the association between vitamin D status with the risk of AF in the elderly. This study was conducted within the Rotterdam Study, a community-based cohort of middle-aged and elderly participants in Rotterdam, The Netherlands. We had 3,395 participants who were free of AF diagnosis at the start of our study and who had vitamin D data available. We analyzed the association between serum 25-hydroxivitamin D (25(OH)D) and incidence of AF using Cox regression models. Vitamin D deficiency was defined as serum 25(OH)D concentrations &amp;lt;50nmol/l, insufficiency between 50nmol/l and 75nmol/l, while serum 25(OH)D concentrations equal to and above 75nmol/l were considered as adequate.&lt;/p></description></item><item><title>Only 2 percent of physicians took any vitamin D supplements a decade ago</title><link>/posts/only-2-percent-of-physicians-took-any-vitamin-d-supplements-a-decade-ago.html</link><pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/only-2-percent-of-physicians-took-any-vitamin-d-supplements-a-decade-ago.html</guid><description>&lt;h4 id="dietary-vitamin-d-and-risk-of-heart-failure-in-the-physicians-health-study">Dietary vitamin D and risk of heart failure in the Physicians’ Health Study&lt;/h4>
+&lt;p>Clinical Nutrition, doi:10.1016/j.clnu.2015.04.011, Available online 22 April 2015&lt;/p>
+&lt;p>Jeremy Robbins, MD, Andrew Petrone, MPH, J.Michael Gaziano, MD, MPH, Luc Djoussé, MD, MPH, ScD,&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>Only 2.3% of 19,000 Physicians (US?) took any vitamin D a decade ago&lt;/p>
+&lt;p>And the median supplementation at the time was a measly 200 IU&lt;/p>
+&lt;p>Now we can understand why physicians are generally reluctant to prescribe vitamin D,&lt;/p></description></item><item><title>Active vitamin D decreased atrial fibrillation occurrence by 9X and duration by 77X (rabbits)</title><link>/posts/active-vitamin-d-decreased-atrial-fibrillation-occurrence-by-9x-and-duration-by-77x-rabbits.html</link><pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/active-vitamin-d-decreased-atrial-fibrillation-occurrence-by-9x-and-duration-by-77x-rabbits.html</guid><description>&lt;h3 id="electromechanical-effects-of-125-dihydroxyvitamin-d-with-antiatrial-fibrillation-activities">Electromechanical effects of 1,25-dihydroxyvitamin d with antiatrial fibrillation activities.&lt;/h3>
+&lt;p>J Cardiovasc Electrophysiol. 2014 Mar;25(3):317-23. &lt;a href="https://doi.org/10.1111/jce.12309.">doi: 10.1111/jce.12309.&lt;/a> Epub 2013 Nov 14.&lt;/p>
+&lt;p>Hanafy DA1, Chang SL, Lu YY, Chen YC, Kao YH, Huang JH, Chen SA, Chen YJ.&lt;/p>
+&lt;p>INTRODUCTION:&lt;/p>
+&lt;p>Treatment with 1,25-dihydroxyvitamin D (1,25&lt;span>[OH]&lt;/span>2 D) has several cardiovascular benefits. 1,25&lt;span>[OH]&lt;/span>2 D has direct cellular effects, but its effects on the atrium are not clear. We evaluated the effects of 1,25&lt;span>[OH]&lt;/span>2 D on the atrial electrophysiology and atrial fibrillation (AF).&lt;/p></description></item><item><title>Vitamin D can quickly deal with Osteoporosis in the very old – Europe working group review</title><link>/posts/vitamin-d-can-quickly-deal-with-osteoporosis-in-the-very-old-europe-working-group-review.html</link><pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-can-quickly-deal-with-osteoporosis-in-the-very-old-europe-working-group-review.html</guid><description>&lt;h2 id="management-of-osteoporosis-of-the-oldest-old">Management of osteoporosis of the oldest old.&lt;/h2>
+&lt;p>Osteoporos Int. 2014 Jul 15. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Rizzoli R1, Branco J, Brandi ML, Boonen S, Bruyère O, Cacoub P, Cooper C, Diez-Perez A, Duder J, Fielding RA, Harvey NC, Hiligsmann M, Kanis JA, Petermans J, Ringe JD, Tsouderos Y, Weinman J, Reginster JY.&lt;/p>
+&lt;p>1Service of Bone Diseases, Geneva University Hospitals and Faculty of Medicine, Geneva, Switzerland, &lt;a href="mailto:Rene.Rizzoli@unige.ch">Rene.Rizzoli@unige.ch&lt;/a>.&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#management-of-osteoporosis-of-the-oldest-old">Management of osteoporosis of the oldest old.&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>This consensus article reviews the diagnosis and treatment of osteoporosis in geriatric populations. Specifically, it reviews the risk assessment and intervention thresholds, the impact of nutritional deficiencies, fall prevention strategies, pharmacological treatments and their safety considerations, the risks of sub-optimal treatment adherence and strategies for its improvement.&lt;/p></description></item><item><title>Vitamin D and Neurologic Disorders (overview of vitamin D) - handout Dr. Gominak</title><link>/posts/vitamin-d-and-neurologic-disorders-overview-of-vitamin-d-handout-dr-gominak.html</link><pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-neurologic-disorders-overview-of-vitamin-d-handout-dr-gominak.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#why-vitamin-d">Why Vitamin D?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-is-not-a-vitamin">Vitamin D is not a vitamin:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#why-would-we-make-a-hormone-from-sun-exposure">Why would we make a hormone from sun exposure?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#d-hormone-affects-our-weight-and-appetite">D hormone affects our weight and appetite:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#low-d-goofs-up-sleep">Low D goofs up sleep.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-does-d-hormone-deficiency-look-like">What does D hormone deficiency look like?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#poor-sleep-causes-hypertension-heart-disease-and-stroke">Poor sleep causes hypertension, heart disease and stroke:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#poor-sleep-causes-memory-problems-and-depression">Poor sleep causes memory problems and depression:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#d-hormone-bones-and-calcium">D hormone, bones and calcium:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#low-d-causes-balance-difficulties-and-pain">Low D causes balance difficulties and pain:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#low-d-causes-infertility-polycystic-ovary-syndrome-and-endometriosis">Low D causes infertility, polycystic ovary syndrome and endometriosis:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#women-bearing-babies-are-the-ones-who-are-most-affected">Women bearing babies are the ones who are most affected:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#some-commonly-used-medications-prevent-rem-sleep">Some commonly used medications prevent REM sleep:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-aging">Vitamin D and aging:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-should-my-vitamin-d-level-be">What should my vitamin D level be?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#why-fda-recommendations-are-so-low">Why FDA recommendations are so low:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-is-the-right-d-hormone-dose">What is the right D hormone dose?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#practical-aspects">Practical Aspects:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-kind-of-d-and-why-so-many-kinds">What kind of D and why so many kinds?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#i-eat-a-good-diet-why-would-i-have-other-vitamin-deficiencies-in-addition-to-vitamin-d-deficiency">“I eat a good diet, why would I have other vitamin deficiencies in addition to vitamin D deficiency?”&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#do-our-b-vitamins-really-come-from-our-poop">Do our B vitamins really come from our poop?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#any-other-vitamins">Any other vitamins?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>If you have a neurologic problem that is severe enough to see a neurologist, you are probably not healing your body as perfectly as you once did. Most people who are suffering from neurologic problems such as headache, chronic pain, tremor, balance difficulties, dizziness, depression, stroke, or memory loss also have abnormal sleep. Fixing the sleep can often fix the neurologic problem.&lt;/p></description></item><item><title>Hearts responded to stress better after 5,000 IU of vitamin D for a month</title><link>/posts/hearts-responded-to-stress-better-after-5000-iu-of-vitamin-d-for-a-month.html</link><pubDate>Tue, 11 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/hearts-responded-to-stress-better-after-5000-iu-of-vitamin-d-for-a-month.html</guid><description>&lt;h3 id="vitamin-d-supplementation-is-associated-with-improved-modulation-of-cardiac-autonomic-tone-in-healthy-humans">Vitamin D supplementation is associated with improved modulation of cardiac autonomic tone in healthy humans&lt;/h3>
+&lt;p>International Journal of Cardiology, Volume 172, Issue 2 , Pages 506-508, 15 March 2014&lt;/p>
+&lt;p>M.C. Mann, D.V. Exner, B.R. Hemmelgarn, T.C. Turin, D.Y. Sola, L. Ellis, S.B. Ah &lt;a href="mailto:Sofia.Ahmed@albertahealthservices.ca">Sofia.Ahmed@albertahealthservices.ca&lt;/a>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="http://www.nutraingredients.com/Research/Vitamin-D-may-boost-heart-s-ability-to-respond-to-a-stressor?utm_source=RSS_text_news&amp;amp;utm_medium=RSS%2Bfeed&amp;amp;utm_campaign=RSS%2BText%2BNews&amp;amp;utm_reader=feedly">Reported in NutraIngredients&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>A daily vitamin D dose of 5,000 IU for 28 days was associated with maintenance of the so-called sympatho-vagal balance, or the interaction between the sympathetic nervous system and the vagus nerve&lt;/p></description></item><item><title>Central Nervous System helped by Vitamin D – Review – 2013</title><link>/posts/central-nervous-system-helped-by-vitamin-d-review-2013.html</link><pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/central-nervous-system-helped-by-vitamin-d-review-2013.html</guid><description>&lt;h2 id="vitamin-d-and-the-central-nervous-system">Vitamin D and the central nervous system&lt;/h2>
+&lt;p>Pharmacological Reports 2013, 65, 271-278 ISSN 1734-1140&lt;/p>
+&lt;p>Matgorzata Wrzosek1, Jacek tukaszkiewicz2, Michat Wrzosek3, Andrzej Jakubczyk4, Halina Matsumoto4, Pawet Piatkiewicz3, Maria Radziwoh-Zaleska4, Marcin Wojnar4,5, Grazyna Nowicka1&lt;/p>
+&lt;p>department of Pharmacogenomics, department of Biochemistry and Clinical Chemistry,&lt;/p>
+&lt;p>department of Internal Medicine and Diabetology, department of Psychiatry, Medical University of Warsaw,&lt;/p>
+&lt;p>Zwirki i Wigury 61, PL 02-091 Warszawa, Poland&lt;/p>
+&lt;p>department of Psychiatry, University of Michigan, 4250 Plymouth Rd., Ann Arbor, MI 48109, USA Correspondence: Grazyna Nowicka, e-mail: &lt;a href="mailto:grazyna.nowicka@wum.edu.p">grazyna.nowicka@wum.edu.p&lt;/a>&lt;/p></description></item><item><title>Handbook of Vitamin D – 700 pages – 2013</title><link>/posts/handbook-of-vitamin-d-700-pages-2013.html</link><pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/handbook-of-vitamin-d-700-pages-2013.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#handbook-of-vitamin-d-in-human-health-vitamin-d-in-human-health-prevention-treatment-and-toxicity">Handbook of vitamin D in human health: vitamin D in human health, Prevention, treatment and toxicity&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#overview-of-key-vitamin-d-modified-conditions">Overview of key vitamin D modified conditions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-musculoskeletal-health">Vitamin D and musculoskeletal health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-chronic-disease">Vitamin D and chronic disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-infectious-disease">Vitamin D and infectious disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-cancer">Vitamin D and cancer&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#women-and-children">Women and children&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#index">Index&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="handbook-of-vitamin-d-in-human-health-vitamin-d-in-human-health-prevention-treatment-and-toxicity">Handbook of vitamin D in human health: vitamin D in human health, Prevention, treatment and toxicity&lt;/h3>
+&lt;p>Edited by: Ronald Ross Watson&lt;/p></description></item><item><title>Atrial fibrillation and low vitamin D: both types of AF are very low</title><link>/posts/atrial-fibrillation-and-low-vitamin-d-both-types-of-af-are-very-low.html</link><pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/atrial-fibrillation-and-low-vitamin-d-both-types-of-af-are-very-low.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-effects-of-vitamin-d-deficiency-on-atrial-fibrillation---jan-2014">The Effects of Vitamin D Deficiency on Atrial Fibrillation - Jan 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#atrial-fibrillation-associated-with-low-vitamin-d-in-3-of-6-studies---april-2015">Atrial fibrillation associated with low vitamin D in 3 of 6 studies - April 2015&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-effects-of-vitamin-d-deficiency-on-atrial-fibrillation---jan-2014">The Effects of Vitamin D Deficiency on Atrial Fibrillation - Jan 2014&lt;/h4>
+&lt;p>CLIN APPL THROMB HEMOST January 2014 vol. 20 no. 1 98-103&lt;/p>
+&lt;p>Mehmet Demir, MD1⇑&lt;/p>
+&lt;p>Umut Uyan, MD1&lt;/p>
+&lt;p>Mehmet Melek, MD1&lt;/p>
+&lt;p>1Department of Cardiology, Bursa Yüksek İhtisas Education and Research Hospital, Bursa, Turkey&lt;/p></description></item><item><title>Magnesium update by Dr. Dean</title><link>/posts/magnesium-update-by-dr-dean.html</link><pubDate>Sun, 08 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/magnesium-update-by-dr-dean.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#the-magnesium-miracle-a-special-interview-with-carolyn-dean">The Magnesium Miracle: A Special Interview with Carolyn Dean&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="the-magnesium-miracle-a-special-interview-with-carolyn-dean">The Magnesium Miracle: A Special Interview with Carolyn Dean&lt;/h2>
+&lt;p>GP: Gaea Powell CD: Carolyn Dean &lt;span>[&lt;strong>bolding&lt;/strong> by VitaminDWiki]&lt;/span> &lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://articles.mercola.com/sites/articles/archive/2013/12/08/magnesium-health-benefits.aspx"> &lt;strong>Video and great overview on Dr. Mercola website&lt;/strong> &lt;/a>&lt;/p>
+&lt;p>&lt;strong>Introduction:&lt;/strong>&lt;/p>
+&lt;p>GP: Hi, thank you so much for joining us and for being willing to come and share your important message with our audience. We greatly appreciate it.&lt;/p></description></item><item><title>Protective cardiovascular and renal actions of vitamin D and sex hormones</title><link>/posts/protective-cardiovascular-and-renal-actions-of-vitamin-d-and-sex-hormones.html</link><pubDate>Wed, 13 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/protective-cardiovascular-and-renal-actions-of-vitamin-d-and-sex-hormones.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#span-stylecolor00fthe-following-sections-are-clipped-from-the-pdf-is-attached-at-the-bottom-of-this-pagespan">&lt;span style="color:#00F;">The following sections are clipped from the PDF is attached at the bottom of this page&lt;/span>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#4-sex-hormones-and-cardiovascular-disease">4. SEX HORMONES AND CARDIOVASCULAR DISEASE&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#5-sex-hormones-and-renal-disease">5. SEX HORMONES AND RENAL DISEASE&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#51-sex-hormones-and-the-glomerular-capillary-pressure">5.1. Sex hormones and the glomerular capillary pressure&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#52-estradiol-and-testosterone-effects-on-oxidative-stress">5.2. Estradiol and testosterone effects on oxidative stress&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#53-estradiol-and-the-endothelial-system">5.3. Estradiol and the endothelial system&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#6-sex-hormones-and-diabetes">6. SEX HORMONES AND DIABETES&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#7-replacement-strategies-and-outcomes">7. REPLACEMENT STRATEGIES AND OUTCOMES&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#71-vitamin-d-replacement-and-renal-disease">7.1. Vitamin D replacement and renal disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#72-estrogens-and-progestins">7.2. Estrogens and progestins&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#73-androgens-testosterone-and-dehydroepiandrosterone-dhea">7.3. Androgens: testosterone and dehydroepiandrosterone (DHEA)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#74-oxytocin">7.4. Oxytocin&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#8-perspective">8. PERSPECTIVE&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>&lt;strong>Protective cardiovascular and renal actions of vitamin D and estrogen.&lt;/strong>&lt;/p></description></item><item><title>Off Topic: EDTA similar reduction in heart attack as Vitamin C, aspirin and Mg – RCT</title><link>/posts/off-topic-edta-similar-reduction-in-heart-attack-as-vitamin-c-aspirin-and-mg-rct.html</link><pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/off-topic-edta-similar-reduction-in-heart-attack-as-vitamin-c-aspirin-and-mg-rct.html</guid><description>&lt;h4 id="effect-of-disodium-edta-chelation-regimen-on-cardiovascular-events-in-patients-with-previous-myocardial-infarction---the-tact-randomized-trial">Effect of Disodium EDTA Chelation Regimen on Cardiovascular Events in Patients With Previous Myocardial Infarction - The TACT Randomized Trial&lt;/h4>
+&lt;p>JAMA. 2013;309(12):1241-1250. doi:10.1001/jama.2013.2107.&lt;/p>
+&lt;p>Gervasio A. Lamas, MD; Christine Goertz, DC, PhD; Robin Boineau, MD, MA; Daniel B. Mark, MD, MPH; Theodore Rozema, MD; Richard L. Nahin, PhD, MPH; Lauren Lindblad, MS; Eldrin F. Lewis, MD, MPH; Jeanne Drisko, MD; Kerry L. Lee, PhD; for the TACT Investigators&lt;/p>
+&lt;p>Chelation therapy with disodium EDTA has been used for more than 50 years to treat atherosclerosis without proof of efficacy.&lt;/p></description></item><item><title>Vitamin D is important for the central nervous system and cognition</title><link>/posts/vitamin-d-is-important-for-the-central-nervous-system-and-cognition.html</link><pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-is-important-for-the-central-nervous-system-and-cognition.html</guid><description>&lt;h3 id="vitamin-d-and-the-central-nervous-system">Vitamin D and the central nervous system&lt;/h3>
+&lt;p>Pharmacological Reports, 2013, 65, 271-278 ISSN 1734-1140&lt;/p>
+&lt;p>Matgorzata Wrzosek1, Jacek tukaszkiewicz2, Michat Wrzosek3, Andrzej Jakubczyk4, Halina Matsumoto4, Pawet Piatkiewicz3, Maria Radziwoh-Zaleska4, Marcin Wojnar4,5, Grazyna Nowicka1&lt;/p>
+&lt;p>department of Pharmacogenomics, department of Biochemistry and Clinical Chemistry,&lt;/p>
+&lt;p>department of Internal Medicine and Diabetology, department of Psychiatry, Medical University of Warsaw, Zwirki i Wigury 61, PL 02-091 Warszawa, Poland&lt;/p>
+&lt;p>department of Psychiatry, University of Michigan, 4250 Plymouth Rd., Ann Arbor, MI 48109, USA Correspondence: Grazyna Nowicka, e-mail: &lt;a href="mailto:grazyna.nowicka@wum.edu.p">grazyna.nowicka@wum.edu.p&lt;/a>&lt;/p></description></item><item><title>Magnesium prevents cardiovascular events – Meta-analysis</title><link>/posts/magnesium-prevents-cardiovascular-events-meta-analysis.html</link><pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/magnesium-prevents-cardiovascular-events-meta-analysis.html</guid><description>&lt;h2 id="magnesium-and-the-risk-of-cardiovascular-events-a-meta-analysis-of-prospective-cohort-studies">Magnesium and the risk of cardiovascular events: a meta-analysis of prospective cohort studies.&lt;/h2>
+&lt;p>PLoS One. 2013;8(3):e57720. &lt;a href="https://doi.org/10.1371/journal.pone.0057720.">doi: 10.1371/journal.pone.0057720.&lt;/a> Epub 2013 Mar 8.&lt;/p>
+&lt;p>Qu X, Jin F, Hao Y, Li H, Tang T, Wang H, Yan W, Dai K.&lt;/p>
+&lt;p>Shanghai Key Laboratory of Orthopaedic Implant, Shanghai Ninth People&amp;rsquo;s Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.&lt;/p>
+&lt;p>BACKGROUND: Prospective studies that have examined the association between dietary magnesium intake and serum magnesium concentrations and the risk of cardiovascular disease (CVD) events have reported conflicting findings. We undertook a meta-analysis to evaluate the association between dietary magnesium intake and serum magnesium concentrations and the risk of total CVD events.&lt;/p></description></item><item><title>Hypothesis: Decreasing Magnesium and increasing CaMg ratio are increasing health problems – 2012 - 2013</title><link>/posts/hypothesis-decreasing-magnesium-and-increasing-camg-ratio-are-increasing-health-problems-2012-2013.html</link><pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/hypothesis-decreasing-magnesium-and-increasing-camg-ratio-are-increasing-health-problems-2012-2013.html</guid><description>&lt;h4 id="2-items-by-a-rosanoff">2 items by A Rosanoff&lt;/h4>
+&lt;h4 id="suboptimal-magnesium-status-in-the-united-states-are-the-health-consequences-underestimated">Suboptimal magnesium status in the United States: are the health consequences underestimated?&lt;/h4>
+&lt;p>Nutr Rev. 2012 Mar;70(3):153-64. &lt;a href="https://doi.org/10.1111/j.1753-4887.2011.00465.x.">doi: 10.1111/j.1753-4887.2011.00465.x.&lt;/a> Epub 2012 Feb 15.&lt;/p>
+&lt;p>Rosanoff A, Weaver CM, Rude RK.&lt;/p>
+&lt;p>Center for Magnesium Education &amp;amp; Research, 13-1255 Malama Street, Pahoa, HI 96778, USA. &lt;a href="mailto:ARosanoff@gmail.com">ARosanoff@gmail.com&lt;/a>&lt;/p>
+&lt;p>In comparison with calcium, magnesium is an &amp;ldquo;orphan nutrient&amp;rdquo; that has been studied considerably less heavily. Low magnesium intakes and blood levels have been associated with type 2 diabetes, metabolic syndrome, elevated C-reactive protein, hypertension, atherosclerotic vascular disease, sudden cardiac death, osteoporosis, migraine headache, asthma, and colon cancer. Almost half (48%) of the US population consumed less than the required amount of magnesium from food in 2005-2006, and the figure was down from 56% in 2001-2002. Surveys conducted over 30 years indicate rising calcium-to-magnesium food-intake ratios among adults and the elderly in the United States, excluding intake from supplements, which favor calcium over magnesium.&lt;/p></description></item><item><title>Hypomagnesemia (low Magnesium) is very prevalent in ICU – 1999</title><link>/posts/hypomagnesemia-low-magnesium-is-very-prevalent-in-icu-1999.html</link><pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/hypomagnesemia-low-magnesium-is-very-prevalent-in-icu-1999.html</guid><description>&lt;h1 id="hypomagnesemia">Hypomagnesemia&lt;/h1>
+&lt;p>Journal of the American Society of Nephrology July 1, 1999 vol. 10 no. 7 1616-1622&lt;/p>
+&lt;p>ZALMAN S. AGUS&lt;/p>
+&lt;p>Emeritus Professor of Medicine, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania.&lt;/p>
+&lt;p>Correspondence to Dr. Zalman S Agus, Medical Research Service (151), VA Medical Center, University and Woodland Avenues, Philadelphia, PA 19104. Phone: 215-823-4297; Fax: 215-823-4336; E-mail: &lt;a href="mailto:agus@mail.med.upenn.edu">agus@mail.med.upenn.edu&lt;/a>&lt;/p>
+&lt;p>Hypomagnesemia is a common entity occurring in up to 12% of hospitalized patients (1). The incidence rises to as high as 60 to 65% in patients in intensive care settings in which nutrition, diuretics, hypoalbuminemia, and aminoglycosides may play important roles (2,3,4).&lt;/p></description></item><item><title>The problems of vitamin d insufficiency in older people</title><link>/posts/the-problems-of-vitamin-d-insufficiency-in-older-people.html</link><pubDate>Tue, 04 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/the-problems-of-vitamin-d-insufficiency-in-older-people.html</guid><description>&lt;h3 id="the-problems-of-vitamin-d-insufficiency-in-older-people">The problems of vitamin d insufficiency in older people.&lt;/h3>
+&lt;p>Aging Dis. 2012 Aug;3(4):313-29. Epub 2012 Jun 6.&lt;/p>
+&lt;p>Boucher BJ. Queen Mary University of London, Centre for Diabetes, Blizard Institute, London, E12AT, UK.&lt;/p>
+&lt;p>&lt;strong>(PDF is attached at the bottom of this page)&lt;/strong>&lt;/p>
+&lt;p>This report reviews evidence on disorders related to inadequate vitamin D repletion in older people. Vitamin D is as essential for bone health in adults as in children, preventing osteomalacia and muscle weakness and protecting against falls and low-impact fractures. Vitamin D is provided by skin synthesis by UVB-irradiation from summer sunshine and to a small extent by absorption from food. However, these processes become less efficient with age. Loss of mobility or residential care restricts solar exposure. Reduced appetite and financial problems often add to these problems. Thus, hypovitaminosis D is common world-wide, but is more common and more severe in older people.&lt;/p></description></item><item><title>Overview: Omega-3 many benefits include helping vitamin D</title><link>/posts/overview-omega-3-many-benefits-include-helping-vitamin-d.html</link><pubDate>Sun, 25 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/overview-omega-3-many-benefits-include-helping-vitamin-d.html</guid><description>&lt;h4 id="span-stylecolor00fomega-3-and-vitamin-d-separately-and-together-help-with-depression-cardiovascular-cognition-pregnancy-infant-obesity-mortality-breast-cancer----span">&lt;span style="color:#00F;">Omega-3 and Vitamin D separately and together help with Depression, Cardiovascular, Cognition, Pregnancy, Infant, Obesity, Mortality, Breast Cancer, . . . &lt;/span>&lt;/h4>
+&lt;img src="/attachments/d3.mock.jpg" alt="image">
+&lt;hr>
+&lt;h4 id="there-are-many-books-on-omega-3--i-such-as-the-omega-3-effect">There are many books on Omega-3: I such as: The Omega-3 Effect&lt;/h4>
+&lt;p>Everything you need to know about the supernutrient for living longer, happier, and healthier&lt;/p>
+&lt;p>Willian Sears, 2012 &lt;a href="http://www.amazon.com/Omega-3-Effect-Everything-Supernutrient-Healthier/dp/0316196843/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1354293017&amp;amp;sr=1-1&amp;amp;keywords=the+omega-3+effect+everything+you+need+to+know+about+the+supernutrient+for+living+longer">Amazon&lt;/a> $6 Kindle&lt;/p>
+&lt;hr>
+&lt;h4 id="omega-3-content-of-3-ounces-of-wild-not-farmed-fish-150-to-1900-mg">Omega-3 content of 3 ounces of (wild, not farmed) fish (150 to 1,900 mg)&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="https://omegaquant.com/do-all-fish-have-omega-3s/">OmegaQuant&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Mackerel (Atlantic &amp;amp; Pacific): 1,900 mg EPA + DHA&lt;/p></description></item><item><title>Heart problems such as Afib related to little Magnesium, Omega-3, Vitamin D getting to tissues</title><link>/posts/heart-problems-such-as-afib-related-to-little-magnesium-omega-3-vitamin-d-getting-to-tissues.html</link><pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/heart-problems-such-as-afib-related-to-little-magnesium-omega-3-vitamin-d-getting-to-tissues.html</guid><description>&lt;h4 id="for-40-years-cardiovascular-problems-associated-with-low-magnesium">For 40+ years Cardiovascular problems associated with low Magnesium&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="http://www.nejm.org/doi/full/10.1056/NEJM196904102801504%20">Sudden Death and Ischemic Heart Disease: Correlation With Hardness of the Local Water Supply.&lt;/a> 1969, New England Journal of Medicine&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>People who died suddenly had far lower levels of Magnesium than those who died in accidents&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed?term=magnesium%20(heart%20OR%20cardiac)">PubMed search for magnesium (heart OR cardiac)&lt;/a> 7879 items as of Dec 2018&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/17560883%20">Meta-analysis of magnesium therapy for the acute management of rapid atrial fibrillation.&lt;/a> 2007&lt;/p></description></item><item><title>Off topic: CVD: the primary cause of death in senior women, is increasing</title><link>/posts/off-topic-cvd-the-primary-cause-of-death-in-senior-women-is-increasing.html</link><pubDate>Sat, 03 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/off-topic-cvd-the-primary-cause-of-death-in-senior-women-is-increasing.html</guid><description>&lt;h1 id="changing-long-held-beliefs-is-never-easy">Changing Long-Held Beliefs is Never Easy:&lt;/h1>
+&lt;h2 id="a-proposal-for-multimodal-approaches-in-female-healthcare---an-integrative-view">A Proposal for Multimodal Approaches in Female Healthcare - An Integrative View&lt;/h2>
+&lt;p>The EPMA Journal 2012, 3:14 &lt;a href="http://www.epmajournal.eom/content/3/14">http://www.epmajournal.eom/content/3/14&lt;/a>&lt;/p>
+&lt;p>Olga Golubnitschaja, Secretary-General of EPMA, and Vincenzo Costigliola, President of EPMA&lt;/p>
+&lt;p>   {EPMA = European Association for Predictive, Preventive and Personalised Medicine.}&lt;/p>
+&lt;h2 id="worldwide-cardiovascular-disease-cvd-is-the-leading-cause-of-mortality-in-women-cardiovascular-health-in-females-is-not-improving-as-fast-as-that-of-males">Worldwide cardiovascular disease (CVD) is the leading cause of mortality in women: cardiovascular health in females is not improving as fast as that of males&lt;/h2>
+&lt;p>Worldwide a third of all deaths of women and &lt;strong>half of all deaths of women over 50 years old in developing countries are caused by CVD&lt;/strong> &lt;sup>[1]&lt;/sup>. Several studies have been recently dedicated to the question of CVD-related death with particular focus on gender-dependent aspects. Although CVD is traditionally considered as the major health burden of male subpopulations surprising statistics have been collected for worsening the situation in females. New trends obviously demonstrate a shifting of the problem into healthcare of female populations: from 25 countries selected by World Health Organisation in the years 1990-2000, more than a half (15 countries, 60%) currently demonstrate either increase in CVD-related death in females or, even if the rates are decreased then less compared to men &lt;sup>[2]&lt;/sup>:&lt;/p></description></item></channel></rss>

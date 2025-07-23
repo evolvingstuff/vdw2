@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Cancer associations, including problems with too much vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Cancer associations, including problems with too much vitamin D</h1><time>April 12, 2013</time><div data-pagefind-body><h3 id=serum-25-hydroxyvitamin-d-and-cancer-risk-in-older-adults-results-from-a-large-german-prospective-cohort-study>Serum 25-Hydroxyvitamin D and Cancer Risk in Older Adults: Results from a Large German Prospective Cohort Study</h3><p>Cancer Epidemiology, Biomarkers & Prevention, March 5, 2013; <a href=https://doi.org/10.1158/1055-9965.EPI-12-1332>doi: 10.1158/1055-9965.EPI-12-1332</a></p><p>José M. Ordóñez-Mena 1, Ben Schöttker 1, Ulrike Haug 2, Heiko Müller 1,</p><p>Josef Köhrle 3, Lutz Schomburg 3, Bernd Holleczek 4, and Hermann Brenner 1</p><p>Authors&rsquo; Affiliations: Divisions of 1Clinical Epidemiology and Aging Research and 2Preventive Oncology, German Cancer Research Center, Heidelberg; 3Institut für Experimentelle Endokrinologie, Charité University Medicine Berlin, Berlin; and 4Saarland Cancer Registry, Saarbrücken, Germany</p><p>Corresponding Author: Ben Schöttker, Division of Clinical Epidemiology and Aging Research, German Cancer Research Center, Im Neuenheimer Feld 581, Heidelberg 69120, Germany. Fax: 496221-421302; E-mail: <a href=mailto:b.schoettker@dkfz-heidelberg.de>b.schoettker@dkfz-heidelberg.de</a></p><p>J.M. Ordóñez-Mena and B. Schöttker contributed equally as first authors.</p><p>Background: Several observational studies assessed the relationship between serum 25-hydroxyvitamin D <span>[25(OH)D]</span> concentrations and the risk of cancer but results were inconclusive.</p><p>Methods: We measured 25(OH)D concentrations in a population-based cohort study of 9,949 men and women ages 50 to 74 years in Saarland, Germany. Comprehensively adjusted Cox regression models were applied to estimate HRs and 95% confidence intervals (CI) for the association between season-standardized 25(OH)D concentrations and total and site-specific cancer incidence.</p><p>Results: Overall, during a median of 8 years of follow-up, 873 subjects developed cancer; the most common being prostate (171), breast (137), lung (136), and colorectal (136) cancer. Low season-standardized 25(OH)D (&lt;30, 35, 40, or 36 nmol/L in winter, spring, summer, and autumn, respectively) was neither significantly associated with total cancer incidence (HR, 1.10; 95% CI, 0.93–1.30) nor with site-specific cancer incidence. However, a significantly increased overall cancer risk was observed for low 25(OH)D among men, nonobese subjects and subjects reporting low fish consumption and for high 25(OH)D in nonsmokers and nonobese subjects. Accordingly, restricted cubic splines to investigate dose–response relationships curves showed an inverse association of 25(OH)D levels and total cancer risk in men but not in women.</p><p>Conclusions: 25(OH)D concentrations were significantly associated with overall cancer incidence in subgroups of this large cohort from Germany.</p><p>No significant association was observed with site-specific cancers but this could be due to a limited statistical power for these endpoints.</p><p>Impact: Further research should clarify whether and to what extent specific risk groups might profit from vitamin D supplementation.</p><p>Cancer Epidemiol Biomarkers Prev; 1–12. ©2013 AACR.</p><p>Footnotes: Note: Supplementary data for this article are available at Cancer Epidemiology, Biomarkers & Prevention Online (<a href=http://cebp.aacrjournals.org/)>http://cebp.aacrjournals.org/)</a>.</p><p>Received November 30, 2012; Revision received January 22, 2013; Accepted February 8, 2013.</p><hr><p><strong>PDF is attached at the bottom of this page</strong></p><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><a href=/posts/overview-cancer-and-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>Cancer</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, cancer, Cancer, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

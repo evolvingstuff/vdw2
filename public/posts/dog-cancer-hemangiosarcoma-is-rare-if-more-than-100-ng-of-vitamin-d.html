@@ -1,0 +1,81 @@
+<!doctype html><html><head><meta charset=utf-8><title>Dog Cancer (hemangiosarcoma) is rare if more than 100 ng of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Dog Cancer (hemangiosarcoma) is rare if more than 100 ng of vitamin D</h1><time>July 13, 2014</time><div data-pagefind-body><h4 id=serum-25-hydroxyvitamin-d-concentrations-in-dogs---correlation-with-health-and-cancer-risk>Serum 25-hydroxyvitamin D concentrations in dogs - correlation with health and cancer risk</h4><p>Veterinary and Comparative Oncology,DOI:10.1111/vco.12101</p><p>K. A. Selting1,C. R. Sharp2,R. Ringold3,D. H. Thamm4 and R. Backus1</p><p>&lsquo;Veterinary Medical Teaching Hospital, University of Missouri, Columbia, MO, USA</p><p>2 Cummings School of Veterinary Medicine, Tufts University, North Grafton, MA, USA</p><p>3 Veterinary Diagnostics Institute, Simi Valley, CA, USA</p><p>4 Department of Clinical Sciences, Animal Cancer Center, Colorado State University, Fort Collins, CO, USA</p><p>K. A. Selting College of Veterinary Medicine; University of Missouri; 900 E. Campus Dr.; Columbia, MO 65211, USA; <a href=mailto:seltingk@missouri.edu>seltingk@missouri.edu</a></p><hr><p><strong><a href="https://scholar.google.com/scholar?cites=1233444981263920765&amp;as_sdt=5,48&amp;sciodt=0,48&amp;hl=en">this study was cited 72 times as of Aug 2022</a></strong> ]</p><hr><p>25-hydroxyvitamin D (25(OH)D) is important in bone health as well as many diseases including cancer. Supplementation may increase responsiveness of cancer cells to chemotherapy. Serum 25(OH)D, intact parathyroid hormone (iPTH) and canine C-reactive protein (c-CRP) were measured in healthy dogs and dogs with haemoabdomen. Regression analysis determined optimal 25(OH)D concentrations. In healthy dogs (n = 282), mean iPTH concentrations correlated inversely (r2 = 0.88, P &lt; 0.001) to 25(OH)D concentrations. Variation in both iPTH and c-CRP plateaued at 25(OH)D concentrations of 100-120 ng mL-1. Haemoabdomen dogs (n = 63,43 malignant and 20 benign) had 25(OH)D concentrations ranging from 19.4 to >150 ng mL-1. Relative risk of cancer increased with decreasing 25(OH)D concentrations <span>[RR = 3.9 for 25(OH)D below 40 ng mL-1 (P = 0.0001)]</span>. Serum 25(OH)D concentrations in dogs vary widely, and are influenced by dietary VitD content. Serum vitD measurement can identify dogs for which supplementation may improve health and response to cancer therapy.</p><p>Introduction</p><p>Vitamin D has become a frequent topic of research because its well-understood role in calcium metabolism has expanded to include maintenance of cellular health. Studies have found correlations between insufficient levels of vitamin D and increased risk of developing nonskeletal pathologies such as cardiovascular diseases,1-5 hypertension,6'7 cancer,8-13 diabetes,14'15 multiple sclerosis,16 rheumatoid arthritis, 17 infectious diseases18'19 and asthma.20 Such diverse effects could be explained by the presence of vitamin D receptors in several organs and tissues (cardiac myocytes, vascular smooth muscle, brain, prostate, breast, colon and immune cells), through which vitamin D is believed to directly or indirectly regulate more than 2000 genes.21 Emerging research has shown that many tissues will locally convert 25-hydroxyvitamin D <span>[25(OH)D]</span> to 1,25(OH)2D without influence from serum calcium.22</p><p>Furthermore, gene regulation by vitamin D and the impact on cellular health has been investigated in recent studies and has shown vitamin D to have an anti-inflammatory effect.3-25 Chronic inflammation is implicated in a wide range of diseases including cancer.26</p><p>The optimal vitamin D concentration for immunologic and other cell microenvironment factors may be different than that required to prevent rickets. More than 30 years ago, studies showed people with constant exposure to sunlight had significantly higher concentrations of vitamin D than people with usual exposure.27 Low stores of 25(OH)D have been associated with serious disease and with serum blood concentrations of biomarkers associated with calcium metabolism. This has led to a new understanding of 25(OH)D concentrations required for cellular health. VitaminD&rsquo; sufficiency&rsquo; has been defined and extensively studied by examining the inverse relationship between intact parathyroid hormone (iPTH) and vitamin D.28-40 iPTH concentration and biological variation, or the &lsquo;scatter&rsquo; about the mean iPTH value (i.e. standard deviation), both drop as 25(OH)D concentrations increase; where they &lsquo;plateau&rsquo; determines the optimum concentration of 25(OH)D.</p><p>Despite the wealth of research evaluating vitamin D in humans, little has been studied in dogs. As dogs rely solely on dietary sources for vitamin D,41 current serum concentrations of vitamin D in dogs may merely reflect supplementation levels in commercial dog food. Investigators have found associations of low 25(OH)D with canine lymphoma, cutaneous mast cell tumours, hyperparathyroidism, kidney disease, inflammatory bowel disease and heart disease42 - 46;however, to date no work has been published to define the optimum level of vitamin D in dogs.</p><p>The objective of this study was to determine the optimal serum concentrations of 25(OH)D (i.e. &lsquo;sufficiency&rsquo;) through the use of four biomarkers; iPTH, canine C-reactive protein (c-CRP - a measure of inflammation), calcium and phosphorous. We hypothesized that as 25(OH)D concentrations rise, iPTH and c-CRP concentrations and biological variation (scatter) will decrease. Calcium and phosphorous were measured to monitor calcium homeostasis. A secondary objective was to evaluate 25(OH)D concentrations as a risk factor for the development of cancer in dogs.</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/dog-f7.jpg alt=image><p>Figure 7. Scatterplot of CRP and 25(OH)D in the control and disease group (open circles are the control group, black triangles represent cancer, and shaded diamonds represent benign neoplasms). While vitamin D is variable, all dogs with disease are insufficient except for one. The normal dogs that are insufficient should still be considered to be at risk for disease.</p><p><strong>Table 2. (All cancers) Relative risk compared with that of the control group</strong></p><h4 id=25ohd-ng-ml-1-relative-risk>||25(OH)D (ng mL-1)| Relative Risk</h4><p>&lt;40| 3.9</p><p>&lt;60|2.0</p><p>&lt;80| 1.4</p><blockquote><p>100| 0.18||</p></blockquote><p><strong><span style=color:#00f>Majority of the study is in the PDF is attached at the bottom of this page</span></strong></p><h4 id=discussion>Discussion</h4><p>Diet is the primary source of vitamin D for dogs, as negligible amounts are produced via sunlight. We have shown in a large group of apparently healthy dogs that vitamin D stored in the form of 25(OH)D vary significantly, ranging from 9.5 to 249 ng mL-1. It should be noted that dogs with insufficient vitamin D, despite a 6-12 month follow-up period, should still be considered at risk for the development of disease such as cardiac disease, inflammatory bowel disease and cancer as previously published.42-46 Latency prior to clinical manifestation of cancer is well recognized and can vary in length. While this is not commonly discussed with regards to nonneoplastic disease, it is equally well recognized that organs compensate for dysfunction for a period of time before decompensating and developing clinical signs of disease. As the majority of these dogs eat commercial dog food diets, our data likely reflect the level of vitamin D supplementation that exists today, rather than what should be considered adequate. Similar to studies performed in human medicine, we attempted to define the level of vitamin D sufficiency by evaluating other analytes that are affected by vitamin D concentrations. This study demonstrates that iPTH and 25(OH)D have an inverse relationship. Previous studies to define sufficiency in human medicine <strong>compare vitamin D concentrations with iPTH plateau</strong> . We have shown that iPTH pleateaus at approximately 8 pg mL-1 when 25(OH)D concentrations reach 100 ng mL-1.Furthermore, when 25(OH)D is below 100ngmL-1 a normal Gaussian distribution is rejected but achieved when 25(OH)D is above 100ngmL-1.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/asthma.html><span class=tag>asthma</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/brain.html><span class=tag>brain</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>Cancer</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/gut.html><span class=tag>gut</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/ibd.html><span class=tag>IBD</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/lymphoma.html><span class=tag>lymphoma</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/pain.html><span class=tag>pain</span></a>
+<a href=/tags/rheumatoid-arthritis.html><span class=tag>rheumatoid arthritis</span></a>
+<a href=/tags/rickets.html><span class=tag>rickets</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/veterinary.html><span class=tag>Veterinary </span></a><a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>asthma, autoimmune, bone, bone cancer, brain, breathing, cancer, Cancer, cognitive, diabetes, gut, high dose, hypertension, IBD, intervention, lymphoma, metabolic, multiple sclerosis, pain, rheumatoid arthritis, rickets, therapeutic intervention, Veterinary , vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

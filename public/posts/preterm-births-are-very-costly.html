@@ -1,0 +1,101 @@
+<!doctype html><html><head><meta charset=utf-8><title>Preterm births are VERY costly</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Preterm births are VERY costly</h1><time>February 28, 2017</time><div data-pagefind-body><h4 id=indiebirthshttpwwwindiebirthcompremature-birth-and-the-new-paradigm-jan-2017><a href=http://www.indiebirth.com/premature-birth-and-the-new-paradigm/>IndieBirths</a> Jan 2017</h4><ul><li><p>“In 2005 the estimated cost for preterm birth in the United States was $26.2 billion annually, above the average cost of term births.”</p></li><li><p>“Preterm babies are <span>[also]</span> at higher risks for complications and health issues such as jaundice, retinopathy of prematurity, and chronic lung disease.”</p></li></ul><h4 id=march-of-dimes-2016httpwwwmarchofdimesorgmissionprematurity-reportcardaspx20-span-stylecolorf00pretermspan><a href=http://www.marchofdimes.org/mission/prematurity-reportcard.aspx%20>March of Dimes 2016</a>: <span style=color:red>preterm</span></h4><p><strong>| | |
+| &mdash; | &mdash; |
+| Non-Hispanic white | 8.9% |
+| Hispanic | 9.1% |
+| Non-Hispanic black | 13.4% |</strong></p><h4 id=premature-birth--the-financial-impact-on-business-march-of-dimes-i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd378j1rmrlek7xcloudfrontnetattachmentspdfpremature-birth-the-financial-impact-on-businesspdfpdfa>Premature birth -The financial impact on business March of Dimes <i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/premature-birth-the-financial-impact-on-business.pdf>PDF</a></h4><p><strong>Average employer expenditures for newborn care</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/premature-lbw-costs.jpg alt=image><ul><li><p>&ldquo;Costs per infant include all employer payments for newborn medical care during the <strong>first year of life</strong> .&rdquo;</p></li><li><p>&ldquo;Employers pay <strong>12 times as much in health care costs for premature/low birthweight</strong> (LBW) babies as for babies born without complications.&rdquo;</p></li><li><p>&ldquo;Each premature/LBW baby costs employers an additional $49,760 in newborn health care costs.</p></li></ul><blockquote><p>When maternal costs are added, employers and their employees pay $58,917 more when a baby is born prematurely.&rdquo;</p></blockquote><ul><li><p>&ldquo;With 1 in 9 babies born prematurely, employers spend more on that one premature baby than on the remaining eight babies combined.&rdquo;</p></li><li><p>figures from Truven Health Analytics, Inc. Costs of Preterm Birth. Prepared for March of Dimes, 2013</p></li></ul><p><strong>Premature/low birth weight infants stay in hospital almost two seeks longer</strong></p><hr><h4 id=economics-of-preterm-birth-reduction>Economics of preterm birth reduction</h4><p><strong>Assumptions: additional $50,000 per premature birth, $100 for education & supplements per pregnancy</strong></p><p><strong>| | | | | | | | |
+| &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| | Net savings<br>per birth<br>After subtract<br>all costs | 1. needed<br>to eliminate<br>1 preterm | Cost of<br>educ, supp<br>per pregnancy | Total cost<br>Educ/supp. | Cost of<br>test per<br>pregnancy | Total<br>test<br>costs | Net savings after<br>subtract costs |
+| Vitamin D<br>(5,000 IU avg) | <span style=color:#00f>$4,300</span> | 20 | $100 | $2,000 | $200<br>(2 tests) | $4,000 | $43,000 |
+| Omega-3 | <span style=color:#00f>$646</span> | 67 | $100 | $6,700 | $0 | $0 | $43,300 |
+| Vitamin C<br>reduces early rupture | <span style=color:#00f>$646</span> | 67 | $100 | $6,700 | $0 | $0 | $43,300 |
+| Iodine | <span style=color:#00f>$320</span> | 100 | $100 | $10,000 | $80 | $8,000 | $32,000 |</strong></p><p>Does not include additional <a href=/posts/healthy-pregnancies-need-lots-of-vitamin-d>savings to infant</a> beyond the first year</p><p>    such as reductions in Autism, MS, Respiratory Tract Infection, Asthma, Allergies</p><p>Does not include additional <a href=/posts/healthy-pregnancies-need-lots-of-vitamin-d>savings to mother</a></p><p>    such as reduction in preeclampsia, miscarriage, gestational diabetes, depression</p><p>    nor does it assign any costs for anguish of possible premie death, stillbirth, time off from work, job productivity</p><p>Of course, the percentages cannot add up to 100%, which would = ZERO premature births</p><p>However, guess that the combination might result in a $3,500 average savings per birth</p><p>    including reduction of preterm as well as other benefits to mother and child</p><hr><p><strong><a href=/posts/preterm-birth-and-low-vitamin-d-many-studies style=color:red;text-decoration:underline title="This post/category does not exist yet: Preterm birth and low Vitamin D - many studies">Preterm birth and low Vitamin D - many studies</a></strong></p><h4 id=details-of-pregnancy-related-cost-reductions-for-other-supplements>Details of pregnancy-related cost reductions for other supplements</h4><p><strong>Omega-3</strong></p><ul><li><p><a href=/posts/pregnancy-and-infants-healthier-with-omega-3-supplementation-many-studies>Pregnancy and infants healthier with Omega-3 supplementation - many studies</a></p></li><li><p><a href=/posts/typical-pregnancy-is-now-39-weeks-omega-3-and-vitamin-d-might-restore-it-to-full-40-weeks>Typical pregnancy is now 39 weeks – Omega-3 and Vitamin D might restore it to full 40 weeks</a></p></li></ul><p><strong>Vitamin C</strong></p><ul><li>The Role of Vitamin C in Prevention of Preterm Premature Rupture of Membranes</li></ul><blockquote><p>RCT 2013, 100 mg of Vitamin C     <i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/the-role-of-vitamin-c-in-prevention-of-preterm-premature-rupture-of-membranes.pdf>Download the PDF from VitaminDWiki</a></p></blockquote><p><strong>Iodine</strong></p><ul><li><a href=/posts/iodine-added-during-pregnancy-reduces-preterm-births-increases-iq-etc>Iodine added during pregnancy reduces preterm births, increases IQ. Etc.</a></li></ul><p><strong>Magnesium</strong></p><ul><li><a href=/posts/pregnancy-helped-by-magnesium-many-studies>Pregnancy helped by Magnesium - many studies</a></li></ul><p><strong>All nutrients</strong></p><ul><li><a href=/posts/micronutrients-such-as-vitamin-d-needed-during-pregnancy style=color:red;text-decoration:underline title="This post/category does not exist yet: Micronutrients (such as Vitamin D) needed during pregnancy – May 2016">Micronutrients (such as Vitamin D) needed during pregnancy – May 2016</a></li></ul><p><strong>Folic Acid</strong></p><ul><li><p><a href=/posts/vitamin-d-is-100x-better-than-folic-acid-during-pregnancy>Vitamin D is 100X better than folic acid during pregnancy</a></p><ul><li><p><strong>Giving Folic Acid before 2,000 births would reduce</strong></p><ul><li><p>1 Spina Bifida birth</p></li><li><p>100 preterm births</p></li></ul></li></ul></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/asthma.html><span class=tag>asthma</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/autoimmune-and-pregnancy.html><span class=tag>autoimmune and pregnancy</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/cost-savings.html><span class=tag>Cost savings</span></a>
+<a href=/tags/depression.html><span class=tag>depression</span></a>
+<a href=/tags/depression-and-pregnancy.html><span class=tag>depression and pregnancy</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/gestational-diabetes.html><span class=tag>gestational diabetes</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/iodine.html><span class=tag>iodine</span></a>
+<a href=/tags/low-birth-weight.html><span class=tag>low birth weight</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/magnesium-and-pregnancy.html><span class=tag>magnesium and pregnancy</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/miscarriage.html><span class=tag>miscarriage</span></a>
+<a href=/tags/mood-disorders.html><span class=tag>mood disorders</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/multiple-sclerosis-and-pregnancy.html><span class=tag>multiple sclerosis and pregnancy</span></a>
+<a href=/tags/omega-3.html><span class=tag>omega 3</span></a>
+<a href=/tags/omega-3-and-pregnancy.html><span class=tag>omega 3 and pregnancy</span></a>
+<a href=/tags/pediatric-autoimmune.html><span class=tag>pediatric autoimmune</span></a>
+<a href=/tags/preeclampsia.html><span class=tag>preeclampsia</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/pregnancy.html><span class=tag>Pregnancy</span></a>
+<a href=/tags/preterm.html><span class=tag>preterm</span></a>
+<a href=/tags/preterm-and-omega-3.html><span class=tag>preterm and omega 3</span></a>
+<a href=/tags/retinopathy.html><span class=tag>retinopathy</span></a>
+<a href=/tags/stillbirth.html><span class=tag>stillbirth</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>asthma, autoimmune, autoimmune and pregnancy, breathing, child, Cost savings, depression, depression and pregnancy, diabetes, dosage, gestational diabetes, high dose, intervention, iodine, low birth weight, magnesium, magnesium and pregnancy, metabolic, miscarriage, mood disorders, multiple sclerosis, multiple sclerosis and pregnancy, omega 3, omega 3 and pregnancy, pediatric autoimmune, preeclampsia, pregnancy, Pregnancy, preterm, preterm and omega 3, retinopathy, stillbirth, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

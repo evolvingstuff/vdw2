@@ -1,0 +1,88 @@
+<!doctype html><html><head><meta charset=utf-8><title>Colorado has the best UV (and thus best health) in the US</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Colorado has the best UV (and thus best health) in the US</h1><time>October 13, 2013</time><div data-pagefind-body><h4 id=first-i-noticed-that-colorado-has-the-lowest-obesity-rate-in-the-us>First I noticed that Colorado has the lowest obesity rate in the US</h4><p>Note:</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---obesity.jpg alt=image width=750><p><strong>Notes:</strong></p><p>People with high levels of Vitamin D have been proven to gain less weight</p><p>30% of the women given enough vitamin D supplements actually lost weight without calorie restriction, exercise.etc</p><h4 id=then-i-noticed-that-colorado-has-a-high-level-of-uv--due-to-high-elevation>Then I noticed that Colorado has a high level of UV – due to high elevation</h4><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/gif/map-uv-june.gif alt=image width=450>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map-uv-july.jpg alt=image width=450><h3 id=uv-increases-with-altitude-colorado-avg-32-more-uvb-increases-even-more>UV increases with altitude (Colorado avg= 32% more): UVB increases even more</h3><p>Colorado 6,800 ft; Wyoming 6,700 ft; Utah 6,100 ft; New Mexico 5,700 ft; Nevada 5,500 ft</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/gif/altitude-uv-risk.gif alt=image width=350><h4 id=colorado-altitude-map>Colorado altitude map</h4><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---colorado2.jpg alt=image width=650><h3 id=best-uv--high-uv-without-being-so-hot-as-to-need-air-conditioning-to-stay-away-from-the-sun>“Best UV” = high UV without being so hot as to need air conditioning to stay away from the sun</h3><h4 id=50-years-ago-people-closer-to-the-equator-had-far-less-ms-they-got-more-uv-and-thus-more-vitamin-d>50 years ago, people closer to the equator had far less MS (they got more UV and thus more vitamin D)</h4><p>Recently we can see that the difference in disease with latitude has gone away</p><p><strong>MS association with latitude has virtually been eliminated- Lancet chart June 2010</strong></p><img src=/attachments/d3.mock.jpg alt=image><h4 id=notice-how-much-less-cooling-air-conditioning-is-needed-in-colorado>Notice how much less cooling (air conditioning) is needed in Colorado</h4><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---heat.jpg alt=image width=350><p>States closer to the equator have as much or more UV, but people often stay out of the hot sun by using air conditioning</p><p><strong>Due to their high altitude Colorado, gets the most UV/vitamin D with the least amount of heat of all of the states.</strong></p><hr><h3 id=span-stylecolorf00the-following-health-problems-have-has-strong-associations-with-low-vitamin-d-low-uvspan><span style=color:red>The following health problems have has strong associations with low vitamin D (low UV)</span></h3><h3 id=there-is-a-decreased-death-rate-at-higher-elevations-more-uv>There is a decreased death rate at higher elevations (More UV)</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/land-mass-profile.jpg alt=image width=450>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/land-mass-mortality.jpg alt=image width=450><h3 id=low-rates-of-breast-cancer>Low rates of Breast Cancer</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---breast-cancer.jpg alt=image width=450><h3 id=lowest-rate-of-diabetes>Lowest rate of Diabetes</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---diabetes.jpg alt=image width=450><h3 id=colorado-has-a-low-rate-of-mental-illness>Colorado has a low rate of Mental illness</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---mental-illnesss.jpg alt=image width=450><h3 id=people-in-colorado-are-not-told-that-they-are-depressed-as-much>People in Colorado are not told that they are depressed as much</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map--told-that-you-are-depressed.jpg alt=image width=450><h3 id=colorado-6800-has-low-rate-of-hip-fracture>Colorado (6,800&rsquo;) has low rate of Hip Fracture</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---hip-fracture-2004.jpg alt=image width=450><h3 id=utah-6100-has-even-lower-hip-fracture-rates-than-colorado>Utah (6,100&rsquo;) has even lower hip fracture rates than Colorado</h3><p>(Mormons don&rsquo;t drink, and smoke very little)</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map---alcohol.jpg alt=image>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map--smoking.jpg alt=image><hr><h2 id=outside-of-the-us>Outside of the US</h2><h3 id=lima-peru-high-altitude-near-the-equator-not-so-hot-as-to-need-air-conditioning>Lima, Peru: high altitude, near the equator, not so hot as to need air conditioning</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/lima---temperature.jpg alt=image><h3 id=lima-has-sunshineuv-6-months-of-the-year>Lima has sunshine/UV 6 months of the year</h3><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/lima-sunshine.jpg alt=image><p>Lima = 5080 feet, 12 deg S latitude.</p><p>25 degrees C = 77 degrees F</p><p><strong>Cusco has twice the altitude of Lima</strong></p><p><a href=/posts/high-altitude-cusco-peru-has-far-lower-rate-of-covid-19-than-others-high-uvb-and-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: High-altitude Cusco, Peru has far lower rate of COVID-19 than others (high UVB and Vitamin D) - June 2020">High-altitude Cusco, Peru has far lower rate of COVID-19 than others (high UVB and Vitamin D) - June 2020</a></p><hr><h3 id=not-have-to-move-to-colorado-or-peru-to-increase-your-health-other-options-include>Not have to move to Colorado or Peru to increase your health: other options include</h3><ol><li><p>If living in a hot climate, you can <a href=/posts/make-a-heat-shield style=color:red;text-decoration:underline title="This link has an unknown page_id: 3121">make a heat shield</a> which blocks all of the heat and light of the sun, but does not block the UVB</p></li><li><p><a href=/posts/buy-and-use-a-uvb-light style=color:red;text-decoration:underline title="This link has an unknown page_id: 3154">Buy and use a UVB light</a></p></li><li><p>Wear a <a href=/posts/tan-thru-shirt style=color:red;text-decoration:underline title="This link has an unknown page_id: 4293">tan-thru shirt</a> to get more vitamin D from your time in the sun</p></li><li><p>Take a <a href=/posts/suncation style=color:red;text-decoration:underline title="This link has an unknown page_id: 3363">suncation</a> (Vacation in a sunny climate)</p></li><li><p>Take Vitamin D supplements - which is the lowest cost option</p></li></ol><hr><h3 id=florida-likes-to-think-of-itself-as-the-sunshine-state>Florida likes to think of itself as the sunshine state</h3><p><strong>Vitamin D deficiency in the sunshine state</strong></p><p>Nephrol Nurs J. 2013 Jul-Aug;40(4):305-10, 327; quiz 311.</p><p>Pasupala U, Hain D, Paixao R, Barrera Nŕ, Kernan W.</p><p>Cleveland Clinic Florida, Department of Hypertension/Nephrology, Weston, FL, USA.</p><p>Vitamin D is well known for its skeletal and extraskeletal benefits. Chronic kidney disease (CKD), even in the early stages, may predispose patients to vitamin D deficiency, which may result in deleterious effects. Understanding the prevalence of vitamin D deficiency in the CKD population living in southern areas of the United States may help in early identification and implementation of preventative strategies.</p><p>PMID: 24175439 Details not available - probably behind a paywall</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/alcohol.html><span class=tag>alcohol</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/ckd.html><span class=tag>CKD</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/hip-fractures.html><span class=tag>hip fractures</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/kidney.html><span class=tag>kidney</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/mental-illness.html><span class=tag>mental illness</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/obesity-and-cancer.html><span class=tag>obesity and cancer</span></a>
+<a href=/tags/smoking.html><span class=tag>smoking</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/top-news.html><span class=tag>Top news</span></a>
+<a href=/tags/uv.html><span class=tag>UV</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>alcohol, autoimmune, bone, bone cancer, breast cancer, cancer, CKD, cognitive, diabetes, falls fractures, health risk, high dose, hip fractures, hypertension, intervention, kidney, life span, mental illness, metabolic, mortality, multiple sclerosis, obesity, obesity and cancer, smoking, therapeutic intervention, Top news, UV, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

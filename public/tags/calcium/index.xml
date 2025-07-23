@@ -1,1000 +1,353 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Calcium on VitaminDWiki</title><link>/tags/calcium.html</link><description>Recent content in Calcium on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 08 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/calcium/index.xml" rel="self" type="application/rss+xml"/><item><title>Most people have major problems of milk as a source of vitamin D</title><link>/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d.html</link><pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!Highlights from [http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012] `
-│ inner_content: `Highlights from [http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012]`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Highlights from `
-│ │ inner_content: `Highlights from `
-│ ├── LinkNode
-│ │ full_match: `[http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012]`
-│ │ inner_content: `New York Times blog on Milk July 2012`
-│ │ url: `http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ `
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `New York Times blog on Milk July 2012`
-│ │ │ inner_content: `New York Times blog on Milk July 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!!By Bittman, author of book: Food Matters`
-│ inner_content: `By Bittman, author of book: Food Matters`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `By Bittman, author of book: Food Matters`
-│ │ inner_content: `By Bittman, author of book: Food Matters`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`
-│ inner_content: `US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`
-│ │ inner_content: `US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*We do not consume 2 lbs of anything else per day`
-│ inner_content: `We do not consume 2 lbs of anything else per day`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `We do not consume 2 lbs of anything else per day`
-│ │ inner_content: `We do not consume 2 lbs of anything else per day`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Even the per-capita consumption of soda is only 1 lb per day`
-│ inner_content: `Even the per-capita consumption of soda is only 1 lb per day`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Even the per-capita consumption of soda is only 1 lb per day`
-│ │ inner_content: `Even the per-capita consumption of soda is only 1 lb per day`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Now they have reduced the recommendation to [http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups] = 1.5 lbs per day`
-│ inner_content: `Now they have reduced the recommendation to [http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups] = 1.5 lbs per day`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Now they have reduced the recommendation to `
-│ │ inner_content: `Now they have reduced the recommendation to `
-│ ├── LinkNode
-│ │ full_match: `[http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups]`
-│ │ inner_content: ` 3 cups`
-│ │ url: `http://www.choosemyplate.gov/food-groups/dairy-amount.html`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `3 cups`
-│ │ │ inner_content: `3 cups`
-│ ├── TextNode
-│ │ full_match: ` = 1.5 lbs per day`
-│ │ inner_content: ` = 1.5 lbs per day`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*But, 50 million Americans are lactose intolerant`
-│ inner_content: `But, 50 million Americans are lactose intolerant`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `But, 50 million Americans are lactose intolerant`
-│ │ inner_content: `But, 50 million Americans are lactose intolerant`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+90% of Asian-Americans`
-│ inner_content: `90% of Asian-Americans`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `90% of Asian-Americans`
-│ │ inner_content: `90% of Asian-Americans`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+75% of African-Americans, Mexican-Americans, and Jews`
-│ inner_content: `75% of African-Americans, Mexican-Americans, and Jews`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `75% of African-Americans, Mexican-Americans, and Jews`
-│ │ inner_content: `75% of African-Americans, Mexican-Americans, and Jews`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__`
-│ inner_content: `__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__`
-│ level: `1`
-│ children:
-│ ├── BoldNode
-│ │ full_match: `__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__`
-│ │ inner_content: `~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~`
-│ │ │ inner_content: `Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #090
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU`
-│ │ │ │ inner_content: `Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!! Highlights from [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]`
-│ inner_content: `Highlights from [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Highlights from `
-│ │ inner_content: `Highlights from `
-│ ├── LinkNode
-│ │ full_match: `[http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]`
-│ │ inner_content: `NIH`
-│ │ url: `http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `NIH`
-│ │ │ inner_content: `NIH`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Premature babies sometimes have lactose intolerance.`
-│ inner_content: `Premature babies sometimes have lactose intolerance.`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Premature babies sometimes have lactose intolerance.`
-│ │ inner_content: `Premature babies sometimes have lactose intolerance.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Approximately 30 million American adults have some amount of lactose intolerance by age 20.`
-│ inner_content: `Approximately 30 million American adults have some amount of lactose intolerance by age 20.`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Approximately 30 million American adults have some amount of lactose intolerance by age 20.`
-│ │ inner_content: `Approximately 30 million American adults have some amount of lactose intolerance by age 20.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!!Highlights from [http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]`
-│ inner_content: `Highlights from [http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Highlights from `
-│ │ inner_content: `Highlights from `
-│ ├── LinkNode
-│ │ full_match: `[http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]`
-│ │ inner_content: `Wikipedia`
-│ │ url: `http://en.wikipedia.org/wiki/Lactose_intolerance`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Wikipedia`
-│ │ │ inner_content: `Wikipedia`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Most mammals normally become lactose intolerant after weaning, but some human populations have developed`
-│ inner_content: `Most mammals normally become lactose intolerant after weaning, but some human populations have developed`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Most mammals normally become lactose intolerant after weaning, but some human populations have developed`
-│ │ inner_content: `Most mammals normally become lactose intolerant after weaning, but some human populations have developed`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+ __lactase persistence__, in which lactase production continues into adulthood. `
-│ inner_content: ` __lactase persistence__, in which lactase production continues into adulthood. `
-│ level: `1`
-│ children:
-│ ├── BoldNode
-│ │ full_match: `__lactase persistence__`
-│ │ inner_content: `lactase persistence`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `lactase persistence`
-│ │ │ inner_content: `lactase persistence`
-│ ├── TextNode
-│ │ full_match: `, in which lactase production continues into adulthood. `
-│ │ inner_content: `, in which lactase production continues into adulthood. `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*It is estimated that __75% of adults worldwide show some decrease in lactase activity during adulthood__`
-│ inner_content: `It is estimated that __75% of adults worldwide show some decrease in lactase activity during adulthood__`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `It is estimated that `
-│ │ inner_content: `It is estimated that `
-│ ├── BoldNode
-│ │ full_match: `__75% of adults worldwide show some decrease in lactase activity during adulthood__`
-│ │ inner_content: `75% of adults worldwide show some decrease in lactase activity during adulthood`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `75% of adults worldwide show some decrease in lactase activity during adulthood`
-│ │ │ inner_content: `75% of adults worldwide show some decrease in lactase activity during adulthood`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*It has now been shown that lactase persistence is caused by several independently occurring mutations.`
-│ inner_content: `It has now been shown that lactase persistence is caused by several independently occurring mutations.`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `It has now been shown that lactase persistence is caused by several independently occurring mutations.`
-│ │ inner_content: `It has now been shown that lactase persistence is caused by several independently occurring mutations.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__`
-│ inner_content: `__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__`
-│ level: `1`
-│ children:
-│ ├── BoldNode
-│ │ full_match: `__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__`
-│ │ inner_content: `~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~`
-│ │ │ inner_content: `Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #090
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans`
-│ │ │ │ inner_content: `Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── TableNode
-│ full_match: `||Dairy product|\tServing size\t|% Lactose\nMilk, regular\t|250 ml\t|4.8%\nMilk, reduced fat|\t250 ml\t|5.2%\nYogurt, plain, regular|\t200 g\t|4.5%\nYogurt, plain, low-fat\t|200 g\t|6.0%\nIce cream\t|50 g|6.0%\nButter\t|1 tsp (5.9ml)\t|0.5%\nCottage cheese\t|30 g\t|0.3%\nCheddar cheese\t|30 g\t|0.07%||`
-│ inner_content: `Dairy product|\tServing size\t|% Lactose\nMilk, regular\t|250 ml\t|4.8%\nMilk, reduced fat|\t250 ml\t|5.2%\nYogurt, plain, regular|\t200 g\t|4.5%\nYogurt, plain, low-fat\t|200 g\t|6.0%\nIce cream\t|50 g|6.0%\nButter\t|1 tsp (5.9ml)\t|0.5%\nCottage cheese\t|30 g\t|0.3%\nCheddar cheese\t|30 g\t|0.07%`
-│ children:
-│ ├── TableRowNode
-│ │ full_match: `Dairy product|\tServing size\t|% Lactose`
-│ │ inner_content: `Dairy product|\tServing size\t|% Lactose`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Dairy product`
-│ │ │ inner_content: `Dairy product`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Dairy product`
-│ │ │ │ inner_content: `Dairy product`
-│ │ ├── TableCellNode
-│ │ │ full_match: `\tServing size\t`
-│ │ │ inner_content: `\tServing size\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Serving size\t`
-│ │ │ │ inner_content: `Serving size\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `% Lactose`
-│ │ │ inner_content: `% Lactose`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `% Lactose`
-│ │ │ │ inner_content: `% Lactose`
-│ ├── TableRowNode
-│ │ full_match: `Milk, regular\t|250 ml\t|4.8%`
-│ │ inner_content: `Milk, regular\t|250 ml\t|4.8%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Milk, regular\t`
-│ │ │ inner_content: `Milk, regular\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Milk, regular\t`
-│ │ │ │ inner_content: `Milk, regular\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `250 ml\t`
-│ │ │ inner_content: `250 ml\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `250 ml\t`
-│ │ │ │ inner_content: `250 ml\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `4.8%`
-│ │ │ inner_content: `4.8%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `4.8%`
-│ │ │ │ inner_content: `4.8%`
-│ ├── TableRowNode
-│ │ full_match: `Milk, reduced fat|\t250 ml\t|5.2%`
-│ │ inner_content: `Milk, reduced fat|\t250 ml\t|5.2%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Milk, reduced fat`
-│ │ │ inner_content: `Milk, reduced fat`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Milk, reduced fat`
-│ │ │ │ inner_content: `Milk, reduced fat`
-│ │ ├── TableCellNode
-│ │ │ full_match: `\t250 ml\t`
-│ │ │ inner_content: `\t250 ml\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `250 ml\t`
-│ │ │ │ inner_content: `250 ml\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `5.2%`
-│ │ │ inner_content: `5.2%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `5.2%`
-│ │ │ │ inner_content: `5.2%`
-│ ├── TableRowNode
-│ │ full_match: `Yogurt, plain, regular|\t200 g\t|4.5%`
-│ │ inner_content: `Yogurt, plain, regular|\t200 g\t|4.5%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Yogurt, plain, regular`
-│ │ │ inner_content: `Yogurt, plain, regular`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Yogurt, plain, regular`
-│ │ │ │ inner_content: `Yogurt, plain, regular`
-│ │ ├── TableCellNode
-│ │ │ full_match: `\t200 g\t`
-│ │ │ inner_content: `\t200 g\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `200 g\t`
-│ │ │ │ inner_content: `200 g\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `4.5%`
-│ │ │ inner_content: `4.5%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `4.5%`
-│ │ │ │ inner_content: `4.5%`
-│ ├── TableRowNode
-│ │ full_match: `Yogurt, plain, low-fat\t|200 g\t|6.0%`
-│ │ inner_content: `Yogurt, plain, low-fat\t|200 g\t|6.0%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Yogurt, plain, low-fat\t`
-│ │ │ inner_content: `Yogurt, plain, low-fat\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Yogurt, plain, low-fat\t`
-│ │ │ │ inner_content: `Yogurt, plain, low-fat\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `200 g\t`
-│ │ │ inner_content: `200 g\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `200 g\t`
-│ │ │ │ inner_content: `200 g\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `6.0%`
-│ │ │ inner_content: `6.0%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `6.0%`
-│ │ │ │ inner_content: `6.0%`
-│ ├── TableRowNode
-│ │ full_match: `Ice cream\t|50 g|6.0%`
-│ │ inner_content: `Ice cream\t|50 g|6.0%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Ice cream\t`
-│ │ │ inner_content: `Ice cream\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Ice cream\t`
-│ │ │ │ inner_content: `Ice cream\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `50 g`
-│ │ │ inner_content: `50 g`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `50 g`
-│ │ │ │ inner_content: `50 g`
-│ │ ├── TableCellNode
-│ │ │ full_match: `6.0%`
-│ │ │ inner_content: `6.0%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `6.0%`
-│ │ │ │ inner_content: `6.0%`
-│ ├── TableRowNode
-│ │ full_match: `Butter\t|1 tsp (5.9ml)\t|0.5%`
-│ │ inner_content: `Butter\t|1 tsp (5.9ml)\t|0.5%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Butter\t`
-│ │ │ inner_content: `Butter\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Butter\t`
-│ │ │ │ inner_content: `Butter\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `1 tsp (5.9ml)\t`
-│ │ │ inner_content: `1 tsp (5.9ml)\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `1 tsp (5.9ml)\t`
-│ │ │ │ inner_content: `1 tsp (5.9ml)\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `0.5%`
-│ │ │ inner_content: `0.5%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `0.5%`
-│ │ │ │ inner_content: `0.5%`
-│ ├── TableRowNode
-│ │ full_match: `Cottage cheese\t|30 g\t|0.3%`
-│ │ inner_content: `Cottage cheese\t|30 g\t|0.3%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Cottage cheese\t`
-│ │ │ inner_content: `Cottage cheese\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Cottage cheese\t`
-│ │ │ │ inner_content: `Cottage cheese\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `30 g\t`
-│ │ │ inner_content: `30 g\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `30 g\t`
-│ │ │ │ inner_content: `30 g\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `0.3%`
-│ │ │ inner_content: `0.3%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `0.3%`
-│ │ │ │ inner_content: `0.3%`
-│ ├── TableRowNode
-│ │ full_match: `Cheddar cheese\t|30 g\t|0.07%`
-│ │ inner_content: `Cheddar cheese\t|30 g\t|0.07%`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Cheddar cheese\t`
-│ │ │ inner_content: `Cheddar cheese\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Cheddar cheese\t`
-│ │ │ │ inner_content: `Cheddar cheese\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `30 g\t`
-│ │ │ inner_content: `30 g\t`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `30 g\t`
-│ │ │ │ inner_content: `30 g\t`
-│ │ ├── TableCellNode
-│ │ │ full_match: `0.07%`
-│ │ │ inner_content: `0.07%`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `0.07%`
-│ │ │ │ inner_content: `0.07%`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `\n!!!!Calcium bioavailability highlights from [http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]`
-│ inner_content: `Calcium bioavailability highlights from [http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]`
-│ level: `4`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Calcium bioavailability highlights from `
-│ │ inner_content: `Calcium bioavailability highlights from `
-│ ├── LinkNode
-│ │ full_match: `[http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]`
-│ │ inner_content: `LiveStrong`
-│ │ url: `http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `LiveStrong`
-│ │ │ inner_content: `LiveStrong`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`
-│ inner_content: `&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`
-│ │ inner_content: `&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*20% almonds, sesame seeds, sweet potatoes and pinto beans`
-│ inner_content: `20% almonds, sesame seeds, sweet potatoes and pinto beans`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `20% almonds, sesame seeds, sweet potatoes and pinto beans`
-│ │ inner_content: `20% almonds, sesame seeds, sweet potatoes and pinto beans`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*30 % milk, cheese and yogurt __~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__`
-│ inner_content: `30 % milk, cheese and yogurt __~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `30 % milk, cheese and yogurt `
-│ │ inner_content: `30 % milk, cheese and yogurt `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__`
-│ │ inner_content: `~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~`
-│ │ │ inner_content: `{Note: probably varies with vitamin D fortification and fat content}`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `{Note: probably varies with vitamin D fortification and fat content}`
-│ │ │ │ inner_content: `{Note: probably varies with vitamin D fortification and fat content}`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`
-│ inner_content: `50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`
-│ │ inner_content: `50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!!!Speculation by VitaminDWiki`
-│ inner_content: `Speculation by VitaminDWiki`
-│ level: `4`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Speculation by VitaminDWiki`
-│ │ inner_content: `Speculation by VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`
-│ inner_content: `Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`
-│ │ inner_content: `Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Now it appears only about 63% of American can drink milk.`
-│ inner_content: `Now it appears only about 63% of American can drink milk.`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Now it appears only about 63% of American can drink milk.`
-│ │ inner_content: `Now it appears only about 63% of American can drink milk.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`
-│ inner_content: `Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`
-│ │ inner_content: `Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!!!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `4`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]`
-│ │ inner_content: `Vitamin D can fortify a variety of food and drinks – even beer – March 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2496`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D can fortify a variety of food and drinks – even beer – March 2012`
-│ │ │ inner_content: `Vitamin D can fortify a variety of food and drinks – even beer – March 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]`
-│ │ inner_content: `Vitamin D history back to Egyptians and fortification - Aug 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2044`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D history back to Egyptians and fortification - Aug 2011`
-│ │ │ inner_content: `Vitamin D history back to Egyptians and fortification - Aug 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]`
-│ │ inner_content: `Suppliers surmounting vitamin D fortification challenges – March 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=730`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Suppliers surmounting vitamin D fortification challenges – March 2010`
-│ │ │ inner_content: `Suppliers surmounting vitamin D fortification challenges – March 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]`
-│ │ inner_content: `A plea for vit D food fortification in India May 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=209`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `A plea for vit D food fortification in India May 2010`
-│ │ │ inner_content: `A plea for vit D food fortification in India May 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]`
-│ │ inner_content: `Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2627`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012`
-│ │ │ inner_content: `Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]`
-│ │ inner_content: `Improved health due to vitamin D fortification in Finland`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2935`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Improved health due to vitamin D fortification in Finland`
-│ │ │ inner_content: `Improved health due to vitamin D fortification in Finland`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Cheese fortified with vitamin D))`
-│ inner_content: `((Cheese fortified with vitamin D))`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Cheese fortified with vitamin D))`
-│ │ inner_content: `Cheese fortified with vitamin D`
-│ │ page: `Cheese fortified with vitamin D`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Cheese fortified with vitamin D`
-│ │ │ inner_content: `Cheese fortified with vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))`
-│ inner_content: `((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))`
-│ │ inner_content: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`
-│ │ page: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`
-│ │ │ inner_content: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!!!((Fortification with Vitamin D))`
-│ inner_content: `((Fortification with Vitamin D))`
-│ level: `4`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Fortification with Vitamin D))`
-│ │ inner_content: `Fortification with Vitamin D`
-│ │ page: `Fortification with Vitamin D`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Fortification with Vitamin D`
-│ │ │ inner_content: `Fortification with Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IncludeNode
-│ full_match: `{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
-│ inner_content: ``
-│ attrs_dict:
-│ │ raw_content: page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
-│ │ page: Fortification with Vitamin D
-│ │ start: ~tc~ start ~/tc~
-│ │ stop: ~tc~ end ~/tc~
-│ children:
-│ ├── TextNode
-│ │ full_match: ``
-│ │ inner_content: ``├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `\n!!!!((Fortification with Vitamin D|Bread Fortification)) appears to be far better than milk fortification`
-│ inner_content: `((Fortification with Vitamin D|Bread Fortification)) appears to be far better than milk fortification`
-│ level: `4`
-│ children:
-│ ├── AliasedLocalLinkNode
-│ │ full_match: `((Fortification with Vitamin D|Bread Fortification))`
-│ │ inner_content: `Fortification with Vitamin D|Bread Fortification`
-│ │ page: `Fortification with Vitamin D`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Fortification with Vitamin D|Bread Fortification`
-│ │ │ inner_content: `Fortification with Vitamin D|Bread Fortification`
-│ ├── TextNode
-│ │ full_match: ` appears to be far better than milk fortification`
-│ │ inner_content: ` appears to be far better than milk fortification`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IncludeNode
-│ full_match: `{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ startb ~/tc~&amp;quot; stop=&amp;quot;~tc~ endb ~/tc~&amp;quot;}`
-│ inner_content: ``
-│ attrs_dict:
-│ │ raw_content: page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ startb ~/tc~&amp;quot; stop=&amp;quot;~tc~ endb ~/tc~&amp;quot;
-│ │ page: Fortification with Vitamin D
-│ │ start: ~tc~ startb ~/tc~
-│ │ stop: ~tc~ endb ~/tc~
-│ children:
-│ ├── TextNode
-│ │ full_match: ``
-│ │ inner_content: ``
-
-Original Tiki:
--------------
-!!Highlights from [http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012] 
-!!!By Bittman, author of book: Food Matters
-*US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)
-*We do not consume 2 lbs of anything else per day
-+Even the per-capita consumption of soda is only 1 lb per day
-*Now they have reduced the recommendation to [http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups] = 1.5 lbs per day
-*But, 50 million Americans are lactose intolerant
-+90% of Asian-Americans
-+75% of African-Americans, Mexican-Americans, and Jews
-+__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__
-!!! Highlights from [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]
-*Premature babies sometimes have lactose intolerance.
-*Approximately 30 million American adults have some amount of lactose intolerance by age 20.
-!!!Highlights from [http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]
-*Most mammals normally become lactose intolerant after weaning, but some human populations have developed
-+ __lactase persistence__, in which lactase production continues into adulthood. 
-*It is estimated that __75% of adults worldwide show some decrease in lactase activity during adulthood__
-*It has now been shown that lactase persistence is caused by several independently occurring mutations.
-+__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__
-||Dairy product|	Serving size	|% Lactose
-Milk, regular	|250 ml	|4.8%
-Milk, reduced fat|	250 ml	|5.2%
-Yogurt, plain, regular|	200 g	|4.5%
-Yogurt, plain, low-fat	|200 g	|6.0%
-Ice cream	|50 g|6.0%
-Butter	|1 tsp (5.9ml)	|0.5%
-Cottage cheese	|30 g	|0.3%
-Cheddar cheese	|30 g	|0.07%||
-
-!!!!Calcium bioavailability highlights from [http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]
-*&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates
-*20% almonds, sesame seeds, sweet potatoes and pinto beans
-*30 % milk, cheese and yogurt __~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__
-*50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower
-!!!!Speculation by VitaminDWiki
-*Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk
-*Now it appears only about 63% of American can drink milk.
-*Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?
-!!!!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]
-*((Cheese fortified with vitamin D))
-*((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))
-!!!!((Fortification with Vitamin D))
-{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
-
-!!!!((Fortification with Vitamin D|Bread Fortification)) appears to be far better than milk fortification
-{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ startb ~/tc~&amp;quot; stop=&amp;quot;~tc~ endb ~/tc~&amp;quot;}
-&lt;/code>
-&lt;/pre></description></item><item><title>Stiff arteries in seniors associated with low vitamin D levels</title><link>/posts/stiff-arteries-in-seniors-associated-with-low-vitamin-d-levels.html</link><pubDate>Fri, 06 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/stiff-arteries-in-seniors-associated-with-low-vitamin-d-levels.html</guid><description>&lt;h4 id="arterial-stiffness-and-vitamin-d-levels-the-baltimore-longitudinal-study-of-aging">Arterial Stiffness and Vitamin D Levels: the Baltimore Longitudinal Study of Aging&lt;/h4>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Calcium on VitaminDWiki</title><link>/tags/calcium.html</link><description>Recent content in Calcium on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/calcium/index.xml" rel="self" type="application/rss+xml"/><item><title>Pregnancies in the winter lacking vitamin D need more Calcium</title><link>/posts/pregnancies-in-the-winter-lacking-vitamin-d-need-more-calcium.html</link><pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/pregnancies-in-the-winter-lacking-vitamin-d-need-more-calcium.html</guid><description/></item><item><title>Natural variation in mineral content of a food is typically 3 to 1</title><link>/posts/natural-variation-in-mineral-content-of-a-food-is-typically-3-to-1.html</link><pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/natural-variation-in-mineral-content-of-a-food-is-typically-3-to-1.html</guid><description>&lt;h4 id="mineral-nutrient-composition--of-vegetables-fruits-and-grains-the-context-of-reports-of-apparent-historical-declines">Mineral nutrient composition of vegetables, fruits and grains: The context of reports of apparent historical declines&lt;/h4>
+&lt;p>Journal of Food Composition and Analysis &lt;a href="http://dx.doi.org/10.1016/j.jfca.2016.11.012">http://dx.doi.org/10.1016/j.jfca.2016.11.012&lt;/a>&lt;/p>
+&lt;p>Robin J. Marles &lt;a href="mailto:robin.marles@hc-sc.gc.ca">robin.marles@hc-sc.gc.ca&lt;/a>&lt;/p>
+&lt;p>Senior Scientific Advisor, Nutrition Premarket Assessment Division, Bureau of Nutritional Sciences, Food Directorate, Health Canada, 251 Sir Frederick Banting Driveway (Mail Stop 2203E), Ottawa, Ontario K1A 0K9, Canada&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>
+&lt;p>Nicely describes why most of the alarmest reports of declines should not be believed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Documents the huge variation in mineral content due to differences in climate, species, cultivars, etc. - see table below&lt;/p></description></item><item><title>Aggressive Prostate Cancer in blacks with low vitamin D – 7X more likely if added Calcium</title><link>/posts/aggressive-prostate-cancer-in-blacks-with-low-vitamin-d-7x-more-likely-if-added-calcium.html</link><pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/aggressive-prostate-cancer-in-blacks-with-low-vitamin-d-7x-more-likely-if-added-calcium.html</guid><description/></item><item><title>Less than 900 IU of Vitamin D and Calcium do not cause cardiovascular problems</title><link>/posts/less-than-900-iu-of-vitamin-d-and-calcium-do-not-cause-cardiovascular-problems.html</link><pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/less-than-900-iu-of-vitamin-d-and-calcium-do-not-cause-cardiovascular-problems.html</guid><description>&lt;h4 id="lack-of-evidence-linking-calcium-with-or-without-vitamin-d-supplementation-to-cardiovascular-disease-in-generally-healthy-adults-a-clinical-guideline-from-the-national-osteoporosis-annals-of-internal-medicine">Lack of Evidence Linking Calcium With or Without Vitamin D Supplementation to Cardiovascular Disease in Generally Healthy Adults: A Clinical Guideline From the National Osteoporosis Annals of Internal Medicine,&lt;/h4>
+&lt;p>CLINICAL GUIDELINES 20 DECEMBER 2016, Foundation and the American Society for Preventive Cardiology&lt;/p>
+&lt;p>Ann Intern Med. 2016;165(12):867-868. DOI: 10.7326/M16-1743&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>It is amazing that they make the statement that (any amount) of Vitamin D and Calcium do not cause problems when most of the studies they considered used 400 IU and only one used 800 IU.&lt;/strong>&lt;/p></description></item><item><title>Calcium from plants might be OK</title><link>/posts/calcium-from-plants-might-be-ok.html</link><pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/calcium-from-plants-might-be-ok.html</guid><description/></item><item><title>800 IU of vitamin D is not enough to help Cardiovascular Disease (found again)</title><link>/posts/800-iu-of-vitamin-d-is-not-enough-to-help-cardiovascular-disease-found-again.html</link><pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/800-iu-of-vitamin-d-is-not-enough-to-help-cardiovascular-disease-found-again.html</guid><description/></item><item><title>Cancer risk in older women reduced 32 percent by 2,000 IU of Vitamin D plus Calcium – 4 year RCT</title><link>/posts/cancer-risk-in-older-women-reduced-32-percent-by-2000-iu-of-vitamin-d-plus-calcium-4-year-rct.html</link><pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/cancer-risk-in-older-women-reduced-32-percent-by-2000-iu-of-vitamin-d-plus-calcium-4-year-rct.html</guid><description>&lt;h4 id="vitamin-d3-and-calcium-supplementation-significantly-decreases-cancer-risk-in-older-women">Vitamin D3 and calcium supplementation significantly decreases cancer risk in older women&lt;/h4>
+&lt;p>American Public Health Association 2016 meeting Oct 31, 2016&lt;/p>
+&lt;p>Joan Lappe, Creighton University; Dianne Travers-Gustafson, Creighton University; Cedric Garland, University of California at San Diego; Robert Heaney, Creighton University; Robert Recker, Creighton University; Patrice Watson, Creighton University&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;p>This RCT did not have an arm for Vitamin D without Calcium&lt;/p>
+&lt;p>There is a lot of controversy about Calcium - does it help or harm health?&lt;/p></description></item><item><title>Skim fat milk provides 3% less vitamin D</title><link>/posts/skim-fat-milk-provides-3-percent-less-vitamin-d.html</link><pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate><guid>/posts/skim-fat-milk-provides-3-percent-less-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#higher-milk-fat-content-is-associated-with-higher-25-hydroxyvitamin-d-concentration-in-early-childhood">Higher milk fat content is associated with higher 25-hydroxyvitamin D concentration in early childhood.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#history-of-us-milk-consumption">History of US Milk Consumption&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#reminder-64-of-all-humans-are-lactose-intollerant">Reminder: 64% of all humans are lactose intollerant&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#hypothesis-decreased-bioavailable-calcium-if-decreased-vitamin-d-low-fat-milk">Hypothesis: decreased bioavailable Calcium if decreased Vitamin D (low-fat milk)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="higher-milk-fat-content-is-associated-with-higher-25-hydroxyvitamin-d-concentration-in-early-childhood">Higher milk fat content is associated with higher 25-hydroxyvitamin D concentration in early childhood.&lt;/h4>
+&lt;p>Appl Physiol Nutr Metab. 2016 May;41(5):516-521 &lt;a href="https://doi.org/10.1139/apnm-2015-0671">https://doi.org/10.1139/apnm-2015-0671&lt;/a>&lt;/p>
+&lt;p>Vanderhout SM1,2,3, Birken CS4,5,6,7, Parkin PC4,5,6,7, Lebovic G3,7, Chen Y3, O&amp;rsquo;Connor DL1, Maguire JL1,2,3,4; &lt;a href="mailto:jonathon.maguire@utoronto.ca">jonathon.maguire@utoronto.ca&lt;/a> TARGetKids! Collaboration.&lt;/p></description></item><item><title>Vitamin D and Calcium report for IoM - not much change - updated 2014</title><link>/posts/vitamin-d-and-calcium-report-for-iom-not-much-change-updated-2014.html</link><pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-calcium-report-for-iom-not-much-change-updated-2014.html</guid><description>&lt;h4 id="i-classfas-fa-file-pdf-stylemargin-right-03emia-hrefhttpsd378j1rmrlek7xcloudfrontnetattachmentspdfvitamin-d-calcium-report-pdfdownload-the-entire-pdf-from-vitamindwikia">&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/vitamin-d-calcium-report-.pdf">Download the entire PDF from VitaminDWiki&lt;/a>&lt;/h4>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-deficiency">Vitamin D Deficiency&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/is-the-institute-of-medicine-report-on-calcium-and-vitamin-d-good-science" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is the Institute of Medicine Report on Calcium and Vitamin D Good Science - Jan 2011">Is the Institute of Medicine Report on Calcium and Vitamin D Good Science - Jan 2011&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/wonder-about-conflict-of-interest-of-iom-panel-members" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wonder about conflict of interest of IoM panel members">Wonder about conflict of interest of IoM panel members&lt;/a>&lt;/p></description></item><item><title>Interactions between Magnesium, Vitamin D, and Calcium</title><link>/posts/interactions-between-magnesium-vitamin-d-and-calcium.html</link><pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/interactions-between-magnesium-vitamin-d-and-calcium.html</guid><description/></item><item><title>Is a health problem associated with Low vitamin D, Low Magnesium, or too much Calcium</title><link>/posts/is-a-health-problem-associated-with-low-vitamin-d-low-magnesium-or-too-much-calcium.html</link><pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/is-a-health-problem-associated-with-low-vitamin-d-low-magnesium-or-too-much-calcium.html</guid><description>&lt;h4 id="essential-nutrient-interactions-does-low-or-suboptimal-magnesium-status-interact-with-vitamin-d-andor-calcium-status">Essential Nutrient Interactions: Does Low or Suboptimal Magnesium Status Interact with Vitamin D and/or Calcium Status?&lt;/h4>
+&lt;p>Adv Nutr. 2016 Jan 15;7(1):25-43. &lt;a href="https://doi.org/10.3945/an.115.008631.">doi: 10.3945/an.115.008631.&lt;/a> Print 2016 Jan.&lt;/p>
+&lt;p>Rosanoff A1, Dai Q2, Shapses SA3.&lt;/p>
+&lt;p>1 &lt;a href="http://www.magnesiumeducation.com/">Center for Magnesium Education and Research&lt;/a>, Pahoa, HI; &lt;a href="mailto:arosanoff@gmail.com">arosanoff@gmail.com&lt;/a>.&lt;/p>
+&lt;p>2 Vanderbilt Epidemiology Center, Department of Medicine, School of Medicine, Vanderbilt University, Nashville, TN&lt;/p>
+&lt;p>3 Rutgers University, New Brunswick, NJ.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+&lt;p>Optimum Calcium somewhere 1.7 - 2.5 X Magnesium &lt;a href="/posts/calcium-2x-of-magnesium-seems-good-china">China says 2.0 X&lt;/a>&lt;/p></description></item><item><title>Vitamin D response reduced if taken with Calcium – meta-analysis</title><link>/posts/vitamin-d-response-reduced-if-taken-with-calcium-meta-analysis.html</link><pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-response-reduced-if-taken-with-calcium-meta-analysis.html</guid><description>&lt;h4 id="effect-of-vitamin-d-or-activated-vitamin-d-on-circulating-125-dihydroxyvitamin-d-concentrations-a-systematic-review-and-metaanalysis-of-randomized-controlled-trials">Effect of Vitamin D or Activated Vitamin D on Circulating 1,25-Dihydroxyvitamin D Concentrations: A Systematic Review and Metaanalysis of Randomized Controlled Trials&lt;/h4>
+&lt;p>Armin Zittermann1,*, Jana B. Ernst1, Ingvild Birschmann2 and Marcus Dittrich3,4&lt;/p>
+&lt;p>1 Clinic for Thoracic and Cardiovascular Surgery and&lt;/p>
+&lt;p>2 Institute for Laboratory and Transfusion Medicine, Heart and Diabetes Center North Rhine-Westphalia, Ruhr University Bochum, Bad Oeynhausen, Germany;&lt;/p>
+&lt;p>3 Department of Bioinformatics, Biocenter, University of Wuerzburg, Wuerzburg, Germany;&lt;/p>
+&lt;p>4 Institute of Human Genetics, University of Wuerzburg, Wuerzburg, Germany.&lt;/p></description></item><item><title>Kidneys, Vitamin D and Calcium</title><link>/posts/kidneys-vitamin-d-and-calcium.html</link><pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/kidneys-vitamin-d-and-calcium.html</guid><description>&lt;h4 id="vitamin-d-and-the-kidneys-a-fascinating-relationship--editorial">Vitamin D and the kidneys: a fascinating relationship – EDITORIAL&lt;/h4>
+&lt;p>J. Bras. Patol. Med. Lab. vol.51 no.5 Rio de Janeiro Sept./Oct. 2015, &lt;a href="http://dx.doi.org/10.5935/1676-2444.20150045">http://dx.doi.org/10.5935/1676-2444.20150045&lt;/a>&lt;/p>
+&lt;p>José Gilberto Henriques Vieira 1&lt;/p>
+&lt;p>1Escola Paulista de Medicina da Universidade Federal de São Paulo (EPM/Unifesp)&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/kidney-vitamin-d-ca.jpg" alt="image" width="700">
+&lt;p>The complexity of the physiological system that controls serum calcium levels is remarkable. In the Figure we present a very simplified view of this system, stressing the crucial role of vitamin D and the kidneys in the overall complex. No wonder, the system without normal renal function turns out to be highly deranged. Chronic kidney disease (CKD) is, unfortunately, very frequent, and metabolic bone disease, the result of specific alterations in calcium and phosphorus metabolism, one of its main complications(1). The availability of kidney transplantation provided a real step forward in CKD patients&amp;rsquo; survival and quality of life. For the majority of transplant patients, a return to nearly normal renal function is the more likely result(2).&lt;/p></description></item><item><title>Low fertility associated with low Calcium intake and low vitamin D</title><link>/posts/low-fertility-associated-with-low-calcium-intake-and-low-vitamin-d.html</link><pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/low-fertility-associated-with-low-calcium-intake-and-low-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-deficiency-among-subfertile-women-case-control-study">Vitamin D deficiency among subfertile women: case control study.&lt;/h4>
+&lt;p>Gynecol Endocrinol. 2015 Nov 16:1-18. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
+&lt;p>&lt;strong>| | | |
+| &amp;mdash; | &amp;mdash; | &amp;mdash; |
+| | subfertile | fertile |
+| Vitamin D deficiency | 59% | 40% |
+| Calcium intake | 10% | 65% |&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>See also VitaminDWiki&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">Vitamin D and fertility: a systematic review – May 2012&lt;/a>&lt;/p></description></item><item><title>Vitamin D - Comparing Symptoms of Hypercalcemia with Low Magnesium</title><link>/posts/vitamin-d-comparing-symptoms-of-hypercalcemia-with-low-magnesium.html</link><pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-comparing-symptoms-of-hypercalcemia-with-low-magnesium.html</guid><description>&lt;h4 id="from-httpwwwvitamindcouncilorgq-a-forumtopicis-there-a-form-of-vitamin-d-that-wont-give-me-nausea-i-was-taking-the-3k-worth-of-d-that-my-md-recommended-and-i-started-to-experience-extreme-nausea-what-good-is-the-d-if-i-throw-it-up">From [http://www.vitamindcouncil.org/q-a-forum/topic/is-there-a-form-of-vitamin-d-that-wont-give-me-nausea-i-was-taking-the-3k-worth-of-d-that-my-md-recommended-and-i-started-to-experience-extreme-nausea-what-good-is-the-d-if-i-throw-it-up/|&lt;/h4>
+&lt;p>Is there a form of vitamin D that won&amp;rsquo;t give me nausea? I was taking the 3K worth of D that my MD recommended and I started to experience extreme nausea] Vitamin D Council&lt;/p>
+&lt;p>{SPLIT(fixedsize=&amp;ldquo;y&amp;rdquo; colsize=&amp;ldquo;200px|200px|&amp;rdquo;)}&lt;/p>
+&lt;p>&lt;strong>Hypercalcemia Symptoms&lt;/strong>&lt;/p>
+&lt;p>(too much vitamin D)&lt;/p>
+&lt;p>•	feeling sick or being sick&lt;/p>
+&lt;p>•	poor appetite or loss of appetite&lt;/p>
+&lt;p>• feeling very thirsty&lt;/p>
+&lt;p>•	passing urine often&lt;/p>
+&lt;p>• constipation or diarrhea&lt;/p>
+&lt;p>• abdominal pain&lt;/p></description></item><item><title>Vitamin D Cofactors in a nutshell</title><link>/posts/vitamin-d-cofactors-in-a-nutshell.html</link><pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-cofactors-in-a-nutshell.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;/li>
+ &lt;li>&lt;a href="#a-hrefpostsways-to-improve-health-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-ways-to-improve-healthperspective-of-the-importance-of-vit-d-and-co-factors-to-healtha">&lt;a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Perspective of the importance of Vit D and co-factors to health&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also---a-hrefpostsexcellent-reviews-of-supplements-at-consumerlab-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-excellent-reviews-of-supplements-at-consumerlabexcellent-reviews-of-supplements-at-consumerlaba">See also - &lt;a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h5 id="a-hrefpostsglutathione-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-15355glutathionea---the-master-antioxidant-synergistic-with-vitamin-d">&lt;a href="/posts/glutathione" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 15355">Glutathione&lt;/a> - the master antioxidant, synergistic with Vitamin D&lt;/h5>
+&lt;p>Increased Glutathione (the master antioxidant) - increases both cellular and blood levels of vitamin D&lt;/p></description></item><item><title>Vitamin D increases mineral availability which protect against toxic elements</title><link>/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements.html</link><pubDate>Sat, 18 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements.html</guid><description>&lt;h2 id="higher-concentration-of-some-metals-associated-with-higher-vitamin-d-near-a-mine-in-mexico---aug-2015">Higher concentration of some metals associated with higher vitamin D near a mine in Mexico - Aug 2015&lt;/h2>
+&lt;p>Association of arsenic and metals with concentrations of 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D among adolescents in Torreón, Mexico.&lt;/p>
+&lt;p>Environ Health Perspect. 2014 Nov;122(11):1233-8. &lt;a href="https://doi.org/10.1289/ehp.1307861.">doi: 10.1289/ehp.1307861.&lt;/a> Epub 2014 Aug 5.&lt;/p>
+&lt;p>Zamoiski RD1, Guallar E, García-Vargas GG, Rothenberg SJ, Resnick C, Andrade MR, Steuerwald AJ, Parsons PJ, Weaver VM, Navas-Acien A, Silbergeld EK.&lt;/p>
+&lt;p>1Department of Environmental Health Sciences, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.&lt;/p></description></item><item><title>Calcium supplements proven to NOT reduce fractures, but are proven to INCREASE heart problems</title><link>/posts/calcium-supplements-proven-to-not-reduce-fractures-but-are-proven-to-increase-heart-problems.html</link><pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/calcium-supplements-proven-to-not-reduce-fractures-but-are-proven-to-increase-heart-problems.html</guid><description/></item><item><title>Calcium supplementation associated with 3.9X increase risk of atrial fibrillation</title><link>/posts/calcium-supplementation-associated-with-39x-increase-risk-of-atrial-fibrillation.html</link><pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/calcium-supplementation-associated-with-39x-increase-risk-of-atrial-fibrillation.html</guid><description>&lt;p>Note: The increased Afib is probably due to the high ratio of Ca to Mg&lt;/p>
+&lt;/div>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Supplementation of calcium (Ca) and vitamin D for the prevention of osteoporosis is frequently found in Western countries. Recent re-analyses of clinical trials observed a higher risk of myocardial infarction and stroke in subjects taking Ca (+vitamin D) supplements, although the underlying mechanisms are not clear.&lt;/p>
+&lt;p>OBJECTIVE:&lt;/p>
+&lt;p>Thus, we analyzed the associations between Ca and vitamin D supplementation as well as serum concentrations of Ca and 25-hydroxyvitamin D (25(OH)D) and subclinical cardiovascular disease (CVD) phenotypes, namely intima-media thickness, ankle-brachial-index (ABI), intermittent claudication, and atrial fibrillation (AF).&lt;/p></description></item><item><title>Why Most Calcium Supplement Recommendations are DEAD WRONG</title><link>/posts/why-most-calcium-supplement-recommendations-are-dead-wrong.html</link><pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/why-most-calcium-supplement-recommendations-are-dead-wrong.html</guid><description>&lt;h3 id="greenmedinfohttpwwwgreenmedinfocomblogwhy-most-calcium-supplement-recommendations-are-dead-wrong1">&lt;a href="http://www.greenmedinfo.com/blog/why-most-calcium-supplement-recommendations-are-dead-wrong1">GreenMedInfo&lt;/a>&lt;/h3>
+&lt;p>Starts with&lt;/p>
+&lt;p>An alarming new meta-analysis published in the journal Nutrients titled, &amp;ldquo;&lt;a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738985/">Cardiovascular Effects of Calcium Supplements&lt;/a>&amp;rdquo; brings to the forefront the serious though mainly downplayed health risks associated with calcium supplementation, concluding they increase the risk of heart attack by 27%-31% and the risk of stroke by 12%-20%.&lt;/p></description></item><item><title>Off Topic: More than 800 mg of Calcium increases risk of Macular Degeneration in seniors by 2.6X – JAMA</title><link>/posts/off-topic-more-than-800-mg-of-calcium-increases-risk-of-macular-degeneration-in-seniors-by-26x-jama.html</link><pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/off-topic-more-than-800-mg-of-calcium-increases-risk-of-macular-degeneration-in-seniors-by-26x-jama.html</guid><description>&lt;h4 id="self-reported-calcium-supplementation-and-age-related-macular-degeneration-online-first">Self-reported Calcium Supplementation and Age-Related Macular Degeneration ONLINE FIRST&lt;/h4>
+&lt;p>JAMA Ophthalmol. Published online April 09, 2015. doi:10.1001/jamaophthalmol.2015.0514 Caitlin L. M. Kakigi, BA1; Kuldev Singh, MD, MPH2; Sophia Y. Wang, MD3; Wayne T. Enanoria, PhD, MPH4; Shan C. Lin, MD1&lt;/p>
+&lt;p>Importance Despite widespread use of calcium supplementation among elderly people, little is known about the association between such consumption and the prevalence of age-related macular degeneration (AMD) in the United States.&lt;/p></description></item><item><title>Stronger bones after 3 generations of tap water (more Ca and Mg) vs bottled water</title><link>/posts/stronger-bones-after-3-generations-of-tap-water-more-ca-and-mg-vs-bottled-water.html</link><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/stronger-bones-after-3-generations-of-tap-water-more-ca-and-mg-vs-bottled-water.html</guid><description>&lt;h3 id="multi-generational-drinking-of-bottled-low-mineral-water-impairs-bone-quality-in-female-rats">Multi-generational drinking of bottled low mineral water impairs bone quality in female rats.&lt;/h3>
+&lt;p>PLoS One. 2015 Mar 24;10(3):e0121995. &lt;a href="https://doi.org/10.1371/journal.pone.0121995.">doi: 10.1371/journal.pone.0121995.&lt;/a> eCollection 2015.&lt;/p>
+&lt;p>Qiu Z1, Tan Y1, Zeng H1, Wang L1, Wang D1, Luo J1, Zhang L1, Huang Y1, Chen JA2, Shu W1.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Because of reproductions and hormone changes, females are more sensitive to bone mineral loss during their lifetime. Bottled water has become more popular in recent years, and a large number of products are low mineral water. However, research on the effects of drinking bottled low mineral water on bone health is sparse.&lt;/p></description></item><item><title>T1 diabetes in children helped with two doses of 150,000 IU of vitamin D and Calcium</title><link>/posts/t1-diabetes-in-children-helped-with-two-doses-of-150000-iu-of-vitamin-d-and-calcium.html</link><pubDate>Sun, 08 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/t1-diabetes-in-children-helped-with-two-doses-of-150000-iu-of-vitamin-d-and-calcium.html</guid><description>&lt;h4 id="effect-of-vitamin-d3-supplement-in-glycemic-control-of-pediatrics-with-type-1-diabetes-mellitus-and-vitamin-d-deficiency">Effect of Vitamin D3 Supplement in Glycemic Control of Pediatrics with Type 1 Diabetes Mellitus and Vitamin D Deficiency&lt;/h4>
+&lt;p>Journal of Clinical and Diagnsotic Research 2015 March V-9 #3 SC05 - SC07&lt;/p>
+&lt;p>Sakineh Mohammadian, Nasrin Fatahi, Hossein Zaeri, Mohammad Ali Vakili&lt;/p>
+&lt;p>Correspondence : Dr. Nasrin Fatahi,&lt;/p>
+&lt;p>Pediatric Resident, Golestan University of Medical Science, Neonatal and Children Health Research Center, Gorgan, Iran. E-mail: &lt;a href="mailto:nfty3063@yahoo.com">nfty3063@yahoo.com&lt;/a>&lt;/p>
+&lt;p>Background: Glycemic control prevents microvascular complications in patients with type I diabetes mellitus such as retinopathy, nephropathy and neuropathy that influences quality of life. Some studies show the immunomodulatory effect of vitamin D in synthesis and secretion of insulin.&lt;/p></description></item><item><title>Diabetic hypertension reduced with Vitamin D and Calcium – RCT</title><link>/posts/diabetic-hypertension-reduced-with-vitamin-d-and-calcium-rct.html</link><pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/diabetic-hypertension-reduced-with-vitamin-d-and-calcium-rct.html</guid><description>&lt;h4 id="effects-of-calcium-plus-vitamin-d-supplementation-on-anthropometric-measurements-and-blood-pressure-in-vitamin-d-insufficient-people-with-type-2-diabetes-a-randomized-controlled-clinical-trial">Effects of Calcium Plus Vitamin D Supplementation on Anthropometric Measurements and Blood Pressure in Vitamin D Insufficient People with Type 2 Diabetes: A Randomized Controlled Clinical Trial.&lt;/h4>
+&lt;p>J Am Coll Nutr. 2015 Mar 4:1-9. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Tabesh M1, Azadbakht L, Faghihimani E, Tabesh M, Esmaillzadeh A.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;p>50,000 IU vitamin D weekly + 1000 mg/d Calcium vs placebos&lt;/p>
+&lt;p>Systolic blood pressure reduced by 8 mmHg in 8 weeks&lt;/p></description></item><item><title>Adding Calcium does NOT cause cardiovascular problems (reverses their meta-analysis)</title><link>/posts/adding-calcium-does-not-cause-cardiovascular-problems-reverses-their-meta-analysis.html</link><pubDate>Sun, 28 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/adding-calcium-does-not-cause-cardiovascular-problems-reverses-their-meta-analysis.html</guid><description>&lt;h3 id="cardiovascular-complications-of-calcium-supplements">Cardiovascular Complications of Calcium Supplements.&lt;/h3>
+&lt;p>J Cell Biochem. 2014 Dec 10. &lt;a href="https://doi.org/10.1002/jcb.25028.">doi: 10.1002/jcb.25028.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Reid IR1, Bristow SM, Bolland MJ.&lt;/p>
+&lt;p>1University of Auckland, Auckland, New Zealand; Department of Endocrinology, Auckland District Health Board, New Zealand.&lt;/p>
+&lt;p>There is longstanding concern that calcium supplements might increase cardiovascular risk in patients with renal impairment.&lt;/p>
+&lt;p>The Auckland Calcium Study suggested that the same problem occurs in older people taking these supplements for prevention of osteoporosis.&lt;/p></description></item><item><title>Calcium intestinal absorption increased with active, but not tested level of vitamin D</title><link>/posts/calcium-intestinal-absorption-increased-with-active-but-not-tested-level-of-vitamin-d.html</link><pubDate>Tue, 27 May 2014 00:00:00 +0000</pubDate><guid>/posts/calcium-intestinal-absorption-increased-with-active-but-not-tested-level-of-vitamin-d.html</guid><description>&lt;h3 id="25-hydroxyvitamin-d-level-does-not-reflect-intestinal-calcium-absorption-an-assay-using-strontium-as-a-surrogate-marker">25-Hydroxyvitamin D level does not reflect intestinal calcium absorption: an assay using strontium as a surrogate marker.&lt;/h3>
+&lt;p>J Bone Miner Metab. 2014 May 24. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Camargo MB1, Vilaça T, Hayashi LF, Rocha OG, Lazaretti-Castro M.&lt;/p>
+&lt;p>1Division of Endocrinology, School of Medicine, Federal University of São Paulo/UNIFESP, Avenida Nove de Julho, 5581, Apto. 30, Jardim Paulista, São Paulo, SP, CEP 01407-200, Brazil, &lt;a href="mailto:lilacamargo@uol.com.br">lilacamargo@uol.com.br&lt;/a>.&lt;/p>
+&lt;p>There is conflicting evidence as to the optimal serum 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> concentration for intestinal calcium absorption (Abs-Ca). Our purpose was to assess the relationship between vitamin D status and Abs-Ca in postmenopausal women. Fifty volunteers with low bone mass were grouped according to their serum 25(OH)D concentration as follows: mild deficient, &amp;lt;50 nmol/L (DEF) and sufficient, ≥75 nmol/L (SUF). The subjects were submitted to an oral strontium overload test to assess their Abs-Ca. Fasting blood samples were obtained to perform the relevant hormonal and biochemical tests. After the subjects received the test solution, blood samples were drawn at 30, 60, 120, and 240 min to determine the strontium concentrations. Abs-Ca was indirectly expressed as the area under the serum strontium concentration curve (AUC). A repeated measures ANOVA was performed to determine the differences among the groups. Pearson&amp;rsquo;s correlation and multiple linear regression analysis were used to study the associations between the variables. The mean 25(OH)D and 1,25-dihydroxyvitamin D &lt;span>[1,25(OH)2D]&lt;/span> concentrations differed between the groups (SUF vs. DEF) as follows: 98.7 ± 18.2 vs. 38.4 ± 8.5 nmol/L (p &amp;lt; 0.001) and 36.2 ± 10.2 vs. 24.9 ± 4.6 pg/mL (p &amp;lt; 0.001), respectively. There was no statistically significant difference between the groups for parathyroid hormone and AUC.&lt;/p></description></item><item><title>Hydrochlorothiazide might be a problem when getting lots of vitamin D</title><link>/posts/hydrochlorothiazide-might-be-a-problem-when-getting-lots-of-vitamin-d.html</link><pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate><guid>/posts/hydrochlorothiazide-might-be-a-problem-when-getting-lots-of-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#risk-of-hypercalcemia-in-blacks-taking-hydrochlorothiazide-and-vitamin-d">Risk of Hypercalcemia in Blacks Taking Hydrochlorothiazide and Vitamin D&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#thiazide-induced-severe-hypercalcemia-a-case-report-and-review-of-literature">Thiazide-induced severe hypercalcemia: a case report and review of literature.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#case-report-by-henry-lahore-founder-of-vitamindwiki">Case report by Henry Lahore, founder of VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="risk-of-hypercalcemia-in-blacks-taking-hydrochlorothiazide-and-vitamin-d">Risk of Hypercalcemia in Blacks Taking Hydrochlorothiazide and Vitamin D&lt;/h3>
+&lt;p>American Journal of Medicine, DOI: &lt;a href="http://dx.doi.org/10.1016/j.amjmed.2014.02.044">http://dx.doi.org/10.1016/j.amjmed.2014.02.044&lt;/a>&lt;/p>
+&lt;p>Received: February 4, 2014; Received in revised form: February 28, 2014; Accepted: February 28, 2014; Published Online: March 20, 2014&lt;/p>
+&lt;p>Paulette D. Chandler, MD, MPH , Jamil B. Scott, PhD, MPH, Bettina F. Drake, PhD, MPH, Kimmie Ng, MD, MPH, John P. Forman, Andrew T. Chan, MD, Gary G. Bennett, PhD, Bruce W. Hollis, PhD, Edward L. Giovannucci, MD, ScD, Karen M. Emmons, PhD, Charles S. Fuchs, MD, MPH&lt;/p></description></item><item><title>Calcium intake of 500 mg is typically enough</title><link>/posts/calcium-intake-of-500-mg-is-typically-enough.html</link><pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/calcium-intake-of-500-mg-is-typically-enough.html</guid><description>&lt;h2 id="calcium-supplements-do-they-help-or-harm">Calcium supplements: do they help or harm?.&lt;/h2>
+&lt;p>Menopause. 21(1):106-108, January 2014, &lt;span>[Clinical Corner: NAMS Practice Pearl]&lt;/span>, AN: 00042192-201401000-00018.&lt;/p>
+&lt;p>Manson, JoAnn E. MD, DrPH, NCMP; Bassuk, Shari S. ScD&lt;/p>
+&lt;p>Current recommendations for calcium intake call for 1,000 mg per day for women ages 19-50 and 1,200 mg per day for women over age 50 to ensure bone health. Given recent concerns that calcium supplements may raise risk for cardiovascular disease and kidney stones, women should aim to meet this recommendation primarily by eating a calcium-rich diet and taking calcium supplements only if needed to reach the RDA goal (often only ~500 mg per day in supplements is required).&lt;/p></description></item><item><title>The influence of Vitamin D and Calcium on fat and obesity</title><link>/posts/the-influence-of-vitamin-d-and-calcium-on-fat-and-obesity.html</link><pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/the-influence-of-vitamin-d-and-calcium-on-fat-and-obesity.html</guid><description>&lt;h3 id="calcium-and-vitamin-d-in-the-regulation-of-energy-balance-where-do-we-stand">Calcium and Vitamin D in the Regulation of Energy Balance: Where Do We Stand?&lt;/h3>
+&lt;p>Int. J. Molecular. Sci. 2014, 15(3), 4938-4945; doi:10.3390/ijms15034938 (doi registration under processing)&lt;/p>
+&lt;p>Mario J. Soares &lt;a href="mailto:m.soares@curtin.edu.au">m.soares@curtin.edu.au&lt;/a> , Kaveri Pathak †email and Emily K. Calton †email&lt;/p>
+&lt;p>Directorate of Nutrition, Dietetics &amp;amp; Food Science, School of Public Health, Faculty of Health Sciences, Curtin University, Perth 6845, Australia&lt;/p>
+&lt;p>Received: 19 February 2014; in revised form: 11 March 2014 / Accepted: 13 March 2014 / Published: 20 March 2014&lt;/p></description></item><item><title>Calcium and Vitamin D</title><link>/posts/calcium-and-vitamin-d.html</link><pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/calcium-and-vitamin-d.html</guid><description>&lt;h4 id="web">Web&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://drcarolyndean.com/2017/11/the-war-on-calcification/">The War on Calcification&lt;/a> C. Dean Nov 2017&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>
+&lt;p>Heart disease – atheroma, atherosclerosis, aortic valve stenosis, calcium build up in carotids, coronary arteries, renal arteries – any arteries in the body.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Calcinosis – Deposition of calcium in the lung, kidneys, blood vessels, and stomach.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Calcific tendenitis in the rotator cuff&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gall stones&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hypoparathyroidism&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kidney stones&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>DCIS – breast tissue calcification misidentified as precancer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Fibromyalgia muscle spasms and calcification&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bladder tissue and urethral calcification&lt;/p></description></item><item><title>More Calcium absorbed with more vitamin D – 6.7% more with 4000 IU – RCT</title><link>/posts/more-calcium-absorbed-with-more-vitamin-d-67-percent-more-with-4000-iu-rct.html</link><pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/more-calcium-absorbed-with-more-vitamin-d-67-percent-more-with-4000-iu-rct.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-increases-calcium-absorption-without-a-threshold-effect">Vitamin D supplementation increases calcium absorption without a threshold effect&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#81-citations-of-this-study-as-of-april-2023">81 citations of this study as of April 2023&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-supplementation-increases-calcium-absorption-without-a-threshold-effect">Vitamin D supplementation increases calcium absorption without a threshold effect&lt;/h4>
+&lt;p>Am J Clin Nutr March 2014 vol. 99 no. 3 624-631&lt;/p>
+&lt;p>John F Aloia, Ruban Dhaliwal, Albert Shieh, Mageda Mikhail, Melissa Fazzari, Louis Ragolia, and Steven A Abrams&lt;/p>
+&lt;p>Winthrop University Hospital, Mineola, NY (JFA, RD, AS, MM, MF, and LR)&lt;/p></description></item><item><title>Hypothesis – low vitamin D level may indicate Calcium deficiency – Masterjohn II</title><link>/posts/hypothesis-low-vitamin-d-level-may-indicate-calcium-deficiency-masterjohn-ii.html</link><pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/hypothesis-low-vitamin-d-level-may-indicate-calcium-deficiency-masterjohn-ii.html</guid><description>&lt;h4 id="an-ancestral-perspective-on-vitamin-d-status-part-2">An Ancestral Perspective on Vitamin D Status, Part 2:&lt;/h4>
+&lt;p>Why Low 25(OH)D Could Indicate a Deficiency of Calcium Instead of Vitamin D&lt;/p>
+&lt;p>&lt;a href="http://www.westonaprice.org/blogs/cmasterjohn/2013/12/19/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/%20">Winston Price Foundation&lt;/a>&lt;/p>
+&lt;p>Chris Masterjohn – December 19, 2013&lt;/p>
+&lt;p>In the first post in this series, I critiqued the “naked ape hypothesis of optimal serum 25(OH)D,” which I believe influences many researchers to interpret uncertainties in the scientific literature in a way that is biased towards recommendations for high intakes of vitamin D that could be harmful to some people, especially without appropriate attention to the nutrient density and balance of the diet, and to the overall context of a healthy diet and lifestyle.&lt;/p></description></item><item><title>Vascular calcification greatly reduced by 3 per week 1000 ug of Vitamin K2 MK-7</title><link>/posts/vascular-calcification-greatly-reduced-by-3-per-week-1000-ug-of-vitamin-k2-mk-7.html</link><pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/vascular-calcification-greatly-reduced-by-3-per-week-1000-ug-of-vitamin-k2-mk-7.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#press-release-12192013-menaq7-vitamin-k2-supplementation-may-benefit-dialysis-patients-by-inhibiting-vascular-calcification">Press Release 12/19/2013: MenaQ7® Vitamin K2 Supplementation May Benefit Dialysis Patients by Inhibiting Vascular Calcification&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-k2-supplementation-in-haemodialysis-patients-a-randomized-dose-finding-study">Vitamin K2 supplementation in haemodialysis patients: a randomized dose-finding study*&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="press-release-12192013-menaq7-vitamin-k2-supplementation-may-benefit-dialysis-patients-by-inhibiting-vascular-calcification">Press Release 12/19/2013: MenaQ7® Vitamin K2 Supplementation May Benefit Dialysis Patients by Inhibiting Vascular Calcification&lt;/h4>
+&lt;p>NattoPharma has announced the publication of a new study performed in collaboration with OLV Hospital, Belgium, St. Jan Hospital, Belgium and VitaK, University of Maastricht, the Netherlands, published by Nephrology Dialysis Transplantation. &lt;a href="https://doi.org/10.1093/ndt/gft464">doi: 10.1093/ndt/gft464&lt;/a> .&lt;/p></description></item><item><title>Death by Calcium, book by Thomas Levy</title><link>/posts/death-by-calcium-book-by-thomas-levy.html</link><pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/death-by-calcium-book-by-thomas-levy.html</guid><description>&lt;h2 id="death-by-calcium-thomas-e-levyhttpwwwmedfoxpubcommedicalnewsproducts-dbcdeath-by-calciumdeath-by-calcium-md-jd">&lt;a href="http://www.medfoxpub.com/medicalnews/product/S-DBC/Death-by-Calcium/Death-by-Calcium/">Death by Calcium, Thomas E. Levy&lt;/a>, MD, JD&lt;/h2>
+&lt;p>Price:	$29.95 paper Pages:	432, $19.95 Ebook , &lt;strong>Chapter 1 at bottom of this page&lt;/strong> book was NOT on Amazon as of Dec 12, 2013&lt;/p>
+&lt;p>Recent scientific studies now provide overwhelming proof that unequivocally confirms what many non-mainstream healthcare practitioners have long known and asserted: The regular intake of dairy and calcium supplementation promotes all known chronic degenerative diseases, and it significantly shortens life. All physicians and patients alike need to know the truth about calcium. Most people already have too much calcium in their tissues, and the incessant trumpeting of the purported health benefits of calcium supplementation and high-dairy diets must finally be exposed as marketing ploys only. The truth about calcium must finally be known.&lt;/p></description></item><item><title>Children have better Calcium levels when vitamin D levels are higher than 30 ng</title><link>/posts/children-have-better-calcium-levels-when-vitamin-d-levels-are-higher-than-30-ng.html</link><pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/children-have-better-calcium-levels-when-vitamin-d-levels-are-higher-than-30-ng.html</guid><description>&lt;h4 id="determination-of-reference-intervals-for-serum-total-calcium-in-the-vitamin-d-replete-pediatric-population">Determination of Reference Intervals for Serum Total Calcium in the Vitamin D-Replete Pediatric Population&lt;/h4>
+&lt;p>The Journal of Clinical Endocrinology &amp;amp; Metabolism November 11, 2013 jc.2013-3105&lt;/p>
+&lt;p>Jeffrey D. Roizen,&lt;/p>
+&lt;p>Vipul Shah,&lt;/p>
+&lt;p>Michael A. Levine and&lt;/p>
+&lt;p>Dean C. Carlow&lt;/p>
+&lt;p>Division of Endocrinology and Diabetes (J.D.R., M.A.L.) and Division of Pathology and Laboratory Medicine (V.S., D.C.C.), The Children’s Hospital of Philadelphia, and University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania 19104&lt;/p>
+&lt;p>Address all correspondence and requests for reprints to: Dr Dean Carlow, Division of Pathology and Lab Medicine, The Children’s Hospital of Philadelphia, 34th and Civic Center Boulevard, Philadelphia, Pennsylvania 19104. E-mail: &lt;a href="mailto:dc8236710@yahoo.com">dc8236710@yahoo.com&lt;/a>.&lt;/p></description></item><item><title>Increased Vitamin K2 reduces the problems of excess Calcium</title><link>/posts/increased-vitamin-k2-reduces-the-problems-of-excess-calcium.html</link><pubDate>Thu, 07 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/increased-vitamin-k2-reduces-the-problems-of-excess-calcium.html</guid><description/></item><item><title>Calcium and 4,000 IU Vitamin D in Postmenopausal Women – RCT</title><link>/posts/calcium-and-4000-iu-vitamin-d-in-postmenopausal-women-rct.html</link><pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/calcium-and-4000-iu-vitamin-d-in-postmenopausal-women-rct.html</guid><description>&lt;p>The Journal of Clinical Endocrinology &amp;amp; Metabolism November 1, 2013 vol. 98 no. 11 E1702-E1709&lt;/p>
+&lt;p>John F. Aloia,&lt;/p>
+&lt;p>Ruban Dhaliwal,&lt;/p>
+&lt;p>Albert Shieh,&lt;/p>
+&lt;p>Mageda Mikhail,&lt;/p>
+&lt;p>Shahidul Islam and&lt;/p>
+&lt;p>James K. Yeh&lt;/p>
+&lt;p>Winthrop University Hospital, Bone Mineral Research Center, Mineola, New York 11501&lt;/p>
+&lt;p>Address all correspondence and requests for reprints to: John F. Aloia, MD, Winthrop University Hospital, 222 Station Plaza North, Suite 510, Mineola, New York 11501. E-mail: &lt;a href="mailto:jaloia@winthrop.org">jaloia@winthrop.org&lt;/a>.&lt;/p>
+&lt;p>Context: Bone health is influenced by the intake of both calcium and vitamin D.&lt;/p></description></item><item><title>Calcium in blood (tightly regulated) did not increase when increase vitamin D to 40 ng – RCT</title><link>/posts/calcium-in-blood-tightly-regulated-did-not-increase-when-increase-vitamin-d-to-40-ng-rct.html</link><pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/calcium-in-blood-tightly-regulated-did-not-increase-when-increase-vitamin-d-to-40-ng-rct.html</guid><description>&lt;h3 id="vitamin-d-does-not-increase-calcium-absorption-in-young-women-a-randomized-clinical-trial">Vitamin D does not Increase Calcium Absorption in Young Women: A Randomized Clinical Trial&lt;/h3>
+&lt;p>Journal of Bone and Mineral Research, DOI: 10.1002/jbmr.2121&lt;/p>
+&lt;p>Christopher J Gallagher MD1, &lt;a href="mailto:jcg@creighton.edu">jcg@creighton.edu&lt;/a>&lt;/p>
+&lt;p>PS Jindal MBBS 1,&lt;/p>
+&lt;p>M Smith Lynette MS 2&lt;/p>
+&lt;p>1 Bone Metabolism Unit, Creighton University Medical Center, Omaha, Nebraska&lt;/p>
+&lt;p>2 Department of Biostatistics, University of Nebraska Medical Center, Omaha, Nebraska&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>1 year RCT with women&lt;/p>
+&lt;p>Ca with Vitamin D3 of 0, 400, 800, 1600, and 2400 IU&lt;/p></description></item><item><title>ICU reduces Vitamin D levels, deregulates PTH</title><link>/posts/icu-reduces-vitamin-d-levels-deregulates-pth.html</link><pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/icu-reduces-vitamin-d-levels-deregulates-pth.html</guid><description>&lt;h3 id="changes-in-the-calcium-parathyroid-hormone-vitamin-d-axis-and-prognosis-for-critically-ill-patients-a-prospective-observational-study">Changes in the Calcium-Parathyroid Hormone-Vitamin D Axis and Prognosis for Critically Ill Patients: A Prospective Observational Study&lt;/h3>
+&lt;p>PLoS One. 2013 Sep 20;8(9):e75441. &lt;a href="https://doi.org/10.1371/journal.pone.0075441.">doi: 10.1371/journal.pone.0075441.&lt;/a>&lt;/p>
+&lt;p>Jieyu Hu equal contributor,&lt;/p>
+&lt;p>Zuojie Luo equal contributor mail,&lt;/p>
+&lt;p>Xiaoqin Zhao,&lt;/p>
+&lt;p>Qiang Chen,&lt;/p>
+&lt;p>Zhaoyan Chen,&lt;/p>
+&lt;p>Hua Qin,&lt;/p>
+&lt;p>Yingfen Qin,&lt;/p>
+&lt;p>Xinghuan Liang,&lt;/p>
+&lt;p>Yingjun Suo&lt;/p>
+&lt;p>Objective: Vitamin D deficiency is prevalent in critically ill patients and may contribute to suboptimal clinical outcomes, but little is known about alterations of the calcium-parathyroid hormone (PTH)-vitamin D axis and prognosis in these individuals.&lt;/p></description></item><item><title>Review of Micronutrients such as vitamin D for women and childhood</title><link>/posts/review-of-micronutrients-such-as-vitamin-d-for-women-and-childhood.html</link><pubDate>Tue, 27 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/review-of-micronutrients-such-as-vitamin-d-for-women-and-childhood.html</guid><description>&lt;h3 id="micronutrients-food-fortification-and-its-impact-on-woman-and-child-health-a-systematic-review">Micronutrients food fortification and its impact on woman and child health: a systematic review.&lt;/h3>
+&lt;p>Syst Rev. 2013 Aug 23;2(1):67.&lt;/p>
+&lt;p>Das JK, Salam RA, Kumar R, Bhutta ZA.&lt;/p>
+&lt;p>BACKGROUND: Vitamins and minerals are essential for growth and metabolism. The World Health Organization estimates that more than 2 billion people are deficient in key vitamins and minerals. Groups most vulnerable to these micronutrient deficiencies are pregnant and lactating women and young children, given their increased demands. Food fortification is one of the strategies that has been used safely and effectively to prevent vitamin and mineral deficiencies.&lt;/p></description></item><item><title>Hypothesis: An intestinal calcistat regulates Calcium level in body</title><link>/posts/hypothesis-an-intestinal-calcistat-regulates-calcium-level-in-body.html</link><pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/hypothesis-an-intestinal-calcistat-regulates-calcium-level-in-body.html</guid><description>&lt;h3 id="calcium-homeostasis-and-clinical-or-subclinical-vitamin-d-deficiency">Calcium homeostasis, and clinical or subclinical vitamin D deficiency&lt;/h3>
+&lt;p>– Can a hypothesis of “intestinal calcistat” explain it all?&lt;/p>
+&lt;p>Medical Hypotheses, Volume 81, Issue 2, August 2013, Pages 253–258&lt;/p>
+&lt;p>M.K. Garg a, &lt;a href="mailto:mkgargs@gmail.com">mkgargs@gmail.com&lt;/a>&lt;/p>
+&lt;p>Namita Mahalle b&lt;/p>
+&lt;p>a Department of Endocrinology, Command Hospital (Southern Command), Pune 411040, Maharashtra, India&lt;/p>
+&lt;p>b Biochemistry Division, Department of Pathology, Deenanath Mangeshkar Hospital and Research Center, Erandawane, Pune, India&lt;/p>
+&lt;p>The main physiological function of vitamin D is maintenance of calcium homeostasis by its effect on calcium absorption, and bone health in association with parathyroid gland. Vitamin D deficiency (VDD) is defined as serum 25-hydroxy vitamin D (25OHD) levels &amp;lt;20 ng/ml. Vitamin D insufficiency is called when serum 25OHD levels are between 20–29 ng/ml, though existence of this entity has been questioned.&lt;/p></description></item><item><title>Calcium reduced some rickets in Nigerian children</title><link>/posts/calcium-reduced-some-rickets-in-nigerian-children.html</link><pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/calcium-reduced-some-rickets-in-nigerian-children.html</guid><description>&lt;h4 id="prevention-of-nutritional-rickets-in-nigerian-children-with-dietary-calcium-supplementation">Prevention of nutritional rickets in Nigerian children with dietary calcium supplementation.&lt;/h4>
+&lt;p>Bone. 2012 May;50(5):1074-80. &lt;a href="https://doi.org/10.1016/j.bone.2012.02.010.">doi: 10.1016/j.bone.2012.02.010.&lt;/a> Epub 2012 Feb 22.&lt;/p>
+&lt;p>Thacher TD, Fischer PR, Isichei CO, Zoakah AI, Pettifor JM.&lt;/p>
+&lt;p>Department of Family Medicine (TDT), Mayo Clinic, 200 First Street, SW, Rochester, MN 55905, USA. &lt;a href="mailto:thacher.thomas@mayo.edu">thacher.thomas@mayo.edu&lt;/a>&lt;/p>
+&lt;p>Nutritional rickets in Nigerian children usually results from dietary calcium insufficiency. Typical dietary calcium intakes in African children are about 200mg daily (approximately 20-28% of US RDAs for age). We sought to determine if rickets could be prevented with supplemental calcium or with an indigenous food rich in calcium. We enrolled Nigerian children aged 12 to 18 months from three urban communities. Two communities were assigned calcium, either as calcium carbonate (400mg) or ground fish (529±109mg) daily, while children in all three communities received vitamin A (2500IU) daily as placebo. Serum markers of mineral homeostasis and forearm bone density (pDEXA) were measured and radiographs were obtained at enrollment and after 18months of supplementation. The overall prevalence of radiographic rickets at baseline was 1.2% and of vitamin D deficiency &lt;a href="serum%2025(OH)D%3C12ng/ml">serum 25(OH)D&amp;lt;12ng/ml&lt;/a> 5.4%. Of 647 children enrolled, 390 completed the 18-month follow-up. Rickets developed in 1, 1, and 2 children assigned to the calcium tablet, ground fish, and control groups, respectively (approximate incidence 6.4/1000 children/year between 1 and 3years of age). Children who developed rickets in the calcium-supplemented groups had less than 50% adherence. Compared with the group that received no calcium supplementation, the groups that received calcium had a greater increase in areal bone density of the distal and proximal 1/3 radius and ulna over time (P&amp;lt;0.04). We conclude that calcium supplementation increased areal bone density at the radius and ulna, but a larger sample size would be required to determine its effect on the incidence of rickets.&lt;/p></description></item><item><title>Bones better after pregnancy with just 200 IU of vitamin D plus 600 Calcium – RCT</title><link>/posts/bones-better-after-pregnancy-with-just-200-iu-of-vitamin-d-plus-600-calcium-rct.html</link><pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate><guid>/posts/bones-better-after-pregnancy-with-just-200-iu-of-vitamin-d-plus-600-calcium-rct.html</guid><description/></item><item><title>Magnesium may be more important to kids’ bone health than calcium</title><link>/posts/magnesium-may-be-more-important-to-kids-bone-health-than-calcium.html</link><pubDate>Sat, 11 May 2013 00:00:00 +0000</pubDate><guid>/posts/magnesium-may-be-more-important-to-kids-bone-health-than-calcium.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#highlight-dietary-magnesium-intake-but-not-calcium-intake-was-significantly-associated-with-both-total-body-bone-mineral-content-and-density">Highlight: dietary magnesium intake, but not calcium intake, was significantly associated with both total body bone mineral content and density&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#27153-magnesium-but-not-calcium-intake">2715.3 Magnesium, but Not Calcium Intake&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#press-release">Press Release&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="highlight-dietary-magnesium-intake-but-not-calcium-intake-was-significantly-associated-with-both-total-body-bone-mineral-content-and-density">Highlight: dietary magnesium intake, but not calcium intake, was significantly associated with both total body bone mineral content and density&lt;/h2>
+&lt;h2 id="27153-magnesium-but-not-calcium-intake">2715.3 Magnesium, but Not Calcium Intake&lt;/h2>
+&lt;p>&lt;strong>Is Significantly Association with Bone Mineral Status in 4 to 8 Year Old Children&lt;/strong>&lt;/p></description></item><item><title>Calcium 2X of Magnesium seems good – China</title><link>/posts/calcium-2x-of-magnesium-seems-good-china.html</link><pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/calcium-2x-of-magnesium-seems-good-china.html</guid><description>&lt;h4 id="modifying-effect-of-calciummagnesium-intake-ratio-and-mortality-a-population-based-cohort-study">Modifying effect of calcium/magnesium intake ratio and mortality: a population-based cohort study.&lt;/h4>
+&lt;p>BMJ Open. 2013 Feb 20;3(2). pii: e002111. &lt;a href="https://doi.org/10.1136/bmjopen-2012-002111.">doi: 10.1136/bmjopen-2012-002111.&lt;/a> Print 2013.&lt;/p>
+&lt;p>Dai Q, Shu XO, Deng X, Xiang YB, Li H, Yang G, Shrubsole MJ, Ji B, Cai H, Chow WH, Gao YT, Zheng W.&lt;/p>
+&lt;p>Division of Epidemiology, Department of Medicine, Vanderbilt Epidemiology Center, Vanderbilt-Ingram Cancer Center, Vanderbilt School of Medicine, Nashville, Tennessee, USA.&lt;/p>
+&lt;p>OBJECTIVES:Magnesium (Mg) and calcium (Ca) antagonise each other in (re)absorption, inflammation and many other physiological activities. Based on mathematical estimation, the absorbed number of Ca or Mg depends on the dietary ratio of Ca to Mg intake. We hypothesise that the dietary Ca/Mg ratio modifies the effects of Ca and Mg on mortality due to gastrointestinal tract cancer and, perhaps, mortality due to diseases occurring in other organs or systems.&lt;/p></description></item><item><title>Osteoporosis spot therapies: vitamin D with Calcium was the most popular</title><link>/posts/osteoporosis-spot-therapies-vitamin-d-with-calcium-was-the-most-popular.html</link><pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/osteoporosis-spot-therapies-vitamin-d-with-calcium-was-the-most-popular.html</guid><description>&lt;h2 id="adherence-to-anti-osteoporotic-therapies-role-and-determinants-of-spot-therapy">Adherence to anti-osteoporotic therapies: role and determinants of &amp;ldquo;spot therapy&amp;rdquo;&lt;/h2>
+&lt;p>Osteoporos Int. 2013 Feb 12.&lt;/p>
+&lt;p>Tafaro L, Nati G, Leoni E, Baldini R, Cattaruzza MS, Mei M, Falaschi P.&lt;/p>
+&lt;p>Geriatric Unit, Sant&amp;rsquo;Andrea Hospital, Sapienza University of Rome, via di Grottarossa No. 1035, 00189, Rome, Italy.&lt;/p>
+&lt;p>A successful therapy needs high level of adherence consisting in right drug intake in terms of persistence and compliance. Our study suggests adherence is higher if spot (less than 30 days) therapies are excluded; the analysis of spot therapy causes underlines the importance of the interpersonal aspects of medical practice.&lt;/p></description></item><item><title>More than 400 mg of Calcium supplements caused cardiovascular deaths in men</title><link>/posts/more-than-400-mg-of-calcium-supplements-caused-cardiovascular-deaths-in-men.html</link><pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/more-than-400-mg-of-calcium-supplements-caused-cardiovascular-deaths-in-men.html</guid><description>&lt;h2 id="full-text-will-be-here-soon">full text will be here soon&lt;/h2>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/calcium-cvd-1.jpg" alt="image">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/caclium-cvd-2.jpg" alt="image">
+&lt;p>for now&lt;/p>
+&lt;p>&lt;strong>PDF is attached at the bottom of this page&lt;/strong> !!full text will be here soon&lt;/p>
+&lt;h2 id="note-calcium-is-far-less-of-a-problem-if-taken-with-vitamin-d-and--or-vitamin-d-2">Note: Calcium is far less of a problem if taken with Vitamin D and / or Vitamin D-2&lt;/h2></description></item><item><title>Calcium and vitamin D receptors are important to many health conditions</title><link>/posts/calcium-and-vitamin-d-receptors-are-important-to-many-health-conditions.html</link><pubDate>Thu, 24 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/calcium-and-vitamin-d-receptors-are-important-to-many-health-conditions.html</guid><description>&lt;h4 id="calcium-nutrition-and-extracellular-calcium-sensing-relevance-for-the-pathogenesis-of-osteoporosis-cancer-and-cardiovascular-diseases">Calcium Nutrition and Extracellular Calcium Sensing: Relevance for the Pathogenesis of Osteoporosis, Cancer and Cardiovascular Diseases&lt;/h4>
+&lt;p>Nutrients 2013, 5, 302-327; doi:10.3390/nu5010302&lt;/p>
+&lt;p>Meinrad Peterlik &lt;a href="mailto:meinrad.peterlik@meduniwien.ac.at">meinrad.peterlik@meduniwien.ac.at&lt;/a>, Enikoe Kallay and Heide S. Cross&lt;/p>
+&lt;p>Department of Pathophysiology, Medical University of Vienna, Waehringer Guertel 18-20, A-1090 Vienna, Austria; E-Mails: &lt;a href="mailto:enikoe.kallay@meduniwien.ac.at">enikoe.kallay@meduniwien.ac.at&lt;/a> (E.K.); &lt;a href="mailto:heide.cross@meduniwien.ac.at">heide.cross@meduniwien.ac.at&lt;/a> (H.S.C.)&lt;/p>
+&lt;p>Received: 30 October 2012; in revised form: 10 January 2013 / Accepted: 11 January 2013 / Published: 22 January 2013&lt;/p>
+&lt;p>&lt;strong>PDF, including all figures and tables, is attached at the bottom of this page&lt;/strong>&lt;/p></description></item><item><title>1000 IU of vitamin D reduced child PTH, but did not increase Calcium – RCT</title><link>/posts/1000-iu-of-vitamin-d-reduced-child-pth-but-did-not-increase-calcium-rct.html</link><pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/1000-iu-of-vitamin-d-reduced-child-pth-but-did-not-increase-calcium-rct.html</guid><description>&lt;h2 id="supplementation-with-1000-iu-vitamin-dd-leads-to-parathyroid-hormone-suppression">Supplementation with 1000 IU vitamin D/d leads to parathyroid hormone suppression,&lt;/h2>
+&lt;h3 id="but-not-increased-fractional-calcium-absorption-in-48-y-old-children-a-double-blind-randomized-controlled-trial-1234">but not increased fractional calcium absorption, in 4–8-y-old children: a double-blind randomized controlled trial 1,2,3,4&lt;/h3>
+&lt;p>Am J Clin Nutr January 2013 vol. 97 no. 1 217-223&lt;/p>
+&lt;p>Steven A Abrams, Keli M Hawthorne, and Zhensheng Chen&lt;/p>
+&lt;p>1 From the USDA/Agricultural Research Service, Children&amp;rsquo;s Nutrition Research Center, Department of Pediatrics, Baylor College of Medicine, Houston, TX.&lt;/p>
+&lt;p>Author Notes&lt;/p>
+&lt;p>↵2 The contents of this publication do not necessarily reflect the views or policies of the USDA, nor does mention of trade names, commercial products, or organizations imply endorsement by the US government.&lt;/p></description></item><item><title>Healthy bones need Ca, Silicon, Vitamins B, C, D, and K</title><link>/posts/healthy-bones-need-ca-silicon-vitamins-b-c-d-and-k.html</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/healthy-bones-need-ca-silicon-vitamins-b-c-d-and-k.html</guid><description>&lt;p>Update on nutrients involved in maintaining healthy bone.&lt;/p>
+&lt;p>Endocrinol Nutr. 2012 Dec 27. pii: S1575-0922(12)00294-X. &lt;a href="https://doi.org/10.1016/j.endonu.2012.09.006.">doi: 10.1016/j.endonu.2012.09.006.&lt;/a> &lt;span>[Article in English, Spanish]&lt;/span>&lt;/p>
+&lt;p>Rondanelli M, Opizzi A, Perna S, Faliva MA.&lt;/p>
+&lt;p>Department of Applied Health Sciences, Section of Human Nutrition and Dietetics, Faculty of Medicine, University of Pavia, Endocrinology and Nutrition Unit, Azienda di Servizi alla Persona di Pavia, Pavia, Italy. Electronic address: &lt;a href="mailto:mariangela.rondanelli@unipv.it">mariangela.rondanelli@unipv.it&lt;/a>.&lt;/p>
+&lt;p>Osteoporosis is a leading cause of morbidity and mortality in the elderly and influences quality of life, as well as life expectancy. Currently, there is a growing interest among the medical scientists in search of specific nutrients and/or bioactive compounds of natural origin for the prevention of disease and maintenance of bone health. Although calcium and vitamin D have been the primary focus of nutritional prevention of osteoporosis, a recent research has clarified the importance of several additional nutrients and food constituents.&lt;/p></description></item><item><title>Interview of Vitamin K2 and Calcium Paradox author by Dr. Mercola</title><link>/posts/interview-of-vitamin-k2-and-calcium-paradox-author-by-dr-mercola.html</link><pubDate>Sun, 16 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/interview-of-vitamin-k2-and-calcium-paradox-author-by-dr-mercola.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;h3 id="youtube-2012httpwwwyoutubecomwatchvfymexqnostq-1-hour---concerning-ca-k2-and-ostoeporosis">&lt;a href="http://www.youtube.com/watch?v=fYMExQNosTQ">YouTube, 2012&lt;/a> 1 hour - concerning Ca, K2 and Ostoeporosis&lt;/h3>
+&lt;h3 id="interview-of-author-by-mercolahttparticlesmercolacomsitesarticlesarchive20121216vitamin-k2aspxe_cid20121216_snl_art_1-dec-2012">&lt;a href="http://articles.mercola.com/sites/articles/archive/2012/12/16/vitamin-k2.aspx?e_cid=20121216_SNL_Art_1">Interview of author by Mercola&lt;/a> Dec 2012&lt;/h3>
+&lt;h3 id="a-hrefpostsvitamin-k2-and-the-calcium-paradox-2012-book-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-2908vitamin-k2-and-the-calcium-paradox--2012-booka-review--and-table-of-contents-on-vitamindwiki">&lt;a href="/posts/vitamin-k2-and-the-calcium-paradox-2012-book" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2908">Vitamin K2 and the Calcium Paradox – 2012 book&lt;/a> Review and table of contents on VitaminDWiki&lt;/h3>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/kate.jpg" alt="image">
+&lt;h3 id="a-hrefpostsoverview-vitamin-k-and-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-765overview-vitamin-k-and-vitamin-da">&lt;a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Overview Vitamin K and Vitamin D&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>Highlights in BLUE added by VitaminDWiki&lt;/strong>&lt;/p></description></item><item><title>600 mg of Calcium and a gene increases probability of Prostate Cancer by 50 pcnt</title><link>/posts/600-mg-of-calcium-and-a-gene-increases-probability-of-prostate-cancer-by-50-pcnt.html</link><pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/600-mg-of-calcium-and-a-gene-increases-probability-of-prostate-cancer-by-50-pcnt.html</guid><description>&lt;h3 id="protective-effects-of-low-calcium-intake-and-low-calcium-absorption-vitamin-d-receptor-genotype-in-the-california-collaborative-prostate-cancer-study">Protective effects of low calcium intake and low calcium absorption vitamin D receptor genotype in the California Collaborative Prostate Cancer Study&lt;/h3>
+&lt;p>Calcium Epidemiology Biomarkers and Prevention, November 5, 2012&lt;/p>
+&lt;p>Glovioell W Rowland 1, Gary G. Schwartz 2, Esther M. John 3, and Sue Ann Ingles 4,ingles@usc.edu&lt;/p>
+&lt;p>1 Preventive Medicine, University of Southern California&lt;/p>
+&lt;p>2 Cancer Biology, Urology, and Epidemiology and Prevention, Wake Forest Baptist Medical Center&lt;/p>
+&lt;p>3 Epidemiology, Cancer Prevention Institute of California&lt;/p></description></item><item><title>Little change in Calcium absorption when taking 400 vs 4,000 IU of vitamin D</title><link>/posts/little-change-in-calcium-absorption-when-taking-400-vs-4000-iu-of-vitamin-d.html</link><pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/little-change-in-calcium-absorption-when-taking-400-vs-4000-iu-of-vitamin-d.html</guid><description/></item><item><title>Vitamin D may prevent falls and fractures without Calcium – an overview of 9 meta-analysis</title><link>/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis.html</link><pubDate>Sat, 06 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis.html</guid><description>&lt;h4 id="do-we-need-to-take-calcium-with-vitamin-d-supplements-to-prevent-falls-fractures-and-death">Do we need to take calcium with vitamin D supplements to prevent falls, fractures, and death?&lt;/h4>
+&lt;p>Curr Opin Clin Nutr Metab Care. 2012 Oct 3.&lt;/p>
+&lt;p>Scragg R, School of Population Health, University of Auckland, Auckland, New Zealand.&lt;/p>
+&lt;p>PURPOSE OF REVIEW:&lt;/p>
+&lt;p>The 2011 report by the US Institute of Medicine (IOM) on dietary reference intakes for calcium and vitamin D is based on meta-analyses of randomized controlled trials (RCTs), which concluded that vitamin D supplements need to be taken with calcium supplements to prevent falls, fractures, and all-cause mortality. This study reviews recent meta-analyses of RCTs of vitamin D supplementation to determine whether their conclusions are consistent with the meta-analyses underpinning the IOM report.&lt;/p></description></item><item><title>Calcium and bone disorders in pregnancy</title><link>/posts/calcium-and-bone-disorders-in-pregnancy.html</link><pubDate>Sun, 12 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/calcium-and-bone-disorders-in-pregnancy.html</guid><description>&lt;p>Indian J Endocrinol Metab. 2012 May-Jun; 16(3): 358–363, &lt;a href="https://doi.org/10.4103/2230-8210.95665">doi: 10.4103/2230-8210.95665&lt;/a>, PMCID: PMC3354840&lt;/p>
+&lt;p>Shriraam Mahadevan, V. Kumaravel,1 and R. Bharath2&lt;/p>
+&lt;p>Department of Clinical Endocrinology, Dr. E. V. Kalyani Medical Centre, Chennai, India&lt;/p>
+&lt;p>1 Department of Clinical Endocrinology, Alpha Hospital and Research Centre, Madurai, India&lt;/p>
+&lt;p>2 Department of Endocrinology, Chettinad Medical College and Research Institute, Chennai, India&lt;/p>
+&lt;p>Corresponding Author: Dr. Shriraam Mahadevan, Department of Clinical Endocrinology, Dr. E. V. Kalyani Medical Centre, 4, Radhakrishnan Salai, Mylapore, Chennai 600004, India. E-mail: &lt;a href="mailto:mshriraam@gmail.com">mshriraam@gmail.com&lt;/a>&lt;/p></description></item><item><title>Calcium levels can be measured with ionized calcium tests</title><link>/posts/calcium-levels-can-be-measured-with-ionized-calcium-tests.html</link><pubDate>Sun, 05 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/calcium-levels-can-be-measured-with-ionized-calcium-tests.html</guid><description/></item><item><title>Calcium absorption increased only 6 percent for high amounts of vitamin D – RCT</title><link>/posts/calcium-absorption-increased-only-6-percent-for-high-amounts-of-vitamin-d-rct.html</link><pubDate>Thu, 02 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/calcium-absorption-increased-only-6-percent-for-high-amounts-of-vitamin-d-rct.html</guid><description/></item><item><title>Most people have major problems of milk as a source of vitamin D</title><link>/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d.html</link><pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d.html</guid><description/></item><item><title>Stiff arteries in seniors associated with low vitamin D levels</title><link>/posts/stiff-arteries-in-seniors-associated-with-low-vitamin-d-levels.html</link><pubDate>Fri, 06 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/stiff-arteries-in-seniors-associated-with-low-vitamin-d-levels.html</guid><description>&lt;h4 id="arterial-stiffness-and-vitamin-d-levels-the-baltimore-longitudinal-study-of-aging">Arterial Stiffness and Vitamin D Levels: the Baltimore Longitudinal Study of Aging&lt;/h4>
 &lt;p>The Journal of Clinical Endocrinology &amp;amp; Metabolism July 5, 2012 jc.2012-1584&lt;/p>
 &lt;p>Francesco Giallauria &lt;a href="mailto:giallauriaf@mail.nih.gov">giallauriaf@mail.nih.gov&lt;/a>, Yuri Milaneschi, Toshiko Tanaka, Marcello Maggio, Marco Canepa, Palchamy Elango, Carlo Vigorito, Edward G. Lakatta, Luigi Ferrucci and James Strait&lt;/p>
-&lt;p>Longitudinal Studies Section (F.G., Y.M., T.T., P.E., L.F.), Clinical Research Branch, National Institute on Aging, Baltimore, Maryland 21225; Department of Clinical Medicine (F.G., C.V.), Cardiovascular and Immunological Sciences, University of Naples “Federico II”, 80131 Naples, Italy; Department of Psychiatry (Y.M.), VU University Medical Center/GGZ inGeest, 1081 HZ Amsterdam, The Netherlands; Department of Internal Medicine and Biomedical Sciences (M.M.), Section of Geriatrics, University of Parma, 43100 Parma, Italy; Laboratory of Cardiovascular Science (M.C., E.G.L., J.S.), National Institute on Aging, Baltimore, Maryland 21225&lt;/p></description></item><item><title>Aortic Calcification 85 percent more likely if vitamin D level lower than 29 ng</title><link>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</link><pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!!ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
-│ inner_content: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
-│ │ inner_content: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`├── TextNode
-│ full_match: `\nKidney Research and Clinical Practice, Volume 31, Issue 2, Page A31\nMaria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni\n\nThe best biomarker of Vitamin D status is calcifediol `
-│ inner_content: `\nKidney Research and Clinical Practice, Volume 31, Issue 2, Page A31\nMaria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni\n\nThe best biomarker of Vitamin D status is calcifediol `├── LinkNode
-│ full_match: `[25(OH)D]`
-│ inner_content: `25(OH)D`
-│ url: `25(OH)D`
-│ children:
-│ ├── TextNode
-│ │ full_match: `25(OH)D`
-│ │ inner_content: `25(OH)D`├── TextNode
-│ full_match: `. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. \n\nBone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). \n- - - - - - - - - -\n`
-│ inner_content: `. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. \n\nBone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). \n- - - - - - - - - -\n`├── HeadingNode
-│ full_match: `!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
-│ │ inner_content: `Overview Cardiovascular and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1422`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Cardiovascular and Vitamin D`
-│ │ │ inner_content: `Overview Cardiovascular and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] `
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] `
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011]`
-│ │ inner_content: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1955`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
-│ │ │ inner_content: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D]`
-│ │ inner_content: `All items in Cardiovascular and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in Cardiovascular and Vitamin D`
-│ │ │ inner_content: `All items in Cardiovascular and Vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
-│ │ inner_content: `Arterial stiffness reduced with vitamin D intervention – June 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1787`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Arterial stiffness reduced with vitamin D intervention – June 2011`
-│ │ │ inner_content: `Arterial stiffness reduced with vitamin D intervention – June 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
-│ │ inner_content: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=376`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`
-│ │ │ inner_content: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
-│ │ inner_content: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2987`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`
-│ │ │ inner_content: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`├── TextNode
-│ full_match: `\n- - - - - - - - - - - - - - - - - - - - -\nNo associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), \nwhile we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). \n\nFurthermore, we found a `
-│ inner_content: `\n- - - - - - - - - - - - - - - - - - - - -\nNo associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), \nwhile we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). \n\nFurthermore, we found a `├── BoldNode
-│ full_match: `__OR 1.85__`
-│ inner_content: `OR 1.85`
-│ children:
-│ ├── TextNode
-│ │ full_match: `OR 1.85`
-│ │ inner_content: `OR 1.85`├── TextNode
-│ full_match: ` (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. \n\nDuring follow-up (2.7±0.5 years) mortality was of 19.9%. \n\nNo association was found between mortality and calcifediol levels (p=0.5394). \n\nIn conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification `
-│ inner_content: ` (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. \n\nDuring follow-up (2.7±0.5 years) mortality was of 19.9%. \n\nNo association was found between mortality and calcifediol levels (p=0.5394). \n\nIn conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification `
-
-Original Tiki:
--------------
-!!!ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.
-Kidney Research and Clinical Practice, Volume 31, Issue 2, Page A31
-Maria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni
-
-The best biomarker of Vitamin D status is calcifediol [25(OH)D]. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. 
-
-Bone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). 
-- - - - - - - - - -
-!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] 
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]
-- - - - - - - - - - - - - - - - - - - - -
-No associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), 
-while we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). 
-
-Furthermore, we found a __OR 1.85__ (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. 
-
-During follow-up (2.7±0.5 years) mortality was of 19.9%. 
-
-No association was found between mortality and calcifediol levels (p=0.5394). 
-
-In conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification 
-&lt;/code>
-&lt;/pre></description></item></channel></rss>
+&lt;p>Longitudinal Studies Section (F.G., Y.M., T.T., P.E., L.F.), Clinical Research Branch, National Institute on Aging, Baltimore, Maryland 21225; Department of Clinical Medicine (F.G., C.V.), Cardiovascular and Immunological Sciences, University of Naples “Federico II”, 80131 Naples, Italy; Department of Psychiatry (Y.M.), VU University Medical Center/GGZ inGeest, 1081 HZ Amsterdam, The Netherlands; Department of Internal Medicine and Biomedical Sciences (M.M.), Section of Geriatrics, University of Parma, 43100 Parma, Italy; Laboratory of Cardiovascular Science (M.C., E.G.L., J.S.), National Institute on Aging, Baltimore, Maryland 21225&lt;/p></description></item><item><title>Aortic Calcification 85 percent more likely if vitamin D level lower than 29 ng</title><link>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</link><pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</guid><description/></item></channel></rss>

@@ -1,173 +1,187 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tuberculosis on VitaminDWiki</title><link>/categories/tuberculosis.html</link><description>Recent content in Tuberculosis on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 04 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/categories/tuberculosis/index.xml" rel="self" type="application/rss+xml"/><item><title>Probability of getting TB reduced 60 percent with just 800 IU of vitamin D – RCT</title><link>/posts/probability-of-getting-tb-reduced-60-percent-with-just-800-iu-of-vitamin-d-rct.html</link><pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/probability-of-getting-tb-reduced-60-percent-with-just-800-iu-of-vitamin-d-rct.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!!!Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`
-│ inner_content: `Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`
-│ level: `4`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`
-│ │ inner_content: `Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`├── TextNode
-│ full_match: `\nAm J Clin Nutr August 2012 ajcn.034967\nDavaasambuu Ganmaa, Edward Giovannucci, Barry R Bloom, Wafaie Fawzi, Winthrop Burr, Dulguun Batbaatar, Nyamjav Sumberzul, Michael F Holick, and Walter C Willett\n1 From the Department of Nutrition, Harvard School of Public Health and Channing Laboratory, Brigham and Women&amp;#39;s Hospital and Harvard Medical School, Boston, MA (DG, EG, and WCW); the Health Sciences University of Mongolia, Ulaanbaatar, Mongolia (DG, WB, DB, and NS); the Department of Immunology and Infectious Diseases and Department of Global Health and Population, Harvard School of Public Health, Boston, MA (BRB); Harvard University Health Services, Cambridge, MA (WB); the Department of Nutrition, Epidemiology and Global Health and Population, Harvard School of Public Health, Boston, MA (WF); and the Endocrine, Diabetes and Nutrition Section, Department of Medicine, Boston University Medical Center, Boston, MA (MFH).\n2 Supported by NIH/NHLBI 5 K99 HL089710-02 and 4 R00 HL089710-03. The Tischon Corporation of Salisbury, MD, donated the vitamin D supplements.\n?3 Address correspondence to D Ganmaa, 665 Huntington Avenue, Building II, Room 341B, Harvard School of Public Health and Channing Laboratory, Boston, MA. E-mail: gdavaasa@hsph.harvard.edu.\n\nBackground: By modulating immune function, vitamin D might increase innate immunity and inhibit the growth of initial bacterial invasion and protect against tuberculosis infection.\n\nObjective: We examined the effect of vitamin D supplementation on tuberculin skin test (TST) conversion.\n\nDesign: A double-blind, placebo-controlled study was conducted in 120 Mongol schoolchildren. We estimated the prevalence of latent tuberculosis infection at baseline and examined the effect of vitamin D (800 IU/d) on serum concentrations of 25-hydroxyvitamin D `
-│ inner_content: `\nAm J Clin Nutr August 2012 ajcn.034967\nDavaasambuu Ganmaa, Edward Giovannucci, Barry R Bloom, Wafaie Fawzi, Winthrop Burr, Dulguun Batbaatar, Nyamjav Sumberzul, Michael F Holick, and Walter C Willett\n1 From the Department of Nutrition, Harvard School of Public Health and Channing Laboratory, Brigham and Women&amp;#39;s Hospital and Harvard Medical School, Boston, MA (DG, EG, and WCW); the Health Sciences University of Mongolia, Ulaanbaatar, Mongolia (DG, WB, DB, and NS); the Department of Immunology and Infectious Diseases and Department of Global Health and Population, Harvard School of Public Health, Boston, MA (BRB); Harvard University Health Services, Cambridge, MA (WB); the Department of Nutrition, Epidemiology and Global Health and Population, Harvard School of Public Health, Boston, MA (WF); and the Endocrine, Diabetes and Nutrition Section, Department of Medicine, Boston University Medical Center, Boston, MA (MFH).\n2 Supported by NIH/NHLBI 5 K99 HL089710-02 and 4 R00 HL089710-03. The Tischon Corporation of Salisbury, MD, donated the vitamin D supplements.\n?3 Address correspondence to D Ganmaa, 665 Huntington Avenue, Building II, Room 341B, Harvard School of Public Health and Channing Laboratory, Boston, MA. E-mail: gdavaasa@hsph.harvard.edu.\n\nBackground: By modulating immune function, vitamin D might increase innate immunity and inhibit the growth of initial bacterial invasion and protect against tuberculosis infection.\n\nObjective: We examined the effect of vitamin D supplementation on tuberculin skin test (TST) conversion.\n\nDesign: A double-blind, placebo-controlled study was conducted in 120 Mongol schoolchildren. We estimated the prevalence of latent tuberculosis infection at baseline and examined the effect of vitamin D (800 IU/d) on serum concentrations of 25-hydroxyvitamin D `├── LinkNode
-│ full_match: `[25(OH)D]`
-│ inner_content: `25(OH)D`
-│ url: `25(OH)D`
-│ children:
-│ ├── TextNode
-│ │ full_match: `25(OH)D`
-│ │ inner_content: `25(OH)D`├── TextNode
-│ full_match: ` and TST conversion.\n\nResults: At baseline, the mean (±SD) 25(OH)D concentration was 7 ± 4 ng/mL, and all concentrations were &amp;lt;20 ng/mL. \nVitamin D supplementation increased serum 25(OH)D by a mean of 12.7 ng/mL compared with placebo (P &amp;lt; 0.0001). \n\nAt baseline, 16 children in the vitamin D group and 18 in the placebo group were TST positive (P = 0.7). \nOver 6 mo, TSTs converted to positive in 5 (11%) children receiving vitamin D compared with 11 (27%) receiving placebo (RR: 0.41; 95% CI: 0.16, 1.09; P = 0.06). \n\nOnly one TST conversion occurred among those whose serum 25(OH)D concentration increased to &amp;gt;20 ng/mL, \nwhereas 8 TST conversions occurred in those whose final 25(OH)D concentration remained &amp;lt;10 ng/mL (P = 0.05). \n\nThe mean increase in stature was 2.9 ± 1.6 cm in the vitamin D group and 2.0 ± 1.7 cm in the placebo group (95% CI: 2.16, 2.81; P &amp;lt; 0.003).\n\nConclusions: Vitamin D supplementation for 6 mo had significant favorable effects on serum 25(OH)D concentrations and on growth in stature. \nA trend was seen toward fewer TST conversions in the vitamin D group. \n\nThis trial was registered at clinicaltrials.gov as `
-│ inner_content: ` and TST conversion.\n\nResults: At baseline, the mean (±SD) 25(OH)D concentration was 7 ± 4 ng/mL, and all concentrations were &amp;lt;20 ng/mL. \nVitamin D supplementation increased serum 25(OH)D by a mean of 12.7 ng/mL compared with placebo (P &amp;lt; 0.0001). \n\nAt baseline, 16 children in the vitamin D group and 18 in the placebo group were TST positive (P = 0.7). \nOver 6 mo, TSTs converted to positive in 5 (11%) children receiving vitamin D compared with 11 (27%) receiving placebo (RR: 0.41; 95% CI: 0.16, 1.09; P = 0.06). \n\nOnly one TST conversion occurred among those whose serum 25(OH)D concentration increased to &amp;gt;20 ng/mL, \nwhereas 8 TST conversions occurred in those whose final 25(OH)D concentration remained &amp;lt;10 ng/mL (P = 0.05). \n\nThe mean increase in stature was 2.9 ± 1.6 cm in the vitamin D group and 2.0 ± 1.7 cm in the placebo group (95% CI: 2.16, 2.81; P &amp;lt; 0.003).\n\nConclusions: Vitamin D supplementation for 6 mo had significant favorable effects on serum 25(OH)D concentrations and on growth in stature. \nA trend was seen toward fewer TST conversions in the vitamin D group. \n\nThis trial was registered at clinicaltrials.gov as `├── LinkNode
-│ full_match: `[http://clinicaltrials.gov/ct2/show/NCT01244204|NCT01244204.]`
-│ inner_content: `NCT01244204.`
-│ url: `http://clinicaltrials.gov/ct2/show/NCT01244204`
-│ children:
-│ ├── TextNode
-│ │ full_match: `NCT01244204.`
-│ │ inner_content: `NCT01244204.`├── TextNode
-│ full_match: `\n– – – – – \n`
-│ inner_content: `\n– – – – – \n`├── HeadingNode
-│ full_match: `!!Summary `
-│ inner_content: `Summary`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Summary`
-│ │ inner_content: `Summary`├── TextNode
-│ full_match: `\n27% of controls got TB, and grew 2 cm\n11% of those getting 800 IU of vitamin D got TB and grew 2.9 cm\n2.5X less chance of TB than controls and grew in height 50% more than controls\n`
-│ inner_content: `\n27% of controls got TB, and grew 2 cm\n11% of those getting 800 IU of vitamin D got TB and grew 2.9 cm\n2.5X less chance of TB than controls and grew in height 50% more than controls\n`├── HeadingNode
-│ full_match: `!!See also VitaminDWiki `
-│ inner_content: `See also VitaminDWiki`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]`
-│ │ inner_content: `Overview TB and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1421`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview TB and Vitamin D`
-│ │ │ inner_content: `Overview TB and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D]`
-│ │ inner_content: `All items in TB and vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in TB and vitamin D`
-│ │ │ inner_content: `All items in TB and vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]`
-│ │ inner_content: `TB 10X less likely to catch if have sufficient vitamin D – Dec 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2249`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `TB 10X less likely to catch if have sufficient vitamin D – Dec 2011`
-│ │ │ inner_content: `TB 10X less likely to catch if have sufficient vitamin D – Dec 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))`
-│ inner_content: `((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))`
-│ │ inner_content: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
-│ │ page: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
-│ │ │ inner_content: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
-
-Original Tiki:
--------------
-!!!!Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3
-Am J Clin Nutr August 2012 ajcn.034967
-Davaasambuu Ganmaa, Edward Giovannucci, Barry R Bloom, Wafaie Fawzi, Winthrop Burr, Dulguun Batbaatar, Nyamjav Sumberzul, Michael F Holick, and Walter C Willett
-1 From the Department of Nutrition, Harvard School of Public Health and Channing Laboratory, Brigham and Women&amp;#39;s Hospital and Harvard Medical School, Boston, MA (DG, EG, and WCW); the Health Sciences University of Mongolia, Ulaanbaatar, Mongolia (DG, WB, DB, and NS); the Department of Immunology and Infectious Diseases and Department of Global Health and Population, Harvard School of Public Health, Boston, MA (BRB); Harvard University Health Services, Cambridge, MA (WB); the Department of Nutrition, Epidemiology and Global Health and Population, Harvard School of Public Health, Boston, MA (WF); and the Endocrine, Diabetes and Nutrition Section, Department of Medicine, Boston University Medical Center, Boston, MA (MFH).
-2 Supported by NIH/NHLBI 5 K99 HL089710-02 and 4 R00 HL089710-03. The Tischon Corporation of Salisbury, MD, donated the vitamin D supplements.
-?3 Address correspondence to D Ganmaa, 665 Huntington Avenue, Building II, Room 341B, Harvard School of Public Health and Channing Laboratory, Boston, MA. E-mail: gdavaasa@hsph.harvard.edu.
-
-Background: By modulating immune function, vitamin D might increase innate immunity and inhibit the growth of initial bacterial invasion and protect against tuberculosis infection.
-
-Objective: We examined the effect of vitamin D supplementation on tuberculin skin test (TST) conversion.
-
-Design: A double-blind, placebo-controlled study was conducted in 120 Mongol schoolchildren. We estimated the prevalence of latent tuberculosis infection at baseline and examined the effect of vitamin D (800 IU/d) on serum concentrations of 25-hydroxyvitamin D [25(OH)D] and TST conversion.
-
-Results: At baseline, the mean (±SD) 25(OH)D concentration was 7 ± 4 ng/mL, and all concentrations were &amp;lt;20 ng/mL. 
-Vitamin D supplementation increased serum 25(OH)D by a mean of 12.7 ng/mL compared with placebo (P &amp;lt; 0.0001). 
-
-At baseline, 16 children in the vitamin D group and 18 in the placebo group were TST positive (P = 0.7). 
-Over 6 mo, TSTs converted to positive in 5 (11%) children receiving vitamin D compared with 11 (27%) receiving placebo (RR: 0.41; 95% CI: 0.16, 1.09; P = 0.06). 
-
-Only one TST conversion occurred among those whose serum 25(OH)D concentration increased to &amp;gt;20 ng/mL, 
-whereas 8 TST conversions occurred in those whose final 25(OH)D concentration remained &amp;lt;10 ng/mL (P = 0.05). 
-
-The mean increase in stature was 2.9 ± 1.6 cm in the vitamin D group and 2.0 ± 1.7 cm in the placebo group (95% CI: 2.16, 2.81; P &amp;lt; 0.003).
-
-Conclusions: Vitamin D supplementation for 6 mo had significant favorable effects on serum 25(OH)D concentrations and on growth in stature. 
-A trend was seen toward fewer TST conversions in the vitamin D group. 
-
-This trial was registered at clinicaltrials.gov as [http://clinicaltrials.gov/ct2/show/NCT01244204|NCT01244204.]
-– – – – – 
-!!Summary 
-27% of controls got TB, and grew 2 cm
-11% of those getting 800 IU of vitamin D got TB and grew 2.9 cm
-2.5X less chance of TB than controls and grew in height 50% more than controls
-!!See also VitaminDWiki 
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]
-*((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))
-&lt;/code>
-&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tuberculosis on VitaminDWiki</title><link>/categories/tuberculosis.html</link><description>Recent content in Tuberculosis on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/tuberculosis/index.xml" rel="self" type="application/rss+xml"/><item><title>Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT</title><link>/posts/tuberculosis-recovery-speeded-up-by-single-450000-iu-dose-of-vitamin-d-rct.html</link><pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-recovery-speeded-up-by-single-450000-iu-dose-of-vitamin-d-rct.html</guid><description/></item><item><title>Low vitamin D is a risk factor for tuberculosis – meta-analysis</title><link>/posts/low-vitamin-d-is-a-risk-factor-for-tuberculosis-meta-analysis.html</link><pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-is-a-risk-factor-for-tuberculosis-meta-analysis.html</guid><description/></item><item><title>8 times less bacteria in blood of HIV patients if Vitamin D levels greater than 30 ng</title><link>/posts/8-times-less-bacteria-in-blood-of-hiv-patients-if-vitamin-d-levels-greater-than-30-ng.html</link><pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/8-times-less-bacteria-in-blood-of-hiv-patients-if-vitamin-d-levels-greater-than-30-ng.html</guid><description>&lt;h4 id="optimal-vitamin-d-plasma-levels-are-associated-with-lower-bacterial-dna-translocation-in-hivhepatitis-c-virus-coinfected-patients">Optimal vitamin D plasma levels are associated with lower bacterial DNA translocation in HIV/hepatitis c virus coinfected patients.&lt;/h4>
+&lt;p>AIDS. 2016 Apr 24;30(7):1069-74. &lt;a href="https://doi.org/10.1097/QAD.0000000000001007.">doi: 10.1097/QAD.0000000000001007.&lt;/a>&lt;/p>
+&lt;p>García-Álvarez M1, Berenguer J, Jiménez-Sousa MÁ, Vázquez-Morón S, Carrero A, Gutiérrez-Rivas M, Aldámiz-Echevarría T, López JC, García-Broncano P, Resino S.&lt;/p>
+&lt;p>1aUnit of Viral Infection and Immunity, National Centre of Microbiology. Instituto de Salud Carlos III, Majadahonda,bInfectious Diseases-HIV Unit, Hospital General Universitario &amp;lsquo;Gregorio Marañón&amp;rsquo;cHealth Research Institute &amp;lsquo;Gregorio Marañón&amp;rsquo;, Madrid, Spain.&lt;/p></description></item><item><title>Boron and Granulomas (TB, Rheumatoid arthritis, Crohn's, Rheumatic Fever etc.) - 2015</title><link>/posts/boron-and-granulomas-tb-rheumatoid-arthritis-crohns-rheumatic-fever-etc-2015.html</link><pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate><guid>/posts/boron-and-granulomas-tb-rheumatoid-arthritis-crohns-rheumatic-fever-etc-2015.html</guid><description/></item><item><title>Tuberculosis 1.3 times more likely if poor Vitamin D Receptor – meta-analysis</title><link>/posts/tuberculosis-13-times-more-likely-if-poor-vitamin-d-receptor-meta-analysis.html</link><pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-13-times-more-likely-if-poor-vitamin-d-receptor-meta-analysis.html</guid><description>&lt;h4 id="vitamin-d-receptor-gene-foki-polymorphisms-and-tuberculosis-susceptibility-a-meta-analysis">Vitamin D receptor gene FokI polymorphisms and tuberculosis susceptibility: a meta-analysis.&lt;/h4>
+&lt;p>Arch Med Sci. 2016 Oct 1;12(5):1118-1134. Epub 2016 May 20.&lt;/p>
+&lt;p>Cao Y1, Wang X1, Cao Z1, Cheng X1.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:650px">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/tuberculosis-45x-more-likely-if-vitamin-d-less-than-10-nanogram-meta-analysis">Tuberculosis 4.5X more likely if vitamin D less than 10 nanogram – meta-analysis May 2015&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/tuberculosis-genes-and-vitamin-d-meta-analysis">Tuberculosis, genes and vitamin D – Meta-Analysis Dec 2013&lt;/a>&lt;/p></description></item><item><title>Tuberculosis treatment greatly helped by injection of 200,000 IU of vitamin D – RCT</title><link>/posts/tuberculosis-treatment-greatly-helped-by-injection-of-200000-iu-of-vitamin-d-rct.html</link><pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-treatment-greatly-helped-by-injection-of-200000-iu-of-vitamin-d-rct.html</guid><description/></item><item><title>Tuberculosis -100 percent cure rate with 10,000 IU of vitamin D daily – RCT 2006</title><link>/posts/tuberculosis-100-percent-cure-rate-with-10000-iu-of-vitamin-d-daily-rct-2006.html</link><pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-100-percent-cure-rate-with-10000-iu-of-vitamin-d-daily-rct-2006.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#the-effect-of-vitamin-d-as-supplementary-treatment-in-patients-with-moderately-advanced-pulmonary-tuberculous-lesion">The effect of vitamin D as supplementary treatment in patients with moderately advanced pulmonary tuberculous lesion.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="the-effect-of-vitamin-d-as-supplementary-treatment-in-patients-with-moderately-advanced-pulmonary-tuberculous-lesion">The effect of vitamin D as supplementary treatment in patients with moderately advanced pulmonary tuberculous lesion.&lt;/h4>
+&lt;p>Acta Med Indones. 2006 Jan-Mar;38(1):3-5.&lt;/p>
+&lt;p>Nursyam EW1, Amin Z, Rumende CM.&lt;/p>
+&lt;p>1Departement of Internal Medicine, Faculty of Medicine, University of Indonesia-dr.Cipto Mangunkusumo Hospital, Jakarta.&lt;/p>
+&lt;p>AIM:&lt;/p>
+&lt;p>to compare the vitamin D group of pulmonary tuberculosis patients with a placebo group in terms of clinical improvement, nutritional status, sputum conversion, and radiological improvement.&lt;/p></description></item><item><title>Tuberculosis not treated by lots of vitamin D for 16 weeks – RCT</title><link>/posts/tuberculosis-not-treated-by-lots-of-vitamin-d-for-16-weeks-rct.html</link><pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-not-treated-by-lots-of-vitamin-d-for-16-weeks-rct.html</guid><description/></item><item><title>Tuberculosis should be treated with vitamin D (tiny abstract) – review</title><link>/posts/tuberculosis-should-be-treated-with-vitamin-d-tiny-abstract-review.html</link><pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-should-be-treated-with-vitamin-d-tiny-abstract-review.html</guid><description>&lt;h4 id="vitamin-d-supplementation-a-comprehensive-review-on-supplementation-for-tuberculosis-prophylaxis">Vitamin D supplementation: a comprehensive review on supplementation for tuberculosis prophylaxis.&lt;/h4>
+&lt;p>Expert Rev Respir Med. 2015 May 9:1-7. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Turnbull ER1, Drobniewski F.&lt;/p>
+&lt;p>Vitamin D plays a large role in the innate immune response against Mycobacterium tuberculosis (MTB) infection, activation and progression. Likewise, vitamin D deficiency is shown by evidence presented here to be a known risk factor for developing both MTB infection and active tuberculosis (TB). This comprehensive review discusses the evidence and remaining questions regarding vitamin D supplementation as a prophylactic measure in those who are at high risk of MTB infection and active TB. Vitamin D supplementation is routinely prescribed for osteoporosis prevention; yet, guidelines are lacking for its prescription for TB prevention, despite the adverse effects being rare. &lt;strong>Policymakers are urged here to review the literature and provide urgent guidelines on vitamin D supplementation for TB prophylaxis.&lt;/strong>&lt;/p></description></item><item><title>Tuberculosis 4.5X more likely if vitamin D less than 10 nanogram – meta-analysis</title><link>/posts/tuberculosis-45x-more-likely-if-vitamin-d-less-than-10-nanogram-meta-analysis.html</link><pubDate>Wed, 06 May 2015 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-45x-more-likely-if-vitamin-d-less-than-10-nanogram-meta-analysis.html</guid><description>&lt;h3 id="a-serum-vitamin-d-level-25nmoll-pose-high-tuberculosis-risk-a-meta-analysis">A serum vitamin d level &amp;lt;25nmol/l pose high tuberculosis risk: a meta-analysis.&lt;/h3>
+&lt;p>PLoS One. 2015 May 4;10(5):e0126014. &lt;a href="https://doi.org/10.1371/journal.pone.0126014.">doi: 10.1371/journal.pone.0126014.&lt;/a> eCollection 2015.&lt;/p>
+&lt;p>Zeng J1, Wu G2, Yang W2, Gu X2, Liang W2, Yao Y2, Song Y3.&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tb-5-10-ng.jpg" alt="image" width="1000">
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Low serum Vitamin D is considered to be associated with tuberculosis while the &amp;ldquo;dangerous&amp;rdquo; level was not clear. The aim of this study was to identify the association between tuberculosis and serum Vitamin D levels via synthesis of available evidence.&lt;/p></description></item><item><title>Tuberculosis not treated by 7,000 IU Vitamin D daily average for 6 weeks – RCT</title><link>/posts/tuberculosis-not-treated-by-7000-iu-vitamin-d-daily-average-for-6-weeks-rct.html</link><pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-not-treated-by-7000-iu-vitamin-d-daily-average-for-6-weeks-rct.html</guid><description>&lt;h4 id="adjunctive-vitamin-d-for-treatment-of-active-tuberculosis-in-india-a-randomised-double-blind-placebo-controlled-trial">Adjunctive vitamin D for treatment of active tuberculosis in India: a randomised, double-blind, placebo-controlled trial.&lt;/h4>
+&lt;p>Lancet Infect Dis. 2015 Apr 8. pii: S1473-3099(15)70053-8. &lt;a href="https://doi.org/10.1016/S1473-3099(15)70053-8.">doi: 10.1016/S1473-3099(15)70053-8.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Daley P1, Jagannathan V2, John KR3, Sarojini J2, Latha A2, Vieth R4, Suzana S2, Jeyaseelan L2, Christopher DJ2, Smieja M5, Mathai D6.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Vitamin D has immunomodulatory effects that might aid clearance of mycobacterial infection. We aimed to assess whether vitamin D supplementation would reduce time to sputum culture conversion in patients with active tuberculosis.&lt;/p></description></item><item><title>TB lowers vitamin D, then HIV lowers it even more - 2014</title><link>/posts/tb-lowers-vitamin-d-then-hiv-lowers-it-even-more-2014.html</link><pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate><guid>/posts/tb-lowers-vitamin-d-then-hiv-lowers-it-even-more-2014.html</guid><description>&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tb-dbp.jpg" alt="image">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/hiv-and-tb.jpg" alt="image">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/new-tb.jpg" alt="image">
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/anti-inflammatory-and-antimicrobial-actions-of-vitamin-d-in-combating-tb-or-hiv---copy.pdf">Download the PDF from VitaminDWiki.&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>Vitamin D treats both TB and HIV&lt;/p>
+&lt;p>Very low vitamin D leads to many other diseases&lt;/p>
+&lt;p>A person with both TB and HIV absolutely, positively should increase their levels of vitamin D.&lt;/p>
+&lt;p>It will not only treat both but till decrease the risk of getting other diseases as well&lt;/p>
+&lt;p>&lt;strong>See also VitaminDWiki&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D&lt;/a>&lt;/p></description></item><item><title>Children with active TB were 4.6X more likely to have low vitamin D</title><link>/posts/children-with-active-tb-were-46x-more-likely-to-have-low-vitamin-d.html</link><pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/children-with-active-tb-were-46x-more-likely-to-have-low-vitamin-d.html</guid><description>&lt;h3 id="vitamin-d-and-tuberculosis-a-multicenter-study-in-children">Vitamin D and tuberculosis: a multicenter study in children&lt;/h3>
+&lt;p>BMC Infectious Diseases 2014, 14:652 doi:10.1186/s12879-014-0652-7&lt;/p>
+&lt;p>Elisabetta Venturini 1, Ludovica Facchini 1, Nuria Martinez-Alier 2, Vas Novelli 3, Luisa Galli 1,&lt;/p>
+&lt;p>Maurizio de Martino 1 &lt;a href="mailto:maurizio.demartino@unifi.it">maurizio.demartino@unifi.it&lt;/a> and Elena Chiappini 1&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tb-1.jpg" alt="image" width="400">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tb-and-vitamin-d.jpg" alt="image" width="400">
+&lt;p>Background The aim of this study is to evaluate vitamin D levels in children with latent and active TB compared to healthy controls of the same age and ethnical background.&lt;/p>
+&lt;p>Methods A multicenter observational study has been conducted in three tertiary care paediatric centres: Anna Meyer Children&amp;rsquo;s University Hospital, Florence, Italy; Evelina London Children&amp;rsquo;s Hospital, London, United Kingdom and Great Ormond Street Hospital, London, United Kingdom. Vitamin D was considered deficient if the serum level was &amp;lt;25?nmol/L, insufficient between 25 and 50?nmol/L and sufficient for a level &amp;gt;50?nmol/L.&lt;/p></description></item><item><title>Less likely to catch Tuberculosis if have OK level of vitamin D</title><link>/posts/less-likely-to-catch-tuberculosis-if-have-ok-level-of-vitamin-d.html</link><pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/less-likely-to-catch-tuberculosis-if-have-ok-level-of-vitamin-d.html</guid><description/></item><item><title>The Antibiotic Effects of Vitamin D – 2014</title><link>/posts/the-antibiotic-effects-of-vitamin-d-2014.html</link><pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/the-antibiotic-effects-of-vitamin-d-2014.html</guid><description>&lt;p>Endocrine, Metabolic &amp;amp; Immune Disorders-Drug Targets Vol 14, issue 4, Pages 255-266 (12)&lt;/p>
+&lt;p>Chunxiao Guo and Adrian F. Gombart&lt;/p>
+&lt;p>Linus Pauling Institute, Department of Biochemistry and Biophysics, Oregon State University, 307 Linus Pauling Science Center, Corvallis, OR 97331, USA.&lt;/p>
+&lt;p>The recent discovery that vitamin D regulates expression of the cathelicidin antimicrobial peptide gene has generated renewed interest in using vitamin D to fight infectious diseases. This review describes the historical use of vitamin D or its sources to treat infections, the mechanism of action through which vitamin D mediates its “antibiotic” effects, findings from epidemiological studies associating vitamin D deficiency with increased susceptibility to infection and clinical trials with vitamin D supplementation to treat or prevent infections. Furthermore studies examining an association between vitamin D levels and cathelicidin expression are discussed. The role of cathelcidin throughout the course of infection from the initial encounter of the pathogen to the resolution of tissue damage and inflammation indicates that individuals need to maintain adequate levels of vitamin D for an optimal immune response. In addition, for treating infections, carefully designed randomized, clinical trials that are appropriately powered to detect modest effects, target populations that are severely deficient in vitamin D, and optimized dose, dosing frequency and safety are needed.&lt;/p></description></item><item><title>Vitamin D and infectious diseases like RTI, TB and Sepsis</title><link>/posts/vitamin-d-and-infectious-diseases-like-rti-tb-and-sepsis.html</link><pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-infectious-diseases-like-rti-tb-and-sepsis.html</guid><description>&lt;h3 id="vitamin-d-and-infectious-diseases">Vitamin d and infectious diseases.&lt;/h3>
+&lt;p>Endocr Metab Immune Disord Drug Targets. 2014;14(4):267-71.&lt;/p>
+&lt;p>Miragliotta G, Miragliotta L1.&lt;/p>
+&lt;p>In the early 1920s the antirachitic effect of food irradiated with ultraviolet light and cod liver oil has been recognized. The antirachitic substance was identified and called &amp;ldquo;vitamin D&amp;rdquo;. Since then the key role of vitamin D in calcium and bone homeostasis has been investigated. Moreover, it has been recognized that vitamin D is able to modulate a variety of processes and regulatory systems such as host defense, inflammation, immunity, and repair. According to recent studies, vitamin D deficiency is likely to be an important etiological factor in the pathogenesis of many chronic diseases, as well as it has been associated with higher mortality rate for respiratory disease. In this regard, either observational studies aimed to verify an association between low vitamin D level and the incidence of respiratory tract infections (RTIs) or clinical trials on the effect of vitamin D as a supplementary treatment in RTIs patients have been presented in the emerging clinical literature. Conflicting results have been demonstrated in several randomized, doubleblind, placebo controlled trials concerning the vitamin D treatment in tuberculosis. Some studies suggest a beneficial effect by vitamin D but it could not be reproduced in larger studies so far. In conclusion, although basic science research suggests that vitamin D may play an important role in modulating immune functions, no strong evidence exists whether correction of vitamin D depletion may be useful in the prevention or treatment of infections. Further and larger studies may clarify the role of vitamin D in infection.&lt;/p></description></item><item><title>Tuberculosis risk decreased by 6 percent for each 1 ng increase in Vitamin D</title><link>/posts/tuberculosis-risk-decreased-by-6-percent-for-each-1-ng-increase-in-vitamin-d.html</link><pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-risk-decreased-by-6-percent-for-each-1-ng-increase-in-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-status-and-incidence-of-tuberculosis-infection-conversion-in-contacts-of-pulmonary-tuberculosis-patients-a-prospective-cohort-study">Vitamin D status and incidence of tuberculosis infection conversion in contacts of pulmonary tuberculosis patients: a prospective cohort study.&lt;/h4>
+&lt;p>Epidemiol Infect. 2014 Oct 2:1-11. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Arnedo-Pena A1, Juan-Cerdán JV2, Romeu-García MA1, García-Ferrer D2, Holguín-Gómez R3, Iborra-Millet J2, Pardo-Serrano F4.&lt;/p>
+&lt;p>SUMMARY&lt;/p>
+&lt;p>The objective of this study was to estimate the relationship between serum vitamin D (VitD) status and tuberculosis (TB) infection conversion (TBIC), measured by the tuberculin skin test (TST) and an interferon-gamma release assay, the QuantiFERON-TB Gold In-Tube (QFT-GIT) test, in the contacts of pulmonary TB patients in Castellon (Spain) in a prospective cohort study from 2010 to 2012. Initially, the participants were negative to latent TB infection after a screening that included TST and QFT-GIT tests, and other examinations. A baseline determination of 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> was obtained by chemiluminescence immunoassay. After 8-10 weeks, participants were screened for a second time to determine TB infection conversion (TBIC). Poisson regression models were used in the statistical analysis. Of the 247 participants in the cohort, 198 (80·2%) were screened twice and 18 (9·1%) were TBIC cases. The means of VitD concentration in the TBIC cases and the non-cases were 20·7±11·9 and 27·2±11·4 ng/ml (P = 0·028), respectively. Adjusted for high exposure and TB sputum acid-fast bacilli (AFB)-positive index case, higher serum VitD concentration was associated with low incidence of TBIC (P trend = 0·005), and an increase of 1 ng/ml VitD concentration decreased the incidence of TBIC by 6% (relative risk 0·94, 95% confidence interval 0·90-0·99, P = 0·015). The results suggest that sufficient VitD level could be a protective factor of TBIC.&lt;/p></description></item><item><title>Tuberculosis is controlled by Interleukin-32 when it has enough Vitamin D – patent applied for</title><link>/posts/tuberculosis-is-controlled-by-interleukin-32-when-it-has-enough-vitamin-d-patent-applied-for.html</link><pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-is-controlled-by-interleukin-32-when-it-has-enough-vitamin-d-patent-applied-for.html</guid><description>&lt;h3 id="new-interaction-discovered-between-vitamin-d-and-certain-protein-in-tuberculosishttpwwwvitamindcouncilorgvitamin-d-newsnew-interaction-discovered-between-vitamin-d-and-certain-protein-in-tuberculosis-vitamin-d-council-describes-the-study">&lt;a href="http://www.vitamindcouncil.org/vitamin-d-news/new-interaction-discovered-between-vitamin-d-and-certain-protein-in-tuberculosis/#">New interaction discovered between vitamin D and certain protein in tuberculosis&lt;/a> Vitamin D Council describes the study&lt;/h3>
+&lt;h3 id="study-identifies-protein-that-helps-prevent-active-tuberculosis-in-infected-patientshttpnewsroomuclaedureleasesstudy-identifies-protein-that-helps-prevent-active-tuberculosis-in-infected-patients-ucla-newsroom">&lt;a href="http://newsroom.ucla.edu/releases/study-identifies-protein-that-helps-prevent-active-tuberculosis-in-infected-patients">Study identifies protein that helps prevent active tuberculosis in infected patients&lt;/a> UCLA Newsroom&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>“When vitamin D levels were low, IL-32 was not able to kill the bacteria,”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>. . applied for a patent application for further development of IL-32 as a potential diagnostic marker to see which patients with latent TB are at risk for activation of the disease, as well as for use as a possible therapeutic to treat tuberculosis by stimulating antimicrobial activity.&lt;/p></description></item><item><title>Tuberculosis, Genes, Vitamin D Binding Protein, and RCT – Review</title><link>/posts/tuberculosis-genes-vitamin-d-binding-protein-and-rct-review.html</link><pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-genes-vitamin-d-binding-protein-and-rct-review.html</guid><description>&lt;h4 id="vitamin-d-status-receptor-gene-polymorphisms-and-supplementation-on-tuberculosis">Vitamin D Status, Receptor Gene Polymorphisms, and Supplementation on Tuberculosis:&lt;/h4>
+&lt;p>A Systematic Review of Case-Control Studies and Randomized Controlled Trials&lt;/p>
+&lt;p>Journal of Clinical &amp;amp; Translational Endocrinology, DOI: &lt;a href="http://dx.doi.org/10.1016/j.jcte.2014.08.001">http://dx.doi.org/10.1016/j.jcte.2014.08.001&lt;/a>&lt;/p>
+&lt;p>Nilay Sutariaemail, Ching-Ti Liuemail, Tai C. Chenemail&lt;/p>
+&lt;p>Received: May 23, 2014; Received in revised form: July 25, 2014; Accepted: August 7, 2014; Published Online: August 15, 2014&lt;/p>
+&lt;h3 id="highlights">Highlights:&lt;/h3>
+&lt;p>•Lower serum 25-hydroxyvitamin D increases susceptibility to tuberculosis.&lt;/p>
+&lt;p>•BsmI and FokI VDR gene polymorphisms may confer increased risk of acquiring tuberculosis.&lt;/p></description></item><item><title>Tuberculosis, genes and vitamin D – Meta-Analysis</title><link>/posts/tuberculosis-genes-and-vitamin-d-meta-analysis.html</link><pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-genes-and-vitamin-d-meta-analysis.html</guid><description>&lt;h3 id="vitamin-d-receptor-gene-polymorphisms-on-the-risk-of-tuberculosis-a-meta-analysis-of-29-case-control-studies">Vitamin D Receptor Gene Polymorphisms on the Risk of Tuberculosis, a Meta-Analysis of 29 Case-Control Studies&lt;/h3>
+&lt;p>PLOS ONE Published: December 13, 2013, DOI: 10.1371/journal.pone.0083843&lt;/p>
+&lt;p>Cheng Chen, Qiao Liu, Limei Zhu, Haitao Yang, Wei Lu mail&lt;/p>
+&lt;p>The relationship of four potentially functional polymorphisms of the vitamin D receptor (VDR) gene, ApaI, BsmI, FokI and TaqI , with tuberculosis susceptibility were considered. The aim of this meta-analysis was to explore the association between the four polymorphisms and tuberculosis risk in different ethnic backgrounds. Eligible case-control studies that were catalogued before April 1st 2013 were enrolled, and the heterogeneity between the studies was evaluated using a χ2 based Q-test. Fixed and random effect models were built to evaluate the association of the four polymorphisms with the risk of tuberculosis, and the association between the four polymorphisms and tuberculosis was expressed as the odds ratio (OR) and 95% confidence interval (CI).&lt;/p></description></item><item><title>Wondering about tuberculosis and Vitamin D in Australia</title><link>/posts/wondering-about-tuberculosis-and-vitamin-d-in-australia.html</link><pubDate>Sun, 17 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/wondering-about-tuberculosis-and-vitamin-d-in-australia.html</guid><description>&lt;h4 id="vitamin-d-and-vitamin-d-and-tuberculosis-hope-or-hype">Vitamin D and Vitamin D and tuberculosis: hope or hype?&lt;/h4>
+&lt;p>Med J Aust 2013; 199 (10): 648-649. Doi: 10.5694/mja13.11174&lt;/p>
+&lt;p>Anna P Ralph, MPH, FRACP, PhD, Clinical Research Fellow1&lt;/p>
+&lt;p>Robyn M Lucas, MB ChB, PhD, FAFPHM, Associate Professor2&lt;/p>
+&lt;p>1 Global and Tropical Health, Menzies School of Health Research, Darwin, NT.&lt;/p>
+&lt;p>2 National Centre for Epidemiology and Population Health, Australian National University, Canberra, ACT.&lt;/p>
+&lt;p>&lt;strong>It may be worthwhile to test for and treat vitamin D deficiency in latent infection, but not in active TB&lt;/strong>&lt;/p></description></item><item><title>Tuberculosis associated with vitamin D deficiency</title><link>/posts/tuberculosis-associated-with-vitamin-d-deficiency.html</link><pubDate>Sat, 02 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-associated-with-vitamin-d-deficiency.html</guid><description>&lt;h2 id="vitamin-d-deficiency-in-patients-with-tuberculosis">Vitamin d deficiency in patients with tuberculosis.&lt;/h2>
+&lt;p>J Coll Physicians Surg Pak. 2013 Nov;23(10):780-3. &lt;a href="https://doi.org/11.2013/JCPSP.780783.">doi: 11.2013/JCPSP.780783.&lt;/a>&lt;/p>
+&lt;p>Iftikhar R, Kamran SM, Qadir A, Haider E, Hassan Bin Usman.&lt;/p>
+&lt;p>Department of Medicine, Combined Military Hospital, Kharian.&lt;/p>
+&lt;p>Objective: To determine the frequency and association of Vitamin D deficiency in patients with tuberculosis. Study&lt;/p>
+&lt;p>Design: Case control study. Place and Duration of Study: Medical Department, Combined Military Hospital, Kharian, from July 2010 to June 2012.&lt;/p></description></item><item><title>Increase immunity to TB-like bacteria if visit high altitude</title><link>/posts/increase-immunity-to-tb-like-bacteria-if-visit-high-altitude.html</link><pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/increase-immunity-to-tb-like-bacteria-if-visit-high-altitude.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#effects-of-ascent-to-high-altitude-on-human-antimycobacterial-immunity">Effects of Ascent to High Altitude on Human Antimycobacterial Immunity&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#better-resistance-to-tb-like-bacteria--about-half-a-day-after-getting-to-high-altitude">Better resistance to TB-like bacteria about half a day after getting to high altitude&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="effects-of-ascent-to-high-altitude-on-human-antimycobacterial-immunity">Effects of Ascent to High Altitude on Human Antimycobacterial Immunity&lt;/h4>
+&lt;p>PLOS ONE&lt;/p>
+&lt;p>Sarah Eisen equal contributor, Louise Pealing equal contributor, Robert W. Aldridge,&lt;/p>
+&lt;p>Mark J. Siedner, Alejandro Necochea, Inna Leybell, Teresa Valencia, Beatriz Herrera,&lt;/p>
+&lt;p>Siouxsie Wiles, Jon S. Friedland, Robert H. Gilman, Carlton A. Evans mail&lt;/p></description></item><item><title>Tuberculosis, UV and perhaps vitamin D</title><link>/posts/tuberculosis-uv-and-perhaps-vitamin-d.html</link><pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-uv-and-perhaps-vitamin-d.html</guid><description>&lt;h1 class="svTitle">
+&lt;p>&lt;span style="font-size:22px;">Vitamin D and solar ultraviolet radiation in the risk and treatment of tuberculosis&lt;/span>&lt;/h1>&lt;/p>
+&lt;div class="publicationHead titleBanner">
+&lt;div class="cover">
+&lt;div class="title">
+&lt;p>&lt;a class="cLink" href="http://www.sciencedirect.com/science/journal/14733099" title="Go to The Lancet Infectious Diseases on SciVerse ScienceDirect">&lt;img alt="The Lancet Infectious Diseases" class="imgLazyJSB" height="25" src="http://ars.els-cdn.com/content/image/B14733099.gif" width="310" />&lt;/a>&lt;a href="http://www.sciencedirect.com/science/journal/14733099/13/1" title="Go to table of contents for this volume/issue">Volume 13, Issue 1&lt;/a>, January 2013, Pages 77–88&lt;/div>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;ul class="authorGroup noCollab">&lt;li>
+&lt;p>&lt;span class="authorDegrees">Dr &lt;/span>&lt;a class="authorName" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#" id="authname_N5d0e3940N5d020df8">Anna P Ralph&lt;/a>, &lt;span class="authorDegrees">PhD&lt;/span>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff1" id="baff1" title="Affiliation: a">&lt;sup>a&lt;/sup>&lt;/a>&lt;sup>, &lt;/sup>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff2" id="baff2" title="Affiliation: b">&lt;sup>b&lt;/sup>&lt;/a>&lt;sup>, &lt;/sup>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff3" id="baff3" title="Affiliation: c">&lt;sup>c&lt;/sup>&lt;/a>&lt;sup>, &lt;/sup>&lt;a class="intra_ref auth_corr" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#cor1" id="bcor1" title="Corresponding author contact information">&lt;img alt="Corresponding author contact information" class="imgLazyJSB" src="http://cdn.els-cdn.com/sd/entities/REcor.gif" />&lt;/a>&lt;sup>, &lt;/sup>&lt;a href="mailto:anna.ralph@menzies.edu.au">anna.ralph@menzies.edu.au&lt;/a>&lt;/li>&lt;/p>
+&lt;li>
+&lt;p>&lt;a class="authorName" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#" id="authname_N5d0e3940N5d020ee8">Robyn M Lucas&lt;/a>, &lt;span class="authorDegrees">PhD&lt;/span>&lt;a class="intra_ref auth_aff" href="http://www.sciencedirect.com/science/article/pii/S147330991270275X#aff4" id="baff4" title="Affiliation: d">&lt;sup>d&lt;/sup>&lt;/a>,&lt;/li>&lt;/p></description></item><item><title>Tuberculosis, ethnic differences, and vitamin D</title><link>/posts/tuberculosis-ethnic-differences-and-vitamin-d.html</link><pubDate>Fri, 05 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-ethnic-differences-and-vitamin-d.html</guid><description>&lt;h2 id="ethnic-differences-affect-immune-response-to-tuberculosis-infection">Ethnic Differences Affect Immune Response To Tuberculosis Infection&lt;/h2>
+&lt;p>^Comment by VitaminDWiki&lt;/p>
+&lt;p>Does not appear to mention the lower vitamin D levels in those with dark skins^&lt;/p>
+&lt;p>&lt;strong>&lt;a href="http://trap.it/#!traps/id/907cd246-0855-49f4-97b4-04aaff5e62f3/articles/6HsUm3uJq0064crtMTSu%20">AsianScientist (Jul. 5, 2013) – Health &amp;amp; Medicine&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>The immune response to the bacterium that causes tuberculosis (TB) varies between patients of different ethnic origin, according to a new UK study.&lt;/p>
+&lt;p>The study, published in the journal PLOS Pathogens and led by researchers at Queen Mary, University of London, analyzed the immune response of 128 newly-diagnosed TB patients in London who were divided by ethnicity into those of African (45), European (27), Asian (55) or mixed European/Asian (1) ancestry.&lt;/p></description></item><item><title>Tuberculosis varies with UVB in Australia</title><link>/posts/tuberculosis-varies-with-uvb-in-australia.html</link><pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/tuberculosis-varies-with-uvb-in-australia.html</guid><description>&lt;h2 id="link-between-vitamin-d-levels-and-developing-tuberculosishttpwwwscoopconzstoriesge1303s00078link-between-vitamin-d-levels-and-developing-tuberculosishtm">&lt;a href="http://www.scoop.co.nz/stories/GE1303/S00078/link-between-vitamin-d-levels-and-developing-tuberculosis.htm">Link between vitamin D levels and developing tuberculosis&lt;/a>&lt;/h2>
+&lt;h4 id="press-release-by-australasian-society-for-infectious-diseases">Press Release by Australasian Society for Infectious Diseases&lt;/h4>
+&lt;p>New research presented at this week’s Annual Scientific Meeting of the Australasian Society for Infectious Diseases (ASID) in Canberra, Australia, suggests a link between vitamin D levels and the risk of developing tuberculosis (TB), with rates of &lt;strong>TB incidence up to 37% higher following darker winter months&lt;/strong> than during the rest of the year. The research is by Jennifer MacLachlan, Victorian Infectious Diseases Reference Laboratory, Melbourne, and University of Melbourne, VIC, Australia, and Dr Benjamin Cowie (the same affiliations plus the Royal Melbourne Hospital, VIC, Australia).&lt;/p></description></item><item><title>Vitamin D increasingly associated with inflammation such as RA, TB, Lupus, and cancer</title><link>/posts/vitamin-d-increasingly-associated-with-inflammation-such-as-ra-tb-lupus-and-cancer.html</link><pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-increasingly-associated-with-inflammation-such-as-ra-tb-lupus-and-cancer.html</guid><description>&lt;h3 id="there-are-two-articles-on-this-page">There are two articles on this page&lt;/h3>
+&lt;hr>
+&lt;h3 id="an-update-vitamin-d-deficiency-and-risk-for-rheumatic-diseases">An Update: Vitamin D Deficiency and Risk for Rheumatic Diseases&lt;/h3>
+&lt;p>Paul Gatenby, Robyn Lucas, Ashwin Swaminathan&lt;/p>
+&lt;p>Curr Opin Rheumatol. 2013;25(2):184-191.&lt;/p>
+&lt;h4 id="diseases-include">Diseases include&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Lupus&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rheumatoid Arthritis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Juvenile Idiopathic Arthritis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Systemic Vasculitis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Psoriatic Arthritis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Scleroderma&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Behcet&amp;rsquo;s Disease&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spondyloarthropathies&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Connective Tissue Disease&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>PDF is attached at the bottom of this page&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h3 id="further-emergent-evidence-for-the-vitamin-d-endocrine-system-involvement-in-autoimmune-rheumatic-disease-risk-and-prognosis">Further emergent evidence for the vitamin D endocrine system involvement in autoimmune rheumatic disease risk and prognosis&lt;/h3>
+&lt;p>&lt;strong>Annals of Rheumatic Diseases EDITORIAL&lt;/strong> , April 2013 Vol 72 No 4&lt;/p></description></item><item><title>Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT</title><link>/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct.html</link><pubDate>Sat, 19 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct.html</guid><description>&lt;h4 id="vitamin-d-accelerates-clinical-recovery-from-tuberculosis-results-of-the-succinct-study-spansupplementary-cholecalciferol-in-recovery-from-tuberculosisspan-a-randomized-placebo-controlled-clinical-trial-of-vitamin-d-supplementation-in-patients-with-pulmonary-tuberculosis">Vitamin D accelerates clinical recovery from tuberculosis: results of the SUCCINCT Study &lt;span>[Supplementary Cholecalciferol in recovery from tuberculosis]&lt;/span>. A randomized, placebo-controlled, clinical trial of vitamin d supplementation in patients with pulmonary tuberculosis'&lt;/h4>
+&lt;p>BMC Infectious Diseases 2013, 13:22 doi:10.1186/1471-2334-13-22&lt;/p>
+&lt;p>Nawal Salahuddin, Farheen Ali, Zahra Hasan, Nisar Rao, Masooma Aqeel and Faisal Mahmood&lt;/p>
+&lt;p>Published: 19 January 2013&lt;/p>
+&lt;p>Background&lt;/p>
+&lt;p>Vitamin D enhances host protective immune responses to Mycobacterium tuberculosis by suppressing Interferon-gamma (IFN-g) and reducing disease associated inflammation in the host. The objectives of this study were to determine whether vitamin D supplementation to patients with tuberculosis (TB) could influence recovery.&lt;/p></description></item><item><title>Childhood TB prevention and treatment by vitamin D looks promising – 2012</title><link>/posts/childhood-tb-prevention-and-treatment-by-vitamin-d-looks-promising-2012.html</link><pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/childhood-tb-prevention-and-treatment-by-vitamin-d-looks-promising-2012.html</guid><description/></item><item><title>Higher rates of TB in Winter and further from Equator</title><link>/posts/higher-rates-of-tb-in-winter-and-further-from-equator.html</link><pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/higher-rates-of-tb-in-winter-and-further-from-equator.html</guid><description/></item><item><title>Vitamin D probably can prevent and treat TB and infectious diseases – 2012</title><link>/posts/vitamin-d-probably-can-prevent-and-treat-tb-and-infectious-diseases-2012.html</link><pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-probably-can-prevent-and-treat-tb-and-infectious-diseases-2012.html</guid><description/></item><item><title>Multidrug-resistant tuberculosis may be reduced with vitamin D</title><link>/posts/multidrug-resistant-tuberculosis-may-be-reduced-with-vitamin-d.html</link><pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate><guid>/posts/multidrug-resistant-tuberculosis-may-be-reduced-with-vitamin-d.html</guid><description/></item><item><title>TB treatment helped with Vitamin D – RCT</title><link>/posts/tb-treatment-helped-with-vitamin-d-rct.html</link><pubDate>Wed, 19 Sep 2012 00:00:00 +0000</pubDate><guid>/posts/tb-treatment-helped-with-vitamin-d-rct.html</guid><description/></item><item><title>TB vaccinations increased vitamin D levels a year later</title><link>/posts/tb-vaccinations-increased-vitamin-d-levels-a-year-later.html</link><pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/tb-vaccinations-increased-vitamin-d-levels-a-year-later.html</guid><description>&lt;h4 id="bcg-vaccination-a-role-for-vitamin-d">BCG Vaccination: A Role for Vitamin D?&lt;/h4>
+&lt;p>PLoS One. 2011; 6(1): e16709.&lt;/p>
+&lt;p>Published online 2011 January 31. &lt;a href="https://doi.org/10.1371/journal.pone.0016709">doi: 10.1371/journal.pone.0016709&lt;/a>&lt;/p>
+&lt;p>Maeve K. Lalor,1,* Sian Floyd,2 Patricia Gorak-Stolinska,1 Rosemary E. Weir,1 Rose Blitz,1 Keith Branson,2 Paul E. Fine,2 and Hazel M. Dockrell1&lt;/p>
+&lt;p>Background: BCG vaccination is administered in infancy in most countries with the aim of providing &lt;strong>protection against tuberculosis&lt;/strong> . There is increasing interest in the role of vitamin D in immunity to tuberculosis. This study objective was to determine if there was an association between circulating 25(OH)D concentrations and BCG vaccination status and cytokine responses following BCG vaccination in infants.&lt;/p></description></item><item><title>Probability of getting TB reduced 60 percent with just 800 IU of vitamin D – RCT</title><link>/posts/probability-of-getting-tb-reduced-60-percent-with-just-800-iu-of-vitamin-d-rct.html</link><pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/probability-of-getting-tb-reduced-60-percent-with-just-800-iu-of-vitamin-d-rct.html</guid><description/></item></channel></rss>

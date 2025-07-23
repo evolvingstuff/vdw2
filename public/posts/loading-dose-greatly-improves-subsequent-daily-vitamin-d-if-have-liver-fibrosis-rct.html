@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Loading dose greatly improves subsequent daily Vitamin D if have liver fibrosis – RCT</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Loading dose greatly improves subsequent daily Vitamin D if have liver fibrosis – RCT</h1><time>November 17, 2016</time><div data-pagefind-body><h4 id=vitamin-d3-loading-is-superior-to-conventional-supplementation-after-weight-loss-surgery-in-vitamin-d-deficient-morbidly-obese-patients-a-double-blind-randomized-placebo-controlled-trial>Vitamin D3 Loading Is Superior to Conventional Supplementation After Weight Loss Surgery in Vitamin D-Deficient Morbidly Obese Patients: a Double-Blind Randomized Placebo-Controlled Trial</h4><p>Obesity Surgery, pp 1–12 First Online: 12 Nov. 2016, DOI: 10.1007/s11695-016-2437-0</p><p>Maria Luger Renate Kruschitz Christian Kienbacher Stefan Traussnigg Felix B. Langer Gerhard Prager Karin Schindler Enikö Kallay Friedrich Hoppichle rMichael Trauner Michael Krebs Rodrig Marculescu Bernhard Ludvik</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:900px"><p><strong>Bariatric Surgery followed by</strong></p><p><strong>3420 IU for 6 months with/without 300,000 IU loading dose</strong></p><p>    28% of bariatric surgery patients had non-alcoholic fatty liver disease</p><p>    40% of seniors have non-alcoholic fatty liver disease as well - see below</p><p><strong>See also VitaminDWiki</strong></p><ul><li><p><a href=/posts/fatty-liver-disease-associated-with-low-level-of-vitamin-d>Fatty liver disease associated with low level of vitamin D – Oct 2013</a></p></li><li><p><a href=/posts/non-alcoholic-fatty-liver-disease-nafld-treated-by-vitamin-d-20000-iu-weekly-after-loading-dose-rct>Non-Alcoholic Fatty Liver Disease (NAFLD) treated by Vitamin D (20,000 IU weekly after loading dose) – RCT June 2016</a></p></li></ul><blockquote><p>Loading dose was 140,000 IU spread over 1 week</p></blockquote><ul><li><p><a href=/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a></p></li><li><p><a href=/posts/prior-to-bariatric-surgery-96-percent-were-vitamin-d-deficient>Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014</a></p></li><li><p><a href=/posts/non-alcoholic-fatty-liver-disease-4-in-10-seniors-and-vitamin-d>Non-alcoholic Fatty Liver Disease (4 in 10 seniors) and Vitamin D</a></p></li></ul><blockquote><p><strong>NAFLD in seniors as well as Obese - should seniors have loading dose as well?</strong></p></blockquote><ul><li><p><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%22fatty+liver%22&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search for Fatty Liver in VitaminDWiki</a> 193 items Nov 2016</p></li><li><p><a href=/posts/overview-loading-of-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a></p></li></ul></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/loading-dose-weight-loss-surgery.pdf>Download the PDF from VitaminDWiki</a></strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/loading-dose-fibrosis.jpg alt=image width=1000><p>Background</p><p>Bariatric patients often suffer from vitamin D deficiency (VDD), and both, morbid obesity and VDD, are related to non-alcoholic fatty liver disease. However, limited data are available regarding best strategies for treating VDD, particularly, in bariatric patients undergoing omega-loop gastric bypass (OLGB). Therefore, we examined the efficacy and safety of a forced vitamin D dosing regimen and intervention effects in liver fibrotic patients.</p><p>Methods</p><p>In this double-blind, randomized, placebo-controlled trial, 50 vitamin D-deficient patients undergoing OLGB were randomly assigned to receive, in the first month postoperatively, oral vitamin D3 (=3 doses of 100,000 IU; intervention group) or placebo as loading dose (control group) with subsequent maintenance dose (3420 IU/day) in both groups until 6-month visit.</p><p>Results</p><p>Compared with control group, higher increase of 25(OH)D (67.9 (21.1) vs. 55.7 nmol/L (21.1); p = 0.049) with lower prevalence of secondary hyperparathyroidism (10 vs. 24 %; p = 0.045) was observed in intervention group. No (serious) adverse events related to study medication were found. <strong>The loading dose regimen was more effective in increasing 25(OH)D in patients with significant liver fibrosis</strong> while this was not the case for conventional supplementation (placebo with maintenance dose) (71.5 (20.5) vs. 22.5 nmol/L (13.8); p = 0.022; n = 14).</p><p>Conclusions</p><p>Our findings indicate that a high vitamin D3 loading dose, in the first month postoperatively, with subsequent maintenance dose is effective and safe in achieving higher vitamin D concentrations in OLGB patients. Unexpectedly, it is more effective in patients with significant liver fibrosis which is of potentially high clinical relevance and requires further investigation.</p><p>Clinicaltrials.gov (NCT02092376) at <a href=https://clinicaltrials.gov/>https://clinicaltrials.gov/</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bariatric-surgery.html><span class=tag>bariatric surgery</span></a>
+<a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/liver.html><span class=tag>liver</span></a>
+<a href=/tags/liver.html><span class=tag>Liver</span></a>
+<a href=/tags/loading-dose.html><span class=tag>Loading dose</span></a>
+<a href=/tags/nafld.html><span class=tag>NAFLD</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/obesity.html><span class=tag>Obesity</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/trauma-surgery.html><span class=tag>trauma surgery</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a>
+<a href=/tags/weight-loss.html><span class=tag>weight loss</span></a></div><div data-pagefind-meta=tags hidden>bariatric surgery, blood levels, dosage, health risk, high dose, liver, Liver, Loading dose, NAFLD, obesity, Obesity, therapeutic intervention, trauma surgery, vitamin d, vitamin d blood test, weight loss</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

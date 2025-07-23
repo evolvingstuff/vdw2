@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Asthma not reduced by taking vitamin D every 60 days (no surprise) – RCT</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Asthma not reduced by taking vitamin D every 60 days (no surprise) – RCT</h1><time>April 13, 2015</time><div data-pagefind-body><h4 id=double-blind-randomised-placebo-controlled-trial-of-bolus-dose-vitamin-d3-supplementation-in-adults-with-asthma-vidias>Double-blind randomised placebo-controlled trial of bolus-dose vitamin D3 supplementation in adults with asthma (ViDiAs)</h4><p>Thorax 2015;70:451-457 doi:10.1136/thoraxjnl-2014-206449</p><p>Adrian R Martineau1,2, Beverley D MacLaughlin1, Richard L Hooper1, Neil C Barnes1,2, David A Jolliffe1, Claire L Greiller1, Kate Kilpin1, David McLaughlin1, Gareth Fletcher1, Charles A Mein1, Mimoza Hoti1, Robert Walton1, Jonathan Grigg1, Peter M Timms3, Raj K Rajakulasingam3, Angshu Bhowmik3, Marion Rowe3, Timothy R Venton3, Aklak B Choudhury4, David E Simcock5, Zia Sadique6, William R Monteiro7, Christopher J Corrigan8, Catherine M Hawrylowicz8, Christopher J Griffiths1,2,8</p><p>1Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK</p><p>2Asthma UK Centre for Applied Research, Blizard Institute, Queen Mary University of London, London, UK</p><p>3Homerton University Hospital, London, UK</p><p>4Queen&rsquo;s Hospital, Rom Valley Way, Romford, London, UK</p><p>5Royal London Hospital, London, UK</p><p>6London School of Hygiene and Tropical Medicine, London, UK</p><p>7NIHR Leicester Respiratory Biomedical Research Unit, Glenfield Hospital, Leicester, UK</p><p>8MRC and the Asthma UK Centre for Allergic Mechanisms in Asthma, King&rsquo;s College London, London, UK</p><p>Correspondence to: Professor Adrian R Martineau, Centre for Primary Care and Public Health, Blizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, 58 Turner St, London E1 2AB, UK; <a href=mailto:a.martineau@qmul.ac.uk>a.martineau@qmul.ac.uk</a></p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:700px"><p>82% were vitamin D deficient at baseline</p><p>Deficiency level is not defined in the abstract</p><p>60,000 IU given every 60 days</p><p>60 days is too infrequent to make a difference</p><p>2,000 IU <strong>daily</strong> has been proven to reduce asthma in many clinical trials</p><p><strong>See also VitaminDWiki</strong></p><ul><li><p><a href=/posts/overview-asthma-and-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a></p></li><li><p><a href=/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015>Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015</a></p></li><li><p><a href=/posts/proof-that-vitamin-d-works style=color:red;text-decoration:underline title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a></p></li></ul><blockquote><p><span style=color:#00f>Asthma has been proven to be treated by Vitamin D in at least 4 random controlled trials</span></p></blockquote><ul><li><p><a href=/posts/women-with-asthma-35x-more-likely-to-be-vitamin-d-deficient>Women with asthma 35X more likely to be vitamin D deficient – Oct 2013</a></p></li><li><p><a href=/posts/take-vitamin-d3-daily-weekly-or-bi-weekly style=color:red;text-decoration:underline title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has a notional chart for Vitamin D levels &lt; 30 nanograms</p></li></ul><img src=/attachments/d3.mock.jpg alt=image></div><p>Rationale Asthma exacerbations are commonly precipitated by viral upper respiratory infections (URIs). Vitamin D insufficiency associates with susceptibility to URI in patients with asthma. Trials of vitamin D in adults with asthma with incidence of exacerbation and URI as primary outcome are lacking.</p><p>Objective To conduct a randomised controlled trial of vitamin D3 supplementation for the prevention of asthma exacerbation and URI (coprimary outcomes).</p><p>Measurements and methods 250 adults with asthma in London, UK were allocated to receive six 2-monthly oral doses of 3 mg vitamin D3 (n=125) or placebo (n=125) over 1 year. Secondary outcomes included asthma control test and St George&rsquo;s Respiratory Questionnaire scores, fractional exhaled nitric oxide and concentrations of inflammatory markers in induced sputum. Subgroup analyses were performed to determine whether effects of supplementation were modified by baseline vitamin D status or genotype for 34 single nucleotide polymorphisms in 11 vitamin D pathway genes.</p><p>Main results 206/250 participants (82%) were vitamin D insufficient at baseline. Vitamin D3 did not influence time to first severe exacerbation (adjusted HR 1.02, 95% CI 0.69 to 1.53, p=0.91) or first URI (adjusted HR 0.87, 95% CI 0.64 to 1.16, p=0.34). No clinically important effect of vitamin D3 was seen on any of the secondary outcomes listed above. The influence of vitamin D3 on coprimary outcomes was not modified by baseline vitamin D status or genotype.</p><p>Conclusions Bolus-dose vitamin D3 supplementation did not influence time to exacerbation or URI in a population of adults with asthma with a high prevalence of baseline vitamin D insufficiency.</p><p>Trial registration number NCT00978315 (ClinicalTrials.gov).</p><p><strong><a href="http://thorax.bmj.com/content/70/5/451.abstract?maxtoshow=&amp;HITS=10&amp;hits=3&amp;RESULTFORMAT=&amp;andorexacttitle=and&amp;titleabstract=vitamin+d&amp;andorexacttitleabs=phrase&amp;andorexactfulltext=and&amp;searchid=1&amp;usestrictdates=yes&amp;resourcetype=HWCIT&amp;ct">Publisher wants $37 to rent the PDF</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/asthma.html><span class=tag>asthma</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/breathing.html><span class=tag>Breathing</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/respiratory.html><span class=tag>respiratory</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>asthma, breathing, Breathing, dosage, respiratory, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

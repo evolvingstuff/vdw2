@@ -1,429 +1,321 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fertility and Sperm on VitaminDWiki</title><link>/categories/fertility-and-sperm.html</link><description>Recent content in Fertility and Sperm on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 24 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/categories/fertility-and-sperm/index.xml" rel="self" type="application/rss+xml"/><item><title>Reproduction function in males improved by vitamin D – review</title><link>/posts/reproduction-function-in-males-improved-by-vitamin-d-review.html</link><pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/reproduction-function-in-males-improved-by-vitamin-d-review.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!Vitamin D metabolism, sex hormones, and male reproductive function`
-│ inner_content: `Vitamin D metabolism, sex hormones, and male reproductive function`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D metabolism, sex hormones, and male reproductive function`
-│ │ inner_content: `Vitamin D metabolism, sex hormones, and male reproductive function`├── TextNode
-│ full_match: `\nReproduction August 1, 2012 144 135-152 \nMartin Blomberg Jensen blombergjensen@gmail.com\nUniversity Department of Growth and Reproduction,\nRigshospitalet, Section 5064, Blegdamsvej 9, 2100 Copenhagen, Denmark\n\nThe spectrum of vitamin D (VD)-mediated effects has expanded in recent years, and VD is now recognized as a versatile signaling molecule rather than being solely a regulator of bone health and calcium homeostasis. One of the recently identified target areas of VD is male reproductive function. The VD receptor (VDR) and the VD metabolizing enzyme expression studies documented the presence of this system in the testes, mature spermatozoa, and ejaculatory tract, suggesting that both systemic and local VD metabolism may influence male reproductive function. However, it is still debated which cell is the main VD target in the testis and to what extent VD is important for sex hormone production and function of spermatozoa. \n\nThis review summarizes descriptive studies on testicular VD metabolism and spatial distribution of VDR and the VD metabolizing enzymes in the mammalian testes and discusses mechanistic and association studies conducted in animals and humans. The reviewed evidence suggests some effects of VD on estrogen and testosterone biosynthesis and implicates involvement of both systemic and local VD metabolism in the regulation of male fertility potential.\n\nReceived 27 February 2012, 2012 Society for Reproduction and Fertility\n\n`
-│ inner_content: `\nReproduction August 1, 2012 144 135-152 \nMartin Blomberg Jensen blombergjensen@gmail.com\nUniversity Department of Growth and Reproduction,\nRigshospitalet, Section 5064, Blegdamsvej 9, 2100 Copenhagen, Denmark\n\nThe spectrum of vitamin D (VD)-mediated effects has expanded in recent years, and VD is now recognized as a versatile signaling molecule rather than being solely a regulator of bone health and calcium homeostasis. One of the recently identified target areas of VD is male reproductive function. The VD receptor (VDR) and the VD metabolizing enzyme expression studies documented the presence of this system in the testes, mature spermatozoa, and ejaculatory tract, suggesting that both systemic and local VD metabolism may influence male reproductive function. However, it is still debated which cell is the main VD target in the testis and to what extent VD is important for sex hormone production and function of spermatozoa. \n\nThis review summarizes descriptive studies on testicular VD metabolism and spatial distribution of VDR and the VD metabolizing enzymes in the mammalian testes and discusses mechanistic and association studies conducted in animals and humans. The reviewed evidence suggests some effects of VD on estrogen and testosterone biosynthesis and implicates involvement of both systemic and local VD metabolism in the regulation of male fertility potential.\n\nReceived 27 February 2012, 2012 Society for Reproduction and Fertility\n\n`├── BoldNode
-│ full_match: `__~~#00F:PDF is attached at the bottom of this page~~__`
-│ inner_content: `~~#00F:PDF is attached at the bottom of this page~~`
-│ children:
-│ ├── ColorNode
-│ │ full_match: `~~#00F:PDF is attached at the bottom of this page~~`
-│ │ inner_content: `PDF is attached at the bottom of this page`
-│ │ attrs_dict:
-│ │ │ raw_content: #00F
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `PDF is attached at the bottom of this page`
-│ │ │ inner_content: `PDF is attached at the bottom of this page`├── TextNode
-│ full_match: `\n- - - - - - - - - - - - - - - - - - - - - - - - - \n`
-│ inner_content: `\n- - - - - - - - - - - - - - - - - - - - - - - - - \n`├── HeadingNode
-│ full_match: `!!A portion of Table: 2 Rats from 1992 data`
-│ inner_content: `A portion of Table: 2 Rats from 1992 data`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `A portion of Table: 2 Rats from 1992 data`
-│ │ inner_content: `A portion of Table: 2 Rats from 1992 data`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── TableNode
-│ full_match: `||Variable|lots of D|little D\nPositive sperm smear/day|0.20|0.11\nFemales giving birth to normal litters|32|20\nPregnancies per day|0.15|0.04\nMean litter size| 12.6|10.4||`
-│ inner_content: `Variable|lots of D|little D\nPositive sperm smear/day|0.20|0.11\nFemales giving birth to normal litters|32|20\nPregnancies per day|0.15|0.04\nMean litter size| 12.6|10.4`
-│ children:
-│ ├── TableRowNode
-│ │ full_match: `Variable|lots of D|little D`
-│ │ inner_content: `Variable|lots of D|little D`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Variable`
-│ │ │ inner_content: `Variable`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Variable`
-│ │ │ │ inner_content: `Variable`
-│ │ ├── TableCellNode
-│ │ │ full_match: `lots of D`
-│ │ │ inner_content: `lots of D`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `lots of D`
-│ │ │ │ inner_content: `lots of D`
-│ │ ├── TableCellNode
-│ │ │ full_match: `little D`
-│ │ │ inner_content: `little D`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `little D`
-│ │ │ │ inner_content: `little D`
-│ ├── TableRowNode
-│ │ full_match: `Positive sperm smear/day|0.20|0.11`
-│ │ inner_content: `Positive sperm smear/day|0.20|0.11`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Positive sperm smear/day`
-│ │ │ inner_content: `Positive sperm smear/day`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Positive sperm smear/day`
-│ │ │ │ inner_content: `Positive sperm smear/day`
-│ │ ├── TableCellNode
-│ │ │ full_match: `0.20`
-│ │ │ inner_content: `0.20`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `0.20`
-│ │ │ │ inner_content: `0.20`
-│ │ ├── TableCellNode
-│ │ │ full_match: `0.11`
-│ │ │ inner_content: `0.11`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `0.11`
-│ │ │ │ inner_content: `0.11`
-│ ├── TableRowNode
-│ │ full_match: `Females giving birth to normal litters|32|20`
-│ │ inner_content: `Females giving birth to normal litters|32|20`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Females giving birth to normal litters`
-│ │ │ inner_content: `Females giving birth to normal litters`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Females giving birth to normal litters`
-│ │ │ │ inner_content: `Females giving birth to normal litters`
-│ │ ├── TableCellNode
-│ │ │ full_match: `32`
-│ │ │ inner_content: `32`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `32`
-│ │ │ │ inner_content: `32`
-│ │ ├── TableCellNode
-│ │ │ full_match: `20`
-│ │ │ inner_content: `20`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `20`
-│ │ │ │ inner_content: `20`
-│ ├── TableRowNode
-│ │ full_match: `Pregnancies per day|0.15|0.04`
-│ │ inner_content: `Pregnancies per day|0.15|0.04`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Pregnancies per day`
-│ │ │ inner_content: `Pregnancies per day`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Pregnancies per day`
-│ │ │ │ inner_content: `Pregnancies per day`
-│ │ ├── TableCellNode
-│ │ │ full_match: `0.15`
-│ │ │ inner_content: `0.15`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `0.15`
-│ │ │ │ inner_content: `0.15`
-│ │ ├── TableCellNode
-│ │ │ full_match: `0.04`
-│ │ │ inner_content: `0.04`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `0.04`
-│ │ │ │ inner_content: `0.04`
-│ ├── TableRowNode
-│ │ full_match: `Mean litter size| 12.6|10.4`
-│ │ inner_content: `Mean litter size| 12.6|10.4`
-│ │ children:
-│ │ ├── TableCellNode
-│ │ │ full_match: `Mean litter size`
-│ │ │ inner_content: `Mean litter size`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `Mean litter size`
-│ │ │ │ inner_content: `Mean litter size`
-│ │ ├── TableCellNode
-│ │ │ full_match: ` 12.6`
-│ │ │ inner_content: ` 12.6`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `12.6`
-│ │ │ │ inner_content: `12.6`
-│ │ ├── TableCellNode
-│ │ │ full_match: `10.4`
-│ │ │ inner_content: `10.4`
-│ │ │ children:
-│ │ │ ├── TextNode
-│ │ │ │ full_match: `10.4`
-│ │ │ │ inner_content: `10.4`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `\n!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;amp;sort_mode=created_desc|All items in category Fertility and sperm] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;amp;sort_mode=created_desc|All items in category Fertility and sperm] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;amp;sort_mode=created_desc|All items in category Fertility and sperm]`
-│ │ inner_content: `All items in category Fertility and sperm`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in category Fertility and sperm`
-│ │ │ inner_content: `All items in category Fertility and sperm`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012] males and females with lots of graphs`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012] males and females with lots of graphs`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012]`
-│ │ inner_content: `Vitamin D and fertility: a systematic review – May 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2666`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D and fertility: a systematic review – May 2012`
-│ │ │ inner_content: `Vitamin D and fertility: a systematic review – May 2012`
-│ ├── TextNode
-│ │ full_match: ` males and females with lots of graphs`
-│ │ inner_content: ` males and females with lots of graphs`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]`
-│ │ inner_content: `Testosterone increased with daily 3332 IU vitamin D – Dec 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1237`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Testosterone increased with daily 3332 IU vitamin D – Dec 2010`
-│ │ │ inner_content: `Testosterone increased with daily 3332 IU vitamin D – Dec 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011] good overview`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011] good overview`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011]`
-│ │ inner_content: `Clinical Trial vitamin D levels and IVF success – May 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1636`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Clinical Trial vitamin D levels and IVF success – May 2011`
-│ │ │ inner_content: `Clinical Trial vitamin D levels and IVF success – May 2011`
-│ ├── TextNode
-│ │ full_match: ` good overview`
-│ │ inner_content: ` good overview`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]`
-│ │ inner_content: `Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1723`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium`
-│ │ │ inner_content: `Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&amp;#39;s reproductive health - Nov 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&amp;#39;s reproductive health - Nov 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&amp;#39;s reproductive health - Nov 2011]`
-│ │ inner_content: `Vitamin D - roles in women&amp;#39;s reproductive health - Nov 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2144`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D - roles in women&amp;#39;s reproductive health - Nov 2011`
-│ │ │ inner_content: `Vitamin D - roles in women&amp;#39;s reproductive health - Nov 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]`
-│ │ inner_content: `Vitamin D increases sperm motility – Aug 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1980`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D increases sperm motility – Aug 2011`
-│ │ │ inner_content: `Vitamin D increases sperm motility – Aug 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]`
-│ │ inner_content: `More vitamin D associated with better sperm – May 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1639`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `More vitamin D associated with better sperm – May 2011`
-│ │ │ inner_content: `More vitamin D associated with better sperm – May 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Male fertility is improved in many ways by vitamin D – Jan 2014)) same author, later publication`
-│ inner_content: `((Male fertility is improved in many ways by vitamin D – Jan 2014)) same author, later publication`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Male fertility is improved in many ways by vitamin D – Jan 2014))`
-│ │ inner_content: `Male fertility is improved in many ways by vitamin D – Jan 2014`
-│ │ page: `Male fertility is improved in many ways by vitamin D – Jan 2014`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Male fertility is improved in many ways by vitamin D – Jan 2014`
-│ │ │ inner_content: `Male fertility is improved in many ways by vitamin D – Jan 2014`
-│ ├── TextNode
-│ │ full_match: ` same author, later publication`
-│ │ inner_content: ` same author, later publication`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]`
-│ │ inner_content: `Overview Conception and vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1031`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Conception and vitamin D`
-│ │ │ inner_content: `Overview Conception and vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Vitamin D increases fertility of BOTH the man and the woman.`
-│ inner_content: `Vitamin D increases fertility of BOTH the man and the woman.`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D increases fertility of BOTH the man and the woman.`
-│ │ inner_content: `Vitamin D increases fertility of BOTH the man and the woman.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`
-│ inner_content: `Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`
-│ │ inner_content: `Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+You may not have heard much about it since it was was patented back in 1990.`
-│ inner_content: `You may not have heard much about it since it was was patented back in 1990.`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `You may not have heard much about it since it was was patented back in 1990.`
-│ │ inner_content: `You may not have heard much about it since it was was patented back in 1990.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Vitamin D has been used by zoos and vets for a long time. `
-│ inner_content: `Vitamin D has been used by zoos and vets for a long time. `
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D has been used by zoos and vets for a long time. `
-│ │ inner_content: `Vitamin D has been used by zoos and vets for a long time. `
-
-Original Tiki:
--------------
-!Vitamin D metabolism, sex hormones, and male reproductive function
-Reproduction August 1, 2012 144 135-152 
-Martin Blomberg Jensen blombergjensen@gmail.com
-University Department of Growth and Reproduction,
-Rigshospitalet, Section 5064, Blegdamsvej 9, 2100 Copenhagen, Denmark
-
-The spectrum of vitamin D (VD)-mediated effects has expanded in recent years, and VD is now recognized as a versatile signaling molecule rather than being solely a regulator of bone health and calcium homeostasis. One of the recently identified target areas of VD is male reproductive function. The VD receptor (VDR) and the VD metabolizing enzyme expression studies documented the presence of this system in the testes, mature spermatozoa, and ejaculatory tract, suggesting that both systemic and local VD metabolism may influence male reproductive function. However, it is still debated which cell is the main VD target in the testis and to what extent VD is important for sex hormone production and function of spermatozoa. 
-
-This review summarizes descriptive studies on testicular VD metabolism and spatial distribution of VDR and the VD metabolizing enzymes in the mammalian testes and discusses mechanistic and association studies conducted in animals and humans. The reviewed evidence suggests some effects of VD on estrogen and testosterone biosynthesis and implicates involvement of both systemic and local VD metabolism in the regulation of male fertility potential.
-
-Received 27 February 2012, 2012 Society for Reproduction and Fertility
-
-__~~#00F:PDF is attached at the bottom of this page~~__
-- - - - - - - - - - - - - - - - - - - - - - - - - 
-!!A portion of Table: 2 Rats from 1992 data
-||Variable|lots of D|little D
-Positive sperm smear/day|0.20|0.11
-Females giving birth to normal litters|32|20
-Pregnancies per day|0.15|0.04
-Mean litter size| 12.6|10.4||
-
-!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;amp;sort_mode=created_desc|All items in category Fertility and sperm] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012] males and females with lots of graphs
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011] good overview
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&amp;#39;s reproductive health - Nov 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]
-*((Male fertility is improved in many ways by vitamin D – Jan 2014)) same author, later publication
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]
-+Vitamin D increases fertility of BOTH the man and the woman.
-+Each 1 ng increase in blood level of vitamin D increases fertility by 1%.
-+You may not have heard much about it since it was was patented back in 1990.
-+Vitamin D has been used by zoos and vets for a long time. 
-&lt;/code>
-&lt;/pre></description></item><item><title>Fertility problem (PCOS) reduced by vitamin D, etc: many studies</title><link>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</link><pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fertility and Sperm on VitaminDWiki</title><link>/categories/fertility-and-sperm.html</link><description>Recent content in Fertility and Sperm on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/fertility-and-sperm/index.xml" rel="self" type="application/rss+xml"/><item><title>Sexual frequency down 20 percent in 20 years (decreased vitamin D not mentioned)</title><link>/posts/sexual-frequency-down-20-percent-in-20-years-decreased-vitamin-d-not-mentioned.html</link><pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/sexual-frequency-down-20-percent-in-20-years-decreased-vitamin-d-not-mentioned.html</guid><description>&lt;h4 id="declines-in-sexual-frequency-among-american-adults-19892014">Declines in Sexual Frequency among American Adults, 1989–2014&lt;/h4>
+&lt;p>Archives of Sexual Behavior, pp 1–13&lt;/p>
+&lt;p>Jean M. TwengeEmail authorRyne A. ShermanBrooke E. Wells&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sexual-frequency.jpg" alt="image">
+&lt;p>&lt;a href="https://link.springer.com/epdf/10.1007/s10508-017-0953-1?shared_access_token=8PaBKtrBDTByghbJb76Snfe4RwlQNchNByi7wbcMAY4YL86Mm2rvz6Dvu-ljx9jRV52smbLxFEFLAzXyr08cydMPxqTQGSebnoGRamoFy8A2XPRWBMNvwQZg2WxbgxjVq_EoNSnZU1PLR_76kv8YiFDrW0ng6LAoIlBe3_q0Ubc=">Click here&lt;/a> for full study online @ publisher (cannot be downloaded or printed)&lt;/p>
+&lt;p>&lt;a href="https://www.nytimes.com/2017/03/08/us/americans-less-sex-study.html">Review of the study in New Y.ork Times&lt;/a>&lt;/p></description></item><item><title>Vitamin D2 improved sexual hormones, erectile function etc</title><link>/posts/vitamin-d2-improved-sexual-hormones-erectile-function-etc.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/vitamin-d2-improved-sexual-hormones-erectile-function-etc.html</guid><description>&lt;h4 id="vitamin-d-treatment-improves-levels-of-sexual-hormones-metabolic-parameters-and-erectile-function-in-middle-aged-vitamin-d-deficient-men">Vitamin D treatment improves levels of sexual hormones, metabolic parameters and erectile function in middle-aged vitamin D deficient men&lt;/h4>
+&lt;p>Aging Male, Early Online: 1-8 DOI: 10.1080/13685538.2016.1271783 Jan 4 2017&lt;/p>
+&lt;p>Onder &lt;a href="mailto:Canguven1ocanguven@yahoo.com">Canguven1ocanguven@yahoo.com&lt;/a>, Raidh A. Talib1 *, Walid El Ansari2, Dany-Jan Yassin3, and Abdullah Al Naimi1&lt;/p>
+&lt;p>’Department of Urology and 2Department of Surgery, Hamad General Hospital, Hamad Medical Corporation, Doha, Qatar, and 3Institute of Urology and Andrology, Hamburg, Germany&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>Participants selected had &amp;lt;30 ng/mL and erectile dysfunction&lt;/p></description></item><item><title>Association between vitamin D and sperm parameters: Clinical evidence</title><link>/posts/association-between-vitamin-d-and-sperm-parameters-clinical-evidence.html</link><pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/association-between-vitamin-d-and-sperm-parameters-clinical-evidence.html</guid><description>&lt;p> &lt;/p>
+&lt;p>Endocrine pp 1–5, First Online: 10 December 2016, DOI: 10.1007/s12020-016-1198-9&lt;/p>
+&lt;p>Giacomo Tirabassi, Melissa Cutini, Giovanna Muscogiuri, Nicola delli Muti, Giovanni Corona, Mariano Galdiero, Rosario Pivonello, Annamaria Colao, Giancarlo Balercia &lt;a href="mailto:g.balercia@univpm.it">g.balercia@univpm.it&lt;/a>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="http://link.springer.com/article/10.1007%2Fs12020-016-1198-9">PDF is Behind a $40 paywall&lt;/a>&lt;/strong>&lt;/p>
+&lt;h4 id="no-abstract">No abstract&lt;/h4>
+&lt;p> &lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sperm-parameters.jpg" alt="image">
+&lt;h4 id="a-few-of-the-reference-are-informative-however">A few of the reference are informative however:&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;ol start="5">
+&lt;li>M. Blomberg Jensen, A. Jørgensen, J.E. Nielsen, P.J. Bjerrum, M. Skalkam, J.H. Petersen, D.L. Egeberg, S. Bangsbøll, A.N. Andersen, N.E. Skakkebaek, A. Juul, E. Rajpert-De Meyts, S. Dissing, H. Leffers, N. Jørgensen, Expression of the vitamin D metabolizing enzyme &lt;strong>CYP24A1&lt;/strong> at the annulus of human spermatozoa may serve as a novel marker of semen quality. Int. J. Androl. 35, 499–510 (2012)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="7">
+&lt;li>M. Tartagni, M. Matteo, D. Baldini, M.V. Tartagni, H. Alrasheed, M.A. De Salvia, G. Loverro, M. Montagnani, &lt;strong>Males with low serum levels of vitamin D have lower pregnancy rates&lt;/strong> when ovulation induction and timed intercourse are used as a treatment for infertile couples: results from a pilot study. Reprod. Biol. Endocrinol. 13, 127 (2015)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="8">
+&lt;li>M. Blomberg Jensen, P.J. Bjerrum, T.E. Jessen, J.E. Nielsen, U.N. Joensen, I.A. Olesen, J.H. Petersen, A. Juul, S. Dissing, N. Jørgensen, Vitamin D is positively associated with &lt;strong>sperm motility and increases intracellular calcium in human spermatozoa&lt;/strong> . Hum. Reprod. 26, 1307–1317 (2011)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="10">
+&lt;li>C.H. Ramlau-Hansen, U.K. Moeller, J.P. Bonde, J. Olsen, A.M. Thulstrup, &lt;strong>Are serum levels of vitamin D associated with semen quality?&lt;/strong> Results from a cross-sectional study in young healthy men. Fertil. Steril. 95, 1000–1004 (2011)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>17.E. Lerchbaum, B. Obermayer-Pietsch, &lt;strong>Vitamin D and fertility: a systematic review&lt;/strong> . Eur. J. Endocrinol. 166, 765–778 (2012)&lt;/p></description></item><item><title>Many fertility disorders associated with low vitamin D, still unsure how much is needed</title><link>/posts/many-fertility-disorders-associated-with-low-vitamin-d-still-unsure-how-much-is-needed.html</link><pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/many-fertility-disorders-associated-with-low-vitamin-d-still-unsure-how-much-is-needed.html</guid><description/></item><item><title>PCOS (polycystic ovary syndrome) 4 times more likely if poor Vitamin D Receptor</title><link>/posts/pcos-polycystic-ovary-syndrome-4-times-more-likely-if-poor-vitamin-d-receptor.html</link><pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate><guid>/posts/pcos-polycystic-ovary-syndrome-4-times-more-likely-if-poor-vitamin-d-receptor.html</guid><description/></item><item><title>Poor female sexual function associated with low vitamin D in pilot study</title><link>/posts/poor-female-sexual-function-associated-with-low-vitamin-d-in-pilot-study.html</link><pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate><guid>/posts/poor-female-sexual-function-associated-with-low-vitamin-d-in-pilot-study.html</guid><description>&lt;h4 id="sexual-function-and-depressive-symptoms-in-young-women-with-low-vitamin-d-status-a-pilot-study">Sexual function and depressive symptoms in young women with low vitamin D status: a pilot study&lt;/h4>
+&lt;p>European Journal of Obstetrics &amp;amp; Gynecology and Reproductive Biology, online 9 Aug 2016, doi:10.1016/j.ejogrb.2016.08.001&lt;/p>
+&lt;p>Robert Krysiaka, &lt;a href="mailto:r.krysiak@interia.pl">r.krysiak@interia.pl&lt;/a>, Małgorzata Gilowskaa, b, Bogusław Okopieńa&lt;/p>
+&lt;p>Objective&lt;/p>
+&lt;p>Although vitamin D deficiency is associated with an increased risk of numerous disorders, no previous study has investigated its association with sexual dysfunction. The aim of this study was to investigate female sexual functioning and depressive symptoms in young women with low vitamin D status.&lt;/p></description></item><item><title>Vitamin D, athletes, hormones</title><link>/posts/vitamin-d-athletes-hormones.html</link><pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-athletes-hormones.html</guid><description/></item><item><title>In vitro fertilization not helped by vitamin D if ignore high levels and male levels – meta</title><link>/posts/in-vitro-fertilization-not-helped-by-vitamin-d-if-ignore-high-levels-and-male-levels-meta.html</link><pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/in-vitro-fertilization-not-helped-by-vitamin-d-if-ignore-high-levels-and-male-levels-meta.html</guid><description>&lt;h4 id="serum-vitamin-d-status-and-in-vitro-fertilization-outcomes-a-systematic-review-and-meta-analysis">Serum vitamin D status and in vitro fertilization outcomes: a systematic review and meta-analysis.&lt;/h4>
+&lt;p>Arch Gynecol Obstet. 2016 Mar 29 DOI: 10.1007/s00404-016-4058-1 &lt;strong>&lt;a href="http://link.springer.com/article/10.1007%2Fs00404-016-4058-1">Publisher wants $40 for the PDF&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Lv SS1, Wang JY2, Wang XQ1, Wang Y1, Xu Y3.&lt;/p>
+&lt;p>1Department of Endocrinology, The People&amp;rsquo;s Hospital of Deyang City, Deyang, 618000, Sichuan, China.&lt;/p>
+&lt;p>2Department of Endocrinology, Affiliated Hospital of Luzhou Medical College, Luzhou, 646000, Sichuan, China.&lt;/p>
+&lt;p>3Department of Endocrinology, Affiliated Hospital of Luzhou Medical College, Luzhou, 646000, Sichuan, China. &lt;a href="mailto:Lss219219@sina.cn">Lss219219@sina.cn&lt;/a>.&lt;/p></description></item><item><title>More surviving offspring if mother had high vitamin D (sheep in this case)</title><link>/posts/more-surviving-offspring-if-mother-had-high-vitamin-d-sheep-in-this-case.html</link><pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/more-surviving-offspring-if-mother-had-high-vitamin-d-sheep-in-this-case.html</guid><description>&lt;h4 id="vitamin-d-status-predicts-reproductive-fitness-in-a-wild-sheep-population">Vitamin D status predicts reproductive fitness in a wild sheep population&lt;/h4>
+&lt;p>Scientific Reports 6, Article number: 18986 (2016), doi:10.1038/srep18986&lt;/p>
+&lt;p>Ian Handel, Kathryn A. Watt, Jill G. Pilkington, Josephine M. Pemberton, Alastair Macrae, Philip Scott, Tom N. McNeilly, Jacqueline L. Berry, Dylan N. Clements, Daniel H. Nussey &amp;amp; Richard J. Mellanby&lt;/p>
+&lt;p>Vitamin D deficiency has been associated with the development of many human diseases, and with poor reproductive performance in laboratory rodents. We currently have no idea how natural selection directly acts on variation in vitamin D metabolism due to a total lack of studies in wild animals. Here, we measured serum 25 hydroxyvitamin D (25(OH)D) concentrations in female Soay sheep that were part of a long-term field study on St Kilda. We found that total 25(OH)D was strongly influenced by age, and that light coloured sheep had higher 25(OH)D3 (but not 25(OH)D2) concentrations than dark sheep. The coat colour polymorphism in Soay sheep is controlled by a single locus, suggesting vitamin D status is heritable in this population. &lt;strong>We also observed a very strong relationship between total 25(OH)D concentrations in summer and a ewe’s fecundity the following spring.&lt;/strong> This resulted in a positive association between total 25(OH)D and the number of lambs produced that survived their first year of life, an important component of female reproductive fitness. Our study provides the first insight into naturally-occurring variation in vitamin D metabolites, and offers the first evidence that vitamin D status is both heritable and under natural selection in the wild.&lt;/p></description></item><item><title>Male fertility 4 X higher if high Vitamin D</title><link>/posts/male-fertility-4-x-higher-if-high-vitamin-d.html</link><pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/male-fertility-4-x-higher-if-high-vitamin-d.html</guid><description>&lt;h4 id="males-with-low-serum-levels-of-vitamin-d-have-lower-pregnancy-rates-when-ovulation-induction-and-timed-intercourse-are-used-as-a-treatment-for-infertile-couples-results-from-a-pilot-study">Males with low serum levels of vitamin D have lower pregnancy rates when ovulation induction and timed intercourse are used as a treatment for infertile couples: results from a pilot study&lt;/h4>
+&lt;p>Reproductive Biology and Endocrinology (2015) 13:127 DOI 10.1186/s12958-015-0126-9&lt;/p>
+&lt;p>Massimo Tartagni1, Maria Matteo2, Domenico Baldini3, Mario V. Tartagni3, Hala Alrasheed3, Maria A. De Salvia1, Giuseppe Loverro1 and Monica Montagnani1*&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
+#### All women had > 30 ng of vitamin D – were supplemented as needed
+&lt;h4 id="portion-of-table-2--4-male">Portion of Table 2 &amp;amp; 4 Male&lt;/h4>
+&lt;h4 id="-group-1--group-2-p-value">|| |GROUP 1 | GROUP 2 |P Value&lt;/h4>
+&lt;p>|Normal Vit D |Low Vit D|&lt;/p></description></item><item><title>Low fertility associated with low Calcium intake and low vitamin D</title><link>/posts/low-fertility-associated-with-low-calcium-intake-and-low-vitamin-d.html</link><pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/low-fertility-associated-with-low-calcium-intake-and-low-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-deficiency-among-subfertile-women-case-control-study">Vitamin D deficiency among subfertile women: case control study.&lt;/h4>
+&lt;p>Gynecol Endocrinol. 2015 Nov 16:1-18. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
+&lt;p>&lt;strong>| | | |
+| &amp;mdash; | &amp;mdash; | &amp;mdash; |
+| | subfertile | fertile |
+| Vitamin D deficiency | 59% | 40% |
+| Calcium intake | 10% | 65% |&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>See also VitaminDWiki&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">Vitamin D and fertility: a systematic review – May 2012&lt;/a>&lt;/p></description></item><item><title>Increased fertility (ovarian reserve, FSH) associated with higher levels of vitamin D</title><link>/posts/increased-fertility-ovarian-reserve-fsh-associated-with-higher-levels-of-vitamin-d.html</link><pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/increased-fertility-ovarian-reserve-fsh-associated-with-higher-levels-of-vitamin-d.html</guid><description>&lt;h4 id="association-between-serum-25-hydroxyvitamin-d-and-ovarian-reserve-in-premenopausal-women">Association between serum 25-hydroxyvitamin D and ovarian reserve in premenopausal women.&lt;/h4>
+&lt;p>Menopause. 2015 Mar;22(3):312-6. &lt;a href="https://doi.org/10.1097/GME.0000000000000312.">doi: 10.1097/GME.0000000000000312.&lt;/a>&lt;/p>
+&lt;p>Jukic AM1, Steiner AZ, Baird DD.&lt;/p>
+&lt;p>1 Epidemiology Branch, National Institute of Environmental Health Sciences, Durham, NC&lt;/p>
+&lt;p>2 Department of Obstetrics and Gynecology, University of North Carolina, Chapel Hill, NC.&lt;/p>
+&lt;p>OBJECTIVE:&lt;/p>
+&lt;p>Vitamin D has been linked to antimüllerian hormone levels, suggesting a possible association with greater ovarian reserve, but large population-based studies are lacking. Our objective was to explore the association between vitamin D and follicle-stimulating hormone (FSH) in premenopausal women.&lt;/p></description></item><item><title>Vitamin D and pregnancy – review</title><link>/posts/vitamin-d-and-pregnancy-review.html</link><pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-pregnancy-review.html</guid><description/></item><item><title>Testosterone levels increased after vitamin D supplementation (342 from 320)</title><link>/posts/testosterone-levels-increased-after-vitamin-d-supplementation-342-from-320.html</link><pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/testosterone-levels-increased-after-vitamin-d-supplementation-342-from-320.html</guid><description>&lt;h4 id="looking-for-links-between-testosterone-and-vitamin-d-levelshttpwwwhcplivecommedical-newslooking-for-links-between-testosterone-and-vitamin-d-levels">&lt;a href="http://www.hcplive.com/medical-news/looking-for-links-between-testosterone-and-vitamin-d-levels">Looking for Links Between Testosterone and Vitamin D Levels&lt;/a>&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>presented at the American Urological Association’s annual meeting in New Orleans&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>”The men who failed to correct the deficiency, on average, had total testosterone levels of 319.6 ng/L, while men who took supplements, and men with naturally sufficient levels of vitamin D, had total testosterone levels that averaged 341.7 ng/L (P=.012)”&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Article did not mention dose size&lt;/p>
+&lt;p>Note: as little as 2,000 IU might be enough for most men, but some will need 4,000 IU or more.&lt;/p></description></item><item><title>Pregnancy success increased 30 percent if sunny (or vitamin D) one month earlier</title><link>/posts/pregnancy-success-increased-30-percent-if-sunny-or-vitamin-d-one-month-earlier.html</link><pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/pregnancy-success-increased-30-percent-if-sunny-or-vitamin-d-one-month-earlier.html</guid><description>&lt;h3 id="pregnancy-chances-increase-among-women-who-soak-up-sun-a-month-before-ivf-belgium-study-says-httpwwwnydailynewscomlife-stylebelgium-study-links-sun-exposure-ivf-pregnancy-article-1226426420-ny-daily-news">&lt;a href="http://www.nydailynews.com/life-style/belgium-study-links-sun-exposure-ivf-pregnancy-article-1.2264264%20">Pregnancy chances increase among women who soak up sun a month before IVF, Belgium study says &lt;/a> NY Daily News&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Increased exposure to sunshine one month before conception could boost a woman&amp;rsquo;s odds of getting pregnant through IVF by more than a third, according to the study out of Belgium.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dr. Frank Vandekerckhove, a reproduction specialist at University Hospital Ghent, found those exposed to more sunshine, less rain and higher temperatures one month before beginning an IVF cycle had better results.&lt;/p></description></item><item><title>Assisted Reproduction – 5 studies concluded vitamin D repletion helps – Review</title><link>/posts/assisted-reproduction-5-studies-concluded-vitamin-d-repletion-helps-review.html</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>/posts/assisted-reproduction-5-studies-concluded-vitamin-d-repletion-helps-review.html</guid><description/></item><item><title>Vitamin D and fertility – Lerchbaum 2012, 2014</title><link>/posts/vitamin-d-and-fertility-lerchbaum-2012-2014.html</link><pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-fertility-lerchbaum-2012-2014.html</guid><description>&lt;p>The 2012 study was referenced by the book &lt;strong>&lt;a href="http://smile.amazon.com/Mommy-Me-Vitamin-Eugene-Heyden/dp/0982827636/ref=sr_1_2?ie=UTF8&amp;amp;qid=1430676754&amp;amp;sr=8-2&amp;amp;keywords=mommy%2Cme+and+vitamin+d">Mommy, Me &amp;amp; Vitamin D&lt;/a>&lt;/strong> - Heyden 2014&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-fertility-a-systematic-review--may-2012">Vitamin D and fertility: a systematic review – May 2012&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#abstract">Abstract&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#introduction">Introduction&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-metabolism">Vitamin D metabolism&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#figure-1-vitamin-d-effects">Figure 1 Vitamin D Effects&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vdr-expression-in-reproductive-tissues">VDR expression in reproductive tissues&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-fertility-in-animal-studies">Vitamin D and fertility in animal studies&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficient-animals">Vitamin D-deficient animals&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-fertility-in-humans">Vitamin D and fertility in humans&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#women">Women&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#figure-2-the-proposed-associations-of-vitamin-d-status-with-female-reproduction">Figure 2: The proposed associations of vitamin D status with female reproduction.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#men">Men&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#figure-3-the-proposed-associations-of-vitamin-d-deficiency-with-male-reproduction">Figure 3: The proposed associations of vitamin D deficiency with male reproduction.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#pregnancy">Pregnancy&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation">Vitamin D supplementation&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#clinical-consequences-and-summary">Clinical consequences and summary&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-menopause--a-narrative-review--sept-2014">Vitamin D and menopause&amp;ndash;a narrative review – Sept 2014&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="vitamin-d-and-fertility-a-systematic-review--may-2012">Vitamin D and fertility: a systematic review – May 2012&lt;/h2>
+&lt;p>Eur J Endocrinol May 1, 2012 166 765-778&lt;/p></description></item><item><title>High Testosterone is associated with higher vitamin D in soldiers</title><link>/posts/high-testosterone-is-associated-with-higher-vitamin-d-in-soldiers.html</link><pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/high-testosterone-is-associated-with-higher-vitamin-d-in-soldiers.html</guid><description>&lt;h4 id="vitamin-d-correlation-with-testosterone-concentration-in-us-army-special-operations-personnel">Vitamin D Correlation with Testosterone Concentration in US Army Special Operations Personnel&lt;/h4>
+&lt;p>Laurel Wentz1, Cristóbal Berry-Cabán2, Jerad Eldred2 and Qiang Wu1&lt;/p>
+&lt;p>1Nutrition Science East Carolina University Greenville North Carolina United States&lt;/p>
+&lt;p>2Department of Clinical Investigation Womack Army Medical Center Fort Bragg North Carolina United States&lt;/p>
+&lt;p>&lt;strong>Vitamin D has been positively correlated with testosterone in older men&lt;/strong> , but these hormonal relationships have not been examined in younger, active military personnel. Therefore, the purpose of this study was to identify significant correlations between vitamin D and testosterone concentrations in male Special Operations Soldiers. This retrospective analysis examined unique cases of serum vitamin D assessments ordered at Womack Army Medical Center, Fort Bragg, NC, from January 2012 – September 2013. Inclusion criteria were male Special Operations soldiers who had a total testosterone assessment within 21 days of vitamin D assessment, yielding 312 service member records. Mean serum vitamin D concentrations were 29.9±9.6 ng/ml (range 10-63), with 52% of subjects in the deficient range of &amp;lt;30 ng/ml according to the Army Medical Department guidelines. In vitamin D deficient subjects, serum vitamin D concentrations were a significant positive predictor of total testosterone when controlling for age and body mass index.&lt;/p></description></item><item><title>Assisted Reproduction might be aided by Vitamin D – review</title><link>/posts/assisted-reproduction-might-be-aided-by-vitamin-d-review.html</link><pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/assisted-reproduction-might-be-aided-by-vitamin-d-review.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-and-assisted-reproduction-should-vitamin-d-be-routinely-screened-and-repleted-prior-to-art-a-systematic-review---2014">Vitamin D and assisted reproduction: should vitamin D be routinely screened and repleted prior to ART? A systematic review - 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#art-helped-by-vitamin-d-2-studies-say-yes-1-study-says-no---may-2014">ART helped by Vitamin D: 2 studies say yes, 1 study says no - May 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-and-assisted-reproduction-should-vitamin-d-be-routinely-screened-and-repleted-prior-to-art-a-systematic-review---2014">Vitamin D and assisted reproduction: should vitamin D be routinely screened and repleted prior to ART? A systematic review - 2014&lt;/h4>
+&lt;p>Journal of Assisted Reproduction and Genetics December 2014&lt;/p>
+&lt;p>Michelle M. Pacis, Chelsea N. Fortin, Shvetha M. Zarek, Sunni L. Mumford, James H. Segars&lt;/p></description></item><item><title>Erectile Dysfunction and vitamin D - many studies</title><link>/posts/erectile-dysfunction-and-vitamin-d-many-studies.html</link><pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/erectile-dysfunction-and-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#summary-of-erectile-dysfunction-and-vitamin-d">Summary of Erectile Dysfunction and Vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#11800-studies-of-erectile-dysfunction-and-vitamin-d---as-of--april-2025">11,800 studies of Erectile Dysfunction and Vitamin D - as of April 2025&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#perplexity-ai---deep-research---april-2025httpswwwperplexityaisearchis-erectile-dysfunction-associ-fqhei5jkqemnruo3d4d0ya-ed-likely-treated-if-vitamin-d-levels-are-between-20-and-50-ngml">Perplexity AI - &lt;a href="https://www.perplexity.ai/search/is-erectile-dysfunction-associ-FQhEi5jKQEmNrUo3D4D0YA">Deep Research - April 2025&lt;/a>: ED likely treated if vitamin D levels are between 20 and 50 ng/mL&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#low-vitamin-d-causes-erectile-dysfunction-in-mice-and-rats---april-2025">Low Vitamin D causes Erectile Dysfunction (in mice and rats) - April 2025&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#two-erectile-dysfunction-vs-vitamin-d-charts">Two Erectile Dysfunction vs Vitamin D charts&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#how-vitamin-d-might-prevent-and-treat-erectile-dysfunction---june-2023">How Vitamin D might prevent and treat Erectile Dysfunction - June 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#both-types-of-erectile-dysfunction--have-low-vitamin-d---dec-2022">Both types of erectile dysfunction have low Vitamin D - Dec 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#senior-male-covid-19-patients-were-13-x-more-likely-to-have-ed---nov-2021">Senior male COVID-19 patients were 13 X more likely to have ED - Nov 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-looks-like-a-good-way-to-treat-ed---review-jan-2021">Vitamin D looks like a good way to treat ED - Review Jan 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ed-is-associated-with-low-vitamin-d---meta-analysis-may-2020">ED is associated with low Vitamin D - meta-analysis May 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ed-5-less-likely-for-each-1ng--more-of-vitamin-d---july-2020">ED 5% less likely for each 1ng more of vitamin D - July 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#lower-vitamin-d--lower-nitric-oxide--lower-erection---april-2017">Lower vitamin D ==&amp;gt; lower Nitric Oxide ==&amp;gt; lower erection - April 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#erectile-dysfunction-is-13x-more-likely-if-low-vitamin-d---july-2016">Erectile dysfunction is 1.3X more likely if low vitamin D - July 2016&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ed-associated-with-cvd-diabetes-obesity-metabolic-syndrome-ms-depression-ckd-copd-etc-all-associated-with-low-vitamin-d">ED associated with CVD, Diabetes, Obesity, Metabolic Syndrome, MS, Depression, CKD, COPD, etc (all associated with low Vitamin D)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="summary-of-erectile-dysfunction-and-vitamin-d">Summary of Erectile Dysfunction and Vitamin D&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>11,000+ studies of ED and Vitamin D: A good level of Vitamin D (20-50 ng) both prevents and treats&lt;/p></description></item><item><title>In Vitro Fertilization (D5 SET ICSI) 40 percent more successful if high vitamin D</title><link>/posts/in-vitro-fertilization-d5-set-icsi-40-percent-more-successful-if-high-vitamin-d.html</link><pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/in-vitro-fertilization-d5-set-icsi-40-percent-more-successful-if-high-vitamin-d.html</guid><description>&lt;p>&lt;strong>Two studies on this page&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-pregnancy-rates-in-women-undergoing-single-embryo-blastocyst-stage-transfer-set-for-ivficsi">Vitamin D deficiency and pregnancy rates in women undergoing single embryo, blastocyst stage, transfer (SET) for IVF/ICSI&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#comment-by-vitamindwiki">Comment by VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#ivf-2x-better-if--20-ng-than--20-ng--best-if--30-ng-aug-2014">IVF 2X better if &amp;gt; 20 ng than &amp;lt; 20 ng, Best if &amp;gt; 30 ng Aug 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="vitamin-d-deficiency-and-pregnancy-rates-in-women-undergoing-single-embryo-blastocyst-stage-transfer-set-for-ivficsi">Vitamin D deficiency and pregnancy rates in women undergoing single embryo, blastocyst stage, transfer (SET) for IVF/ICSI&lt;/h3>
+&lt;p>Medicine &amp;amp; Health Human Reproduction Volume 29, Issue 9Pp. 2032-2040.&lt;/p></description></item><item><title>Low testosterone is associated with levels higher than 40 ng of vitamin D (U-shaped)</title><link>/posts/low-testosterone-is-associated-with-levels-higher-than-40-ng-of-vitamin-d-u-shaped.html</link><pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/low-testosterone-is-associated-with-levels-higher-than-40-ng-of-vitamin-d-u-shaped.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#F00;">There are two studies on this page from the same journal&lt;/span>&lt;/strong>&lt;/p>
+&lt;h4 id="serum-vitamin-d-levels-and-hypogonadism-in-men---2014">Serum vitamin D levels and hypogonadism in men - 2014&lt;/h4>
+&lt;p>E. Lerchbaum1,2,*, S. Pilz1,3, C. Trummer1, T. Rabe2, M. Schenk4, A. C. Heijboer5 andB. Obermayer-Pietsch1&lt;/p>
+&lt;p>Andrology, Article first published online: 16 JUL 2014, DOI: 10.1111/j.2047-2927.2014.00247.x&lt;/p>
+&lt;p>Summary&lt;/p>
+&lt;p>There is inconsistent evidence on a possible association of vitamin D and androgen levels in men. We therefore aim to investigate the association of 25-hydroxyvitamin D (25(OH)D) with androgen levels in a cohort of middle-aged men. This cross-sectional study included 225 men with a median (interquartile range) age of 35 (30–41) years. We measured 25(OH)D, total testosterone (TT) and SHBG concentrations. Hypogonadism was defined as TT &amp;lt;10.4 nmol/L. We found no significant correlation of 25(OH)D and androgen levels. Furthermore, androgen levels were not significantly different across 25(OH)D quintiles.&lt;/p></description></item><item><title>Feel sexier with vitamin D and-or sunshine</title><link>/posts/feel-sexier-with-vitamin-d-and-or-sunshine.html</link><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/feel-sexier-with-vitamin-d-and-or-sunshine.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#peaks-in-vitamin-d-levels-and-birth-rates-both-occur-earlier-in-the-year-at-higher-latitudes">Peaks in Vitamin D levels and birth rates both occur earlier in the year at higher latitudes&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-fertility-a-systematic-review---may-2012">Vitamin D and fertility: a systematic review. - May 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sperm-varied-with-vitamin-d-levels-even-with-average-of-34-ng---nov-2012">Sperm varied with vitamin D levels, even with average of 34 ng - Nov 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#strong-evidence-of-better-sperm-with-higher-levels-of-vitamin-d---review-march-2013">Strong evidence of better sperm with higher levels of vitamin D - Review March 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-evidence-for-seasonal-variations-of-testosterone-in-men---jan-2013">The evidence for seasonal variations of testosterone in men. - Jan 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-plays-a-major-role-in-making-testosterone---june-2014">Vitamin D plays a major role in making testosterone - June 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#if-males-aleady-had-sufficient-vitamin-d-adding-more-did-not-increase-testosterone-levels---sept-2013">If males aleady had sufficient vitamin D, adding more did not increase testosterone levels - Sept 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-somewhat-assists-reproduction--both-the-mother-and-the-father--may-2014">Vitamin D somewhat assists reproduction – both the mother and the father – May 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#infertility-rate-is-2x-higher-for-blacks-than-whites-no-mention-of-vitamin-d-nor-the-man--april-2014">Infertility rate is 2X higher for blacks than whites (no mention of vitamin D, nor the man) – April 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#male-fertility-is-improved-in-many-ways-by-vitamin-d--jan-2014">Male fertility is improved in many ways by vitamin D – Jan 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-associations-with-erectile-dysfunction---april-2012">Vitamin D associations with erectile dysfunction - April 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-happy-vitamin--vitamin-d--a-2-minute-video-march-2014">The happy Vitamin – Vitamin D – a 2 minute video March 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#serotonin-related-to-season-light-and-perhaps-latitude-and-vitamin-d">Serotonin related to season, light and perhaps latitude and vitamin D&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-most-likely-month-for-being-born-occurs-earlier-in-the-year-the-farther-from-from-the-equator">The most likely month for being born occurs earlier in the year the farther from from the equator.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#total-testosterone-levels-increased-25-after-obese-men-got-3332-iu-of-vitamin-d-daily-for-a-year---rct-march-2011">Total Testosterone levels increased 25% after obese men got 3332 IU of vitamin D daily for a year - RCT March 2011&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="peaks-in-vitamin-d-levels-and-birth-rates-both-occur-earlier-in-the-year-at-higher-latitudes">Peaks in Vitamin D levels and birth rates both occur earlier in the year at higher latitudes&lt;/h3>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p></description></item><item><title>Vitamin D somewhat assists reproduction – both the mother and the father</title><link>/posts/vitamin-d-somewhat-assists-reproduction-both-the-mother-and-the-father.html</link><pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-somewhat-assists-reproduction-both-the-mother-and-the-father.html</guid><description>&lt;h4 id="vitamin-d-and-assisted-reproduction-technologies-current-concepts">Vitamin D and assisted reproduction technologies: current concepts&lt;/h4>
+&lt;p>Reproductive Biology and Endocrinology 2014,12:47 doi:10.1186/1477-7827-12-47&lt;/p>
+&lt;p>Valeria S Vanni (&lt;a href="mailto:vanni.valeriastella@hsr.it">vanni.valeriastella@hsr.it&lt;/a>) Paola Vigano (&lt;a href="mailto:vigano.paola@hsr.it">vigano.paola@hsr.it&lt;/a>) Edgardo Somigliana (&lt;a href="mailto:dadosomigliana@yahoo.it">dadosomigliana@yahoo.it&lt;/a>) Enrico Papaleo (&lt;a href="mailto:papaleo.enrico@hsr.it">papaleo.enrico@hsr.it&lt;/a>) Alessio Paffoni (&lt;a href="mailto:alessio.paffoni@alice.it">alessio.paffoni@alice.it&lt;/a>) Luca Pagliardini (&lt;a href="mailto:pagliardini.luca@hsr.it">pagliardini.luca@hsr.it&lt;/a>) Massimo Candiani (&lt;a href="mailto:candiani.massimo@hsr.it">candiani.massimo@hsr.it&lt;/a>)&lt;/p>
+&lt;p>ISSN 1477-7827&lt;/p>
+&lt;p>Article type Review; Submission date 14 January 2014; Acceptance date 10 May 2014; Publication date 31 May 2014&lt;/p>
+&lt;p>Article URL &lt;a href="http://www.rbej.com/content/12/1/47">http://www.rbej.com/content/12/1/47&lt;/a>&lt;/p>
+&lt;p>Accumulating evidence from animal and human studies suggests that vitamin D is involved in many functions of the human reproductive system in both genders, but no comprehensive analysis of the potential relationship between vitamin D status and Assisted Reproduction Technologies (ART) outcomes is currently available. On this basis, the purpose of this systematic review and meta-analysis was to perform an in-depth evaluation of clinical studies assessing whether vitamin D status of patients undergoing ART could be related to cycle outcome variables. This issue is of interest considering that vitamin D deficiency is easily amenable to correction and oral vitamin D supplementation is cheap and without significant side effects. Surprisingly, no studies are currently available assessing vitamin D status among male partners of couples undergoing ART, while seven studies on vitamin D status of women undergoing controlled ovarian hyperstimulation (COH) for ART were found and included in the review. Results show that vitamin D deficiency is highly prevalent among women undergoing COH, ranging from 21% to 31% across studies conducted in Western countries and reaching 75-99% in Iranian studies. Data on vitamin D deficiency (25-hydroxyvitamin D serum levels &amp;lt;20 ng/ml) in relation to ART outcomes could be extracted from three studies and included in the meta-analysis, yielding a common risk ratio (RR) of 0.89 (95% CI 0.531.49) and showing a lower but not statistically significant likelihood of clinical pregnancy for vitamin-D-deficient women compared with vitamin-D-sufficient patients.&lt;/p></description></item><item><title>Fertility in both women and men improves with more vitamin D (but less than 50 ng for men)</title><link>/posts/fertility-in-both-women-and-men-improves-with-more-vitamin-d-but-less-than-50-ng-for-men.html</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><guid>/posts/fertility-in-both-women-and-men-improves-with-more-vitamin-d-but-less-than-50-ng-for-men.html</guid><description>&lt;h3 id="the-role-of-vitamin-d-in-impaired-fertility-treatment">The role of vitamin D in impaired fertility treatment.&lt;/h3>
+&lt;p>Neuro endocrinology letters (Impact Factor: 0.93). 12/2013; 34(8):756-62.&lt;/p>
+&lt;p>Barbara Grzechocinska, Filip A Dabrowski, Anna Cyganek, Miroslaw Wielgos&lt;/p>
+&lt;p>Vitamin D is currently in the scope of research in many fields of medicine. Despite that its influence on health remains uncertain.&lt;/p>
+&lt;p>This paper presents the review of the publications concerning the role of calciferol in reproduction processes and its significance in infertility therapy covering topics of&lt;/p></description></item><item><title>Infertility rate is 2X higher for blacks than whites (no mention of vitamin D, nor the man)</title><link>/posts/infertility-rate-is-2x-higher-for-blacks-than-whites-no-mention-of-vitamin-d-nor-the-man.html</link><pubDate>Sat, 26 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/infertility-rate-is-2x-higher-for-blacks-than-whites-no-mention-of-vitamin-d-nor-the-man.html</guid><description/></item><item><title>Fertility and Vitamin D – several articles</title><link>/posts/fertility-and-vitamin-d-several-articles.html</link><pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/fertility-and-vitamin-d-several-articles.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-alters-genes-involved-in-follicular-development-and-steroidogenesis-in-human-cumulus-granulosa-cells">Vitamin D Alters Genes Involved in Follicular Development and Steroidogenesis in Human Cumulus Granulosa Cells.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#female-fertility-for-ivf-needs-at-least-30ng-of-vitamin-d---no-mention-of-vitamin-d-level-of-the-sperm-donor">Female fertility for IVF needs at least 30ng of Vitamin D - no mention of vitamin D level of the sperm donor&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="vitamin-d-alters-genes-involved-in-follicular-development-and-steroidogenesis-in-human-cumulus-granulosa-cells">Vitamin D Alters Genes Involved in Follicular Development and Steroidogenesis in Human Cumulus Granulosa Cells.&lt;/h3>
+&lt;p>J Clin Endocrinol Metab. 2014 Mar 14:jc20134161.&lt;/p>
+&lt;p>Merhi Z1, Doswell A, Krebs K, Cipolla M.&lt;/p>
+&lt;p>1Department of Obstetrics and Gynecology, Division of Reproductive Endocrinology and Infertility, University of Vermont College of Medicine, Burlington, VT, USA.&lt;/p></description></item><item><title>Male fertility is improved in many ways by vitamin D</title><link>/posts/male-fertility-is-improved-in-many-ways-by-vitamin-d.html</link><pubDate>Wed, 19 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/male-fertility-is-improved-in-many-ways-by-vitamin-d.html</guid><description/></item><item><title>Vitamin D protects against many types of health problems – review</title><link>/posts/vitamin-d-protects-against-many-types-of-health-problems-review.html</link><pubDate>Sat, 25 May 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-protects-against-many-types-of-health-problems-review.html</guid><description>&lt;h4 id="vitamin-d-effects-on-musculoskeletal-health-immunity-autoimmunity-cardiovascular-disease-cancer-fertility-pregnancy-dementia-and-mortality-a-review-of-recent-evidence">Vitamin D effects on musculoskeletal health, immunity, autoimmunity, cardiovascular disease, cancer, fertility, pregnancy, dementia and mortality-A review of recent evidence.&lt;/h4>
+&lt;p>Autoimmun Rev. 2013 Mar 28. pii: S1568-9972(13)00040-2. &lt;a href="https://doi.org/10.1016/j.autrev.2013.02.004.">doi: 10.1016/j.autrev.2013.02.004.&lt;/a>&lt;/p>
+&lt;p>Pawel Pludowski a &lt;a href="mailto:p.pludowski@czd.pl">p.pludowski@czd.pl&lt;/a>&lt;/p>
+&lt;p>Michael F. Holick b,&lt;/p>
+&lt;p>Stefan Pilzc, d,&lt;/p>
+&lt;p>Carol L. Wagner e,&lt;/p>
+&lt;p>Bruce W. Hollis e,&lt;/p>
+&lt;p>William B. Grant f,&lt;/p>
+&lt;p>Yehuda Shoenfeld g,&lt;/p>
+&lt;p>Elisabeth Lerchbaum c,&lt;/p>
+&lt;p>David J. Llewellyn h,&lt;/p>
+&lt;p>Katharina Kienreich c,&lt;/p>
+&lt;p>Maya Soni h&lt;/p>
+&lt;p>a Department of Biochemistry, Radioimmunology and Experimental Medicine, The Children&amp;rsquo;s Memorial Health Institute, Warsaw, Poland&lt;/p></description></item><item><title>PCBs increased the chance of being Vitamin D deficient by 3 percent</title><link>/posts/pcbs-increased-the-chance-of-being-vitamin-d-deficient-by-3-percent.html</link><pubDate>Thu, 09 May 2013 00:00:00 +0000</pubDate><guid>/posts/pcbs-increased-the-chance-of-being-vitamin-d-deficient-by-3-percent.html</guid><description>&lt;h4 id="associations-between-blood-persistent-organic-pollutants-and-25-hydroxyvitamin-d3-in-pregnancy">Associations between blood persistent organic pollutants and 25-hydroxyvitamin D3 in pregnancy.&lt;/h4>
+&lt;p>Environ Int. 2013 May 4;57-58C:34-41. &lt;a href="https://doi.org/10.1016/j.envint.2013.03.011.">doi: 10.1016/j.envint.2013.03.011.&lt;/a>&lt;/p>
+&lt;p>Morales E, Gascon M, Martinez D, Casas M, Ballester F, Rodríguez-Bernal CL, Ibarluzea J, Marina LS, Espada M, Goñi F, Vizcaino E, Grimalt JO, Sunyer J; on behalf of the INMA Project.&lt;/p>
+&lt;p>Centre for Research in Environmental Epidemiology (CREAL), Barcelona, Catalonia, Spain; Hospital del Mar Medical Research Institute (IMIM), Barcelona, Catalonia,Spain; CIBER in Epidemiology and Public Health (CIBERESP), Spain. Electronic address: &lt;a href="mailto:emorales1@creal.cat">emorales1@creal.cat&lt;/a>.&lt;/p></description></item><item><title>Male infertility associated with low vitamin D levels</title><link>/posts/male-infertility-associated-with-low-vitamin-d-levels.html</link><pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/male-infertility-associated-with-low-vitamin-d-levels.html</guid><description/></item><item><title>Testosterone, vitamin D and inflammation</title><link>/posts/testosterone-vitamin-d-and-inflammation.html</link><pubDate>Fri, 05 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/testosterone-vitamin-d-and-inflammation.html</guid><description>&lt;h3 id="testosterone-induced-effects-on-lipids-and-inflammation">Testosterone-Induced Effects on Lipids and Inflammation&lt;/h3>
+&lt;p>Mediators of Inflammation, Volume 2013, Article ID 183041, 8 pages, &lt;a href="http://dx.doi.org/10.1155/2013/183041">http://dx.doi.org/10.1155/2013/183041&lt;/a>&lt;/p>
+&lt;p>Stella Vodo,1 Nicoletta Bechi,1 Anna Petroni,2 Carolina Muscoli,3 and Anna Maria Aloisi1&lt;/p>
+&lt;p>1 Department of Medicine, Surgery and Neuroscience, University of Siena, Via Aldo Moro 2, 53100 Siena, Italy&lt;/p>
+&lt;p>2 Department of Pharmacological and Biomolecular Sciences, University of Milan, Via Balzaretti 9, 20133 Milan, Italy&lt;/p>
+&lt;p>3 Department of Health Science, University of &amp;ldquo;Magna Graecia&amp;rdquo; Catanzaro and Drug Center, IRCCS San Raffaele Pisana, Via di Val Cannuta 247, 00163 Roma, Italy&lt;/p></description></item><item><title>Fertility and sperm</title><link>/posts/fertility-and-sperm.html</link><pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/fertility-and-sperm.html</guid><description>&lt;h4 id="vitamin-d-greatly-improves-fertility">Vitamin D greatly improves Fertility&lt;/h4>
+&lt;!-- ~tc~ start2 ~/tc~ -->
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="/posts/vitamin-d-is-needed-for-human-fertility-goal-is-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed for human fertility – goal is 50 ng – Sept 2018">Vitamin D is needed for human fertility – goal is 50 ng – Sept 2018&lt;/a>&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="/posts/in-vitro-fertilization-costs-at-least-10000-dollars-vitamin-d-costs-5-dollars" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars">In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>130% more piglets after giving gilt Calcidiol, a form of vitamin D</title><link>/posts/130-percent-more-piglets-after-giving-gilt-calcidiol-a-form-of-vitamin-d.html</link><pubDate>Tue, 13 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/130-percent-more-piglets-after-giving-gilt-calcidiol-a-form-of-vitamin-d.html</guid><description>&lt;h4 id="feeding-25-hydroxycholecalciferol-improves-gilt-reproductive-performance-and-fetal-vitamin-d-status1">Feeding 25-hydroxycholecalciferol improves gilt reproductive performance and fetal vitamin D status1&lt;/h4>
+&lt;p>J. D. Coffey*, E. A. Hines*, J. D. Starkey*,2, C. W. Starkey* and T. K. Chung†&lt;/p>
+&lt;ul>
+&lt;li>Department of Animal and Food Sciences, Texas Tech University, Lubbock 79409&lt;/li>
+&lt;/ul>
+&lt;p>†DSM Nutritional Products Asia Pacific, 2 Havelock Road, #04-01, Singapore 059763&lt;/p>
+&lt;p>?2Corresponding author: &lt;a href="mailto:jessica.starkey@ttu.edu">jessica.starkey@ttu.edu&lt;/a>&lt;/p>
+&lt;p>Little information is available regarding the effects of vitamin D and its metabolites on reproduction in swine. To investigate the effects of feeding the circulating metabolite of vitamin D, 25-hydroxycholecalciferol (25OHD3, ROVIMIX Hy•D, DSM Nutritional Products, Basel, Switzerland) on maternal and fetal circulating 25OHD3 concentration and gilt reproductive performance, a total of 40 PIC Camborough-22 gilts (BW on d -6 = 138 kg) in 4 replicates were randomly assigned to 1 of 2 corn-soybean meal-based diets.&lt;/p></description></item><item><title>IVF 4X more successful for white women with lots of vitamin D – many studies</title><link>/posts/ivf-4x-more-successful-for-white-women-with-lots-of-vitamin-d-many-studies.html</link><pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/ivf-4x-more-successful-for-white-women-with-lots-of-vitamin-d-many-studies.html</guid><description>&lt;p>&lt;strong>Note: This page needs to be merged with &lt;a href="/posts/in-vitro-fertilization-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: In vitro fertilization and Vitamin D – many studies">In vitro fertilization and Vitamin D – many studies&lt;/a>&lt;/strong>&lt;/p>
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#summary-of-ivf-and-vitamin-d---perplexity-ai-pro-feb-2025httpswwwperplexityaisearchdoes-increasing-vitamin-d-leve-mebg64vtrqzse8ln5ydq">Summary of IVF and Vitamin D - &lt;a href="https://www.perplexity.ai/search/does-increasing-vitamin-d-leve-me.bg64VTrqZ.se8LN5ydQ">Perplexity AI PRO Feb 2025&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ivf-cycle-8x-less-successful-if-low-vitamin-d-middle-east--feb-2025">IVF cycle 8X less successful if low vitamin D (Middle East) – Feb 2025&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ivf-perhaps-2x-average-more-successful-if-36-ng-of-vitamin-d---may-2024">IVF perhaps 2X average more successful if 36 ng of Vitamin D - May 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#43-of-us-insurances-do-not-pay-for-any-part-of-ivf---sept-2023">43% of US insurances do not pay for any part of IVF - Sept 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ivf-women-with-good-vitamin-d-were-17-x-more-likely-to-have-a-live-birth---meta-analysis-aug-2020">IVF women with good vitamin D were 1.7 X more likely to have a live birth - meta-analysis Aug 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ivf-20-40-more-succesful-when-eggs-were-collected-in-the-summer---july-2023">IVF 20-40% more succesful when eggs were collected in the summer - July 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ivf-4x-more-successful-for-white-women-with-lots-of-vitamin-d--oct-2012">IVF 4X more successful for white women with lots of vitamin D – Oct 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#another-study-found-in-vitro-fertilization-2x-less-successful-if-low-vitamin-d--nov-2013">Another study found In vitro fertilization 2X less successful if low vitamin D – Nov 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#clinical-pregnancy-15-x-more-likely-after-ivf-when-vitamin-d-level--30-ng---june-2013">Clinical pregnancy 1.5 X more likely after IVF when vitamin D level &amp;gt; 30 ng - June 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-levels-not-associated-with-ivf-success---sept-2014-disagrees-with-all-previous-studies">Vitamin D levels NOT associated with IVF success - Sept 2014 (disagrees with all previous studies)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="summary-of-ivf-and-vitamin-d---perplexity-ai-pro-feb-2025httpswwwperplexityaisearchdoes-increasing-vitamin-d-leve-mebg64vtrqzse8ln5ydq">Summary of IVF and Vitamin D - &lt;a href="https://www.perplexity.ai/search/does-increasing-vitamin-d-leve-me.bg64VTrqZ.se8LN5ydQ">Perplexity AI PRO Feb 2025&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>Does increasing vitamin D levels in both the man and women decrease the need for IVF?&lt;br>
+    Use the attached file and the web&lt;/strong>&lt;/p></description></item><item><title>Semen worse when vitamin D lower than 20 or higher than 50 ng</title><link>/posts/semen-worse-when-vitamin-d-lower-than-20-or-higher-than-50-ng.html</link><pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/semen-worse-when-vitamin-d-lower-than-20-or-higher-than-50-ng.html</guid><description>&lt;h3 id="association-of-25-hydroxy-vitamin-d-levels-with-semen-and-hormonal-parameters">Association of 25-hydroxy-vitamin D levels with semen and hormonal parameters.&lt;/h3>
+&lt;p>Asian J Androl. 2012 Oct 8. &lt;a href="https://doi.org/10.1038/aja.2012.77.">doi: 10.1038/aja.2012.77.&lt;/a>&lt;/p>
+&lt;p>Hammoud AO, Wayne Meikle A, Matthew Peterson C, Stanford J, Gibson M, Carrell DT.&lt;/p>
+&lt;p>Division of Reproductive Endocrinology and Infertility, University of Utah, Salt Lake City, UT 84108, USA.&lt;/p>
+&lt;p>Vitamin D levels have been linked to various health outcomes including reproductive disorders. The purpose of this study was to explore the association between serum vitamin D level (25-hydroxy-vitamin D, or 25OHD) and semen and hormonal parameters. This is a cross-sectional study that included 170 healthy men recruited for the study of spermatogenesis from the general population. Men completed general and reproductive health questionnaires, and donated blood and semen samples. The main measures were hormonal (total and free testosterone, sex hormone-binding globulin, estradiol, follicle-stimulating hormone and luteinizing hormone) and semen parameters, adjusted (n=147) for age, body mass index (BMI), season, alcohol intake and smoking, in relation to categories of vitamin D levels, determined a priori. The mean age of the study population was 29.0 ± 8.5 years and mean BMI was 24.3±3.2 kg m(-2). The mean 25OHD was 34.1±15.06 ng ml(-1). BMI showed a negative association with 25OHD.&lt;/p></description></item><item><title>Testosterone levels related to vitamin D levels up to 30 ng</title><link>/posts/testosterone-levels-related-to-vitamin-d-levels-up-to-30-ng.html</link><pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/testosterone-levels-related-to-vitamin-d-levels-up-to-30-ng.html</guid><description>&lt;h3 id="association-between-plasma-25-oh-vitamin-d-and-testosterone-levels-in-men">Association Between Plasma 25-OH Vitamin D and Testosterone Levels in Men&lt;/h3>
+&lt;p>Katharina Nimptsch; Elizabeth A. Platz; Walter C. Willett; Edward Giovannucci&lt;/p>
+&lt;p>Clin Endocrinol. 2012;77(1):106-112. © 2012 Blackwell Publishing&lt;/p>
+&lt;p>Objective A small randomized controlled trial suggested that vitamin D might increase the production of testosterone in men, which is supported by experimental studies in animals and a cross-sectional study showing positive associations between plasma 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> and testosterone and concordant seasonal variation of both biomarkers.&lt;/p></description></item><item><title>Reproduction function in males improved by vitamin D – review</title><link>/posts/reproduction-function-in-males-improved-by-vitamin-d-review.html</link><pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/reproduction-function-in-males-improved-by-vitamin-d-review.html</guid><description/></item><item><title>Fertility problem (PCOS) reduced by vitamin D, etc: many studies</title><link>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</link><pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</guid><description>&lt;nav id="TableOfContents">
  &lt;ul>
  &lt;li>
  &lt;ul>

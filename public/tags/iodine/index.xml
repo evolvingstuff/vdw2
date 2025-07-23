@@ -1,4 +1,574 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iodine on VitaminDWiki</title><link>/tags/iodine.html</link><description>Recent content in Iodine on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 02 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/iodine/index.xml" rel="self" type="application/rss+xml"/><item><title>May 2012 Vitamin D News from VitaminDWiki</title><link>/posts/may-2012-vitamin-d-news-from-vitamindwiki.html</link><pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/may-2012-vitamin-d-news-from-vitamindwiki.html</guid><description>&lt;h3 id="there-is-a-lot-of-vitamin-d-news-each-month">There is a lot of vitamin D news each month.&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iodine on VitaminDWiki</title><link>/tags/iodine.html</link><description>Recent content in Iodine on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/iodine/index.xml" rel="self" type="application/rss+xml"/><item><title>Pregnancy and Vitamin D bibliography - Dr. Grant</title><link>/posts/pregnancy-and-vitamin-d-bibliography-dr-grant.html</link><pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/pregnancy-and-vitamin-d-bibliography-dr-grant.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#maternal-vitamin-d-insufficiency-and-risk-of-adverse-pregnancy-and-birth-outcomes-a-systematic-review-and-meta-analysis-of-longitudinal-studies">Maternal vitamin D insufficiency and risk of adverse pregnancy and birth outcomes: A systematic review and meta-analysis of longitudinal studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-in-pregnancy-prenatal-25ohd-levels-race-and-subsequent-asthma-or-recurrent-wheeze-in-offspring-secondary-analyses-from-the-vitamin-d-antenatal-asthma-reduction-trial">Vitamin D supplementation in pregnancy, prenatal 25(OH)D levels, race, and subsequent asthma or recurrent wheeze in offspring: Secondary analyses from the Vitamin D Antenatal Asthma Reduction Trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-autism-whats-new">Vitamin D and autism, what&amp;rsquo;s new?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-vitamin-d-status-in-the-late-second-trimester-and-the-risk-of-severe-preeclampsia-in-southeastern-china">Maternal Vitamin D Status in the Late Second Trimester and the Risk of Severe Preeclampsia in Southeastern China.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-administration-during-pregnancy-as-prevention-for-pregnancy-neonatal-and-postnatal-complications">Vitamin D administration during pregnancy as prevention for pregnancy, neonatal and postnatal complications.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-during-pregnancy-improvements-in-birth-outcomes-and-complications-through-direct-genomic-alteration">Vitamin D supplementation during pregnancy: Improvements in birth outcomes and complications through direct genomic alteration.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#adverse-perinatal-outcomes-and-postpartum-multi-systemic-dysregulation-adding-vitamin-d-deficiency-to-the-allostatic-load-index">Adverse Perinatal Outcomes and Postpartum Multi-Systemic Dysregulation: Adding Vitamin D Deficiency to the Allostatic Load Index.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#infant-respiratory-tract-infections-or-wheeze-and-maternal-vitamin-d-in-pregnancy-a-systematic-review">Infant Respiratory Tract Infections or Wheeze and Maternal Vitamin D in Pregnancy: A Systematic Review.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-effect-of-vitamin-d-supplementation-on-gestational-diabetes-in-high-risk-women-results-from-a-randomized-placebo-controlled-trial">The effect of vitamin D supplementation on gestational diabetes in high-risk women: Results from a randomized placebo-controlled trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanrelationship-between-vitamin-d-deficiency-and-early-onset-neonatal-sepsisspan">&lt;span>[Relationship between vitamin D deficiency and early-onset neonatal sepsis]&lt;/span>.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#relationship-between-newborn-craniotabes-and-vitamin-d-status">Relationship between newborn craniotabes and vitamin D status.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-risk-of-preterm-birth-up-to-date-meta-analysis-of-randomized-controlled-trials-and-observational-studies">Vitamin D and risk of preterm birth: Up-to-date meta-analysis of randomized controlled trials and observational studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-vitamin-d-levels-during-pregnancy-and-neonatal-health-evidence-to-date-and-clinical-implications">Maternal vitamin D levels during pregnancy and neonatal health: evidence to date and clinical implications.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#does-maternal-vitamin-d-deficiency-increase-the-risk-of-preterm-birth-a-meta-analysis-of-observational-studies">Does Maternal Vitamin D Deficiency Increase the Risk of Preterm Birth: A Meta-Analysis of Observational Studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-autism-spectrum-disorder-a-literature-review">Vitamin D and Autism Spectrum Disorder: A Literature Review.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#micronutrient-deficiencies-in-pregnancy-worldwide-health-effects-and-prevention">Micronutrient deficiencies in pregnancy worldwide: health effects and prevention.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#post-hoc-comparison-of-vitamin-d-status-at-three-timepoints-during-pregnancy-demonstrates-lower-risk-of-preterm-birth-with-higher-vitamin-d-closer-to-delivery">Post-hoc comparison of vitamin D status at three timepoints during pregnancy demonstrates lower risk of preterm birth with higher vitamin D closer to delivery.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#post-hoc-analysis-of-vitamin-d-status-and-reduced-risk-of-preterm-birth-in-two-vitamin-d-pregnancycohorts-compared-with-south-carolina-march-of-dimes-2009-2011-rates">Post-hoc analysis of vitamin D status and reduced risk of preterm birth in two vitamin D pregnancycohorts compared with South Carolina March of Dimes 2009-2011 rates.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-and-pediatric-health-outcomes-in-relation-to-gestational-vitamin-d-sufficiency">Maternal and Pediatric Health Outcomes in relation to Gestational Vitamin D Sufficiency.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-increases-the-risk-of-gestational-diabetes-mellitus-a-meta-analysis-of-observational-studies">Vitamin D Deficiency Increases the Risk of Gestational Diabetes Mellitus: A Meta-Analysis of Observational Studies.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#maternal-vitamin-d-status-and-spontaneous-preterm-birth-by-placental-histology-in-the-us-collaborative-perinatal-project">Maternal vitamin D status and spontaneous preterm birth by placental histology in the US Collaborative Perinatal Project.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-may-be-a-link-to-black-white-disparities-in-adverse-birth-outcomes">Vitamin D may be a link to black-white disparities in adverse birth outcomes.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#association-between-vitamin-d-deficiency-and-primary-cesarean-section">Association between vitamin D deficiency and primary cesarean section.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sunlight-and-vitamin-d-necessary-for-public-health">Sunlight and Vitamin D: Necessary for Public Health.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#a-randomized-trial-of-vitamin-d-supplementation-in-2-community-health-center-networks-in-south-carolina">A randomized trial of vitamin D supplementation in 2 community health center networks in South Carolina.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-supplementation-during-pregnancy-double-blind-randomized-clinical-trial-of-safety-and-effectiveness">Vitamin D supplementation during pregnancy: double-blind, randomized clinical trial of safety and effectiveness.&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;p>PLoS One. 2017 Mar 17;12(3):e0173605. &lt;a href="https://doi.org/10.1371/journal.pone.0173605.">doi: 10.1371/journal.pone.0173605.&lt;/a> eCollection 2017.&lt;/p></description></item><item><title>If pregnant and achieve high vitamin D, we propose 400 dollar insurance rebate</title><link>/posts/if-pregnant-and-achieve-high-vitamin-d-we-propose-400-dollar-insurance-rebate.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/if-pregnant-and-achieve-high-vitamin-d-we-propose-400-dollar-insurance-rebate.html</guid><description>&lt;h3 id="pregnancies-are-expensive-to-health-insurance-companies">Pregnancies are expensive to health insurance companies,&lt;/h3>
+&lt;p>      especially pregnancies having low vitamin D&lt;/p>
+&lt;h4 id="span-stylecolor00fpropose-increasing-vitamin-d-levels-and-use-a-portion-of-the-insurance-company-savings-to-reward-the-mother-for-having-reduced-medical-costs-of-pregnancy-and-birthspan">&lt;span style="color:#00F;">Propose increasing vitamin D levels and use a portion of the insurance company savings to reward the mother for having reduced medical costs of pregnancy and birth&lt;/span>&lt;/h4>
+&lt;h4 id="span-stylecolorf00costsspan-and-span-stylecolor090net-savingsspan-to-insurance-company">&lt;span style="color:#F00;">Costs&lt;/span> and &lt;span style="color:#090;">net savings&lt;/span> to insurance company&lt;/h4>
+&lt;ul>
+&lt;li>$ 400 &lt;strong>&lt;span style="color:#F00;">rebate/reward&lt;/span>&lt;/strong> given to women for achieving &amp;gt; 40ng level of vitamin D while pregnant&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>    Note: &lt;a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">most of the reasons for poor response to vitamin D will be covered in the brochure&lt;/a>&lt;/p></description></item><item><title>Preterm births are VERY costly</title><link>/posts/preterm-births-are-very-costly.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/preterm-births-are-very-costly.html</guid><description>&lt;h4 id="indiebirthshttpwwwindiebirthcompremature-birth-and-the-new-paradigm-jan-2017">&lt;a href="http://www.indiebirth.com/premature-birth-and-the-new-paradigm/">IndieBirths&lt;/a> Jan 2017&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>“In 2005 the estimated cost for preterm birth in the United States was $26.2 billion annually, above the average cost of term births.”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“Preterm babies are &lt;span>[also]&lt;/span> at higher risks for complications and health issues such as jaundice, retinopathy of prematurity, and chronic lung disease.”&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="march-of-dimes-2016httpwwwmarchofdimesorgmissionprematurity-reportcardaspx20-span-stylecolorf00pretermspan">&lt;a href="http://www.marchofdimes.org/mission/prematurity-reportcard.aspx%20">March of Dimes 2016&lt;/a>: &lt;span style="color:#F00;">preterm&lt;/span>&lt;/h4>
+&lt;p>&lt;strong>| | |
+| &amp;mdash; | &amp;mdash; |
+| Non-Hispanic white | 8.9% |
+| Hispanic | 9.1% |
+| Non-Hispanic black | 13.4% |&lt;/strong>&lt;/p></description></item><item><title>Iodine Deficiency During Pregnancy – many studies</title><link>/posts/iodine-deficiency-during-pregnancy-many-studies.html</link><pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/iodine-deficiency-during-pregnancy-many-studies.html</guid><description>&lt;p>&lt;strong>Summary&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>RDA (minimum) says 220 ug of Iodine during pregnancy and 290 ug during breastfeeding&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Many prenatal vitamins contain ZERO Iodine&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Iodine is particularly needed in first 3 months of pregnancy, but some women do not start prenatal vitamins that early&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Consensus: no best way to test for Iodine Deficiency&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Disagree: &amp;gt;150 ug is needed during pregnancy, &amp;gt; 250 ug is needed&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Disagree: Iodine loading is possible (otherwise it takes 9-12 months to restore levels)&lt;/strong>&lt;/p></description></item><item><title>Natural variation in mineral content of a food is typically 3 to 1</title><link>/posts/natural-variation-in-mineral-content-of-a-food-is-typically-3-to-1.html</link><pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/natural-variation-in-mineral-content-of-a-food-is-typically-3-to-1.html</guid><description>&lt;h4 id="mineral-nutrient-composition--of-vegetables-fruits-and-grains-the-context-of-reports-of-apparent-historical-declines">Mineral nutrient composition of vegetables, fruits and grains: The context of reports of apparent historical declines&lt;/h4>
+&lt;p>Journal of Food Composition and Analysis &lt;a href="http://dx.doi.org/10.1016/j.jfca.2016.11.012">http://dx.doi.org/10.1016/j.jfca.2016.11.012&lt;/a>&lt;/p>
+&lt;p>Robin J. Marles &lt;a href="mailto:robin.marles@hc-sc.gc.ca">robin.marles@hc-sc.gc.ca&lt;/a>&lt;/p>
+&lt;p>Senior Scientific Advisor, Nutrition Premarket Assessment Division, Bureau of Nutritional Sciences, Food Directorate, Health Canada, 251 Sir Frederick Banting Driveway (Mail Stop 2203E), Ottawa, Ontario K1A 0K9, Canada&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;ul>
+&lt;li>
+&lt;p>Nicely describes why most of the alarmest reports of declines should not be believed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Documents the huge variation in mineral content due to differences in climate, species, cultivars, etc. - see table below&lt;/p></description></item><item><title>Health Care Costs in US are increasing - infographics and Vitamin D</title><link>/posts/health-care-costs-in-us-are-increasing-infographics-and-vitamin-d.html</link><pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/health-care-costs-in-us-are-increasing-infographics-and-vitamin-d.html</guid><description>&lt;h4 id="us-spending-on-personal-health-care-and-public-health-1996-2013httpjamanetworkcomjournalsjamafullarticle2594716">&lt;a href="http://jamanetwork.com/journals/jama/fullarticle/2594716">US Spending on Personal Health Care and Public Health, 1996-2013&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>JAMA&lt;/strong> . 2016;316(24):2627-2646. doi:10.1001/jama.2016.16885&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/us-health-care-spending.pdf">Download the JAMA PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/jama-dec-2016-supplement.pdf">Download the 157 page Supplement PDF from VitaminDWiki&lt;/a>&lt;/p>
+&lt;h4 id="here-are-some-of-the-charts-but-none-of-the-tables">Here are some of the charts but none of the tables&lt;/h4>
+&lt;h4 id="largest-cost-37--doctors-office-visits-general--specialists">Largest cost (37%) = Doctor&amp;rsquo;s office visits (general + specialists)&lt;/h4>
+&lt;p>    &lt;strong>37%= $706/$1929&lt;/strong>&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/hc-spend-1.jpg" alt="image">
+&lt;p>&lt;strong>Note: &lt;a href="/posts/75-percent-reduction-in-clinic-visits-after-all-8000-patients-had-80-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5294">75% reduction in clinic visits after all (8,000) patients had &amp;gt; 80 ng of Vitamin D&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Preterm births strongly related to Vitamin D, Vitamin D Receptor, Iodine, Omega-3, etc</title><link>/posts/preterm-births-strongly-related-to-vitamin-d-vitamin-d-receptor-iodine-omega-3-etc.html</link><pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/preterm-births-strongly-related-to-vitamin-d-vitamin-d-receptor-iodine-omega-3-etc.html</guid><description>&lt;h4 id="preterm-births-reduced-by-omega-3-zinc-and-vitamin-d--aug-2019">Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019&lt;/h4>
+&lt;p>&lt;strong>see VitaminDWiki &lt;a href="/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019">Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019&lt;/a>&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h4 id="preterm-births-decreased-by-omega-3-analysis-of-184-countries--april-2019">Preterm Births decreased by Omega-3 (analysis of 184 countries) – April 2019&lt;/h4>
+&lt;p>&lt;strong>see VitaminDWiki &lt;a href="/posts/preterm-births-decreased-by-omega-3-analysis-of-184-countries" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Births decreased by Omega-3 (analysis of 184 countries) – April 2019">Preterm Births decreased by Omega-3 (analysis of 184 countries) – April 2019&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Dupuytren’s Contracture (bent finger) treated by Boron and DMSO - 2016</title><link>/posts/dupuytrens-contracture-bent-finger-treated-by-boron-and-dmso-2016.html</link><pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate><guid>/posts/dupuytrens-contracture-bent-finger-treated-by-boron-and-dmso-2016.html</guid><description>&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/dupuytren-s-progression.jpg" alt="image" width="500">
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#dupuytrens-treated-by-founder-of-vitamindwiki">Dupuytren&amp;rsquo;s treated by founder of VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dmso-withwithout-other-ingredients-has-been-used-for-dupuytrens-for-many-decades">DMSO with/without other ingredients has been used for Dupuytren&amp;rsquo;s for many decades&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#review-of-dupuytrens-fascia-and-vitamin-d---jan-2022">Review of Dupuytren&amp;rsquo;s, fascia, and Vitamin D - Jan 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dupuytrens-and-boron">Dupuytren&amp;rsquo;s and Boron&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dupuytrens-prevelance-range-of-4-to-1-around-the-world-wonder-why">Dupuytren&amp;rsquo;s prevelance: range of 4 to 1 around the world: Wonder why?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dupuytrens-vs-age-and-country">Dupuytren&amp;rsquo;s vs age and country&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#origin-of-the-term-genetics-of-the-disease">Origin of the term, genetics of the disease&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#wikipedia---dupuytrens-risk-factors">Wikipedia - Dupuytren&amp;rsquo;s risk factors&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#dupuytren-contracture-medscape-oct-2016">|Dupuytren Contracture] Medscape Oct 2016&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-might-have-also-helped---july-2018">Vitamin D might have also helped - July 2018&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="dupuytrens-treated-by-founder-of-vitamindwiki">Dupuytren&amp;rsquo;s treated by founder of VitaminDWiki&lt;/h4>
+&lt;p>&lt;strong>I, Henry Lahore, had a personal interest in Dupuytren&amp;rsquo;s&lt;/strong>&lt;/p></description></item><item><title>Boron improves magnesium absorption and may help vitamin D non-responders</title><link>/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders.html</link><pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/boron-improves-magnesium-absorption-and-may-help-vitamin-d-non-responders.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#nothing-boring-about-boron">Nothing Boring About Boron&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#from-the-webpage-of-the-company-she-works-forhttpsalugenecistscom">From the webpage of the &lt;a href="http://salugenecists.com/">company she works for&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#364-citations-of-this-study-as-of-june-2024">364 citations of this study as of June 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#nothing-boring-about-boron--a-reviewhttpsboronorphanagentswordpresscompage2-march-2016-dr-alan-russell-boronorphanagents">&lt;a href="https://boronorphanagents.wordpress.com/page/2/">“Nothing Boring about Boron” – a review&lt;/a> March 2016 Dr. Alan Russell (boronorphanagents)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#notes-from-pdf">Notes from PDF&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#observation-and-action-by-henry-lahore--vitamindwiki">Observation and action by Henry Lahore @ VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="nothing-boring-about-boron">Nothing Boring About Boron&lt;/h4>
+&lt;p>Integr Med (Encinitas). 2015 Aug; 14(4): 35–48. PMCID: PMC4712861&lt;/p>
+&lt;p>Lara Pizzorno, MDiv, MA, LMT &lt;a href="mailto:laraup@salugenecists.com">laraup@salugenecists.com&lt;/a>&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/nothing-boring-about-boron.pdf">Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Vitamin D and Boron</title><link>/posts/vitamin-d-and-boron.html</link><pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-boron.html</guid><description>&lt;h4 id="a-hrefpostsways-to-improve-health-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-ways-to-improve-healthways-to-improve-healtha---includes-boron">&lt;a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health&lt;/a> - includes Boron&lt;/h4>
+&lt;img src="/attachments/d3.mock.jpg" alt="image" width="600">
+&lt;hr>
+&lt;h3 id="span-stylecolor00fsee-also-webspan">&lt;span style="color:#00F;">See also web&lt;/span>&lt;/h3>
+&lt;p>&lt;strong>Boron is important for health – March 2018&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>The Physiological Role of Boron on Health&lt;/strong>&lt;/p>
+&lt;p>Biological Trace Element Research, pp 1–21, First Online: 15 March 2018&lt;/p>
+&lt;p>Haseeb Khaliq, Zhong Juming, Peng Ke-Mei&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/boron-and-health-sci-hub.pdf">Download the PDF from Sci-Hub via VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>Boron is an essential mineral that plays an important role in several biological processes. Boron is required for growth of plants, animals, and humans. There are increasing evidences of this nutrient showing a variety of pleiotropic effects, ranging from&lt;/p></description></item><item><title>The CDC recommendations for Zika prevention</title><link>/posts/the-cdc-recommendations-for-zika-prevention.html</link><pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate><guid>/posts/the-cdc-recommendations-for-zika-prevention.html</guid><description>&lt;h4 id="whats-in-the-cdcs-zika-prevention-kits-from-permethrin-to-condomshttpwwwwiredcom201608heres-whats-cdc-zika-prevention-kits-wired">&lt;a href="http://www.wired.com/2016/08/heres-whats-cdc-zika-prevention-kits/">What’s in the CDC’s Zika Prevention Kits, From Permethrin to Condoms&lt;/a> Wired&lt;/h4>
+&lt;p>&lt;strong>The US congress has not provided money for the CDC to provide these kits. They are just recommendations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Standing Water Treatment Tablets&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>A bacterial toxin specific to mosquito larva&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>A pack of six costs around $10 and mosquito-proofs 100 square feet of water for 30 days.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;strong>Permethrin Spray&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>“If a mosquito lands on permethrin-treated fabric and stays there, it will kill the mosquito,”&lt;/p></description></item><item><title>Centenarians have good Vitamin D Receptor genes (or take lots of vitamin D)</title><link>/posts/centenarians-have-good-vitamin-d-receptor-genes-or-take-lots-of-vitamin-d.html</link><pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/centenarians-have-good-vitamin-d-receptor-genes-or-take-lots-of-vitamin-d.html</guid><description>&lt;h4 id="impact-of-vitamin-d-receptor-polymorphisms-in-centenarians">Impact of vitamin D receptor polymorphisms in centenarians&lt;/h4>
+&lt;p>Cristina Gussago , Beatrice Arosio , Franca Rosa Guerini, Evelyn Ferri, Andrea Saul Costa, Martina Casati, Elisa Mariadele Bollini, Francesco Ronchetti, Elena Colombo and 3 more&lt;/p>
+&lt;p>Endocrine, pp 1-7, First online: 08 March 2016&lt;/p>
+&lt;p>Vitamin D is a seco-sterol produced endogenously in the skin or obtained from certain foods. It exerts its action through binding to intracellular vitamin D receptor (VDR). Lately, the role of vitamin D has been revised regarding its potential advantage on delaying the process of aging. The aim of this study was to assess the contribution of VDR gene polymorphisms in healthy aging and longevity.&lt;/p></description></item><item><title>Doctors: If you pick one vitamin, make it D (99 cent ebook)</title><link>/posts/doctors-if-you-pick-one-vitamin-make-it-d-99-cent-ebook.html</link><pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/doctors-if-you-pick-one-vitamin-make-it-d-99-cent-ebook.html</guid><description>&lt;h3 id="herald--review-jan-2016httpherald-reviewcomlifestylesdoctors-if-you-pick-one-vitamin-make-it-darticle_c28e2808-f8a4-51a4-9d07-1980edbd288fhtml-decatur-il">&lt;a href="http://herald-review.com/lifestyles/doctors-if-you-pick-one-vitamin-make-it-d/article_c28e2808-f8a4-51a4-9d07-1980edbd288f.html">Herald &amp;amp; Review Jan 2016&lt;/a> Decatur, IL&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>“A pharmacy wall stocked with vitamins can be overwhelming to scan. So if you could incorporate only one into your routine, which should it be?”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“We put this question to Dr. Arielle Levitan and Dr. Romy Block, who penned “ &lt;strong>The Vitamin Solution: Two Doctors Clear the Confusion About Vitamins and Your Health.&lt;/strong> ”&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“Vitamin D is probably the one, if we had to come up with one single vitamin that most people need to be taking to some extent,” Levitan said.&lt;/p></description></item><item><title>Vitamin D – millions of years more ancient than Calcium</title><link>/posts/vitamin-d-millions-of-years-more-ancient-than-calcium.html</link><pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-millions-of-years-more-ancient-than-calcium.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-a-dynamic-molecule-how-relevant-might-the-dynamism-for-a-vitamin-be">Vitamin D: a dynamic molecule. How relevant might the dynamism for a vitamin be?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#history-of-vitamin-by-lorenz-borsche---written-to-a-friend---march-2022">History of Vitamin by Lorenz Borsche - written to a friend - March 2022&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-a-dynamic-molecule-how-relevant-might-the-dynamism-for-a-vitamin-be">Vitamin D: a dynamic molecule. How relevant might the dynamism for a vitamin be?&lt;/h4>
+&lt;p>Nephrology Dialysis Transplantation Volume 31, Issue 1Pp. 23-30.&lt;/p>
+&lt;p>Sandro Mazzaferro1, &lt;a href="mailto:sandro.mazzaferro@uniroma1.it">sandro.mazzaferro@uniroma1.it&lt;/a> and Marzia Pasquali1&lt;/p>
+&lt;p>1Department of Cardiovascular Respiratory Nephrologic Anesthetic and Geriatric Sciences, Sapienza University of Rome, Rome, Italy&lt;/p></description></item><item><title>Off topic – Caregiving of seniors at home – helpful hints</title><link>/posts/off-topic-caregiving-of-seniors-at-home-helpful-hints.html</link><pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/off-topic-caregiving-of-seniors-at-home-helpful-hints.html</guid><description>&lt;p>In June 2015 my wife and I invited her 102 year-old father, Ken to live with us.&lt;/p>
+&lt;p>He had been in a senior home.&lt;/p>
+&lt;p>We are in our early 70’s and retired.&lt;/p>
+&lt;p>Ken has a very sharp mind (I had been playing duplicate bridge with him for several years)&lt;/p>
+&lt;p>Ken has no chronic illnesses, never broken a bone&lt;/p>
+&lt;p>Ken has very poor hearing, poor sight.&lt;/p>
+&lt;p>Caregiving is very stressful, even with the aid of hired caregivers in both morning and evening.&lt;/p></description></item><item><title>Results of many blood tests in Australia – deficiencies only in Vitamin D, Iodine, and Vitamin B-12</title><link>/posts/results-of-many-blood-tests-in-australia-deficiencies-only-in-vitamin-d-iodine-and-vitamin-b-12.html</link><pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/results-of-many-blood-tests-in-australia-deficiencies-only-in-vitamin-d-iodine-and-vitamin-b-12.html</guid><description>&lt;h4 id="integrative-health-check-reveals-suboptimal-levels-in-a-number-of-vital-biomarkers">Integrative Health Check reveals suboptimal levels in a number of vital biomarkers&lt;/h4>
+&lt;p>Advances in Integrative Medicine, Available online 2 December 2015&lt;/p>
+&lt;p>Nikolaj Travica , Karin Ried, , Robert Bujnowski , Avni Sali&lt;/p>
+&lt;p>&lt;strong>Deficiencies&lt;/strong>&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sub-standard-or-non-optimal.jpg" alt="image">
+&lt;p>Health checks are becoming more available in the community, with the intention of disease detection and prevention in asymptomatic people. This article summarises findings in an Australian adult sample from a health check conducted at the National Institute of Integrative Medicine (NIIM). There has been controversy regarding reference ranges and what constitutes optimal and standard reference ranges. Biomarkers were compared with standard reference ranges, and with optimal health reference ranges.&lt;/p></description></item><item><title>Pregnancy supplemented with 2,000 IU vitamin D got most infants to more than 12 nanograms</title><link>/posts/pregnancy-supplemented-with-2000-iu-vitamin-d-got-most-infants-to-more-than-12-nanograms.html</link><pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/pregnancy-supplemented-with-2000-iu-vitamin-d-got-most-infants-to-more-than-12-nanograms.html</guid><description>&lt;h4 id="maternal-vitamin-d-supplementation-at-50-μgd-protects-against-low-serum-25-hydroxyvitamin-d-in-infants-at-8-wk-of-age-a-randomized-controlled-trial-of-3-doses-of-vitamin-d-beginning-in-gestation-and-continued-in-lactation">Maternal vitamin D₃ supplementation at 50 μg/d protects against low serum 25-hydroxyvitamin D in infants at 8 wk of age: a randomized controlled trial of 3 doses of vitamin D beginning in gestation and continued in lactation.&lt;/h4>
+&lt;p>Am J Clin Nutr. 2015 Aug;102(2):402-10. &lt;a href="https://doi.org/10.3945/ajcn.114.106385.">doi: 10.3945/ajcn.114.106385.&lt;/a> Epub 2015 Jul 8.&lt;/p>
+&lt;p>March KM1, Chen NN1, Karakochuk CD1, Shand AW2, Innis SM3, von Dadelszen P4, Barr SI1, Lyon MR5, Whiting SJ6, Weiler HA7, Green TJ8.&lt;/p></description></item><item><title>Common deficiencies D3, Omega-3, K2, Mg, B12, E, A, Iodine, etc – Mercola</title><link>/posts/common-deficiencies-d3-omega-3-k2-mg-b12-e-a-iodine-etc-mercola.html</link><pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/common-deficiencies-d3-omega-3-k2-mg-b12-e-a-iodine-etc-mercola.html</guid><description>&lt;h3 id="11-most-common-nutrient-deficiencieshttparticlesmercolacomsitesarticlesarchive20151019most-common-nutrient-deficienciesaspxe_cid20151019z1_dnl_art_1utm_sourcednlutm_mediumemailutm_contentart1utm_campaign20151019z1et_ciddm88606et_rid1175652101-mercola">&lt;a href="http://articles.mercola.com/sites/articles/archive/2015/10/19/most-common-nutrient-deficiencies.aspx?e_cid=20151019Z1_DNL_art_1&amp;amp;utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20151019Z1&amp;amp;et_cid=DM88606&amp;amp;et_rid=1175652101">11 Most Common Nutrient Deficiencies&lt;/a> Mercola&lt;/h3>
+&lt;h4 id="article-provides-nice-overview-of-each-nutrient">Article provides nice overview of each nutrient&lt;/h4>
+&lt;p>&lt;strong>Links to VitaminDWiki overviews, categories&lt;/strong>&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>1. 1:&lt;/td>
+ &lt;td>Vitamin D&lt;/td>
+ &lt;td>50% have &amp;lt; 20 ng,   90% have &amp;lt; 40ng&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 2:&lt;/td>
+ &lt;td>((Overview: Omega-3 many benefits include helping vitamin D&lt;/td>
+ &lt;td>Omega-3 Fats))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 3:&lt;/td>
+ &lt;td>((Overview Vitamin K and Vitamin D&lt;/td>
+ &lt;td>Vitamin K2))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 4:&lt;/td>
+ &lt;td>((Overview Magnesium and vitamin D&lt;/td>
+ &lt;td>Magnesium))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 5:&lt;/td>
+ &lt;td>&lt;a href="/posts/vitamin-b12" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin B12">Vitamin B12&lt;/a>&lt;/td>
+ &lt;td>25% of adults are deficient, &lt;br>((Liver stores 4 months of vitamin D, 48 months of Vit. A, and 60 months of Vit. B-12&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 6:&lt;/td>
+ &lt;td>Vitamin E&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 7:&lt;/td>
+ &lt;td>((Vitamin D needs some vitamin A, but not too much&lt;/td>
+ &lt;td>Vitamin A))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 8:&lt;/td>
+ &lt;td>((Vitamin D and Iodine are similar, and both are deficient and important to health&lt;/td>
+ &lt;td>Iodine))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 9:&lt;/td>
+ &lt;td>((Calcium hazards and bioavailability&lt;/td>
+ &lt;td>Calcium))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 10:&lt;/td>
+ &lt;td>((Overview Iron Supplements and Vitamin D&lt;/td>
+ &lt;td>Iron))&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1. 11:&lt;/td>
+ &lt;td>Choline&lt;/td>
+ &lt;td>90% are deficient&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h4 id="i-continue-to-believe-that-if-you-only-take-a-single-supplement-it-should-be-vitamin-d">I continue to believe that if you only take a single supplement, it should be Vitamin D.&lt;/h4>
+&lt;p>I would interchange Magnesium with Omega-3 in order of importance&lt;br>
+      Henry Lahore, admin of VitaminDWiki&lt;/p></description></item><item><title>Iodine added during pregnancy reduces preterm births, increases IQ. Etc.</title><link>/posts/iodine-added-during-pregnancy-reduces-preterm-births-increases-iq-etc.html</link><pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/iodine-added-during-pregnancy-reduces-preterm-births-increases-iq-etc.html</guid><description/></item><item><title>Pre-term birth - many of risk factors are associated with low vitamin D</title><link>/posts/pre-term-birth-many-of-risk-factors-are-associated-with-low-vitamin-d.html</link><pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/pre-term-birth-many-of-risk-factors-are-associated-with-low-vitamin-d.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/preterm-birth-rate-reduced-by-vitamin-d-78-percent-if-non-white-39-percent-if-white" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017">Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017&lt;/a> Baggerly etc.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-webinar-cost-of-pre-term-birth-etc-baggerly">Vitamin D Webinar - cost of pre-term birth etc- Baggerly Nov 2013&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">$2,590 &lt;/span>reduction in cost of each pregnancy just due to reduction in preterm birth&lt;/strong>&lt;/p></description></item><item><title>Vitamin D Cofactors in a nutshell</title><link>/posts/vitamin-d-cofactors-in-a-nutshell.html</link><pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-cofactors-in-a-nutshell.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;/li>
+ &lt;li>&lt;a href="#a-hrefpostsways-to-improve-health-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-ways-to-improve-healthperspective-of-the-importance-of-vit-d-and-co-factors-to-healtha">&lt;a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Perspective of the importance of Vit D and co-factors to health&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also---a-hrefpostsexcellent-reviews-of-supplements-at-consumerlab-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-excellent-reviews-of-supplements-at-consumerlabexcellent-reviews-of-supplements-at-consumerlaba">See also - &lt;a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h5 id="a-hrefpostsglutathione-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-15355glutathionea---the-master-antioxidant-synergistic-with-vitamin-d">&lt;a href="/posts/glutathione" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 15355">Glutathione&lt;/a> - the master antioxidant, synergistic with Vitamin D&lt;/h5>
+&lt;p>Increased Glutathione (the master antioxidant) - increases both cellular and blood levels of vitamin D&lt;/p></description></item><item><title>Autoimmune Thyroid Disease 3X more likely if low vitamin D – meta-analysis</title><link>/posts/autoimmune-thyroid-disease-3x-more-likely-if-low-vitamin-d-meta-analysis.html</link><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/autoimmune-thyroid-disease-3x-more-likely-if-low-vitamin-d-meta-analysis.html</guid><description>&lt;h4 id="meta-analysis-of-the-association-between-vitamin-d-and-autoimmune-thyroid-disease">Meta-Analysis of the Association between Vitamin D and Autoimmune Thyroid Disease.&lt;/h4>
+&lt;p>Nutrients. 2015 Apr 3;7(4):2485-2498.&lt;/p>
+&lt;p>Wang J1, Lv S2, Chen G3, Gao C4, He J5, Zhong H6, Xu Y7.&lt;/p>
+&lt;p>1Department of Endocrinology and Metabolism, Affiliated Hospital of Luzhou Medical College, Luzhou 646000, China. &lt;a href="mailto:wangjiying90@aliyun.com">wangjiying90@aliyun.com&lt;/a>.&lt;/p>
+&lt;p>2Department of Endocrinology and Metabolism, Affiliated Hospital of Luzhou Medical College, Luzhou 646000, China. &lt;a href="mailto:lss219219@163.com">lss219219@163.com&lt;/a>.&lt;/p>
+&lt;p>3Department of Endocrinology and Metabolism, Affiliated Hospital of Luzhou Medical College, Luzhou 646000, China. &lt;a href="mailto:terry1210@aliyun.com">terry1210@aliyun.com&lt;/a>.&lt;/p></description></item><item><title>Autism cured in a child with Vitamin D, Dr. Cannell comments and cofactor recommendations</title><link>/posts/autism-cured-in-a-child-with-vitamin-d-dr-cannell-comments-and-cofactor-recommendations.html</link><pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/autism-cured-in-a-child-with-vitamin-d-dr-cannell-comments-and-cofactor-recommendations.html</guid><description>&lt;h4 id="core-symptoms-of-autism-improved-after-vitamin-d-supplementation">Core symptoms of autism improved after vitamin D supplementation.&lt;/h4>
+&lt;p>Pediatrics. 2015 Jan;135(1):e196-8. &lt;a href="https://doi.org/10.1542/peds.2014-2121.">doi: 10.1542/peds.2014-2121.&lt;/a> Epub 2014 Dec 15.&lt;/p>
+&lt;p>Jia F1, Wang B1, Shan L1, Xu Z2, Staal WG3, Du L4.&lt;/p>
+&lt;p>Autism spectrum disorder (ASD) is a common neurodevelopmental disorder caused by a complex interaction between genetic and environmental risk factors. Among the environmental factors, vitamin D3 (cholecaliferol) seems to play a significant role in the etiology of ASD because this vitamin is important for brain development. Lower concentrations of vitamin D3 may lead to increased brain size, altered brain shape, and enlarged ventricles, which have been observed in patients with ASD. Vitamin D3 is converted into 25-hydroxyvitamin D3 in the liver. Higher serum concentrations of this steroid may reduce the risk of autism. Importantly, children with ASD are at an increased risk of vitamin D deficiency, possibly due to environmental factors. It has also been suggested that vitamin D3 deficiency may cause ASD symptoms. Here, we report on a 32-month-old boy with ASD and vitamin D3 deficiency. His core symptoms of autism improved significantly after vitamin D3 supplementation. This case suggests that vitamin D3 may play an important role in the etiology of ASD, stressing the importance of clinical assessment of vitamin D3 deficiency and the need for vitamin D3 supplementation in case of deficiency.&lt;/p></description></item><item><title>Task force confirms - not much benefit from low Vitamin D supplementation</title><link>/posts/task-force-confirms-not-much-benefit-from-low-vitamin-d-supplementation.html</link><pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/task-force-confirms-not-much-benefit-from-low-vitamin-d-supplementation.html</guid><description>&lt;h3 id="us-preventive-services-task-force-finds-insufficient-evidence-on-screening-for-vitamin-d-deficiency-in-adults">U.S. Preventive Services Task Force Finds Insufficient Evidence on Screening for Vitamin D Deficiency in Adults&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="http://www.uspreventiveservicestaskforce.org/Page/Name/newsroom">More research needed to assess harms and benefits&lt;/a>&lt;/strong>&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:850px">
+&lt;ul>
+&lt;li>Task force looked at clinical trials which typically only used 800 IU of vitamin - so very little benefit could be expected.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Examples: &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=18629569">Pfeifer 800 IU&lt;/a>, &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/15886381">Bischoff-Ferrari 700-800 IU&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;a href="/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data">Here&lt;/a> is an example of a rare meta-analysis which throws out studies which used too little vitamin D to be of use.&lt;/p></description></item><item><title>Herbs such as pepper increase the bioavailability of vitamin D, etc</title><link>/posts/herbs-such-as-pepper-increase-the-bioavailability-of-vitamin-d-etc.html</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/herbs-such-as-pepper-increase-the-bioavailability-of-vitamin-d-etc.html</guid><description>&lt;h4 id="science-shows-herbs-can-significantly-enhance-bioavailability-of-nutrientshttpwwwgreenmedinfocomblogscience-shows-herbs-can-significantly-enhance-bioavailability-nutrients-greenmed-info-sept-2014">&lt;a href="http://www.greenmedinfo.com/blog/science-shows-herbs-can-significantly-enhance-bioavailability-nutrients">Science Shows Herbs Can Significantly Enhance Bioavailability of Nutrients&lt;/a> GreenMed Info Sept 2014&lt;/h4>
+&lt;h4 id="pepper---does-not-indicate-how-much-increase">Pepper - (does not indicate how much increase)&lt;/h4>
+&lt;p>&lt;strong>Vitamins (water soluable)&lt;/strong>&lt;/p>
+&lt;p>Vitamin B1, Vitamin E2, Niacinamide, Vitamin B6, Vitamin B12, Folic acid, Vitamin C&lt;/p>
+&lt;p>&lt;strong>Vitamins (fat soluable)&lt;/strong>&lt;/p>
+&lt;p>Vitamin A, B-Carotene (provitamin), &lt;strong>Vitamin D&lt;/strong> , Vitamin E, Vitamin K&lt;/p>
+&lt;p>&lt;strong>Amino Acids&lt;/strong>&lt;/p>
+&lt;p>Lysine, Isoleucine, Leucine, Threonine, Valine, Tryptophan, Phenylalanine. Methionine&lt;/p>
+&lt;p>&lt;strong>Minerals&lt;/strong>&lt;/p>
+&lt;p>Iodine, Calcium, Iron, Zinc, Copper, Selenium, &lt;strong>Magnesium&lt;/strong> , Potassium, Manganese&lt;/p></description></item><item><title>Forum discussions on Vitamin D - Treato 15,000 positive, 4,000 negative</title><link>/posts/forum-discussions-on-vitamin-d-treato-15000-positive-4000-negative.html</link><pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/forum-discussions-on-vitamin-d-treato-15000-positive-4000-negative.html</guid><description>&lt;h3 id="treatohttptreatocomvitamindas">&lt;a href="http://treato.com/Vitamin+D/?a=s">Treato&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>Quick look at the negative discussions&lt;/strong>&lt;/p>
+&lt;p>D2 instead of D3&lt;/p>
+&lt;p>Not taking enough D3 to help&lt;/p>
+&lt;p>Taking Vitamin D too infrequently to help (once everyt 3 months)&lt;/p>
+&lt;p>Allergic to the fillers/dyes&lt;/p>
+&lt;p>Unable to swallow capsule&lt;/p>
+&lt;p>Not remember to take the supplement&lt;/p>
+&lt;p>Lack of Iodine with Thyroid&lt;/p>
+&lt;p>Got joint pain after a week - needed to add Magnesium&lt;/p>
+&lt;p>Vitamin D not acting quickly enough (failed to have loading dose)&lt;/p>
+&lt;p>Took vitamin D late at night - unable to sleep&lt;/p></description></item><item><title>Health professionals: about 10X more were using Vitamin D, fish oil, folic acid by 2006</title><link>/posts/health-professionals-about-10x-more-were-using-vitamin-d-fish-oil-folic-acid-by-2006.html</link><pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate><guid>/posts/health-professionals-about-10x-more-were-using-vitamin-d-fish-oil-folic-acid-by-2006.html</guid><description>&lt;h4 id="longitudinal-and-secular-trends-in-dietary-supplement-use-nurses-health-study-and-health-professionals-follow-up-study-1986-2006">Longitudinal and secular trends in dietary supplement use: Nurses&amp;rsquo; Health Study and Health Professionals Follow-Up Study, 1986-2006.&lt;/h4>
+&lt;p>J Acad Nutr Diet. 2014 Mar;114(3):436-43. &lt;a href="https://doi.org/10.1016/j.jand.2013.07.039.">doi: 10.1016/j.jand.2013.07.039.&lt;/a> Epub 2013 Oct 9.&lt;/p>
+&lt;p>Kim HJ, Giovannucci E, Rosner B, Willett WC, Cho E. &lt;a href="mailto:hpeyc@channing.harvard.edu">hpeyc@channing.harvard.edu&lt;/a>&lt;/p>
+&lt;p>Most studies on the prevalence of supplement use in the United States were cross-sectional or evaluated trends in limited variety of supplements. The objective of this study was to describe the longitudinal and secular trend of dietary supplement use over the past 20 years in health professionals using data from two large prospective cohorts. We analyzed cohort data from 1986 to 2006 in the Nurses&amp;rsquo; Health Study (NHS) and the Health Professionals Follow-Up Study (HPFS). In 1986, 74,194 women aged 40 to 65 years in the NHS and 50,497 men aged 40 to 75 years in the HPFS were included. Use of dietary supplements including multivitamins, vitamins, and minerals was repeatedly asked every 4 years. Generalized estimating equation models were used for repeated analysis.&lt;/p></description></item><item><title>Schizophrenia might be treated by folic acid, vitamin B12 and vitamin D</title><link>/posts/schizophrenia-might-be-treated-by-folic-acid-vitamin-b12-and-vitamin-d.html</link><pubDate>Sat, 24 May 2014 00:00:00 +0000</pubDate><guid>/posts/schizophrenia-might-be-treated-by-folic-acid-vitamin-b12-and-vitamin-d.html</guid><description>&lt;h3 id="vitamin-supplementation-in-the-treatment-of-schizophrenia">Vitamin Supplementation in the Treatment of Schizophrenia.&lt;/h3>
+&lt;p>CNS Drugs. 2014 May 21. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Brown HE 1, Roffman JL.&lt;/p>
+&lt;p>1 Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School, 55 Fruit Street, Boston, MA, 02114, USA, &lt;a href="mailto:hebrown@partners.org">hebrown@partners.org&lt;/a>.&lt;/p>
+&lt;p>This article reviews the current literature addressing the treatment of schizophrenia with vitamin supplementation. It describes the important roles that vitamins play in normal metabolism, and reviews the evidence pertaining to vitamin deficiency and supplementation in patients with schizophrenia. There is mounting evidence suggesting that vitamin supplementation, in particular with, may be important in treatment within certain subgroups of patients. There is a need for larger randomized controlled trials, and further studies examining the incidence of schizophrenia in countries with poor prenatal care and malnutrition, as well as in countries that have adopted mandatory folic acid fortification of grain products, are recommended.&lt;/p></description></item><item><title>Dr. who got patients to vitamin D level of 80 ng</title><link>/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng.html</link><pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng.html</guid><description>&lt;p>&lt;strong>Doctor ran a US family practice clinic with 8,000 patients, most of whom achieved 80 ng ± 10 ng of Vitamin D&lt;/strong>&lt;/p>
+&lt;p>In priority order, after Vitamin D, he often added&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium&lt;/a>,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Iodine&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-c-is-important-for-the-common-cold-and-much-else">Vitamin C&lt;/a>&lt;/p></description></item><item><title>Vitamin D from animal increases 6X when consider that already processed by animal livers</title><link>/posts/vitamin-d-from-animal-increases-6x-when-consider-that-already-processed-by-animal-livers.html</link><pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-from-animal-increases-6x-when-consider-that-already-processed-by-animal-livers.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#summary-table-from-2014-study">Summary table from 2014 Study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#2014-study">2014 study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cooked-eggs-about-8-x-higher-effective-vitamin-d-when-consider-that-already-processed-by-the-liver---june-2017">Cooked eggs about 8 X higher effective vitamin D when consider that already processed by the liver - June 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#previously-noted-meat-eaters-had-8-ng-higher-vitamin-d-levels-than-vegetarians">Previously noted: Meat eaters had 8 ng higher vitamin D levels than vegetarians&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#google-scholar-83-citations-of-this-study-as-of-aug-2023">Google Scholar: 83 citations of this study as of Aug 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#beef-and-lamb-vitamin-d-lots-in-semiactivated-form-varies-a-lot-with-season---june-2020">Beef and Lamb Vitamin D: lots in semiactivated form, varies a lot with season - June 2020&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="summary-table-from-2014-study">Summary table from 2014 Study&lt;/h4>
+&lt;p>Vitamin D IU / 100 gram due to including Calcidiol&lt;/p></description></item><item><title>Home Page</title><link>/posts/home-page.html</link><pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/home-page.html</guid><description>&lt;h4 id="snapshot-of-vitamindwiki-feb-16-2014-not-updated">Snapshot of VitaminDWiki Feb 16, 2014, not updated&lt;/h4>
+&lt;p>{SPLIT(colsize=250|250|250|350)}&lt;/p>
+&lt;p>&lt;a href="/posts/newsletter-jan-16" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4259"> &lt;strong>NEWSLETTER - Jan 16&lt;/strong> &lt;/a>&lt;/p>
+&lt;p>&lt;strong>INTRODUCTION&lt;/strong>&lt;/p>
+&lt;p>&lt;span>[tiki-browse_categories.php?parentId=39&amp;amp;sort_mode=created_desc]&lt;/span>     &lt;a href="/posts/vitamin-d-101" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1407"> &lt;strong>Vitamin D 101&lt;/strong> &lt;/a>&lt;/p>
+&lt;p>&lt;span>[tiki-browse_categories.php?parentId=40&amp;amp;sort_mode=created_desc]&lt;/span>&lt;/p>
+&lt;p>&lt;span>[tiki-browse_categories.php?parentId=28&amp;amp;sort_mode=created_desc]&lt;/span>       &lt;a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2123"> &lt;strong>&lt;span style="color:#30F;">Overview&lt;/span>&lt;/strong> &lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/vitamindwiki-poster" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2698">VitaminDWiki poster&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/published-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations&lt;/a>&lt;/p></description></item><item><title>Typically takes a century for govts to fortify food with nutrients (like vitamin D)</title><link>/posts/typically-takes-a-century-for-govts-to-fortify-food-with-nutrients-like-vitamin-d.html</link><pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/typically-takes-a-century-for-govts-to-fortify-food-with-nutrients-like-vitamin-d.html</guid><description>&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/fortification.gif" alt="image">
+&lt;h4 id="phases-seem-to-typically-be">Phases seem to typically be:&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>Detect association between nutrient and a health problem&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Determine that the lack of the nutrient is a major cause of the health problem&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Individuals and companies supplement with the nutrient&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Government recommends a minimum daily amount (RDA) of the nutrient&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Government sometimes then fortifies food (milk, salt, bread, . . ) with a bare minimum amount of the nutrient&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Government increases the amount of fortification a half century later due to one or more of the following&lt;/p></description></item><item><title>Thoughts on improving vitamin D policies - Vieth</title><link>/posts/thoughts-on-improving-vitamin-d-policies-vieth.html</link><pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/thoughts-on-improving-vitamin-d-policies-vieth.html</guid><description>&lt;h3 id="vitamin-d-disease-prevention-symposiums-for-canada-vitamin-d-day---nov-5-2013httpgrassrootshealthnetvitamin-d-day-presentations-canada-112013">&lt;a href="http://grassrootshealth.net/vitamin-d-day-presentations-canada-112013">Vitamin D Disease Prevention Symposiums; for Canada Vitamin D Day - Nov 5, 2013&lt;/a>&lt;/h3>
+&lt;h4 id="vitamin-d-and-policy-creation-by-reinhold-vieth-phd">Vitamin D and Policy Creation, by Reinhold Vieth, Ph.D.&lt;/h4>
+&lt;h4 id="a-few-of-his-slides">A few of his slides&lt;/h4>
+&lt;h4 id="ontario-canada-is-no-longer-paying-for-vitamin-d-tests">Ontario, Canada is no longer paying for vitamin D tests&lt;/h4>
+&lt;p>     unless the person already has one of the few health problems which&lt;br>
+     OHIP has determinded is associated with low vitamin D&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/ohip-not-pay.gif" alt="image">
+&lt;p>&lt;strong>&lt;span style="color:#00F;">Note: There are similar restrictions in the rest of Canada, the UK, and Australia&lt;/span>&lt;/strong>&lt;/p></description></item><item><title>Maternal supplementation (vitamin D is an emerging topic) Lancet</title><link>/posts/maternal-supplementation-vitamin-d-is-an-emerging-topic-lancet.html</link><pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/maternal-supplementation-vitamin-d-is-an-emerging-topic-lancet.html</guid><description>&lt;h3 id="evidence-based-interventions-for-improvement-of-maternal-and-child-nutrition-what-can-be-done-and-at-what-cost">Evidence-based interventions for improvement of maternal and child nutrition: what can be done and at what cost?&lt;/h3>
+&lt;p>The Lancet, Volume 382, Issue 9890, Pages 452 - 477, 3 August 2013&lt;/p>
+&lt;p>Prof Zulfiqar A Bhutta PhD a Corresponding AuthorEmail Address, Jai K Das MBA a, Arjumand Rizvi MSc a, Michelle F Gaffey MSc b, Neff Walker PhD c, Prof Susan Horton PhD d, Prof Patrick Webb PhD e, Prof Anna Lartey PhD f, Prof Robert E Black PhD c, The Lancet Nutrition Interventions Review Group, the Maternal and Child Nutrition Study Group&lt;/p></description></item><item><title>Magnesium can occasionally make you feel worse</title><link>/posts/magnesium-can-occasionally-make-you-feel-worse.html</link><pubDate>Thu, 08 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/magnesium-can-occasionally-make-you-feel-worse.html</guid><description>&lt;h4 id="the-following-is-clip-from-a-review-by-dr-carolyn-deanhttpwwwnutritionalmagnesiumorgmagnesium-and-osteoporosis-maintaining-bone-integrity20">The following is clip from a review by &lt;a href="http://www.nutritionalmagnesium.org/magnesium-and-osteoporosis-maintaining-bone-integrity/%20">Dr. Carolyn Dean&lt;/a>&lt;/h4>
+&lt;h4 id="updated-taking-magnesium-can-occasionally-make-you-feel-worse--nov-2015poststaking-magnesium-can-occasionally-make-you-feel-worse">Updated &lt;a href="/posts/taking-magnesium-can-occasionally-make-you-feel-worse">Taking Magnesium can occasionally make you feel worse – Nov 2015&lt;/a>&lt;/h4>
+&lt;ol>
+&lt;li>You’re not taking enough: When people feel worse with magnesium, I believe that the 700-800 enzyme systems that require magnesium just get jump-started and They Want More! (I used to write that magnesium was necessary in 325 enzyme systems but now, according to many and documented by Dr. Andrea Rosenoff, that number is more than twice what we previously thought.&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>This doesn’t mean that you’ll increase your magnesium ad infinitum! You will reach a saturation point of your magnesium stores and will be able to decrease your magnesium intake. To determine your magnesium saturation point, get a Magnesium RBC (Red Blood Cell Count) test. The range is usually given as 4.2-6.9 mg/dL; the optimum level is between 6.0-6.5mg/dL.&lt;/p></description></item><item><title>Saudi have very little vitamin D fortification of food</title><link>/posts/saudi-have-very-little-vitamin-d-fortification-of-food.html</link><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/saudi-have-very-little-vitamin-d-fortification-of-food.html</guid><description>&lt;p>
+&lt;p>&lt;span class="citation-abbreviation">J Family Community Med. &lt;/span>&lt;span class="citation-publication-date">2013 Jan-Apr; &lt;/span>&lt;span class="citation-volume">20&lt;/span>&lt;span class="citation-issue">(1)&lt;/span>&lt;span class="citation-flpages">: 49–52. &lt;/span>&lt;/p>&lt;/p>
+&lt;div>
+&lt;p>&lt;span class="doi">doi:  &lt;a href="http://dx.doi.org/10.4103%2F2230-8229.108186">10.4103/2230-8229.108186&lt;/a>&lt;/span>&lt;/div>&lt;/p>
+&lt;div class="inline_block three_col va_top show-overflow align_right">
+&lt;div class="fm-citation-ids">
+&lt;div class="fm-citation-pmcid">
+&lt;p>&lt;span class="fm-citation-ids-label">PMCID: &lt;/span>&lt;span>PMC3663164&lt;/span>&lt;/div>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h1 class="content-title">
+&lt;p>Fortification with vitamin D: Comparative study in the Saudi Arabian and US markets&lt;/h1>&lt;/p>
+&lt;div class="half_rhythm">
+&lt;div class="contrib-group fm-author">
+&lt;p>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Sadat-Ali%20M%5Bauth%5D">Mir Sadat-Ali&lt;/a>, &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Al%20Elq%20A%5Bauth%5D">Abdulmohsen Al Elq&lt;/a>,&lt;sup>1&lt;/sup>&lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Al-Farhan%20M%5Bauth%5D">Mohammed Al-Farhan&lt;/a>,&lt;sup>2&lt;/sup> and &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Sadat%20NA%5Bauth%5D">Nazia A. Sadat&lt;/a>&lt;sup>3&lt;/sup>&lt;/div>&lt;/p>
+&lt;/div>
+&lt;div class="fm-panel small half_rhythm">
+&lt;div class="fm-authors-info fm-panel half_rhythm">
+&lt;div class="fm-affl">
+&lt;p>&lt;em>Departments of Orthopaedic Surgery, College of Medicine, University of Dammam, Dammam, Saudi Arabia&lt;/em>&lt;/div>&lt;/p>
+&lt;div class="fm-affl">
+&lt;p>&lt;sup>1&lt;/sup>&lt;em>Department of Internal Medicine, College of Medicine, University of Dammam, Dammam, Saudi Arabia&lt;/em>&lt;/div>&lt;/p>
+&lt;div class="fm-affl">
+&lt;p>&lt;sup>2&lt;/sup>&lt;em>Department of Orthopaedic Surgery, College of Medicine, King Faisal University, AlHassa, Saudi Arabia&lt;/em>&lt;/div>&lt;/p></description></item><item><title>Vitamin D, DHA, Folic, Iodine benefits during pregnancy</title><link>/posts/vitamin-d-dha-folic-iodine-benefits-during-pregnancy.html</link><pubDate>Sun, 30 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-dha-folic-iodine-benefits-during-pregnancy.html</guid><description>&lt;h4 id="benefits-of-docosahexaenoic-acid-folic-acid-vitamin-d-and-iodine-on-foetal-and-infant-brain-development-and-function-following-maternal-supplementation-during-pregnancy-and-lactation">Benefits of Docosahexaenoic Acid, Folic Acid, Vitamin D and Iodine on Foetal and Infant Brain Development and Function Following Maternal Supplementation during Pregnancy and Lactation&lt;/h4>
+&lt;p>Nutrients 2012 July; 4(7): 799–840.. &lt;a href="https://doi.org/10.3390/nu4070799">doi: 10.3390/nu4070799&lt;/a>&lt;/p>
+&lt;p>Nancy L. Morse&lt;/p>
+&lt;p>PMCID: PMC3407995&lt;/p>
+&lt;p>Scientific literature is increasingly reporting on dietary deficiencies in many populations of some nutrients critical for foetal and infant brain development and function.&lt;/p>
+&lt;p>Purpose: To highlight the potential benefits of maternal supplementation with docosahexaenoic acid (DHA) and other important complimentary nutrients, including vitamin D, folic acid and iodine during pregnancy and/or breast feeding for foetal and/or infant brain development and/or function.&lt;/p></description></item><item><title>No indication of association with Prostate Cancer and retinol, vitamin E or active vitamin D</title><link>/posts/no-indication-of-association-with-prostate-cancer-and-retinol-vitamin-e-or-active-vitamin-d.html</link><pubDate>Sat, 25 May 2013 00:00:00 +0000</pubDate><guid>/posts/no-indication-of-association-with-prostate-cancer-and-retinol-vitamin-e-or-active-vitamin-d.html</guid><description>&lt;h2 id="associations-of-circulating-retinol-vitamin-e-and-125-dihydroxyvitamin-d-with-prostate-cancer-diagnosis-stage-and-grade">Associations of circulating retinol, vitamin E, and 1,25-dihydroxyvitamin D with prostate cancer diagnosis, stage, and grade.&lt;/h2>
+&lt;p>Cancer Causes Control. 2012 Nov;23(11):1865-73. &lt;a href="https://doi.org/10.1007/s10552-012-0052-5.">doi: 10.1007/s10552-012-0052-5.&lt;/a> Epub 2012 Aug 28.&lt;/p>
+&lt;p>Gilbert R, Metcalfe C, Fraser WD, Donovan J, Hamdy F, Neal DE, Lane JA, Martin RM.&lt;/p>
+&lt;p>School of Social and Community Medicine, University of Bristol, Canynge Hall, 39 Whatley Road, Bristol BS8 2PS, UK. &lt;a href="mailto:becky.gilbert@bristol.ac.uk">becky.gilbert@bristol.ac.uk&lt;/a>&lt;/p>
+&lt;p>PURPOSE:&lt;/p>
+&lt;p>Some epidemiological studies suggest that vitamin A (retinol), vitamin E, and vitamin D (total 25-hydroxyvitamin D, 25(OH)D; 1,25-dihydroxyvitamin, 1,25(OH)(2)D) are protective against prostate cancer. However, the evidence is not conclusive, &lt;strong>with positive and null associations reported for all three vitamins&lt;/strong> . Limitations of previous studies include small sample size, lack of population controls, and reliance on self-reported dietary intake. Few studies have explored the interactions of circulating 25(OH)D with 1,25(OH)(2)D or retinol, which are biologically plausible interactions.&lt;/p></description></item><item><title>Japanese recommendations without RDA: Vitamin D about 200 IU, Vitamin K about 60 ug</title><link>/posts/japanese-recommendations-without-rda-vitamin-d-about-200-iu-vitamin-k-about-60-ug.html</link><pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate><guid>/posts/japanese-recommendations-without-rda-vitamin-d-about-200-iu-vitamin-k-about-60-ug.html</guid><description>&lt;h2 id="dietary-reference-intakes-for-japanese-2010-fat-soluble-vitamins">Dietary Reference Intakes for Japanese 2010: Fat-Soluble Vitamins&lt;/h2>
+&lt;p>/Nutr Sci Vitaminol, 59, S57-S66, 2013&lt;/p>
+&lt;p>Kiyoshi Tanaka1, Junji TfeRAO2, Yoshihiro Shidoji3, Hiroshi Tamai4, Eri Imai5 and Toshio Okano6&lt;/p>
+&lt;p>1 Department of Food and Nutrition, Kyoto Women&amp;rsquo;s University, Kyoto 605-8501, Japan &lt;a href="mailto:tanakak@kyoto-wu.ac.jp">tanakak@kyoto-wu.ac.jp&lt;/a>&lt;/p>
+&lt;p>2 Department of Food Science, Institute of Health Biosciences, The University of Tokushima Graduate School, Tokushima 770-8503, Japan&lt;/p>
+&lt;p>3 Department of Nutrition and Health Science, Graduate School of Human Health Science, University of Nagasaki, Nagasaki 851-2195, Japan 4Department of Pediatrics, Osaka Medical College, Osaka 569-8686, Japan 5 Section of the Dietary Reference Intakes, Department of Nutritional Epidemiology, National Institute of Health and Nutrition, Tokyo 162-8636, Japan 6Department of Hygienic Sciences, Kobe Pharmaceutical University, Kobe, 658-8558, Japan&lt;/p></description></item><item><title>Off topic: Little water fluoridation in Europe - which is good for Mg and Vitamin D</title><link>/posts/off-topic-little-water-fluoridation-in-europe-which-is-good-for-mg-and-vitamin-d.html</link><pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/off-topic-little-water-fluoridation-in-europe-which-is-good-for-mg-and-vitamin-d.html</guid><description>&lt;h3 id="from-call-to-action-as-portland-oregon-readies-to-vote-on-water-fluoridationhttparticlesmercolacomsitesarticlesarchive20130411portland-fluoridationaspx-mercola-april-2013">From &lt;a href="http://articles.mercola.com/sites/articles/archive/2013/04/11/portland-fluoridation.aspx?">Call to Action as Portland, Oregon Readies to Vote on Water Fluoridation&lt;/a> Mercola April 2013&lt;/h3>
+&lt;h2 id="highlights">Highlights&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>99% of the Fluoride in water goes into the environment, and not into your body&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Unlike fluoride in toothpaste, fluoride in water has not been proven to stop cavities&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>‘’’Most European countries do not fluoridate their water, because such mass medication is considered ineffective and unethical.’’&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2006 report on water fluoridation by the US National Research Council, the benefits from fluoride are topical only, and cannot be achieved through ingestion.&lt;/p></description></item><item><title>Vitamin D relationship to many other vitamins</title><link>/posts/vitamin-d-relationship-to-many-other-vitamins.html</link><pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-relationship-to-many-other-vitamins.html</guid><description>&lt;h4 id="to-the-substantiation-of-the-joint-use-of-vitamin-d-and-the-rest-of-the-12-vitamins-necessary-for-the-creation-and-realization-of-the-vital-functions-of-its-hormone-active-form-the-vitamin-d--12-vitamins-approach">To the Substantiation of the Joint Use of Vitamin D and the Rest of the 12 Vitamins Necessary for the Creation and Realization of the Vital Functions of its Hormone-Active Form (The Vitamin D + 12 Vitamins Approach)&lt;/h4>
+&lt;p>Journal of Nutritional Therapeutics, 2013, 2, 1-7&lt;/p>
+&lt;p>V.B. Spirichev &lt;a href="mailto:valetek@post.ru">valetek@post.ru&lt;/a>, Doctor of Biological Sciences, Moscow, Russia&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;ul>
+&lt;li>&lt;a href="/posts/common-deficiencies-d3-omega-3-k2-mg-b12-e-a-iodine-etc-mercola">Common deficiencies D3, Omega-3, K2, Mg, B12, E, A, Iodine, etc – Mercola Oct 2015&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>Abstract: The realization of the multiple vital functions of vitamin D in a human organism closely depends on the sufficient provision of the rest of the vitamins necessary for the creation of the hormone-active form of vitamin D, as well as on the normal realization of the vital biochemical and physiological processes it controls.&lt;/p></description></item><item><title>Vitamin D and Obesity – Review</title><link>/posts/vitamin-d-and-obesity-review.html</link><pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-obesity-review.html</guid><description>&lt;p>Nutrients 2013, 5(3), 949-956; doi:10.3390/nu5030949&lt;/p>
+&lt;p>Simon Vanlint&lt;/p>
+&lt;p>Discipline of General Practice, School of Population Health, University of Adelaide, Adelaide, South Australia, SA 5005, Australia&lt;/p>
+&lt;p>Received: 16 February 2013; in revised form: 12 March 2013 / Accepted: 14 March 2013 / Published: 20 March 2013&lt;/p>
+&lt;p>(This article belongs to the Special Issue Vitamin D and Human Health)&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>PDF is attached at the bottom of this page&lt;/strong>&lt;/p>
+&lt;h2 id="comments-on-study-by-vitamindwiki">Comments on study by VitaminDWiki&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>More weight needs more vitamin D, BMI is not an issue&lt;/p></description></item><item><title>8X higher Osteoporosis risk if high level of vitamin A, vitamin D important too</title><link>/posts/8x-higher-osteoporosis-risk-if-high-level-of-vitamin-a-vitamin-d-important-too.html</link><pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/8x-higher-osteoporosis-risk-if-high-level-of-vitamin-a-vitamin-d-important-too.html</guid><description>&lt;h2 id="vitamin-d-insufficiency-together-with-high-serum-levels-of-vitamin-a-increases-the-risk-for-osteoporosis-in-postmenopausal-women">Vitamin D insufficiency together with high serum levels of vitamin A increases the risk for osteoporosis in postmenopausal women.&lt;/h2>
+&lt;p>Arch Osteoporos. 2013 Dec;8(1-2):124. Epub 2013 Feb 16.&lt;/p>
+&lt;p>Mata-Granados JM, Cuenca-Acevedo JR, Luque de Castro MD, Holick MF, Quesada-Gómez JM.&lt;/p>
+&lt;p>Department of I+D+I, Sanyres Group, Córdoba, Spain.&lt;/p>
+&lt;p>Postmenopausal women who were vitamin D deficient and had high serum levels of retinol had an eight times higher risk of having osteoporosis.&lt;/p>
+&lt;p>A high retinol level together with vitamin D deficiency/insufficiency is an additional risk factor for osteoporosis.&lt;/p></description></item><item><title>Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.)</title><link>/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-bird-flu-epstein-hepatitis-rsv-etc.html</link><pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-bird-flu-epstein-hepatitis-rsv-etc.html</guid><description>&lt;!-- ~tc~ start ~/tc~ -->
+&lt;p>&lt;strong>&lt;a href="http://en.wikipedia.org/wiki/Viral_envelope%20">Examples of enveloped virus&lt;/a>   &lt;a href="/categories/virus">Coronavirus&lt;/a>, &lt;a href="/posts/herpes-virus-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Herpes virus and vitamin D - many studies">Herpes simplex&lt;/a> (cold sore), &lt;a href="/posts/shingles-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shingles and vitamin D">Shingles&lt;/a>, &lt;a href="/posts/epstein-barr-virus-increases-the-risk-of-many-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epstein-Barr Virus increases the risk of many health problems – many studies">Epstein-Barr&lt;/a>, Hepatitis A &amp;amp; &lt;a href="/posts/hepatitis-b-virus-and-vitamin-d-many-studies">B&lt;/a> &amp;amp; &lt;a href="/posts/vitamin-d-prevents-hepatitis-c-and-helps-treat-it-many-studies">C&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Human_metapneumovirus">HMPV&lt;/a>, &lt;a href="/posts/stop-zika-birth-defects-with-vitamin-d">Zika&lt;/a>, &lt;a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">HIV&lt;/a>, &lt;a href="/posts/dengue-fever-decimated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dengue Fever decimated by Vitamin D - many studies">Dengue&lt;/a>, Yellow fever, &lt;a href="/posts/measles-and-low-vitamin-d-vitamin-a" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Measles and low Vitamin D, Vitamin A">Measles&lt;/a>, Mumps, smallpox, &lt;a href="/posts/monkeypox-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monkeypox and Vitamin D - several studies">Monkeypox&lt;/a>, &lt;a href="/posts/vitamin-d-may-protect-against-ebola">Ebola&lt;/a>, rabies, &lt;a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">influenza&lt;/a>, West Nile, &lt;a href="/posts/valley-fever-may-be-prevented-and-treated-with-vitamin-d">Valley Fever&lt;/a>, &lt;a href="/posts/croup-due-to-viruses-has-surged-with-omicron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Croup (due to viruses) has surged with Omicron - March 2022">Croup&lt;/a>, Lasa Fever, &lt;a href="https://www.perplexity.ai/search/hight-vitamin-d-fight-hemorrha-Yd9azku2SpO4zUQHlyFgRA">Hemorrhagic Fever&lt;/a>, &lt;a href="/posts/bird-flu-possible-pandemic-vitamin-d-can-prevent-it-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bird flu possible pandemic (Vitamin D can prevent it)- many studies">H5N1 bird flu&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Iron deficiency is a cause of Vitamin D deficiency</title><link>/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency.html</link><pubDate>Sun, 10 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#iron-summary">IRON Summary&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#heme-iron-polypeptide-hip---appears-to-be-the-best-form">Heme iron polypeptide (HIP) - appears to be the best form&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#bidirectional-relationship-between-iron-and-vitamin-d---perplexity-ai-april-2025">Bidirectional Relationship Between Iron and Vitamin D - Perplexity AI April 2025&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#hypothesis-of-interactions-between-iron-and-vitamin-c---2016">Hypothesis of interactions between Iron and Vitamin C - 2016&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vegetarians-and-vegans-have-less-vitamin-d-in-blood-less-iron">Vegetarians and vegans have less vitamin D in blood: Less Iron?&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#iron-deficiency-material-follows">Iron Deficiency material follows&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#iron-deficiency-guidehttpwwwirondeficiencyguidecom-has-the-following-venn-diagram">&lt;a href="http://www.irondeficiencyguide.com/">Iron Deficiency Guide&lt;/a> has the following venn diagram&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-is-iron-deficiency-anemiahttpwwwnhlbinihgovhealthhealth-topicstopicsida-nih">&lt;a href="http://www.nhlbi.nih.gov/health/health-topics/topics/ida/">What Is Iron-Deficiency Anemia?&lt;/a> NIH&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#iron-therapy-organizationhttpwwwirontherapyorgaphp3aito-textbook--4339-online-textbook-contents">&lt;a href="http://www.irontherapy.org/a.php3?a=ito-textbook--4339">Iron Therapy Organization&lt;/a> online textbook: contents&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#decreasing-iron-in-the-blood--us-cdc-2002httpwwwcdcgovmmwrpreviewmmwrhtmlmm5140a1htm">&lt;a href="http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5140a1.htm">Decreasing Iron in the blood (US CDC 2002)&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#iron-deficiency-anemia">Iron Deficiency anemia&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#iron-deficiency-anemia---how-to-get-the-most-iron-out-of-your-diet-and-supplementshttpezinearticlescomiron-deficiency-anemia---how-to-get-the-most-iron-out-of-your-diet-and-supplementsid7170212-ezinearticles-july-2012">&lt;a href="http://ezinearticles.com/?Iron-Deficiency-Anemia---How-to-Get-the-Most-Iron-Out-of-Your-Diet-and-Supplements&amp;amp;id=7170212">Iron-Deficiency Anemia - How to Get the Most Iron Out of Your Diet and Supplements&lt;/a> EZIneArticles July 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#iron-deficiency-and-anemia-causes-consequences-and-solutionshttpocwjhspheducoursesinternationalnutritionpdfslecture5pdf-excellent">&lt;a href="http://ocw.jhsph.edu/courses/InternationalNutrition/PDFs/Lecture5.pdf">Iron Deficiency and Anemia, Causes, Consequences, and Solutions&lt;/a> Excellent&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#anemia-varies-with-age-and-sex">Anemia varies with age and sex&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effects-of-iron-on-vitamin-d-metabolism-a-systematic-review---dec-2016">Effects of Iron on Vitamin D Metabolism: A Systematic Review - Dec 2016&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="iron-summary">IRON Summary&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>Human body needs Iron, especially the liver, which also processes Vitamin D&lt;/p></description></item><item><title>Vitamin D Wiki News for Dec 2012 and</title><link>/posts/vitamin-d-wiki-news-for-dec-2012-and.html</link><pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-wiki-news-for-dec-2012-and.html</guid><description>&lt;p>Lots of great vitamin D news - here are some news clusters.&lt;/p>
+&lt;p>&lt;strong>More strong evidence and pathway understanding for many diseases&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/rheumatoid-arthritis-strongly-associated-with-low-vitamin-d">Rheumatoid Arthritis strongly associated with low vitamin D – Dec 2012&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-prevents-multiple-sclerosis-through-multiple-mechanisms">Vitamin D prevents multiple sclerosis through multiple mechanisms – Jan 2013&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/vitamin-d-can-both-prevent-and-treat-multiple-sclerosis-review">Vitamin D can both prevent and treat Multiple Sclerosis – review Nov 2012&lt;/a> excellent&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/risk-of-going-from-pre-ms-to-ms-reduced-68-percent-with-7100-iu-vitamin-d-rct">Risk of going from pre-MS to MS reduced 68 percent with 7100 IU vitamin D – RCT Dec 2012&lt;/a>&lt;/p></description></item><item><title>80 ng vitamin D doctor - interview Jan 2013 - admin only</title><link>/posts/80-ng-vitamin-d-doctor-interview-jan-2013-admin-only.html</link><pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/80-ng-vitamin-d-doctor-interview-jan-2013-admin-only.html</guid><description>&lt;p>&lt;strong>This page is currently hidden on VitaminDWiki = only admins can see it&lt;/strong>&lt;/p>
+&lt;p>This is a rough draft. There will be extensive re-writing, deleting, re-arranging&lt;/p>
+&lt;p>&lt;strong>Recently retired Family Practice physician in Jan 2013 telephone interview by Henry Lahore of VitaminDWiki&lt;/strong>&lt;/p>
+&lt;p>He started a family practice which expanded to having 8,000 patients, most of whom now have vitamin D level 80 ng ± 10 ng.&lt;/p>
+&lt;p>&lt;a href="/posts/grassrootshealth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3614">Grassrootshealth&lt;/a> provided him with the target of 80 ng of vitamin D&lt;/p></description></item><item><title>Off topic: Sulfur and Human Health</title><link>/posts/off-topic-sulfur-and-human-health.html</link><pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/off-topic-sulfur-and-human-health.html</guid><description>&lt;p>&lt;strong>Sulfur seems important, but often ignored&lt;br>
+Several items on this page&lt;br>
+Update &lt;a href="/posts/off-topic-sulfur-is-very-important-to-health">Off-topic: Sulfur is very important to health&lt;/a> Dec 2016&lt;/strong>&lt;/p>
+&lt;h4 id="sulfur-in-human-nutrition-and-applications-in-medicine">Sulfur in human nutrition and applications in medicine.&lt;/h4>
+&lt;p>Altern Med Rev. 2002 Feb;7(1):22-44.&lt;/p>
+&lt;p>Parcell S. American Institute for Biosocial and Medical Research (AIBMR), Tacoma, WA, USA. &lt;a href="mailto:steveparcell@attbi.com">steveparcell@attbi.com&lt;/a>&lt;/p>
+&lt;p>Because the role of elemental sulfur in human nutrition has not been studied extensively, it is the purpose of this article to emphasize the importance of this element in humans and discuss the therapeutic applications of sulfur compounds in medicine. Sulfur is the sixth most abundant macromineral in breast milk and the third most abundant mineral based on percentage of total body weight. The sulfur-containing amino acids (SAAs) are&lt;/p></description></item><item><title>Vitamin D is the only vitamin which is low in Europe</title><link>/posts/vitamin-d-is-the-only-vitamin-which-is-low-in-europe.html</link><pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-is-the-only-vitamin-which-is-low-in-europe.html</guid><description>&lt;h3 id="mapping-low-intake-of-micronutrients-across-europe">Mapping low intake of micronutrients across Europe.&lt;/h3>
+&lt;p>Br J Nutr. 2013 Jan 14:1-19.&lt;/p>
+&lt;p>Mensink GB, Fletcher R, Gurinovic M, Huybrechts I, Lafay L, Serra-Majem L, Szponar L, Tetens I, Verkaik-Kloosterman J, Baka A, Stephen AM.&lt;/p>
+&lt;p>Department of Epidemiology and Health Monitoring, Robert Koch Institute, General-Pape-Strasse 64, DE-12101 Berlin, Germany.&lt;/p>
+&lt;p>Achieving an understanding of the extent of micronutrient adequacy across Europe is a major challenge. The main objective of the present study was to collect and evaluate the prevalence of low micronutrient intakes of different European countries by comparing recent nationally representative dietary survey data from Belgium, Denmark, France, Germany, The Netherlands, Poland, Spain and the United Kingdom. Dietary intake information was evaluated for intakes of Ca, Cu, I, Fe, Mg, K, Se, Zn and the vitamins A, B1, B2, B6, B12, C, D, E and folate. The mean and 5th percentile of the intake distributions were estimated for these countries, for a number of defined sex and age groups. The percentages of those with intakes below the lower reference nutrient intake and the estimated average requirement were calculated. Reference intakes were derived from the UK and Nordic Nutrition Recommendations. The impact of dietary supplement intake as well as inclusion of apparently low energy reporters on the estimates was evaluated. &lt;strong>Except for vitamin D&lt;/strong> , the present study suggests that the current intakes of vitamins from foods lead to low risk of low intakes in all age and sex groups.&lt;/p></description></item><item><title>May 2012 Vitamin D News from VitaminDWiki</title><link>/posts/may-2012-vitamin-d-news-from-vitamindwiki.html</link><pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/may-2012-vitamin-d-news-from-vitamindwiki.html</guid><description>&lt;h3 id="there-is-a-lot-of-vitamin-d-news-each-month">There is a lot of vitamin D news each month.&lt;/h3>
 &lt;p>About 2% of the items found are posted on VitaminDWiki, and just a fraction of those make it to this monthly top news summary&lt;/p>
 &lt;p>A tiny fraction of all vitamin D news become blog posts.&lt;/p>
 &lt;h3 id="reminder-anyone-who-registers-free-can-choose-to-be-immediately-informed-when-there-are">Reminder: anyone who registers (free) can choose to be immediately informed when there are:&lt;/h3>

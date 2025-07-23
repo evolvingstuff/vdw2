@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Pill taking is not a problem with vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Pill taking is not a problem with vitamin D</h1><time>September 21, 2015</time><div data-pagefind-body><h4 id=some-vitamin-d-capsules-can-be-twisted-open-and-put-the-tastless-powder-on-food-in-drinks-or-directly-on-your-tongue>Some vitamin D capsules can be twisted open and put the tastless powder on food, in drinks, or directly on your tongue</h4><p>Example <a href=http://www.biotechpharmacal.com/>Bio-Tech Pharmacal</a> tiny 5,000 IU and 50,000 IU capsules contain water-soluble powder</p><h4 id=some-vitamin-d-is-available-as-liquid-spray-topical-injection-monthly-etc>Some vitamin D is available as liquid, spray, topical, injection (monthly), etc</h4><p><a href=/posts/low-cost-vitamin-d-including-liquid-and-bulk style=color:red;text-decoration:underline title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a></p><h4 id=you-do-not-even-have-to-remember-to-take-vitamin-d-on-a-regular-basis>You do not even have to remember to take vitamin D on a regular basis</h4><ul><li><p>Just put all the the vitamin D for a month in a cup</p></li><li><p>As you remember to do so during the month, take the vitamin D from the cup</p></li><li><p>If needed, toward the end of the month take remaining capsules at a faster rate.</p></li><li><p>Note: It is actually OK to take the vitamin D only twice a month, daily is not needed.</p></li><li><p>Note: Some people (taking 50,000 IU capsules) would just take one capsule at the beginning of the month and put one capsule in the cup to be taken weeks later</p></li></ul><h4 id=can-get-vitamin-d-from-the-sun-andor-uvb-lamps>Can get Vitamin D from the sun and/or UVB lamps</h4><p><a href=/posts/vitamin-d-from-low-cost-uvb-lamps>Vitamin D from low-cost UVB lamps</a></p><h4 id=can-fortify-your-entire-family-with-vitamin-d>Can fortify your entire family with vitamin D</h4><p>At the beginning of the month put enough vitamin D for the entire family into some food/beverage which will be consumed over 2-4 weeks.</p><ul><li>Example month of fortification:100,000 IU for each adult, 15,000 IU for each child</li></ul><blockquote><p>2 adults and 4 children = 200,000 + 60.000 = 260,000 IU</p></blockquote><blockquote><p>Stir into jam, fruit juice, butter, . . .</p></blockquote><blockquote><p>Note - this assumes that each person eats the fortified food-stuff in proportion to their body weight</p></blockquote><ul><li><p>Example: make fortified bread, pancakes, etc for the entire family on a weekly basis.</p></li><li><p><a href=/posts/vitamin-d-home-fortification-dont-wait-100-years-for-your-govt>Vitamin D home fortification- don&rsquo;t wait 100 years for your govt</a></p></li><li><p><a href=/posts/vitamin-d-can-fortify-a-variety-of-food-and-drinks-even-beer style=color:red;text-decoration:underline title="This post/category does not exist yet: Vitamin D can fortify a variety of food and drinks – even beer – March 2012">Vitamin D can fortify a variety of food and drinks – even beer – March 2012</a></p></li></ul><h4 id=food-rarely-has-enough-vitamin-d-to-be-useful>Food rarely has enough vitamin D to be useful</h4><p><a href=/posts/vitamin-d-content-of-over-400-types-of-food>Vitamin D content of over 400 types of food</a></p><hr><h4 id=cant-swallow-a-pill-theres-help-for-thathttpwellblogsnytimescom20150921cant-swallow-a-pill-theres-help-for-that-new-york-times-sept-2015><a href=http://well.blogs.nytimes.com/2015/09/21/cant-swallow-a-pill-theres-help-for-that/>Can’t Swallow a Pill? There’s Help for That</a> New York Times Sept 2015</h4><ul><li><p>&ldquo;And 20 % to 40 % (of children) are unable to swallow a standard-size pill or capsule, according to a recent study in the <a href=http://pediatrics.aappublications.org/content/early/2015/04/14/peds.2014-2114.abstract>journal Pediatrics</a>.&rdquo;</p></li><li><p>“A teenager can have just as many problems as a 5-year-old. It likely has to do with anxiety and the negative associations with swallowing a pill.”</p></li><li><p>&ldquo;Many never outgrow the problem. Harris Interactive reported that <a href=http://www.thefreelibrary.com/40%25+of+American+Adults+Report+Experiencing+Difficulty+Swallowing...-a0112187875>40 % of American adults have difficulty swallowing pills</a>&rdquo;</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/anxiety.html><span class=tag>anxiety</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/forms.html><span class=tag>Forms</span></a>
+<a href=/tags/fortification.html><span class=tag>Fortification</span></a>
+<a href=/tags/mood-disorders.html><span class=tag>mood disorders</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>anxiety, child, dosage, Forms, Fortification, mood disorders, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

@@ -1,718 +1,566 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Depression on VitaminDWiki</title><link>/categories/depression.html</link><description>Recent content in Depression on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/categories/depression/index.xml" rel="self" type="application/rss+xml"/><item><title>Pregnant blacks 50 pcnt more likely to be depressed if 3 ng less vitamin D</title><link>/posts/pregnant-blacks-50-pcnt-more-likely-to-be-depressed-if-3-ng-less-vitamin-d.html</link><pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/pregnant-blacks-50-pcnt-more-likely-to-be-depressed-if-3-ng-less-vitamin-d.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!!Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`
-│ inner_content: `Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`
-│ │ inner_content: `Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`├── TextNode
-│ full_match: `\nJournal of Women&amp;#39;s Health. Online Ahead of Print: July 23, 2012\nAndrea E. Cassidy-Bushrow, Ph.D. acassid1@hfhs.org, M.P.H.,1 Rosalind M. Peters, Ph.D., R.N., FAAN,2 Dayna A. Johnson, M.P.H., M.S.W., M.S.,1 Jia Li, Ph.D.,1 and D. Sudhaker Rao, MBBS3\n1 Department of Public Health Sciences, Henry Ford Hospital, Detroit, Michigan.\n2 College of Nursing, Wayne State University, Detroit, Michigan.\n3 Bone &amp;amp; Mineral Research Laboratory, Henry Ford Hospital, Detroit, Michigan.\n\nBackground: Vitamin D deficiency is associated with depression; however, no studies have examined the relationship of vitamin D and antenatal depression. Antenatal depression increases the risk of adverse birth outcomes and poorer postpartum maternal and infant health. African American women are at increased risk for vitamin D deficiency and antenatal depression. Thus, we examined if early pregnancy vitamin D nutrition (VDN) was associated with antenatal depressive symptoms among African American women in the second trimester of pregnancy.\n\nMethods: Women (n=178) were recruited from obstetrics clinics of a large health system. VDN was assessed by serum 25-hydroxyvitamin D (25-OHD). \nDepression symptoms were measured with the Center for Epidemiological Studies Depression (CES-D) scale; \nCES-D?16 equates with criteria for `
-│ inner_content: `\nJournal of Women&amp;#39;s Health. Online Ahead of Print: July 23, 2012\nAndrea E. Cassidy-Bushrow, Ph.D. acassid1@hfhs.org, M.P.H.,1 Rosalind M. Peters, Ph.D., R.N., FAAN,2 Dayna A. Johnson, M.P.H., M.S.W., M.S.,1 Jia Li, Ph.D.,1 and D. Sudhaker Rao, MBBS3\n1 Department of Public Health Sciences, Henry Ford Hospital, Detroit, Michigan.\n2 College of Nursing, Wayne State University, Detroit, Michigan.\n3 Bone &amp;amp; Mineral Research Laboratory, Henry Ford Hospital, Detroit, Michigan.\n\nBackground: Vitamin D deficiency is associated with depression; however, no studies have examined the relationship of vitamin D and antenatal depression. Antenatal depression increases the risk of adverse birth outcomes and poorer postpartum maternal and infant health. African American women are at increased risk for vitamin D deficiency and antenatal depression. Thus, we examined if early pregnancy vitamin D nutrition (VDN) was associated with antenatal depressive symptoms among African American women in the second trimester of pregnancy.\n\nMethods: Women (n=178) were recruited from obstetrics clinics of a large health system. VDN was assessed by serum 25-hydroxyvitamin D (25-OHD). \nDepression symptoms were measured with the Center for Epidemiological Studies Depression (CES-D) scale; \nCES-D?16 equates with criteria for `├── BoldNode
-│ full_match: `__clinical depression__`
-│ inner_content: `clinical depression`
-│ children:
-│ ├── TextNode
-│ │ full_match: `clinical depression`
-│ │ inner_content: `clinical depression`├── TextNode
-│ full_match: `. \nLogistic regression was used to examine the association of log-transformed 25-OHD and elevated depression symptoms (CES-D?16).\n\nResults: Mean 25-OHD was 13.4±8.4?ng/mL; most women (82.6%, n=147) were vitamin D inadequate or deficient (25-OHD&amp;lt;20?ng/mL). \nMean CES-D was 15.2±10.7, and 74 (41.6%) women had a CES-D?16, suggestive of clinical depression.\nA significant inverse relationship was found between log (25-OHD) and CES-D?16 (odds ratio `
-│ inner_content: `. \nLogistic regression was used to examine the association of log-transformed 25-OHD and elevated depression symptoms (CES-D?16).\n\nResults: Mean 25-OHD was 13.4±8.4?ng/mL; most women (82.6%, n=147) were vitamin D inadequate or deficient (25-OHD&amp;lt;20?ng/mL). \nMean CES-D was 15.2±10.7, and 74 (41.6%) women had a CES-D?16, suggestive of clinical depression.\nA significant inverse relationship was found between log (25-OHD) and CES-D?16 (odds ratio `├── BoldNode
-│ full_match: `__[OR] 0.54__`
-│ inner_content: `[OR] 0.54`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[OR]`
-│ │ inner_content: `OR`
-│ │ url: `OR`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `OR`
-│ │ │ inner_content: `OR`
-│ ├── TextNode
-│ │ full_match: ` 0.54`
-│ │ inner_content: ` 0.54`├── TextNode
-│ full_match: `, 95% confidence interval `
-│ inner_content: `, 95% confidence interval `├── LinkNode
-│ full_match: `[CI]`
-│ inner_content: `CI`
-│ url: `CI`
-│ children:
-│ ├── TextNode
-│ │ full_match: `CI`
-│ │ inner_content: `CI`├── TextNode
-│ full_match: ` 0.29-0.99, p=0.046). \n\n`
-│ inner_content: ` 0.29-0.99, p=0.046). \n\n`├── BoldNode
-│ full_match: `__For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.__`
-│ inner_content: `For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.`
-│ children:
-│ ├── TextNode
-│ │ full_match: `For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.`
-│ │ inner_content: `For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.`├── TextNode
-│ full_match: `\n\nConclusions: African American women with lower VDN exhibit increased depressive symptoms. \nResearch on vitamin D supplementation for reducing antenatal depressive symptoms is needed.\n– – – – – – – – – – – \n`
-│ inner_content: `\n\nConclusions: African American women with lower VDN exhibit increased depressive symptoms. \nResearch on vitamin D supplementation for reducing antenatal depressive symptoms is needed.\n– – – – – – – – – – – \n`├── HeadingNode
-│ full_match: `!!Summary by VitaminDWiki`
-│ inner_content: `Summary by VitaminDWiki`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Summary by VitaminDWiki`
-│ │ inner_content: `Summary by VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#Fact: Depresion is associated with low levels of vitamin D`
-│ inner_content: `Fact: Depresion is associated with low levels of vitamin D`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Fact: Depresion is associated with low levels of vitamin D`
-│ │ inner_content: `Fact: Depresion is associated with low levels of vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#Fact: Dark skin women have lower vitamin D than those with white skins`
-│ inner_content: `Fact: Dark skin women have lower vitamin D than those with white skins`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Fact: Dark skin women have lower vitamin D than those with white skins`
-│ │ inner_content: `Fact: Dark skin women have lower vitamin D than those with white skins`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#Fact: Pregnancy decreases vitamin D`
-│ inner_content: `Fact: Pregnancy decreases vitamin D`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Fact: Pregnancy decreases vitamin D`
-│ │ inner_content: `Fact: Pregnancy decreases vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*1+2+3 = The direction of the results of this study`
-│ inner_content: `1+2+3 = The direction of the results of this study`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `1+2+3 = The direction of the results of this study`
-│ │ inner_content: `1+2+3 = The direction of the results of this study`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`
-│ inner_content: `Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`
-│ │ inner_content: `Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!See also VitaminDWiki `
-│ inner_content: `See also VitaminDWiki`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Depression)) category listing with many associated searches`
-│ inner_content: `((Depression)) category listing with many associated searches`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Depression))`
-│ │ inner_content: `Depression`
-│ │ page: `Depression`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Depression`
-│ │ │ inner_content: `Depression`
-│ ├── TextNode
-│ │ full_match: ` category listing with many associated searches`
-│ │ inner_content: ` category listing with many associated searches`├── TextNode
-│ full_match: `\nItems tagged in both categories `
-│ inner_content: `\nItems tagged in both categories `├── BoldNode
-│ full_match: `__Depression AND Pregnancy__`
-│ inner_content: `Depression AND Pregnancy`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Depression AND Pregnancy`
-│ │ inner_content: `Depression AND Pregnancy`├── TextNode
-│ full_match: ` `
-│ inner_content: ` `├── CategoryNode
-│ full_match: `{category id=&amp;quot;48+12&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot; showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}`
-│ inner_content: ``
-│ attrs_dict:
-│ │ raw_content: id=&amp;quot;48+12&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot; showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;
-│ │ id: 48+12
-│ │ types: wiki
-│ │ sort: created_desc
-│ │ split: n
-│ │ and: y
-│ │ sub: n
-│ │ showdescription: n
-│ │ showname: y
-│ │ showtype: n
-│ │ one: y
-│ │ showTitle: n├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
-│ │ inner_content: `Dark skin births are much riskier due to lack of vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1566`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Dark skin births are much riskier due to lack of vitamin D`
-│ │ │ inner_content: `Dark skin births are much riskier due to lack of vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
-│ │ inner_content: `Overview Pregnancy and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=816`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Pregnancy and Vitamin D`
-│ │ │ inner_content: `Overview Pregnancy and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D]`
-│ │ inner_content: `All items in depression and vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in depression and vitamin D`
-│ │ │ inner_content: `All items in depression and vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]`
-│ │ inner_content: `Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2772`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012`
-│ │ │ inner_content: `Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]`
-│ │ inner_content: `Concealing clothing resulted in only 8 ng vitamin D – Feb 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1441`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Concealing clothing resulted in only 8 ng vitamin D – Feb 2011`
-│ │ │ inner_content: `Concealing clothing resulted in only 8 ng vitamin D – Feb 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]`
-│ │ inner_content: `Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1782`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011`
-│ │ │ inner_content: `Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]`
-│ │ inner_content: `Many reasons why vitamin D deficiency has become epidemic`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1586`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Many reasons why vitamin D deficiency has become epidemic`
-│ │ │ inner_content: `Many reasons why vitamin D deficiency has become epidemic`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+ # 2 was indoors, # 16 was clothing as of Oct 2011`
-│ inner_content: ` # 2 was indoors, # 16 was clothing as of Oct 2011`
-│ level: `1`
-│ children:
-│ ├── NumListItemNode
-│ │ full_match: `# 2 was indoors, # 16 was clothing as of Oct 2011`
-│ │ inner_content: ` 2 was indoors, # 16 was clothing as of Oct 2011`
-│ │ depth: `1`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `2 was indoors, # 16 was clothing as of Oct 2011`
-│ │ │ inner_content: `2 was indoors, # 16 was clothing as of Oct 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]`
-│ │ inner_content: `Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1898`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011`
-│ │ │ inner_content: `Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010] clothing restricts access to the sun`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010] clothing restricts access to the sun`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010]`
-│ │ inner_content: `Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1190`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010`
-│ │ │ inner_content: `Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010`
-│ ├── TextNode
-│ │ full_match: ` clothing restricts access to the sun`
-│ │ inner_content: ` clothing restricts access to the sun`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]`
-│ │ inner_content: `70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2484`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012`
-│ │ │ inner_content: `70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]`
-│ │ inner_content: `Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1898`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011`
-│ │ │ inner_content: `Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]`
-│ │ inner_content: `Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2708`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012`
-│ │ │ inner_content: `Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]`
-│ │ inner_content: `Less than 20 ng vitamin D increases depression by 80 % – Dec 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1205`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Less than 20 ng vitamin D increases depression by 80 % – Dec 2010`
-│ │ │ inner_content: `Less than 20 ng vitamin D increases depression by 80 % – Dec 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]`
-│ │ inner_content: `An Exploratory Study of Postpartum Depression and Vitamin D - May 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=838`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `An Exploratory Study of Postpartum Depression and Vitamin D - May 2010`
-│ │ │ inner_content: `An Exploratory Study of Postpartum Depression and Vitamin D - May 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`
-
-Original Tiki:
--------------
-!!!Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women
-Journal of Women&amp;#39;s Health. Online Ahead of Print: July 23, 2012
-Andrea E. Cassidy-Bushrow, Ph.D. acassid1@hfhs.org, M.P.H.,1 Rosalind M. Peters, Ph.D., R.N., FAAN,2 Dayna A. Johnson, M.P.H., M.S.W., M.S.,1 Jia Li, Ph.D.,1 and D. Sudhaker Rao, MBBS3
-1 Department of Public Health Sciences, Henry Ford Hospital, Detroit, Michigan.
-2 College of Nursing, Wayne State University, Detroit, Michigan.
-3 Bone &amp;amp; Mineral Research Laboratory, Henry Ford Hospital, Detroit, Michigan.
-
-Background: Vitamin D deficiency is associated with depression; however, no studies have examined the relationship of vitamin D and antenatal depression. Antenatal depression increases the risk of adverse birth outcomes and poorer postpartum maternal and infant health. African American women are at increased risk for vitamin D deficiency and antenatal depression. Thus, we examined if early pregnancy vitamin D nutrition (VDN) was associated with antenatal depressive symptoms among African American women in the second trimester of pregnancy.
-
-Methods: Women (n=178) were recruited from obstetrics clinics of a large health system. VDN was assessed by serum 25-hydroxyvitamin D (25-OHD). 
-Depression symptoms were measured with the Center for Epidemiological Studies Depression (CES-D) scale; 
-CES-D?16 equates with criteria for __clinical depression__. 
-Logistic regression was used to examine the association of log-transformed 25-OHD and elevated depression symptoms (CES-D?16).
-
-Results: Mean 25-OHD was 13.4±8.4?ng/mL; most women (82.6%, n=147) were vitamin D inadequate or deficient (25-OHD&amp;lt;20?ng/mL). 
-Mean CES-D was 15.2±10.7, and 74 (41.6%) women had a CES-D?16, suggestive of clinical depression.
-A significant inverse relationship was found between log (25-OHD) and CES-D?16 (odds ratio __[OR] 0.54__, 95% confidence interval [CI] 0.29-0.99, p=0.046). 
-
-__For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.__
-
-Conclusions: African American women with lower VDN exhibit increased depressive symptoms. 
-Research on vitamin D supplementation for reducing antenatal depressive symptoms is needed.
-– – – – – – – – – – – 
-!!Summary by VitaminDWiki
-#Fact: Depresion is associated with low levels of vitamin D
-#Fact: Dark skin women have lower vitamin D than those with white skins
-#Fact: Pregnancy decreases vitamin D
-*1+2+3 = The direction of the results of this study
-*Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,
-!!See also VitaminDWiki 
-*((Depression)) category listing with many associated searches
-Items tagged in both categories __Depression AND Pregnancy__ {category id=&amp;quot;48+12&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot; showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]
-+ # 2 was indoors, # 16 was clothing as of Oct 2011
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010] clothing restricts access to the sun
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]
-
-&lt;/code>
-&lt;/pre></description></item><item><title>Depression not reduced with 5700 IU vitamin D average in 6 months</title><link>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</link><pubDate>Fri, 13 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!!Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial`
-│ inner_content: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial`
-│ level: `3`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: `
-│ │ inner_content: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: `
-│ ├── NewlineNode
-│ │ full_match: `%%%`
-│ │ inner_content: ``
-│ ├── TextNode
-│ │ full_match: `nested case–control study and randomised clinical trial`
-│ │ inner_content: `nested case–control study and randomised clinical trial`├── TextNode
-│ full_match: `\nMarie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde\nCorrespondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no\nBJ Psych July 12, 2012, `
-│ inner_content: `\nMarie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde\nCorrespondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no\nBJ Psych July 12, 2012, `├── DoiLinkNode
-│ full_match: `doi: 10.1192/bjp.bp.111.104349`
-│ inner_content: `10.1192/bjp.bp.111.104349`├── TextNode
-│ full_match: `\n\nAims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.\n\nMethod Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov (`
-│ inner_content: `\n\nAims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.\n\nMethod Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov (`├── LinkNode
-│ full_match: `[http://clinicaltrials.gov/ct2/show/NCT00960232|NCT00960232]`
-│ inner_content: `NCT00960232`
-│ url: `http://clinicaltrials.gov/ct2/show/NCT00960232`
-│ children:
-│ ├── TextNode
-│ │ full_match: `NCT00960232`
-│ │ inner_content: `NCT00960232`├── TextNode
-│ full_match: `).\n\nResults Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). \nIn the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.\n\nConclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.\n– – – – – – – – – – \n`
-│ inner_content: `).\n\nResults Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). \nIn the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.\n\nConclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.\n– – – – – – – – – – \n`├── HeadingNode
-│ full_match: `!See also VitaminDWiki `
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D]`
-│ │ inner_content: `All items in depression and vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in depression and vitamin D`
-│ │ │ inner_content: `All items in depression and vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011]`
-│ │ inner_content: `36 percent less depression when have high level of vitamin D – July 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1864`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `36 percent less depression when have high level of vitamin D – July 2011`
-│ │ │ inner_content: `36 percent less depression when have high level of vitamin D – July 2011`
-│ ├── TextNode
-│ │ full_match: ` also by Kjærgaard`
-│ │ inner_content: ` also by Kjærgaard`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
-│ │ inner_content: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2439`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`
-│ │ │ inner_content: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+The teen study used a loading dose for 1 month, and got great results in just 3 months`
-│ inner_content: `The teen study used a loading dose for 1 month, and got great results in just 3 months`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `The teen study used a loading dose for 1 month, and got great results in just 3 months`
-│ │ inner_content: `The teen study used a loading dose for 1 month, and got great results in just 3 months`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
-│ │ inner_content: `Much less depression if more than 43 ng of vitamin D – Oct 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3289`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Much less depression if more than 43 ng of vitamin D – Oct 2012`
-│ │ │ inner_content: `Much less depression if more than 43 ng of vitamin D – Oct 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!See also web`
-│ inner_content: `See also web`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also web`
-│ │ inner_content: `See also web`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article`
-│ inner_content: `[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://www.medscape.com/viewarticle/767799?src=rss|Medscape]`
-│ │ inner_content: `Medscape`
-│ │ url: `http://www.medscape.com/viewarticle/767799?src=rss`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Medscape`
-│ │ │ inner_content: `Medscape`
-│ ├── TextNode
-│ │ full_match: ` review of article`
-│ │ inner_content: ` review of article`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article`
-│ inner_content: `[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council]`
-│ │ inner_content: `Vitamin D Council`
-│ │ url: `http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D Council`
-│ │ │ inner_content: `Vitamin D Council`
-│ ├── TextNode
-│ │ full_match: ` review of article`
-│ │ inner_content: ` review of article`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
-│ inner_content: `&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
-│ level: `1`
-│ children:
-│ ├── EmphasisNode
-│ │ full_match: `&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
-│ │ inner_content: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`
-│ │ │ inner_content: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
-│ inner_content: `&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
-│ level: `1`
-│ children:
-│ ├── EmphasisNode
-│ │ full_match: `&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
-│ │ inner_content: `The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `The `
-│ │ │ inner_content: `The `
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:__authors note that the biggest limitation__~~`
-│ │ │ inner_content: `__authors note that the biggest limitation__`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── BoldNode
-│ │ │ │ full_match: `__authors note that the biggest limitation__`
-│ │ │ │ inner_content: `authors note that the biggest limitation`
-│ │ │ │ children:
-│ │ │ │ ├── TextNode
-│ │ │ │ │ full_match: `authors note that the biggest limitation`
-│ │ │ │ │ inner_content: `authors note that the biggest limitation`
-│ │ ├── TextNode
-│ │ │ full_match: ` in their study was study length at 6 months in a disorder that may take several years to develop.`
-│ │ │ inner_content: ` in their study was study length at 6 months in a disorder that may take several years to develop.`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013`
-│ inner_content: `[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention]`
-│ │ inner_content: `Clinical Trials for Depression with vitamin D intervention`
-│ │ url: `http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Clinical Trials for Depression with vitamin D intervention`
-│ │ │ inner_content: `Clinical Trials for Depression with vitamin D intervention`
-│ ├── TextNode
-│ │ full_match: ` 22 INTERVENTION trials listed as of Jan 2013`
-│ │ inner_content: ` 22 INTERVENTION trials listed as of Jan 2013`
-
-Original Tiki:
--------------
-!!!Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial
-Marie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde
-Correspondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no
-BJ Psych July 12, 2012, doi: 10.1192/bjp.bp.111.104349
-
-Aims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.
-
-Method Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov ([http://clinicaltrials.gov/ct2/show/NCT00960232|NCT00960232]).
-
-Results Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). 
-In the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.
-
-Conclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.
-– – – – – – – – – – 
-!See also VitaminDWiki 
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]
-+The teen study used a loading dose for 1 month, and got great results in just 3 months
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]
-!!See also web
-*[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article
-*[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article
-+&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;
-+&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;
-*[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013
-&lt;/code>
-&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Depression on VitaminDWiki</title><link>/categories/depression.html</link><description>Recent content in Depression on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/depression/index.xml" rel="self" type="application/rss+xml"/><item><title>Depression in Chronic Kidney Disease is predicted to be 6 times more likely if low vitamin D</title><link>/posts/depression-in-chronic-kidney-disease-is-predicted-to-be-6-times-more-likely-if-low-vitamin-d.html</link><pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/depression-in-chronic-kidney-disease-is-predicted-to-be-6-times-more-likely-if-low-vitamin-d.html</guid><description/></item><item><title>Omega-3 reduces many psychiatric disorders – 2 reviews 2016</title><link>/posts/omega-3-reduces-many-psychiatric-disorders-2-reviews-2016.html</link><pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/omega-3-reduces-many-psychiatric-disorders-2-reviews-2016.html</guid><description>&lt;h3 id="supplementation-with-omega-3-fatty-acids-in-psychiatric-disorders-a-review-of-literature-data">Supplementation with Omega-3 Fatty Acids in Psychiatric Disorders: A Review of Literature Data.&lt;/h3>
+&lt;p>J Clin Med. 2016 Jul 27;5(8). pii: E67. &lt;a href="https://doi.org/10.3390/jcm5080067.">doi: 10.3390/jcm5080067.&lt;/a>&lt;/p>
+&lt;p>Bozzatello P1, Brignolo E2, De Grandi E3, Bellino S4.&lt;/p>
+&lt;p>1Centre for Personality Disorders, Department of Neuroscience, University of Turin, 10126 Turin, Italy. &lt;a href="mailto:paola.bozzatello@unito.it">paola.bozzatello@unito.it&lt;/a>.&lt;/p>
+&lt;p>2Centre for Personality Disorders, Department of Neuroscience, University of Turin, 10126 Turin, Italy. &lt;a href="mailto:elena.brignolo@yahoo.com">elena.brignolo@yahoo.com&lt;/a>.&lt;/p>
+&lt;p>3Centre for Personality Disorders, Department of Neuroscience, University of Turin, 10126 Turin, Italy. &lt;a href="mailto:elisa.degrandi@gmail.com">elisa.degrandi@gmail.com&lt;/a>.&lt;/p></description></item><item><title>Omega-3 does not consistently treat depression if use small amounts for short time period – review</title><link>/posts/omega-3-does-not-consistently-treat-depression-if-use-small-amounts-for-short-time-period-review.html</link><pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/omega-3-does-not-consistently-treat-depression-if-use-small-amounts-for-short-time-period-review.html</guid><description/></item><item><title>How Omega-3 Fights Depression – LEF</title><link>/posts/how-omega-3-fights-depression-lef.html</link><pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/how-omega-3-fights-depression-lef.html</guid><description/></item><item><title>Perinatal depression decreased 40 percent with just a few weeks of 2,000 IU of vitamin D – RCT</title><link>/posts/perinatal-depression-decreased-40-percent-with-just-a-few-weeks-of-2000-iu-of-vitamin-d-rct.html</link><pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate><guid>/posts/perinatal-depression-decreased-40-percent-with-just-a-few-weeks-of-2000-iu-of-vitamin-d-rct.html</guid><description/></item><item><title>Dopamine increased with vitamin D supplementation (in rats)</title><link>/posts/dopamine-increased-with-vitamin-d-supplementation-in-rats.html</link><pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/dopamine-increased-with-vitamin-d-supplementation-in-rats.html</guid><description>&lt;h4 id="the-vitamin-d-content-of-a-high-fat-diet-modulates-brain-reward-neurochemistry">The Vitamin D Content of a High-Fat Diet Modulates Brain Reward Neurochemistry&lt;/h4>
+&lt;p>The FASEB Journal, vol. 30 no. 1 Supplement lb202 , April 2016&lt;/p>
+&lt;p>Ruslan Kubant1, Diptendu Chatterjee1, Emanuela Pannia1 and G. Harvey Anderson1,2&lt;/p>
+&lt;p>1Nutritional Sciences, University of Toronto, Toronto, ON, Canada&lt;/p>
+&lt;p>2Physiology, University of Toronto, Toronto, ON, Canada&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>Rats on high fat diet (60% of calories)&lt;/p>
+&lt;p>Age 3 weeks to 17 weeks&lt;/p>
+&lt;p>Compare 7,000 IU vs 1000 IU of Vitamin D per kilogram of feed&lt;/p></description></item><item><title>Senior Depression and Vitamin D – review</title><link>/posts/senior-depression-and-vitamin-d-review.html</link><pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/senior-depression-and-vitamin-d-review.html</guid><description/></item><item><title>Schizophrenia sometimes associated with depression (both associated with low Vitamin D)</title><link>/posts/schizophrenia-sometimes-associated-with-depression-both-associated-with-low-vitamin-d.html</link><pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/schizophrenia-sometimes-associated-with-depression-both-associated-with-low-vitamin-d.html</guid><description/></item><item><title>Seasonal Affective Disorder - treated by both vitamin D and bright light</title><link>/posts/seasonal-affective-disorder-treated-by-both-vitamin-d-and-bright-light.html</link><pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/seasonal-affective-disorder-treated-by-both-vitamin-d-and-bright-light.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#seasonal-affective-disorder-an-overview-of-assessment-and-treatment-approaches---2015">Seasonal Affective Disorder: An Overview of Assessment and Treatment Approaches - 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#both-light-and-vitamin-d-increase-serotonin-which-reduces-depression">Both Light and Vitamin D increase Serotonin, which reduces depression&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="seasonal-affective-disorder-an-overview-of-assessment-and-treatment-approaches---2015">Seasonal Affective Disorder: An Overview of Assessment and Treatment Approaches - 2015&lt;/h4>
+&lt;p>Depression Research and Treatment, Volume 2015 (2015), 6 pages, &lt;a href="http://dx.doi.org/10.1155/2015/178564">http://dx.doi.org/10.1155/2015/178564&lt;/a>&lt;/p>
+&lt;p>Sherri Melrose, Faculty of Health Disciplines, Athabasca University, Athabasca, AB, Canada T9S 3A3&lt;/p>
+&lt;p>Seasonal affective disorder or SAD is a recurrent major depressive disorder with a seasonal pattern usually beginning in fall and continuing into winter months. A subsyndromal type of SAD, or S-SAD, is commonly known as “winter blues.” Less often, SAD causes depression in the spring or early summer. Symptoms center on sad mood and low energy. Those most at risk are female, are younger, live far from the equator, and have family histories of depression, bipolar disorder, or SAD. Screening instruments include the Seasonal Pattern Assessment Questionnaire (SPAQ). Typical treatment includes antidepressant medications, light therapy, Vitamin D, and counselling. This paper provides an overview of SAD.&lt;/p></description></item><item><title>Battling the winter blues with vitamin D (4000 IU)</title><link>/posts/battling-the-winter-blues-with-vitamin-d-4000-iu.html</link><pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/battling-the-winter-blues-with-vitamin-d-4000-iu.html</guid><description>&lt;h4 id="battling-the-winter-blues-and-seasonal-affective-disorder-with-vitamin-d">Battling the winter blues and seasonal affective disorder with vitamin D&lt;/h4>
+&lt;p>&lt;strong>NEWS RELEASE. December 14, 2015, Vitamin D Society - Canada&lt;/strong>&lt;/p>
+&lt;p>TORONTO - Canada’s long, dark winter brings with it the blahs and symptoms of seasonal affective disorder (SAD) for many, however a Canadian doctor is looking to the sunshine vitamin to aid those suffering.&lt;/p>
+&lt;p>Seasonal depression and SAD is a mental condition that develops in some individuals who do not receive enough natural light. Shorter winter days makes Canadians more at risk of the disorder, which can lead to symptoms of decreased energy to difficulty concentrating to feelings of anxiety and despair, among others.&lt;/p></description></item><item><title>Depression due to inflammation reduced by Omega-3 (children and pregnant)</title><link>/posts/depression-due-to-inflammation-reduced-by-omega-3-children-and-pregnant.html</link><pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/depression-due-to-inflammation-reduced-by-omega-3-children-and-pregnant.html</guid><description/></item><item><title>Depression not reduced when vitamin D levels less than 30 nanograms – RCT</title><link>/posts/depression-not-reduced-when-vitamin-d-levels-less-than-30-nanograms-rct.html</link><pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/depression-not-reduced-when-vitamin-d-levels-less-than-30-nanograms-rct.html</guid><description/></item><item><title>Behavior changes due to low vitamin D – in rodents</title><link>/posts/behavior-changes-due-to-low-vitamin-d-in-rodents.html</link><pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/behavior-changes-due-to-low-vitamin-d-in-rodents.html</guid><description>&lt;h3 id="the-impact-of-vitamin-d-deficiency-on-behavior-and-brain-function-in-rodents">The impact of vitamin D deficiency on behavior and brain function in rodents&lt;/h3>
+&lt;p>Current Opinion in Behavioral Sciences, Available online 26 November 2015, doi:10.1016/j.cobeha.2015.11.012&lt;/p>
+&lt;p>K Overeem1, DW Eyles1, 2, JJ McGrath1, 2, THJ Burne1, 2,&lt;/p>
+&lt;p>&lt;strong>Highlights&lt;/strong>&lt;/p>
+&lt;p>•We review studies using rodent models of vitamin D deficiency.&lt;/p>
+&lt;p>•Prenatal vitamin D deficiency alters brain development.&lt;/p>
+&lt;p>•Adult vitamin D deficiency alters behaviour.&lt;/p>
+&lt;p>Vitamin D deficiency has been proposed as an environmental risk factor for several neurological disorders. To investigate the biological plausibility of this risk factor, vitamin D (DVD) deficiency rodent models have been used to examine the impact of DVD deficiency on neurobiology and behaviour. The majority of these studies have taken a developmental stance and examined the impact of vitamin D deficiency during gestation on the adult behaviour of the &lt;strong>offspring&lt;/strong> .&lt;/p></description></item><item><title>Hypothesis – A SAD risk factor is low vitamin D</title><link>/posts/hypothesis-a-sad-risk-factor-is-low-vitamin-d.html</link><pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/hypothesis-a-sad-risk-factor-is-low-vitamin-d.html</guid><description>&lt;h3 id="possible-contributions-of-skin-pigmentation-and-vitamin-d-in-a-polyfactorial-model-of-seasonal-affective-disorder">Possible contributions of skin pigmentation and vitamin D in a polyfactorial model of seasonal affective disorder.&lt;/h3>
+&lt;p>Med Hypotheses. 2014 Nov;83(5):517-25. &lt;a href="https://doi.org/10.1016/j.mehy.2014.09.010.">doi: 10.1016/j.mehy.2014.09.010.&lt;/a> Epub 2014 Sep 18.&lt;/p>
+&lt;p>Stewart AE1, Roecklein KA2, Tanner S3, Kimlin MG4.&lt;/p>
+&lt;p>1 University of Georgia, United States. Electronic address: &lt;a href="mailto:aeswx@uga.edu">aeswx@uga.edu&lt;/a>.&lt;/p>
+&lt;p>2 University of Pittsburgh, United States.&lt;/p>
+&lt;p>3 University of Georgia, United States.&lt;/p>
+&lt;p>4 Queensland University of Technology, Australia.&lt;/p>
+&lt;p>Seasonal affective disorder (SAD) is a polyfactorial and polygenetic disorder that involves biological and psychological sub-mechanisms that differentially involve depression, seasonality, circadian rhythms, retinal sensitivity, iris pigmentation, sleep factors, and the neurotransmitters involved with these systems. Within the framework of the polyfactorial conceptualization of SAD, we review the possible contributions of vitamin D3 with respect to the aforementioned sub-mechanisms. We hypothesize that rather than functioning primarily as a proximal or direct sub-mechanism in the etiology of SAD, vitamin D likely functions in a more foundational and regulative role in potentiating the sub-mechanisms associated with the depressive and seasonality factors.&lt;/p></description></item><item><title>Depression is associated with low Magnesium – meta-analysis</title><link>/posts/depression-is-associated-with-low-magnesium-meta-analysis.html</link><pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/depression-is-associated-with-low-magnesium-meta-analysis.html</guid><description>&lt;h4 id="hypomagnesaemia-linked-to-depression-a-systematic-review-and-meta-analysis">Hypomagnesaemia linked to depression: a systematic review and meta-analysis.&lt;/h4>
+&lt;p>Intern Med J. 2015 Apr;45(4):436-40. &lt;a href="https://doi.org/10.1111/imj.12682.">doi: 10.1111/imj.12682.&lt;/a>&lt;/p>
+&lt;p>Cheungpasitporn W1, Thongprayoon C, Mao MA, Srivali N, Ungprasert P, Varothai N, Sanguankeo A, Kittanamongkolchai W, Erickson SB.&lt;/p>
+&lt;p>1Division of Nephrology and Hypertension, Mayo Clinic, Rochester, Minnesota, USA.&lt;/p>
+&lt;p>BACKGROUND: The reported risk of depression in patients with hypomagnesaemia is controversial.&lt;/p>
+&lt;p>AIM: The objective of this meta-analysis was to assess the association between depression and hypomagnesaemia.&lt;/p></description></item><item><title>Depression treated somewhat by Omega-3 (St. John's Wort better) – RAND org reviews 2015</title><link>/posts/depression-treated-somewhat-by-omega-3-st-johns-wort-better-rand-org-reviews-2015.html</link><pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/depression-treated-somewhat-by-omega-3-st-johns-wort-better-rand-org-reviews-2015.html</guid><description>&lt;h3 id="st-johns-wort-for-major-depressive-disorder--a-systematic-review">St. John&amp;rsquo;s Wort for Major Depressive Disorder – A Systematic Review&lt;/h3>
+&lt;p>Alicia Ruelaz Maher, Susanne Hempel, Eric Apaydin, Roberta M. Shanman, Marika Booth, Jeremy N. V. Miles, Melony E. Sorbero&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/st-john-s-wort-depression.pdf">Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Research Questions&lt;/strong>&lt;/p>
+&lt;p>What are the efficacy and safety of St. John&amp;rsquo;s wort, as an adjunctive or monotherapy, for depressive symptoms and quality of life in adults with major depressive disorder compared with placebo or active comparator?&lt;/p></description></item><item><title>Depression substantially decreased with Omega-3</title><link>/posts/depression-substantially-decreased-with-omega-3.html</link><pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/depression-substantially-decreased-with-omega-3.html</guid><description>&lt;h3 id="several-items-on-this-page">Several items on this page&lt;/h3>
+&lt;h4 id="short-term-supplementation-of-acute-long-chain-omega-3-polyunsaturated-fatty-acids-may-alter-depression-status-and-decrease-symptomology-among-young-adults-with-depression-a-preliminary-randomized-and-placebo-controlled-trial">Short-term supplementation of acute long-chain omega-3 polyunsaturated fatty acids may alter depression status and decrease symptomology among young adults with depression: A preliminary randomized and placebo controlled trial.&lt;/h4>
+&lt;p>Psychiatry Res. 2015 Sep 30;229(1-2):485-9. &lt;a href="https://doi.org/10.1016/j.psychres.2015.05.072.">doi: 10.1016/j.psychres.2015.05.072.&lt;/a> Epub 2015 Jun 27.&lt;/p>
+&lt;p>Ginty AT1, Conklin SM2.&lt;/p>
+&lt;p>1Department of Psychiatryy, University of Pittsburgh, Pittsburgh, PA, USA. Electronic address: &lt;a href="mailto:atg25@pitt.edu">atg25@pitt.edu&lt;/a>.&lt;/p>
+&lt;p>2Psychology, Neuroscience, and Global Health Studies, Allegheny College, Meadville, PA, USA.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
+&lt;p>Age 20 with depressive symptoms&lt;/p></description></item><item><title>Depression Hospitalization associated with low vitamin D</title><link>/posts/depression-hospitalization-associated-with-low-vitamin-d.html</link><pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/depression-hospitalization-associated-with-low-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-deficiency-and-depressive-symptomatology-in-psychiatric-patients-hospitalized-with-a-current-depressive-episode-a-factor-analytic-study">Vitamin D Deficiency and Depressive Symptomatology in Psychiatric Patients Hospitalized with a Current Depressive Episode: A Factor Analytic Study.&lt;/h4>
+&lt;p>PLoS One. 2015 Sep 23;10(9):e0138550. &lt;a href="https://doi.org/10.1371/journal.pone.0138550.">doi: 10.1371/journal.pone.0138550.&lt;/a>&lt;/p>
+&lt;p>von Känel R1, Fardad N2, Steurer N2, Horak N2, Hindermann E2, Fischer F3, Gessler K2.&lt;/p>
+&lt;p>1Department of Psychosomatic Medicine, Clinic Barmelweid, Barmelweid, Switzerland; Department of Neurology, Bern University Hospital, Inselspital, and University of Bern, Bern, Switzerland; Department of Clinical Research, University of Bern, Bern, Switzerland.&lt;/p></description></item><item><title>Depression is sometimes associated with low Magnesium – review 2013</title><link>/posts/depression-is-sometimes-associated-with-low-magnesium-review-2013.html</link><pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/depression-is-sometimes-associated-with-low-magnesium-review-2013.html</guid><description>&lt;h3 id="magnesium-and-depression-a-systematic-review">Magnesium and depression: a systematic review&lt;/h3>
+&lt;p>Nutritional Neuroscience 2013 VOL. 16 NO. 5&lt;/p>
+&lt;p>Marie-Laure Derom1, Carmen Sayon-Orea1, Jose Marfa Martfnez-Ortega2, Miguel A. Martfnez-Gonzalez1 &lt;a href="mailto:mamartinez@unav.es">mamartinez@unav.es&lt;/a>&lt;/p>
+&lt;p>1Department of Preventive Medicine and Public Health, University of Navarra, Pamplona, Spain, department of Psychiatry and Institute of Neurosciences, University of Granada, Granada, Spain&lt;/p>
+&lt;p>Introduction: The incidence of depression is increasing worldwide. Much is still unknown about the possible role of magnesium in depression prevention and treatment. Magnesium has an effect on biological and transduction pathways implicated in the pathophysiology of depression. The possible role of magnesium in depression prevention and treatment remains unclear.&lt;/p></description></item><item><title>Depression 13X more likely with polycystic ovary syndrome if low vitamin D</title><link>/posts/depression-13x-more-likely-with-polycystic-ovary-syndrome-if-low-vitamin-d.html</link><pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/depression-13x-more-likely-with-polycystic-ovary-syndrome-if-low-vitamin-d.html</guid><description>&lt;h3 id="predictors-of-depression-in-women-with-polycystic-ovary-syndrome">Predictors of depression in women with polycystic ovary syndrome.&lt;/h3>
+&lt;p>Arch Womens Ment Health. 2015 Feb;18(1):95-101. &lt;a href="https://doi.org/10.1007/s00737-014-0458-z.">doi: 10.1007/s00737-014-0458-z.&lt;/a> Epub 2014 Sep 11.&lt;/p>
+&lt;p>Naqvi SH1, Moore A, Bevilacqua K, Lathief S, Williams J, Naqvi N, Pal L.&lt;/p>
+&lt;p>The University of Connecticut, Storrs, CT, USA.&lt;/p>
+&lt;p>The aim of this study is to assess the prevalence and predictors of depressive symptoms in women with polycystic ovary syndrome (PCOS). In a cross-sectional study of 114 women seeking consultation for symptoms of PCOS (menstrual irregularity, hirsutism, and/or acne), personal and family &lt;strong>history of depression (HD&lt;/strong> and FHD respectively) were enquired. Vitamin D status (n = 104) and manifest depressive symptoms assessed by personal health questionnaire (PHQ) (MD) were evaluated in a subset (85). Relationships between HD and MD with PCOS symptoms, FHD, and vitamin D status were assessed using adjusted analyses. Thirty-five percent acknowledged a HD; MD (PHQ &amp;gt; 4) was apparent in 43 %.&lt;/p></description></item><item><title>Psychiatric distress 2.4X more likely if low vitamin D</title><link>/posts/psychiatric-distress-24x-more-likely-if-low-vitamin-d.html</link><pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/psychiatric-distress-24x-more-likely-if-low-vitamin-d.html</guid><description>&lt;h4 id="the-association-of-vitamin-d-deficiency-with-psychiatric-distress-and-violence-behaviors-in-iranian-adolescents-the-caspian-iii-study">The association of vitamin D deficiency with psychiatric distress and violence behaviors in Iranian adolescents: the CASPIAN-III study&lt;/h4>
+&lt;p>Journal of Diabetes &amp;amp; Metabolic Disorders, July 2015, 14:62,&lt;/p>
+&lt;p>Asal Ataie-Jafari, Mostafa Qorbani, Ramin Heshmat, Gelayol Ardalan, Mohammad Esmaeil Motlagh, Hamid Asayesh, Seyed Masoud Arzaghi, Mohammad Hasan Tajadini, Sara Nejatinamini, Parinaz Poursafa,&lt;/p>
+&lt;h4 id="1-to-2-reduction-per-nanogram-of-vitamin-d">1 to 2% reduction PER NANOGRAM of Vitamin D&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/distress-per-ng.jpg" alt="image">
+&lt;p>Background: Subtle effects of vitamin D deficiency on behavior have been suggested. We investigated the association of vitamin D status with mental health and violence behaviors in a sample of Iranian adolescents.&lt;/p></description></item><item><title>Omega-3 for just 3 months greatly reduced psychosis for 80 months – RCT</title><link>/posts/omega-3-for-just-3-months-greatly-reduced-psychosis-for-80-months-rct.html</link><pubDate>Sun, 16 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/omega-3-for-just-3-months-greatly-reduced-psychosis-for-80-months-rct.html</guid><description>&lt;h4 id="longer-term-outcome-in-the-prevention-of-psychotic-disorders-by-the-vienna-omega-3-study">Longer-term outcome in the prevention of psychotic disorders by the Vienna omega-3 study&lt;/h4>
+&lt;p>Nature Communications 6, Article number: 7934 doi:10.1038/ncomms8934&lt;/p>
+&lt;p>G. Paul Amminger,	Miriam R. Schäfer,	Monika Schlögelhofer,	Claudia M. Klier	&amp;amp; Patrick D. McGorry&lt;/p>
+&lt;h4 id="survival-without-psychotic-event-clipped-from-pdf">Survival without psychotic event (clipped from PDF)&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/omega-3-psychotic.jpg" alt="image">
+&lt;p>Long-chain omega-3 polyunsaturated fatty acids (PUFAs) are essential for neural development and function. As key components of brain tissue, omega-3 PUFAs play critical roles in brain development and function, and a lack of these fatty acids has been implicated in a number of mental health conditions over the lifespan, including schizophrenia.&lt;/p></description></item><item><title>Omega-3 prevents PTSD and some mood disorders</title><link>/posts/omega-3-prevents-ptsd-and-some-mood-disorders.html</link><pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/omega-3-prevents-ptsd-and-some-mood-disorders.html</guid><description>&lt;h3 id="omega-3-polyunsaturated-fatty-acids-in-prevention-of-mood-and-anxiety-disorders">Omega-3 Polyunsaturated Fatty Acids in Prevention of Mood and Anxiety Disorders.&lt;/h3>
+&lt;p>Clin Psychopharmacol Neurosci. 2015 Aug 31;13(2):129-37. &lt;a href="https://doi.org/10.9758/cpn.2015.13.2.129.">doi: 10.9758/cpn.2015.13.2.129.&lt;/a>&lt;/p>
+&lt;p>Su KP1,2, Matsuoka Y3, Pae CU4.&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/omega-3-mood-f1.jpg" alt="image">
+&lt;p>Psychiatric disorders in general, and major depression and anxiety disorders in particular, account for a large burden of disability, morbidity and premature mortality worldwide. Omega-3 polyunsaturated fatty acids (PUFAs) have a range of neurobiological activities in modulation of neurotransmitters, anti-inflammation, anti-oxidation and neuroplasticity, which could contribute to psychotropic effects. Here we reviewed recent research on the benefits of omega-3 PUFA supplements in prevention against major depression, bipolar disorders, interferon-α-induced depression patients with chronic hepatitis C viral infection, and &lt;strong>posttraumatic stress disorder&lt;/strong> . The biological mechanisms underlying omega-3 PUFAs&amp;rsquo;psychotropic effects are proposed and reviewed. Nutrition is a modifiable environmental factor that might be important in prevention medicine, which have been applied for many years in the secondary prevention of heart disease with omega-3 PUFAs. This review extends the notion that nutrition in psychiatry is a modifiable environmental factor and calls for more researches on prospective clinical studies to justify the preventive application of omega-3 PUFAs in daily practice.&lt;/p></description></item><item><title>Vitamin D for depression and PCOS: killing two birds with one stone ( should be 60 birds)</title><link>/posts/vitamin-d-for-depression-and-pcos-killing-two-birds-with-one-stone-should-be-60-birds.html</link><pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-for-depression-and-pcos-killing-two-birds-with-one-stone-should-be-60-birds.html</guid><description>&lt;h4 id="vitamin-d-supplementation-for-depression-in-women-with-polycystic-ovary-syndrome-killing-two-birds-with-one-stone">Vitamin D supplementation for depression in women with polycystic ovary syndrome: killing two birds with one stone?&lt;/h4>
+&lt;p>Arch Womens Ment Health. 2015 Jul 16&lt;/p>
+&lt;p>Xiang S1, Wu Y, Wang L, Hua F.&lt;/p>
+&lt;p>1Department of Endocrinology, Third Affiliated Hospital of Soochow University, Changzhou, 213003, Jiangsu, China.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
+&lt;p>1 page letter to editor, Case report - 1 woman&lt;/p>
+&lt;p>1200 IU daily for 6 months&lt;/p>
+&lt;p>Raised vitamin D level from 16 ng ==&amp;gt; 43 ng&lt;/p></description></item><item><title>Depression 7X more likely in male youths if low vitamin D</title><link>/posts/depression-7x-more-likely-in-male-youths-if-low-vitamin-d.html</link><pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/depression-7x-more-likely-in-male-youths-if-low-vitamin-d.html</guid><description>&lt;h4 id="serum-25-hydroxyvitamin-d-concentrations-and-depressive-symptoms-among-young-adult-men-and-women">Serum 25-hydroxyvitamin D concentrations and depressive symptoms among young adult men and women.&lt;/h4>
+&lt;p>Nutrients. 2014 Oct 28;6(11):4720-30. &lt;a href="https://doi.org/10.3390/nu6114720.">doi: 10.3390/nu6114720.&lt;/a>&lt;/p>
+&lt;p>Polak MA1, Houghton LA2, Reeder AI3, Harper MJ4, Conner TS5.&lt;/p>
+&lt;p>1Department of Psychology, University of Otago, Dunedin 9054, New Zealand. &lt;a href="mailto:mariapolak@psy.otago.ac.nz">mariapolak@psy.otago.ac.nz&lt;/a>.&lt;/p>
+&lt;p>2Department of Human Nutrition, University of Otago, Dunedin 9054, New Zealand. &lt;a href="mailto:lisa.houghton@otago.ac.nz">lisa.houghton@otago.ac.nz&lt;/a>.&lt;/p>
+&lt;p>3Cancer Society Social and Behavioural Research Unit, Department of Preventive and Social Medicine, University of Otago, Dunedin 9054, New Zealand. &lt;a href="mailto:tony.reeder@otago.ac.nz">tony.reeder@otago.ac.nz&lt;/a>.&lt;/p>
+&lt;p>4Department of Human Nutrition, University of Otago, Dunedin 9054, New Zealand. &lt;a href="mailto:michelle.harper@otago.ac.nz">michelle.harper@otago.ac.nz&lt;/a>.&lt;/p></description></item><item><title>Elderly depression associated with low vitamin D</title><link>/posts/elderly-depression-associated-with-low-vitamin-d.html</link><pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/elderly-depression-associated-with-low-vitamin-d.html</guid><description/></item><item><title>Depression in youths associated with low vitamin D during pregnancy</title><link>/posts/depression-in-youths-associated-with-low-vitamin-d-during-pregnancy.html</link><pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/depression-in-youths-associated-with-low-vitamin-d-during-pregnancy.html</guid><description>&lt;h4 id="vitamin-d-measured-in-maternal-serum-and-offspring-neurodevelopmental-outcomes-a-prospective-study-with-long-term-follow-up">Vitamin D measured in maternal serum and offspring neurodevelopmental outcomes: a prospective study with long-term follow-up.&lt;/h4>
+&lt;p>Ann Nutr Metab. 2014;64(3-4):254-61. &lt;a href="https://doi.org/10.1159/000365030.">doi: 10.1159/000365030.&lt;/a> Epub 2014 Oct 2.&lt;/p>
+&lt;p>Strøm M1, Halldorsson TI, Hansen S, Granström C, Maslova E, Petersen SB, Cohen AS, Olsen SF.&lt;/p>
+&lt;p>1Centre for Fetal Programming, Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Vitamin D is obtained from dietary sources and synthesized in the skin during exposure to ultraviolet B radiation in sunlight. During pregnancy, vitamin D is transported from mother to fetus through the placenta in the form of 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span>. There is evidence that vitamin D influences neuronal differentiation, endocrine functions, and fetal brain growth. Animal studies indicate alterations in the offspring brain as a consequence of vitamin D deficiency during pregnancy. In humans, maternal vitamin D insufficiency has been linked to impaired child language development. Using data from a prebirth cohort with up to 22 years of follow-up, we examined the association of vitamin D status with proxies of offspring neurodevelopmental outcomes. During 1988-1989, pregnant women were recruited for the DaFO88 cohort (n = 965) in Aarhus, Denmark. Maternal concentrations of 25(OH)D were quantified in serum from week 30 of gestation via the LC-MS/MS method (n = 850). Offspring were followed up through national registries until the age of 22 years. We evaluated the association of the maternal concentration of 25(OH)D with offspring neurodevelopmental outcomes defined as first admission diagnosis or prescription of medication for (1) ADHD, (2) depression, and (3) scholastic achievement based on the mean grade on standardized written examinations in the 9th grade (final exams after 10 years of compulsory school in Denmark).&lt;/p></description></item><item><title>Omega-3, Vitamin D, and other nutrients decrease mental health problems</title><link>/posts/omega-3-vitamin-d-and-other-nutrients-decrease-mental-health-problems.html</link><pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate><guid>/posts/omega-3-vitamin-d-and-other-nutrients-decrease-mental-health-problems.html</guid><description>&lt;h3 id="from-importance-of-a-balanced-diet-for-mental-healthhttpwwwsciencedailycomreleases201506150608081759htm-science-daily">From &lt;a href="http://www.sciencedaily.com/releases/2015/06/150608081759.htm">Importance of a balanced diet for mental health&lt;/a> Science Daily&lt;/h3>
+&lt;p>Omega-3, essential amino acids, B-group vitamins (B12 and folate), vitamin D and minerals like zinc, magnesium and iron.&lt;/p>
+&lt;p>A balanced and high-quality diet, such as the Mediterranean, provides all of these, the researchers note.&lt;/p>
+&lt;p>Jerome Sarris, Alan C Logan, Tasnime N Akbaraly, G Paul Amminger, Vicent Balanzá-Martínez, Marlene P Freeman, Joseph Hibbeln, Yutaka Matsuoka, David Mischoulon, Tetsuya Mizoue, Akiko Nanri, Daisuke Nishi, Drew Ramsey, Julia J Rucklidge, Almudena Sanchez-Villegas, Andrew Scholey, Kuan-Pin Su, Felice N Jacka. Nutritional medicine as mainstream in psychiatry. The Lancet Psychiatry, 2015; 2 (3): 271 DOI:10.1016/S2215-0366(14)00051-0&lt;/p></description></item><item><title>Most depression drugs are carcinogenic in animals, but vitamin D is not</title><link>/posts/most-depression-drugs-are-carcinogenic-in-animals-but-vitamin-d-is-not.html</link><pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate><guid>/posts/most-depression-drugs-are-carcinogenic-in-animals-but-vitamin-d-is-not.html</guid><description/></item><item><title>Light Therapy Lamp reviews - for Seasonal Affective Disorder - 2024, 2015</title><link>/posts/light-therapy-lamp-reviews-for-seasonal-affective-disorder-2024-2015.html</link><pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate><guid>/posts/light-therapy-lamp-reviews-for-seasonal-affective-disorder-2024-2015.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#do-seasonally-affective-disorder-lights-work-asked-perplexity-ai-sept2024">Do Seasonally Affective Disorder lights work? Asked Perplexity AI Sept 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#do-sad-lamps-actually-work---video-oct2021">Do SAD Lamps Actually Work? - Video Oct 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#light-therapy-lamps-2015httplight-therapy-lamps-reviewtoptenreviewscom-top-10-reviews---a-great-service-not-available-sept2024">&lt;a href="http://light-therapy-lamps-review.toptenreviews.com/">Light Therapy Lamps 2015&lt;/a> Top 10 reviews - a great service (not available Sept 2024)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sad-can-treated-in-most-cases-by-just-bright-lightbut">SAD can treated in most cases by just bright light, but&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-alsovitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="do-seasonally-affective-disorder-lights-work-asked-perplexity-ai-sept2024">Do Seasonally Affective Disorder lights work? Asked Perplexity AI Sept 2024&lt;/h4>
+&lt;p>Bright light therapy has been shown to be an effective treatment for Seasonal Affective Disorder (SAD) and other types of depression. Here are the key points about the efficacy of SAD lights:&lt;/p></description></item><item><title>No longer depressed, but risk of stroke is still 1.7X higher (did not consider low vitamin D)</title><link>/posts/no-longer-depressed-but-risk-of-stroke-is-still-17x-higher-did-not-consider-low-vitamin-d.html</link><pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate><guid>/posts/no-longer-depressed-but-risk-of-stroke-is-still-17x-higher-did-not-consider-low-vitamin-d.html</guid><description>&lt;h4 id="depression-tied-to-stroke-risk-even-if-symptoms-easehttpwellblogsnytimescom20150518depression-tied-to-stroke-risk-even-if-symptoms-ease-new-york-times">&lt;a href="http://well.blogs.nytimes.com/2015/05/18/depression-tied-to-stroke-risk-even-if-symptoms-ease/">Depression Tied to Stroke Risk, Even if Symptoms Ease&lt;/a> New York Times&lt;/h4>
+&lt;p>The study was published in (J Am Heart Assoc. 2015;4:e001923 &lt;a href="https://doi.org/10.1161/JAHA.115.001923">doi: 10.1161/JAHA.115.001923&lt;/a>&lt;/p>
+&lt;h3 id="increased-risk-of-stroke--all-ages">Increased risk of stroke – all ages&lt;/h3>
+&lt;h4 id="-no-longer">|| |No longer&lt;/h4>
+&lt;p>depressed |Still&lt;br>
+depressed&lt;/p>
+&lt;p>White Non-Hispanic | 1.66 | 2.00&lt;/p>
+&lt;p>Black Non-Hispanic |1.67 | 2.53&lt;/p>
+&lt;p>Hispanic | 2.36 | 4.14&lt;/p>
+&lt;p>Female |1.86 |1.96 ||&lt;/p>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/depression-then-stroke.pdf">Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Suicide rate among Native American teens increasing (yet no mention of low vitamin D)</title><link>/posts/suicide-rate-among-native-american-teens-increasing-yet-no-mention-of-low-vitamin-d.html</link><pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate><guid>/posts/suicide-rate-among-native-american-teens-increasing-yet-no-mention-of-low-vitamin-d.html</guid><description/></item><item><title>Depression greatly reduced with higher levels of vitamin D</title><link>/posts/depression-greatly-reduced-with-higher-levels-of-vitamin-d.html</link><pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/depression-greatly-reduced-with-higher-levels-of-vitamin-d.html</guid><description>&lt;p>&lt;strong>PDF password protected, so VitaminDWiki unable to get text for translation&lt;/strong>&lt;/p>
+&lt;h3 id="depression-vs-levels-of-vitamin-d">Depression vs levels of vitamin D&lt;/h3>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/depression-2014.jpg" alt="image">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/depression-2014-title.jpg" alt="image">
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/polak-uv-workshop-2014.pdf">Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Low Vitamin D Permeates All Stages of Psychosis</title><link>/posts/low-vitamin-d-permeates-all-stages-of-psychosis.html</link><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-permeates-all-stages-of-psychosis.html</guid><description>&lt;h4 id="vitamin-d-and-its-clinical-correlates-in-early-and-established-psychosis">VITAMIN D AND ITS CLINICAL CORRELATES IN EARLY AND ESTABLISHED PSYCHOSIS&lt;/h4>
+&lt;p>Presented at 15th International Congress on Schizophrenia Research (ICOSR)&lt;/p>
+&lt;p>Schizophr Bull (2015) 41 (suppl 1): S1-S341. &lt;a href="https://doi.org/10.1093/schbul/sbv010">doi: 10.1093/schbul/sbv010&lt;/a>&lt;/p>
+&lt;p>Fiona Gaughran, MD, FRCPsych, FRCPI, FRCP; John Lally, MB MRCPsych; Pooanm Gardner-Sood; Muhammad Firdosi; Susan Moore; Oliver D Howes, PhD DM; Shubulade Smith; Robin Murray, Doctor of Medicine&lt;/p>
+&lt;p>Psychosis Studies, Institute of Psychiatry, London, United Kingdom&lt;/p>
+&lt;p>&lt;strong>reviewed as &lt;a href="http://www.medpagetoday.com/Endocrinology/GeneralEndocrinology/50875">Low Vitamin D Permeates All Stages of Psychosis&lt;/a> MedPageToday&lt;/strong>&lt;/p></description></item><item><title>Seasonal affective disorder not treated by 2800 IU of vitamin D (no surprise) – RCT</title><link>/posts/seasonal-affective-disorder-not-treated-by-2800-iu-of-vitamin-d-no-surprise-rct.html</link><pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/seasonal-affective-disorder-not-treated-by-2800-iu-of-vitamin-d-no-surprise-rct.html</guid><description>&lt;h4 id="vitamin-d-supplementation-for-treatment-of-seasonal-affective-symptoms-in-healthcare-professionals-a-double-blind-randomised-placebo-controlled-trial">Vitamin D supplementation for treatment of seasonal affective symptoms in healthcare professionals: a double-blind randomised placebo-controlled trial.&lt;/h4>
+&lt;p>BMC Res Notes. 2014 Aug 14;7:528. &lt;a href="https://doi.org/10.1186/1756-0500-7-528.">doi: 10.1186/1756-0500-7-528.&lt;/a>&lt;/p>
+&lt;p>Frandsen TB1, Pareek M, Hansen JP, Nielsen CT.&lt;/p>
+&lt;p>1Department of Mental Health Services Esbjerg, Gl, Vardevej 101, 6715 Esbjerg N, Denmark. &lt;a href="mailto:tennabf@gmail.com">tennabf@gmail.com&lt;/a>.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Low serum 25-hydroxyvitamin D levels (25(OH)D) have been associated with a higher likelihood of seasonal affective disorder (SAD) and poor mental well-being, yet firm evidence for either remains lacking. Thus, vitamin D supplementation may alleviate symptoms associated with SAD.&lt;/p></description></item><item><title>Depression 30 percent less likely if more than 30 ng of vitamin D</title><link>/posts/depression-30-percent-less-likely-if-more-than-30-ng-of-vitamin-d.html</link><pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/depression-30-percent-less-likely-if-more-than-30-ng-of-vitamin-d.html</guid><description>&lt;h4 id="low-serum-25-hydroxyvitamin-d-concentrations-are-associated-with-increased-likelihood-of-having-depressive-symptoms-among-japanese-workers">Low Serum 25-Hydroxyvitamin D Concentrations Are Associated with Increased Likelihood of Having Depressive Symptoms among Japanese Workers.&lt;/h4>
+&lt;p>J Nutr. 2015 Mar;145(3):541-6. &lt;a href="https://doi.org/10.3945/jn.114.204115.">doi: 10.3945/jn.114.204115.&lt;/a> Epub 2014 Dec 31.&lt;/p>
+&lt;p>Mizoue T1, Kochi T2, Akter S3, Eguchi M2, Kurotani K3, Tsuruoka H2, Kuwahara K4, Ito R2, Kabe I2, Nanri A3.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Accumulating evidence suggests a protective role of vitamin D against mood disorders; however, epidemiologic studies are scarce in working populations.&lt;/p>
+&lt;p>OBJECTIVE:&lt;/p>
+&lt;p>We investigated cross-sectionally the association of serum vitamin D status and depressive symptoms among Japanese workers.&lt;/p></description></item><item><title>ALL of the top 10 health problems of women are associated with low vitamin D</title><link>/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d.html</link><pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d.html</guid><description>&lt;h4 id="major-causes-of-all-dalys-2003--2023--females">Major Causes of all DALYs 2003 &amp;amp; 2023 – Females&lt;/h4>
+&lt;h4 id="condition2003-2023">||Condition|2003| |2023|&lt;/h4>
+&lt;p>&lt;a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;deep=off&amp;amp;type=">Anxiety - Depression&lt;/a>|10.0%|1|8.7%|1&lt;/p>
+&lt;p>&lt;a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Type 2 Diabetes&lt;/a>|4.9%|4|8.0%|2&lt;/p>
+&lt;p>&lt;a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Dementia&lt;/a>|4.8%|5|7.4%|3&lt;/p>
+&lt;p>&lt;a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Ischaemic Heart&lt;/a> |8.9%|2|6.1%|4&lt;/p>
+&lt;p>&lt;a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Stroke&lt;/a>|5.1%|3|3.8%|5&lt;/p></description></item><item><title>Depression appears to consume vitamin D</title><link>/posts/depression-appears-to-consume-vitamin-d.html</link><pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/depression-appears-to-consume-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-concentration-and-its-association-with-past-current-and-future-depression-in-older-men-the-health-in-men-study">Vitamin D concentration and its association with past, current and future depression in older men: The Health In Men Study&lt;/h4>
+&lt;p>Maturitas DOI: &lt;a href="http://dx.doi.org/10.1016/j.maturitas.2015.01.016">http://dx.doi.org/10.1016/j.maturitas.2015.01.016&lt;/a> Received: January 21, 2015; Accepted: January 31, 2015; Published Online: February 09, 2015&lt;/p>
+&lt;p>Osvaldo P. Almeidac &lt;a href="mailto:osvaldo.almeida@uwa.edu.au">osvaldo.almeida@uwa.edu.au&lt;/a> , Graeme J. Hankey, Bu B. Yeap, Jonathan Golledge, Leon Flicker&lt;/p>
+&lt;p>&lt;strong>Highlights&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Existing evidence from observational studies and randomised controlled trials suggests that low concentration of vitamin D is associated with depression, although findings are not compelling.&lt;/p></description></item><item><title>Clinical Trials of vitamin D can have “biological flaws”</title><link>/posts/clinical-trials-of-vitamin-d-can-have-biological-flaws.html</link><pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate><guid>/posts/clinical-trials-of-vitamin-d-can-have-biological-flaws.html</guid><description>&lt;h3 id="vitamin-d-for-treatment-of-depressionhttpwwwvitamindcouncilorgblogvitamin-d-for-treatment-of-depression-vitamin-d-council">&lt;a href="http://www.vitamindcouncil.org/blog/vitamin-d-for-treatment-of-depression/#">Vitamin D for treatment of depression&lt;/a> Vitamin D Council&lt;/h3>
+&lt;h4 id="dr-cannell-references-two-studies-on-vitamindwiki">Dr. Cannell references two studies on VitaminDWiki&lt;/h4>
+&lt;p>&lt;a href="/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data">Anti-depression medication about as good as big increase in vitamin D – meta-analysis of flawless data April 2014&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/posts/why-randomized-controlled-trials-of-calcium-and-vitamin-d-sometimes-fail" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012">Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012&lt;/a>&lt;/p></description></item><item><title>Depression 2X more common among diabetics, both associated with low vitamin D – 2014</title><link>/posts/depression-2x-more-common-among-diabetics-both-associated-with-low-vitamin-d-2014.html</link><pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/depression-2x-more-common-among-diabetics-both-associated-with-low-vitamin-d-2014.html</guid><description>&lt;h3 id="the-relation-between-vitamin-d-levels-and-depression-in-type-1-diabetic-patients">The Relation between Vitamin D Levels and Depression in Type 1 Diabetic Patients&lt;/h3>
+&lt;p>Hanan M. Amer1, Manal M. AbuShady1, Rania Sayed Abdel Baky1, Hesham Fathi Khedr1, Hanan Hussien2,&lt;/p>
+&lt;p>Samya El-Tohamy Ismaeel3&lt;/p>
+&lt;p>Division of Endocrinology, Department of Internal medicine. Faculty of Medicine, Ain Shams University. Cairo, Egypt.&lt;/p>
+&lt;p>Neuropsychiatry department, Faculty of Medicine, Ain Shams University. Cairo, Egypt.&lt;/p>
+&lt;p>Biochemistry department, Faculty of Medicine, Ain Shams University. Cairo, Egypt.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
+#### ||Controls |62 nmol
+&lt;p>T1D| 23 nmol&lt;/p></description></item><item><title>Post stroke depression 9X more likely if low vitamin D</title><link>/posts/post-stroke-depression-9x-more-likely-if-low-vitamin-d.html</link><pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/post-stroke-depression-9x-more-likely-if-low-vitamin-d.html</guid><description>&lt;h3 id="low-serum-levels-of-vitamin-d-are-associated-with-post-stroke-depression">Low serum levels of vitamin D are associated with post-stroke depression.&lt;/h3>
+&lt;p>Eur J Neurol. 2014 Dec 2. &lt;a href="https://doi.org/10.1111/ene.12607.">doi: 10.1111/ene.12607.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Han B1, Lyu Y, Sun H, Wei Y, He J.&lt;/p>
+&lt;p>BACKGROUND AND PURPOSE:&lt;/p>
+&lt;p>Low serum levels of vitamin D have been associated with depression in non-stroke subjects. Our aim was to examine the possible association between serum vitamin D levels and the development of post-stroke depression (PSD).&lt;/p>
+&lt;p>METHODS:&lt;/p></description></item><item><title>Depression and low Vitamin D – review 2014</title><link>/posts/depression-and-low-vitamin-d-review-2014.html</link><pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/depression-and-low-vitamin-d-review-2014.html</guid><description>&lt;h3 id="does-vitamin-d-play-a-role-in-depression-a-review-of-clinical-epidemiological-and-biological-studies">Does Vitamin D Play a Role in Depression? A Review of Clinical, Epidemiological and Biological Studies&lt;/h3>
+&lt;p>Current Nutrition &amp;amp; Food Science, VOLUME: 10. ISSUE: 1, Pages 16-28 (13) DOI: 10.2174/15734013113096660010 -&lt;/p>
+&lt;p>Goran Hogberg, Per Bech, Tore Hallstrom and Maria Petersson&lt;/p>
+&lt;p>BUP Huddinge, Paradistorg 4, 141 46 Huddinge, Sweden.&lt;/p>
+&lt;p>There is a growing interest in the possible associations between vitamin D and depression. In this mini-review we present diagnostic criteria of different depression scales, with special focus on somatic complaints, possible links between depression and vitamin D and an overview of studies on vitamin D levels / vitamin D supplementation in depressed patients. We observed that complaints of a somatic character, potentially linked to vitamin D deficiency, are important parts of the diagnostic assessment in depression.&lt;/p></description></item><item><title>Slight depression not reduced by adding vitamin D if already had enough (no surprise) – meta-analysis</title><link>/posts/slight-depression-not-reduced-by-adding-vitamin-d-if-already-had-enough-no-surprise-meta-analysis.html</link><pubDate>Wed, 12 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/slight-depression-not-reduced-by-adding-vitamin-d-if-already-had-enough-no-surprise-meta-analysis.html</guid><description>&lt;h4 id="vitamin-d-supplementation-to-reduce-depression-in-adults-meta-analysis-of-randomised-controlled-trials">Vitamin D supplementation to reduce depression in adults: Meta-analysis of Randomised Controlled Trials&lt;/h4>
+&lt;p>Nutrition DOI: 10.1016/j.nut.2014.06.017 Available online 11 November 2014&lt;/p>
+&lt;p>Usha Gowda, MHN1, Mutsa P. Mutowo, MPH1, Ben J. Smith, PhD1, Anita E. Wluka, PhD2, Andre M.N. Renzaho, PhD1, 3, , , ,&lt;/p>
+&lt;p>Objective&lt;/p>
+&lt;p>To estimate the weighted mean effect of vitamin D supplementation in reducing depressive symptoms among the adults aged 18 years or older diagnosed with depression or depressive symptoms.&lt;/p></description></item><item><title>Mental stress significantly lowered the vitamin D levels of Heart patients</title><link>/posts/mental-stress-significantly-lowered-the-vitamin-d-levels-of-heart-patients.html</link><pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate><guid>/posts/mental-stress-significantly-lowered-the-vitamin-d-levels-of-heart-patients.html</guid><description>&lt;h4 id="association-of-vitamin-d-status-with-mental-stress-induced-myocardial-ischemia-in-patients-with-coronary-artery-disease">Association of vitamin d status with mental stress-induced myocardial ischemia in patients with coronary artery disease.&lt;/h4>
+&lt;p>Psychosom Med. 2014 Sep;76(7):569-75. &lt;a href="https://doi.org/10.1097/PSY.0000000000000088.">doi: 10.1097/PSY.0000000000000088.&lt;/a>&lt;/p>
+&lt;p>Ramadan R1, Vaccarino V, Esteves F, Sheps DS, Bremner JD, Raggi P, Quyyumi AA.&lt;/p>
+&lt;p>From the Department of Medicine (R.R., V.V., A.Q.),&lt;/p>
+&lt;p>Division of Cardiology, and Departments of Radiology (F.E.) and Psychiatry, (J.D.B.),&lt;/p>
+&lt;p>Emory University School of Medicine, Atlanta, Georgia; Department of Epidemiology (V.V.),&lt;/p>
+&lt;p>Emory University Rollins School of Public Health, Atlanta, Georgia; Department of Epidemiology (D.S.S.),&lt;/p></description></item><item><title>Adults with intellectual disabilities under psychiatric care have low levels of vitamin D</title><link>/posts/adults-with-intellectual-disabilities-under-psychiatric-care-have-low-levels-of-vitamin-d.html</link><pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/adults-with-intellectual-disabilities-under-psychiatric-care-have-low-levels-of-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-deficiency-in-patients-with-intellectual-disabilities-prevalence-risk-factors-and-management-strategies">Vitamin D deficiency in patients with intellectual disabilities: prevalence, risk factors and management strategies&lt;/h4>
+&lt;p>British Journal of Psych&lt;/p>
+&lt;p>Valeria Frighi &lt;a href="mailto:valeria.frighi@psych.ox.ac.uk">valeria.frighi@psych.ox.ac.uk&lt;/a>, Alireza Morovat, Matthew T. Stephenson, Sarah J. White, Christina V. Hammond and Guy M. Goodwin&lt;/p>
+&lt;p>Valeria Frighi, MD, Department of Psychiatry, University of Oxford and Oxfordshire Learning Disability NHS Trust (now Southern Health NHS Foundation Trust), Oxford; Alireza Morovat, PhD, FRCPath, Department of Clinical Biochemistry, Oxford University Hospitals NHS Trust, Oxford; Matthew T. Stephenson, FRCPsych, MSysPsych, Oxfordshire Learning Disability NHS Trust (now Southern Health NHS Foundation Trust), Oxford; Sarah J. White, RGN, Oxford Centre for Diabetes, Endocrinology and Metabolism, University of Oxford, Oxford; Christina V. Hammond, BSc, Guy M. Goodwin, Dphil, FRCPsych, FMedSci, Department of Psychiatry, University of Oxford, Oxford, UK&lt;/p></description></item><item><title>Less recent sun, more suicide (similar title to our short video: less sun, more disease)</title><link>/posts/less-recent-sun-more-suicide-similar-title-to-our-short-video-less-sun-more-disease.html</link><pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/less-recent-sun-more-suicide-similar-title-to-our-short-video-less-sun-more-disease.html</guid><description>&lt;h3 id="direct-effect-of-sunshine-on-suicide">Direct Effect of Sunshine on Suicide&lt;/h3>
+&lt;p>JAMA Psychiatry. Published online September 10, 2014. doi:10.1001/jamapsychiatry.2014.1198 Benjamin Vyssoki, MD1; Nestor D. Kapusta, MD, PhD2; Nicole Praschak-Rieder, MD, PhD1; Georg Dorffner, PhD3; Matthaeus Willeit, MD, PhD1&lt;/p>
+&lt;p>Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria&lt;/p>
+&lt;p>2Department of Psychoanalysis and Psychotherapy, Medical University of Vienna, Vienna, Austria&lt;/p>
+&lt;p>3Section for Artificial Intelligence, Medical University of Vienna, Vienna, Austria&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:>60%">
+&lt;p>30 years of data from Austria:&lt;/p></description></item><item><title>Postpartum depression 7X more likely if less than 10 ng of vitamin D</title><link>/posts/postpartum-depression-7x-more-likely-if-less-than-10-ng-of-vitamin-d.html</link><pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/postpartum-depression-7x-more-likely-if-less-than-10-ng-of-vitamin-d.html</guid><description>&lt;h4 id="association-between-serum-25-hydroxyvitamin-d-levels-measured-24-hours-after-delivery-and-postpartum-depression">Association between serum 25-hydroxyvitamin D levels measured 24 hours after delivery and postpartum depression.&lt;/h4>
+&lt;p>BJOG. 2014 Sep 19. &lt;a href="https://doi.org/10.1111/1471-0528.13111.">doi: 10.1111/1471-0528.13111.&lt;/a> &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Fu CW1, Liu JT, Tu WJ, Yang JQ, Cao Y.&lt;/p>
+&lt;p>OBJECTIVE:&lt;/p>
+&lt;p>To assess the possible relationship between serum levels of 25&lt;span>[OH]&lt;/span>D (25-hydroxyvitamin D) collected 24 hours after delivery and postpartum depression in a Chinese cohort sample.&lt;/p>
+&lt;p>DESIGN: Cohort study.&lt;/p>
+&lt;p>SETTING: One city hospital in Beijing, China.&lt;/p>
+&lt;p>POPULATION: Women delivering a full-term, singleton, live-born infant at one city hospital in Beijing between August 2013 and November 2013.&lt;/p></description></item><item><title>Suicide associated with low vitamin D - many studies</title><link>/posts/suicide-associated-with-low-vitamin-d-many-studies.html</link><pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/suicide-associated-with-low-vitamin-d-many-studies.html</guid><description>&lt;!-- ~tc~ start ~/tc~ -->
+&lt;p>&lt;strong>&lt;span style="color:#F06;">7&lt;/span> Hints that suicide is associated with low vitamin D:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;ol>
+&lt;li>Giving Vitamin D &lt;a href="https://VitaminDWiki.com/Suicide+associated+with+low+vitamin+D+-+many+studies#Vitamin_D_given_to_veterans_likely_to_suicide_45_decrease_in_suicide_attempts_-_Feb_2023">decreases suicide attempts&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="2">
+&lt;li>Suicide peaks in the Spring, when vitamin D values are lowest&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="3">
+&lt;li>Suicide has increased while vitamin D has been &lt;a href="/posts/crashing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 10189">crashing&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="4">
+&lt;li>Suicide higher in dark-skinned individuals (low vitamin D due to built-in sun protection)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="5">
+&lt;li>Suicide higher in prison (shut-ins have low levels of vitamin D)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="6">
+&lt;li>&lt;a href="/posts/suicide-attempts-by-males-37-x-more-likely-if-poor-vitamin-d-gene-cyp24a1" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Suicide attempts by males 3.7 X more likely if poor Vitamin D gene (CYP24A1) – Oct 2021">Suicide attempts by males 3.7 X more likely if poor Vitamin D gene (CYP24A1) – Oct 2021&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="7">
+&lt;li>Suicide rate is higher at high latitudes (where vitamin D is less available)&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>See &lt;a href="/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Criteria to associate a health problem with low vitamin D">Criteria to associate a health problem with low vitamin D&lt;/a>&lt;/p></description></item><item><title>Just 1500 IU of Vitamin D significantly helps Prozac – RCT</title><link>/posts/just-1500-iu-of-vitamin-d-significantly-helps-prozac-rct.html</link><pubDate>Tue, 16 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/just-1500-iu-of-vitamin-d-significantly-helps-prozac-rct.html</guid><description/></item><item><title>Depression after pregnancy and vitamin D</title><link>/posts/depression-after-pregnancy-and-vitamin-d.html</link><pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/depression-after-pregnancy-and-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-status-during-pregnancy-and-the-risk-of-subsequent-postpartum-depression-a-case-control-study">Vitamin D status during pregnancy and the risk of subsequent postpartum depression: a case-control study.&lt;/h4>
+&lt;p>PLoS One. 2013 Nov 27;8(11):e80686. &lt;a href="https://doi.org/10.1371/journal.pone.0080686.">doi: 10.1371/journal.pone.0080686.&lt;/a> eCollection 2013.&lt;/p>
+&lt;p>Nielsen NO1, Strøm M, Boyd HA, Andersen EW, Wohlfahrt J, Lundqvist M, Cohen A, Hougaard DM, Melbye M.&lt;/p>
+&lt;p>Epidemiological studies have provided evidence of an association between vitamin D insufficiency and depression and other mood disorders, and a role for vitamin D in various brain functions has been suggested. We hypothesized that low vitamin D status during pregnancy might increase the risk of postpartum depression (PPD). The objective of the study was thus to determine whether low vitamin D status during pregnancy was associated with postpartum depression. In a case-control study nested in the Danish National Birth Cohort, we measured late pregnancy serum concentrations of 25&lt;span>[OH]&lt;/span>D3 in 605 women with PPD and 875 controls. Odds ratios &lt;span>[OR) for PPD were calculated for six levels of 25[OH]&lt;/span>D3. Overall, we found no association between vitamin D concentrations and risk of PPD (p = 0.08). Compared with women with vitamin D concentrations between 50 and 79 nmol/L, the adjusted odds ratios for PPD were 1.35 (95% CI: 0.64; 2.85), 0.83 (CI: 0.50; 1.39) and 1.13 (CI: 0.84; 1.51) among women with vitamin D concentrations &amp;lt; 15 nmol/L, 15-24 nmol/L and 25-49 nmol/L, respectively, and 1.53 (CI: 1.04; 2.26) and 1.89 (CI: 1.06; 3.37) among women with vitamin D concentrations of 80-99 nmol/L and ≥ 100 nmol/L, respectively. In an additional analysis among women with sufficient vitamin D (≥ 50 nmol/L), we observed a significant positive association between vitamin D concentrations and PPD. Our results did not support an association between low maternal vitamin D concentrations during pregnancy and risk of PPD. Instead, an increased risk of PPD was found among women with the highest vitamin D concentrations.&lt;/p></description></item><item><title>Your health has a symbiotic relationship with 100 Trillion Bacteria – Mercola</title><link>/posts/your-health-has-a-symbiotic-relationship-with-100-trillion-bacteria-mercola.html</link><pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/your-health-has-a-symbiotic-relationship-with-100-trillion-bacteria-mercola.html</guid><description>&lt;h3 id="your-health-is-the-result-of-a-symbiotic-relationship-with-100-trillion-bacteriahttparticlesmercolacomsitesarticlesarchive20140828microbiome-gut-healthaspxe_cid20140828z1_dnl_art_1utm_sourcednlutm_mediumemailutm_contentart1utm_campaign20140828z1et_ciddm56211et_rid63898966520-mercola-aug-2014">&lt;a href="http://articles.mercola.com/sites/articles/archive/2014/08/28/microbiome-gut-health.aspx?e_cid=20140828Z1_DNL_art_1&amp;amp;utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20140828Z1&amp;amp;et_cid=DM56211&amp;amp;et_rid=638989665%20">Your Health Is the Result of a Symbiotic Relationship with 100 Trillion Bacteria&lt;/a> Mercola Aug 2014&lt;/h3>
+&lt;p>&lt;strong>Sections include&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>A &lt;a href="https://www.youtube.com/watch?v=OLH4Av6YU8A#t=51%20">very easy 4 minute overview of the Human microbiome project &lt;/a> by Pat Schloss&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Diet Can Rapidly Alter Gut Bacteria&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gut Bacteria May Reveal Colon Cancer, and Might Play a Role in MS&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When It Comes to Inflammation, Your Microbiome Rules&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>which has another short video – inflammation ==&amp;gt; depression&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>Your Gut Flora Is Perpetually Under Attack&lt;/p></description></item><item><title>Stroke patients with low vitamin D were 10X more likely to become depressed</title><link>/posts/stroke-patients-with-low-vitamin-d-were-10x-more-likely-to-become-depressed.html</link><pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/stroke-patients-with-low-vitamin-d-were-10x-more-likely-to-become-depressed.html</guid><description>&lt;h3 id="association-of-serum-25-hydroxyvitamin-d-with-symptoms-of-depression-after-6-months-in-stroke-patients">Association of Serum 25-Hydroxyvitamin D with Symptoms of Depression After 6 Months in Stroke Patients.&lt;/h3>
+&lt;p>Neurochem Res. 2014 Aug 26. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Yue W1, Xiang L, Zhang YJ, Ji Y, Li X.&lt;/p>
+&lt;p>1Department of Neurology, Tianjin Huanhu Hospital, Tianjin, 300060, People&amp;rsquo;s Republic of China.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:>60%">
+&lt;p>Vitamin D levels were measured immediately after the stroke&lt;/p>
+&lt;p>1 in 3 were depressed 6 months after surviving their stroke&lt;/p>
+&lt;p>Those with levels &amp;lt; 11 ng were, on average, 10X more likely to be depressed 6 months later&lt;/p></description></item><item><title>The Single Vitamin That's a Double Whammy Against Both Depression and Dementia (Mercola)</title><link>/posts/the-single-vitamin-thats-a-double-whammy-against-both-depression-and-dementia-mercola.html</link><pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/the-single-vitamin-thats-a-double-whammy-against-both-depression-and-dementia-mercola.html</guid><description>&lt;h4 id="vitamin-d-for-depression-dementia-and-diabeteshttparticlesmercolacomsitesarticlesarchive20140821vitamin-d-depression-dementiaaspxe_cid20140821z1_dnl_art_1utm_sourcednlutm_mediumemailutm_contentart1utm_campaign20140821z1et_ciddm54156et_rid629848973">&lt;a href="http://articles.mercola.com/sites/articles/archive/2014/08/21/vitamin-d-depression-dementia.aspx?e_cid=20140821Z1_DNL_art_1&amp;amp;utm_source=dnl&amp;amp;utm_medium=email&amp;amp;utm_content=art1&amp;amp;utm_campaign=20140821Z1&amp;amp;et_cid=DM54156&amp;amp;et_rid=629848973">Vitamin D for Depression, Dementia, and Diabetes&lt;/a>&lt;/h4>
+&lt;p>Includes a study already in VitaminDWiki&lt;/p>
+&lt;p>&lt;a href="/posts/dementia-surprisingly-associated-with-low-vitamin-d-should-not-a-surprise">Dementia surprisingly associated with low vitamin D (should not a surprise) – Aug 2014&lt;/a>&lt;/p>
+&lt;p>Also&lt;/p>
+&lt;p>In one previous study, seniors with the lowest levels of vitamin D were found to be &lt;strong>11 times more prone to be depressed&lt;/strong> than those who had normal levels. More recent research was discussed in a Times Online article&lt;/p>
+&lt;p>Has a &lt;a href="https://www.youtube.com/watch?v=t2bBALjq3dI#t=280%20">link to a April 2014 TV presentation by Dr. Sara Van Anrooy&lt;/a>&lt;/p></description></item><item><title>SAD not reduced by 2800 IU of vitamin D (no surprise, not sad to say)</title><link>/posts/sad-not-reduced-by-2800-iu-of-vitamin-d-no-surprise-not-sad-to-say.html</link><pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/sad-not-reduced-by-2800-iu-of-vitamin-d-no-surprise-not-sad-to-say.html</guid><description>&lt;h4 id="vitamin-d-supplementation-for-treatment-of-seasonal-affective-symptoms-in-healthcare-professionals-a-double-blind-randomised-placebo-controlled-trial">Vitamin D supplementation for treatment of seasonal affective symptoms in healthcare professionals: a double-blind randomised placebo-controlled trial.&lt;/h4>
+&lt;p>BMC Res Notes. 2014 Aug 14;7(1):528. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Frandsen TB, Pareek M, Hansen JP, Nielsen C.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Low serum 25-hydroxyvitamin D levels (25(OH)D) have been associated with a higher likelihood of seasonal affective disorder (SAD) and poor mental well-being, yet firm evidence for either remains lacking. Thus, vitamin D supplementation may alleviate symptoms associated with SAD.&lt;/p></description></item><item><title>More depression associated with more dementia in seniors (vitamin D not mentioned)</title><link>/posts/more-depression-associated-with-more-dementia-in-seniors-vitamin-d-not-mentioned.html</link><pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/more-depression-associated-with-more-dementia-in-seniors-vitamin-d-not-mentioned.html</guid><description>&lt;h4 id="clinical-pathologic-study-of-depressive-symptoms-and-cognitive-decline-in-old-age">Clinical-pathologic study of depressive symptoms and cognitive decline in old age&lt;/h4>
+&lt;p>Neurology 10.1212/WNL.0000000000000715&lt;/p>
+&lt;p>Published online before print July 30, 2014, &lt;a href="https://doi.org/10.1212/WNL.0000000000000715">doi: 10.1212/WNL.0000000000000715&lt;/a>&lt;/p>
+&lt;p>Robert S. Wilson, PhD, Ana W. Capuano, PhD, Patricia A. Boyle, PhD, George M. Hoganson, MD, Loren P. Hizel, BA, Raj C. Shah, MD, Sukriti Nag, MD, Julie A. Schneider, MD, Steven E. Arnold, MD and David A. Bennett, MD&lt;/p>
+&lt;p>From the Rush Alzheimer&amp;rsquo;s Disease Center (R.S.W., A.W.C., P.A.B., G.M.H., L.P.H., R.C.S., S.N., J.A.S., D.A.B.) and Departments of Behavioral Sciences (R.S.W., P.A.B.), Neurological Sciences (R.S.W., A.W.C., J.A.S., D.A.B.), Pathology (S.N., J.A.S.), and Family Medicine (R.C.S.), Rush University Medical Center, Chicago, IL; and Departments of Psychiatry and Neurology (S.E.A.), University of Pennsylvania, Philadelphia.&lt;/p></description></item><item><title>Depression and Vitamin D during Pregnancy – Dissertation</title><link>/posts/depression-and-vitamin-d-during-pregnancy-dissertation.html</link><pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/depression-and-vitamin-d-during-pregnancy-dissertation.html</guid><description>&lt;p>Amy Rebekah Lamb, Vanderbilt University&lt;/p>
+&lt;p>PDF is attached at the bottom of this page&lt;/p></description></item><item><title>Depression during pregnancy twice as likely if consume little vitamin D</title><link>/posts/depression-during-pregnancy-twice-as-likely-if-consume-little-vitamin-d.html</link><pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/depression-during-pregnancy-twice-as-likely-if-consume-little-vitamin-d.html</guid><description>&lt;h3 id="dietary-vitamin-d-intake-and-prevalence-of-depressive-symptoms-during-pregnancy-in-japan">Dietary vitamin D intake and prevalence of depressive symptoms during pregnancy in Japan&lt;/h3>
+&lt;p>Nutrition, Available online 18 July 2014 DOI: 10.1016/j.nut.2014.06.013&lt;/p>
+&lt;p>Yoshihiro Miyake, M.D., Ph.Da, , , Keiko Tanaka, D.D.S., Ph.Da, Hitomi Okubo, Ph.Db, Satoshi Sasaki, M.D., Ph.Dc, Masashi Arakawa, Ph.Dd&lt;/p>
+&lt;p>Objective&lt;/p>
+&lt;p>The relationship between vitamin D levels and depressive symptoms has been explored, but the results are inconsistent. Epidemiological evidence concerning the relationship between dietary vitamin D intake and depressive symptoms in pregnancy is nonexistent. The current cross-sectional study examined this issue in Japan.&lt;/p></description></item><item><title>Hypothesis: Vitamin D is the link between Osteoporosis, Obesity, and Diabetes</title><link>/posts/hypothesis-vitamin-d-is-the-link-between-osteoporosis-obesity-and-diabetes.html</link><pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/hypothesis-vitamin-d-is-the-link-between-osteoporosis-obesity-and-diabetes.html</guid><description>&lt;h3 id="vitamin-d-link-between-osteoporosis-obesity-and-diabetes">Vitamin D: Link between Osteoporosis, Obesity, and Diabetes?&lt;/h3>
+&lt;p>Int. J. Mol. Sci. 2014, 15(4), 6569-6591; doi:10.3390/ijms15046569 (doi registration under processing)&lt;/p>
+&lt;p>Flávia Galvão Cândido &lt;a href="mailto:flaviagcandido@hotmail.com">flaviagcandido@hotmail.com&lt;/a> and Josefina Bressan&lt;/p>
+&lt;p>Laboratory of Body Composition and Energy Metabolism, Departamento de Nutrição e Saúde-CCB II, Universidade Federal de Viçosa, Avenida PH Rolfs, s/n, Viçosa, MG 36570-900, Brazil&lt;/p>
+&lt;p>(This article belongs to the Section Bioactives and Nutraceuticals)&lt;/p>
+&lt;p>Vitamin D (1,25(OH)2D3) is a steroid hormone that has a range of physiological functions in skeletal and nonskeletal tissues, and can contribute to prevent and/or treat osteoporosis, obesity, and Type 2 diabetes mellitus (T2DM). In bone metabolism, vitamin D increases the plasma levels of calcium and phosphorus, regulates osteoblast and osteoclast the activity, and combats PTH hypersecretion, promoting bone formation and preventing/treating osteoporosis. This evidence is supported by most clinical studies, especially those that have included calcium and assessed the effects of vitamin D doses (≥800 IU/day) on bone mineral density. However, annual megadoses should be avoided as they impair bone health.&lt;/p></description></item><item><title>Tricyclic antidepressants reduce the active but not the normally measured form of vitamin D in seniors</title><link>/posts/tricyclic-antidepressants-reduce-the-active-but-not-the-normally-measured-form-o-in-d-in-seniors.html</link><pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/tricyclic-antidepressants-reduce-the-active-but-not-the-normally-measured-form-o-in-d-in-seniors.html</guid><description>&lt;h4 id="antidepressants-differentially-related-to-125-oh2-vitamin-d3-and-25-oh-vitamin-d3-in-late-life-depression">Antidepressants differentially related to 1,25-(OH)2 vitamin D3 and 25-(OH) vitamin D3 in late-life depression.&lt;/h4>
+&lt;p>Transl Psychiatry. 2014 Apr 15;4:e383. &lt;a href="https://doi.org/10.1038/tp.2014.14.">doi: 10.1038/tp.2014.14.&lt;/a>&lt;/p>
+&lt;p>Oude Voshaar RC1, Derks WJ2, Comijs HC3, Schoevers RA1, de Borst MH4, Marijnissen RM5.&lt;/p>
+&lt;p>1 University of Groningen, University Medical Center Groningen, University Center of Psychiatry, Groningen, The Netherlands.&lt;/p>
+&lt;p>2 Pro Persona, Department of Old Age Psychiatry, Wolfheze/Arnhem, The Netherlands.&lt;/p>
+&lt;p>3 VU Medical Center, Department of Psychiatry and GGZinGeest, EMGO Institute of Health and Care Research, Amsterdam, The Netherlands.&lt;/p></description></item><item><title>Anti-depression medication about as good as big increase in vitamin D – meta-analysis of flawless data</title><link>/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data.html</link><pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data.html</guid><description>&lt;h4 id="vitamin-d-and-depression-a-systematic-review-and-meta-analysis-comparing-studies-with-and-without-biological-flaws">Vitamin D and Depression: A Systematic Review and Meta-Analysis Comparing Studies with and without Biological Flaws&lt;/h4>
+&lt;p>Nutrients 2014, 6(4), 1501-1518; doi:10.3390/nu6041501&lt;/p>
+&lt;p>Simon Spedding &lt;a href="mailto:spedding@adam.com.au">spedding@adam.com.au&lt;/a>&lt;/p>
+&lt;p>Nutritional Physiology Research Centre, University of South Australia, City East Campus, North Tce, Adelaide, SA 5000, Australia&lt;/p>
+&lt;p>Received: 20 March 2014; in revised form: 4 April 2014 / Accepted: 4 April 2014 / Published: 11 April 2014&lt;/p>
+&lt;p>Efficacy of Vitamin D supplements in depression is controversial, awaiting further literature analysis. Biological flaws in primary studies is a possible reason meta-analyses of Vitamin D have failed to demonstrate efficacy. This systematic review and meta-analysis of Vitamin D and depression compared studies with and without biological flaws. The systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The literature search was undertaken through four databases for randomized controlled trials (RCTs). Studies were critically appraised for methodological quality and biological flaws, in relation to the hypothesis and study design. Meta-analyses were performed for studies according to the presence of biological flaws.&lt;/p></description></item><item><title>Depression might be reduced by vitamin D – meta-analysis</title><link>/posts/depression-might-be-reduced-by-vitamin-d-meta-analysis.html</link><pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/depression-might-be-reduced-by-vitamin-d-meta-analysis.html</guid><description>&lt;h4 id="vitamin-d-supplementation-for-depressive-symptoms-a-systematic-review-and-meta-analysis-of-randomized-controlled-trials">Vitamin D Supplementation for Depressive Symptoms: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.&lt;/h4>
+&lt;p>Psychosom Med. 2014 Mar 14. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Shaffer JA, Edmondson D, Wasson LT, Falzon L, Homma K, Ezeokoli N, Li P, Davidson KW.&lt;/p>
+&lt;p>Center for Behavioral Cardiovascular Health (J.A.S., D.E., L.T.W., L.F., K.H., K.W.D.), Columbia University Medical Center, New York, New York; Department of Chemistry (N.E.), School of Humanities &amp;amp; Sciences, Stanford University, Stanford, California; and Department of Mathematics (P.L.), College of Arts and Sciences, New York University, New York, New York.&lt;/p></description></item><item><title>The happy Vitamin – Vitamin D – a 2 minute video</title><link>/posts/the-happy-vitamin-vitamin-d-a-2-minute-video.html</link><pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate><guid>/posts/the-happy-vitamin-vitamin-d-a-2-minute-video.html</guid><description>&lt;h3 id="swansons-vitamins-health-bloghttpwwwswansonvitaminscomblogblogging-with-lee-22-minute-lesson-on-vitamin-d-the-happy-vitaminemv_mid2395124emv_rid15673581567">&lt;a href="http://www.swansonvitamins.com/blog/blogging-with-lee-2/2-minute-lesson-on-vitamin-d-the-happy-vitamin?emv_mid=2395124&amp;amp;emv_rid=15673581567">Swansons Vitamins Health Blog&lt;/a>&lt;/h3>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/happy-vitamin.jpg" alt="image">
+&lt;p>&lt;strong>Transcript&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>So how do you feel when you get back from vacation?&lt;/strong> Let&amp;rsquo;s say you just got back from Hawaii. You had some sun. You lay on the beach. You feel really good. How do you feel when you&amp;rsquo;re lying on the beach? You feel amazing. How did you feel that night, going out for dinner? You feel really, really well.&lt;/p>
+&lt;p>&lt;strong>You know, what we&amp;rsquo;re finding is sunshine is the happy vitamin.&lt;/strong> Sunshine equals more vitamin D. So let&amp;rsquo;s talk a little bit about vitamin D. Vitamin D is actually not a vitamin. If you look back when it was coined back in the 1940s, it&amp;rsquo;s actually a hormone. It&amp;rsquo;s almost identical in structure to testosterone. &lt;strong>So vitamin D and testosterone have a lot of similar effects on the body.&lt;/strong>&lt;/p></description></item><item><title>Children with mental disorders have somewhat less vitamin D levels (graph)</title><link>/posts/children-with-mental-disorders-have-somewhat-less-vitamin-d-levels-graph.html</link><pubDate>Sun, 23 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/children-with-mental-disorders-have-somewhat-less-vitamin-d-levels-graph.html</guid><description>&lt;h3 id="do-children-with-mental-disorders-have-higher-prevalence-of-hypovitaminosis-d">Do children with mental disorders have higher prevalence of hypovitaminosis D?&lt;/h3>
+&lt;p>Mini Zhang1, Keith Cheng1, Robert Rope2, Elizabeth Martin3, Ajit Jetmalani1&lt;/p>
+&lt;p>Inadequate vitamin D level is associated with various adverse medical outcomes. There is a growing concern that insufficient vitamin D may play a role in the development of psychiatric symptoms. This study aims to answer the question: do children with mental disorders have a higher prevalence of hypovitaminosis D?&lt;/p></description></item><item><title>Serotonin regulated by Vitamin D – part 1 autism</title><link>/posts/serotonin-regulated-by-vitamin-d-part-1-autism.html</link><pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/serotonin-regulated-by-vitamin-d-part-1-autism.html</guid><description>&lt;h4 id="vitamin-d-hormone-regulates-serotonin-synthesis-part-1-relevance-for-autism">Vitamin D hormone regulates serotonin synthesis. Part 1: relevance for autism&lt;/h4>
+&lt;p>FEDERATION OF AMERICAN SOCIETIES FOR EXPERIMENTAL BIOLOGY February 20, 2014, doi:10.1096/fj.13-246546&lt;/p>
+&lt;p>Rhonda P. Patrick 1 and Bruce N. Ames&lt;/p>
+&lt;p>Nutrition and Metabolism Center, Children&amp;rsquo;s Hospital Oakland Research Institute, Oakland, California, USA&lt;/p>
+&lt;p>Correspondence: Nutrition and Metabolism Center, Children&amp;rsquo;s Hospital Oakland Research Institute, 5700 Martin Luther King Jr. Way, Oakland, CA 94609, USA. E-mail: R.P.P., &lt;a href="mailto:rpatrick@chori.org">rpatrick@chori.org&lt;/a>; B.N.A., &lt;a href="mailto:bames@chori.org">bames@chori.org&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h4 id="span-stylecolorf00see-also-part-ii-vitamin-d-and-the-omega-3-fatty-acids-control-serotonin-synthesis-and-action-part-2-relevance-for-adhd-bipolar-schizophrenia-and-impulsive-behaviorspan">&lt;span style="color:#F00;">See also Part II Vitamin D and the omega-3 fatty acids control serotonin synthesis and action, part 2: relevance for ADHD, bipolar, schizophrenia, and impulsive behavior&lt;/span>&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="/posts/vitamin-d-omega-3-supplementation-helps-cognition-perhaps-due-to-serotonin">Vitamin D, Omega-3 supplementation helps cognition – perhaps due to serotonin – Feb 2015&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;i class="fas fa-file-pdf" style="margin-right: 0.3em;">&lt;/i>&lt;a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/patrick-ames-part-2.pdf">Download the PDF from VitaminDWiki&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>The Role of Vitamin D in Depression: From a Curious Idea to a Therapeutic Option (noabstract)</title><link>/posts/the-role-of-vitamin-d-in-depression-from-a-curious-idea-to-a-therapeutic-option-noabstract.html</link><pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate><guid>/posts/the-role-of-vitamin-d-in-depression-from-a-curious-idea-to-a-therapeutic-option-noabstract.html</guid><description>&lt;p>Cédric Annweiler, MD, PhD; Reza Rastmanesh, PhD; Stéphane Richard-Devantoy, MD, PhD; and Olivier Beauchet, MD, PhD&lt;/p>
+&lt;p>J Clin Psychiatry 2013;74(11):1121–1122, 10.4088/JCP.13ac08783&lt;/p>
+&lt;p>Copyright 2013 Physicians Postgraduate Press, Inc.&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/annweiler-2013.jpg" alt="image" width="800">
+&lt;p>Because this piece does not have an abstract, we (publisher) have provided for your benefit the first 3 sentences of the full text.&lt;/p>
+&lt;p>Besides its classical function of bone metabolism regulation, vitamin D exhibits multiple nonskeletal effects, including in the brain. In particular, relationships between vitamin D status and mood have been repeatedly examined in the last decade. The findings enable causal reasoning and offer new therapeutic perspectives.&lt;/p></description></item><item><title>Inflammation causes Depression, perhaps this is why vitamin D helps with depression</title><link>/posts/inflammation-causes-depression-perhaps-this-is-why-vitamin-d-helps-with-depression.html</link><pubDate>Thu, 28 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/inflammation-causes-depression-perhaps-this-is-why-vitamin-d-helps-with-depression.html</guid><description>&lt;h3 id="so-depression-is-an-inflammatory-disease-but-where-does-the-inflammation-come-from">So depression is an inflammatory disease, but where does the inflammation come from?&lt;/h3>
+&lt;p>BMC Med. 2013 Sep 12;11:200. &lt;a href="https://doi.org/10.1186/1741-7015-11-200.">doi: 10.1186/1741-7015-11-200.&lt;/a>&lt;/p>
+&lt;p>Berk M, Williams LJ, Jacka FN, O&amp;rsquo;Neil A, Pasco JA, Moylan S, Allen NB, Stuart AL, Hayley AC, Byrne ML, Maes M.&lt;/p>
+&lt;p>IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, VIC, Australia. &lt;a href="mailto:mikebe@barwonhealth.org.au">mikebe@barwonhealth.org.au&lt;/a>.&lt;/p>
+&lt;p>BACKGROUND: We now know that depression is associated with a chronic, low-grade inflammatory response and activation of cell-mediated immunity, as well as activation of the compensatory anti-inflammatory reflex system. It is similarly accompanied by increased oxidative and nitrosative stress (O&amp;amp;NS), which contribute to neuroprogression in the disorder. The obvious question this poses is &amp;lsquo;what is the source of this chronic low-grade inflammation?&amp;rsquo;&lt;/p></description></item><item><title>Severely depressed elderly 2X more likely to have severe vitamin D deficiency</title><link>/posts/severely-depressed-elderly-2x-more-likely-to-have-severe-vitamin-d-deficiency.html</link><pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/severely-depressed-elderly-2x-more-likely-to-have-severe-vitamin-d-deficiency.html</guid><description/></item><item><title>40,000 IU vitamin D weekly reduced depression in many obese subjects – RCT 2008</title><link>/posts/40000-iu-vitamin-d-weekly-reduced-depression-in-many-obese-subjects-rct-2008.html</link><pubDate>Sat, 09 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/40000-iu-vitamin-d-weekly-reduced-depression-in-many-obese-subjects-rct-2008.html</guid><description>&lt;h4 id="effects-of-vitamin-d-supplementation-on-symptoms-of-depression-in-overweight-and-obese-subjects-randomized-double-blind-trial">Effects of vitamin D supplementation on symptoms of depression in overweight and obese subjects: randomized double blind trial.&lt;/h4>
+&lt;p>J Intern Med. 2008 Dec;264(6):599-609. &lt;a href="https://doi.org/10.1111/j.1365-2796.2008.02008.x.">doi: 10.1111/j.1365-2796.2008.02008.x.&lt;/a> Epub 2008 Sep 10.&lt;/p>
+&lt;p>Jorde R, Sneve M, Figenschau Y, Svartberg J, Waterloo K.&lt;/p>
+&lt;p>Institute of Clinical Medicine, University of Tromsø, Tromsø, Norway. &lt;a href="mailto:rolf.jorde@unn.no">rolf.jorde@unn.no&lt;/a>&lt;/p>
+&lt;p>OBJECTIVES: The objective of the present study was to examine the cross-sectional relation between serum 25-hydroxyvitamin D &lt;span>[25-(OH) D]&lt;/span> levels and depression in overweight and obese subjects and to assess the effect of vitamin D supplementation on depressive symptoms.&lt;/p></description></item><item><title>A protocol to review of vitamin D supplementation in depression in adults</title><link>/posts/a-protocol-to-review-of-vitamin-d-supplementation-in-depression-in-adults.html</link><pubDate>Sat, 09 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/a-protocol-to-review-of-vitamin-d-supplementation-in-depression-in-adults.html</guid><description>&lt;h3 id="efficacy-of-vitamin-d-supplementation-in-depression-in-adults-a-systematic-review-protocol">Efficacy of vitamin D supplementation in depression in adults: a systematic review protocol.&lt;/h3>
+&lt;p>Syst Rev. 2013 Aug 8;2:64. &lt;a href="https://doi.org/10.1186/2046-4053-2-64.">doi: 10.1186/2046-4053-2-64.&lt;/a>&lt;/p>
+&lt;p>Li G, Mbuagbaw L, Samaan Z, Zhang S, Adachi JD, Papaioannou A, Thabane L.&lt;/p>
+&lt;p>Department of Clinical Epidemiology &amp;amp; Biostatistics, McMaster University, 1280 Main Street West, Hamilton, ON L8S 4L8, Canada.&lt;/p>
+&lt;p>BACKGROUND: The role of vitamin D in management of depression is unclear. Results from observational and emerging randomized controlled trials (RCTs) investigating the efficacy of vitamin D in depression lack consistency - with some suggesting a positive association while others show a negative or inconclusive association.&lt;/p></description></item><item><title>Antidepressant Drugs of minimal value unless very depressed – JAMA</title><link>/posts/antidepressant-drugs-of-minimal-value-unless-very-depressed-jama.html</link><pubDate>Sat, 09 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/antidepressant-drugs-of-minimal-value-unless-very-depressed-jama.html</guid><description>&lt;h3 id="antidepressant-drug-effects-and-depression-severity-a-patient-level-meta-analysis">Antidepressant Drug Effects and Depression Severity A Patient-Level Meta-analysis&lt;/h3>
+&lt;p>Review | January 6, 2010&lt;/p>
+&lt;p>JAMA. 2010;303(1):47-53. doi:10.1001/jama.2009.1943.&lt;/p>
+&lt;p>Jay C. Fournier, MA; Robert J. DeRubeis, PhD; Steven D. Hollon, PhD; Sona Dimidjian, PhD; Jay D. Amsterdam, MD; Richard C. Shelton, MD; Jan Fawcett, MD&lt;/p>
+&lt;p>Context Antidepressant medications represent the best established treatment for major depressive disorder, but there is little evidence that they have a specific pharmacological effect relative to pill placebo for patients with less severe depression.&lt;/p></description></item><item><title>Reduced depression with single 300,000 IU injection of vitamin D – RCT</title><link>/posts/reduced-depression-with-single-300000-iu-injection-of-vitamin-d-rct.html</link><pubDate>Sat, 09 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/reduced-depression-with-single-300000-iu-injection-of-vitamin-d-rct.html</guid><description>&lt;h4 id="the-effect-of-2-different-single-injections-of-high-dose-of-vitamin-d-on-improving-the-depression-in-depressed-patients-with-vitamin-d-deficiency-a-randomized-clinical-trial">The effect of 2 different single injections of high dose of vitamin D on improving the depression in depressed patients with vitamin D deficiency: a randomized clinical trial.&lt;/h4>
+&lt;p>J Clin Psychopharmacol. 2013 Jun;33(3):378-85. &lt;a href="https://doi.org/10.1097/JCP.0b013e31828f619a.">doi: 10.1097/JCP.0b013e31828f619a.&lt;/a>&lt;/p>
+&lt;p>Mozaffari-Khosravi H, Nabizade L, Yassini-Ardakani SM, Hadinedoushan H, Barzegar K.&lt;/p>
+&lt;p>Department of Nutrition, Faculty of Health, Faculty of Medicine, Yazd Diabetes Research Center, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.&lt;/p>
+&lt;p>The correlation between vitamin D deficiency and depression has recently been put forward and resulted in controversial findings. The present study was conducted to find out the effect of 2 single injections of 150,000 and 300,000 IU of vitamin D on improving the depression in depressed patients with vitamin D deficiency.This clinical trial study was carried out during 2011-2012 in Yazd, Islamic Republic of Iran.&lt;/p></description></item><item><title>Vitamin D deficiency and psychiatric illness: evidence-based review</title><link>/posts/vitamin-d-deficiency-and-psychiatric-illness-evidence-based-review.html</link><pubDate>Sat, 09 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-deficiency-and-psychiatric-illness-evidence-based-review.html</guid><description>&lt;h4 id="supplementation-might-help-patients-with-depression-seasonal-mood-disturbances">Supplementation might help patients with depression, seasonal mood disturbances&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="http://www.currentpsychiatry.com/home/article/vitamin-d-deficiency-and-psychiatric-illness/f075571b193b975227348ec15515005d.html%20">Current Psychiatry&lt;/a> Vol. 12, No. 04 / April 2013&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Herbert W. Harris, MD, PhD; Medical Director, Rho, Chapel Hill, NC&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pranay Jaiswal, MD; Research Coordinator, Duke University School of Medicine, Durham, NC&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Valerie Holmes, MD; Consulting Associate Professor of Psychiatry and Behavioral Sciences, Duke University Medical Center, Durham, NC&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Richard H. Weisler, MD; Adjunct Professor of Psychiatry, University of North Carolina School of Medicine, Chapel Hill, NC, Adjunct Associate Professor of Psychiatry and Behavioral Sciences, Duke University, Durham, NC&lt;/p></description></item><item><title>First episode psychosis associated with a 33 percent lower vitamin D in 3 races</title><link>/posts/first-episode-psychosis-associated-with-a-33-percent-lower-vitamin-d-in-3-races.html</link><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/first-episode-psychosis-associated-with-a-33-percent-lower-vitamin-d-in-3-races.html</guid><description>&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/phychosis.jpg" alt="image" width="600">
+&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-in-first-episode-psychosis-a-case-control-study">Vitamin D deficiency in first episode psychosis: A case-control study.&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="vitamin-d-deficiency-in-first-episode-psychosis-a-case-control-study">Vitamin D deficiency in first episode psychosis: A case-control study.&lt;/h2>
+&lt;p>Schizophr Res. 2013 Sep 20. pii: S0920-9964(13)00472-6. &lt;a href="https://doi.org/10.1016/j.schres.2013.08.036.">doi: 10.1016/j.schres.2013.08.036.&lt;/a>&lt;/p>
+&lt;p>Crews M, Lally J, Gardner-Sood P, Howes O, Bonaccorso S, Smith S, Murray RM, Di Forti M, Gaughran F.&lt;/p>
+&lt;p>Bromley Assertive Outreach and Rehabilitation Team, Oxleas NHS Foundation Trust, London, United Kingdom; Institute of Psychiatry, King&amp;rsquo;s College London, London, United Kingdom.&lt;/p></description></item><item><title>50,000 IU Vitamin D weekly Improves Mood, Lowers Blood Pressure in Type 2 Diabetics</title><link>/posts/50000-iu-vitamin-d-weekly-improves-mood-lowers-blood-pressure-in-type-2-diabetics.html</link><pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/50000-iu-vitamin-d-weekly-improves-mood-lowers-blood-pressure-in-type-2-diabetics.html</guid><description>&lt;h4 id="reviewhttpwwwdynamicchiropracticcommpacmsdcarticlephpid5670720-in-dynamic-chiropractic">&lt;a href="http://www.dynamicchiropractic.com/mpacms/dc/article.php?id=56707%20">Review&lt;/a> in Dynamic Chiropractic&lt;/h4>
+&lt;h3 id="highlights-of-a-small-study-by-penckofer">Highlights of a small study by Penckofer&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Senior women who had been diabetic for 8 years&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Given 50,000 IU vitamin D weekly for 6 months&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Blood levels raised from 18 ng to 38 ng.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>improved mood, as indicated by a 20-question depression symptom survey.&lt;/p>
+&lt;ul>
+&lt;li>26.8 dropped to 12. (range 0-60)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Blood pressure a dropped from 140.4 to 132.5 mm Hg.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="reference">Reference&lt;/h3>
+&lt;p>Penckofer S, et al. Vitamin D improves mood and blood pressure in women with diabetes.&lt;/p></description></item><item><title>Increased incidence of depression – perhaps due to lower vitamin D</title><link>/posts/increased-incidence-of-depression-perhaps-due-to-lower-vitamin-d.html</link><pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/increased-incidence-of-depression-perhaps-due-to-lower-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#increasing-prevalence-of-depression-from-2000-to-2006httpsjpsagepubcomcontent398857abstract">&lt;a href="http://sjp.sagepub.com/content/39/8/857.abstract">Increasing prevalence of depression from 2000 to 2006&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#global-depression-statisticshttpwwwsciencedailycomreleases201107110725202240htm20-science-daily">&lt;a href="http://www.sciencedaily.com/releases/2011/07/110725202240.htm%20">Global Depression Statistics&lt;/a> Science Daily&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#changes-in-the-prevalence-of-major-depression-and-comorbid-substance-use-disorders-in-the-united-states-between-19911992-and-20012002httpajppsychiatryonlineorgarticleaspxarticleid97498">&lt;a href="http://ajp.psychiatryonline.org/article.aspx?articleID=97498">Changes in the Prevalence of Major Depression and Comorbid Substance Use Disorders in the United States Between 1991–1992 and 2001–2002&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-increasing-burden-of-depressionhttpwwwncbinlmnihgovpmcarticlespmc313110120-2006">&lt;a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3131101/%20">The increasing burden of depression&lt;/a> 2006&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#depression-is-the-2nd-largest-cause-of-disability-in-seniors-around-the-world">Depression is the 2nd largest cause of disability in seniors around the world&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mental-health-disorders-now-leading-cause-of-non-fatal-illness-worldwidehttparticlesmercolacomsitesarticlesarchive20130912mental-health-disordersaspx-mercola-sept-2013">&lt;a href="http://articles.mercola.com/sites/articles/archive/2013/09/12/mental-health-disorders.aspx#">Mental Health Disorders Now Leading Cause of Non-Fatal Illness Worldwide&lt;/a> Mercola Sept 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#suicide-epidemichttpwwwthedailybeastcomnewsweek20130522why-suicide-has-become-and-epidemic-and-what-we-can-do-to-helphtml-newsweek-may-2013">&lt;a href="http://www.thedailybeast.com/newsweek/2013/05/22/why-suicide-has-become-and-epidemic-and-what-we-can-do-to-help.html">Suicide Epidemic&lt;/a> Newsweek May 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#opposing-data-suicide-rate-for-us-blacks-is-less-than-for-whites">Opposing data: suicide rate for US blacks is less than for whites&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#more-us-veterans-will-soon-have-died-of-suicide-than-the-names-on-the-vietnam-wall">More US veterans will soon have died of suicide than the names on the Vietnam wall&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="increasing-prevalence-of-depression-from-2000-to-2006httpsjpsagepubcomcontent398857abstract">&lt;a href="http://sjp.sagepub.com/content/39/8/857.abstract">Increasing prevalence of depression from 2000 to 2006&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>Scand J Public Health December 2011 vol. 39 no. 8 857-863&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Depression is the leading cause of disability and is projected to become the second highest burden of disease (measured in disability-adjusted life years) by 2020&lt;/p></description></item><item><title>Review of Vitamin D3 and depression in older adults (take 1000-2000 IU)</title><link>/posts/review-of-vitamin-d3-and-depression-in-older-adults-take-1000-2000-iu.html</link><pubDate>Sun, 08 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/review-of-vitamin-d3-and-depression-in-older-adults-take-1000-2000-iu.html</guid><description>&lt;h3 id="relationship-of-vitamin-d3-deficiency-to-depression-in-older-adults-a-systematic-review-of-the-literature-from-2008-2013">Relationship of Vitamin D3 Deficiency to Depression in Older Adults: A Systematic Review of the Literature From 2008-2013&lt;/h3>
+&lt;p>The Journal for Nurse Practitioners; Volume 9, Issue 8 , Pages 506-515, September 2013&lt;/p>
+&lt;p>Elizabeth Farrington, MSN, AGPCNP-BC &lt;a href="mailto:eafarrington@gmail.com">eafarrington@gmail.com&lt;/a>&lt;/p>
+&lt;p>Mary Moller, DNP, APRN&lt;/p>
+&lt;p>In 2009, the seminal integrative literature review on vitamin D and the occurrence of depression included 17 studies on older adults and determined the relationship between vitamin D and depression to be largely circumstantial.&lt;/p></description></item><item><title>Magnesium reduces depression etc.</title><link>/posts/magnesium-reduces-depression-etc.html</link><pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/magnesium-reduces-depression-etc.html</guid><description>&lt;h2 id="magnesium-in-depression">Magnesium in depression.&lt;/h2>
+&lt;p>Pharmacol Rep. 2013;65(3):547-54.&lt;/p>
+&lt;p>Serefko A, Szopa A, Wlaź P, Nowak G, Radziwoń-Zaleska M, Skalski M, Poleszak E.&lt;/p>
+&lt;p>Chair and Department of Applied Pharmacy, Medical University of Lublin, Chodźki 1, PL 20-093 Lublin, Poland. &lt;a href="mailto:ewa.poleszak@umlub.pl">ewa.poleszak@umlub.pl&lt;/a>; &lt;a href="mailto:michal.skalski@wum.edu.pl">michal.skalski@wum.edu.pl&lt;/a>.&lt;/p>
+&lt;p>Magnesium is one of the most essential mineral in the human body, connected with brain biochemistry and the fluidity of neuronal membrane. A variety of neuromuscular and psychiatric symptoms, including different types of depression, was observed in magnesium deficiency. Plasma/serum magnesium levels do not seem to be the appropriate indicators of depressive disorders, since ambiguous outcomes, depending on the study, were obtained. The emergence of a new approach to magnesium compounds in medical practice has been seen.&lt;/p></description></item><item><title>The new happy pill, vitamin D – Prevention</title><link>/posts/the-new-happy-pill-vitamin-d-prevention.html</link><pubDate>Fri, 05 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/the-new-happy-pill-vitamin-d-prevention.html</guid><description>&lt;h3 id="the-new-happy-pill">The New Happy Pill&lt;/h3>
+&lt;h4 id="a-natural-way-to-make-you-shine">A natural way to make you shine&lt;/h4>
+&lt;p>By Jessica Chia, Prevention Magazine&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/happy-pill.jpg" alt="image">
+&lt;p>Vitamin D could be your ticket to a brighter mood.&lt;/p>
+&lt;p>The sunshine vitamin isn’t just for bone health—maintaining healthy levels of the vitamin can combat depressive symptoms, according to a cluster of preliminary research.&lt;/p>
+&lt;p>A weekly dose of 50,000 IU of vitamin D lifted the moods of a group of 46 vitamin D-deficient women with type 2 diabetes. On average, the women alleviated their depressive symptoms from moderately- to mildly-depressed, according to a presentation at the American Diabetes Association’s (ADA) 73rd Scientific Session in Chicago. This mimics the results of another study that was presented at the Endocrine Society 94th Annual Meeting in 2012, in which clinically depressed women began taking vitamin D supplements in addition to their usual antidepressant medications. Once their blood levels of the fat-soluble vitamin were brought up to a healthy level, these women reported fewer depressive symptoms. In one case, a woman’s depressive symptom classification fell from “severely depressed” to “minimally depressed.”&lt;/p></description></item><item><title>99 percent of psychiatric population had less than 30 ng of vitamin D</title><link>/posts/99-percent-of-psychiatric-population-had-less-than-30-ng-of-vitamin-d.html</link><pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate><guid>/posts/99-percent-of-psychiatric-population-had-less-than-30-ng-of-vitamin-d.html</guid><description/></item><item><title>Fewest Google searches for Mental Health when there is lots of vitamin D from the sun</title><link>/posts/fewest-google-searches-for-mental-health-when-there-is-lots-of-vitamin-d-from-the-sun.html</link><pubDate>Thu, 18 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/fewest-google-searches-for-mental-health-when-there-is-lots-of-vitamin-d-from-the-sun.html</guid><description>&lt;h2 id="seasonality-in-seeking-mental-health-information-on-google">Seasonality in Seeking Mental Health Information on Google&lt;/h2>
+&lt;p>American Journal of Preventive Medicine. Volume 44, Issue 5 , Pages 520-525, May 2013&lt;/p>
+&lt;p>John W. Ayers, PhD, MA. Benjamin M. Althouse, ScM , Jon-Patrick Allem, MA , J. Niels Rosenquist, MD, PhD , Daniel E. Ford, MD, MPH&lt;/p>
+&lt;p>Background” Population mental health surveillance is an important challenge limited by resource constraints, long time lags in data collection, and stigma. One promising approach to bridge similar gaps elsewhere has been the use of passively generated digital data.&lt;/p></description></item><item><title>Low vitamin D and depression - Study and meta-analysis,</title><link>/posts/low-vitamin-d-and-depression-study-and-meta-analysis.html</link><pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-and-depression-study-and-meta-analysis.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#the-association-between-low-vitamin-d-and-depressive-disorders">The association between low vitamin D and depressive disorders&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#8-less-likely-to-be-depressed-for-10ng-higher-level-of-vitamin-d---meta-analysis">8% less likely to be depressed for 10ng higher level of vitamin D - Meta-analysis&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h2 id="the-association-between-low-vitamin-d-and-depressive-disorders">The association between low vitamin D and depressive disorders&lt;/h2>
+&lt;p>Molecular Psychiatry , (9 April 2013) | doi:10.1038/mp.2013.36&lt;/p>
+&lt;p>Y Milaneschi, W Hoogendijk, P Lips, A C Heijboer, R Schoevers, A M van Hemert, A T F Beekman, J H Smit and B W J H Penninx&lt;/p></description></item><item><title>Every school shooter had used antidepression drugs, but how many were low on vitamin D</title><link>/posts/every-school-shooter-had-used-antidepression-drugs-but-how-many-were-low-on-vitamin-d.html</link><pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/every-school-shooter-had-used-antidepression-drugs-but-how-many-were-low-on-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#summary">Summary&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-evidence-ssri-antidepressants-cause-mass-shootings---sept-2024">The Evidence SSRI Antidepressants Cause Mass Shootings - Sept 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#87-of-mass-shooters-who-survived-had-mental-illnesses-many-associated-with-low-vitamin-d---dec-2023">87% of mass shooters who survived had mental illnesses, many associated with low Vitamin D - Dec 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#note-a-hrefpostsmagnesium-deficiency-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-947magnesium-deficiencya-is-also-associated-with-low-vitamin-d-and-poor-mental-health">Note: &lt;a href="/posts/magnesium-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium deficiency&lt;/a> is also associated with low vitamin D and poor mental health&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="summary">Summary&lt;/h4>
+&lt;p>&lt;strong>Fact&lt;/strong> People who are depressed are often low on vitamin D&lt;/p>
+&lt;p>&lt;strong>Fact&lt;/strong> People who are depressed take antidepression drugs&lt;/p></description></item><item><title>2X more likely to be depressed if low vitamin D (cohort studies) - Meta-analysis</title><link>/posts/2x-more-likely-to-be-depressed-if-low-vitamin-d-cohort-studies-meta-analysis.html</link><pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/2x-more-likely-to-be-depressed-if-low-vitamin-d-cohort-studies-meta-analysis.html</guid><description>&lt;h1 id="vitamin-d-deficiency-and-depression-in-adults-systematic-review-and-meta-analysis">Vitamin D deficiency and depression in adults: systematic review and meta-analysis&lt;/h1>
+&lt;p>The British Journal of Psychiatry (2013) 202: 100-107&lt;/p>
+&lt;p>Rebecca E. S. Anglin,&lt;/p>
+&lt;p>Zainab Samaan,&lt;/p>
+&lt;p>Stephen D. Walter and&lt;/p>
+&lt;p>Sarah D. McDonald&lt;/p>
+&lt;p>Rebecca E. S. Anglin, MD, PhD, FRCPC, Department of Psychiatry and Behavioural Neurosciences and Medicine, McMaster University; Zainab Samaan, MRCPsych, PhD, Department of Psychiatry and Behavioural Neurosciences, McMaster University; Stephen D. Walter, PhD, Department of Clinical Epidemiology and Biostatistics, McMaster University; Sarah D. McDonald, MD, MSc, Division of Maternal-Fetal Medicine, Departments of Obstetrics and Gynecology, Diagnostic Imaging and Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Ontario, Canada&lt;/p></description></item><item><title>Low vitamin D intake associated with depressive symptoms in senior women</title><link>/posts/low-vitamin-d-intake-associated-with-depressive-symptoms-in-senior-women.html</link><pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-intake-associated-with-depressive-symptoms-in-senior-women.html</guid><description>&lt;h2 id="vitamin-d-intake-from-foods-and-supplements-and-depressive-symptoms-in-a-diverse-population-of-older-women1234">Vitamin D intake from foods and supplements and depressive symptoms in a diverse population of older women1,2,3,4&lt;/h2>
+&lt;p>Am J Clin Nutr. 2011 October; 94(4): 1104–1112.&lt;/p>
+&lt;p>Published online 2011 August 24. &lt;a href="https://doi.org/10.3945/ajcn.111.017384">doi: 10.3945/ajcn.111.017384&lt;/a>; PMCID: PMC3173027&lt;/p>
+&lt;p>Elizabeth R. Bertone-Johnson,corresponding author Sally I. Powers, Leslie Spangler, Robert L. Brunner, Yvonne L. Michael, Joseph C. Larson, Amy E. Millen, Maria N. Bueche, Elena Salmoirago-Blotcher, Simin Liu, Sylvia Wassertheil-Smoller, Judith K. Ockene, Ira Ockene, and JoAnn E. Manson&lt;/p></description></item><item><title>Mental health problems cut in half when have adequate level of vitamin D</title><link>/posts/mental-health-problems-cut-in-half-when-have-adequate-level-of-vitamin-d.html</link><pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/mental-health-problems-cut-in-half-when-have-adequate-level-of-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-and-common-mental-disorders-in-mid-life-cross-sectional-and-prospective-findings">Vitamin D and common mental disorders in mid-life: cross-sectional and prospective findings&lt;/h4>
+&lt;p>Clinical Nutrition, Jan 2013&lt;/p>
+&lt;p>Jane Maddock, Diane J. Berry, Marie-Claude Geoffroy, Chris Power, Elina Hyppönen&lt;/p>
+&lt;p>MRC Centre of Epidemiology for Child Health/Centre for Paediatric Epidemiology and Biostatistics, UCL Institute of Child Health, UK&lt;/p>
+&lt;p>The relationship between vitamin D and common mental disorders (CMDs) remains unclear. We aimed to determine if behaviours affecting vitamin D concentrations differ between individuals with or without CMDs and evaluate, cross-sectionally and prospectively, the extent to which the association between 25(OH)D and CMDs are explained by these behaviours.&lt;/p></description></item><item><title>First and 2nd generation migrants 2X more likely to have psychotic disorders</title><link>/posts/first-and-2nd-generation-migrants-2x-more-likely-to-have-psychotic-disorders.html</link><pubDate>Tue, 08 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/first-and-2nd-generation-migrants-2x-more-likely-to-have-psychotic-disorders.html</guid><description>&lt;h1 id="ethnic-minority-position-and-risk-for-psychotic-disorders">Ethnic minority position and risk for psychotic disorders&lt;/h1>
+&lt;p>Current Opinion in Psychiatry:&lt;/p>
+&lt;p>Veling, Wim&lt;/p>
+&lt;p>Purpose of review: This article reviews the recent literature about migration, ethnic minority position and the risk of psychotic disorders.&lt;/p>
+&lt;p>Recent findings: A meta-analysis found that both first and second-generation migrants have on average a two-fold increase in risk for psychotic disorders. In the Netherlands, the risk was most elevated for individuals who migrated in early childhood. Several studies investigated diagnostic ethnic bias and reported greater likelihood of schizophrenia diagnosis in ethnic minority patients at the cost of diagnosis of affective psychotic disorders. Neighbourhood ethnic density was related to prevalence of psychotic experiences in ethnic minority populations in the UK. Perceived discrimination was associated with severity of psychotic and depressive symptoms in ethnic minority patients. Both weak and strong ethnic identification, as well as experiences of social adversity, were related to risk for psychosis.&lt;/p></description></item><item><title>Suicide 2X more likely with low vitamin D (in military)</title><link>/posts/suicide-2x-more-likely-with-low-vitamin-d-in-military.html</link><pubDate>Sun, 06 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/suicide-2x-more-likely-with-low-vitamin-d-in-military.html</guid><description>&lt;h3 id="low-vitamin-d-status-and-suicide">Low Vitamin D Status and Suicide:&lt;/h3>
+&lt;p>A Case-Control Study of Active Duty Military Service Members&lt;/p>
+&lt;p>Plos One Jan 2013&lt;/p>
+&lt;p>John C. Umhau &lt;a href="mailto:umhau@jhu.edu">umhau@jhu.edu&lt;/a>, David T. George, Robert P. Heaney, Michael D. Lewis, Robert J. Ursano, Markus Heilig, Joseph R. Hibbeln equal contributor, Melanie L. Schwandt equal contributor,&lt;/p>
+&lt;p>Objective: Considering that epidemiological studies show that suicide rates in many countries are highest in the spring when vitamin D status is lowest, and that low vitamin D status can affect brain function, we sought to evaluate if a low level of 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> could be a predisposing factor for suicide.&lt;/p></description></item><item><title>Psychiatric disorders in a few elderly associated with insufficient vitamin D</title><link>/posts/psychiatric-disorders-in-a-few-elderly-associated-with-insufficient-vitamin-d.html</link><pubDate>Wed, 26 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/psychiatric-disorders-in-a-few-elderly-associated-with-insufficient-vitamin-d.html</guid><description>&lt;h1 id="hypovitaminosis-d-a-contributor-to-psychiatric-disorders-in-elderly">Hypovitaminosis d: a contributor to psychiatric disorders in elderly?&lt;/h1>
+&lt;p>Can Geriatr J. 2012 Sep;15(3):80-4. &lt;a href="https://doi.org/10.5770/cgj.15.39.">doi: 10.5770/cgj.15.39.&lt;/a> Epub 2012 Sep 20.&lt;/p>
+&lt;p>Ford J, Hategan A, Bourgeois JA &lt;a href="mailto:james.bourgeois@ucsf.edu">james.bourgeois@ucsf.edu&lt;/a>, Tisi DK.&lt;/p>
+&lt;p>Department of Psychiatry and Behavioural Neurosciences, Michael G. DeGroote School of Medicine, Faculty of Health Sciences, McMaster University, Hamilton, ON;&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>Hypovitaminosis D is unrecognized and remarkably common in geriatric patients, with various clinical manifestations. The purpose of this study was to prospectively assess the vitamin D (VD) status in newly admitted psychogeriatric patients, and to study the correlation of VD status with indicators of calcium metabolism.&lt;/p></description></item><item><title>Antidepressants might increase infertility and pregnancy problems</title><link>/posts/antidepressants-might-increase-infertility-and-pregnancy-problems.html</link><pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/antidepressants-might-increase-infertility-and-pregnancy-problems.html</guid><description/></item><item><title>Depression book talks about vitamin D</title><link>/posts/depression-book-talks-about-vitamin-d.html</link><pubDate>Sat, 03 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/depression-book-talks-about-vitamin-d.html</guid><description/></item><item><title>Hypothesis: Some Mental Illness could be treated or prevented with vitamin D</title><link>/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d.html</link><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#started-reading-anatomy-of-an-epidemic-magic-bullets-psychiatric-drugs-and-the-astonishing-rise-of-mental-illness-in-america-httpwwwamazoncomanatomy-epidemic-bullets-psychiatric-astonishingdp0307452425refsr_1_1sbooksieutf8qid1351721770sr1-1keywordsepidemic">Started reading &lt;a href="http://www.amazon.com/Anatomy-Epidemic-Bullets-Psychiatric-Astonishing/dp/0307452425/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1351721770&amp;amp;sr=1-1&amp;amp;keywords=epidemic">Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America &lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#i-observe-that">I observe that&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#it-will-be-interesting-how-many-a-hrefpostsother-factors-to-point-to-health-problems-associated-with-low-vitamin-d-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-597other-factors-to-point-to-health-problems-associated-with-low-vitamin-da-such-as">It will be interesting how many &lt;a href="/posts/other-factors-to-point-to-health-problems-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 597">other factors to point to health problems associated with low vitamin D&lt;/a> such as:&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-levels-of-psychiatric-out-patients-did-not-vary-much-with-season">Vitamin D levels of psychiatric out-patients did not vary much with season&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-is-it-ready-for-psychiatric-prime-time">Vitamin D: Is It Ready for Psychiatric Prime Time?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-does-it-play-a-role-in-psychiatry">Vitamin D: Does it play a role in psychiatry?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#seasonal-distribution-of-psychiatric-births-in-england">Seasonal Distribution of Psychiatric Births in England&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#why-are-mental-illness-patients-extremely-low-on-vitamin-d">Why are Mental Illness patients extremely low on vitamin D?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-among-psychiatric-inpatients">Vitamin D Deficiency Among Psychiatric Inpatients&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-psychiatric-inpatients-in-new-zealands-waikato-region">Vitamin D status of psychiatric inpatients in New Zealand’s Waikato region&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#feasibility-of-screening-for-and-treating-vitamin-d-deficiency-in-forensic-psychiatric-inpatients">Feasibility of screening for and treating vitamin D deficiency in forensic psychiatric inpatients.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-among-psychiatric-inpatients-1">Vitamin d deficiency among psychiatric inpatients.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-association-of-25-hydroxyvitamin-d3-and-d2-with-behavioural-problems-in-childhood">The association of 25-hydroxyvitamin D3 and D2 with behavioural problems in childhood.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-psychotic-features-in-mentally-ill-adolescents-a-cross-sectional-study">Vitamin D deficiency and psychotic features in mentally ill adolescents: A cross-sectional study.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-status-of-psychiatric-inpatients-in-new-zealands-waikato-region-1">Vitamin D status of psychiatric inpatients in New Zealand&amp;rsquo;s Waikato region.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-deficiency-and-depression-causal-relationship-or-artifact">Vitamin D deficiency and depression: Causal relationship or artifact?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-a-potential-role-in-reducing-suicide-risk">Vitamin D: a potential role in reducing suicide risk?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#effects-of-vitamin-d-supplementation-on-cognitive-and-emotional-functioning-in-young-adults--a-randomised-controlled-trial">Effects of vitamin D supplementation on cognitive and emotional functioning in young adults&amp;ndash;a randomised controlled trial.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#d-for-depression-any-role-for-vitamin-d-food-for-thought-ii">&amp;lsquo;D&amp;rsquo; for depression: any role for vitamin D? &amp;lsquo;Food for Thought&amp;rsquo; II.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-and-depression">Vitamin D and depression.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#5700-iu-of-vitamin-d-not-enough-to-decrease-depression">5700 IU of vitamin D not enough to decrease depression&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#children-and-adolescents-with-severe-mental-illness-need-vitamin-d-supplementation-regardless-of-disease-or-treatment">Children and adolescents with severe mental illness need vitamin D supplementation regardless of disease or treatment.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#spanthe-effect-of-vitamin-d-on-neuropsychiatric-conditionsspan">&lt;span>[The effect of vitamin D on neuropsychiatric conditions]&lt;/span>.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#37-of-psychiatric-inpatients-had-vitamin-d-levels--25-ng">37% of Psychiatric Inpatients had vitamin D levels &amp;lt; 25 ng&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#mental-disorders-wikipediahttpenwikipediaorgwikilist_of_mental_disorders_as_defined_by_the_dsm_and_icd">&lt;a href="http://en.wikipedia.org/wiki/List_of_mental_disorders_as_defined_by_the_DSM_and_ICD">Mental Disorders wikipedia&lt;/a>&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="started-reading-anatomy-of-an-epidemic-magic-bullets-psychiatric-drugs-and-the-astonishing-rise-of-mental-illness-in-america-httpwwwamazoncomanatomy-epidemic-bullets-psychiatric-astonishingdp0307452425refsr_1_1sbooksieutf8qid1351721770sr1-1keywordsepidemic">Started reading &lt;a href="http://www.amazon.com/Anatomy-Epidemic-Bullets-Psychiatric-Astonishing/dp/0307452425/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1351721770&amp;amp;sr=1-1&amp;amp;keywords=epidemic">Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America &lt;/a>&lt;/h3>
+&lt;h3 id="i-observe-that">I observe that&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>People with mental illness often have diseases associated with low vitamin D&lt;/p></description></item><item><title>Much less depression if higher than 43 ng of vitamin D</title><link>/posts/much-less-depression-if-higher-than-43-ng-of-vitamin-d.html</link><pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/much-less-depression-if-higher-than-43-ng-of-vitamin-d.html</guid><description/></item><item><title>Association between season of birth and suicide – perhaps vitamin D</title><link>/posts/association-between-season-of-birth-and-suicide-perhaps-vitamin-d.html</link><pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate><guid>/posts/association-between-season-of-birth-and-suicide-perhaps-vitamin-d.html</guid><description>&lt;h3 id="associations-between-season-of-birth-and-suicide-a-brief-review">Associations between season of birth and suicide: a brief review.&lt;/h3>
+&lt;p>Neuropsychopharmacol Hung. 2012 Sep;14(3):177-87.&lt;/p>
+&lt;p>Antonsen JH, Gonda X, Dome P, Rihmer Z.&lt;/p>
+&lt;p>NAF-garden family practice, Brugata 6, 2380 Brumunddal, Norway. &lt;a href="mailto:kendermagos@yahoo.com">kendermagos@yahoo.com&lt;/a>.&lt;/p>
+&lt;p>Suicide is a complex behaviour contributing to a significant number of unnecessary deaths worldwide. Accordingly, the quest for suicide risk factors is one of the most intensively developing issues of psychiatric research. In the last few decades a number of interesting results have been published about associations between season of birth (SOB) and several physiological and pathological aspects of human life, while, in regard to neuroscience, several investigations confirmed that SOB is associated with the risk of several major neuropsychiatric disorders and suicide as well. Research concerning the possible causative factors behind these associations were also performed suggesting that&lt;/p></description></item><item><title>400 IU vitamin D was not enough to stop depression</title><link>/posts/400-iu-vitamin-d-was-not-enough-to-stop-depression.html</link><pubDate>Fri, 31 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/400-iu-vitamin-d-was-not-enough-to-stop-depression.html</guid><description>&lt;h2 id="see-vitamin-d-supplementation-does-not-reduce-depression-risk-in-older-womenhttppsychiatryjwatchorgcgicontentfull20128301maxtoshowhits10hits5resultformatandorexacttitleandtitleabstractvitamindandorexacttitleabsphraseandorexactfulltextandsearchid1usestrictdatesyesresourcetypehwcitct">See &lt;a href="http://psychiatry.jwatch.org/cgi/content/full/2012/830/1?maxtoshow=&amp;amp;HITS=10&amp;amp;hits=5&amp;amp;RESULTFORMAT=&amp;amp;andorexacttitle=and&amp;amp;titleabstract=vitamin+d&amp;amp;andorexacttitleabs=phrase&amp;amp;andorexactfulltext=and&amp;amp;searchid=1&amp;amp;usestrictdates=yes&amp;amp;resourcetype=HWCIT&amp;amp;ct">Vitamin D Supplementation Does Not Reduce Depression Risk in Older Women&lt;/a>&lt;/h2>
+&lt;p>Although the vitamin D dose might have been too small, the authors note that when added to intake from food, it achieved the daily dose recommended by the Institute of Medicine.&lt;/p></description></item><item><title>Depression 50 percent more likely if low vitamin D in early pregnancy</title><link>/posts/depression-50-percent-more-likely-if-low-vitamin-d-in-early-pregnancy.html</link><pubDate>Fri, 10 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/depression-50-percent-more-likely-if-low-vitamin-d-in-early-pregnancy.html</guid><description>&lt;h4 id="maternal-early-pregnancy-vitamin-d-status-is-associated-with-maternal-depressive-symptoms-in-the-amsterdam-born-children-and-their-development-cohort">Maternal Early-Pregnancy Vitamin D Status Is Associated With Maternal Depressive Symptoms in the Amsterdam Born Children and Their Development Cohort&lt;/h4>
+&lt;p>Psychosomatic Medicine August 9, 2012 PSY.0b013e3182639fdb Joke Brandenbarg, MSc, Tanja G.M. Vrijkotte, PhD, Geertje Goedhart, PhD and Manon van Eijsden, PhD &lt;a href="mailto:mveijsden@ggd.amsterdam.nl">mveijsden@ggd.amsterdam.nl&lt;/a>&lt;/p>
+&lt;p>From the Department of Epidemiology, Documentation, and Health Promotion (J.B., M.v.E.), Public Health Service; Department of Health Sciences (M.v.E.), VU University; and Department of Public Health (T.G.M.V.), Academic Medical Center, University of Amsterdam, Amsterdam; and Institute for Risk Assessment Sciences (G.G.), University of Utrecht, Utrecht, the Netherlands.&lt;/p></description></item><item><title>Major depression associated with low vitamin D and low bone density</title><link>/posts/major-depression-associated-with-low-vitamin-d-and-low-bone-density.html</link><pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/major-depression-associated-with-low-vitamin-d-and-low-bone-density.html</guid><description>&lt;h3 id="do-premenopausal-women-with-major-depression-have-low-bone-mineral-density-a-36-month-prospective-study">Do Premenopausal Women with Major Depression Have Low Bone Mineral Density? A 36-Month Prospective Study.&lt;/h3>
+&lt;p>PLoS One. 2012;7(7):e40894. Epub 2012 Jul 27.&lt;/p>
+&lt;p>Cizza G &lt;a href="mailto:cizzag@intra.niddk.nih.gov">cizzag@intra.niddk.nih.gov&lt;/a>, Mistry S, Nguyen VT, Eskandari F, Martinez P, Torvik S, Reynolds JC, Gold PW, Sinai N, Csako G; for the POWER Study Group.&lt;/p>
+&lt;p>Section on Neuroendocrinology of Obesity, National Institutes of Diabetes and Digestive Kidney Diseases (NIDDK), National Institutes of Health, Bethesda, Maryland, United States of America.&lt;/p></description></item><item><title>Pregnant blacks 50 pcnt more likely to be depressed if 3 ng less vitamin D</title><link>/posts/pregnant-blacks-50-pcnt-more-likely-to-be-depressed-if-3-ng-less-vitamin-d.html</link><pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/pregnant-blacks-50-pcnt-more-likely-to-be-depressed-if-3-ng-less-vitamin-d.html</guid><description/></item><item><title>Depression not reduced with 5700 IU vitamin D average in 6 months</title><link>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</link><pubDate>Fri, 13 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</guid><description/></item></channel></rss>

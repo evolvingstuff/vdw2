@@ -1,330 +1,135 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Too Much D on VitaminDWiki</title><link>/categories/too-much-d.html</link><description>Recent content in Too Much D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/categories/too-much-d/index.xml" rel="self" type="application/rss+xml"/><item><title>Vitamin A and dioxin-like compounds in fish liver, etc may block vitamin D</title><link>/posts/vitamin-a-and-dioxin-like-compounds-in-fish-liver-etc-may-block-vitamin-d.html</link><pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-a-and-dioxin-like-compounds-in-fish-liver-etc-may-block-vitamin-d.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!!!!Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`
-│ inner_content: `Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`
-│ level: `4`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`
-│ │ inner_content: `Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`├── TextNode
-│ full_match: `\nMol Nutr Food Res. 2012 Mar;56(3):388-98. `
-│ inner_content: `\nMol Nutr Food Res. 2012 Mar;56(3):388-98. `├── DoiLinkNode
-│ full_match: `doi: 10.1002/mnfr.201100395.`
-│ inner_content: `10.1002/mnfr.201100395.`├── TextNode
-│ full_match: ` Epub 2012 Feb 8.\nBirgisdottir BE, Brantsaeter AL, Kvalem HE, Knutsen HK, Haugen M, Alexander J, Hetland RB, Aksnes L, Meltzer HM.\nDivision of Environmental Medicine, Norwegian Institute of Public Health, Oslo, Norway. bryndis.eva.birgisdottir@fhi.no\n\nSCOPE: Fish liver, fish liver oil, oily fish and seagull eggs have been major sources of vitamin D for the coastal population of Norway. They also provide dioxin and polychlorinated dioxin-like compounds (dl-compounds), which may interfere with vitamin D homeostasis. We investigated whether serum 25-hydroxyvitamin D (25(OH)D) might be compromised by concomitant intake of dl-compounds.\n\nMETHODS AND RESULTS: We studied 182 adults participating in the Norwegian Fish and Game Study. Participants who consumed fish liver and/or seagull eggs had higher dl-compound intake and blood concentrations than non-consumers (p &amp;lt; 0.001). \n\nVitamin D intake was higher (p &amp;lt; 0.001), whereas serum 25(OH)D was lower (p = 0.029) in consumers than in non-consumers. \n\nAmong non-consumers, vitamin D intake was associated with serum 25(OH)D (?=1.06; 95% CI: 0.48, 1.63). This association was weaker among consumers (? = 0.52; 95% CI: -0.05, 1.08), but strengthened when adjusted for retinol intake (? = 0.66; 95% CI: 0.12, 1.21). The association between vitamin D intake and serum 25(OH)D did not seem to be compromised by intake of dl-compounds.\n\nCONCLUSION: To secure adequate vitamin D status while keeping the intake of dioxins and dl-polychlorinated biphenyls low, a healthy diet should include both supplemental vitamin D and oily fish. \n`
-│ inner_content: ` Epub 2012 Feb 8.\nBirgisdottir BE, Brantsaeter AL, Kvalem HE, Knutsen HK, Haugen M, Alexander J, Hetland RB, Aksnes L, Meltzer HM.\nDivision of Environmental Medicine, Norwegian Institute of Public Health, Oslo, Norway. bryndis.eva.birgisdottir@fhi.no\n\nSCOPE: Fish liver, fish liver oil, oily fish and seagull eggs have been major sources of vitamin D for the coastal population of Norway. They also provide dioxin and polychlorinated dioxin-like compounds (dl-compounds), which may interfere with vitamin D homeostasis. We investigated whether serum 25-hydroxyvitamin D (25(OH)D) might be compromised by concomitant intake of dl-compounds.\n\nMETHODS AND RESULTS: We studied 182 adults participating in the Norwegian Fish and Game Study. Participants who consumed fish liver and/or seagull eggs had higher dl-compound intake and blood concentrations than non-consumers (p &amp;lt; 0.001). \n\nVitamin D intake was higher (p &amp;lt; 0.001), whereas serum 25(OH)D was lower (p = 0.029) in consumers than in non-consumers. \n\nAmong non-consumers, vitamin D intake was associated with serum 25(OH)D (?=1.06; 95% CI: 0.48, 1.63). This association was weaker among consumers (? = 0.52; 95% CI: -0.05, 1.08), but strengthened when adjusted for retinol intake (? = 0.66; 95% CI: 0.12, 1.21). The association between vitamin D intake and serum 25(OH)D did not seem to be compromised by intake of dl-compounds.\n\nCONCLUSION: To secure adequate vitamin D status while keeping the intake of dioxins and dl-polychlorinated biphenyls low, a healthy diet should include both supplemental vitamin D and oily fish. \n`├── BoldNode
-│ full_match: `__Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.__`
-│ inner_content: `Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.`
-│ │ inner_content: `Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.`├── TextNode
-│ full_match: `\n\nCopyright © 2012 WILEY-VCH Verlag GmbH &amp;amp; Co. KGaA, Weinheim.\n\nPMID: 22319024\n– – – – – – – – – – \n`
-│ inner_content: `\n\nCopyright © 2012 WILEY-VCH Verlag GmbH &amp;amp; Co. KGaA, Weinheim.\n\nPMID: 22319024\n– – – – – – – – – – \n`├── HeadingNode
-│ full_match: `!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]`
-│ │ inner_content: `Vitamin D needs some vitamin A, but not too much – Nov 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2208`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D needs some vitamin A, but not too much – Nov 2011`
-│ │ │ inner_content: `Vitamin D needs some vitamin A, but not too much – Nov 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
-│ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=583`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
-│ │ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]`
-│ │ inner_content: `Masterjohn on relationships between Vitamin A D and K – Dec 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1240`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Masterjohn on relationships between Vitamin A D and K – Dec 2010`
-│ │ │ inner_content: `Masterjohn on relationships between Vitamin A D and K – Dec 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]`
-│ │ inner_content: `Vitamin A and risk of prostate cancer – March 2011`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1475`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin A and risk of prostate cancer – March 2011`
-│ │ │ inner_content: `Vitamin A and risk of prostate cancer – March 2011`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
-│ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=583`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
-│ │ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]`
-│ │ inner_content: `Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1200`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010`
-│ │ │ inner_content: `Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]`
-│ │ inner_content: `Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3041`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012`
-│ │ │ inner_content: `Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]`
-│ │ inner_content: `Increased salt consumption decreased vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2737`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Increased salt consumption decreased vitamin D`
-│ │ │ inner_content: `Increased salt consumption decreased vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+decreases effectiveness of vitamin D by depleting [https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium] and [https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium] [https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]`
-│ inner_content: `decreases effectiveness of vitamin D by depleting [https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium] and [https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium] [https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `decreases effectiveness of vitamin D by depleting `
-│ │ inner_content: `decreases effectiveness of vitamin D by depleting `
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium]`
-│ │ inner_content: `Magnesium`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=947`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Magnesium`
-│ │ │ inner_content: `Magnesium`
-│ ├── TextNode
-│ │ full_match: ` and `
-│ │ inner_content: ` and `
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium]`
-│ │ inner_content: `Calcium`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1446`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Calcium`
-│ │ │ inner_content: `Calcium`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]`
-│ │ inner_content: `cofactors`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1270`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `cofactors`
-│ │ │ inner_content: `cofactors`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))`
-│ inner_content: `((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))`
-│ depth: `1`
-│ children:
-│ ├── LocalLinkNode
-│ │ full_match: `((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))`
-│ │ inner_content: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`
-│ │ page: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`
-│ │ │ inner_content: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A]`
-│ │ inner_content: `All items in category Vitamin A`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in category Vitamin A`
-│ │ │ inner_content: `All items in category Vitamin A`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!See also web`
-│ inner_content: `See also web`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also web`
-│ │ inner_content: `See also web`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia] __dioxin-like compounds__`
-│ inner_content: `[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia] __dioxin-like compounds__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia]`
-│ │ inner_content: `Wikipedia`
-│ │ url: `http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Wikipedia`
-│ │ │ inner_content: `Wikipedia`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__dioxin-like compounds__`
-│ │ inner_content: `dioxin-like compounds`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `dioxin-like compounds`
-│ │ │ inner_content: `dioxin-like compounds`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+are by-products of various industrial processes,`
-│ inner_content: `are by-products of various industrial processes,`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `are by-products of various industrial processes,`
-│ │ inner_content: `are by-products of various industrial processes,`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
-│ inner_content: `are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
-│ │ inner_content: `are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
-
-Original Tiki:
--------------
-!!!!Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.
-Mol Nutr Food Res. 2012 Mar;56(3):388-98. doi: 10.1002/mnfr.201100395. Epub 2012 Feb 8.
-Birgisdottir BE, Brantsaeter AL, Kvalem HE, Knutsen HK, Haugen M, Alexander J, Hetland RB, Aksnes L, Meltzer HM.
-Division of Environmental Medicine, Norwegian Institute of Public Health, Oslo, Norway. bryndis.eva.birgisdottir@fhi.no
-
-SCOPE: Fish liver, fish liver oil, oily fish and seagull eggs have been major sources of vitamin D for the coastal population of Norway. They also provide dioxin and polychlorinated dioxin-like compounds (dl-compounds), which may interfere with vitamin D homeostasis. We investigated whether serum 25-hydroxyvitamin D (25(OH)D) might be compromised by concomitant intake of dl-compounds.
-
-METHODS AND RESULTS: We studied 182 adults participating in the Norwegian Fish and Game Study. Participants who consumed fish liver and/or seagull eggs had higher dl-compound intake and blood concentrations than non-consumers (p &amp;lt; 0.001). 
-
-Vitamin D intake was higher (p &amp;lt; 0.001), whereas serum 25(OH)D was lower (p = 0.029) in consumers than in non-consumers. 
-
-Among non-consumers, vitamin D intake was associated with serum 25(OH)D (?=1.06; 95% CI: 0.48, 1.63). This association was weaker among consumers (? = 0.52; 95% CI: -0.05, 1.08), but strengthened when adjusted for retinol intake (? = 0.66; 95% CI: 0.12, 1.21). The association between vitamin D intake and serum 25(OH)D did not seem to be compromised by intake of dl-compounds.
-
-CONCLUSION: To secure adequate vitamin D status while keeping the intake of dioxins and dl-polychlorinated biphenyls low, a healthy diet should include both supplemental vitamin D and oily fish. 
-__Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.__
-
-Copyright © 2012 WILEY-VCH Verlag GmbH &amp;amp; Co. KGaA, Weinheim.
-
-PMID: 22319024
-– – – – – – – – – – 
-!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]
-+decreases effectiveness of vitamin D by depleting [https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium] and [https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium] [https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]
-*((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__
-!See also web
-*[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia] __dioxin-like compounds__
-+are by-products of various industrial processes,
-+are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants
-&lt;/code>
-&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Too Much D on VitaminDWiki</title><link>/categories/too-much-d.html</link><description>Recent content in Too Much D on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="/categories/too-much-d/index.xml" rel="self" type="application/rss+xml"/><item><title>Increasing number of people admitted to a hospital in India have very high vitamin D</title><link>/posts/increasing-number-of-people-admitted-to-a-hospital-in-india-have-very-high-vitamin-d.html</link><pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/increasing-number-of-people-admitted-to-a-hospital-in-india-have-very-high-vitamin-d.html</guid><description/></item><item><title>Does too much Vitamin D cause problems – possible for allergies, maybe for falls – Review</title><link>/posts/does-too-much-vitamin-d-cause-problems-possible-for-allergies-maybe-for-falls-review.html</link><pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate><guid>/posts/does-too-much-vitamin-d-cause-problems-possible-for-allergies-maybe-for-falls-review.html</guid><description/></item><item><title>Diabetic neuropathy least likely if have 30-40 ng of vitamin D</title><link>/posts/diabetic-neuropathy-least-likely-if-have-30-40-ng-of-vitamin-d.html</link><pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate><guid>/posts/diabetic-neuropathy-least-likely-if-have-30-40-ng-of-vitamin-d.html</guid><description>&lt;h4 id="non-linear-contribution-of-serum-vitamin-d-to-symptomatic-diabetic-neuropathy-a-casecontrol-study">Non-linear contribution of serum vitamin D to symptomatic diabetic neuropathy: A case–control study&lt;/h4>
+&lt;p>Diabetes Research and Clinical Practice doi:10.1016/j.diabres.2015.10.018&lt;/p>
+&lt;p>Alireza Esteghamatia, Akbar Fotouhib, Sara Faghihi-Kashania, b, Nima Hafezi-Nejada, , Behnam Heidaria, Sara Sheikhbahaeia, Ali Zandieha, , Manouchehr Nakhjavania,&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Risk of diabetic neuropathy&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>| | | |
+| &amp;mdash; | &amp;mdash; | &amp;mdash; |
+| &amp;lt; 20 ng | 30-40ng | &amp;gt; 40 ng |
+| 2 X | 1 X | 4.3 X |&lt;/strong>&lt;/p></description></item><item><title>Vitamin D - Comparing Symptoms of Hypercalcemia with Low Magnesium</title><link>/posts/vitamin-d-comparing-symptoms-of-hypercalcemia-with-low-magnesium.html</link><pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-comparing-symptoms-of-hypercalcemia-with-low-magnesium.html</guid><description>&lt;h4 id="from-httpwwwvitamindcouncilorgq-a-forumtopicis-there-a-form-of-vitamin-d-that-wont-give-me-nausea-i-was-taking-the-3k-worth-of-d-that-my-md-recommended-and-i-started-to-experience-extreme-nausea-what-good-is-the-d-if-i-throw-it-up">From [http://www.vitamindcouncil.org/q-a-forum/topic/is-there-a-form-of-vitamin-d-that-wont-give-me-nausea-i-was-taking-the-3k-worth-of-d-that-my-md-recommended-and-i-started-to-experience-extreme-nausea-what-good-is-the-d-if-i-throw-it-up/|&lt;/h4>
+&lt;p>Is there a form of vitamin D that won&amp;rsquo;t give me nausea? I was taking the 3K worth of D that my MD recommended and I started to experience extreme nausea] Vitamin D Council&lt;/p>
+&lt;p>{SPLIT(fixedsize=&amp;ldquo;y&amp;rdquo; colsize=&amp;ldquo;200px|200px|&amp;rdquo;)}&lt;/p>
+&lt;p>&lt;strong>Hypercalcemia Symptoms&lt;/strong>&lt;/p>
+&lt;p>(too much vitamin D)&lt;/p>
+&lt;p>•	feeling sick or being sick&lt;/p>
+&lt;p>•	poor appetite or loss of appetite&lt;/p>
+&lt;p>• feeling very thirsty&lt;/p>
+&lt;p>•	passing urine often&lt;/p>
+&lt;p>• constipation or diarrhea&lt;/p>
+&lt;p>• abdominal pain&lt;/p></description></item><item><title>Too much D</title><link>/posts/too-much-d.html</link><pubDate>Fri, 21 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/too-much-d.html</guid><description/></item><item><title>Vitamin D increases mineral availability which protect against toxic elements</title><link>/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements.html</link><pubDate>Sat, 18 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-increases-mineral-availability-which-protect-against-toxic-elements.html</guid><description>&lt;h2 id="higher-concentration-of-some-metals-associated-with-higher-vitamin-d-near-a-mine-in-mexico---aug-2015">Higher concentration of some metals associated with higher vitamin D near a mine in Mexico - Aug 2015&lt;/h2>
+&lt;p>Association of arsenic and metals with concentrations of 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D among adolescents in Torreón, Mexico.&lt;/p>
+&lt;p>Environ Health Perspect. 2014 Nov;122(11):1233-8. &lt;a href="https://doi.org/10.1289/ehp.1307861.">doi: 10.1289/ehp.1307861.&lt;/a> Epub 2014 Aug 5.&lt;/p>
+&lt;p>Zamoiski RD1, Guallar E, García-Vargas GG, Rothenberg SJ, Resnick C, Andrade MR, Steuerwald AJ, Parsons PJ, Weaver VM, Navas-Acien A, Silbergeld EK.&lt;/p>
+&lt;p>1Department of Environmental Health Sciences, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.&lt;/p></description></item><item><title>Too much Vitamin D</title><link>/posts/too-much-vitamin-d.html</link><pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate><guid>/posts/too-much-vitamin-d.html</guid><description/></item><item><title>Infant psychomotor development has a U shaped relationship with vitamin D cord blood levels</title><link>/posts/infant-psychomotor-development-has-a-u-shaped-relationship-with-vitamin-d-cord-blood-levels.html</link><pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/infant-psychomotor-development-has-a-u-shaped-relationship-with-vitamin-d-cord-blood-levels.html</guid><description/></item><item><title>1 in 6 critically ill in India have high levels of vitamin D (100 ng)</title><link>/posts/1-in-6-critically-ill-in-india-have-high-levels-of-vitamin-d-100-ng.html</link><pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/1-in-6-critically-ill-in-india-have-high-levels-of-vitamin-d-100-ng.html</guid><description>&lt;h4 id="supraphysiological-25-hydroxy-vitamin-d3-level-at-admission-is-associated-with-illness-severity-and-mortality-in-critically-ill-patients">Supraphysiological 25-hydroxy vitamin D3 level at admission is associated with illness severity and mortality in critically ill patients&lt;/h4>
+&lt;p>Journal of Bone and Mineral Metabolism, March 2015, Volume 33, Issue 2, pp 239-243&lt;/p>
+&lt;p>Ravikar Ralph, John Victor Peter, Anugrah Chrispal, Anand Zachariah, Joseph Dian, Tunny Sebastian, Bala Venkatesh, Kurien Thomas&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Department of Medicine, Christian Medical College Hospital (CMCH), Vellore, India&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Medical Intensive Care Unit, CMCH, Vellore, India&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Department of Clinical Biochemistry, CMCH, Vellore, India&lt;/p></description></item><item><title>Vitamin D is good, but must balance Vitamins A and K2 to prevent Calcification – Masterjohn</title><link>/posts/vitamin-d-is-good-but-must-balance-vitamins-a-and-k2-to-prevent-calcification-masterjohn.html</link><pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-is-good-but-must-balance-vitamins-a-and-k2-to-prevent-calcification-masterjohn.html</guid><description>&lt;h3 id="masterjohn-video-36-minutehttpswwwyoutubecomwatchv9h7tbwvnrxq20">&lt;a href="https://www.youtube.com/watch?v=9H7tbWVNrXQ%20">Masterjohn video 36 minute&lt;/a>&lt;/h3>
+&lt;p>Normally we have lots of Ca in the blood – which is needed to add Ca to bones&lt;/p>
+&lt;p>Normally do not have Ca being deposited in wrong locations – kidney stones, arteries&lt;/p>
+&lt;p>Deposition only happens when Vitamin D is increased without also increasing Vitamins A and K&lt;/p>
+&lt;p>&lt;strong>A few slides from the video&lt;/strong>&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/masterjohn-a-d-k-balance.jpg" alt="image" height="300">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/masterjohn-question-after-tufts.jpg" alt="image" height="300">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/masterjohn-study.jpg" alt="image" height="300">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/masterjohn-dose-response.jpg" alt="image" height="300">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/masterjohn-ca-increase-in-kidney-at-highest-vitamin-d.jpg" alt="image" height="300">
+&lt;p>It is interesting that the vitamin D problem did not occur until there was &lt;strong>50,000 IU/kilogram/feed&lt;/strong>&lt;/p></description></item><item><title>Vitamin A interferes with vitamin D and may be the cause of U shaped relationships</title><link>/posts/vitamin-a-interferes-with-vitamin-d-and-may-be-the-cause-of-u-shaped-relationships.html</link><pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-a-interferes-with-vitamin-d-and-may-be-the-cause-of-u-shaped-relationships.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#interactions-of-vitamin-a-with-the-effects-of-vitamin-d-and-their-potential-for-confounding-investigations-on-the-effects-of-vitamin-d-on-human-health">Interactions of vitamin A with the effects of vitamin D and their potential for confounding investigations on the effects of vitamin D on human health&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#more-than-5000-iu-of-vitamin-a-daily-may-reduce-the-mortality-benefit-of-vitamin-d---feb-2015">More than 5000 IU of vitamin A daily may reduce the mortality benefit of vitamin D - Feb 2015&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="interactions-of-vitamin-a-with-the-effects-of-vitamin-d-and-their-potential-for-confounding-investigations-on-the-effects-of-vitamin-d-on-human-health">Interactions of vitamin A with the effects of vitamin D and their potential for confounding investigations on the effects of vitamin D on human health&lt;/h3>
+&lt;p>Boucher BJ; Centre for Diabetes, Queen Mary University of London, London El 2AT, UK.&lt;/p></description></item><item><title>Low testosterone is associated with levels higher than 40 ng of vitamin D (U-shaped)</title><link>/posts/low-testosterone-is-associated-with-levels-higher-than-40-ng-of-vitamin-d-u-shaped.html</link><pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/low-testosterone-is-associated-with-levels-higher-than-40-ng-of-vitamin-d-u-shaped.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#F00;">There are two studies on this page from the same journal&lt;/span>&lt;/strong>&lt;/p>
+&lt;h4 id="serum-vitamin-d-levels-and-hypogonadism-in-men---2014">Serum vitamin D levels and hypogonadism in men - 2014&lt;/h4>
+&lt;p>E. Lerchbaum1,2,*, S. Pilz1,3, C. Trummer1, T. Rabe2, M. Schenk4, A. C. Heijboer5 andB. Obermayer-Pietsch1&lt;/p>
+&lt;p>Andrology, Article first published online: 16 JUL 2014, DOI: 10.1111/j.2047-2927.2014.00247.x&lt;/p>
+&lt;p>Summary&lt;/p>
+&lt;p>There is inconsistent evidence on a possible association of vitamin D and androgen levels in men. We therefore aim to investigate the association of 25-hydroxyvitamin D (25(OH)D) with androgen levels in a cohort of middle-aged men. This cross-sectional study included 225 men with a median (interquartile range) age of 35 (30–41) years. We measured 25(OH)D, total testosterone (TT) and SHBG concentrations. Hypogonadism was defined as TT &amp;lt;10.4 nmol/L. We found no significant correlation of 25(OH)D and androgen levels. Furthermore, androgen levels were not significantly different across 25(OH)D quintiles.&lt;/p></description></item><item><title>Fertility in both women and men improves with more vitamin D (but less than 50 ng for men)</title><link>/posts/fertility-in-both-women-and-men-improves-with-more-vitamin-d-but-less-than-50-ng-for-men.html</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><guid>/posts/fertility-in-both-women-and-men-improves-with-more-vitamin-d-but-less-than-50-ng-for-men.html</guid><description>&lt;h3 id="the-role-of-vitamin-d-in-impaired-fertility-treatment">The role of vitamin D in impaired fertility treatment.&lt;/h3>
+&lt;p>Neuro endocrinology letters (Impact Factor: 0.93). 12/2013; 34(8):756-62.&lt;/p>
+&lt;p>Barbara Grzechocinska, Filip A Dabrowski, Anna Cyganek, Miroslaw Wielgos&lt;/p>
+&lt;p>Vitamin D is currently in the scope of research in many fields of medicine. Despite that its influence on health remains uncertain.&lt;/p>
+&lt;p>This paper presents the review of the publications concerning the role of calciferol in reproduction processes and its significance in infertility therapy covering topics of&lt;/p></description></item><item><title>Increased chance of death if enter hospital with vitamin D greater than 60 ng (u-shaped)</title><link>/posts/increased-chance-of-death-if-enter-hospital-with-vitamin-d-greater-than-60-ng-u-shaped.html</link><pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/increased-chance-of-death-if-enter-hospital-with-vitamin-d-greater-than-60-ng-u-shaped.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#evidence-for-a-u-shaped-relationship-between-prehospital-vitamin-d-status-and-mortality-a-cohort-study">Evidence for a u-shaped relationship between prehospital vitamin d status and mortality: a cohort study.&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#references">References&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#summary-by-vitamindwiki">Summary by VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#25-hydroxyvitamin-d-and-increased-all-cause-mortality-in-very-old-women-the-newcastle-85-study-may-2014">25-hydroxyvitamin D and increased all-cause mortality in very old women: the Newcastle 85+ study. (May 2014)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-vitamindwiki">See also VitaminDWiki&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="evidence-for-a-u-shaped-relationship-between-prehospital-vitamin-d-status-and-mortality-a-cohort-study">Evidence for a u-shaped relationship between prehospital vitamin d status and mortality: a cohort study.&lt;/h3>
+&lt;p>J Clin Endocrinol Metab. 2014 Apr;99(4):1461-9. &lt;a href="https://doi.org/10.1210/jc.2013-3481.">doi: 10.1210/jc.2013-3481.&lt;/a> Epub 2014 Jan 13.&lt;/p>
+&lt;p>Amrein K 1, Quraishi SA, Litonjua AA, Gibbons FK, Pieber TR, Camargo CA Jr, Giovannucci E, Christopher KB.&lt;/p></description></item><item><title>Is too much vitamin D bad – possible causes and cures</title><link>/posts/is-too-much-vitamin-d-bad-possible-causes-and-cures.html</link><pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/is-too-much-vitamin-d-bad-possible-causes-and-cures.html</guid><description>&lt;p>&lt;strong>It is well known that TOO LITTLE vitamin D is associated with health problems&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>TOO MUCH vitamin D may also be associated with health problems&lt;/strong>&lt;/p>
+&lt;h4 id="possible-reasons-include">Possible reasons include:&lt;/h4>
+&lt;ol>
+&lt;li>&lt;strong>Body is out of balance with too much vitamin D – consider adjusting &lt;a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">cofactors&lt;/a>&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>&lt;strong>&lt;span style="color:#06F;">CURE:&lt;/span>&lt;/strong> Increase &lt;a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Vitamin K2&lt;/a>&lt;/p></description></item><item><title>Increased mortality if more than 100 ng of vitamin D – not much detail</title><link>/posts/increased-mortality-if-more-than-100-ng-of-vitamin-d-not-much-detail.html</link><pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate><guid>/posts/increased-mortality-if-more-than-100-ng-of-vitamin-d-not-much-detail.html</guid><description>&lt;h3 id="supraphysiological-25-hydroxy-vitamin-d3-level-at-admission-is-associated-with-illness-severity-and-mortality-in-critically-ill-patients">Supraphysiological 25-hydroxy vitamin D3 level at admission is associated with illness severity and mortality in critically ill patients&lt;/h3>
+&lt;p>Ravikar Ralph, John Victor Peter, Anugrah Chrispal, Anand Zachariah, Joseph Dian, Tunny Sebastian, Bala Venkatesh, Kurien Thomas&lt;/p>
+&lt;p>Journal of Bone and Mineral Metabolism, April 2014&lt;/p>
+&lt;p>We studied the association between admission serum 25-hydroxy vitamin D3 level and in-hospital mortality in a prospective cohort of critically ill patients admitted to the medical intensive care unit of a tertiary care referral center. Of the 180 patients enrolled, 129 were included. Vitamin D3 deficiency was observed in 37 % (n = 48) and supra-physiological levels (≥250 nmol/L) in 15.5 % (n = 20). Patients with supraphysiological vitamin D3 levels were grouped as outliers. There was no difference in mortality (p = 0.41) between vitamin D3 deficient (21/48) and non-deficient (36/81) patients in analysis with and without outliers.&lt;/p></description></item><item><title>Even if a J curve exists, it is 50X better to give vitamin D than not give it</title><link>/posts/even-if-a-j-curve-exists-it-is-50x-better-to-give-vitamin-d-than-not-give-it.html</link><pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/even-if-a-j-curve-exists-it-is-50x-better-to-give-vitamin-d-than-not-give-it.html</guid><description>&lt;h3 id="when-is-a-u-curve-actually-a-j-curve-is-it-really-too-much-of-a-good-thing">When Is a U-Curve Actually a J-Curve? Is It Really Too Much of a Good Thing?&lt;/h3>
+&lt;p>JCEM 2013 98: 2160-2167; doi:10.1210/jc.2013-1185&lt;/p>
+&lt;p>Editorial, John A. Eisman&lt;/p>
+&lt;p>Garvan Institute of Medical Research, Clinical Translation and Advanced Education; St. Vincent&amp;rsquo;s Hospital, Darlinghurst 2010, Australia; Clinical Excellence and Research Department, School of Medicine Sydney, University of Notre Dame Australia, Darlinghurst 2010, Australia; and University of New South Wales, Kensington 2052, Australia&lt;/p>
+&lt;p>Address all correspondence and requests for reprints to: Professor John A. Eisman, MB BS, PhD, Garvan Institute of Medical Research, Clinical Translation and Advanced Education, St. Vincent&amp;rsquo;s Hospital, 384 Victoria Street, Darlinghurst 2010, Australia. E-mail: &lt;a href="mailto:j.eisman@garvan.org.au">j.eisman@garvan.org.au&lt;/a>.&lt;/p></description></item><item><title>Vitamin A may hinder vitamin D benefits associated with Lung Cancer</title><link>/posts/vitamin-a-may-hinder-vitamin-d-benefits-associated-with-lung-cancer.html</link><pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-a-may-hinder-vitamin-d-benefits-associated-with-lung-cancer.html</guid><description>&lt;h3 id="vitamin-d-interaction-with-vitamin-a-and-lung-cancer">Vitamin D, Interaction with Vitamin A and Lung Cancer&lt;/h3>
+&lt;p>&lt;a href="https://digital.lib.washington.edu/dspace/handle/1773/23750%20">Cheng, Ting-Yuan, PhD dissertation&lt;/a>, University of Washington, July 2013&lt;/p>
+&lt;p>Vitamin D inhibits several pathways of lung cancer carcinogenesis and cells in the respiratory tract produce and utilize vitamin D.&lt;/p>
+&lt;p>Vitamin D&amp;rsquo;s functions rely on vitamin D receptor together with retinoid X receptor, which ligands with 9-cis-retinoic acid, a vitamin A (retinol) metabolite.&lt;/p>
+&lt;p>The objectives of this dissertation are to investigate&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>whether high versus low vitamin D intake is associated with lower lung cancer incidence,&lt;/p></description></item><item><title>7 X more likely to get hip fracture if have highest level of vitamin A</title><link>/posts/7-x-more-likely-to-get-hip-fracture-if-have-highest-level-of-vitamin-a.html</link><pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/7-x-more-likely-to-get-hip-fracture-if-have-highest-level-of-vitamin-a.html</guid><description>&lt;h4 id="serum-retinol-levels-and-the-risk-of-fracture">Serum retinol levels and the risk of fracture.&lt;/h4>
+&lt;p>N Engl J Med. 2003 Jan 23;348(4):287-94.&lt;/p>
+&lt;p>Michaëlsson K, Lithell H, Vessby B, Melhus H.&lt;/p>
+&lt;p>Department of Surgical Sciences, Section of Orthopedics, University Hospital, Uppsala, Sweden. &lt;a href="mailto:karl.michaelsson@surgsci.uu.se">karl.michaelsson@surgsci.uu.se&lt;/a>&lt;/p>
+&lt;p>BACKGROUND: Although studies in animals and epidemiologic studies have indicated that a high vitamin A intake is associated with increased bone fragility, no biologic marker of vitamin A status has thus far been used to assess the risk of fractures in humans.&lt;/p></description></item><item><title>2X more complications after heart surgery associated with high level of vitamin D</title><link>/posts/2x-more-complications-after-heart-surgery-associated-with-high-level-of-vitamin-d.html</link><pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/2x-more-complications-after-heart-surgery-associated-with-high-level-of-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-status-and-the-risk-of-major-adverse-cardiac-and-cerebrovascular-events-in-cardiac-surgery">Vitamin D status and the risk of major adverse cardiac and cerebrovascular events in cardiac surgery&lt;/h4>
+&lt;p>Eur Heart J (2013) &lt;a href="https://doi.org/10.1093/eurheartj/ehs468">doi: 10.1093/eurheartj/ehs468&lt;/a> First published online: January 12, 2013&lt;/p>
+&lt;p>Armin Zittermann 1,*; Joachim Kuhn 2; Jens Dreier 2; Cornelius Knabbe 2; Jan F. Gummert 1; Jochen Börgermann 1&lt;/p>
+&lt;p>1 Clinic for Thoracic and Cardiovascular Surgery, Heart and Diabetes Center North Rhine-Westphalia, Ruhr University Bochum, Georgstrasse 11, Bad Oeynhausen, Germany&lt;/p>
+&lt;p>2 Institute for Laboratory and Transfusion Medicine, Heart and Diabetes Center North Rhine-Westphalia, Ruhr University Bochum, Georgstrasse 11, Bad Oeynhausen, Germany&lt;/p></description></item><item><title>Is High Dose Vitamin D Harmful</title><link>/posts/is-high-dose-vitamin-d-harmful.html</link><pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/is-high-dose-vitamin-d-harmful.html</guid><description>&lt;h4 id="is-high-dose-vitamin-d-harmful">Is High Dose Vitamin D Harmful?&lt;/h4>
+&lt;p>Calcif Tissue Int Dec 2012 DOI 10.1007/s00223-012-9679-1&lt;/p>
+&lt;p>Kerrie M. Sanders • Geoffrey C. Nicholson • Peter R. Ebeling&lt;/p>
+&lt;p>K. M. Sanders (&amp;amp;) • G. C. Nicholson • P. R. Ebeling Department of Medicine, Western Health, NorthWest Academic Centre, University of Melbourne, PO Box 294, St Albans, VIC 3021, Australia e-mail: &lt;a href="mailto:ksanders@unimelb.edu.au">ksanders@unimelb.edu.au&lt;/a>&lt;/p>
+&lt;p>G. C. Nicholson&lt;/p>
+&lt;p>Rural Clinical School, School of Medicine, University of Queensland, Toowoomba, QLD, Australia&lt;/p></description></item><item><title>Mortality increased with highest levels of vitamin D – article and 4 letters</title><link>/posts/mortality-increased-with-highest-levels-of-vitamin-d-article-and-4-letters.html</link><pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/mortality-increased-with-highest-levels-of-vitamin-d-article-and-4-letters.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#a-reverse-j-shaped-association-of-all-cause-mortality-with-serum-25-hydroxyvitamin-d-in-general-practice-the-copd-study">A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice: The CopD Study&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#published-again-in-march-2015---cardio-mortality-instead-of-all-cause-mortality--with-3-more-authors">Published again in March 2015 - cardio mortality instead of all cause mortality, with 3 more authors&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-council-notes-that-only-nordic-countries-find-this-association---may-2012">Vitamin D Council notes that only Nordic countries find this association - May 2012&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-findings-may-be-due-to-late-life-vitamin-d-supplementation-by-women">The Findings May Be Due To Late-Life Vitamin D Supplementation by Women&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#response-to-grant-letter">Response to Grant Letter&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#cautious-interpretation-of-the-reverse-j-shaped-association-between-circulating-25-hydroxyvitamin-d-and-total-mortality-is-necessary">Cautious Interpretation of the Reverse J-shaped Association between Circulating 25-Hydroxyvitamin D and Total Mortality is Necessary&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#response-to-zitterman-letter">Response to Zitterman Letter&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;h3 id="a-reverse-j-shaped-association-of-all-cause-mortality-with-serum-25-hydroxyvitamin-d-in-general-practice-the-copd-study">A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice: The CopD Study&lt;/h3>
+&lt;p>The Journal of Clinical Endocrinology &amp;amp; Metabolism August 1, 2012 vol. 97 no. 8 2644-2652&lt;/p></description></item><item><title>Vitamin A and dioxin-like compounds in fish liver, etc may block vitamin D</title><link>/posts/vitamin-a-and-dioxin-like-compounds-in-fish-liver-etc-may-block-vitamin-d.html</link><pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-a-and-dioxin-like-compounds-in-fish-liver-etc-may-block-vitamin-d.html</guid><description/></item></channel></rss>

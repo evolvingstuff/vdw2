@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Need to adjust cofactors if take 50,000 IU of vitamin D weekly</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Need to adjust cofactors if take 50,000 IU of vitamin D weekly</h1><time>December 28, 2013</time><div data-pagefind-body><h4 id=a-250-μgweek-dose-of-vitamin-d-was-as-effective-as-a-50-μgd-dose-in-healthy-adults-but-a-regimen-of-four-weekly-followed-by-monthly-doses-of-1250-μg-raised-the-risk-of-hypercalciuria>A 250 μg/week dose of vitamin D was as effective as a 50 μg/d dose in healthy adults, but a regimen of four weekly followed by monthly doses of 1250 μg raised the risk of hypercalciuria.</h4><p>Br J Nutr. 2013 Nov;110(10):1866-72. <a href=https://doi.org/10.1017/S000711451300113X.>doi: 10.1017/S000711451300113X.</a> Epub 2013 Apr 18.</p><p>Sara R. Zwart a1, Howard Parsons a2, Michael Kimlin a3, Sheila M. Innis a2, James P. Locke a4 and Scott M. Smith a4 <a href=mailto:scott.m.smith@nasa.gov>scott.m.smith@nasa.gov</a></p><p>a1 Division of Space Life Sciences, Universities Space Research Association, Houston, TX, USA</p><p>a2 Division of GI/Nutrition, Department of Paediatrics, British Columbia Children&rsquo;s Hospital, Vancouver, BC, Canada</p><p>a3 Institute of Health and Biomedical Innovation, Queensland University of Technology, Brisbane, QLD, Australia</p><p>a4 Human Health and Performance Directorate, National Aeronautics and Space Administration Lyndon B. Johnson Space Center, Mail Code SK3, 2101 NASA Parkway, Houston, TX 77058, USA</p><p>The risk of vitamin D insufficiency is increased in persons having limited sunlight exposure and dietary vitamin D. Supplementation compliance might be improved with larger doses taken less often, but this may increase the potential for side effects. The objective of the present study was to determine whether a weekly or weekly/monthly regimen of vitamin D supplementation is as effective as daily supplementation without increasing the risk of side effects.</p><p>Participants were forty-eight healthy adults who were randomly assigned for 3 months to placebo or one of three supplementation regimens: 50 μg/d (2000 IU/d, analysed dose 70 μg/d), 250 μg/week (10 000 IU/week, analysed dose 331 μg/week) or 1250 μg/week (50 000 IU/week, analysed dose 1544 μg/week) for 4 weeks and then 1250 μg/ month for 2 months.</p><p>Daily and weekly doses were equally effective at increasing serum 25-hydroxyvitamin D, which was significantly greater than baseline in all the supplemented groups after 30 d of treatment. Subjects in the 1250 μg treatment group, who had a BMI >26 kg/m2, had a steady increase in urinary Ca in the first 3 weeks of supplementation, and, overall, the relative risk of hypercalciuria was higher in the 1250 μg group than in the placebo group (P=0·01).</p><p>Although vitamin D supplementation remains a controversial issue, these data document that supplementing with ≤ 250 mg/week (≤ 10 000 IU/week) can improve or maintain vitamin D status in healthy populations without the risk of hypercalciuria, but 24 h urinary Ca excretion should be evaluated in healthy persons receiving vitamin D3 supplementation in weekly single doses of 1250 μg (50 000 IU).</p><p>PMID: 23595003</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/a-250-mcg-per-week-dose.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=see-also-vitamindwiki>See also VitaminDWiki</h4><ul><li><p><a href=/posts/vitamin-d-cofactors-in-a-nutshell>Vitamin D Cofactors in a nutshell</a></p></li><li><p><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=Zwart+&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for Zwart</a> 37 items Nov 2017</p></li><li><p><a href=/posts/hypothesis-optimize-vitamin-d-at-home-by-measuring-excess-calcium-in-urine style=color:red;text-decoration:underline title="This post/category does not exist yet: Hypothesis – Optimize vitamin D at home by measuring excess Calcium in urine">Hypothesis – Optimize vitamin D at home by measuring excess Calcium in urine</a> $10 for 10 tests</p></li><li><p><a href=/posts/calcium-hazards-and-bioavailability style=color:red;text-decoration:underline title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium hazards and bioavailability</a></p></li><li><p><a href=/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials>How often might 50,000 IU vitamin D be taken - results of clinical trials</a></p></li><li><p><a href=/posts/low-cost-cofactors-for-vitamin-d style=color:red;text-decoration:underline title="This post/category does not exist yet: Low cost cofactors for vitamin D">Low cost cofactors for vitamin D</a></p></li></ul><p><strong><a href=A%20250%20%CE%BCg/week%20dose%20of%20vitamin%20D%20was%20as%20effective%20as%20a%2050%20%CE%BCg/d%20dose%20in%20healthy%20adults>Cited in Google Scholar by 11 studies as of Nov 2021</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/supplement.html><span class=tag>Supplement</span></a>
+<a href=/tags/top-news.html><span class=tag>Top news</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>child, dosage, Supplement, Top news, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

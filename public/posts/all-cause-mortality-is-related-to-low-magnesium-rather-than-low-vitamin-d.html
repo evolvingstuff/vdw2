@@ -1,0 +1,71 @@
+<!doctype html><html><head><meta charset=utf-8><title>All-cause mortality is related to low Magnesium, rather than low Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>All-cause mortality is related to low Magnesium, rather than low Vitamin D</h1><time>May 13, 2015</time><div data-pagefind-body><h4 id=the-association-between-serum-25-hydroxyvitamin-d3-concentration-and-risk-of-disease-death-in-men-modification-by-magnesium-intake>The association between serum 25-hydroxyvitamin D3 concentration and risk of disease death in men: modification by magnesium intake</h4><p>European Journal of Epidemiology, April 2015, Volume 30, Issue 4, pp 343-347</p><p>Jaakko Mursu <a href=mailto:jaakko.mursu@uef.fi>jaakko.mursu@uef.fi</a>, Tarja Nurmi, Sari Voutilainen, Tomi-Pekka Tuomainen, Jyrki K. Virtanen, <a href=https://doi.org/10.1007/s10654-015-0006-9.>doi: 10.1007/s10654-015-0006-9.</a></p><p>Institute of Public Health and Clinical Nutrition, University of Eastern Finland, Kuopio Campus, P. O. Box 1627, 70211, Kuopio, Finland</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:550px"><ul><li><p>Vitamin D levels were measured, Magnesium levels were not measured</p></li><li><p>Magnesium determined by 4-day food recording - and up to 19 year delay until death</p></li></ul><blockquote><p>    thus ignoring Magnesium supplementation and Magnesium in cells</p></blockquote><p><strong>Increased chance of death</strong></p><p>1.3 X if <strong><span style=color:#00f>low</span></strong> vitamin D (ignoring Magnesium)</p><p>1.6 X if <strong><span style=color:#00f>low</span></strong> vitamin D AND <strong><span style=color:#00f>low</span></strong> Magnesium</p><p>1.1 X if <strong><span style=color:#00f>low</span></strong> vitamin D AND <strong><span style=color:red>High</span></strong> Magnesium</p><p>Note: Most people have both low Vitamin D and low Magnesium</p><p><strong>See also VitaminDWiki</strong></p><p><a href=/posts/19-x-more-likely-to-die-if-very-low-vitamin-d>1.9 X more likely to die if very low vitamin D – June 2014</a></p><p><a href=/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki style=color:red;text-decoration:underline title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a></p></div><p>Low vitamin D status increases the risk of death. Magnesium plays an essential role in vitamin D metabolism and low magnesium intake may predispose to vitamin D deficiency and potentiate the health problems. We investigated whether magnesium intake modifies the serum 25(OH)D3 concentration and its associations with mortality in middle-aged and older men. We included 1892 men aged 42–60 years without cardiovascular disease or cancer at baseline in 1984–1989 from the prospective, population-based Kuopio Ischaemic Heart Disease Risk Factor Study. Serum 25(OH)D3 was measured with the high-performance liquid chromatography using coulometric electrode array detection. Magnesium intake was assessed with 4-day food recording. Deaths were ascertained by a computer linkage to the national cause of death register. Deaths due accidents and suicides were excluded. Cox proportional hazards regression models were used to analyze the associations. The multivariate-adjusted hazard ratio (HR) for death in the lowest (&lt;32.1 nmol/L) versus the highest (>49.4 nmol/L) serum 25(OH)D3 tertile was 1.31 (95 % CI 1.07–1.60, Ptrend = 0.01). Stratified by the magnesium intake, the higher risk was observed only in the lower magnesium intake median (&lt;414 mg/day); HR = 1.60 (95 % CI 1.19–2.13, Ptrend = 0.002) in the lowest versus the highest 25(OH)D3 tertile, whereas the corresponding HR = 1.07, 95 % CI 0.75–1.36, Ptrend = 0.63) in the higher magnesium intake median, P for interaction = 0.08. In this cohort of middle-aged and older men low serum 25(OH)D3 concentration was associated with increased risk of death mainly in those with lower magnesium intake.</p><p><strong><a href=http://link.springer.com/article/10.1007/s10654-015-0006-9>Publisher wants $40 for the PDF</a></strong></p><h4 id=references>References</h4><ul><li><p>Chowdhury, R, Kunutsor, S, Vitezova, A, Oliver-Williams, C, Chowdhury, S, Kiefte-de-Jong, JC (2014) Vitamin D and risk of cause specific death: systematic review and meta-analysis of observational cohort and randomised intervention studies. BMJ 348: pp. g1903 CrossRef</p></li><li><p>Hilger J, Friedel A, Herr R, Rausch T, Roos F, Wahl DA, et al. A systematic review of vitamin D status in populations worldwide. Br J Nutr. 2013;111:23–45.</p></li><li><p>Shea, MK, Benjamin, EJ, Dupuis, J, Massaro, JM, Jacques, PF, D’Agostino, RBS (2009) Genetic and non-genetic correlates of vitamins K and D. Eur J Clin Nutr 63: pp. 458-464 CrossRef</p></li><li><p>Rude, RK, Adams, JS, Ryzen, E, Endres, DB, Niimi, H, Horst, RL (1985) Low serum concentrations of 1,25-dihydroxyvitamin D in human magnesium deficiency. J Clin Endocrinol Metab 61: pp. 933-940 CrossRef</p></li><li><p>Risco, F, Traba, ML (1992) Influence of magnesium on the in vitro synthesis of 24,25-dihydroxyvitamin D3 and 1 alpha, 25-dihydroxyvitamin D3. Magnes Res 5: pp. 5-14</p></li><li><p>Deng X, Song Y, Manson JE, Signorello LB, Zhang SM, Shrubsole MJ, et al. Magnesium, vitamin D status and mortality: results from US National Health and Nutrition Examination Survey (NHANES) 2001 to 2006 and NHANES III. BMC Med. 2013;11:187-7015-11-187.</p></li><li><p>Salonen, JT, Nyyssonen, K, Korpela, H, Tuomilehto, J, Seppanen, R, Salonen, R (1992) High stored iron levels are associated with excess risk of myocardial infarction in eastern Finnish men. Circulation 86: pp. 803-811 CrossRef</p></li><li><p>Lakka, TA, Venäläinen, JM, Rauramaa, R, Salonen, R, Tuomilehto, J, Salonen, JT (1994) Relation of leisure-time physical activity and cardiorespiratory fitness to the risk of acute myocardial infarction. N Engl J Med 330: pp. 1549-1554 CrossRef</p></li><li><p>Nurmi, T, Tuomainen, TP, Virtanen, J, Mursu, J, Voutilainen, S (2013) High-performance liquid chromatography and coulometric electrode array detector in serum 25-hydroxyvitamin D(3) and 25-hydroxyvitamin D(2) analyses. Anal Biochem 435: pp. 1-9 CrossRef</p></li><li><p>Reddy, V, Sivakumar, B (1974) Magnesium-dependent vitamin-D-resistant rickets. Lancet 1: pp. 963-965 CrossRef</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/magnesium.html><span class=tag>Magnesium</span></a>
+<a href=/tags/magnesium-and-cancer.html><span class=tag>magnesium and cancer</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/mortality.html><span class=tag>Mortality</span></a>
+<a href=/tags/rickets.html><span class=tag>rickets</span></a>
+<a href=/tags/top-news.html><span class=tag>Top news</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, bone, bone cancer, cancer, life span, magnesium, Magnesium, magnesium and cancer, mortality, Mortality, rickets, Top news, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

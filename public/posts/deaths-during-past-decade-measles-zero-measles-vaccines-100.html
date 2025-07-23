@@ -1,0 +1,84 @@
+<!doctype html><html><head><meta charset=utf-8><title>Deaths during past decade: Measles Zero, Measles Vaccines 100</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Deaths during past decade: Measles Zero, Measles Vaccines 100</h1><time>February 11, 2015</time><div data-pagefind-body><h4 id=zero-us-measles-deaths-in----10-years-but-over-100-measles-vaccine-deaths-reportedhttpwwwnaturalnewscom048573_measles_deaths_mmr_vaccine_immunization_dangershtml-natural-news-us-2004---2014><a href=http://www.naturalnews.com/048573_measles_deaths_MMR_vaccine_immunization_dangers.html>Zero U.S. measles deaths in &mdash;10 years, but over 100 measles vaccine deaths reported</a> Natural News, US: 2004 - 2014</h4><hr><h4 id=the-vaccine-safety-mythhttpwwwgreenmedinfocomblogvaccine-safety-myth-greenmedinfo-feb-2015><a href=http://www.greenmedinfo.com/blog/vaccine-safety-myth>The Vaccine Safety Myth</a> GreenMedInfo Feb 2015</h4><ul><li><p>Pharmaceutical companies are indemnified by the government against liability</p></li><li><p>National Vaccine Injury Compensation Program has paid out over <strong>3 billion dollars</strong> to date</p></li><li><p>Cochrane conclusion: The design and reporting of safety outcomes in MMR vaccine studies, both pre- and post-marketing, are largely inadequate.</p></li><li><p>The US childhood immunization schedule requires 26 vaccine doses for infants aged less than 1 year, the most in the world,</p></li><li><p>33 nations have better infant mortality rates than the US</p></li><li><p>Story has a link to the vaccines which include aluminum and the 75 Pubmed articles on <strong>autoimmune syndrome induced by adjuvants</strong></p></li><li><p>Has a link to <strong>Massive Fraud In Merck MMR Vaccine Testing.</strong></p></li></ul><hr><h3 id=japan-vaccines-are-no-longer-mandatory-mmr-vaccine-not-permitted---sept-2018>Japan: Vaccines are no longer mandatory, MMR vaccine not permitted - Sept 2018</h3><h4 id=anti-vaccine-japan-has-worlds-lowest-child-death-rate--highest-life-expectancyhttphealthimpactnewscom2018japan-has-the-lowest-infant-mortality-rate-following-ban-on-mandatory-vaccinations><a href=http://healthimpactnews.com/2018/japan-has-the-lowest-infant-mortality-rate-following-ban-on-mandatory-vaccinations/>Anti-Vaccine Japan Has World’s Lowest Child Death Rate & Highest Life Expectancy</a></h4><ul><li>&ldquo;The MMR vaccine was introduced in Japan in April 1989, and parents who refused the compulsory vaccine were fined. After three months of analysis, officials realised that one in 900 children developed adverse reactions to the vaccine, <strong>a rate that was 2,000 times higher than the expected rate.</strong> "</li></ul><h4 id=us-reports-of-mmr-problems>US reports of MMR problems</h4><p>Over 75,000 adverse events have been reported from any combination of measles, mumps and rubella vaccines:</p><p>78 confirmed deaths</p><p>85 confirmed cases of deafness</p><p>48 confirmed cases of decreased eye contact</p><p>92 confirmed cases of developmental delay</p><p><strong>855 confirmed reported cases of autism</strong></p><p>116 confirmed cases of intellectual disability</p><p>401 reports of speech disorders</p><p>276 reports of loss of consciousness</p><p>143 confirmed cases of encephalitis</p><p>74 confirmed cases of meningitis</p><p>111 confirmed cases of Guillain-Barré syndrome</p><p>692 confirmed cases of gait disturbance (not being able to walk normally)</p><p>748 confirmed cases of hypokinesia (partial or complete loss of muscle movement)</p><p>653 reports of hypotonia (poor muscle tone)</p><p><strong>4874 reports of seizures</strong> , including febrile convulsions and tonic-clonic seizures</p><p>1576 cases of cellulitis (a potentially serious skin infection)</p><p>147 confirmed cases of measles</p><p>384 confirmed cases of mumps</p><p>29 confirmed cases of rubella</p><p>&ndash;</p><h3 id=sids-deaths-strongly-associated-with-vaccines>SIDS deaths strongly associated with Vaccines</h3><ul><li><a href=http://www.greenmedinfo.com/blog/cdcs-own-data-vaccine-infant-death-link%20>CDC&rsquo;s Own Data: Vaccine-Infant Death Link</a> GreenMedInfo Jan 2015</li></ul><blockquote><p>VAERS (Vaccine Adverse Event Reporting System) 896 reports of deaths. Median age was 6 months</p></blockquote><blockquote><p>Sudden infant death syndrome was the stated cause of death in 51% death reports</p></blockquote><hr><h3 id=measles-transmitted-shed-by-those-who-have-had-vaccines>Measles transmitted (shed) by those who have had vaccines</h3><p><a href=http://www.greenmedinfo.com/blog/measles-transmitted-vaccinated-gov-researchers-confirm>Measles Transmitted By The Vaccinated, Gov. Researchers Confirm</a> GreenMed Info Jan 2015</p><ul><li><p>&ldquo;A twice-vaccinated individual, from a NYC measles outbreak, was found to have transmitted measles to four of her contacts, two of which themselves had received two doses of MMR vaccine and had prior presumably protective measles IgG antibody results.&rdquo;</p></li><li><p>Disney outbreak. . . &ldquo;even though 18% of the measles cases occurred in those who had been vaccinated against it "</p></li></ul><hr><h3 id=children-with-polio-aids-etc-can-go-to-school-but-not-children-to-who-lack-measles-vaccination>Children with Polio, AIDS, etc. can go to school, but not children to who lack measles vaccination?</h3><p><a href="http://articles.mercola.com/sites/articles/archive/2015/03/17/vaccine-culture-war.aspx?e_cid=20150317Z1_DNL_NB_USonly_art_1&amp;utm_source=dnl&amp;utm_medium=email&amp;utm_content=art1&amp;utm_campaign=20150317Z1_DNL_NB_USonly&amp;et_cid=DM71931&amp;et_rid=880117587">The Vaccine Culture War in America: Are You Ready</a> Mercola March 2015</p><ul><li><p>&ldquo;12 States Introduce Bills to Eliminate Non-Medical Vaccine Exemptions&rdquo;</p></li><li><p><strong>New (expensive) vaccines expected by 2025 for</strong> syphilis, gonorrhea, herpes, HIV/AIDS, tuberculosis, chlamydia, hepatitis C, E. coli, cytomegalovirus, ebola salmonella, norovirus, adenovirus, enterovirus, <strong>asthma, diabetes, obesity, high blood pressure, anti-smoking</strong> , anti-cocaine and anti-heroin use,</p></li><li><p>&ldquo;Liability for Seat Belt Manufacturers - NOT for Vaccine Manufacturers&rdquo;</p></li></ul><blockquote><p>Should not be needed:- Vaccines are supposed to be perfectly safe</p></blockquote><hr><h4 id=over-4-billion-paid-out-in-us-vaccine-compensations-as-of-june-2018>Over $4 Billion paid out in US vaccine compensations as of June 2018</h4><p><strong><a href=http://www.greenmedinfo.com/blog/zero-tolerance-vaccine-laws-america-will-you-defend-vaccine-freedom>Zero Tolerance Vaccine Laws in America: Will You Defend Vaccine Freedom?</a> GreenMedInfo</strong></p><ul><li><p>&ldquo;Recent surveys reveal that 20 percent of Americans think vaccines may be unsafe and 45 percent are not sure.&rdquo;</p><ul><li>:There has been almost a 10 percent decline in public confidence in vaccine safety over the past decade:</li></ul></li><li><p>&ldquo;There are only two laws that require American citizens to risk their lives.&rdquo;</p></li></ul><ol><li><p>Miltary Draft</p></li><li><p>state law requiring all healthy children to risk their lives in a war that doctors declared on microbes two centuries ago</p></li></ol><ul><li>&ldquo;..Congress gave doctors a broad liability shield in 1987 similar to the one they gave to vaccine manufacturers in 1986 to protect them from most vaccine injury lawsuits&rdquo;</li></ul><blockquote><p><strong>US govt has so far paid out $4 billion - but manufactures and doctors have paid out $0</strong></p></blockquote></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/asthma.html><span class=tag>asthma</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-obesity.html><span class=tag>childhood obesity</span></a>
+<a href=/tags/childhood-vaccination.html><span class=tag>childhood vaccination</span></a>
+<a href=/tags/childhood-viruses.html><span class=tag>childhood viruses</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/hepatitis-c.html><span class=tag>hepatitis c</span></a>
+<a href=/tags/herpes-shingles.html><span class=tag>herpes shingles</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/liver.html><span class=tag>liver</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/pediatric-autoimmune.html><span class=tag>pediatric autoimmune</span></a>
+<a href=/tags/smoking.html><span class=tag>smoking</span></a>
+<a href=/tags/tuberculosis.html><span class=tag>tuberculosis</span></a>
+<a href=/tags/vaccination.html><span class=tag>vaccination</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a>
+<a href=/tags/virus-and-obesity.html><span class=tag>virus and obesity</span></a></div><div data-pagefind-meta=tags hidden>asthma, autoimmune, bacteria, breathing, child, childhood obesity, childhood vaccination, childhood viruses, diabetes, health risk, hepatitis c, herpes shingles, high dose, hypertension, intervention, life span, liver, metabolic, mortality, obesity, pediatric autoimmune, smoking, tuberculosis, vaccination, virus, Virus, virus and obesity</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

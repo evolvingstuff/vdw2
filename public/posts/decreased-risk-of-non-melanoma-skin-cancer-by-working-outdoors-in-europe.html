@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Decreased risk of non-melanoma skin cancer by working outdoors in Europe</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Decreased risk of non-melanoma skin cancer by working outdoors in Europe</h1><time>December 22, 2013</time><div data-pagefind-body><h3 id=occupational-exposure-to-ultraviolet-radiation-and-risk-of-non-melanoma-skin-cancer-in-a-multinational-european-study>Occupational Exposure to Ultraviolet Radiation and Risk of Non-Melanoma Skin Cancer in a Multinational European Study</h3><p>PLoS ONE 8(4): e62359. doi:10.1371/journal.pone.0062359</p><p>Simona Surdu1,2,3 <a href=mailto:ssurdu@albany.edu>ssurdu@albany.edu</a>, Edward F. Fitzgerald1,2, Michael S. Bloom1,2,3, Francis P. Boscoe2,4, David O. Carpenter1,3, Richard F. Haase3,5, Eugen Gurzau6, Peter Rudnai7, Kvetoslava Koppova8, Joelle Fevotte9, Giovanni Leonardi10,11, Marie Vahter12, Walter Goessler13, Rajiv Kumar14, Tony Fletcher10</p><p>1 Department of Environmental Health Sciences, School of Public Health, University at Albany, State University of New York, Rensselaer, New York, United States of America,</p><p>2 Department of Epidemiology and Biostatistics, School of Public Health, University at Albany, State University of New York, Rensselaer, New York, United States of America,</p><p>3 Institute for Health and the Environment, University at Albany, Rensselaer, New York, United States of America,</p><p>4 New York State Cancer Registry, New York State Department of Health, Albany, New York, United States of America,</p><p>5 Department of Educational and Counseling Psychology, School of Education, University at Albany, State University of New York, Albany, New York, United States of America,</p><p>6 Health Department, Environmental Health Center, Babes Bolyai University, Cluj-Napoca, Romania,</p><p>7 Department of Environmental Epidemiology, National Institute of Environmental Health, Budapest, Hungary,</p><p>8 Department of Environmental Health, Regional Authority of Public Health, Banska Bystrica, Slovakia,</p><p>9 UMRESTTE, Department of Epidemiological Research and Survey in Transport, Work and Environment, University of Lyon, Lyon, France,</p><p>10 Department of Social and Environmental Health Research, Public Health, London School of Hygiene and Tropical Medicine, London, United Kingdom,</p><p>11 Centre for Radiation, Chemical and Environmental Hazards, Health Protection Agency, Chilton, United Kingdom,</p><p>12 Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden,</p><p>13 Institut fur Chemie-Analytische Chemie, Karl-Franzens-Universitat, Graz, Austria,</p><p>14 Division of Molecular Genetic Epidemiology, German Cancer Research Center, Heidelberg, Germany</p><p>Background: Studies suggest that ambient sunlight plays an important role in the pathogenesis of non-melanoma skin cancers (NMSC).</p><p>However, there is ongoing controversy regarding the relevance of occupational exposure to natural and artificial ultraviolet radiation (UV) radiation.</p><p>Objectives:We investigated potential associations between natural and artificial UV radiation exposure at work with NMSC in a case-control study conducted in Hungary, Romania, and Slovakia.</p><p>Methods: Occupational exposures were classified by expert assessment for 527 controls and 618 NMSC cases (515 basal cell carcinoma, BCC). Covariate information was collected via interview and multiple logistic regression models were used to assess associations between UV exposure and NMSC.</p><p>Results: Lifetime prevalence of occupational exposure in the participants was 13% for natural UV radiation and 7% for artificial UV radiation. Significant negative associations between occupational exposure to natural UV radiation and NMSC were detected for all who had ever been exposed (odds ratio (OR) 0.47, 95% confidence interval (CI) 0.27-0.80);similar results were detected using a semi-quantitative metric of cumulative exposure. The effects were modified by skin complexion, with significantly decreased risks of BCC among participants with light skin complexion. No associations were observed in relation to occupational artificial UV radiation exposure.</p><p>Conclusions:The protective effect of occupational exposure to natural UV radiation was unexpected, but limited to light-skinned people, suggesting adequate sun-protection behaviors. Further investigations focusing on variations in the individual genetic susceptibility and potential interactions with environmental and other relevant factors are planned.</p><hr><h3 id=comment-by-henry-lahorevitamindwiki>Comment by Henry Lahore/VitaminDWiki</h3><p>Many papers agree with this.</p><p>It appears that outdoor workers gradually accommodate to the sunshine as they get closer to summer.</p><p>Perhaps there is more protection from skin cancers with higher vitamin D levels.</p><p>My father worked outdoors as a carpenter most of his life</p><p>I never recall dad, nor his carpenter friends, ever getting a sunburn.</p><p>My dad died of an internal cancer after working indoors for many years.</p><p><strong><span style=color:#00f>PDF is attached at the bottom of this page</span></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/melanoma.html><span class=tag>melanoma</span></a>
+<a href=/tags/skin-cancer.html><span class=tag>skin cancer</span></a>
+<a href=/tags/skin-cancer.html><span class=tag>Skin Cancer</span></a>
+<a href=/tags/sun.html><span class=tag>Sun</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>cancer, melanoma, skin cancer, Skin Cancer, Sun, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

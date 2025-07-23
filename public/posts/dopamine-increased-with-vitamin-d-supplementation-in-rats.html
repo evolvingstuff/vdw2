@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset=utf-8><title>Dopamine increased with vitamin D supplementation (in rats)</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Dopamine increased with vitamin D supplementation (in rats)</h1><time>April 26, 2016</time><div data-pagefind-body><h4 id=the-vitamin-d-content-of-a-high-fat-diet-modulates-brain-reward-neurochemistry>The Vitamin D Content of a High-Fat Diet Modulates Brain Reward Neurochemistry</h4><p>The FASEB Journal, vol. 30 no. 1 Supplement lb202 , April 2016</p><p>Ruslan Kubant1, Diptendu Chatterjee1, Emanuela Pannia1 and G. Harvey Anderson1,2</p><p>1Nutritional Sciences, University of Toronto, Toronto, ON, Canada</p><p>2Physiology, University of Toronto, Toronto, ON, Canada</p><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:700px"><p>Rats on high fat diet (60% of calories)</p><p>Age 3 weeks to 17 weeks</p><p>Compare 7,000 IU vs 1000 IU of Vitamin D per kilogram of feed</p><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td></td><td>Increase</td></tr><tr><td>Dopamine</td><td>48%</td></tr><tr><td>* <a href=https://en.wikipedia.org/wiki/3,4-Dihydroxyphenylacetic_acid%20>3,4-Dihydroxyphenylacetic acid</a></td><td>330%</td></tr><tr><td>Vitamin D blood level</td><td>300%</td></tr></tbody></table><p><strong>See Dopamine on web</strong></p><ul><li><a href=https://www.psychologytoday.com/basics/dopamine>DOPAMINE</a> Psychology Today</li></ul><blockquote><p>“Dopamine is a neurotransmitter that helps control the brain&rsquo;s reward and pleasure centers. Dopamine also helps regulate movement and emotional responses, and it enables us not only to see rewards, but to take action to move toward them. <strong>Dopamine deficiency results in Parkinson&rsquo;s Disease</strong> , and people with low dopamine activity may be more prone to addiction.”</p></blockquote><ul><li>Google Summaries – April 2016</li></ul><blockquote><p>“Dopamine is used for: Treating shock and low blood pressure due to heart attack, trauma, infections, surgery, and other causes. It is also used to help improve heart function when it is unable to pump enough blood.”</p></blockquote><blockquote><p>“Dopamine is a brain chemical involved in many different functions including movement, motivation, reward — and addiction. Nearly all drugs of abuse directly or indirectly increase dopamine in the pleasure and motivation pathways and in so doing, alter the normal communication between neurons.”</p></blockquote><p><strong>See also VitaminDWiki</strong></p><ul><li><p><a href=/posts/dopamine-quickly-increased-by-calcitriol-fully-activated-vitamin-d-might-be-a-way-to-treat-adhd style=color:red;text-decoration:underline title="This post/category does not exist yet: Dopamine quickly increased by Calcitriol (fully activated vitamin D) – might be a way to treat ADHD – Oct 2024">Dopamine quickly increased by Calcitriol (fully activated vitamin D) – might be a way to treat ADHD – Oct 2024</a></p></li><li><p><a href=/posts/hypothesis-drug-addiction-in-humans-can-be-prevented-and-treated-by-vitamin-d>Hypothesis: Drug addiction in humans can be prevented and treated by vitamin D -May 2014</a></p></li><li><p><a href="https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=dopmine&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com">Search VitaminDWiki for DOPAMINE</a> 1,120 items as of Nov 2024</p></li></ul><blockquote><p>Parkinson’s, Restless Legs, Sleep</p></blockquote></div><p>Background Obesity is associated with increased consumption and preference for palatable foods as well as reduced blood levels of 25<span>[OH]</span>D3, which has been linked to altered dopaminergic and serotonergic signalling in the brain. The effect of vitamin D on high fat diet induced changes in brain reward systems is unknown.</p><p>Objective To determine if vitamin D plays a role in modulating hedonic regulation of food intake in the brain in response to chronic consumption of a high fat diet.</p><p>Methods and Design Male Wistar rats at 21 days of age were fed ad libitum for 14 weeks a high-fat diet (60 kcal% fat) containing either: 1) the recommended amount (1,000 IU/kg diet) of vitamin D3 (HF-RD) or 2) high vitamin D3 (HF-HD, 7-fold increase of the recommended amount). Rats fed a normal-fat diet with the recommended amount of vitamin D3 (NF-RD, 16 kcal% from fat) served as control. Body weight, food intake, serum 25<span>[OH]</span>D3, and concentrations of dopamine (DA), 3,4-dihydroxyphenylacetic acid (DOPAC), serotonin (5-HT), 5-hydroxyindoleacetic acid (5-HIAA) were measured in the nucleus accumbens (NAc) and β-endorphin in the ventral tegmental area (VTA). DA and 5-HT turnover rates were calculated by the ratio of their primary metabolites DOPAC to DA and 5-HIAA to 5-HT respectively, and used as an index of dopamine/serotonin transmission.</p><p>Results The HF-RD group consumed more calories and gained more weight than the NF-RD group as well as exhibited increased DA (48%, P&lt;0.05), DOPAC (330%, P&lt;0.05), dopamine turnover (195%, P&lt;0.05), 5-HT (85%, P&lt;0.05), 5-HIAA (51%, P&lt;0.05), and lower serotonin turnover (16%, P&lt;0.05) in NAc. VTA levels of β-endorphin were lower (46%, P&lt;0.05) in the HF-RD group compared to the NF-RD. Supplementation of a HF diet with high vitamin D3 for 14 weeks resulted in a 3-fold increase (P&lt;0.05) in serum 25<span>[OH]</span>D3 and reduction (≈30%, P&lt;0.05) in DOPAC levels and dopamine turnover compared to the HF-RD group, but had no statistically significant effect on food intake, body weight, 5-HT, 5-HIAA, serotonin turnover rate or β-endorphin levels in the brain.</p><p>Conclusion The vitamin D content of a high-fat diet modulates brain reward neurochemistry and may be a factor in neurotransmitter-mediated regulation of the reward-seeking behaviors.</p><p>Support or Funding Information</p><p>Canadian Institute of Health Research, Institute of Nutrition, Metabolism and Diabetes (CIHR-INMD), Reference MOP-130286.</p><h4 id=this-abstract-is-from-the-experimental-biology-2016-meeting>This abstract is from the Experimental Biology 2016 Meeting.</h4><p>There is no full text article associated with this abstract published in The FASEB Journal.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/brain.html><span class=tag>brain</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/depression.html><span class=tag>Depression</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/neurological.html><span class=tag>neurological</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/parkinsons.html><span class=tag>Parkinson's</span></a>
+<a href=/tags/parkinsons.html><span class=tag>parkinsons</span></a>
+<a href=/tags/restless-legs.html><span class=tag>restless legs</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>brain, cognitive, Depression, diabetes, dosage, health risk, metabolic, neurological, obesity, Parkinson's, parkinsons, restless legs, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

@@ -1,454 +1,982 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sports on VitaminDWiki</title><link>/tags/sports.html</link><description>Recent content in Sports on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 23 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sports/index.xml" rel="self" type="application/rss+xml"/><item><title>A Concussion-Free Football Season: How one High School beat the odds</title><link>/posts/a-concussion-free-football-season-how-one-high-school-beat-the-odds.html</link><pubDate>Mon, 23 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/a-concussion-free-football-season-how-one-high-school-beat-the-odds.html</guid><description>&lt;h4 id="a-hrefpostshigh-school-in-atlanta-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-2378high-school-in-atlantaa-added-vitamin-d-in-2011-to-their-sports-teams">&lt;a href="/posts/high-school-in-atlanta" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2378">High School in Atlanta&lt;/a> added vitamin D in 2011 to their sports teams&lt;/h4>
-&lt;p>Martin Luther King Jr. High School in Lithonia, Georgia has reduced its concussions and sports injuries by almost 100%. What was their secret? In 2011, the school started a parent-led nutrition program that included a daily regimen of vitamin D. The program was instituted by Dr. L. Ray Matthews, one of the nation’s leading researchers in vitamin D and assistant professor of surgery and director of surgical care at Grady Memorial Hospital in Atlanta,&lt;/p></description></item><item><title>Female Athlete health problems may be due to lack of vitamin D and Iron</title><link>/posts/female-athlete-health-problems-may-be-due-to-lack-of-vitamin-d-and-iron.html</link><pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/female-athlete-health-problems-may-be-due-to-lack-of-vitamin-d-and-iron.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
-&lt;code class="language-text">
-Markdown:
---------
-
-
-AST Structure:
--------------
-├── HeadingNode
-│ full_match: `!The Female Athlete Triad`
-│ inner_content: `The Female Athlete Triad`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `The Female Athlete Triad`
-│ │ inner_content: `The Female Athlete Triad`├── TextNode
-│ full_match: `\nSports Health: A Multidisciplinary Approach July/August 2012 vol. 4 no. 4 302-311\nTaraneh Gharib Nazem, BA* \nKathryn E. Ackerman, MD, MPH† Kathryn.ackerman@childrens.harvard.edu)\n`
-│ inner_content: `\nSports Health: A Multidisciplinary Approach July/August 2012 vol. 4 no. 4 302-311\nTaraneh Gharib Nazem, BA* \nKathryn E. Ackerman, MD, MPH† Kathryn.ackerman@childrens.harvard.edu)\n`├── ListItemNode
-│ full_match: `*Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts`
-│ inner_content: `Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts`
-│ │ inner_content: `Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts`├── TextNode
-│ full_match: `\n†Division of Sports Medicine, Children’s Hospital Boston and Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts\n\nContext: The `
-│ inner_content: `\n†Division of Sports Medicine, Children’s Hospital Boston and Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts\n\nContext: The `├── BoldNode
-│ full_match: `__female athlete triad__`
-│ inner_content: `female athlete triad`
-│ children:
-│ ├── TextNode
-│ │ full_match: `female athlete triad`
-│ │ inner_content: `female athlete triad`├── TextNode
-│ full_match: ` (the triad) is an interrelationship of \n`
-│ inner_content: ` (the triad) is an interrelationship of \n`├── NumListItemNode
-│ full_match: `#menstrual dysfunction, `
-│ inner_content: `menstrual dysfunction, `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `menstrual dysfunction, `
-│ │ inner_content: `menstrual dysfunction, `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#low energy availability (with or without an eating disorder), and `
-│ inner_content: `low energy availability (with or without an eating disorder), and `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `low energy availability (with or without an eating disorder), and `
-│ │ inner_content: `low energy availability (with or without an eating disorder), and `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#decreased bone mineral density; `
-│ inner_content: `decreased bone mineral density; `
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `decreased bone mineral density; `
-│ │ inner_content: `decreased bone mineral density; `├── TextNode
-│ full_match: `\nit is relatively common among young women participating in sports. \n\nDiagnosis and treatment of this potentially serious condition is complicated and often requires an interdisciplinary team.\n\nEvidence Acquisition: Articles from 1981 to present found on PubMed were selected for review of major components of the female athlete triad as well as strategies for diagnosis and treatment of the conditions.\n\nResults: The main goal in treatment of young female athletes with the triad is a natural return of menses as well as enhancement of bone mineral density. While no specific drug intervention has been shown to consistently improve bone mineral density in this patient population, maximizing energy availability and `
-│ inner_content: `\nit is relatively common among young women participating in sports. \n\nDiagnosis and treatment of this potentially serious condition is complicated and often requires an interdisciplinary team.\n\nEvidence Acquisition: Articles from 1981 to present found on PubMed were selected for review of major components of the female athlete triad as well as strategies for diagnosis and treatment of the conditions.\n\nResults: The main goal in treatment of young female athletes with the triad is a natural return of menses as well as enhancement of bone mineral density. While no specific drug intervention has been shown to consistently improve bone mineral density in this patient population, maximizing energy availability and `├── BoldNode
-│ full_match: `__optimizing vitamin D and calcium intake__`
-│ inner_content: `optimizing vitamin D and calcium intake`
-│ children:
-│ ├── TextNode
-│ │ full_match: `optimizing vitamin D and calcium intake`
-│ │ inner_content: `optimizing vitamin D and calcium intake`├── TextNode
-│ full_match: ` are recommended.\n\nConclusions: Treatment requires a multidisciplinary approach involving health care professionals as well as coaches and family members. Prevention of this condition is important to minimize complications of the female athlete triad.\n– – – – – – – – – – – – – – – – – \n`
-│ inner_content: ` are recommended.\n\nConclusions: Treatment requires a multidisciplinary approach involving health care professionals as well as coaches and family members. Prevention of this condition is important to minimize complications of the female athlete triad.\n– – – – – – – – – – – – – – – – – \n`├── HeadingNode
-│ full_match: `!!Wonder: `
-│ inner_content: `Wonder:`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Wonder:`
-│ │ inner_content: `Wonder:`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#Is this triad is more prevalent with __indoor __female athletes – who get less sunshine?`
-│ inner_content: `Is this triad is more prevalent with __indoor __female athletes – who get less sunshine?`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Is this triad is more prevalent with `
-│ │ inner_content: `Is this triad is more prevalent with `
-│ ├── BoldNode
-│ │ full_match: `__indoor __`
-│ │ inner_content: `indoor `
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `indoor `
-│ │ │ inner_content: `indoor `
-│ ├── TextNode
-│ │ full_match: `female athletes – who get less sunshine?`
-│ │ inner_content: `female athletes – who get less sunshine?`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#Is this triad is more prevalent at higher latitudes? – who get less sunshine?`
-│ inner_content: `Is this triad is more prevalent at higher latitudes? – who get less sunshine?`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Is this triad is more prevalent at higher latitudes? – who get less sunshine?`
-│ │ inner_content: `Is this triad is more prevalent at higher latitudes? – who get less sunshine?`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#Is this triad is more prevalent with women with darker skins? – who get less benefit from sunshine?`
-│ inner_content: `Is this triad is more prevalent with women with darker skins? – who get less benefit from sunshine?`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Is this triad is more prevalent with women with darker skins? – who get less benefit from sunshine?`
-│ │ inner_content: `Is this triad is more prevalent with women with darker skins? – who get less benefit from sunshine?`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── NumListItemNode
-│ full_match: `#Is this triad less prevalent in women on the pill - as they lose less blood/iron`
-│ inner_content: `Is this triad less prevalent in women on the pill - as they lose less blood/iron`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Is this triad less prevalent in women on the pill - as they lose less blood/iron`
-│ │ inner_content: `Is this triad less prevalent in women on the pill - as they lose less blood/iron`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!!Notes:`
-│ inner_content: `Notes:`
-│ level: `2`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Notes:`
-│ │ inner_content: `Notes:`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*All three elements of the triad have been separately associated with low vitamin D`
-│ inner_content: `All three elements of the triad have been separately associated with low vitamin D`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `All three elements of the triad have been separately associated with low vitamin D`
-│ │ inner_content: `All three elements of the triad have been separately associated with low vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*Vitamin D is very important for athletes`
-│ inner_content: `Vitamin D is very important for athletes`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Vitamin D is very important for athletes`
-│ │ inner_content: `Vitamin D is very important for athletes`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!See also VitaminDWiki`
-│ inner_content: `See also VitaminDWiki`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also VitaminDWiki`
-│ │ inner_content: `See also VitaminDWiki`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1259|Overview of Sports and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1259|Overview of Sports and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1259|Overview of Sports and Vitamin D]`
-│ │ inner_content: `Overview of Sports and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1259`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview of Sports and Vitamin D`
-│ │ │ inner_content: `Overview of Sports and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&amp;amp;sort_mode=created_desc|All items in category Sports and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&amp;amp;sort_mode=created_desc|All items in category Sports and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&amp;amp;sort_mode=created_desc|All items in category Sports and Vitamin D]`
-│ │ inner_content: `All items in category Sports and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in category Sports and Vitamin D`
-│ │ │ inner_content: `All items in category Sports and Vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1344|Overview Fractures and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1344|Overview Fractures and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1344|Overview Fractures and Vitamin D]`
-│ │ inner_content: `Overview Fractures and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1344`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Fractures and Vitamin D`
-│ │ │ inner_content: `Overview Fractures and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2143|Overview Women and Vitamin D]`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2143|Overview Women and Vitamin D]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2143|Overview Women and Vitamin D]`
-│ │ inner_content: `Overview Women and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2143`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Overview Women and Vitamin D`
-│ │ │ inner_content: `Overview Women and Vitamin D`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=115&amp;amp;sort_mode=created_desc|All items in category Women and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=115&amp;amp;sort_mode=created_desc|All items in category Women and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=115&amp;amp;sort_mode=created_desc|All items in category Women and vitamin D]`
-│ │ inner_content: `All items in category Women and vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=115&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in category Women and vitamin D`
-│ │ │ inner_content: `All items in category Women and vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=124&amp;amp;sort_mode=created_desc| All items in category Iron and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL} items~~__`
-│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=124&amp;amp;sort_mode=created_desc| All items in category Iron and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL} items~~__`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=124&amp;amp;sort_mode=created_desc| All items in category Iron and Vitamin D]`
-│ │ inner_content: ` All items in category Iron and Vitamin D`
-│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=124&amp;amp;sort_mode=created_desc`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `All items in category Iron and Vitamin D`
-│ │ │ inner_content: `All items in category Iron and Vitamin D`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `
-│ ├── BoldNode
-│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL} items~~__`
-│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL} items~~`
-│ │ children:
-│ │ ├── ColorNode
-│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL} items~~`
-│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL} items`
-│ │ │ attrs_dict:
-│ │ │ │ raw_content: #00F
-│ │ │ children:
-│ │ │ ├── SqlNode
-│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL}`
-│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124`
-│ │ │ │ attrs_dict:
-│ │ │ │ │ raw_content: db=&amp;gt;vitamind
-│ │ │ │ │ db: &amp;gt;vitamind
-│ │ │ ├── TextNode
-│ │ │ │ full_match: ` items`
-│ │ │ │ inner_content: ` items`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!See also web`
-│ inner_content: `See also web`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also web`
-│ │ inner_content: `See also web`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://en.wikipedia.org/wiki/Female_Athlete_Triad_Syndrome|Wikipedia]`
-│ inner_content: `[http://en.wikipedia.org/wiki/Female_Athlete_Triad_Syndrome|Wikipedia]`
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://en.wikipedia.org/wiki/Female_Athlete_Triad_Syndrome|Wikipedia]`
-│ │ inner_content: `Wikipedia`
-│ │ url: `http://en.wikipedia.org/wiki/Female_Athlete_Triad_Syndrome`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Wikipedia`
-│ │ │ inner_content: `Wikipedia`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+‘’ Gymnastics, figure skating, ballet, diving, swimming, and long distance running are examples of sports which emphasize low body weight.’’`
-│ inner_content: `‘’ Gymnastics, figure skating, ballet, diving, swimming, and long distance running are examples of sports which emphasize low body weight.’’`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `‘’ Gymnastics, figure skating, ballet, diving, swimming, and long distance running are examples of sports which emphasize low body weight.’’`
-│ │ inner_content: `‘’ Gymnastics, figure skating, ballet, diving, swimming, and long distance running are examples of sports which emphasize low body weight.’’`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+Notice that 4 of the 5 examples are indoor sports`
-│ inner_content: `Notice that 4 of the 5 examples are indoor sports`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `Notice that 4 of the 5 examples are indoor sports`
-│ │ inner_content: `Notice that 4 of the 5 examples are indoor sports`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*[http://csulbkin338.blogspot.com/2008/12/iraqi-women-athletes.html|Iraqui women not allowed to play outdoor sports and must ware sun blocking clothing] `
-│ inner_content: `[http://csulbkin338.blogspot.com/2008/12/iraqi-women-athletes.html|Iraqui women not allowed to play outdoor sports and must ware sun blocking clothing] `
-│ depth: `1`
-│ children:
-│ ├── LinkNode
-│ │ full_match: `[http://csulbkin338.blogspot.com/2008/12/iraqi-women-athletes.html|Iraqui women not allowed to play outdoor sports and must ware sun blocking clothing]`
-│ │ inner_content: `Iraqui women not allowed to play outdoor sports and must ware sun blocking clothing`
-│ │ url: `http://csulbkin338.blogspot.com/2008/12/iraqi-women-athletes.html`
-│ │ children:
-│ │ ├── TextNode
-│ │ │ full_match: `Iraqui women not allowed to play outdoor sports and must ware sun blocking clothing`
-│ │ │ inner_content: `Iraqui women not allowed to play outdoor sports and must ware sun blocking clothing`
-│ ├── TextNode
-│ │ full_match: ` `
-│ │ inner_content: ` `├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── HeadingNode
-│ full_match: `!See also attached to the bottom of this page`
-│ inner_content: `See also attached to the bottom of this page`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `See also attached to the bottom of this page`
-│ │ inner_content: `See also attached to the bottom of this page`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*PDF of 2007 paper on this topic`
-│ inner_content: `PDF of 2007 paper on this topic`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `PDF of 2007 paper on this topic`
-│ │ inner_content: `PDF of 2007 paper on this topic`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── ListItemNode
-│ full_match: `*PDF of Master of Science attached below has the following quote`
-│ inner_content: `PDF of Master of Science attached below has the following quote`
-│ depth: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `PDF of Master of Science attached below has the following quote`
-│ │ inner_content: `PDF of Master of Science attached below has the following quote`├── TextNode
-│ full_match: `\n`
-│ inner_content: `\n`├── IndentNode
-│ full_match: `+‘’ Athletes in northern latitudes or indoor sports participants may be particularly at risk for inadequate vitamin D status and related skeletal issues (59)’’`
-│ inner_content: `‘’ Athletes in northern latitudes or indoor sports participants may be particularly at risk for inadequate vitamin D status and related skeletal issues (59)’’`
-│ level: `1`
-│ children:
-│ ├── TextNode
-│ │ full_match: `‘’ Athletes in northern latitudes or indoor sports participants may be particularly at risk for inadequate vitamin D status and related skeletal issues (59)’’`
-│ │ inner_content: `‘’ Athletes in northern latitudes or indoor sports participants may be particularly at risk for inadequate vitamin D status and related skeletal issues (59)’’`
-
-Original Tiki:
--------------
-!The Female Athlete Triad
-Sports Health: A Multidisciplinary Approach July/August 2012 vol. 4 no. 4 302-311
-Taraneh Gharib Nazem, BA* 
-Kathryn E. Ackerman, MD, MPH† Kathryn.ackerman@childrens.harvard.edu)
- *Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts
-†Division of Sports Medicine, Children’s Hospital Boston and Neuroendocrine Unit, Massachusetts General Hospital, Boston, Massachusetts
-
-Context: The __female athlete triad__ (the triad) is an interrelationship of 
-#menstrual dysfunction, 
-#low energy availability (with or without an eating disorder), and 
-#decreased bone mineral density; 
-it is relatively common among young women participating in sports. 
-
-Diagnosis and treatment of this potentially serious condition is complicated and often requires an interdisciplinary team.
-
-Evidence Acquisition: Articles from 1981 to present found on PubMed were selected for review of major components of the female athlete triad as well as strategies for diagnosis and treatment of the conditions.
-
-Results: The main goal in treatment of young female athletes with the triad is a natural return of menses as well as enhancement of bone mineral density. While no specific drug intervention has been shown to consistently improve bone mineral density in this patient population, maximizing energy availability and __optimizing vitamin D and calcium intake__ are recommended.
-
-Conclusions: Treatment requires a multidisciplinary approach involving health care professionals as well as coaches and family members. Prevention of this condition is important to minimize complications of the female athlete triad.
-– – – – – – – – – – – – – – – – – 
-!!Wonder: 
-#Is this triad is more prevalent with __indoor __female athletes – who get less sunshine?
-#Is this triad is more prevalent at higher latitudes? – who get less sunshine?
-#Is this triad is more prevalent with women with darker skins? – who get less benefit from sunshine?
-#Is this triad less prevalent in women on the pill - as they lose less blood/iron
-!!Notes:
-*All three elements of the triad have been separately associated with low vitamin D
-*Vitamin D is very important for athletes
-!See also VitaminDWiki
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1259|Overview of Sports and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=11&amp;amp;sort_mode=created_desc|All items in category Sports and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=11{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1344|Overview Fractures and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2143|Overview Women and Vitamin D]
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=115&amp;amp;sort_mode=created_desc|All items in category Women and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=115{SQL} items~~__
-*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=124&amp;amp;sort_mode=created_desc| All items in category Iron and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=124{SQL} items~~__
-!See also web
-*[http://en.wikipedia.org/wiki/Female_Athlete_Triad_Syndrome|Wikipedia]
-+‘’ Gymnastics, figure skating, ballet, diving, swimming, and long distance running are examples of sports which emphasize low body weight.’’
-+Notice that 4 of the 5 examples are indoor sports
-*[http://csulbkin338.blogspot.com/2008/12/iraqi-women-athletes.html|Iraqui women not allowed to play outdoor sports and must ware sun blocking clothing] 
-!See also attached to the bottom of this page
-*PDF of 2007 paper on this topic
-*PDF of Master of Science attached below has the following quote
-+‘’ Athletes in northern latitudes or indoor sports participants may be particularly at risk for inadequate vitamin D status and related skeletal issues (59)’’
-&lt;/code>
-&lt;/pre></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sports on VitaminDWiki</title><link>/tags/sports.html</link><description>Recent content in Sports on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sports/index.xml" rel="self" type="application/rss+xml"/><item><title>NHL discovers Vitamin D – their ideal is 40-120 ng – 2016</title><link>/posts/nhl-discovers-vitamin-d-their-ideal-is-40-120-ng-2016.html</link><pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/nhl-discovers-vitamin-d-their-ideal-is-40-120-ng-2016.html</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/athletes-national-level-with-less-than-10-ng-of-vitamin-d-had-smaller-hearts">Athletes (national-level) with less than 10 ng of vitamin D had smaller hearts – Jan 2014&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/sports-benefits-from-up-to-50-ng-of-vitamin-meta-analysis">Sports benefits from up to 50 ng of Vitamin – meta-analysis - Nov 2012&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/collegiate-swimmers-getting-4000-iu-of-vitamin-d-had-fewer-injuries">Collegiate Swimmers getting 4000 IU of vitamin D had fewer injuries – March 2013&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/recent-increase-in-vitamin-d-levels-in-elite-irish-athletes">Recent increase in Vitamin D levels in Elite Irish Athletes – Aug 2016&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/most-olympic-class-dutch-athletes-nudged-vitamin-d-levels-above-30-nanograms-with-2200-iu-daily-rct">Most Olympic-class Dutch athletes nudged Vitamin D levels above 30 nanograms with 2200 IU daily – RCT July 2016&lt;/a>&lt;/p></description></item><item><title>Recent increase in Vitamin D levels in Elite Irish Athletes</title><link>/posts/recent-increase-in-vitamin-d-levels-in-elite-irish-athletes.html</link><pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/recent-increase-in-vitamin-d-levels-in-elite-irish-athletes.html</guid><description/></item><item><title>Sarcopenia: Nutrition and physical activity – systematic review</title><link>/posts/sarcopenia-nutrition-and-physical-activity-systematic-review.html</link><pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/sarcopenia-nutrition-and-physical-activity-systematic-review.html</guid><description>&lt;p>&lt;strong>Nutrition and physical activity in the prevention and treatment of sarcopenia: systematic review&lt;/strong>&lt;/p>
+&lt;p>Osteoporos Int, DOI 10.1007/s00198-017-3980-9, Accepted: 31 January 2017&lt;/p>
+&lt;p>C. Beaudart1,2 • A. Dawson1 • S. C. Shaw1 • N. C. Harvey1 • J. A. Kanis3,4 • N. Binkley •&lt;/p>
+&lt;p>J.	Y. Reginster • R. Chapurlat7 • D. C. Chan8,9,10 • O. Bruyere6 • R. Rizzoli11 •&lt;/p>
+&lt;p>C. Cooper1,12 cc @mrc.soton.ac.uk • E. M. Dennison1 • the IOF-ESCEO Sarcopenia Working Group&lt;/p></description></item><item><title>Elite Athletes do well with weekly 35,000 IU of Vitamin D – RCT</title><link>/posts/elite-athletes-do-well-with-weekly-35000-iu-of-vitamin-d-rct.html</link><pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/elite-athletes-do-well-with-weekly-35000-iu-of-vitamin-d-rct.html</guid><description>&lt;h4 id="efficacy-of-high-dose-vitamin-d-supplements-for-elite-athletes">Efficacy of High-Dose Vitamin D Supplements for Elite Athletes.&lt;/h4>
+&lt;p>Med Sci Sports Exerc. 2017 Feb;49(2):349-356. &lt;a href="https://doi.org/10.1249/MSS.0000000000001105.">doi: 10.1249/MSS.0000000000001105.&lt;/a>&lt;/p>
+&lt;p>Owens DJ1, Tang JC, Bradley WJ, Sparks AS, Fraser WD, Morton JP, Close GL.&lt;/p>
+&lt;p>Research Institute for Sport and Exercise Science, Liverpool John Moores University, Liverpool, UNITED KINGDOM; 2Faculty of Medicine and Health Science, Norwich Medical School, University of East Anglia. Norwich, UNITED KINGDOM; and 3Department of Sport and Physical Activity, Edge Hill University, Ormskirk, UNITED KINGDOM.&lt;/p></description></item><item><title>More fast twitch muscles (IIA) are associated with higher levels of Vitamin D</title><link>/posts/more-fast-twitch-muscles-iia-are-associated-with-higher-levels-of-vitamin-d.html</link><pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate><guid>/posts/more-fast-twitch-muscles-iia-are-associated-with-higher-levels-of-vitamin-d.html</guid><description>&lt;h4 id="basics-aspects-of-skeletal-muscle-physiology">basics aspects of skeletal muscle physiology&lt;/h4>
+&lt;p>Muscle cells are elongated and cylindrical in shape and are surrounded by a basal lamina of insulating collagen. In the space between muscle cells and their basal lamina there are several types of satellite cells that play a regulatory role in the growth, maintenance and repair of muscle cells. Each muscle cell contains myofibrils, bundles of several types of proteins organized into repeating microanatomical structures known as sarcomeres, which are the structural units making up the contractile machinery of muscle cells. A sarcomere is comprised of two types of protein filaments: tick filaments mainly composed of the protein myosin and thin filaments composed of the protein actin. Groups of tens to hundreds of muscle cells are packed together into parallel bundles known as fascicles which are wrapped in connective tissue, the perimysium, while bundles of fascicles composing a particular muscle are wrapped by the epimysium.&lt;/p></description></item><item><title>Handgrip strength dropped by 20 percent in the last generation (perhaps due to lower vitamin D)</title><link>/posts/handgrip-strength-dropped-by-20-percent-in-the-last-generation-perhaps-due-to-lower-vitamin-d.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/handgrip-strength-dropped-by-20-percent-in-the-last-generation-perhaps-due-to-lower-vitamin-d.html</guid><description>&lt;h4 id="raising-the-american-weaklinghttpnautilusissue45powerraising-the-american-weaklingutm_sourcediggutm_mediumemail">&lt;a href="http://nautil.us/issue/45/power/raising-the-american-weakling?utm_source=digg&amp;amp;utm_medium=email">Raising the American Weakling&lt;/a>&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Longish interesting article in which vitamin D is not mentioned once&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>They speculate that the 20% decrease in a generation was due to less exercise.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>However, they mentioned &lt;a href="https://paperspast.natlib.govt.nz/newspapers/ST18920123.2.30%20">handgrip testing of infants less than 1 month old in 1892&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Most newborns were able to hang from a horizontal pole for more than 10 seconds&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>It seems unlikely that newborns can hang that long now, more than 120 years later&lt;/p></description></item><item><title>Severely burned children recovered muscle capability much faster with daily 1000 IU of vitamin D – RCT</title><link>/posts/severely-burned-children-recovered-muscle-capability-much-faster-with-daily-1000-iu-of-vitamin-d-rct.html</link><pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/severely-burned-children-recovered-muscle-capability-much-faster-with-daily-1000-iu-of-vitamin-d-rct.html</guid><description>&lt;h4 id="effect-of-vitamin-d-supplementation-and-isokinetic-training-on-muscle-strength-explosive-strength-lean-body-mass-and-gait-in-severely-burned-children-a-randomized-controlled-trial">Effect of vitamin D supplementation and isokinetic training on muscle strength, explosive strength, lean body mass and gait in severely burned children: A randomized controlled trial&lt;/h4>
+&lt;p>Burns, Volume 43, Issue 2, March 2017, Pages 357–365, &lt;a href="http://dx.doi.org/10.1016/j.burns.2016.08.018">http://dx.doi.org/10.1016/j.burns.2016.08.018&lt;/a>&lt;/p>
+&lt;p>Anwar Abdelgayed Ebid a, ,anwarandsafa@yahoo.com , Shamekh Mohamed El-Shamy b , Maysa Abbas Amer c, d&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>They only used 1,000 IU, with no loading dose, so the benefit of vitamin D would not be evident till at least 8 weeks into the 12 week trial.&lt;/strong>&lt;/p></description></item><item><title>Large single-dose of Omega-3 reduced expected muscle damage</title><link>/posts/large-single-dose-of-omega-3-reduced-expected-muscle-damage.html</link><pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate><guid>/posts/large-single-dose-of-omega-3-reduced-expected-muscle-damage.html</guid><description/></item><item><title>More muscle torque associated with higher vitamin D</title><link>/posts/more-muscle-torque-associated-with-higher-vitamin-d.html</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/posts/more-muscle-torque-associated-with-higher-vitamin-d.html</guid><description/></item><item><title>Indoor bicycling and 2000 IU of vitamin D lowers heart rate by 6 percent – RCT</title><link>/posts/indoor-bicycling-and-2000-iu-of-vitamin-d-lowers-heart-rate-by-6-percent-rct.html</link><pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/indoor-bicycling-and-2000-iu-of-vitamin-d-lowers-heart-rate-by-6-percent-rct.html</guid><description/></item><item><title>Slow walking speed of youths 14 times more likely if low vitamin D</title><link>/posts/slow-walking-speed-of-youths-14-times-more-likely-if-low-vitamin-d.html</link><pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate><guid>/posts/slow-walking-speed-of-youths-14-times-more-likely-if-low-vitamin-d.html</guid><description/></item><item><title>Vitamin D increased muscle strength by 1% to 19% (varied with dose and duration) – review</title><link>/posts/vitamin-d-increased-muscle-strength-by-1-percent-to-19-percent-varied-with-dose-and-duration-review.html</link><pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-increased-muscle-strength-by-1-percent-to-19-percent-varied-with-dose-and-duration-review.html</guid><description/></item><item><title>Vitamin D increasing muscle strength may reduce knee pain</title><link>/posts/vitamin-d-increasing-muscle-strength-may-reduce-knee-pain.html</link><pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-increasing-muscle-strength-may-reduce-knee-pain.html</guid><description>&lt;h4 id="quadriceps-muscle-strength-correlates-with-serum-vitamin-d-and-knee-pain-in-knee-osteoarthritis">Quadriceps Muscle Strength Correlates With Serum Vitamin D and Knee Pain in Knee Osteoarthritis.&lt;/h4>
+&lt;p>Javadian, Yahya; Adabi, Marzieh; Heidari, Behzad MD; Babaei, Mansour; Firouzjahi, Alireza; Ghahhari, Behnaz Y.; Hajian-Tilaki, Karim&lt;/p>
+&lt;p>Clinical Journal of Pain. AN: 00002508-900000000-99189. POST ACCEPTANCE, 17 February 2016&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;p>&lt;strong>Each 1 nanogram increase in Vitamin D increased quadriceps muscle strength by 14%&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>See also VitaminDWiki&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D&lt;/a>&lt;/p></description></item><item><title>How vitamin D helps exercise (IGF) – RCT</title><link>/posts/how-vitamin-d-helps-exercise-igf-rct.html</link><pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate><guid>/posts/how-vitamin-d-helps-exercise-igf-rct.html</guid><description/></item><item><title>Muscle strength of senior women increased 25 percent with vitamin D, decreased 6 percent with placebo</title><link>/posts/muscle-strength-of-senior-women-increased-25-percent-with-vitamin-d-decreased-6-percent-with-placebo.html</link><pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate><guid>/posts/muscle-strength-of-senior-women-increased-25-percent-with-vitamin-d-decreased-6-percent-with-placebo.html</guid><description/></item><item><title>2000 IU of vitamin D for just 2 weeks helped in many ways – RCT</title><link>/posts/2000-iu-of-vitamin-d-for-just-2-weeks-helped-in-many-ways-rct.html</link><pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate><guid>/posts/2000-iu-of-vitamin-d-for-just-2-weeks-helped-in-many-ways-rct.html</guid><description>&lt;h4 id="effect-of-vitamin-d-supplementation-on-cardiovascular-disease-risk-factors-and-exercise-performance-in-healthy-participants-a-randomized-placebo-controlled-preliminary-study">Effect of vitamin D supplementation on cardiovascular disease risk factors and exercise performance in healthy participants: a randomized placebo-controlled preliminary study.&lt;/h4>
+&lt;p>Ther Adv Endocrinol Metab. 2016 Aug;7(4):153-65. &lt;a href="https://doi.org/10.1177/2042018816653357.">doi: 10.1177/2042018816653357.&lt;/a> Epub 2016 Jun 20.&lt;/p>
+&lt;p>Al-Dujaili EA1, Munir N2, Iniesta RR2.&lt;/p>
+&lt;p>1Queen Margaret University, Queen Margaret University Drive, Musselburgh, Edinburgh, East Lothian EH21 6UU, UK.&lt;/p>
+&lt;p>2Dietetics, Nutrition and Biological Sciences, Queen Margaret University, Edinburgh, UK.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:650px">
+&lt;p>&lt;strong>Amazing benefits for such a short time of just 2000 IU daily&lt;/strong>&lt;/p></description></item><item><title>Most Olympic-class Dutch athletes nudged Vitamin D levels above 30 nanograms with 2200 IU daily – RCT</title><link>/posts/most-olympic-class-dutch-athletes-nudged-vitamin-d-levels-above-30-nanograms-with-2200-iu-daily-rct.html</link><pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate><guid>/posts/most-olympic-class-dutch-athletes-nudged-vitamin-d-levels-above-30-nanograms-with-2200-iu-daily-rct.html</guid><description/></item><item><title>Muscle Strength improved 1.4 to 19 percent by vitamin D3 (not D2) – systematic review</title><link>/posts/muscle-strength-improved-14-to-19-percent-by-vitamin-d3-not-d2-systematic-review.html</link><pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate><guid>/posts/muscle-strength-improved-14-to-19-percent-by-vitamin-d3-not-d2-systematic-review.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#effects-of-vitamin-d-supplementation-on-muscle-strength-in-athletes-a-systematic-review">Effects of Vitamin D Supplementation on Muscle Strength in Athletes A Systematic Review.&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#suspect-that-most-of-the-benefits-were-associated-with-high-dose-vitamin-d">Suspect that most of the benefits were associated with high dose vitamin D&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="effects-of-vitamin-d-supplementation-on-muscle-strength-in-athletes-a-systematic-review">Effects of Vitamin D Supplementation on Muscle Strength in Athletes A Systematic Review.&lt;/h4>
+&lt;p>J Strength Cond Res. 2016 Jun 28.&lt;/p>
+&lt;p>Chiang CM1, Ismaeel A, Griffis RB, Weems S.&lt;/p>
+&lt;p>Nutrition Sciences, Baylor University, Waco, Texas; and 2English, Baylor University, Waco, Texas.&lt;/p>
+&lt;p>The purpose of this systematic review of the literature was to investigate the effects of vitamin D supplementation on muscle strength in athletes. A computerized literature search of three databases (PubMed, Medline, and Scopus) was performed. Included in the review were randomized controlled trials, published in English, which measured serum vitamin D concentrations and muscle strength in healthy, athletic participants ages 18-45 years old. Quality was assessed using the PEDro scale.&lt;/p></description></item><item><title>Laryngospasm 2 X more likely in competitive rowers with low vitamin D</title><link>/posts/laryngospasm-2-x-more-likely-in-competitive-rowers-with-low-vitamin-d.html</link><pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate><guid>/posts/laryngospasm-2-x-more-likely-in-competitive-rowers-with-low-vitamin-d.html</guid><description/></item><item><title>Result of 5 years of Vitamin D given to athletes in a high school: $60 million in scholarships, almost zero concussions, etc.</title><link>/posts/result-of-5-years-of-vitamin-d-given-to-athletes-in-a-high-school-60-million-in--concussions-etc.html</link><pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate><guid>/posts/result-of-5-years-of-vitamin-d-given-to-athletes-in-a-high-school-60-million-in--concussions-etc.html</guid><description>&lt;p>Over 85 football players and almost 100 total student athletes from MLK on the vitamin D nutrition program have received college athletic scholarships over the past 5 years. In addition, they are dominating in the Southeastern Conference (SEC) in football and track. The SEC is the most competitive conference in college sports.”&lt;/p>
+&lt;p>Football WITHOUT Vitamin D – 2010 Season = 5 Concussions&lt;/p>
+&lt;p>Football WITH Vitamin D – 2011 Season&lt;/p>
+&lt;p>0 Concussions&lt;/p></description></item><item><title>Vitamin D, athletes, hormones</title><link>/posts/vitamin-d-athletes-hormones.html</link><pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-athletes-hormones.html</guid><description/></item><item><title>Fastest US High School sprinters are both at the school taking lots of vitamin D (Matthews)</title><link>/posts/fastest-us-high-school-sprinters-are-both-at-the-school-taking-lots-of-vitamin-d-matthews.html</link><pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate><guid>/posts/fastest-us-high-school-sprinters-are-both-at-the-school-taking-lots-of-vitamin-d-matthews.html</guid><description>&lt;h4 id="national-scholastic-athletics-foundationhttpswwwfacebookcomnational-scholastic-athletics-foundation-121260326686frefphoto-facebook">&lt;a href="https://www.facebook.com/National-Scholastic-Athletics-Foundation-121260326686/?fref=photo">National Scholastic Athletics Foundation&lt;/a> Facebook&lt;/h4>
+&lt;p>1). Cassondra Hall - - Ranked number 1 in U.S. Girls High School 100 and 200 meters&lt;/p>
+&lt;p>2). Matthew Moore — Ranked number 1 in U.S. High school Boys 110 meters hurdles&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/image002.jpg" alt="image" width="400">
+&lt;p>&lt;strong>Also - graduates from &amp;ldquo;the vitamin D&amp;rdquo; high school&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>3). Felicia Brown (Tennessee)—Ranked number 1 in NCAA/College 200 meters. Ran world’s fastest 3 indoor 200 meters times in 2016. 2016 Indoor Women’s 200 meter NCAA champion. Former MLK High School vitamin D athlete. &lt;a href="http://www.flotrack.org/article/39204-new-world-leads-set-around-the-country">http://www.flotrack.org/article/39204-new-world-leads-set-around-the-country&lt;/a>&lt;/p></description></item><item><title>NCAA athletes with low vitamin D do far fewer squats, etc.</title><link>/posts/ncaa-athletes-with-low-vitamin-d-do-far-fewer-squats-etc.html</link><pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/ncaa-athletes-with-low-vitamin-d-do-far-fewer-squats-etc.html</guid><description>&lt;h4 id="compromised-vitamin-d-status-negatively-affects-muscular-strength-and-power-of-collegiate-athletes">Compromised Vitamin D Status Negatively Affects Muscular Strength and Power of Collegiate Athletes.&lt;/h4>
+&lt;p>Int J Sport Nutr Exerc Metab. 2016 Apr 20.&lt;/p>
+&lt;p>Hildebrand RA1, Miller B, Warren A, Hildebrand D, Smith BJ.&lt;/p>
+&lt;p>1College of Health Sciences, The University of Tulsa, Tulsa, OK.&lt;/p>
+&lt;p>Increasing evidence indicates that compromised vitamin D status, as indicated by serum 25-hydroxyvitamin D (25-OH D), is associated with decreased muscle function. The purpose of this study was to determine the vitamin D status of collegiate athletes residing in the southern U.S. and its effects on muscular strength and anaerobic power. Collegiate athletes (n=103) from three separate NCAA athletic programs were recruited for the study. Anthropometrics, vitamin D and calcium intake, and sun exposure data were collected along with serum 25-OH D and physical performance measures (Vertical Jump Test, Shuttle Run Test, Triple Hop for Distance Test and the 1 &lt;strong>Repetition Maximum Squat Test&lt;/strong> ) to determine the influence of vitamin D status on muscular strength and anaerobic power. Approximately&lt;/p></description></item><item><title>Sunshine is a cure for “weak and soft muscles” – 425 BC</title><link>/posts/sunshine-is-a-cure-for-weak-and-soft-muscles-425-bc.html</link><pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/sunshine-is-a-cure-for-weak-and-soft-muscles-425-bc.html</guid><description>&lt;h4 id="effect-of-vitamin-d-on-skeletal-muscle">Effect of vitamin D on skeletal muscle.&lt;/h4>
+&lt;p>Geriatr Psychol Neuropsychiatr Vieil. 2016 Apr 21. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Walrand S. Inra, UMR 1019, UNH, CRNH Auvergne, Clermont-Ferrand, France.&lt;/p>
+&lt;p>Beyond its traditional biological roles on bone health, extra-skeletal effects of vitamin D are currently under extensive research. The expression of the vitamin D receptor in most tissues has also strengthened the argument for its multiple functions. Among these, the effect of vitamin D on the mass and muscle performance has long been discussed.&lt;/p></description></item><item><title>Capillary blood flow increased with Omega-3 by increasing deformability of blood cells</title><link>/posts/capillary-blood-flow-increased-with-omega-3-by-increasing-deformability-of-blood-cells.html</link><pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate><guid>/posts/capillary-blood-flow-increased-with-omega-3-by-increasing-deformability-of-blood-cells.html</guid><description>&lt;h4 id="how-omega-3-boosts-performance-by-increasing-oxygen-and-blood-flow-to-the-muscles-during-exercisehttpswwwintelligentlabsorghow-omega-3-boosts-performance-by-increasing-oxygen-and-blood-flow-to-the-muscles-during-exercise20">&lt;a href="https://www.intelligentlabs.org/how-omega-3-boosts-performance-by-increasing-oxygen-and-blood-flow-to-the-muscles-during-exercise/%20">How Omega 3 Boosts Performance By Increasing Oxygen And Blood Flow To The Muscles During Exercise.&lt;/a>&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/defornability.jpg" alt="image">
+&lt;p>&lt;strong>Clip&lt;/strong>&lt;/p>
+&lt;p>&amp;ldquo;Several studies has so far shown the effects of Omega 3 supplementation in RBC deformability in highly trained athletes. In one study trained cyclists were given a 6 week regime of either omega 3 supplementation or a ‘standard diet’ and then their red blood cell deformability was tested during a 1 hour cycle at 70% of V02 max at sea level and in an altitude chamber. The authors found there was a significant improvement in the deformability in the omega 3 supplemented group&amp;rdquo;&lt;/p></description></item><item><title>Professional soccer players in region with very hot sun – 89 percent low vitamin D</title><link>/posts/professional-soccer-players-in-region-with-very-hot-sun-89-percent-low-vitamin-d.html</link><pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/professional-soccer-players-in-region-with-very-hot-sun-89-percent-low-vitamin-d.html</guid><description/></item><item><title>Diabetes 3X more likely if little aerobic exercise (perhaps low vitamin D)</title><link>/posts/diabetes-3x-more-likely-if-little-aerobic-exercise-perhaps-low-vitamin-d.html</link><pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/diabetes-3x-more-likely-if-little-aerobic-exercise-perhaps-low-vitamin-d.html</guid><description>&lt;h3 id="lack-of-physical-fitness-in-youth-linked-with-3-fold-risk-of-developing-diabetes-in-adulthoodhttpdgnewsdocguidecomlack-physical-fitness-youth-linked-3-fold-risk-developing-diabetes-adulthoodoverlay2nl_refnewsletterpk_campaignnewsletter">&lt;a href="http://dgnews.docguide.com/lack-physical-fitness-youth-linked-3-fold-risk-developing-diabetes-adulthood?overlay=2&amp;amp;nl_ref=newsletter&amp;amp;pk_campaign=newsletter">Lack of Physical Fitness in Youth Linked With 3-Fold Risk of Developing Diabetes in Adulthood&lt;/a>&lt;/h3>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+#### Aerobic exercise ==> outdoors more ==> vitamin D ==> less diabetes
+&lt;ul>
+&lt;li>&lt;a href="/posts/prediabetes-reduced-by-monthly-60000-iu-of-vitamin-d-rct">Prediabetes reduced by monthly 60,000 IU of vitamin D – RCT May 2015&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Note: can easkily get 60,000 IU vitamin D monthly from outdoor exercise&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/prediabetics-60-percent-less-likely-to-become-diabetic-if-given-some-vitamin-d">Prediabetics 60 percent less likely to become diabetic if given some vitamin D – Jan 2014&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="/posts/type-2-diabetes-15x-more-likely-if-low-vs-high-vitamin-d-meta-analysis">Type 2 diabetes 1.5X more likely if low vs high vitamin D – meta-analysis Feb 2013&lt;/a>&lt;/p></description></item><item><title>4X fewer stress fractures in college athletes if more than 40 ng of vitamin D</title><link>/posts/4x-fewer-stress-fractures-in-college-athletes-if-more-than-40-ng-of-vitamin-d.html</link><pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate><guid>/posts/4x-fewer-stress-fractures-in-college-athletes-if-more-than-40-ng-of-vitamin-d.html</guid><description>&lt;p>I told author that his great study was on VitaminDWiki&lt;/p>
+&lt;p>Author wanted the page removed from VitaminDWiki&lt;/p>
+&lt;p>Study is still on the web at &lt;a href="http://www.bsatsmc.org/downloads">http://www.bsatsmc.org/downloads&lt;/a> as of April 3, 2016&lt;/p>
+&lt;p>Millward- Vitamin D Levels in the College Athlete, Can Screening and Treatment Prevent Stress Fractures?&lt;/p></description></item><item><title>Athletic performance and recovery – importance of vitamin D and vitamin K – 2015</title><link>/posts/athletic-performance-and-recovery-importance-of-vitamin-d-and-vitamin-k-2015.html</link><pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate><guid>/posts/athletic-performance-and-recovery-importance-of-vitamin-d-and-vitamin-k-2015.html</guid><description>&lt;h3 id="plausible-ergogenic-effects-of-vitamin-d-on-athletic-performance-and-recovery">Plausible ergogenic effects of vitamin D on athletic performance and recovery&lt;/h3>
+&lt;p>Journal of the international society of sports nutrition&lt;/p>
+&lt;p>Dylan T. Dahlquist2, Brad P. Dieter3 and Michael S. Koehle1 &lt;a href="mailto:michael.koehle@ubc.ca">michael.koehle@ubc.ca&lt;/a>&lt;/p>
+&lt;p>1Simon Fraser University, Biomedical Physiology and Kinesiology (BPK), 8888 University Drive - Burnaby, Vancouver, BC V5A 1S6, Canada&lt;/p>
+&lt;p>The purpose of this review is to examine vitamin D in the context of sport nutrition and its potential role in optimizing athletic performance. Vitamin D receptors (VDR) and vitamin D response elements (VDREs) are located in almost every tissue within the human body including skeletal muscle. The hormonally-active form of vitamin D, 1,25-dihydroxyvitamin D, has been shown to play critical roles in the human body and regulates over 900 gene variants. Based on the literature presented, it is plausible that vitamin D levels above the normal reference range (up to 100 nmol/L) might increase skeletal muscle function, decrease recovery time from training, increase both force and power production, and increase testosterone production, each of which could potentiate athletic performance. Therefore, maintaining higher levels of vitamin D could prove beneficial for athletic performance. Despite this situation, large portions of athletic populations are vitamin D deficient. Currently, the research is inconclusive with regards to the optimal intake of vitamin D, the specific forms of vitamin D one should ingest, and the distinct nutrient-nutrient interactions of vitamin D with vitamin K that affect arterial calcification and hypervitaminosis. Furthermore, it is possible that dosages exceeding the recommendations for vitamin D (i.e. dosages up to 4000-5000 IU/day), in combination with 50 to 1000 mcg/day of vitamin K1 and K2 could aid athletic performance. This review will investigate these topics, and specifically their relevance to athletic performance.&lt;/p></description></item><item><title>Football Brain injuries prevented by Omega-3 – RCT</title><link>/posts/football-brain-injuries-prevented-by-omega-3-rct.html</link><pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate><guid>/posts/football-brain-injuries-prevented-by-omega-3-rct.html</guid><description/></item><item><title>Doctors Say Top Athletes Take Vitamin D And So Should You - CBS News</title><link>/posts/doctors-say-top-athletes-take-vitamin-d-and-so-should-you-cbs-news.html</link><pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate><guid>/posts/doctors-say-top-athletes-take-vitamin-d-and-so-should-you-cbs-news.html</guid><description/></item><item><title>Elite Athletes Try a New Training Tactic: More Vitamin D - WSJ</title><link>/posts/elite-athletes-try-a-new-training-tactic-more-vitamin-d-wsj.html</link><pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/elite-athletes-try-a-new-training-tactic-more-vitamin-d-wsj.html</guid><description>&lt;h4 id="elite-athletes-try-a-new-training-tactic-more-vitamin-dhttpwwwwsjcomarticleselite-athletes-try-a-new-training-tactic-more-vitamin-d-1453745154">&lt;a href="http://www.wsj.com/articles/elite-athletes-try-a-new-training-tactic-more-vitamin-d-1453745154">Elite Athletes Try a New Training Tactic: More Vitamin D&lt;/a>&lt;/h4>
+&lt;p>Wall Street Journal Jan 25, 2016&lt;/p>
+&lt;p>&lt;strong>Subtitle: Pro and college teams, including the Steelers, Red Wings and USC, think the nutrient may help players avoid injury, among other benefits&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&amp;ldquo;A 2011 study of the New York Giants, presented at a meeting of the American Orthopaedic Society for Sports Medicine, found an association between low vitamin D levels and injuries. &amp;quot;&lt;/p></description></item><item><title>Senior muscles increased somewhat with Omega-3 – RCT</title><link>/posts/senior-muscles-increased-somewhat-with-omega-3-rct.html</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>/posts/senior-muscles-increased-somewhat-with-omega-3-rct.html</guid><description/></item><item><title>Outdoor distance runners had great Vitamin D levels (50 ng)</title><link>/posts/outdoor-distance-runners-had-great-vitamin-d-levels-50-ng.html</link><pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/outdoor-distance-runners-had-great-vitamin-d-levels-50-ng.html</guid><description/></item><item><title>The Importance of Vitamin D for Athletes - 2015</title><link>/posts/the-importance-of-vitamin-d-for-athletes-2015.html</link><pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/the-importance-of-vitamin-d-for-athletes-2015.html</guid><description>&lt;h3 id="the-importance-of-vitamin-d-for-athleteshttpwwwgssiweborgenarticlesse-148-the-importance-of-vitamin-d-for-athletes">&lt;a href="http://www.gssiweb.org/en/Article/sse-148-the-importance-of-vitamin-d-for-athletes">THE IMPORTANCE OF VITAMIN D FOR ATHLETES&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>1. 148 Sport Science Exchange by Enette Larson-Meyer&lt;/strong>&lt;/p>
+&lt;p>Recommends only a small amount of vitamin D or sunshine&lt;/p>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sports.jpg" alt="image"></description></item><item><title>Exercise capacity (VO2) 25 percent higher if high level of vitamin D</title><link>/posts/exercise-capacity-vo2-25-percent-higher-if-high-level-of-vitamin-d.html</link><pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate><guid>/posts/exercise-capacity-vo2-25-percent-higher-if-high-level-of-vitamin-d.html</guid><description>&lt;h4 id="vitamin-d-is-associated-with-cardiopulmonary-exercise-capacity-results-of-two-independent-cohorts-of-healthy-adults">Vitamin D is associated with cardiopulmonary exercise capacity: results of two independent cohorts of healthy adults.&lt;/h4>
+&lt;p>Br J Nutr. 2015 Dec 1:1-9. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Kaul A1, Gläser S2, Hannemann A1, Schäper C2, Nauck M1, Felix SB2, Bollmann T2, Ewert R2, Friedrich N1 &lt;a href="mailto:nele.friedrich@uni-greifswald.de">nele.friedrich@uni-greifswald.de&lt;/a>&lt;/p>
+&lt;p>1 Institute of Clinical Chemistry and Laboratory Medicine,University Medicine Greifswald,D-17475 Greifswald,Germany.&lt;/p>
+&lt;p>2 Department of Internal Medicine B - Cardiology,Intensive Care,Pulmonary Medicine and Infectious Diseases,University Medicine Greifswald,D-17475 Greifswald,Germany.&lt;/p></description></item><item><title>Metatarsal Stress Fracture 5X more likely if low vitamin D</title><link>/posts/metatarsal-stress-fracture-5x-more-likely-if-low-vitamin-d.html</link><pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/metatarsal-stress-fracture-5x-more-likely-if-low-vitamin-d.html</guid><description>&lt;h4 id="evaluating-the-risk-of-a-fifth-metatarsal-stress-fracture-by-measuring-the-serum-25-hydroxyvitamin-d-levels">Evaluating the Risk of a Fifth Metatarsal Stress Fracture by Measuring the Serum 25-Hydroxyvitamin D Levels&lt;/h4>
+&lt;p>Foot &amp;amp; Ankle International November 23, 2015 1071100715617042&lt;/p>
+&lt;p>Yu Shimasaki, MSc1&lt;/p>
+&lt;p>Masashi Nagao, MD, PhD2⇑&lt;/p>
+&lt;p>Takayuki Miyamori, MPthy3&lt;/p>
+&lt;p>Yukihiro Aoba, MSc1&lt;/p>
+&lt;p>Norifumi Fukushi, MSc4&lt;/p>
+&lt;p>Yoshitomo Saita, MD, PhD5&lt;/p>
+&lt;p>Hiroshi Ikeda, MD, PhD5&lt;/p>
+&lt;p>Sung-Gon Kim, MD, PhD2&lt;/p>
+&lt;p>Masahiko Nozawa, MD, PhD2&lt;/p>
+&lt;p>Kazuo Kaneko, MD, PhD5&lt;/p>
+&lt;p>Masafumi Yoshimura, PhD1,6&lt;/p>
+&lt;p>1 School of Health and Sports Science, Juntendo University, Chiba, Japan&lt;/p></description></item><item><title>Outdoor activities prescribed by 20 French doctors to treat diseases associated with low vitamin D</title><link>/posts/outdoor-activities-prescribed-by-20-french-doctors-to-treat-diseases-associated-with-low-vitamin-d.html</link><pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/outdoor-activities-prescribed-by-20-french-doctors-to-treat-diseases-associated-with-low-vitamin-d.html</guid><description>&lt;h4 id="doctors-prescribe-surfing-lessons-in-world-first-in-french-seaside-townhttpwwwtelegraphcouknewsworldnewseuropefrance11991038doctors-prescribe-surfing-lessons-in-world-first-in-french-seaside-townhtml">&lt;a href="http://www.telegraph.co.uk/news/worldnews/europe/france/11991038/Doctors-prescribe-surfing-lessons-in-world-first-in-French-seaside-town.html">Doctors prescribe surfing lessons in &amp;lsquo;world first&amp;rsquo; in French seaside town&lt;/a>&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>20 doctors are taking part in a pilot scheme&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The doctors are authorised to prescribe a 12-week course in sports, including surfing or paddleboard but also more classic activities like swimming or Nordic walking&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Doctors say surfing and other sports can be highly effective in fighting &lt;strong>chronic pain&lt;/strong> and &lt;strong>depression&lt;/strong> , as well as &lt;strong>diabetes and obesity&lt;/strong> , and helps reduce the 46,000 deaths annually linked to inactivity.&lt;/p></description></item><item><title>Muscle strength of Judo athletes increased 13 percent following single dose of 150,000 IU vitamin D – RCT</title><link>/posts/muscle-strength-of-judo-athletes-increased-13-percent-following-single-dose-of-1-u-vitamin-d-rct.html</link><pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate><guid>/posts/muscle-strength-of-judo-athletes-increased-13-percent-following-single-dose-of-1-u-vitamin-d-rct.html</guid><description/></item><item><title>Stress fractures – 83 percent had less than 40 ng of vitamin D</title><link>/posts/stress-fractures-83-percent-had-less-than-40-ng-of-vitamin-d.html</link><pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/stress-fractures-83-percent-had-less-than-40-ng-of-vitamin-d.html</guid><description>&lt;h4 id="association-of-vitamin-d-with-stress-fractures-a-retrospective-cohort-study">Association of Vitamin D With Stress Fractures: A Retrospective Cohort Study&lt;/h4>
+&lt;p>J of Foot and Ankle Surgery, DOI: &lt;a href="http://dx.doi.org/10.1053/j.jfas.2015.08.002">http://dx.doi.org/10.1053/j.jfas.2015.08.002&lt;/a>&lt;/p>
+&lt;p>Jason R. Miller, DPM, FACFAS, Karl W. Dunn, DPM, AACFAS &lt;a href="mailto:dr.karldunn@gmail.com">dr.karldunn@gmail.com&lt;/a> , Louis J. Ciliberti Jr., DPM, AACFAS, Rikhil D. Patel, DPM, Brock A. Swanson, DPM&lt;/p>
+&lt;p>Vitamin D is an essential, fat-soluble nutrient that is a key modulator of bone health. Despite the gaining popularity throughout published medical studies, no consensus has been reached regarding a serum vitamin D level that will guarantee adequate skeletal health in a patient with an increased functional demand. The purpose of the present investigation was to examine the serum concentrations of vitamin D in patients with confirmed stress fractures. A total of 124 patients were included in our retrospective cohort study. Of the 124 patients, 53 had vitamin D levels measured within 3 months of diagnosis.&lt;/p></description></item><item><title>Intense exercise increases vitamin D receptor activation</title><link>/posts/intense-exercise-increases-vitamin-d-receptor-activation.html</link><pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate><guid>/posts/intense-exercise-increases-vitamin-d-receptor-activation.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vdr-decreases-with-age-acute-exercise-increases-vdr-for-all-ages--april-2021">VDR decreases with age, acute exercise increases VDR for all ages – April 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#high-intensity-interval-training-decreased-death-rate-by-50---rct-dec-2020">High Intensity Interval Training decreased death rate by 50% - RCT Dec 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#acute-resistance-exercise-increased-vdr-activation-for-a-few-hours---sept-2015">Acute resistance exercise increased VDR activation for a few hours - Sept 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#high-intensity-exercise-increased-vdr-and-vitamin-d-in-6-ponies---sept-2020">High intensity exercise increased VDR and Vitamin D in 6 ponies - Sept 2020&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#acute-high-intensity-interval-exercise-reduces-colon-cancer-cell-growth---april-2019">Acute high intensity interval exercise reduces colon cancer cell growth - April 2019&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vdr-decreases-with-age-acute-exercise-increases-vdr-for-all-ages--april-2021">VDR decreases with age, acute exercise increases VDR for all ages – April 2021&lt;/h4>
+&lt;p>&lt;strong>Exercise acutely increases vitamin D receptor (VDR) expression in T-lymphocytes in vitamin D deficient men, independent of age&lt;/strong>&lt;/p></description></item><item><title>Athletic performance and recovery benefits of Vitamin D (4000-5000 IU and Vitamin K)</title><link>/posts/athletic-performance-and-recovery-benefits-of-vitamin-d-4000-5000-iu-and-vitamin-k.html</link><pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate><guid>/posts/athletic-performance-and-recovery-benefits-of-vitamin-d-4000-5000-iu-and-vitamin-k.html</guid><description/></item><item><title>Volleyball players jump higher with Magnesium - RCT 2014</title><link>/posts/volleyball-players-jump-higher-with-magnesium-rct-2014.html</link><pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate><guid>/posts/volleyball-players-jump-higher-with-magnesium-rct-2014.html</guid><description>&lt;h3 id="magnesium-status-and-the-physical-performance-of-volleyball-players-effects-of-magnesium-supplementation">Magnesium status and the physical performance of volleyball players: effects of magnesium supplementation.&lt;/h3>
+&lt;p>J Sports Sci. 2014;32(5):438-45. &lt;a href="https://doi.org/10.1080/02640414.2013.828847.">doi: 10.1080/02640414.2013.828847.&lt;/a> Epub 2013 Sep 9.&lt;/p>
+&lt;p>Setaro L1, Santos-Silva PR, Nakano EY, Sales CH, Nunes N, Greve JM, Colli C.&lt;/p>
+&lt;p>1a Department of Food and Experimental Nutrition , Faculty of Pharmaceutical Sciences of University of São Paulo , São Paulo , Brazil.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;p>Radomized Controlled Trial for 4 weeks&lt;/p>
+&lt;p>Used 350 mg of Magnesium with professional Volleyball players (people who really know how to jump)&lt;/p></description></item><item><title>Vitamin D measured in 4000 people for many years – longitudinal associations</title><link>/posts/vitamin-d-measured-in-4000-people-for-many-years-longitudinal-associations.html</link><pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-measured-in-4000-people-for-many-years-longitudinal-associations.html</guid><description>&lt;h4 id="longitudinal-associations-between-lifestyle-and-vitamin-d-a-general-population-study-with-repeated-vitamin-d-measurements">Longitudinal associations between lifestyle and vitamin D: A general population study with repeated vitamin D measurements.&lt;/h4>
+&lt;p>Endocrine. 2015 May 30. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Skaaby T1, Husemoen LL, Thuesen BH, Pisinger C, Hannemann A, Jørgensen T, Linneberg A.&lt;/p>
+&lt;p>1Research Centre for Prevention and Health, Capital Region of Denmark, Copenhagen, Denmark, &lt;a href="mailto:tea.skaaby.01@regionh.dk">tea.skaaby.01@regionh.dk&lt;/a>.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>BMI&lt;/td>
+ &lt;td>-0.3 ng/ml &lt;br>per 1 kg/m2 increase in BMI&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>moderately/vigorously physically active &lt;br>versus sedentary&lt;/td>
+ &lt;td>4.50 ng/ml &lt;br>(probably outdoors more)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>healthy dietary habits&lt;br>versus unhealthy dietary habits&lt;/td>
+ &lt;td>1.8 ng/ml&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>1 drink increase in alcohol&lt;/td>
+ &lt;td>0.05 ng/ml (virually nothing)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>never smokers versus daily smokers&lt;/td>
+ &lt;td>0.86 ng/ml&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>See also VitaminDWiki&lt;/strong>&lt;/p></description></item><item><title>Improved muscle function in postmenopausal women with just 1,000 IU of vitamin D daily – RCT</title><link>/posts/improved-muscle-function-in-postmenopausal-women-with-just-1000-iu-of-vitamin-d-daily-rct.html</link><pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate><guid>/posts/improved-muscle-function-in-postmenopausal-women-with-just-1000-iu-of-vitamin-d-daily-rct.html</guid><description>&lt;h4 id="effect-of-vitamin-d-supplementation-alone-on-muscle-function-in-postmenopausal-women-a-randomized-double-blind-placebo-controlled-clinical-trial">Effect of vitamin D supplementation alone on muscle function in postmenopausal women: a randomized, double-blind, placebo-controlled clinical trial.&lt;/h4>
+&lt;p>Osteoporos Int. 2015 May 9. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Cangussu LM 1 &lt;a href="mailto:lucianacangussu@gmail.com">lucianacangussu@gmail.com&lt;/a>, Nahas-Neto J, Orsatti CL, Bueloni-Dias FN, Nahas EA.&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:500px">
+&lt;p>postmenopausal women with a history of falls (associated with low vitamin D)&lt;/p>
+&lt;p>1,000 IU daily for 9 months&lt;/p>
+&lt;h4 id="--vitamin-dplacebo">|| | Vitamin D|Placebo&lt;/h4>
+&lt;p>Vitamin D at start|15 ng|17 ng&lt;/p>
+&lt;p>Vitamin D after 9 months|28 ng| 14 ng&lt;/p></description></item><item><title>Vitamin D improves muscle strength, reduces falling, and reduces frailty – review</title><link>/posts/vitamin-d-improves-muscle-strength-reduces-falling-and-reduces-frailty-review.html</link><pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-improves-muscle-strength-reduces-falling-and-reduces-frailty-review.html</guid><description>&lt;h4 id="vitamin-d-a-review-on-its-effects-on-muscle-strength-the-risk-of-fall-and-frailty">Vitamin D: A Review on Its Effects on Muscle Strength, the Risk of Fall, and Frailty&lt;/h4>
+&lt;p>BioMed Research International, Article ID 953241&lt;/p>
+&lt;p>Matthieu Halfon, Olivier Phan, and Daniel Teta&lt;/p>
+&lt;p>Service of Nephrology, Department of Medicine, Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland&lt;/p>
+&lt;p>Vitamin D is the main hormone of bone metabolism. However, the ubiquitary nature of vitamin D receptor (VDR) suggests potential for widespread effects, which has led to new research exploring the effects of vitamin D on a variety of tissues, especially in the skeletal muscle. In vitro studies have shown that the active form of vitamin D, calcitriol, acts in myocytes through genomic effects involving VDR activation in the cell nucleus to drive cellular differentiation and proliferation. A putative transmembrane receptor may be responsible for nongenomic effects leading to rapid influx of calcium within muscle cells. Hypovitaminosis D is consistently associated with decrease in muscle function and performance and increase in disability. On the contrary, vitamin D supplementation has been shown to improve muscle strength and gait in different settings, especially in elderly patients. Despite some controversies in the interpretation of meta-analysis, a reduced risk of falls has been attributed to vitamin D supplementation due to direct effects on muscle cells. Finally, a low vitamin D status is consistently associated with the frail phenotype. This is why many authorities recommend vitamin D supplementation in the frail patient.&lt;/p></description></item><item><title>NCAA athletes – one third had low levels of vitamin D, 19X more likely if black race</title><link>/posts/ncaa-athletes-one-third-had-low-levels-of-vitamin-d-19x-more-likely-if-black-race.html</link><pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate><guid>/posts/ncaa-athletes-one-third-had-low-levels-of-vitamin-d-19x-more-likely-if-black-race.html</guid><description>&lt;h4 id="prevalence-of-abnormal-vitamin-d-levels-among-division-i-ncaa-athletes">Prevalence of Abnormal Vitamin D Levels Among Division I NCAA Athletes&lt;/h4>
+&lt;p>Presented at 2015 Annual Meeting of the American Academy of Orthopaedic Surgeons&lt;/p>
+&lt;p>Diego C. Villacis, MD, Los Angeles, California&lt;/p>
+&lt;p>Anthony Yi, BS, Los Angeles, California&lt;/p>
+&lt;p>Ryan Jahn, BS, Pasadena, California&lt;/p>
+&lt;p>Curtis J. Kephart, MD, Delray Beach, Florida&lt;/p>
+&lt;p>Timothy Charlton, MD, Los Angeles, California&lt;/p>
+&lt;p>Seth C. Gamradt, MD, Los Angeles, California&lt;/p>
+&lt;p>Russ Romano, MA, ATC, Los Angeles, California&lt;/p>
+&lt;p>James E. Tibone, MD, Los Angeles, California&lt;/p></description></item><item><title>NFL team less likely to cut players with high levels of vitamin D</title><link>/posts/nfl-team-less-likely-to-cut-players-with-high-levels-of-vitamin-d.html</link><pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/nfl-team-less-likely-to-cut-players-with-high-levels-of-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#vitamin-d-profile-in-national-football-league-players---2015">Vitamin D Profile in National Football League Players - 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-association-of-vitamin-d-status-in-lower-extremity-muscle-strains-and-core-muscle-injuries-at-the-national-football-league-combine---2017">The Association of Vitamin D Status in Lower Extremity Muscle Strains and Core Muscle Injuries at the National Football League Combine - 2017&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="vitamin-d-profile-in-national-football-league-players---2015">Vitamin D Profile in National Football League Players - 2015&lt;/h4>
+&lt;p>Am J Sports Med. 2015 Feb 3. &lt;a href="https://doi.org/10.1177/0363546514567297">https://doi.org/10.1177/0363546514567297&lt;/a>&lt;/p>
+&lt;p>Maroon JC1, Mathyssek CM1, Bost JW2, Amos A1, Winkelman R1, Yates AP3, Duca MA3, Norwig JA4.&lt;/p>
+&lt;p>BACKGROUND:&lt;/p>
+&lt;p>By maintaining phosphate and calcium homeostasis, vitamin D is critical for bone health and possibly physical performance. Hence, vitamin D is important to athletes. Few studies have investigated vitamin D levels in relation to fractures and performance in athletes, and no published study has included a multiracial sample of professional American football players.&lt;/p></description></item><item><title>Weight loss includes muscle loss unless add vitamin D, whey and leucine – RCT</title><link>/posts/weight-loss-includes-muscle-loss-unless-add-vitamin-d-whey-and-leucine-rct.html</link><pubDate>Sat, 07 Feb 2015 00:00:00 +0000</pubDate><guid>/posts/weight-loss-includes-muscle-loss-unless-add-vitamin-d-whey-and-leucine-rct.html</guid><description>&lt;h4 id="a-high-whey-protein-leucine--and-vitamin-denriched-supplement-preserves-muscle-mass-during-intentional-weight-loss-in-obese-older-adults-a-double-blind-randomized-controlled-trial">A high whey protein–, leucine-, and vitamin D–enriched supplement preserves muscle mass during intentional weight loss in obese older adults: a double-blind randomized controlled trial&lt;/h4>
+&lt;p>Am J Clin Nutr February 2015 vol. 101 no. 2 279-286&lt;/p>
+&lt;p>Amely M Verreijen &lt;a href="mailto:a.verreijen@hva.nl">a.verreijen@hva.nl&lt;/a>. , Sjors Verlaan, Mariëlle F Engberink, Sophie Swinkels, Johan de Vogel-van den Bosch, and Peter JM Weijs&lt;/p>
+&lt;p>1From the Department of Nutrition and Dietetics, School of Sports and Nutrition, Amsterdam University of Applied Sciences, Amsterdam, The Netherlands (AMV, MFE, and PJMW), and Nutricia Research, Utrecht, The Netherlands (SV, SS, and JdV-vdB).&lt;/p></description></item><item><title>Professional soccer players with more vitamin D had better body parameters – 2014</title><link>/posts/professional-soccer-players-with-more-vitamin-d-had-better-body-parameters-2014.html</link><pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate><guid>/posts/professional-soccer-players-with-more-vitamin-d-had-better-body-parameters-2014.html</guid><description>&lt;h4 id="an-evaluation-of-the-levels-of-25-hydroxyvitamin-d3-and-bone-turnover-markers-in-professional-football-players-and-in-physically-inactive-men">An evaluation of the levels of 25-hydroxyvitamin D3 and bone turnover markers in professional football players and in physically inactive men.&lt;/h4>
+&lt;p>Physiol Res. 2014;63(2):237-43. Epub 2014 Jan 8.&lt;/p>
+&lt;p>Solarz K1, Kopeć A, Pietraszewska J, Majda F, Słowińska-Lisowska M, Mędraś M.&lt;/p>
+&lt;h3 id="significant-correlations-with-vitamin-d">Significant correlations with Vitamin D&lt;/h3>
+&lt;h4 id="body-mass-kg031--heavier">||Body mass (kg)|	0.31* | heavier&lt;/h4>
+&lt;p>Body cell mass (kg)	|0.48** |&lt;/p>
+&lt;p>Total body water (l)|	0.41** |more water in body&lt;/p>
+&lt;p>Extracellular water (l)	|0.32* | more water outside of cells&lt;/p></description></item><item><title>Stress fractures in basic training associated with 2.5 ng less vitamin D – meta-analysis</title><link>/posts/stress-fractures-in-basic-training-associated-with-25-ng-less-vitamin-d-meta-analysis.html</link><pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate><guid>/posts/stress-fractures-in-basic-training-associated-with-25-ng-less-vitamin-d-meta-analysis.html</guid><description>&lt;h4 id="serum-25-hydroxyvitamin-d-levels-and-stress-fractures-in-military-personnel-a-systematic-review-and-meta-analysis">Serum 25-Hydroxyvitamin D Levels and Stress Fractures in Military Personnel: A Systematic Review and Meta-analysis.&lt;/h4>
+&lt;p>Am J Sports Med. 2014 Nov 4. pii: 0363546514555971. &lt;span>[Epub ahead of print]&lt;/span>&lt;/p>
+&lt;p>Dao D 1, Sodhi S 1, Tabasinejad R 2, Peterson D 3, Ayeni OR 3, Bhandari M 4, Farrokhyar F 5.&lt;/p>
+&lt;p>1Department of Epidemiology and Biostatistics, McMaster University, Hamilton, Ontario, Canada.&lt;/p>
+&lt;p>2School of Kinesiology and Health Science, York University, Toronto, Ontario, Canada.&lt;/p></description></item><item><title>Elite NZ Outdoor athletes fear skin cancer 10X more than fear low vitamin D</title><link>/posts/elite-nz-outdoor-athletes-fear-skin-cancer-10x-more-than-fear-low-vitamin-d.html</link><pubDate>Thu, 18 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/elite-nz-outdoor-athletes-fear-skin-cancer-10x-more-than-fear-low-vitamin-d.html</guid><description>&lt;h3 class="showhide_heading" id="Knowledge_and_attitudes_to_vitamin_D_and_sun_exposure_in_elite_New_Zealand_athletes:_a_cross-sectional_study">
+&lt;p>Knowledge and attitudes to vitamin D and sun exposure in elite New Zealand athletes: a cross-sectional study&lt;/h3>&lt;/p>
+&lt;p>
+&lt;p>Journal of the International Society of Sports Nutrition 2014, 11:47 doi:10.1186/s12970-014-0047-6&lt;br />&lt;/p>
+&lt;p>Nicole Walker1, Thomas D Love2, Dane Francis Baker3, Phillip Brian Healey3, Jillian Haszard1, Antony S Edwards4 and Katherine Elizabeth Black1 &lt;a href="mailto:katherine.black@otago.ac.nz">katherine.black@otago.ac.nz&lt;/a>&lt;/p>&lt;/p>
+&lt;p>
+&lt;p>Background Sun safety and vitamin D status are important for prolonged health. They are of particular interest to those working with athletes for whom for whom safe sun practices maybe limited. The aim of this cross-sectional study was to describe the attitudes of elite New Zealand athletes to both vitamin D and sun exposure.&lt;/p></description></item><item><title>People with old burns improved muscle strength with 2200 IU average vitamin D – RCT</title><link>/posts/people-with-old-burns-improved-muscle-strength-with-2200-iu-average-vitamin-d-rct.html</link><pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate><guid>/posts/people-with-old-burns-improved-muscle-strength-with-2200-iu-average-vitamin-d-rct.html</guid><description/></item><item><title>Many athletes now advised to take daily vitamin D supplements</title><link>/posts/many-athletes-now-advised-to-take-daily-vitamin-d-supplements.html</link><pubDate>Sat, 23 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/many-athletes-now-advised-to-take-daily-vitamin-d-supplements.html</guid><description>&lt;h3 id="vitamin-d-and-the-athlete-emerging-insights">Vitamin D and the athlete: Emerging insights&lt;/h3>
+&lt;p>European Journal of Sport Science, DOI:10.1080/17461391.2014.944223, online: 18 Aug 2014&lt;/p>
+&lt;p>Daniel J. Owensa, William D. Fraserb &amp;amp; Graeme L. Closea*&lt;/p>
+&lt;p>Interest in Vitamin D has risen considerably recently with &lt;strong>many athletes now advised to take daily vitamin D supplements&lt;/strong> .&lt;/p>
+&lt;p>The reason for this interest is partly not only attributed to the resurgence of the Vitamin D-deficient disease rickets but also due to the discovery of a Vitamin D receptor in many tissues suggesting a more global role for Vitamin D than previously considered. Unlike the other vitamins that are obtained through the diet, Vitamin D is unique since endogenous synthesis following ultraviolet B (UVB) exposure is the predominant route of entry into systemic circulation. Moreover, Vitamin D could be better classed as a seco-steroid, given that its structure is similar to that of a steroid, and its production is derived from a cholesterol precursor (7-dehydrocholesteol) in the skin. The classification of Vitamin D status is currently subject to considerable debate with many authors opposing governing body recommendations.&lt;/p></description></item><item><title>Vitamin D supplementation improves muscle strength in healthy adults – meta-analysis of 6 RCT</title><link>/posts/vitamin-d-supplementation-improves-muscle-strength-in-healthy-adults-meta-analysis-of-6-rct.html</link><pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-supplementation-improves-muscle-strength-in-healthy-adults-meta-analysis-of-6-rct.html</guid><description>&lt;h4 id="effects-of-vitamin-d-supplementation-on-upper-and-lower-body-muscle-strength-levels-in-healthy-individuals-a-systematic-review-with-meta-analysis">Effects of vitamin D supplementation on upper and lower body muscle strength levels in healthy individuals. A systematic review with meta-analysis&lt;/h4>
+&lt;p>Journal of Science and Medicine in Sport, Available online 11 August 2014&lt;/p>
+&lt;p>Peter B. Tomlinson, Corey Joseph, Manuela Angioi,&lt;/p>
+&lt;p>Objectives: To investigate the effects of vitamin D supplementation on muscle strength in healthy individuals.&lt;/p>
+&lt;p>Design: A systematic review with meta-analysis.&lt;/p>
+&lt;p>Methods: In October 2013 a computerised literature search of three databases (Pubmed, Web of Knowledge and Scopus) was performed. Included in the review were controlled and randomised controlled trials, published in English, which measured muscle strength and serum Vitamin D concentration in participants 18-40 years old. References of identified articles were then cross-checked and citations scanned for additional articles. Quality was assessed using the PEDro scale. Muscle strength and Vitamin D levels were extracted for a meta-analysis on upper and lower limb strength with standardised mean differences calculated to analyse effect.&lt;/p></description></item><item><title>Vitamin D supplementation help muscles of seniors who are vitamin D deficient – meta-analysis</title><link>/posts/vitamin-d-supplementation-help-muscles-of-seniors-who-are-vitamin-d-deficient-meta-analysis.html</link><pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-supplementation-help-muscles-of-seniors-who-are-vitamin-d-deficient-meta-analysis.html</guid><description>&lt;h4 id="the-effects-of-vitamin-d-on-skeletal-muscle-strength-muscle-mass-and-muscle-power-a-systematic-review-and-meta-analysis-of-randomized-controlled-trials">The effects of vitamin D on skeletal muscle strength, muscle mass and muscle power: a systematic review and meta-analysis of randomized controlled trials.&lt;/h4>
+&lt;p>J Clin Endocrinol Metab. 2014 Jul 17:jc20141742&lt;/p>
+&lt;p>Beaudart C1, Buckinx F, Rabenda V, Gillain S, Cavalier E, Slomian J, Petermans J, Reginster JY, Bruyère O.&lt;/p>
+&lt;p>1Department of Public Health, Epidemiology and Health Economics, University of Liège, Liège, Belgium;&lt;/p>
+&lt;p>Context There is growing evidence that vitamin D plays a role on several tissues including skeletal muscle.&lt;/p></description></item><item><title>Goal for Scottish athletes: none will be vitamin D deficient (typically 2 out of 3)</title><link>/posts/goal-for-scottish-athletes-none-will-be-vitamin-d-deficient-typically-2-out-of-3.html</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><guid>/posts/goal-for-scottish-athletes-none-will-be-vitamin-d-deficient-typically-2-out-of-3.html</guid><description/></item><item><title>Dark skinned NCAA basketball players were 15X more likely to have low vitamin D</title><link>/posts/dark-skinned-ncaa-basketball-players-were-15x-more-likely-to-have-low-vitamin-d.html</link><pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/dark-skinned-ncaa-basketball-players-were-15x-more-likely-to-have-low-vitamin-d.html</guid><description>&lt;h4 id="prevalence-of-abnormal-vitamin-d-levels-among-division-i-ncaa-athletes">Prevalence of Abnormal Vitamin D Levels Among Division I NCAA Athletes&lt;/h4>
+&lt;p>Sports Health: A Multidisciplinary Approach February 25, 2014 1941738114524517&lt;/p>
+&lt;p>Diego Villacis, MD†, Anthony Yi, BS*,†, Ryan Jahn, BS†, Curtis J. Kephart, MD†, Timothy Charlton, MD†, Seth C. Gamradt, MD†, Russ Romano, MA, ATC‡, James E. Tibone, MD† and George F. Rick Hatch III, MD†&lt;/p>
+&lt;p>†Department of Orthopaedic Surgery, Keck School of Medicine, Keck Hospital of University of Southern California, Los Angeles, California&lt;/p></description></item><item><title>Skeletal muscles helped by vitamin D – Review</title><link>/posts/skeletal-muscles-helped-by-vitamin-d-review.html</link><pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate><guid>/posts/skeletal-muscles-helped-by-vitamin-d-review.html</guid><description/></item><item><title>Vitamin D – Polish office workers less than Polish Soccer players, less than Italian Soccer players (no surprise)</title><link>/posts/vitamin-d-polish-office-workers-less-than-polish-soccer-players-less-than-italia-ers-no-surprise.html</link><pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-polish-office-workers-less-than-polish-soccer-players-less-than-italia-ers-no-surprise.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p></description></item><item><title>Athletes (national-level) with less than 10 ng of vitamin D had smaller hearts</title><link>/posts/athletes-national-level-with-less-than-10-ng-of-vitamin-d-had-smaller-hearts.html</link><pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/athletes-national-level-with-less-than-10-ng-of-vitamin-d-had-smaller-hearts.html</guid><description>&lt;h3 id="severely-vitamin-d-deficient-athletes-present-smaller-hearts-than-sufficient-athletes">Severely vitamin D-deficient athletes present smaller hearts than sufficient athletes&lt;/h3>
+&lt;p>European Journal of Preventive Cardiology January 7, 2014 2047487313518473&lt;/p>
+&lt;p>Richard J Allison 1,2&lt;/p>
+&lt;p>Graeme L Close 2&lt;/p>
+&lt;p>Abdulaziz Farooq 3&lt;/p>
+&lt;p>Nathan R Riding 2,3&lt;/p>
+&lt;p>Othman Salah 4&lt;/p>
+&lt;p>Bruce Hamilton 5&lt;/p>
+&lt;p>Mathew G Wilson 4&lt;/p>
+&lt;p>1 National Sports Medicine Program, ASPETAR, Qatar Orthopaedic and Sports Medicine Hospital, Qatar&lt;/p>
+&lt;p>2 Research Institute for Sport and Exercise Science, Liverpool John Moores University, Liverpool, Merseyside, UK&lt;/p>
+&lt;p>3 Athlete Health and Performance Research Centre, ASPETAR, Qatar Orthopaedic and Sports Medicine Hospital Qatar&lt;/p></description></item><item><title>The Big D (an editorial in American Journal of Sports Medicine)</title><link>/posts/the-big-d-an-editorial-in-american-journal-of-sports-medicine.html</link><pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate><guid>/posts/the-big-d-an-editorial-in-american-journal-of-sports-medicine.html</guid><description/></item><item><title>Kids less fit than their parent were (perhaps low vitamin D)</title><link>/posts/kids-less-fit-than-their-parent-were-perhaps-low-vitamin-d.html</link><pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/kids-less-fit-than-their-parent-were-perhaps-low-vitamin-d.html</guid><description>&lt;h3 id="childrens-cardiovascular-fitness-declining-worldwide">Children’s cardiovascular fitness declining worldwide&lt;/h3>
+&lt;p>&lt;a href="http://newsroom.heart.org/news/childrens-cardiovascular-fitness-declining-worldwide%20">American Heart Association Meeting Report: Abstract 13498&lt;/a> November 19, 2013&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Around the globe, children are about 15 percent less fit than their parents were when they were young.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In the United States, kids’ cardiovascular endurance performance declined about 6 percent per decade between 1970 and 2000.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Across nations, endurance has declined consistently by about 5 percent every decade.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In a mile run, kids today are about a minute and a half slower than their peers 30 years ago.&lt;/p></description></item><item><title>Sports benefits from up to 50 ng of Vitamin – meta-analysis</title><link>/posts/sports-benefits-from-up-to-50-ng-of-vitamin-meta-analysis.html</link><pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate><guid>/posts/sports-benefits-from-up-to-50-ng-of-vitamin-meta-analysis.html</guid><description>&lt;p>&lt;strong>&lt;span style="color:#00F;">References in PDF attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Short url =&lt;/strong> &lt;a href="http://is.gd/Vitdsports">http://is.gd/Vitdsports&lt;/a>&lt;/p></description></item><item><title>Elderly lower limb muscle strength improved with Vitamin D supplementation - Meta-analysis</title><link>/posts/elderly-lower-limb-muscle-strength-improved-with-vitamin-d-supplementation-meta-analysis.html</link><pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/elderly-lower-limb-muscle-strength-improved-with-vitamin-d-supplementation-meta-analysis.html</guid><description>&lt;h3 id="vitamin-d-supplementation-increases-lower-limb-muscle-strengthhttpwwwemprcomvitamin-d-supplementation-increases-lower-limb-muscle-strengtharticle31817320-mpr">&lt;a href="http://www.empr.com/vitamin-d-supplementation-increases-lower-limb-muscle-strength/article/318173/%20">Vitamin D Supplementation Increases Lower Limb Muscle Strength&lt;/a> MPR&lt;/h3>
+&lt;p>&lt;strong>Highlights&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>presented at the 2013 ACR/ARHP Annual Meeting&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Charlotte Beaudart principal investigator&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>RCT of supplementation on muscle strength conducted between 1966 and February 2013&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>19 RCT included, mean quality Jadad score of 3.8 (of 5) points.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>A total of 4,824 individuals were included; mean age was 66 years.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>standardized mean difference (SMD) of 0.096 (95% CI 0.007–0.184; P=0.034)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="abstracthttpsww2rheumatologyorgappsmyannualmeetingabstract3295220-on-conference-website">&lt;a href="https://ww2.rheumatology.org/apps/MyAnnualMeeting/Abstract/32952%20">Abstract&lt;/a> on conference website&lt;/h3>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/muscle-strength.jpg" alt="image">
+&lt;hr>
+&lt;h3 id="the-effects-of-vitamin-d-on-skeletal-muscle-strength-a-meta-analysis-of-randomized-controlled-trials">The effects of vitamin D on skeletal muscle strength: a meta-analysis of randomized controlled trials&lt;/h3>
+&lt;p>European Journal of Public Health, Vol. 23, Supplement 1, 2013&lt;/p></description></item><item><title>Low Vitamin D breaks down muscle by interferring with protein - Editorial</title><link>/posts/low-vitamin-d-breaks-down-muscle-by-interferring-with-protein-editorial.html</link><pubDate>Tue, 22 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-breaks-down-muscle-by-interferring-with-protein-editorial.html</guid><description>&lt;h4 id="is-vitamin-d-a-key-factor-in-muscle-health">Is Vitamin D a Key Factor in Muscle Health?&lt;/h4>
+&lt;p>Endocrinology November 1, 2013 vol. 154 no. 11 3963-3964&lt;/p>
+&lt;p>Marie-Laure Kottler&lt;/p>
+&lt;p>Centre Hospitalier Universitaire de Caen, Department of Genetics, Reference Center for Rare Disorders of Calcium and Phosphorus Metabolism Caen, F-14000, France; UCBN, Caen, F-14032; and Institut National de la Santé et de la Recherché Médicale, U1075, Caen, F-14032, France&lt;/p>
+&lt;p>Address all correspondence and requests for reprints to: Marie-Laure Kottler M.D., Ph.D., Head Centre Hospitalier Universitaire de Caen Genetics, Avenue Georges Clemenceau, Caen, France F-14033. E-mail: &lt;a href="mailto:kottler-ml@chu-caen.fr">kottler-ml@chu-caen.fr&lt;/a>.&lt;/p></description></item><item><title>Rotator cuff (in rats) healed faster with Vitamin D</title><link>/posts/rotator-cuff-in-rats-healed-faster-with-vitamin-d.html</link><pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/rotator-cuff-in-rats-healed-faster-with-vitamin-d.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#effect-of-diet-induced-vitamin-d-deficiency-on-rotator-cuff-healing-in-a-rat-model">Effect of Diet-Induced Vitamin D Deficiency on Rotator Cuff Healing in a Rat Model&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="effect-of-diet-induced-vitamin-d-deficiency-on-rotator-cuff-healing-in-a-rat-model">Effect of Diet-Induced Vitamin D Deficiency on Rotator Cuff Healing in a Rat Model&lt;/h4>
+&lt;p>Am J Sports Med October 16, 2013 0363546513505421&lt;/p>
+&lt;p>Michael E. Angeline, MD*, Richard Ma, MD*, Cecilia Pascual-Garrido, MD*, Clifford Voigt, MD*,&lt;/p>
+&lt;p>Xiang Hua Deng, MD*, Russell F. Warren, MD* and Scott A. Rodeo, MD*,†&lt;/p>
+&lt;ul>
+&lt;li>Hospital for Special Surgery, New York, New York&lt;/li>
+&lt;/ul>
+&lt;p>Investigation performed at the Laboratory for Soft Tissue Research, Hospital for Special Surgery, New York, New York&lt;/p></description></item><item><title>Vitamin D podcast with VitaminDWiki</title><link>/posts/vitamin-d-podcast-with-vitamindwiki.html</link><pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-podcast-with-vitamindwiki.html</guid><description>&lt;h4 id="podcast-aaron-olson-httpwwwpaleorunnerorghttpwwwpaleorunnerorg-interviewing-henry-lahore-of-vitamindwiki">Podcast: Aaron Olson &lt;a href="http://www.paleorunner.org/">http://www.paleorunner.org/&lt;/a> interviewing Henry Lahore of VitaminDWiki&lt;/h4>
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/aaron-olson.jpg" alt="image" height="300">
+&lt;img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/henry4.jpg" alt="image" height="300">
+&lt;p>Interview took place Oct 2, 2013. Emphasis on running&lt;/p>
+&lt;p>Audio &lt;a href="http://www.paleorunner.org/2013/10/vitamin-d-henry-lahore.html">http://www.paleorunner.org/2013/10/vitamin-d-henry-lahore.html&lt;/a> via ITunes, Stitcher, Mobile device, or MP3 file&lt;/p>
+&lt;h2 id="transcript-with-hyperlinks">Transcript with hyperlinks&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>My guest today is Henry Lahore. He runs the website called VitaminDWiki.com where you can find tons of information on Vitamin D. I actually came across this site when I was looking for some information on Vitamin D and ended up buying one of the Vitamin D bulbs you recommended. So Henry, thanks so much for being part of the show.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Sure. Great.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>So how did you … Tell me a little bit about your background? How did you get interested in the importance of Vitamin D?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>I’ve been interested in the importance of various supplements and healthy living for most of my life and have enjoyed sharing information with lots of people on all sorts of topics. About 4 years ago, a friend got me interested in Vitamin D after he found that his back pain went away really suddenly after taking extra Vitamin D. So I started exploring that and about a month into it, I came up with as I’ve done for many other things 10 questions for myself is to what is this about Vitamin D? &lt;br>What things does it really help with? &lt;br>What things does it sort of help with? &lt;br>What does it treat? &lt;br>What does it prevent? &lt;br>What is its toxic level? &lt;br>So anyway I had 10 questions that you could see under &lt;a href="https://www.VitaminDWiki.com/AboutUs">About US&lt;/a> at the Vitamin D website. I answered all of those myself and continued on – about 6,000 hours into gathering Vitamin D information. It’s been very nice in helping people around the world with Vitamin D.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>So what are some of the more important things that you’ve learned? I mean, the main thing that I think about with Vitamin D is the health for your bones but there is a ton of other things on your website. What are some of the big ones?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>You can put them into 2 different categories for your listeners. There’s … One category is in terms of sports and general health. The other category is avoiding major kinds of diseases that people get later in their 40’s, 50’s, 60’s, but so kind of 2 categories. Let’s talk about the health benefits from a sports point of view or feeling healthy when you’re in your 30’s and 40’s or 20’s. There are lots of things there under the … Of the 5,000 or so studies that I have on the website; I’ve categorized many of them into about 160 different categories. One of which is sports. So if you go to overview on sports and Vitamin D, you can see what the benefits are there for the person – I am going there right now.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>One of the things that you e-mailed me about was this idea that you really need to get out in the sun during the middle of the day, between 10 and 3 PM if you want to get any Vitamin D on your skin. You even showed me a link to some &lt;strong>tan-through shirts&lt;/strong> , which I thought were pretty cool. How does that work and how much time do we actually need to spend in the sun to get adequate Vitamin D?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Okay. So let’s talk about it from that point of view, in terms of how does a person who is a runner for instance, your particular clientele, get more Vitamin D. Actually, you get … Probably an adequate amount of Vitamin D if you can run in the … Sort of the noontime area in this sunny day in the summer part of your world. That’s just fine. You probably don’t need any more Vitamin D. However, it’s for the other people who, maybe it’s too hot in their climate to run in the middle of the day and so they have to run way in the morning or way in the evening. I went down to Singapore for instance 2 years ago. I saw lots of runners at 6AM but they kind have went away by 7AM because it’s too hot. So they weren’t getting much Vitamin D, anyway, likewise if cloudy day and such.&lt;br>So ways of adding Vitamin D for one simple way that I checked, I’m suspecting as much and you have to check that out. You can buy the tan-through shirt. There’s 2 different companies selling it. You can find out about it on the &lt;a href="/posts/website" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4293">website&lt;/a>. It reduces the amount of Vitamin D by about a factor of 2 from what you would get if you are nude above the shirt, above the waist. That gives a significant amount of extra Vitamin D for people who might not feel comfortable being shirtless while jogging along.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>So what are some of the benefits that you’ve personally seen since trying to increase your Vitamin D and do you do that mainly through supplementation?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>&lt;a href="/posts/as-youll-see-on-the-website" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 747">As you’ll see on the website&lt;/a>, I consider the sun as being the best source. UV is being the second best source and supplementation is the third source but the supplement -&lt;br> you get a little bit better advantages, the higher up you can go on that curve, but straight supplementation provides a lot of advantages. So I get my sun … When it’s sunny, I live in Seattle. It’s kind of cloudy much of the time, so I get the sun during the summer in addition to having UV and in addition to having the supplementation from the supplements I take.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>So you mentioned there that the sun is probably the best way to get Vitamin D. What kind of research have you come across that would indicate that? Why is the sun any better?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Don’t really know quite why it’s better. I guess in general, from like your Paleo site, the more whole foods you get, the better it is and they can’t quite figure out why that’s the case. They’ve seen that you get a particular B supplement or E supplement or such. That’s pretty good but not quite as good as getting it from the food. Well, that turns out to be the case for the sun as well. There are various problems that can be greatly avoided: multiple sclerosis, Alzheimer’s, Parkinson’s disease, diabetes, and a few other odds ends. They’re finding … Like for instance for multiple sclerosis that you significantly decrease … I guess significant better impact to the body or benefit to the body by getting your Vitamin D levels in your blood up to the same level. &lt;br>You get a much better benefit if that Vitamin D came from the sun or UV than if it came from a supplement. The science is. . . I’ll probably give it they may get it down pat from about 5 years from now – as to why that is, but that’s how it is right now.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Yeah. Yeah. You mentioned how that’s …&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Go ahead.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>I was just going to say, you mentioned how that’s similar to the Paleo Diet and I think that is true is … We’ve evolved for a long time living in a more ancestral environment where we are outdoors a lot and I think science, in 100 years from now is probably going to look back and they’ll have the reasons for why the more natural living is better, but now, a huge amount of data shows that trying to live a more natural habitat is probably the way to go.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Yes, and I agree with that. I don’t know. I can’t point to a specific study that says so, but there’s more and more hints that way. Along those lines. So I’ve got various people that come to me and say, “Well, I don’t take any supplements. I couldn’t get everything I need from food.” And well, that used to be correct up until about 100 years ago. But now, there’s … If you look at the amount of Vitamin D content in food, I’d say 100 years ago, an apple pie would have 2,000 IUs of Vitamin D in a slice of apple pie. Because the pigs that made the lard to make the apple pie with were outdoors and their fat have 500 IUs of Vitamin D per tablespoon.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>So if you’ve worked through the numbers, that’s how it worked … That’s how you got the extra Vitamin D. That’s one example. Likewise, the bacon, likewise, chicken eggs that used to have 4 times as much Vitamin D as it does now when the … Well, chickens indoors, pigs indoors, etc., they’re not getting their Vitamin D.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>So what … I actually went ahead and bought &lt;a href="/posts/one-of-these-vitamin-d-lamps" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3154">one of these Vitamin D lamps&lt;/a>. It’s called the Sperti Vitamin D lamp. On your website, you have a lot of different products, not that you sell but just that you kind of described that could be helpful to people. What are some of the things that you found … I know I saw some of the lamps, you can buy on Amazon for $15 or $20 that are UV lamps? Are those going to be just as effective or how can you use those?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Not nearly … There are a little bit effective … &lt;a href="/posts/i-actually-bought-i-think-4-or-5-different-ones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 982">I actually bought I think 4 or 5 different ones&lt;/a> myself to give it a try. I’ve got a UV meter that looks at the exact amount of light that’s coming out of it and some of the … I have on the website what the company says is the amount of UV coming out. It’s pretty good. It’s correct. Some other companies don’t say how much is coming out so I just measured it myself.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. What did you find?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>It’s basically the more you pay for it, the more UV you get.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Down with the $10, $15 level, you get some UV, which works out to … Some of those by the way, the really little cost ones are under of $25, $30 are designed for reptiles.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Right.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>The reptiles and many other animals really need to have UV and if you have a pet reptile, it will die off or have a poor life or look really lousy after a couple of years of not being out in the sun. That actually happens with lots of birds, too but … So they found that by putting a little compact fluorescent bulb that puts out a little bit of UV that really perks up the reptile, they feel a lot better and have baby ones, etc. But the amount of UV that comes out through that is not very cost-effective or worthwhile for human use. You could have a little UV light like that and provided you’re wearing glasses so that the UV doesn’t get into your eyes but just gets to your body. &lt;br>Let’s say you’re semi-nude in front of the lamp, you have to spend … I’m just guessing . . . 2 hours a day to get a minimal amount that you can get for a 2-cent worth of Vitamin D supplement. So it’s not, not very … If you look at the cost of your time for doing something when we’re talking pennies for hour, most people time is worth more than pennies per hour.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Right. Right.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>The brand you bought was a pretty pricey one. It’s got a fair amount of output and it’s pretty well but that was beyond my spare of change level. I guess that’s why I came up with was not spare-change either. Anyway, at $150 level, I installed it next to my bathroom and I use it while I’m brushing my teeth or shaving and such and it puts up about 500 … It gives you about 500 IUs in 5 minutes, which is okay. It’s not great but it’s nice so I use that.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Why are you using that? Are you having to wear protective eyewear?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>No. As it turns out, all you want to do is just make sure that the light doesn’t get directly to your eyes. If you’re just wearing regular glasses, 99.9% of all glasses stop UV even if it says that it’s … Even if It doesn’t mention it, the glasses really do, they have to go out of their way to not stop UVB.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Okay. Well you know, I really like it in the sun and since I’ve started a more … A Paleo diet and learning more about the importance of Vitamin D, I’ve been getting more sun on my skin but what about people who say, you really got to be careful. You shouldn’t … You should always wear sunscreen when you go outside. &lt;strong>Is there a risk of cancer?&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>There is a … There’s a risk, as you probably aware from lots of things. If you overdo anything, there is a problem to your body. If you drink too much water every day, there’s a problem to your body. If you have too much salt, if you have too much sun, if you have too much of anything, there is a problem. So the Australians for instance, the people who are the most for having sunscreen, they’ve finally come around to saying, “No, doggonit.” Probably if you’re outdoors, that’s going to vary with exactly where you are but if … You could probably look at it in terms of how hot it feels. If it’s not really hot, that is to say, over 80 or 90 degrees, then you can probably be outside, just fine, no problems of cancer at all for like 15 minutes to half an hour provided you’re getting used to it.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>The problems that people have with cancer or with your skin having difficulties in burning and other odds and ends often come when they do it too suddenly. That is to say, they’re indoors all the season and all of a sudden, OKAY. Let’s go out and be outdoors for 4 hours or 6 hours very first time for the season. Woa, you run into problems with that. My dad, as an example, was a carpenter and he never suntanned, he never sunburned, and yet he was out every day. So it’s that gradualness. So if you have a person who … Okay, let’s say a runner who has not been running for a while or has been indoors for a while then all of a sudden decides in … For the Northern part of the world, decides in May … Okay. I’m going to go out and jog or be outdoors for 2 or 3 hours, no, that’s a little incorrect in the Southern part of the United States. You could be out there for a while but you had better put the sunscreen on. By the way, just a little subset of this, it turns out that if you have enough Vitamin D in your body, whether it’s coming from the sun or from supplements, you don’t burn nearly as much. That’s one of the small inconsequential benefits or hardly noted benefits that I have for Vitamin D over the last 3 years that I’ve had a lot of it. I haven’t burned once. In fact, I went for a bicycle ride. I was kind of trying this out in a very sunny climate in May this year. I bicycled such that the sun was on one side of me only for 2 ½ hours right at noon time and I felt like I was going to be getting … It reminded me of having going to be getting a &lt;strong>bad sunburn&lt;/strong> from that I had for many years. At the end of the day, nothing. The next day, I couldn’t tell the difference of the sun tanning on one leg versus the other. The other leg was essentially in the shadow from not being seeing the sun at all. That’s how it is with bicycling because you only go on one direction oftentimes.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Right. Right. Interesting. Now, I had a lady on the podcast a few weeks ago. Her name was Stephanie Seneff and she wasn’t quite sure about this but she thought that perhaps Vitamin D supplementation might actually in some way trick the body in that it’s providing you with Vitamin D as a marker in your blood but whether it was really having the same benefits as the sun. You seem to say the same thing. Would you agree with that sentiment?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>I’ve read a little bit about her stuff. I’m not in complete agreement. I find it very intriguing what she says. I guess I agree in terms of what I stated a little bit ago that I believe the sun is better than UV, which is better than Vitamin D. Then the other part, I often say, is if you’re going to take only a single supplement, it should be Vitamin D.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>I use quite a variety, like about 30 different supplements in different amounts and &amp;hellip; But Vitamin D has taken the place of virtually all of those. I’m feeling far better than I used to by taking a whole, witches brew of various supplements.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>How old are you, Henry?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>About 69.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay and before we started recording, Henry actually told me that he’s still biking around 100 miles a week and he used to run upwards of 100 miles a week. So he’s staying in very good shape and do you think that the Vitamin D that you’re supplementing with or getting from the sun has helped with your &lt;strong>longevity&lt;/strong> as far as exercise?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Oh, absolutely. In fact, my wife has stated quite easily that … Quite often that she feels she’s 10 years younger because of taking Vitamin D. I know for myself, I used to have at my age lots of little aches and pains and my heels would be cracking and I’d have to put heel cream on it all the time, all the time like 20 times a year especially in the winter. I’d get a little bit of creakiness getting out of bed and have to pull myself up out of bed holding on to the piece of furniture there. And getting little aches and pains in my … Anyway, just feeling older, okay? I no longer feel older. I feel like I’m in my 40’s maybe instead of my … end of my 60’s.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Wow. Wow and has there been other changes in your life that could have helped you feel younger or has Vitamin D been the main change?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Vitamin D has been the main change. I’ve done a couple of other things, &lt;strong>&lt;a href="/categories/omega-3">Omega 3&lt;/a>&lt;/strong> I’ve been having … I’ve been doing that for about 6 or 8 years now and it’s quite good. I’ve been adding &lt;strong>&lt;a href="/categories/magnesium">Magnesium&lt;/a>&lt;/strong> recently. By the way, I studied through and have probably looked at 200, 300 different studies concerning the &lt;a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270"> &lt;strong>cofactors&lt;/strong> &lt;/a> to go along with Vitamin D and I’m taking all of the necessary cofactors with Vitamin D. I’ve got on there as to how you can increase the benefit, the response in your body to the Vitamin D, which you actually get, &lt;a href="/posts/by-a-factor-of-two" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918"> &lt;strong>by a factor of two&lt;/strong> &lt;/a> by doing the various things, such that I now have the quite high Vitamin D level that most people would consider to be excessive, but I don’t consider to be excessive. &lt;br>That just reminds me of the little note, &lt;strong>how much Vitamin D should you have&lt;/strong> . There’s various recommendations as to the number of nanograms per milliliter that you should have. Some places around the world have this … They say 10 nanograms is enough! The United States says 20 nanograms is enough! A great number of scientists who have looked at this say: &lt;strong>&lt;a href="/posts/somewhere-between-30-and-100-nanograms-is-good" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">somewhere between 30 and 100 nanograms is good&lt;/a>&lt;/strong> ].&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>The … Looks as though the optimum level is somewhere between 40 and 80 nanograms for most people. In fact, I’m putting together a video on Vitamin D and will be stating that as being the optimum level to have that you wish that you should have at least 40 nanograms. There’s some people down in Brazil . . a doctor down there who’s been treating people, &lt;a href="/posts/treating-people-with-multiple-sclerosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4608">treating people with &lt;strong>multiple sclerosis&lt;/strong> &lt;/a> and reversing and sometimes completely eliminating the multiple sclerosis and he gets his people up to 150 nanograms of Vitamin D. So that’s for treating.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>I happen to be about 120.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Oh wow. Now, you mentioned a few … Some co-factors that you’re taking along to increase your Vitamin D by as much as 100% or 200%.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>By 100, … It’s doubling the Vitamin D in your body by … In fact; I’ve got the numbers there if you’re going through the co-factors. Little costs and the co-factor section on the Wiki as to … There’s about 5 things you can do. Some of which are the co-factors in terms of &lt;a href="/categories/magnesium">Magnesium&lt;/a>. If you get enough Magnesium in your body, it increases the benefits &lt;span>[response]&lt;/span>, the Vitamin D level in your blood stream by about 30%.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>What kind of Magnesium, because I know there’s a slow releasing Magnesium and then there’s just a regular sort of Magnesium. Do you prefer either one? Does it matter?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Actually, I’ve looked at about 10 different ones. I personally tried 6 different ones. It turns out, Magnesium is a strange critter. Many people, most people have problems with having too much Magnesium in terms of bowel problems or diarrhea. Given that, there’s still … There are some Magnesium types that are much better, have much less of that problem. Magnesium Chloride liquid is quite an inexpensive way of … that most people don’t seem to have any problem with at all. There’s another kind of Magnesium, which I’ve seen recently called Pico Magnesium in which they claim, but I’ve not seen any documentation on, that it has zero problems for people in terms of difficulties, intestinal difficulties. &lt;br>I bought that, I didn’t notice any difference myself so I’m back to the other stuff, which is 1/3 of the price.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>So over-the-counter Magnesium that you can pick up off the shelf will be good enough is what you’re saying.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>It appears as though over the counter stuff … If your body and your digestive system can handle it, should be just fine. There’s maybe a difference of 50% between the effectivity of the Magnesium element in your body, the bioavailability of the Magnesium element in your body, between the various Magnesium Citric, Magnesium Chloride, Magnesium Oxide, etc. etc. Let your body be the judge of that. To keep it very simple I have for the summary for the co-factors provided in the … I’d say &lt;strong>500 Calcium, 500 Magnesium.&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>So for most people, that’s reducing the amount of Calcium down to about 500 and increasing their Magnesium up to 500. &lt;span>[milligrams of the element in each case]&lt;/span>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay and are those the two important co-factors to take to increase your Vitamin D?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Yeah. The Calcium is not … Changing the amount of Calcium will not affect the response level in your body but it will make things a little bit … Get extra Calcium in your arteries and things of that sort.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Oh, okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>So there are … The co-factors get involved in some not directly in what happens in your bloodstream but happens elsewhere in your body.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Are there any other things that … Are those the two main ones or are there other things, too?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>I think the two others to be concerned about … Again, don’t deal with what happens to the Vitamin D level in your body but are good to have anyway is &lt;a href="/posts/vitamin-k2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765"> &lt;strong>Vitamin K2&lt;/strong> &lt;/a> and also Omega 3.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Do you take those as supplements or do you get those through food?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Both of those I get through supplements.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Okay. Now, you mentioned that you might want to decrease your Calcium that you take in. So if you’re taking say 3 glasses of milk a day, plus Vitamin D, that might be too much milk.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>No, that’s not too much milk. No. Nope. Three glasses is not that much Calcium actually.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Also, what turns out to be Calcium in milk is not super bio available anyway. Some people are taking 2 grams or 3 grams a day of Calcium supplements with the idea that’s going to help their bones and we all got to be careful of that because as you increase your Vitamin D, it increases the bioavailability of the &lt;a href="/categories/calcium">Calcium&lt;/a>. So equivalently, if they’re taking 2 grams of Calcium and then add on some good amount of Vitamin D, that’s equivalent to taking maybe 9 or 10 or 12 grams of Calcium which gets to be a bit of an overload for the body.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Well, let’s talk a little bit about dosage. How much does that … Do you just have to go to your doctor and get your blood checked or is there some general dosing that you would recommend taking as far as Vitamin D?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>What I’m generally recommending for virtually anyone in … Who doesn’t get much direct sun on kind of a daily basis year-round. Most of the people on earth is about 4,000 IUs of Vitamin D, which is the current upper limit as to what you … What people are allowed to have in the United States without asking your doctor.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay and if you’re going outside say for 30-minute run, would that count towards your 4,000 IUs?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Oh, yeah. Definitely. Depending on how you’re dressed and what time of day and time of year, etc. that you’re going for a nice run in the middle of the day could give you 200 IUs, could give you maybe 2,000 IUs.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>If you were a white person and not overweight, which tends to be the case, and not a senior … &lt;a href="/posts/seniors-by-the-way-get-14-amount-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Seniors by-the-way get ¼ amount of Vitamin D&lt;/a> from the sun as … So I for instance get ¼ of benefit of Vitamin D than I used to when I was aged 30.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>It turns out that the skin of virtually everyone on earth decreases the amount of Vitamin D, which is generated from, as you get older and older. So I’m up about ¼ of the level I used to get.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. How about people with &lt;a href="/categories/darker-skin">darker skin&lt;/a>? What do they need to think about?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>If they kind of think that they’ve got a permanent sunscreen on, that’s a good way of looking at it. Such that I think I saw … I remember recently that … Well, it varies with approximately 4 times longer for a person with very dark skin to get the same amount of Vitamin D than a person who’s light skinned.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. So it would probably be more important to supplement for those people.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Yes, it would be … I think …&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>I don’t mean to say those people, what I meant to say is it’s probably more if you have darker skin, it’s more important to supplement.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Yes. Well, it becomes more important. IF they have a lifestyle, that’s either construction worker or something else such that they’re outdoors all the time, okay, fine. They don’t have to supplement.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>That’s … But no fair being a construction worker in Northern Alaska, they have to get some amount of sun anyway.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. How about animals, if we have pets?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Yes. They tremendously like … Okay, talk about animals. The very first web page I made on Vitamin D was concerning &lt;a href="/posts/veterinaries-and-animals" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">veterinaries and animals&lt;/a>. &lt;br> It turns out that the vets learned a good decade ago that … hey - US government recommends a certain amount of Vitamin D for various animals, for cows, pigs, cats, dogs, etc. and the vets learned well over a decade ago that they get paid by keeping their patients, if you will, healthy. &lt;br>They are noticing that the amount of Vitamin D that the US government was recommending weren’t keeping their patients, cows, cats, dogs, etc. healthy. So they’ve now in general gone to 3 times the level of Vitamin D than is recommended by the US government. &lt;br>Now their animals are healthy, at least they stay alive long enough before they get killed or eaten. So I consider them advance warning as to things which are working out nicely. &lt;br>Back on cats and dogs, I’ve gotten various people around the globe who have contacted me and then tried giving their say aging dog, one was 17 years old, and it was getting kind of arthritic and kind of slow, etc. then wow, he got onto the fight of taking the Vitamin D. You figure it out per pound basis versus per kilogram basis as to how much to give to them. It was … He described it as being really giving a second life to the dog and so he lasted another 3 years. So, well into the dog years.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Yeah. Yeah. Henry, I found your website very interesting and you have it really nicely organized by different subjects. &lt;br>Aside from Vitamin D, it seems like you’re interested in a lot of health topics. Are there any other things that you’ve been looking into that my listeners might be interested in?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Yeah. I’ve been looking at health topics for about 40 years. A little hard to summarize briefly.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>&lt;strong>Would Vitamin D be the biggest thing that you’ve come across?&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Absolutely. That’s why I was saying … I say quite often that &lt;strong>if you’re going to take only a single supplement, it should be Vitamin D&lt;/strong> . There’s few other odds and ends as we’ve mentioned in this podcast that are quite useful, but … And I take a miscellaneous of their small oddments, D-Ribose for example, for restoring energy, but I don’t … &lt;br> &lt;strong>D-Ribose&lt;/strong> doesn’t give me nearly the boost that used to before I was taking Vitamin D. It’s a neat thing for … I used to do quite often after going for a long, strenuous jog, it kind of tired out. Now, okay … &lt;br>Not addressing your question directly but it’s another benefit I finally found for myself. I live in a recreational vehicle now. I travel all around the United States and I used to go off to an exercise place every-other-day to get my exercise and go out do the workout but I knew I wasn’t able to do that when I was going RV-ing because they’re just not available. I’ve ended up going to about 90 different ones throughout the United States as a day pass. So I now have a thing that I learned about 12 years ago called &lt;strong>Strength Training&lt;/strong> that it really … Put it very quickly, you do that maximum amount of output you can do in about a 2-minute period on any one of the exercises. Then you just force yourself to exhaustion on that particular thing and you go on to the next one. &lt;br>Then you do that same thing again in 2 days, same thing again in 2 days and then later on, you’re getting a little bit used to that then you do it, say in every 3 days and 4 days. Well anyway, I’m now about once every 3 weeks for doing that kind of thing. I was still finding myself being … Going to maximum output on about 30 different muscle sets or groups that I’d feel really tired that same day and the next day, it gets kind of wiped out. I said, okay, this is good for my health. &lt;strong>I’m no longer tired out.&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Is that from doing it every 3 weeks, you’re saying? You’re giving your body more recovery or what’s going on there?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>No, it was a night and day thing for me that up until about 4 years ago when I started taking the Vitamin D, I would be very tired after doing that once every 3-week thing. I’ve been into that every 3 weeks now for about 10 years. So it’s a kind of a constant for me. I’d be very tired when I take that D-Ribose and it would help some but I’d still be kind of wiped out but I allowed that was, okay it’s good for me overall. &lt;strong>Since taking the Vitamin D, I’m no longer tired immediately afterwards or the next day.&lt;/strong> The next day, I don’t even notice it. So overall, it greatly benefits. I would expect, anticipate a majority of your listeners who are okay for myself, it used to be in my 30’s that’s when I’d go for a long jog, long for me, I will say is 1 ½ hour. I’d go for a long jog, I feel very tired at the end of the day. The next day, I’d kind of recuperating and kind of a week later, I’m all back to normal. Same kind I think for a marathon except a little bit longer for recovery. I don’t think I’d be doing that right now. I suspect a majority of your runners will find that the … When they get their Vitamin D level up, that they will be much better. You’ll see under the &lt;a href="/posts/sports-and-vitamin-d-review" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Sports and Vitamin D review&lt;/a> that I have that …&lt;br> Here, I’ll just quickly list some of the documented benefits of them seen by athletes around the world with Vitamin D, &lt;br>faster reaction time,&lt;br> far fewer colds and flus in the winter, %%less sore and tired after a workout like we just talked about. &lt;br>Fewer micro cracks and broken bones, &lt;br>bones which heal far more quickly than if they do get broken. &lt;br> Increased VO2 and exercise endurance, &lt;br>anyway, so we now have professional athletes around the world giving this a try. There’s one group that’s … Hockey players for instance, this is particularly good for indoor athletes, the hockey players, which kind of almost indoor by definition. There is a group in Chicago that had been doing lousy for the last 60 years. They got … &lt;strong>Took 5,000 IUs&lt;/strong> for every one of the players and then they &lt;a href="/posts/won-the-championship-for-their-league-the-next-year" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 293">won the championship for their league the next year&lt;/a>. So, complete reversal, things like that. Olympic athletes have been on the sly using either UV or Vitamin D since the 1930’s from different countries. Germany and Russia had learned about that, kept that kind of a state secret for a good 30 years but that was one of the reasons that they were doing pretty well.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Is there any danger to overdosing if … You recommend around 4,000 International Units a day.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Yup.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>I’ve seen some of the … Those you can buy at the store come in as much as like 10,000 a day. Would you want to avoid that much?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>Oh, no. No. I actually myself on average take 12,000 a day.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>4,000 is about the upper limit you should do without just arbitrarily unless you … More than 4,000 and you do that as a monotherapy. That is to say, the only thing you’re adding, you’re kind of unbalancing your body. You have to be taking those other co-factors. So when people take the idea and listen to this podcast, they say, “Oh, 4000 and okay, that’s fine.” If that’s the only takeaway point they have from this, I’d like to say, it’s 4,000. &lt;br>	If they’re more careful about adding one of those other factors and listing for their body, what’s going on and then you can bring it up much higher than that. That person down in Brazil that’s dealing with multiple sclerosis, he has these patients on between 20,000 and 140,000 per day. He is watching their Calcium and a few other odds and ends about that and getting this really excellent benefit.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Wow. I want to go back to something you mentioned about your weight training. You said you only do it once every 3 weeks, what’s … Is that … Do you maintain the same benefits as doing it every 2 days or every 4 days or is that just what works into your lifestyle? Why do you do it every 3 weeks?&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Henry:&lt;/td>
+ &lt;td>It turns out, I tried doing it every 4 weeks and that wasn’t quite &lt;span>[often]&lt;/span> enough. So I started to degrade in terms of the strength of the muscles. On average, each of the different exercises that I do of leg pushes and pull downs and well, the various fairly standard exercises, on average, I had started … When I started off, I was at a certain level and I’m now about trippled in terms of the amount of weight that I can push and do and endure. I kind of maxed out at that but apparently, if you really workout, you can do even more than 3, but 3 times level is just fine for me. I guess at a particular place I go, I’m at the maximum amount of weight plates that you can use for those particular exercises on about half of them. &lt;br>So it’s inconvenient for me to go for more because I have to go scrounge around for extra weight plates to put it on there.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Aaron:&lt;/td>
+ &lt;td>Okay. Well Henry, it’s been very interesting talking to you and I really appreciate all the work you’ve put into your website. I hope people listening to this will check it out. I’ll definitely put up a link to it. I just wanted to say thanks so much for coming on the show and taking your time today.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="see-also-vitamindwiki">See also VitaminDWiki&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough&lt;/a>&lt;/p></description></item><item><title>Teens with higher levels of vitamin D were more fit in some ways</title><link>/posts/teens-with-higher-levels-of-vitamin-d-were-more-fit-in-some-ways.html</link><pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate><guid>/posts/teens-with-higher-levels-of-vitamin-d-were-more-fit-in-some-ways.html</guid><description>&lt;h3 id="cardiorespiratory-fitness-in-males-and-upper-limbs-muscular-strength-in-females-are-positively-related-with-25-hydroxyvitamin-d-plasma-concentrations-in-european-adolescents-the-helena-study">Cardiorespiratory fitness in males, and upper limbs muscular strength in females, are positively related with 25-hydroxyvitamin D plasma concentrations in European adolescents: the HELENA study&lt;/h3>
+&lt;p>QJM (2013) 106 (9): 809-821. &lt;a href="https://doi.org/10.1093/qjmed/hct089">doi: 10.1093/qjmed/hct089&lt;/a>&lt;/p>
+&lt;p>J. Valtueña1,2,&lt;/p>
+&lt;p>L. Gracia-Marco3,4,&lt;/p>
+&lt;p>I. Huybrechts5,&lt;/p>
+&lt;p>C. Breidenassel1,6,&lt;/p>
+&lt;p>M. Ferrari7,&lt;/p>
+&lt;p>F. Gottrand8,&lt;/p>
+&lt;p>J. Dallongeville9,&lt;/p>
+&lt;p>I. Sioen2,10,&lt;/p>
+&lt;p>A. Gutierrez11,&lt;/p>
+&lt;p>M. Kersting12,&lt;/p>
+&lt;p>A. Kafatos13,&lt;/p>
+&lt;p>Y. Manios14,&lt;/p>
+&lt;p>K. Widhalm15,&lt;/p>
+&lt;p>L.A. Moreno4,16 and&lt;/p>
+&lt;p>M. González-Gross1,6&lt;/p>
+&lt;p>On Behalf Of The Helena Study Group&lt;/p>
+&lt;p>From the 1ImFine Research Group, Department of Health and Human Performance, Faculty of Physical Activity and Sport Sciences (INEF), Universidad Politécnica de Madrid, Avda/Martín Fierro 7, 28040, Madrid, Spain, 2Department of Public Health, Faculty of Medicine, Ghent University, UZ 2 Block A, De Pintelaan 185, 9000 Ghent, Belgium, 3CHERC (Chidren&amp;rsquo;s Health and Exercise Research Centre) School of Sport and Health Sciences, University of Exeter, Heavitree Road, Exeter, EX1 2LU, United Kingdom, 4GENUD Growth, Exercise, Nutrition and Development Research Group, University of Zaragoza, 42 Corona de Aragon 50009, Zaragoza, Spain, 5Dietary Exposure Assessment Group, International Agency for Research on Cancer (IARC/WHO), 150 Cours Albert Thomas, 69372 Lyon CEDEX 08, France, 6Institut für Ernährungs- und Lebensmittelwissenschaften - Humanernährung, Rheinische Friedrich-Wilhelms Universität Bonn, Endenicher Allee 11-13, AVZ 1, 5. Etage, 53115 Bonn, Germany, 7National Research Institute on Food and Nutrition, Via Ardeatina, 546-00178 Roma, Italy, 8Inserm U995, IFR114, University of Lille 2, 42, rue Paul Duez 59000 LILLE Lille, France, 9Institut Pasteur de Lille &amp;amp; Inserm U 744 &amp;amp; Université Lille Nord de France, 1 rue de Pr Calmette, 59019 Lille Cedex, France, 10Research Foundation—Flanders, Egmonstraat 5, 1000 Brussels, Belgium, 11Department of Medical Physiology, School of Medicine, Granada University, Av de Madrid, 11, 18012, Granada, Spain, 12Research Institute of Child Nutrition Dortmund, Rheinische Friedrich-Wilhelms-Universität Bonn, Heinstück 11, 44225 Dortmund, Germany, 13Preventive Medicine and Nutrition Clinic, University of Crete School of Medicine, Iraclion, Crete, Argonafton 47, K.Ilioypolis,16346 Athens,Greece, 14Department of Nutrition and Dietetics, Harokopio University, 70 El. Venizelou Ave., Kallithea, 17671, Athens, Greece, 15Department of Pediatrics, Medical University of Vienna. A-1090 Vienna, Alserstr. 14, Austria and 16Escuela Universitaria de Ciencias de la Salud, Departamento de Fisiatría y Enfermería, Universidad de Zaragoza, C/Domingo Miral s/n, 50009 Zaragoza España&lt;/p></description></item><item><title>Nutritional deficiencies of seasoned athletes (vitamin D is 2nd)</title><link>/posts/nutritional-deficiencies-of-seasoned-athletes-vitamin-d-is-2nd.html</link><pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/nutritional-deficiencies-of-seasoned-athletes-vitamin-d-is-2nd.html</guid><description>&lt;h2 id="clipped-from-tampa-timeshttpwwwtampabaycomnewshealtheven-health-conscious-people-can-be-nutrient-deficient-expert-says2133158">Clipped from &lt;a href="http://www.tampabay.com/news/health/even-health-conscious-people-can-be-nutrient-deficient-expert-says/2133158">Tampa Times&lt;/a>&lt;/h2>
+&lt;h3 id="tackling-the-toughest-health-deficiency-of-all-motivation">Tackling the toughest health deficiency of all: motivation&lt;/h3>
+&lt;h3 id="dr-masleyhttpdrmasleycomindexhtml-spoke-at-spansportsmedconferenceorgspan-aug-3-2013">&lt;a href="http://drmasley.com/index.html">Dr. Masley&lt;/a> Spoke at &lt;span>[sportsmedconference.org]&lt;/span> Aug 3 2013&lt;/h3>
+&lt;p>The top 10 nutrient deficiencies that affect performance and aging in &amp;ldquo;seasoned athletes''&lt;/p>
+&lt;ol>
+&lt;li>Fiber&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>2. Vitamin D&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>3. Long-chain omega-3 fats&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>4. Calcium&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>5. Magnesium&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>6. Vitamin K&lt;/strong>&lt;/p>
+&lt;ol start="7">
+&lt;li>
+&lt;p>Trace minerals&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Probiotics&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Protein&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mitochrondrial support&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Elite outdoor athletes had 52 ng of vitamin D</title><link>/posts/elite-outdoor-athletes-had-52-ng-of-vitamin-d.html</link><pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/elite-outdoor-athletes-had-52-ng-of-vitamin-d.html</guid><description>&lt;h3 id="training-environment-and-vitamin-d-status-in-athletes">Training environment and Vitamin D status in athletes.&lt;/h3>
+&lt;p>Int J Sports Med. 2013 Mar;34(3):248-52. &lt;a href="https://doi.org/10.1055/s-0032-1321894.">doi: 10.1055/s-0032-1321894.&lt;/a> Epub 2012 Sep 12.&lt;/p>
+&lt;p>Peeling P, Fulton SK, Binnie M, Goodman C.&lt;/p>
+&lt;p>School of Sport Science, Exercise and Health, The University of Western Australia, Crawley, Australia. &lt;a href="mailto:ppeeling@wais.org.au">ppeeling@wais.org.au&lt;/a>&lt;/p>
+&lt;p>This study assessed the associations between gender, anthropometry, predominant training environment and Vitamin D status in 72 elite athletes. Additionally, any links between Vitamin D status and recent injury/health status, or sun protection practices were investigated. Athletes underwent an anthropometric assessment and provided venous blood samples for the determination of 25-hydroxyvitamin D (25(OH)D), the accepted biological marker of Vitamin D status. Finally, athletes completed a questionnaire relating to their recent training and injury history, and their sun protection practices. The athlete cohort were divided by predominant training environment as either indoor, outdoor, or mixed training environment athletes. The average ( ± SD) 25(OH)D levels of the group were 111 ± 37 nmol/L, with the indoor training group (90 ± 28 nmol/L) significantly lower than the outdoor (131 ± 35 nmol/L), and mixed (133 ± 29 nmol/L) training groups (p = 0.0001).&lt;/p></description></item><item><title>Hypothesis: Less severe muscle damage if vitamin D level had been normalized</title><link>/posts/hypothesis-less-severe-muscle-damage-if-vitamin-d-level-had-been-normalized.html</link><pubDate>Fri, 02 Aug 2013 00:00:00 +0000</pubDate><guid>/posts/hypothesis-less-severe-muscle-damage-if-vitamin-d-level-had-been-normalized.html</guid><description>&lt;nav id="TableOfContents">&lt;/nav></description></item><item><title>Vitamin D and bicarbonate perhaps synergistically reduce muscle loss</title><link>/posts/vitamin-d-and-bicarbonate-perhaps-synergistically-reduce-muscle-loss.html</link><pubDate>Fri, 05 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-and-bicarbonate-perhaps-synergistically-reduce-muscle-loss.html</guid><description>&lt;h3 id="could-vitamin-d-and-bicarbonate-supplementation-synergize-to-mitigate-age-related-loss-of-muscle">Could vitamin D and bicarbonate supplementation synergize to mitigate age-related loss of muscle?&lt;/h3>
+&lt;p>Endocrine, DOI 10.1007/s12020-013-0011-2; EDITORIAL&lt;/p>
+&lt;p>D. Travis Thomas&lt;/p>
+&lt;p>&lt;strong>&lt;span>[This is an editorial on a rat experiment]&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;span style="color:#00F;">PDF is attached at the bottom of this page&lt;/span>&lt;/strong>&lt;/p>
+&lt;p>In patients with kidney disease receiving hemodialysis, metabolic acidosis is closely tied to muscle pathology and is known to exacerbate age-related loss of muscle mass and function. To a lesser extent, the &amp;ldquo;Western&amp;rdquo; diet is thought to contribute to mild (sub-clinical) metabolic acidosis via the supply of acid precursors from foods &lt;sup>[1]&lt;/sup>, but the clinical significance to chronic age-related muscle degeneration has received little attention. This may partly be due to equivocal data on the benefits of neutralizing diet-induced metabolic acidosis for improving muscle-related outcomes in patients without kidney disease &lt;sup>[2]&lt;/sup>. Despite limited data, acidosis has been shown to stimulate muscle proteolysis and is associated with negative functional outcomes including reduced peak torque and lower gait speed &lt;sup>[3]&lt;/sup>. This is important to note because aged adults are less able to excrete excess H? ions and are more prone to develop mild, but slowly increasing metabolic acidosis that may be exacerbated by a &amp;ldquo;Western&amp;rdquo; diet &lt;sup>[1]&lt;/sup>. Furthermore, approximately one out of four adults older than 50 years of age have low serum bicarbonate levels to neutralize an acidogenic diet. Because of these factors, recommendations for future work include examining the effects of alkali therapy on functional outcomes, nitrogen balance, strength and other relevant measures of physical function, in aged healthy adults &lt;sup>[3]&lt;/sup>.&lt;/p></description></item><item><title>Muscles and Vitamin D - many studies</title><link>/posts/muscles-and-vitamin-d-many-studies.html</link><pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/muscles-and-vitamin-d-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#max-strength-not-improved-by-resistance-training-plus-daily-8000-iu-of-vitamin-d-and-whey-protien--rct-oct-2024">Max strength not improved by resistance training plus daily 8,000 IU of vitamin D and whey protien – RCT Oct 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#surplus-calories-not-put-into-fat-if-good-level-of-vitamin-d-mice-may-2024">Surplus calories not put into fat if good level of Vitamin D (mice) May 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#do-fast-twitch-muscles-respond-more-quickly-if-there-is-a-higher-level-of-vitamin-d-in-the-blood">Do fast twitch muscles respond more quickly if there is a higher level of vitamin D in the blood?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-role-of-vitamin-d-in-skeletal-muscle-repair-and-regeneration-in-animal-models-and-humans-a-systematic-review---oct-2023">The Role of Vitamin D in Skeletal Muscle Repair and Regeneration in Animal Models and Humans: A Systematic Review - Oct 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#muscle-health-and-vitamin-d---meta-analysis-sept-2021-not-help-much---ignored-dose-size">Muscle Health and Vitamin D - Meta-analysis Sept 2021 (not help much - ignored dose size)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-promotes-skeletal-muscle-regeneration-and-mitochondrial-health--april-2021">Vitamin D Promotes Skeletal Muscle Regeneration and Mitochondrial Health – April 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-helps-muscles-in-many-ways--sept-2021">Vitamin D helps muscles in many ways – Sept 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-roles-of-vitamin-d-in-skeletal-muscle-feb-2013">The Roles of Vitamin D in Skeletal Muscle Feb 2013&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#small-vitamin-d-doses-given-for-a-few-months-do-not-improve-muscles---meta-analysis-oct-2023">Small Vitamin D doses given for a few months do not improve muscles - meta-analysis Oct 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#48000-iu-monthly-for-a-year-did-not-help-elderly-muscles--june-2019">48,000 IU monthly for a year did not help elderly muscles- June 2019&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#sarcopenia-33-x-higher-risk-if-low-bio-available-vitamin-d---august-2021">Sarcopenia: 3.3 X higher risk if low bio-available vitamin D - August 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#some-reduced-muscle-function-associated-with-many-vitamin-d-genes---review-sept-2021">Some reduced muscle function associated with many Vitamin D genes - Review Sept 2021&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-a-hrefpostsmuscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab-stylecolor-red-text-decoration-underline-titlethis-postcategory-does-not-exist-yet-muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehabmuscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehaba">See also: &lt;a href="/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab">Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab&lt;/a>&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#creatine-might-help-grow-senior-muscles-when-added-to-exercise">Creatine might help grow senior muscles when added to exercise&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="max-strength-not-improved-by-resistance-training-plus-daily-8000-iu-of-vitamin-d-and-whey-protien--rct-oct-2024">Max strength not improved by resistance training plus daily 8,000 IU of vitamin D and whey protien – RCT Oct 2024&lt;/h4>
+&lt;p>&lt;strong>Vitamin D Supplementation Does Not Enhance Gains in Muscle Strength and Lean Body Mass or Influence Cardiorespiratory Fitness in Vitamin D-Insufficient Middle-Aged Men Engaged in Resistance Training&lt;/strong>&lt;/p></description></item><item><title>Muscle improved by increasing vitamin D if previously less than 24 ng</title><link>/posts/muscle-improved-by-increasing-vitamin-d-if-previously-less-than-24-ng.html</link><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid>/posts/muscle-improved-by-increasing-vitamin-d-if-previously-less-than-24-ng.html</guid><description>&lt;h2 id="vitamin-d-and-muscle-function-is-there-a-threshold-in-the-relation">Vitamin D and Muscle Function: Is There a Threshold in the Relation?&lt;/h2>
+&lt;p>Journal of the American Medical Directors Association, Available online 27 June 2013&lt;/p>
+&lt;p>Hennie C.J.P. Janssen, MDa, &lt;a href="mailto:hcjp.janssen@gmail.com">hcjp.janssen@gmail.com&lt;/a> , Marielle H. Emmelot-Vonk, MD, PhD a; Harald J.J. Verhaar, MD, PhD a; Yvonne T. van der Schouw, Profb&lt;/p>
+&lt;p>a Department of Geriatrics, University Medical Center Utrecht, Utrecht, The Netherlands&lt;/p>
+&lt;p>b Julius Center for Health Sciences and Primary Care, Utrecht University, Utrecht, The Netherlands&lt;/p></description></item><item><title>Some athletes would benefit from more vitamin D</title><link>/posts/some-athletes-would-benefit-from-more-vitamin-d.html</link><pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate><guid>/posts/some-athletes-would-benefit-from-more-vitamin-d.html</guid><description>&lt;h2 id="vitamin-d-and-the-athlete-risks-recommendations-and-benefits">Vitamin D and the Athlete: Risks, Recommendations, and Benefits&lt;/h2>
+&lt;p>Nutrients 2013, 5, 1856-1868; doi:10.3390/nu5061856&lt;/p>
+&lt;p>Dana Ogan * and Kelly Pritchett&lt;/p>
+&lt;p>Department of Nutrition, Exercise and Health Science, Central Washington University, 400 E. University Way, Ellensburg, WA 98926, USA; E-Mail: &lt;a href="mailto:kkerr@cwu.edu">kkerr@cwu.edu&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Author to whom correspondence should be addressed; E-Mail: &lt;a href="mailto:danastorlie@yahoo.com">danastorlie@yahoo.com&lt;/a>; Tel.: +1-425-345-0970; Fax: +1-509-963-1848.&lt;/li>
+&lt;/ul>
+&lt;p>Received: 2 April 2013; in revised form: 7 May 2013 / Accepted: 8 May 2013 / Published: 28 May 2013&lt;/p></description></item><item><title>Review of Vitamin D and Physical Performance</title><link>/posts/review-of-vitamin-d-and-physical-performance.html</link><pubDate>Fri, 17 May 2013 00:00:00 +0000</pubDate><guid>/posts/review-of-vitamin-d-and-physical-performance.html</guid><description>&lt;h2 id="vitamin-d-and-physical-performance">Vitamin D and Physical Performance&lt;/h2>
+&lt;p>Sports Medicine, May 2013&lt;/p>
+&lt;p>Daniel S. Moran &lt;a href="mailto:dmoran@sheba.health.gov.il">dmoran@sheba.health.gov.il&lt;/a> (1) (2) (3)&lt;/p>
+&lt;p>James P. McClung (4)&lt;/p>
+&lt;p>Tal Kohen (2)&lt;/p>
+&lt;p>Harris R. Lieberman (4)&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Oak Ridge Institute for Science and Education Program, United States Army Research Institute of Environmental Medicine, Natick, MA, 01760, USA&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heller Institute of Medical Research, Sheba Medical Center, Tel Hashomer, 52621, Israel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ariel University, Ariel, Israel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Military Nutrition Division, United States Army Research Institute of Environmental Medicine, Natick, MA, 01760, USA&lt;/p></description></item><item><title>Traumatic brain injury treated by Vitamin D Progesterone Omega-3 and glutamine</title><link>/posts/traumatic-brain-injury-treated-by-vitamin-d-progesterone-omega-3-and-glutamine.html</link><pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate><guid>/posts/traumatic-brain-injury-treated-by-vitamin-d-progesterone-omega-3-and-glutamine.html</guid><description>&lt;h4 id="combination-therapy-with-vitamin-d3-progesterone-omega-3-fatty-acids-and-glutamine-reverses-coma-and-improves-clinical-outcomes-in-patients-with-severe-traumatic-brain-injuries-a-case-series-of-three-patients">Combination therapy with vitamin D3, progesterone, omega-3 fatty acids, and glutamine reverses coma and improves clinical outcomes in patients with severe traumatic brain injuries: A case series of three patients&lt;/h4>
+&lt;p>IJCRI - International Journal of Case Reports and Images, Vol. No. 2013. ISSN - &lt;span>[0976-3198]&lt;/span>&lt;/p>
+&lt;p>&lt;strong>Leslie R Matthews&lt;/strong> 1, Omar K Danner1, Y A Ahmed2, Diane M Dennis-Griggs1, Alexis Frederick1, Clarence Clark1, Ronald Moore1, Wilson DuMornay1, Ed W Childs1, Kenneth L Wilson1&lt;/p></description></item><item><title>Fewer injuries and higher ballet jumps with 2,000 IU of vitamin D</title><link>/posts/fewer-injuries-and-higher-ballet-jumps-with-2000-iu-of-vitamin-d.html</link><pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate><guid>/posts/fewer-injuries-and-higher-ballet-jumps-with-2000-iu-of-vitamin-d.html</guid><description>&lt;h3 id="the-influence-of-winter-vitamin-d-supplementation-on-muscle-function-and-injury-occurrence-in-elite-ballet-dancers-a-controlled-study">The influence of winter vitamin D supplementation on muscle function and injury occurrence in elite ballet dancers: A controlled study&lt;/h3>
+&lt;p>Journal of Science and Medicine in Sport&lt;/p>
+&lt;p>Matthew A. Wyon a, b, c, &lt;a href="mailto:m.wyon@wlv.ac.uk">m.wyon@wlv.ac.uk&lt;/a>&lt;/p>
+&lt;p>Yiannis Koutedakis a, d, e,&lt;/p>
+&lt;p>Roger Wolman c, f,&lt;/p>
+&lt;p>Alan M. Nevill a,&lt;/p>
+&lt;p>Nick Allen a, b, c&lt;/p>
+&lt;p>a Research Centre for Sport Exercise and Performance, University of Wolverhampton, Walsall, UK&lt;/p>
+&lt;p>b Jerwood Centre for the Prevention and Treatment of Dance Injuries, Birmingham, UK&lt;/p></description></item><item><title>Vitamin D provides faster recovery after muscle overuse</title><link>/posts/vitamin-d-provides-faster-recovery-after-muscle-overuse.html</link><pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-provides-faster-recovery-after-muscle-overuse.html</guid><description>&lt;h4 id="higher-serum-25-hydroxyvitamin-d-concentrations-associate-with-a-faster-recovery-of-skeletal-muscle-strength-after-muscular-injury">Higher Serum 25-Hydroxyvitamin D Concentrations Associate with a Faster Recovery of Skeletal Muscle Strength after Muscular Injury&lt;/h4>
+&lt;p>Nutrients 2013, 5(4), 1253-1275; doi:10.3390/nu5041253&lt;/p>
+&lt;p>Tyler Barker 1,tyler.barker@imail.org, Vanessa T. Henriksen 1 , Thomas B. Martins 2 , Harry R. Hill 2,3 , Carl R. Kjeldsberg 2,3 , Erik D. Schneider 4 , Brian M. Dixon 4 and Lindell K. Weaver 5,6,7&lt;/p>
+&lt;p>1 The Orthopedic Specialty Hospital, Murray, UT 84107, USA&lt;/p>
+&lt;p>2 ARUP Laboratories, Institute for Clinical and Experimental Pathology, Salt Lake City, UT 84108, USA&lt;/p></description></item><item><title>5,000 IU daily was just enough vitamin D for Irish athletes in the winter</title><link>/posts/5000-iu-daily-was-just-enough-vitamin-d-for-irish-athletes-in-the-winter.html</link><pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/5000-iu-daily-was-just-enough-vitamin-d-for-irish-athletes-in-the-winter.html</guid><description>&lt;h4 id="vitamin-d-status-and-supplementation-in-elite-irish-athletes">Vitamin D Status and Supplementation in Elite Irish Athletes.&lt;/h4>
+&lt;p>Int J Sport Nutr Exerc Metab. 2013 Mar 26.&lt;/p>
+&lt;p>Pamela J. Magee 1, L. Kirsty Pourshahidi 1, Julie M.W. Wallace 1, John Cleary 2, 3, Joe Conway 4, Edward Harney 5 and Sharon M. Madigan 2, 3&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>1 Northern Ireland Centre for Food and Health, University of Ulster, Coleraine, Northern Ireland, 2 High Performance Unit, National Boxing Stadium, Dublin,Ireland,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>3 Irish Institute of Sport, Sports Campus Ireland, Abbottstown, Dublin Ireland,&lt;/p></description></item><item><title>Collegiate Swimmers getting 4000 IU of vitamin D had fewer injuries</title><link>/posts/collegiate-swimmers-getting-4000-iu-of-vitamin-d-had-fewer-injuries.html</link><pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/collegiate-swimmers-getting-4000-iu-of-vitamin-d-had-fewer-injuries.html</guid><description>&lt;h3 id="the-effects-of-season-long-vitamin-d-supplementation-on-collegiate-swimmers-and-divers">The Effects of Season-Long Vitamin D Supplementation on Collegiate Swimmers and Divers.&lt;/h3>
+&lt;p>Int J Sport Nutr Exerc Metab. 2013 Mar 8.&lt;/p>
+&lt;p>Lewis RM, Redzic M, Thomas DT.&lt;/p>
+&lt;p>Division of Clinical Nutrition, University of Kentucky, Lexington, KY.&lt;/p>
+&lt;p>The purpose of this 6-month randomized placebo controlled trial was to determine the effect of season-long (September-March) vitamin D supplementation on changes in vitamin D status (measured as 25(OH)D), body composition, inflammation, frequency of illness and injury. Forty-five male and female athletes were randomized to 4000IU vitamin D (n=23) or placebo (n=22). 25(OH)D, bone turnover markers (NTx and BSAP), and inflammatory cytokines (TNF-alpha, IL-6, and IL1-β) were measured at baseline, midpoint, and endpoint. Body composition was assessed by DXA and injury and illness data were collected.&lt;/p></description></item><item><title>Muscle fatigue reduced with 10,000 IU of vitamin D</title><link>/posts/muscle-fatigue-reduced-with-10000-iu-of-vitamin-d.html</link><pubDate>Fri, 08 Mar 2013 00:00:00 +0000</pubDate><guid>/posts/muscle-fatigue-reduced-with-10000-iu-of-vitamin-d.html</guid><description>&lt;h4 id="improving-the-vitamin-d-status-of-vitamin-d-deficient-adults-is-associated-with-improved-mitochondrial-oxidative-function-in-skeletal-muscle">Improving the Vitamin D Status of Vitamin D Deficient Adults Is Associated With Improved Mitochondrial Oxidative Function in Skeletal Muscle&lt;/h4>
+&lt;p>The Journal of Clinical Endocrinology &amp;amp; Metabolism March 1, 2013 vol. 98 no. 3 E509-E513&lt;/p>
+&lt;p>Akash Sinha, Kieren G. Hollingsworth, Steve Ball and Tim Cheetham &lt;a href="mailto:t.d.cheetham@ncl.ac.uk">t.d.cheetham@ncl.ac.uk&lt;/a>&lt;/p>
+&lt;p>Department of Paediatric Endocrinology (A.S., T.C.), Great North Children&amp;rsquo;s Hospital, and Department of Endocrinology (S.B.), Royal Victoria Infirmary, NE1 4LP Newcastle-upon-Tyne, United Kingdom; Institute of Genetic Medicine (A.S., S.B., T.C.), Newcastle University, Newcastle-upon-Tyne NE1 7RU, United Kingdom; and Newcastle Magnetic Resonance Centre (K.G.H.), Institute of Cellular Medicine, Newcastle University, Newcastle-upon-Tyne NE4 5PL, United Kingdom&lt;/p></description></item><item><title>Muscle inflammation 17X more probable if vitamin D deficient</title><link>/posts/muscle-inflammation-17x-more-probable-if-vitamin-d-deficient.html</link><pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/muscle-inflammation-17x-more-probable-if-vitamin-d-deficient.html</guid><description>&lt;h4 id="low-serum-levels-of-vitamin-d-in-idiopathic-inflammatory-myopathies">Low serum levels of vitamin D in idiopathic inflammatory myopathies&lt;/h4>
+&lt;p>Ann Rheum Dis 2013;72:512-516 doi:10.1136/annrheumdis-2012-201849; Editor&amp;rsquo;s Choice&lt;/p>
+&lt;p>Payam Azali 1, &lt;a href="mailto:payam.azali@ds.se">payam.azali@ds.se&lt;/a>&lt;/p>
+&lt;p>Sevim Barbasso Helmers2,&lt;/p>
+&lt;p>Ingrid Kockum3,&lt;/p>
+&lt;p>Tomas Olsson3,&lt;/p>
+&lt;p>Lars Alfredsson2,&lt;/p>
+&lt;p>Peter J Charles4,&lt;/p>
+&lt;p>Karin Piehl Aulin1,&lt;/p>
+&lt;p>Ingrid E Lundberg5&lt;/p>
+&lt;p>1Rheumatology Unit, Danderyd&amp;rsquo;s Hospital, Karolinska Institutet, Stockholm, Sweden&lt;/p>
+&lt;p>2Unit of Cardiovascular Epidemiology, Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden&lt;/p>
+&lt;p>3Neuroimmunology, Department of Clinical Neurosciences, Karolinska Institutet, Stockholm, Sweden&lt;/p>
+&lt;p>4Department of Translational Research, Kennedy Institute, London, UK&lt;/p></description></item><item><title>Sport performance not improved after 5710 IU of vitamin D daily for 12 weeks</title><link>/posts/sport-performance-not-improved-after-5710-iu-of-vitamin-d-daily-for-12-weeks.html</link><pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/sport-performance-not-improved-after-5710-iu-of-vitamin-d-daily-for-12-weeks.html</guid><description>&lt;h2 id="the-effects-of-vitamin-d3-supplementation-on-serum-total-25spanohspand-concentration-and-physical-performance-a-randomised-doseresponse-study">The effects of vitamin D3 supplementation on serum total 25&lt;span>[OH]&lt;/span>D concentration and physical performance: a randomised dose–response study&lt;/h2>
+&lt;p>Br J Sports Med doi:10.1136/bjsports-2012-091735&lt;/p>
+&lt;p>Graeme L Close1, Jill Leckey1, Marcelle Patterson1, Warren Bradley1, Daniel J Owens1, William D Fraser2, James P Morton1&lt;/p>
+&lt;p>1 Research Institute for Sport and Exercise Sciences, Liverpool John Moores University, Liverpool, UK&lt;/p>
+&lt;p>2 Faculty of Medicine and Health Sciences, Norwich Medical School, University of East Anglia, Norwich, UK&lt;/p></description></item><item><title>Ballet dancers in the winter had more injuries and only 15 ng of vitamin D</title><link>/posts/ballet-dancers-in-the-winter-had-more-injuries-and-only-15-ng-of-vitamin-d.html</link><pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate><guid>/posts/ballet-dancers-in-the-winter-had-more-injuries-and-only-15-ng-of-vitamin-d.html</guid><description>&lt;h1 id="vitamin-d-status-in-professional-ballet-dancers-winter-vs-summer">Vitamin D status in professional ballet dancers: Winter vs. summer.&lt;/h1>
+&lt;p>J Sci Med Sport. 2013 Feb 1. pii: S1440-2440(12)01139-5. &lt;a href="https://doi.org/10.1016/j.jsams.2012.12.010.">doi: 10.1016/j.jsams.2012.12.010.&lt;/a>&lt;/p>
+&lt;p>Wolman R, Wyon MA, Koutedakis Y, Nevill AM, Eastell R, Allen N.&lt;/p>
+&lt;p>Department of Rheumatology and Sport and Exercise Medicine, Royal National Orthopaedic Hospital, Stanmore, UK; National Institute of Dance Medicine and Science, UK.&lt;/p>
+&lt;p>OBJECTIVE: Serum 25-hydroxyvitamin D is produced by the exposure of the skin to sunlight. Therefore athletes who train indoors, such as dancers, are vulnerable to vitamin D deficiency. The purpose of the study was to evaluate the serum 25-hydroxyvitamin D status in UK professional dancers during periods of reduced and increased sunlight exposure (i.e., winter vs. summer), and to assess the impact on bone metabolism and risk of injury.&lt;/p></description></item><item><title>Physical performance of seniors increases with vitamin D up to 30 ng</title><link>/posts/physical-performance-of-seniors-increases-with-vitamin-d-up-to-30-ng.html</link><pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate><guid>/posts/physical-performance-of-seniors-increases-with-vitamin-d-up-to-30-ng.html</guid><description>&lt;h4 id="vitamin-d-status-is-associated-with-physical-performance-the-results-of-three-independent-cohorts">Vitamin D status is associated with physical performance: the results of three independent cohorts.&lt;/h4>
+&lt;p>Osteoporos Int. 2013 Jan;24(1):187-96. &lt;a href="https://doi.org/10.1007/s00198-012-2124-5.">doi: 10.1007/s00198-012-2124-5.&lt;/a> Epub 2012 Sep 8.&lt;/p>
+&lt;p>Sohl E, de Jongh RT, Heijboer AC, Swart KM, Brouwer-Brolsma EM, Enneman AW, de Groot CP, van der Velde N, Dhonukshe-Rutten RA, Lips P, van Schoor NM.&lt;/p>
+&lt;p>Department of Epidemiology and Biostatistics, EMGO Institute for Health and Care Research, VU University Medical Center, Amsterdam, The Netherlands.&lt;/p>
+&lt;p>This study, on the association between vitamin D status and physical performance and its decline, shows that vitamin D status is associated with physical performance in several older age groups. However, vitamin D status does not predict a decline in physical performance in individuals aged 55-65 years.&lt;/p></description></item><item><title>Top UK soccer coach installed vitamin D booths in his club</title><link>/posts/top-uk-soccer-coach-installed-vitamin-d-booths-in-his-club.html</link><pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/top-uk-soccer-coach-installed-vitamin-d-booths-in-his-club.html</guid><description>&lt;h2 id="clipped-from-various-places-on-the-web-dec-20-2012">Clipped from various places on the web Dec 20, 2012&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sir Alex Ferguson, manager of Manchester United soccer club, has revealed that United had a Vitamin D machine installed for compensate for Manchester&amp;rsquo;s lack of natural sunlight.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Used 3X per week by each of the soccer players&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Now Manchester United can combat lack of sun&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Manchester has a reputation as being one of the wettest places in the UK, so it&amp;rsquo;s little wonder Sir Alex Ferguson had a tanning booth installed so the players could top up their Vitamin D levels.&lt;/p></description></item><item><title>Surgeon on a mission to promote vitamin D</title><link>/posts/surgeon-on-a-mission-to-promote-vitamin-d.html</link><pubDate>Wed, 19 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/surgeon-on-a-mission-to-promote-vitamin-d.html</guid><description/></item><item><title>Strong bones need both physical activity and vitamin D</title><link>/posts/strong-bones-need-both-physical-activity-and-vitamin-d.html</link><pubDate>Tue, 18 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/strong-bones-need-both-physical-activity-and-vitamin-d.html</guid><description>&lt;h2 id="vitamin-d-status-and-physical-activity-interact-to-improve-bone-mass-in-adolescents">Vitamin D status and physical activity interact to improve bone mass in adolescents.&lt;/h2>
+&lt;h3 id="the-helena-study">The HELENA Study.&lt;/h3>
+&lt;p>Osteoporos Int. 2012 Aug;23(8):2227-37. Epub 2012 Jan 12.&lt;/p>
+&lt;p>Valtueña J, Gracia-Marco L, Vicente-Rodríguez G, González-Gross M, Huybrechts I, Rey-López JP, Mouratidou T, Sioen I, Mesana MI, Martínez AE, Widhalm K, Moreno LA; HELENA Study Group.&lt;/p>
+&lt;p>Collaborators (230)&lt;/p>
+&lt;p>Department of Health and Human Performance, Faculty of Physical Activity and Sport Sciences-INEF, Technical University of Madrid, C/ Martín Fierro 7, Madrid, Spain. &lt;a href="mailto:jara.valtuena@upm.es">jara.valtuena@upm.es&lt;/a>&lt;/p></description></item><item><title>Activity and being outdoors helps seniors – GPS and Vitamin D</title><link>/posts/activity-and-being-outdoors-helps-seniors-gps-and-vitamin-d.html</link><pubDate>Fri, 14 Dec 2012 00:00:00 +0000</pubDate><guid>/posts/activity-and-being-outdoors-helps-seniors-gps-and-vitamin-d.html</guid><description>&lt;h1 id="the-relationship-between-outdoor-activity-and-health-in-older-adults-using-gps">The Relationship between Outdoor Activity and Health in Older Adults Using GPS&lt;/h1>
+&lt;p>Int. J. Environ. Res. Public Health 2012, 9, 4615-4625; doi:10.3390/ijerph9124615&lt;/p>
+&lt;p>Jacqueline Kerr Simon Marshall , Suneeta Godbole , Suvi Neukam , Katie Crist , Kari Wasilenko , Shahrokh Golshan 3 and David Buchner 4&lt;/p>
+&lt;p>1 Department of Family and Preventive Medicine, UCSD, 9500 Gilman Drive, La Jolla, CA 92093, USA; E-Mails: &lt;a href="mailto:sjmarshall@ucsd.edu">sjmarshall@ucsd.edu&lt;/a> (S.M); &lt;a href="mailto:sgodbole@ucsd.edu">sgodbole@ucsd.edu&lt;/a> (S.G.); &lt;a href="mailto:kcrist@ucsd.edu">kcrist@ucsd.edu&lt;/a> (K.C.); &lt;a href="mailto:kwasilenko@ucsd.edu">kwasilenko@ucsd.edu&lt;/a> (K.W.)&lt;/p>
+&lt;p>2 University of New England College of Osteopathic Medicine, 11 Hills Beach Rd, Biddeford, ME 04005, USA; E-Mail: &lt;a href="mailto:sneukam@une.edu">sneukam@une.edu&lt;/a>&lt;/p></description></item><item><title>Type 2 muscles, not all muscles, get benefit from Vitamin D</title><link>/posts/type-2-muscles-not-all-muscles-get-benefit-from-vitamin-d.html</link><pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/type-2-muscles-not-all-muscles-get-benefit-from-vitamin-d.html</guid><description/></item><item><title>Off Topic – Light exercise extend life by 4.5 years – perhaps more than vitamin D</title><link>/posts/off-topic-light-exercise-extend-life-by-45-years-perhaps-more-than-vitamin-d.html</link><pubDate>Fri, 09 Nov 2012 00:00:00 +0000</pubDate><guid>/posts/off-topic-light-exercise-extend-life-by-45-years-perhaps-more-than-vitamin-d.html</guid><description>&lt;h3 id="leisure-time-physical-activity-of-moderate-to-vigorous-intensity-and-mortality-a-large-pooled-cohort-analysis">Leisure Time Physical Activity of Moderate to Vigorous Intensity and Mortality: A Large Pooled Cohort Analysis&lt;/h3>
+&lt;p>Steven C. Moore1*, Alpa V. Patel2, Charles E. Matthews1, Amy Berrington de Gonzalez1, Yikyung Park1, Hormuzd A. Katki1, Martha S. Linet1, Elisabete Weiderpass3,4,5,6, Kala Visvanathan7, Kathy J. Helzlsouer7, Michael Thun2, Susan M. Gapstur2, Patricia Hartge1, I-Min Lee8&lt;/p>
+&lt;p>1 Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, Maryland, United States of America, 2 Epidemiology Research Program, American Cancer Society, Atlanta, Georgia, United States of America, 3 Department of Medical Epidemiology and Biostatistics, Karolinska Institute, Stockholm, Sweden, 4 Cancer Registry of Norway, Oslo, Norway, 5 Department of Community Medicine, Tromso, Norway, 6 Samfundet Folkhalsan, Helsinki, Finland, 7 Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America, 8 Brigham and Women&amp;rsquo;s Hospital, Harvard Medical School, Boston, Massachusetts, United States of America&lt;/p></description></item><item><title>5,000 IU vitamin D helped UK professional athletes in the winter</title><link>/posts/5000-iu-vitamin-d-helped-uk-professional-athletes-in-the-winter.html</link><pubDate>Sat, 27 Oct 2012 00:00:00 +0000</pubDate><guid>/posts/5000-iu-vitamin-d-helped-uk-professional-athletes-in-the-winter.html</guid><description>&lt;h4 id="assessment-of-vitamin-d-concentration-in-non-supplemented-professional-athletes-and-healthy-adults-during-the-winter-months-in-the-uk-implications-for-skeletal-muscle-function">Assessment of vitamin D concentration in non-supplemented professional athletes and healthy adults during the winter months in the UK: implications for skeletal muscle function.&lt;/h4>
+&lt;p>J Sports Sci. 2012 Oct 22.&lt;/p>
+&lt;p>Close GL, Russell J, Cobley JN, Owens DJ, Wilson G, Gregson W, Fraser WD, Morton JP.&lt;/p>
+&lt;p>a Muscle Metabolism and Physiology Research group, Research Institute for Sport and Exercise Sciences , Liverpool John Moores University , Liverpool , UK.&lt;/p>
+&lt;p>Abstract The current study implemented a two-part design to (1) assess the vitamin D concentration of a large cohort of non-vitamin D supplemented UK-based athletes and 30 age-matched healthy non-athletes and (2) to examine the effects of 5000 IU · day(-1) vitamin D(3) supplementation for 8-weeks on musculoskeletal performance in a placebo controlled trial. Vitamin D concentration was determined as severely deficient if serum 25(OH)D &amp;lt; 12.5 nmol · l(-1), deficient 12.5-30 nmol · l(-1) and inadequate 30-50 nmol · l(-1).&lt;/p></description></item><item><title>Obese helped with resistance training by 4000 IU of vitamin D – RCT</title><link>/posts/obese-helped-with-resistance-training-by-4000-iu-of-vitamin-d-rct.html</link><pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate><guid>/posts/obese-helped-with-resistance-training-by-4000-iu-of-vitamin-d-rct.html</guid><description>&lt;h4 id="impact-of-vitamin-d-supplementation-during-a-resistance-training-intervention-on-body-composition-muscle-function-and-glucose-tolerance-in-overweight-and-obese-adults-clinical-nutrition">Impact of vitamin D supplementation during a resistance training intervention on body composition, muscle function, and glucose tolerance in overweight and obese adults Clinical Nutrition&lt;/h4>
+&lt;p>Andres E. Carrillo a, Michael G. Flynn b, Catherine Pinkston c, Melissa M. Markofski a, Yan Jiang c, Shawn S. Donkin d, Dorothy Teegarden c, &lt;a href="mailto:teegarden@purdue.edu">teegarden@purdue.edu&lt;/a>&lt;/p>
+&lt;p>a Wastl Human Performance Laboratory, Purdue University, West Lafayette, IN, USA&lt;/p>
+&lt;p>b Department of Health and Human Performance, College of Charleston, Charleston, SC, USA&lt;/p></description></item><item><title>Muscle strength not increased by raising vitamin D to only 30 ng – RCT</title><link>/posts/muscle-strength-not-increased-by-raising-vitamin-d-to-only-30-ng-rct.html</link><pubDate>Sat, 18 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/muscle-strength-not-increased-by-raising-vitamin-d-to-only-30-ng-rct.html</guid><description/></item><item><title>During basic training white females decreased vitamin D but non-whites increased</title><link>/posts/during-basic-training-white-females-decreased-vitamin-d-but-non-whites-increased.html</link><pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate><guid>/posts/during-basic-training-white-females-decreased-vitamin-d-but-non-whites-increased.html</guid><description/></item><item><title>A Concussion-Free Football Season: How one High School beat the odds</title><link>/posts/a-concussion-free-football-season-how-one-high-school-beat-the-odds.html</link><pubDate>Mon, 23 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/a-concussion-free-football-season-how-one-high-school-beat-the-odds.html</guid><description>&lt;h4 id="a-hrefpostshigh-school-in-atlanta-stylecolor-red-text-decoration-underline-titlethis-link-has-an-unknown-page_id-2378high-school-in-atlantaa-added-vitamin-d-in-2011-to-their-sports-teams">&lt;a href="/posts/high-school-in-atlanta" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2378">High School in Atlanta&lt;/a> added vitamin D in 2011 to their sports teams&lt;/h4>
+&lt;p>Martin Luther King Jr. High School in Lithonia, Georgia has reduced its concussions and sports injuries by almost 100%. What was their secret? In 2011, the school started a parent-led nutrition program that included a daily regimen of vitamin D. The program was instituted by Dr. L. Ray Matthews, one of the nation’s leading researchers in vitamin D and assistant professor of surgery and director of surgical care at Grady Memorial Hospital in Atlanta,&lt;/p></description></item><item><title>Female Athlete health problems may be due to lack of vitamin D and Iron</title><link>/posts/female-athlete-health-problems-may-be-due-to-lack-of-vitamin-d-and-iron.html</link><pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/female-athlete-health-problems-may-be-due-to-lack-of-vitamin-d-and-iron.html</guid><description/></item></channel></rss>

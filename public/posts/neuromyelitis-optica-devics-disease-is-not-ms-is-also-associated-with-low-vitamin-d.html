@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Neuromyelitis optica (Devic's Disease is not MS) is also associated with low vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Neuromyelitis optica (Devic's Disease is not MS) is also associated with low vitamin D</h1><time>April 25, 2015</time><div data-pagefind-body><h4 id=reduced-serum-vitamin-d-levels-in-neuromyelitis-optica>Reduced serum vitamin D levels in neuromyelitis optica</h4><p>Neurological Sciences, April 2015 <a href=https://doi.org/10.1007/s10072-015-2229-7>https://doi.org/10.1007/s10072-015-2229-7</a></p><p>Erdem Tüzün <a href=mailto:drerdem@yahoo.com>drerdem@yahoo.com</a> (1), Özlem Küçükhüseyin (2), Murat Kürtüncü (3)</p><p>Recai Türkoğlu (4), İlhan Yaylım (2)</p><ol><li><p>Department of Neuroscience, Institute for Experimental Medical Research (DETAE), Istanbul University, Vakif Gureba Street, Capa, 34390, Istanbul, Turkey</p></li><li><p>Department of Molecular Medicine, Institute for Experimental Medical Research (DETAE), Istanbul University, Istanbul, Turkey</p></li><li><p>Department of Neurology, Istanbul Faculty of Medicine, Istanbul University, Istanbul, Turkey</p></li><li><p>Department of Neurology, Haydarpasa Numune Education and Research Hospital, Istanbul, Turkey</p></li></ol><p>Dear Sir,</p><p>Vitamin D deficiency has been associated with several autoimmune disorders and increased autoimmune responses in healthy individuals. One of many potential factors underlying this association is the well-established anti-inflammatory action of vitamin D administration resulting in reduced proinflammatory cytokine production and enhanced regulatory T cell activity <sup>[1]</sup>. Although vitamin D deficiency is well known in multiple sclerosis (MS) <sup>[2]</sup>, its significance in neuromyelitis optica (NMO), another autoimmune disease of the central nervous system (CNS), is less well understood. NMO, NMO spectrum disorder and recurrent transverse myelitis patients have been recently shown to display reduced vitamin D levels <sup>[3, 4]</sup>. Although, these studies have shed some light on the impact of vitamin D on NMO pathogenesis, associations between vitamin D levels and clinical–demographic features of NMO patients are yet to be characterized. . . . End of free text by publisher</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/nmo.jpg alt=image width=400><p><strong><a href=/posts/off-topic-10-ways-to-find-medical-studies-on-the-web style=color:red;text-decoration:underline title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a>   10.1007/s10072-015-2229-7</strong></p><h3 id=references>References</h3><ol><li><p>Ritterhouse, LL, Crowe, SR, Niewold, TB, Kamen, DL, Macwana, SR, Roberts, VC, Dedeke, AB, Harley, JB, Scofield, RH, Guthridge, JM, James, JA (2011) Vitamin D deficiency is associated with an increased autoimmune response in healthy individuals and in patients with systemic lupus erythematosus. Ann Rheum Dis 70: pp. 1569-1574 CrossRef</p></li><li><p>Lin, CH, Kadakia, S, Frieri, M (2014) New insights into an autoimmune mechanism, pharmacological treatment and relationship between multiple sclerosis and inflammatory bowel disease. Autoimmun Rev 13: pp. 114-116 CrossRef</p></li><li><p>Mealy, MA, Newsome, S, Greenberg, BM, Wingerchuk, D, Calabresi, P, Levy, M (2012) Low serum vitamin D levels and recurrent inflammatory spinal cord disease. Arch Neurol 69: pp. 352-356 CrossRef</p></li><li><p>Min, JH, Waters, P, Vincent, A, Cho, HJ, Joo, BE, Woo, SY, Lee, SY, Shin, HY, Lee, KH, Kim, BJ (2014) <strong>Low levels of vitamin D in neuromyelitis optica spectrum disorder: association with disease disability</strong> . PLoS ONE 9: pp. e107274 CrossRef</p></li></ol><blockquote><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/neuromyelitis-optica-sept-2014.pdf>Download the PDF from VitaminDWiki</a></strong></p></blockquote><ol><li><p>Wingerchuk, DM, Lennon, VA, Pittock, SJ, Lucchinetti, CF, Weinshenker, BG (2006) Revised diagnostic criteria for neuromyelitis optica. Neurology 66: pp. 1485-1489 CrossRef</p></li><li><p>Grau-López, L, Granada, ML, Raïch-Regué, D, Naranjo-Gómez, M, Borràs-Serres, FE, Martínez-Cáceres, E, Ramo-Tello, C (2012) Regulatory role of vitamin D in T-cell reactivity against myelin peptides in relapsing-remitting multiple sclerosis patients. BMC Neurol 12: pp. 103 CrossRef</p></li></ol><hr><h4 id=neuromyelitis-opticahttpswwwwikiwandcomenneuromyelitis_opticaepidemiology-wikipedia><a href=https://www.wikiwand.com/en/Neuromyelitis_optica#/Epidemiology>Neuromyelitis optica</a> Wikipedia</h4><ul><li><p>“Neuromyelitis optica (NMO), also known as Devic&rsquo;s disease or Devic&rsquo;s syndrome, is a heterogeneous condition consisting of recurrent and simultaneous inflammation and demyelination of the optic nerve (optic neuritis) and the spinal cord (myelitis).”</p></li><li><p>“35% of African Americans are often misdiagnosed with MS when they really have NMO”</p></li></ul><hr><h4 id=pubmed>PubMed</h4><ul><li><strong>The Incidence and Prevalence of Neuromyelitis Optica - A Systematic Review - 2013</strong></li></ul><blockquote><p>&ldquo;the prevalence per 100,000 population ranged from 0.52 to 4.4. "</p></blockquote><blockquote><p><a href=https://doi.org/10.7224/1537-2073.2012-048>doi: 10.7224/1537-2073.2012-048</a> free text and PDF</p></blockquote><ul><li><strong>Association between Sun Exposure, Vitamin D Intake, Serum Vitamin D Level, and Immunoglobulin G Level in Patients with Neuromyelitis Optica Spectrum Disorder. Aug 2018</strong></li></ul><blockquote><p><a href=https://doi.org/10.4103/ijpvm.IJPVM_45_16>doi: 10.4103/ijpvm.IJPVM_45_16</a>     free PDF online</p></blockquote><ul><li><strong>Low levels of vitamin D in neuromyelitis optica spectrum disorder: association with disease disability - Sept 2014</strong></li></ul><blockquote><p><a href=https://doi.org/10.1371/journal.pone.0107274>doi: 10.1371/journal.pone.0107274</a>     free PDF online</p></blockquote><blockquote><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/nmo-plos.jpg alt=image width=400></blockquote><blockquote><p><strong>The worse the disease, the lower the Vitamin D</strong></p></blockquote><blockquote><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/nmo-edss.jpg alt=image width=600></blockquote><hr><h4 id=devics-disease-treated-by-coimbra-protocol>Devic&rsquo;s Disease treated by Coimbra Protocol</h4><ul><li><p><a href=http://www.thisisms.com/forum/coimbra-high-dose-vitamin-d-protocol-f57/topic28860.html>This Is MS</a> 2017 2 testimonials</p></li><li><p><a href="https://www.facebook.com/groups/vitamindprotocolnorthamerica/?multi_permalinks=1778817332186981&amp;notif_id=1536344124603110&amp;notif_t=group_highlights&amp;ref=notif">Facebook Sept 2018</a> seems to have completely recovered from having extremely poor health and eyesight</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/cystic-fibrosis.html><span class=tag>cystic fibrosis</span></a>
+<a href=/tags/gut.html><span class=tag>gut</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/ibd.html><span class=tag>IBD</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/lupus.html><span class=tag>lupus</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>Multiple Sclerosis</span></a>
+<a href=/tags/neurological.html><span class=tag>neurological</span></a>
+<a href=/tags/spinal-cord.html><span class=tag>spinal cord</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/tuberculosis.html><span class=tag>tuberculosis</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>autoimmune, bacteria, breathing, cystic fibrosis, gut, high dose, IBD, intervention, lupus, multiple sclerosis, Multiple Sclerosis, neurological, spinal cord, therapeutic intervention, tuberculosis, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>

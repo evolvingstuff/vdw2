@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Test Proof that Vitamin D Works</title>
+<link rel=stylesheet href="/css/main.css?v=1753298153"><link rel=stylesheet href="/css/pagination.css?v=1753298153"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753298153"></script><script src="/js/search.js?v=1753298153"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Test Proof that Vitamin D Works</h1><time>December 9, 2013</time><div data-pagefind-body><h3 id=observation-by-henry-lahore-of-vitamindwiki-dec-2013>Observation by Henry Lahore of VitaminDWiki Dec 2013</h3><p>I am unaware of a single vitamin D clinical trial which used enough D for long enough that did not get great results.</p><p><strong>Many Clinical Trials do not find a benefit bacause of one or more of the following:</strong></p><ol><li>Have used <a href=/posts/too-small-a-dose-of-vitamin-d style=color:red;text-decoration:underline title="This link has an unknown page_id: 766">too small a dose of vitamin D</a> (often &lt; 1,100 IU)</li></ol><blockquote><p>Even larger dose needed if: 1) <a href=/posts/obese style=color:red;text-decoration:underline title="This link has an unknown page_id: 710">obese</a>, 2) <a href=/posts/poor-gut style=color:red;text-decoration:underline title="This link has an unknown page_id: 745">poor gut</a>, 3) sick (many diseases consume lots of vitamin D</p></blockquote><ol><li>Fails to have given vitamin D for too short of time (a few RCT lasted less than 5 weeks)</li></ol><p>Fails to have given Vitamin D frequently enough. <a href=/posts/at-least-every-2-months-for-d3 style=color:red;text-decoration:underline title="This link has an unknown page_id: 2475">At least every 2 months for D3)</a> - and at least weekly for D2</p><blockquote><p>Note: Infrequent dosing also causes unbalancing of the body&rsquo;s chemistry</p></blockquote><p>Fails to provide a <a href=/categories/loading-dose>loading dose</a>, or had too short a duration to restore the vitamin D levels</p><p>Fails to use D3 form, instead uses the <a href=/posts/less-effective-d2-form style=color:red;text-decoration:underline title="This link has an unknown page_id: 2138">less effective D2 form</a></p><ol><li>Fails to have a health range of <a href=/categories/calcium>Calcium</a> or other important <a href=/posts/cofactors style=color:red;text-decoration:underline title="This link has an unknown page_id: 1270">cofactors</a> (especially for <a href=/posts/bone-health>bone-related trials</a></li></ol><blockquote><p>Also, differences in Magnesium can result in 30% change in response to vitamin D</p></blockquote><blockquote><p>Magnesium is dependant on water, food, supplements</p></blockquote><ol><li><p>Fails to notice the pre-existing vitamin D levels - only those who are low will likely show a benefit</p></li><li><p>Fais to notice how/when the vitamin D was taken (which can change the response by as much as 2X)</p></li><li><p>Fais to reports on compliance (in one case 40% of the participants did not take the supplements consistantly)</p></li></ol><p><strong>Many Meta-Analysis do not find a benefit because one or more of the above reasons</strong></p><ul><li>Many <span>[tiki-browse_categories.php?parentId=82&amp;sort_mode=created_desc]</span> average together ALL of the trials</li></ul><blockquote><p>Imagine a story about a meta-analysis if aspirin were being introduced now.</p></blockquote><blockquote><p>     There would be scores of RCT for aspirin not working with 3 mg doses</p></blockquote><blockquote><p>     There would be many RCT of aspirin not working with 30 mg doses</p></blockquote><blockquote><p>     There would be a few studies of aspirin WORKING with 300+ mg doses</p></blockquote><blockquote><p>     There would be many studies of small amounts of Willow bark (Vitamin D2 instead of Vitamin D3)</p></blockquote><blockquote><p>     Then were would be a meta-analysis of aspirin and Willow Bark</p></blockquote><blockquote><p>     - <strong>That meta-analysis would conclude that aspirin and bark do not work.</strong></p></blockquote><p>While about 200 RCTs will be published during 2014, I anticipate only adding 50 to the proofs table due to the reasons listed above</p><p>     Also, some trials will not get started due to lack of people willing to go for years with &lt; 500 IU of vitamin D</p><p>Note: 95% of the proofs for vitamin D were published after the IoM stopped looking at data.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>dosage, high dose, magnesium, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753298153"></script><script src="/js/tiki-redirects.js?v=1753298153"></script><script src="/js/lightspa.js?v=1753298153"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753298153",indexUrl:"/search/search_index.json.gz?v=1753298153"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753298153"></script></body></html>
