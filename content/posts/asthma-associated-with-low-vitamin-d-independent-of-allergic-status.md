@@ -44,8 +44,8 @@ Conclusions: The vitamin D level was lower in asthmatic patients than in healthy
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* <a href="/posts/still-unsure-of-association-between-vitamin-d-and-asthma-and-allergies-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Still unsure of association between vitamin D and asthma and allergies – review April 2012">Still unsure of association between vitamin D and asthma and allergies – review April 2012</a>
+* [Still unsure of association between vitamin D and asthma and allergies – review April 2012](/posts/still-unsure-of-association-between-vitamin-d-and-asthma-and-allergies-review)

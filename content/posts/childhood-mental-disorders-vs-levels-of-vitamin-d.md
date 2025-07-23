@@ -56,4 +56,4 @@ Although a causal relationship between hypovitaminosis D and psychiatric disorde
 
 * [Autism treated by Vitamin D: Dr. Cannell - video June 2013](/posts/autism-treated-by-vitamin-d-dr-cannell-video)
 
-* <a href="/posts/premature-or-low-birth-weight-resulted-in-children-3x-more-likely-to-be-anxious-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Premature or low birth weight resulted in children 3X more likely to be anxious – meta-analysis May 2011">Premature or low birth weight resulted in children 3X more likely to be anxious – meta-analysis May 2011</a>
+* [Premature or low birth weight resulted in children 3X more likely to be anxious – meta-analysis May 2011](/posts/premature-or-low-birth-weight-resulted-in-children-3x-more-likely-to-be-anxious-meta-analysis)

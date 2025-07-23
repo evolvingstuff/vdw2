@@ -82,7 +82,7 @@ It should be noted that increasing 25(OH)D concentration alone is not meaningful
 
 * [Response to Vitamin D - Grassroots](/posts/response-to-vitamin-d-grassroots)
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a> 
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d) 
 
 > has the following chart, and a long table - which has many more reason than in this study
 

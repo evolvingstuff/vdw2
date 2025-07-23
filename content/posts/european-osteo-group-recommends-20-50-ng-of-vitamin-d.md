@@ -59,8 +59,8 @@ PMID:     23320612
 
 ## See also VitaminDWiki
 
-* <a href="/posts/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough</a>
+* [Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough](/tags/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough.html)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a> which includes the following chart
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng) which includes the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

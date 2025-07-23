@@ -11,4 +11,4 @@
 }
 
 
-## <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3556">CLICK HERE</a>
+## [CLICK HERE](/tags/click-here.html)

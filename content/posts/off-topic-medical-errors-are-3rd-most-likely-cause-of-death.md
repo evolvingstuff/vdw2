@@ -29,4 +29,4 @@ Study is in BMJ
 
 #### See also VitaminDWiki
 
-* <a href="/posts/causes-of-death-vitamin-d-reduces-10-of-the-top-11" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Causes of Death - Vitamin D reduces 10 of the top 11 - July 2017">Causes of Death - Vitamin D reduces 10 of the top 11 - July 2017</a>
+* [Causes of Death - Vitamin D reduces 10 of the top 11 - July 2017](/posts/causes-of-death-vitamin-d-reduces-10-of-the-top-11)

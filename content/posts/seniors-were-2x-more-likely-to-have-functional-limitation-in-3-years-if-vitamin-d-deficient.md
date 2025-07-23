@@ -61,12 +61,12 @@ Conclusion: Vitamin D status is associated with functional limitations cross-sec
 
 * [Physical performance of seniors increases with vitamin D up to 30 ng – Jan 2013](/posts/physical-performance-of-seniors-increases-with-vitamin-d-up-to-30-ng)
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Search VitaminDWiki for Frality](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=fraility&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 148 items as of Sept 2013
 
 * [Frailty and Vitamin D - many studies](/posts/frailty-and-vitamin-d-many-studies)
 
-* <a href="/posts/frailty-and-vitamin-d-with-influence-diagram-miller" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1113">Frailty and Vitamin D – with influence diagram Miller Oct 2010</a> which has the following chart
+* [Frailty and Vitamin D – with influence diagram Miller Oct 2010](/posts/frailty-and-vitamin-d-with-influence-diagram-miller) which has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/fraility-vicious-circles---miller-oct-2010.gif" alt="image">

@@ -53,16 +53,16 @@ COPD is, in addition to progressive airflow obstruction, characterised by extrap
 
 ## See also VitaminDWiki
 
-* <a href="/posts/copd-bone-metabolism-osteoporosis-vitamin-d-appear-related" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011">COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011</a> 
+* [COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011](/posts/copd-bone-metabolism-osteoporosis-vitamin-d-appear-related) 
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)
 
-* <a href="/posts/copd-and-vitamin-d-in-a-vicious-circle" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD and vitamin D in a vicious circle – April 2011">COPD and vitamin D in a vicious circle – April 2011</a>  i.e. vitamin D becomes lower and lower
+* [COPD and vitamin D in a vicious circle – April 2011](/posts/copd-and-vitamin-d-in-a-vicious-circle)  i.e. vitamin D becomes lower and lower
 
 * [COPD patients 4X more likely to have low Vitamin D – 2 articles in 2012](/posts/copd-patients-4x-more-likely-to-have-low-vitamin-d-2-articles-in-2012)
 
 * [COPD related to vitamin D by a gene in China. - Aug 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339)
 
-* <a href="/posts/vitamin-d-deficiency-is-highly-prevalent-in-copd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 89">Vitamin D deficiency is highly prevalent in COPD</a>
+* [Vitamin D deficiency is highly prevalent in COPD](/tags/vitamin-d-deficiency-is-highly-prevalent-in-copd.html)
 
-* <a href="/posts/is-vitamin-d-deficiency-important-in-the-natural-history-of-copd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1563">Is vitamin D deficiency important in the natural history of COPD? - April 2011</a>
+* [Is vitamin D deficiency important in the natural history of COPD? - April 2011](/tags/is-vitamin-d-deficiency-important-in-the-natural-history-of-copd-april-2011.html)

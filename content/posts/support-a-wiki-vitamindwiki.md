@@ -35,6 +35,6 @@ I have really hated getting bugged after making a donation.
 
 Therefore, I will absolutely not bug you.
 
-<a href="/posts/aboutus" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: AboutUs">VitaminDWiki</a> is a IRS 501(c) (3) non-profit Tax ID =  **46-3376691** 
+[VitaminDWiki](/tags/vitamindwiki.html) is a IRS 501(c) (3) non-profit Tax ID =  **46-3376691** 
 
 327 visits as of Dec 23, 2014

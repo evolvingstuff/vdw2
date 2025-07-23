@@ -39,7 +39,7 @@
 
 * [Perhaps half of Russian children have rickets, 500 IU vitamin D was not enough – June 2013](/posts/perhaps-half-of-russian-children-have-rickets-500-iu-vitamin-d-was-not-enough)
 
-* <a href="/posts/744-iu-vitamin-d-needed-by-northern-white-teens-to-prevent-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 744 IU vitamin D needed by Northern white teens to prevent Rickets – Jan 2011">744 IU vitamin D needed by Northern white teens to prevent Rickets – Jan 2011</a>
+* [744 IU vitamin D needed by Northern white teens to prevent Rickets – Jan 2011](/posts/744-iu-vitamin-d-needed-by-northern-white-teens-to-prevent-rickets)
 
 > Probably more if darker skinned
 

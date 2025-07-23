@@ -125,10 +125,7 @@ Note: Dr. Hollis paper (Dec, 2013) is behind a paywall, and so is not on Vitamin
 
  **Presentation by D Fraser strongly indicated that rainbow trout generate Vitamin D with blue, (not UVB) light**  
 
-<a href="/posts/vitamin-d-non-skeletal-trials-review-june-2014-poster-by-dr-grant-img-attid4056--xphppagevdwnews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D non-skeletal trials – review June 2014)) Poster by Dr. Grant 
-{img attId="4056" width = "200"}
-!!!!See also VitaminDWiki 
-[tiki-index.php?page=vdwnews">New web pages]~hs~ ~hs~ ~hs~[tiki-index.php?page_id=2536|Recently changed web pages]~hs~ ~hs~ ~hs~[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc|Best/Top Vitamin D News]~hs~ ~hs~ ~hs~[tiki-index.php?page=AboutUs|About us]~hs~ ~hs~ ~hs~ ((Does Less Sun mean More Disease</a> &nbsp; &nbsp; &nbsp; [1 pill every 2 weeks](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need)
+[New web pages]~hs~ ~hs~ ~hs~[tiki-index.php?page_id=2536|Recently changed web pages]~hs~ ~hs~ ~hs~[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc|Best/Top Vitamin D News]~hs~ ~hs~ ~hs~[tiki-index.php?page=AboutUs|About us]~hs~ ~hs~ ~hs~ ((Does Less Sun mean More Disease](/tags/new-web-pageshs-hs-hstiki-indexphppage-id2536recently-changed-web-pageshs-hs-hstiki-browse-categoriesphpparentid982098sort-modecreated-descbesttop-vitamin-d-newshs-hs-hstiki-indexphppageaboutusabout-ushs-hs-hs-does-less-sun-mean-more-disease.html) &nbsp; &nbsp; &nbsp; [1 pill every 2 weeks](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need)
 
 ---
 
@@ -197,9 +194,9 @@ Assembled by VitaminDWiki from various sources
 
  **[Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014](/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct)** 
 
-You can increase your vitamin D level with: pill, spray, oil, powder, gummy bear, <a href="/posts/vaginal-suppository" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1410">vaginal suppository</a>  and now topical cream
+You can increase your vitamin D level with: pill, spray, oil, powder, gummy bear, [vaginal suppository](/tags/vaginal-suppository.html)  and now topical cream
 
-Also, of course, [sun](/categories/sun). tanning bed, your own <a href="/posts/uvb-light" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 982">UVB light</a>, etc.
+Also, of course, [sun](/tags/sun.html). tanning bed, your own [UVB light](/tags/uvb-light.html), etc.
 
  **VitaminDWiki chart has been updated to include the latest intervention PROOFS** 
 
@@ -207,7 +204,7 @@ Also, of course, [sun](/categories/sun). tanning bed, your own <a href="/posts/u
 
 #### See also VitaminDWiki
 
-[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;<a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)&nbsp; &nbsp; &nbsp; <a href="/posts/does-less-sun-mean-more-disease-hs-hs-hs-one-pill-every-two-weeks-gives-you-all--ost-adults-need" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does Less Sun mean More Disease)) ~hs~ ~hs~ ~hs~ ((One pill every two weeks gives you all the vitamin D most adults need">1 pill every 2 weeks</a>
+[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;[Recently changed web pages](/tags/recently-changed-web-pages.html)&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)&nbsp; &nbsp; &nbsp; [1 pill every 2 weeks](/tags/1-pill-every-2-weeks.html)
 
 ---
 
@@ -219,7 +216,7 @@ Concludes that there is good proof for: Premature mortality, Falls prevention, C
 
 Respiratory infection prevention, Diabetes prevention, Depression treatment, Musculoskeletal pain management
 
-See also in VitaminDWiki  **<a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>**  &nbsp; **<a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>** 
+See also in VitaminDWiki  **[Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)**  &nbsp; **[Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)** 
 
  **[Why India's vitamin D deficiency is grim - 40 pages Feb 2014](/posts/why-indias-vitamin-d-deficiency-is-grim-40-pages)** &nbsp; &nbsp; 
 
@@ -269,7 +266,7 @@ only 38% of infants who were getting 800 IU had <20 ng
 
 The argument now seems to focus on the doses ranging between 1000 and 2000 IU for infants
 
-Note:  <a href="/posts/in-the-1960s-finland-gave-2000-iu-to-infants-and-no-problem-seen-even-35-years-later" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1509">in the 1960's Finland gave 2,000 IU to infants, and no problem seen even 35 years later</a>
+Note:  [in the 1960's Finland gave 2,000 IU to infants, and no problem seen even 35 years later](/tags/in-the-1960s-finland-gave-2000-iu-to-infants-and-no-problem-seen-even-35-years-later.html)
 
 &nbsp; &nbsp; &nbsp; unless you consider having far less diabetes being a problem 
 
@@ -279,7 +276,7 @@ Note:  <a href="/posts/in-the-1960s-finland-gave-2000-iu-to-infants-and-no-probl
 
 * Vitamin D Animation should be (finally) ready in March
 
-* I have decided to NOT go to the <a href="/posts/vitamin-d-conference-in-london" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4200">Vitamin D conference in London</a> 
+* I have decided to NOT go to the [Vitamin D conference in London](/tags/vitamin-d-conference-in-london.html) 
 
 > &nbsp; &nbsp; they did not want to me to present information on vitamin D and show the Vitamin D animation, but just make a poster. 
 
@@ -303,15 +300,15 @@ Note:  <a href="/posts/in-the-1960s-finland-gave-2000-iu-to-infants-and-no-probl
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
- **Note: VitaminDWiki <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> lists 33 factors, 18 of which are recent** 
+ **Note: VitaminDWiki [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) lists 33 factors, 18 of which are recent** 
 
-### <a href="/posts/rickets-increasing-in-england" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5059">Rickets increasing in England </a> (as vitamin D levels decrease)
+### [Rickets increasing in England ](/tags/rickets-increasing-in-england.html) (as vitamin D levels decrease)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/england-ricksts.jpg" alt="image">
 
 #### See also VitaminDWiki
 
-[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;<a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)
+[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;[Recently changed web pages](/tags/recently-changed-web-pages.html)&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)
 
 ---
 
@@ -353,7 +350,7 @@ $51,000 cost of a pre-term birth OR about $80 of vitamin D (for 20 women): Could
 
  **[Hypothesis – low vitamin D level may indicate Calcium deficiency – Masterjohn II Dec 2013](/posts/hypothesis-low-vitamin-d-level-may-indicate-calcium-deficiency-masterjohn-ii)** &nbsp; &nbsp; &nbsp;had not noticed that low Ca ==> low Vitamin D
 
- **<a href="/posts/vitamindcharts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VitaminDCharts">VitaminDCharts</a>** &nbsp; &nbsp; &nbsp; You can now see VitaminDWiki charts/images extremely quickly.
+ **[VitaminDCharts](/tags/vitamindcharts.html)** &nbsp; &nbsp; &nbsp; You can now see VitaminDWiki charts/images extremely quickly.
 
 You can also zoom in on those charts of interest by typing in words: such as PREGNANCY
 
@@ -367,11 +364,11 @@ You can also zoom in on those charts of interest by typing in words: such as PRE
 
 Available for animals now, but humans still now need a prescription – in the US anyway
 
- **<a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>** &nbsp; &nbsp; &nbsp; 
+ **[Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)** &nbsp; &nbsp; &nbsp; 
 
 no special updates to the most popular web page on VitaminDWiki
 
- **<a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>** &nbsp; &nbsp; &nbsp; nice Grassroots Vitamin K webinar added at the bottom of the page
+ **[Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)** &nbsp; &nbsp; &nbsp; nice Grassroots Vitamin K webinar added at the bottom of the page
 
  **[Top 20 vitamin D papers for 2013](/posts/top-20-vitamin-d-papers-for-2013)**   Dr. Grant
 
@@ -389,11 +386,11 @@ which could perhaps be funded by the Google co-founder who has a 50% chance of g
 
 #### See also VitaminDWiki
 
-[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;<a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)
+[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;[Recently changed web pages](/tags/recently-changed-web-pages.html)&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)
 
 ---
 
-#### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4856">CLICK HERE</a> for previous VitaminDWiki News
+#### [CLICK HERE](/tags/click-here.html) for previous VitaminDWiki News
 
  **Number of views of this page** : 
 

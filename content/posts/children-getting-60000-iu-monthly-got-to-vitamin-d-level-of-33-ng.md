@@ -72,7 +72,7 @@ Dose is related to body weight.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/monthly-vitamin-d-dosing-is-better-than-daily-dosing-for-children-and-elderly-mo-ely-to-be-taken" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017">Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017</a>
+* [Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017](/posts/monthly-vitamin-d-dosing-is-better-than-daily-dosing-for-children-and-elderly-mo-ely-to-be-taken)
 
 * [Bone fractures in children requiring surgery were 55X more likely with low vitamin D – June 2015](/posts/bone-fractures-in-children-requiring-surgery-were-55x-more-likely-with-low-vitamin-d)
 

@@ -110,8 +110,8 @@ Dr. Gerry Schwalfenberg is a family doctor and an assistant clinical professor i
 
 * [Vitamin D blood levels of Canadians – Jan 2013](/posts/vitamin-d-blood-levels-of-canadians)
 
-* <a href="/posts/many-vitamin-d-articles-and-videos-by-schwalfenberg-in-canada" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many vitamin D articles and videos by Schwalfenberg in Canada">Many vitamin D articles and videos by Schwalfenberg in Canada</a>
+* [Many vitamin D articles and videos by Schwalfenberg in Canada](/posts/many-vitamin-d-articles-and-videos-by-schwalfenberg-in-canada)
 
-* <a href="/posts/sun-how-to-maximize" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1051">Sun - how to maximize</a> 14 ways to maximize the sun (as of Aug 2015)
+* [Sun - how to maximize](/tags/sun-how-to-maximize.html) 14 ways to maximize the sun (as of Aug 2015)
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a>
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)

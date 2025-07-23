@@ -51,4 +51,4 @@ Vitamin D is a potent secosteroid hormone with diverse biological functions that
 
 ---
 
-#### See also <a href="/posts/als-fought-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALS fought by vitamin D - many studies">ALS fought by vitamin D - many studies</a>
+#### See also [ALS fought by vitamin D - many studies](/posts/als-fought-by-vitamin-d-many-studies)

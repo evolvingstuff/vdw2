@@ -61,6 +61,6 @@ In 2016, the average ER visit for anaphylaxis costs $1,419, with an average pati
 
 * [Less sun (less vitamin D) more anaphylaxis (severe allergic reaction) – June 2014](/posts/less-sun-less-vitamin-d-more-anaphylaxis-severe-allergic-reaction)
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
 * [Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup](/posts/huge-increases-in-health-problems-risk-factors-include-vitamin-d-antibiotics-and-roundup)

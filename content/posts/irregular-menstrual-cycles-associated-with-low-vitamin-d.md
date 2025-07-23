@@ -38,9 +38,9 @@ Low average level of vitamin D
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Women and Vitamin D">Overview Women and Vitamin D</a>
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d)
 
-* <a href="/posts/menstrual-cycle-disorders-5x-more-likely-in-teens-if-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Menstrual cycle disorders 5X more likely in teens if less than 30 ng of Vitamin D – Nov 2018">Menstrual cycle disorders 5X more likely in teens if less than 30 ng of Vitamin D – Nov 2018</a>
+* [Menstrual cycle disorders 5X more likely in teens if less than 30 ng of Vitamin D – Nov 2018](/posts/menstrual-cycle-disorders-5x-more-likely-in-teens-if-less-than-30-ng-of-vitamin-d)
 
  **See also web** 
 

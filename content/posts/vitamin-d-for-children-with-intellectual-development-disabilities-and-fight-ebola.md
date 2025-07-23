@@ -68,7 +68,7 @@ The incidence of fractures among  **adults’ patients with DD is approximately 
 
 Some of the reason for DD having less vitamin D is that they do not get outdoors as much
 
-* <a href="/posts/children-with-limited-mobility-are-at-high-risk-of-being-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children with limited mobility are at high risk of being vitamin D deficient – June 2012">Children with limited mobility are at high risk of being vitamin D deficient – June 2012</a>
+* [Children with limited mobility are at high risk of being vitamin D deficient – June 2012](/posts/children-with-limited-mobility-are-at-high-risk-of-being-vitamin-d-deficient)
 
 * [Global analysis of disability - most are associated with vitamin D deficiency - Lancet Dec 2012](/posts/global-analysis-of-disability-most-are-associated-with-vitamin-d-deficiency-lancet)
 

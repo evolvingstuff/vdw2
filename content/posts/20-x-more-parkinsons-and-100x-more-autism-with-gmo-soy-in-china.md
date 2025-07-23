@@ -43,7 +43,7 @@ Actually, the GMO is not the problem exactly, but Roundup.
 
 ### See also VitaminDWiki
 
-* <a href="/posts/autism-1-in-40-children-in-the-us-as-of-2016" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism – 1 in 40 children in the US (as of 2016) – Nov 2018">Autism – 1 in 40 children in the US (as of 2016) – Nov 2018</a>
+* [Autism – 1 in 40 children in the US (as of 2016) – Nov 2018](/posts/autism-1-in-40-children-in-the-us-as-of-2016)
 
    * Includes Autism update and  other risk factors
 

@@ -59,24 +59,24 @@ Vitamin D deficiency is very common among psychogeriatric patients, independent 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Vitamin D reduces Alzheimer’s disease in at least 11 ways – Jan 2013](/posts/vitamin-d-reduces-alzheimers-disease-in-at-least-11-ways)
 
-* <a href="/posts/senior-moment-25x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Senior moment" 25X more likely with low vitamin D - Feb 2012">"Senior moment" 25X more likely with low vitamin D - Feb 2012</a>
+* ["Senior moment" 25X more likely with low vitamin D - Feb 2012](/posts/senior-moment-25x-more-likely-with-low-vitamin-d)
 
 * [Short-term memory 2X better for those who took slightly more vitamin D 14 years before – Sept 2014](/posts/short-term-memory-2x-better-for-those-who-took-slightly-more-vitamin-d-14-years-before)
 
-* <a href="/posts/senior-moment-25x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Senior moment" 25X more likely with low vitamin D - Feb 2012">"Senior moment" 25X more likely with low vitamin D - Feb 2012</a> -also authored by  **Annweiler** 
+* ["Senior moment" 25X more likely with low vitamin D - Feb 2012](/posts/senior-moment-25x-more-likely-with-low-vitamin-d) -also authored by  **Annweiler** 
 
 * [Cognitive Impairment 2.4X more likely if low vitamin D – meta-analysis July 2012](/posts/cognitive-impairment-24x-more-likely-if-low-vitamin-d-meta-analysis)
 
 * [Visual memory improved a bit by vitamin D if start with less than 30 ng – RCT Jan 2017](/posts/visual-memory-improved-a-bit-by-vitamin-d-if-start-with-less-than-30-ng-rct)
 
-* <a href="/posts/senior-cognition-improved-somewhat-by-4000-iu-of-vitamin-d-if-initially-less-than-30-ng-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Senior cognition improved somewhat by 4,000 IU of Vitamin D (if initially less than 30 ng) – RCT April 2017">Senior cognition improved somewhat by 4,000 IU of Vitamin D (if initially less than 30 ng) – RCT April 2017</a>
+* [Senior cognition improved somewhat by 4,000 IU of Vitamin D (if initially less than 30 ng) – RCT April 2017](/posts/senior-cognition-improved-somewhat-by-4000-iu-of-vitamin-d-if-initially-less-than-30-ng-rct)
 
 * [Better memory if take lots of vitamin D (senior rats) – May 2015](/posts/better-memory-if-take-lots-of-vitamin-d-senior-rats)
 
-* <a href="/posts/slower-cognitive-decline-if-higher-vitamin-d-1500-adults-5-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Slower cognitive decline if higher vitamin D (1500 adults, 5 years) – Feb 2018">Slower cognitive decline if higher vitamin D (1500 adults, 5 years) – Feb 2018</a>
+* [Slower cognitive decline if higher vitamin D (1500 adults, 5 years) – Feb 2018](/posts/slower-cognitive-decline-if-higher-vitamin-d-1500-adults-5-years)
 
-* <a href="/posts/poor-cognition-26-percent-more-likely-if-low-vitamin-d-29-studies-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor cognition 26 percent more likely if low Vitamin D (29 studies) – meta-analysis July 2017">Poor cognition 26 percent more likely if low Vitamin D (29 studies) – meta-analysis July 2017</a>
+* [Poor cognition 26 percent more likely if low Vitamin D (29 studies) – meta-analysis July 2017](/posts/poor-cognition-26-percent-more-likely-if-low-vitamin-d-29-studies-meta-analysis)

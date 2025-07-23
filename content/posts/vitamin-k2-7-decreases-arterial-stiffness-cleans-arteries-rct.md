@@ -84,11 +84,11 @@ In conclusion, long-term use of MK-7 supplements improves arterial stiffness in 
 
 * [Interview of Vitamin K2 and Calcium Paradox author by Dr. Mercola – Dec 2012](/posts/interview-of-vitamin-k2-and-calcium-paradox-author-by-dr-mercola)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a> many items by Vermeer, who co-authored this paper
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d) many items by Vermeer, who co-authored this paper
 
-* <a href="/posts/arterial-stiffness-reduced-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Arterial stiffness reduced by vitamin D">Arterial stiffness reduced by vitamin D</a>
+* [Arterial stiffness reduced by vitamin D](/posts/arterial-stiffness-reduced-by-vitamin-d)
 
-* <a href="/posts/hypothesis-vascular-calcification-is-associated-with-both-too-much-and-too-little-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – Vascular calcification is associated with both too much and too little vitamin D - May 2018">Hypothesis – Vascular calcification is associated with both too much and too little vitamin D - May 2018</a>\
+* [Hypothesis – Vascular calcification is associated with both too much and too little vitamin D - May 2018](/posts/hypothesis-vascular-calcification-is-associated-with-both-too-much-and-too-little-vitamin-d)\
 
 ---
 

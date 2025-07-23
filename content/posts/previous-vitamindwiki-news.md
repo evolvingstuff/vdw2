@@ -61,7 +61,7 @@
 }
 
 
-### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4259">CLICK HERE</a> for latest news
+### [CLICK HERE](/tags/click-here.html) for latest news
 
 ---
 
@@ -69,13 +69,13 @@
 
 [Populations with more than 50 ng of vitamin D](/posts/populations-with-more-than-50-ng-of-vitamin-d)
 
-&nbsp; &nbsp; &nbsp;The <a href="/posts/vitamin-d-video-being-produced-by-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3914">vitamin D video being produced by VitaminDWiki</a> will probably suggest  **restoring**  vitamin D to 40+ ng
+&nbsp; &nbsp; &nbsp;The [vitamin D video being produced by VitaminDWiki](/tags/vitamin-d-video-being-produced-by-vitamindwiki.html) will probably suggest  **restoring**  vitamin D to 40+ ng
 
 &nbsp; &nbsp; &nbsp;Extremely few people now have an optimum level of vitamin D
 
 &nbsp; &nbsp; &nbsp;Video will probably discuss optimum rather than minimum levels
 
-&nbsp; &nbsp; &nbsp; Would appreciate your pro/con comments on the <a href="/posts/video" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3914">video</a>
+&nbsp; &nbsp; &nbsp; Would appreciate your pro/con comments on the [video](/tags/video.html)
 
 ["Free Range Lard" has lots of vitamin D and is good for you](/posts/free-range-lard-has-lots-of-vitamin-d-and-is-good-for-you) 
 
@@ -105,7 +105,7 @@
 
 [Supplement amounts can now be searched in a database – June 2013](/posts/supplement-amounts-can-now-be-searched-in-a-database) - they now have a large PDF of supplements and health which I purchased
 
-<a href="/posts/headache-with-vitamin-d-may-mean-you-need-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet:  Headache with vitamin D may mean you need Magnesium">Headache with vitamin D may mean you need Magnesium</a> there are 8 items on Headache in VitaminDWiki
+[Headache with vitamin D may mean you need Magnesium](/posts/headache-with-vitamin-d-may-mean-you-need-magnesium) there are 8 items on Headache in VitaminDWiki
 
 [Dementia associated with low vitamin D in two thirds of studies – systematic review May 2013](/posts/dementia-associated-with-low-vitamin-d-in-two-thirds-of-studies-systematic-review) this is the 57th item on Cognition and vitamin D in VitaminDWiki
 
@@ -123,13 +123,13 @@
 
 Feasibility of having a vitamin D shaker (similar to a salt shaker) - for very very low cost vitamin D
 
-### <a href="/posts/new-chart-from-grassroots-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4384">New chart from Grassroots Health</a>
+### [New chart from Grassroots Health](/tags/new-chart-from-grassroots-health.html)
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
 #### See also VitaminDWiki
 
-[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;<a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[Subscribe to newsletter](https://www.VitaminDWiki.com/tiki-newsletters.php?nlId=1&info=1)&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)
+[New web pages](https://vitamindwiki.com/tiki-index.php?page=vdwnews)&nbsp; &nbsp; &nbsp;[Recently changed web pages](/tags/recently-changed-web-pages.html)&nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[Subscribe to newsletter](https://www.VitaminDWiki.com/tiki-newsletters.php?nlId=1&info=1)&nbsp; &nbsp; &nbsp;[About us](https://vitamindwiki.com/tiki-index.php?page=AboutUs)
 
 ---
 
@@ -139,7 +139,7 @@ Feasibility of having a vitamin D shaker (similar to a salt shaker) - for very v
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/home-page-july-22.jpg" alt="image" width="1000">
 
-<a href="/posts/vitamindcharts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VitaminDCharts">VitaminDCharts</a>  can also find just charts with a word on a page - example: charts with autism on the page
+[VitaminDCharts](/tags/vitamindcharts.html)  can also find just charts with a word on a page - example: charts with autism on the page
 
 [Can see all charts in VitaminDWiki](http://www.google.com/search?q=site:VitaminDWiki.com&domains=VitaminDWiki.com&hl=en&source=lnms&tbm=isch&sa=X&ei=qhXkUYb8OMObiQKvh4H4Cw&ved=0CAkQ_AUoAQ&biw=1366&bih=550)
 
@@ -153,7 +153,7 @@ Feasibility of having a vitamin D shaker (similar to a salt shaker) - for very v
 
 [New vitamin D tester approved – not very accurate – July 2013](/posts/new-vitamin-d-tester-approved-not-very-accurate) Their data shows that a reading of 40 ng could actually be anywhere from 35 - 70 ng
 
-[Inflammation](/categories/inflammation) new category 
+[Inflammation](/tags/inflammation.html) new category 
 
 &nbsp; &nbsp; &nbsp;VitaminDWiki admin had inflammation due to a recently torn muscle, recalled that Vitamin D helped with Inflammation, muscle totally healed in <1 week
 
@@ -187,9 +187,9 @@ Feasibility of having a vitamin D shaker (similar to a salt shaker) - for very v
 
 * Bio-Tech Pharmacal is sponsoring VitaminDWiki 
 
-* Also paying for a 4 minute <a href="/posts/vitamin-d-video" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3914">vitamin D video</a>
+* Also paying for a 4 minute [vitamin D video](/tags/vitamin-d-video.html)
 
-> Goal: Reduce many of the <a href="/posts/13-barriers-to-trying-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4083">13 barriers to trying vitamin D</a>
+> Goal: Reduce many of the [13 barriers to trying vitamin D](/tags/13-barriers-to-trying-vitamin-d.html)
 
 > Audience: Ages 40+, around the world, in 5 languages
 
@@ -199,7 +199,7 @@ Feasibility of having a vitamin D shaker (similar to a salt shaker) - for very v
 
 1. Feasability of having a vitamin D shaker (similar to a salt shaker)
 
-1. <a href="/posts/workplace-family-wellness" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4197">Workplace Family Wellness</a>.  Standard Workplace Wellness has about $1.20 return for every $1 invested
+1. [Workplace Family Wellness](/tags/workplace-family-wellness.html).  Standard Workplace Wellness has about $1.20 return for every $1 invested
 
 > Initially it appears to have a $20 return for every $1 invested in vitamin D
 
@@ -235,7 +235,7 @@ Feasibility of having a vitamin D shaker (similar to a salt shaker) - for very v
 
 [Breastfed Infants in Iowa got very little vitamin D, especially if winter or dark skin – July 2013](/posts/breastfed-infants-in-iowa-got-very-little-vitamin-d-especially-if-winter-or-dark-skin)
 
-<a href="/posts/seniors-getting-noon-sun-had-88-percent-chance-of-having-gt-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors getting noon sun had 88 percent chance of having GT 30 ng of vitamin D – Dec 2012">Seniors getting noon sun had 88 percent chance of having GT 30 ng of vitamin D – Dec 2012</a>&nbsp; &nbsp; &nbsp;A simple question can predict vitamin D level!
+[Seniors getting noon sun had 88 percent chance of having GT 30 ng of vitamin D – Dec 2012](/tags/seniors-getting-noon-sun-had-88-percent-chance-of-having-gt-30-ng-of-vitamin-d-dec-2012.html)&nbsp; &nbsp; &nbsp;A simple question can predict vitamin D level!
 
 [Defining normal level of vitamin D (need 4000-5000 IU) - Heaney Spring 2013](/posts/defining-normal-level-of-vitamin-d-need-4000-5000-iu-heaney-spring-2013)
 
@@ -249,7 +249,7 @@ Feasibility of having a vitamin D shaker (similar to a salt shaker) - for very v
 
 [New Zealand GPs being asked for vitamin D testing and prescriptions – June 2013](/posts/new-zealand-gps-being-asked-for-vitamin-d-testing-and-prescriptions)&nbsp; &nbsp; &nbsp; Number of vitamin D tests going up in NZ, Aust, Canada, and US
 
-<a href="/posts/new-vitamin-d-test-will-cost-only-about-20-percent-of-the-current-tests-but-will-han-33-nanogram" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 266">New vitamin D test will cost only about 20% of the current tests - but will only indicate if greater than 33 nanogram</a> 
+[New vitamin D test will cost only about 20% of the current tests - but will only indicate if greater than 33 nanogram](/tags/new-vitamin-d-test-will-cost-only-about-20-of-the-current-tests-but-will-only-indicate-if-greater-than-33-nanogram.html) 
 
 [80 X increase in Vitamin D testing in Australia in a decade - June 2013](/posts/80-x-increase-in-vitamin-d-testing-in-australia-in-a-decade)
 
@@ -281,13 +281,13 @@ includes good overview of vitami D meta-analysis and has the following chart
 
 * [Group is giving only 200 IU of Vitamin D to 70 million women and children to prevent Rickets](/posts/group-is-giving-only-200-iu-of-vitamin-d-to-70-million-women-and-children-to-prevent-rickets)&nbsp; &nbsp; &nbsp;WHO fails to recommend any amount of vitamin D for age 0-6 month 
 
-* [Vitamin D Workshop - June 2013](/posts/vitamin-d-workshop)&nbsp; &nbsp; &nbsp;includes slides, posters, videos on [Autism](/categories/autism) and [Breast Cancer](/categories/breast-cancer), etc.
+* [Vitamin D Workshop - June 2013](/posts/vitamin-d-workshop)&nbsp; &nbsp; &nbsp;includes slides, posters, videos on [Autism](/tags/autism.html) and [Breast Cancer](/tags/breast-cancer.html), etc.
 
 * [Vitamin D conference in England - April 23-25 2014](/posts/vitamin-d-conference-in-england-april-23-25-2014)&nbsp; &nbsp; &nbsp;Public Health emphasis, rather than biochemistry
 
 * [1000 IU of vitamin D (per kg) can indeed be toxic – 1947](/posts/1000-iu-of-vitamin-d-per-kg-can-indeed-be-toxic-1947)&nbsp; &nbsp; &nbsp; Seems that the “per kilogram” clause was forgotten for 50 years 
 
-* <a href="/posts/myth-for-50-years-2000-iu-of-vitamin-d-is-toxic-still-taught-as-fact-in-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010">Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010</a>
+* [Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010](/posts/myth-for-50-years-2000-iu-of-vitamin-d-is-toxic-still-taught-as-fact-in-2010)
 
 * [Those low on vitamin D were 2.4X more likely to gain weight – June 2013](/posts/those-low-on-vitamin-d-were-24x-more-likely-to-gain-weight)&nbsp; &nbsp; &nbsp;Also, vitamin D reduces weight for about 1/3 of women
 
@@ -303,7 +303,7 @@ includes good overview of vitami D meta-analysis and has the following chart
 
 * [Vitamin D Might Be Able to Slash Your Breast Cancer Risk by 90 Percent - Baggerly, Mercola: May 2013](/posts/vitamin-d-might-be-able-to-slash-your-breast-cancer-risk-by-90-percent-baggerly-mercola)&nbsp; &nbsp; &nbsp; Video + transcript
 
-* [Dark Skinned adults need more than 45 minutes of UK summer sun daily – June 2013](/posts/dark-skinned-adults-need-more-than-45-minutes-of-uk-summer-sun-daily)&nbsp; &nbsp; &nbsp;Yet again, <a href="/posts/10-minutes-is-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">10 minutes is not enough</a>
+* [Dark Skinned adults need more than 45 minutes of UK summer sun daily – June 2013](/posts/dark-skinned-adults-need-more-than-45-minutes-of-uk-summer-sun-daily)&nbsp; &nbsp; &nbsp;Yet again, [10 minutes is not enough](/tags/10-minutes-is-not-enough.html)
 
 * [Vitamin D reduced so low that Victorian age diseases are returning](/posts/vitamin-d-reduced-so-low-that-victorian-age-diseases-are-returning)&nbsp; &nbsp; &nbsp; Rickets, etc. (which have been around for centuries)
 
@@ -397,7 +397,7 @@ includes good overview of vitami D meta-analysis and has the following chart
 
 * [New web pages](https://www.VitaminDWiki.com/tiki-index.php?page=vdwnews)
 
-* <a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>
+* [Recently changed web pages](/tags/recently-changed-web-pages.html)
 
 * [Best/Top Vitamin D News](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc) continuously updated
 

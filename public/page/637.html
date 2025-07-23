@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta name=generator content="Hugo 0.140.0"><meta charset=utf-8><title>VitaminDWiki</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>VitaminDWiki</h1><article><div class=post-header><h2 class=post-title><a href=/posts/preterm-birth-cost-for-employers-approximately-50000-dollars.html>Preterm birth cost for employers approximately 50,000 dollars</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/vitamin-d-in-older-women-fractures-frailty-and-mortality-buchebner-thesis-2017.html>Vitamin D In Older Women - Fractures, Frailty and Mortality – Buchebner thesis 2017</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/critically-ill-children-with-low-vitamin-d-25-x-more-likely-to-die-or-stay-2-day-r-meta-analysis.html>Critically ill children with low vitamin D: 2.5 X more likely to die or stay 2 days longer - meta-analysis</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/omega-3-most-humans-and-horses-can-start-with-loading-doses-saving-1-to-3-months.html>Omega-3 – most humans and horses can start with loading doses – saving 1 to 3 months</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/vitamin-d-and-multiple-sclerosis-alzheimers-parkinsons-dementia-and-als-review.html>Vitamin D and Multiple Sclerosis, Alzheimer's, Parkinson's ,Dementia, and ALS - review</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/inflammation-and-immune-responses-to-vitamin-d-perhaps-need-to-measure-active-vitamin-d.html>Inflammation and immune responses to Vitamin D (perhaps need to measure active vitamin D)</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/iom-admits-math-mistake-was-made-in-2009-in-estimating-vitamin-d-but-will-not-ch-recommendations.html>IoM admits math mistake was made in 2009 in estimating Vitamin D, but will not change their recommendations</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/us-admits-math-mistake-was-made-in-2010-in-estimating-vitamin-d-but-will-not-change-recommendations.html>US admits math mistake was made in 2010 in estimating Vitamin D, but will not change recommendations</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/fell-more-often-with-higher-doses-of-vitamin-d-not-statistically-significant.html>Fell more often with higher doses of vitamin D (not statistically significant)</a></h2><span class=post-date>November 2017</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/increased-occurrence-of-graves-and-hashimotos-diseases-if-poor-vitamin-d-genes.html>Increased occurrence of Graves' and Hashimoto's diseases if poor Vitamin D genes</a></h2><span class=post-date>November 2017</span></div></article><nav class=pagination><a href=/page/636.html rel=prev>&#171; Previous</a>
+<a href=/>1</a>
+<span>...</span>
+<a href=/page/634.html>634</a>
+<a href=/page/635.html>635</a>
+<a href=/page/636.html>636</a>
+<a href=/page/637.html class=active>637</a>
+<a href=/page/638.html>638</a>
+<a href=/page/639.html>639</a>
+<a href=/page/640.html>640</a>
+<span>...</span>
+<a href=/page/1442.html>1442</a>
+<a href=/page/638.html rel=next>Next &#187;</a></nav></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

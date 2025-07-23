@@ -42,8 +42,8 @@ The biological actions of 1,25-dihydroxyvitamin D3 (1,25(OH)2D3) serve both to o
 
 * [Bone - Health](/posts/bone-health) category list
 
-* [Genetics](/categories/genetics) category list
+* [Genetics](/tags/genetics.html) category list
 
 * [Search VitaminDWiki for RANKL OR LRP5 OR CBS OR CYP24a1](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=RANKL+OR+LRP5+OR+CBS+OR+CYP24a1&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 266 items as of Jan 2013
 
-* <a href="/posts/cyp24a1-gene-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 gene and Vitamin D - many studies">CYP24A1 gene and Vitamin D - many studies</a>
+* [CYP24A1 gene and Vitamin D - many studies](/posts/cyp24a1-gene-and-vitamin-d-many-studies)

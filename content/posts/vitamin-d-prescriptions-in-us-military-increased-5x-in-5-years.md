@@ -57,7 +57,7 @@ Morioka TY1, Bolin JT1, Attipoe S1, Jones DR1, Stephens MB1, Deuster PA1.
 
 * [Suicide 2X more likely with low vitamin D (in military) – Jan 2013](/posts/suicide-2x-more-likely-with-low-vitamin-d-in-military)
 
-* <a href="/posts/3x-less-multiple-sclerosis-with-enough-vitamin-d-veterans-administration" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X less Multiple Sclerosis with enough vitamin D - Veterans Administration">3X less Multiple Sclerosis with enough vitamin D - Veterans Administration</a>
+* [3X less Multiple Sclerosis with enough vitamin D - Veterans Administration](/posts/3x-less-multiple-sclerosis-with-enough-vitamin-d-veterans-administration)
 
 * [US Army learning about benefits of vitamin D to trauma – Matthews Dec 2013](/posts/us-army-learning-about-benefits-of-vitamin-d-to-trauma-matthews)
 

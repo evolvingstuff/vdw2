@@ -41,17 +41,17 @@ Katie M. Williams, FRCOphth1,2; Graham C. G. Bentham, MA3; Ian S. Young, MD4; et
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/myopia-may-be-related-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myopia may be related to low vitamin D">Myopia may be related to low vitamin D</a>
+* [Myopia may be related to low vitamin D](/posts/myopia-may-be-related-to-low-vitamin-d)
 
-* <a href="/posts/hypothesis-low-vitamin-d-linked-to-myopia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Low vitamin D linked to Myopia">Hypothesis: Low vitamin D linked to Myopia</a>
+* [Hypothesis: Low vitamin D linked to Myopia](/posts/hypothesis-low-vitamin-d-linked-to-myopia)
 
 * [Myopia 2 times more likely if Vitamin D Receptor problem – June 2011](/posts/myopia-2-times-more-likely-if-vitamin-d-receptor-problem)
 
 * [Severe Myopia associated with low vitamin D and smoking (which also reduces vitamin D) - Jan 2014](/posts/severe-myopia-associated-with-low-vitamin-d-and-smoking-which-also-reduces-vitamin-d)
 
-* <a href="/posts/sun-exposure-reduces-myopia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sun exposure reduces Myopia – June 2011">Sun exposure reduces Myopia – June 2011</a>
+* [Sun exposure reduces Myopia – June 2011](/posts/sun-exposure-reduces-myopia)
 
-* <a href="/posts/myopia-dry-eye-and-vitamin-d-phd-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myopia, dry eye and Vitamin D – PhD 2017">Myopia, dry eye and Vitamin D – PhD 2017</a>
+* [Myopia, dry eye and Vitamin D – PhD 2017](/posts/myopia-dry-eye-and-vitamin-d-phd-2017)
 
 * [Myopia boom (still no mention of vitamin D) – Nature April 2015](/posts/myopia-boom-still-no-mention-of-vitamin-d-nature) has the following chart
 

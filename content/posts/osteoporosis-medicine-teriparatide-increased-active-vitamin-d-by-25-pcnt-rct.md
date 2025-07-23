@@ -60,9 +60,9 @@ PMID: 22426307
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1328">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
 ## See also web
 

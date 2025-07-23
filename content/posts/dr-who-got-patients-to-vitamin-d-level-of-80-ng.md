@@ -24,9 +24,9 @@
 
 In priority order, after Vitamin D, he often added 
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a>, 
+* [Magnesium](/posts/overview-magnesium-and-vitamin-d), 
 
-* <a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Iodine</a>
+* [Iodine](/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health)
 
 * [Vitamin C](/posts/vitamin-c-is-important-for-the-common-cold-and-much-else) 
 
@@ -36,14 +36,14 @@ Most patients felt improvement in a few weeks with 10,000 IU daily (2 pills)
 
 The addition of Magnesium was especially helpful with 
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Asthma</a>
+* [Asthma](/posts/overview-asthma-and-vitamin-d)
 
 * [sickle cell](/posts/sickle-cell-and-low-vitamin-d-3-presentations)
 
- **<a href="/posts/4-x-fewer-visits-to-dr-after-getting-high-level-of-vitamin-d-interview-with-transcript" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4 X fewer visits to Dr. after getting high level of vitamin D (Interview with transcript) - Jan 3, 2022">4 X fewer visits to Dr. after getting high level of vitamin D (Interview with transcript) - Jan 3, 2022</a>** 
+ **[4 X fewer visits to Dr. after getting high level of vitamin D (Interview with transcript) - Jan 3, 2022](/posts/4-x-fewer-visits-to-dr-after-getting-high-level-of-vitamin-d-interview-with-transcript)** 
 
 #### [CLICK HERE to return to description of the Vitamin D video](/posts/vitamin-d-details-after-viewing-the-video)
 
 #### See also VitaminDWiki
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)

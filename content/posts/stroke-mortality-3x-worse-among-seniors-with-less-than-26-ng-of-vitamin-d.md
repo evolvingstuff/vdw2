@@ -47,6 +47,6 @@ Conclusion: A low serum 25(OH)D level at stroke onset may be associated with hig
 
 ### See also VitaminDWiki
 
-* <a href="/posts/ischemic-stroke-and-low-vitamin-d-3x-higher-risk-of-poor-outcome-6-x-higher-risk-of-a-second-stroke" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ischemic stroke and low vitamin D – 3X higher risk of poor outcome, 6 X higher risk of a second stroke, Oct 2017">Ischemic stroke and low vitamin D – 3X higher risk of poor outcome, 6 X higher risk of a second stroke, Oct 2017</a>
+* [Ischemic stroke and low vitamin D – 3X higher risk of poor outcome, 6 X higher risk of a second stroke, Oct 2017](/posts/ischemic-stroke-and-low-vitamin-d-3x-higher-risk-of-poor-outcome-6-x-higher-risk-of-a-second-stroke)
 
-* <a href="/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D – May 2019">Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D – May 2019</a>
+* [Death after Ischemic Stroke 2.5 X more likely if less than 10 ng of Vitamin D – May 2019](/posts/death-after-ischemic-stroke-25-x-more-likely-if-less-than-10-ng-of-vitamin-d)

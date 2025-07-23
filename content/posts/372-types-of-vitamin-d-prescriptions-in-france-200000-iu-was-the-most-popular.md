@@ -71,13 +71,13 @@ CONCLUSIONS: Our results reveal a significant variability in the prescriptions f
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-* <a href="/posts/after-245000-free-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test – Oct 2011">After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test – Oct 2011</a> Israel
+* [After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test – Oct 2011](/posts/after-245000-free-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test) Israel
 
-* <a href="/posts/doctors-not-consistent-on-prescribing-vitamin-d-pakistan-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Doctors not consistent on prescribing Vitamin D (Pakistan in this case) July 2018">Doctors not consistent on prescribing Vitamin D (Pakistan in this case) July 2018</a>
+* [Doctors not consistent on prescribing Vitamin D (Pakistan in this case) July 2018](/posts/doctors-not-consistent-on-prescribing-vitamin-d-pakistan-in-this-case)
 
 ---
 

@@ -41,7 +41,7 @@ Doubt that VitaminDWiki will have time to fight to correct these errors, since e
 
 > yet even later in the entry it says that all mammals synthesize vitamin D
 
-> <a href="/posts/here-is-the-overview-of-vitamin-d-and-vets" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Here is the Overview of Vitamin D and Vets</a>
+> [Here is the Overview of Vitamin D and Vets](/tags/here-is-the-overview-of-vitamin-d-and-vets.html)
 
 1. Reference intakes for vitamin D assumes that no synthesis occurs
 
@@ -49,11 +49,11 @@ Doubt that VitaminDWiki will have time to fight to correct these errors, since e
 
 1. Effects of vitamin D on health is uncertain
 
-> <a href="/posts/random-controlled-trials-have-proven" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Random Controlled trials have proven</a> that Vitamin D deals with 23+ health problems 
+> [Random Controlled trials have proven](/tags/random-controlled-trials-have-proven.html) that Vitamin D deals with 23+ health problems 
 
 1. IoM report is solidly based on data
 
-> There has been an <a href="/posts/avalanche-of-10000-studies-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2421">avalanche of >10,000 studies of vitamin D</a> since that study ceased looking at new information (2008)
+> There has been an [avalanche of >10,000 studies of vitamin D](/tags/avalanche-of-10000-studies-of-vitamin-d.html) since that study ceased looking at new information (2008)
 
 1. Mentions that excess vitamin D causes premature aging
 
@@ -63,13 +63,13 @@ Doubt that VitaminDWiki will have time to fight to correct these errors, since e
 
 1. Evidence that vitamin D supplementation for cardiovascular health is poor
 
-> <a href="/posts/overview-of-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Overview of Cardiovascular and Vitamin D</a> points out that most studies did not use enough vitamin D – it includes
+> [Overview of Cardiovascular and Vitamin D](/tags/overview-of-cardiovascular-and-vitamin-d.html) points out that most studies did not use enough vitamin D – it includes
 
 > 187 existing cardiovascular studies, 230 cardiovascular intervention trials with vitamin D, etc.
 
 1. Currently evidence is insufficient to support supplementation in those with cancer
 
-> <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and Vitamin D</a> 
+> [Overview Cancer and Vitamin D](/posts/overview-cancer-and-vitamin-d) 
 
 1. Rickets is a rare disease
 
@@ -77,13 +77,13 @@ Doubt that VitaminDWiki will have time to fight to correct these errors, since e
 
 1. No persuasive evidence of vitamin D levels in chronic pain sufferers
 
-> <a href="/posts/overview-of-chronic-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2462">Overview of Chronic Pain and Vitamin D</a> 
+> [Overview of Chronic Pain and Vitamin D](/tags/overview-of-chronic-pain-and-vitamin-d.html) 
 
 > includes not only evidence of low vitamin D and chronic pain, but also that vitamin D intervention reduces a great many chronic pains
 
 1. Sites an old study in China that vitamin D did not vary with latitude
 
-> New studies have found that <a href="/posts/uv-cancers-etc" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 404">UV, Cancers, etc</a>. do indeed vary with latitude in China
+> New studies have found that [UV, Cancers, etc](/tags/uv-cancers-etc.html). do indeed vary with latitude in China
 
 1. Do not to take vitamin D with primary hyperparathyroidims - references a 1997 paper
 
@@ -111,7 +111,7 @@ Doubt that VitaminDWiki will have time to fight to correct these errors, since e
 
 > 2) That study assumed <20 ng was deficiency.  As of 2010 it is guessed that 80% have less than 30 ng of vitamin D
 
-> 3) Ignores dark skinned Australians <a href="/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2322">Black Sudanese children 350X more likely to have rickets than other Australians</a>
+> 3) Ignores dark skinned Australians [Black Sudanese children 350X more likely to have rickets than other Australians](/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians)
 
 1. Information on the long-term effects is incomplete
 

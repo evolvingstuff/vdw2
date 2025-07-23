@@ -43,7 +43,7 @@ Albayrak, Canan; Albayrak, Davut
 
 * [Important interactions between the liver and vitamin D – May 2013](/posts/important-interactions-between-the-liver-and-vitamin-d)
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a> which has the following chart
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 

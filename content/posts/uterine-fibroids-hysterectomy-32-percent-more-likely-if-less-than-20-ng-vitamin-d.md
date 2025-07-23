@@ -81,7 +81,7 @@ This study was reported on by the July 2018 study, above.
 
 #### See VitaminDWiki
 
-* <a href="/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More Vitamin D to cells should prevent Uterine Fibroids – multiple studies">More Vitamin D to cells should prevent Uterine Fibroids – multiple studies</a>
+* [More Vitamin D to cells should prevent Uterine Fibroids – multiple studies](/posts/more-vitamin-d-to-cells-should-prevent-uterine-fibroids-multiple-studies)
 
 ---
 

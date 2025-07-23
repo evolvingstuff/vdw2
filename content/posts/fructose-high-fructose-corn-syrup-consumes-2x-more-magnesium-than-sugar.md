@@ -42,7 +42,7 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/bad-effects-of-fructose-diet-offset-by-vitamin-d-supplementation-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bad effects of fructose diet offset by Vitamin D supplementation (mice) - June 2019">Bad effects of fructose diet offset by Vitamin D supplementation (mice) - June 2019</a>
+* [Bad effects of fructose diet offset by Vitamin D supplementation (mice) - June 2019](/posts/bad-effects-of-fructose-diet-offset-by-vitamin-d-supplementation-mice)
 
 * [Search VitaminDWiki for HFCS OR "HIGH FRUCTOSE CORN SYRUP"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=HFCS+OR+%22HIGH+FRUCTOSE+CORN+SYRUP%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 134 items as of June 2019
 
@@ -56,13 +56,13 @@
 
 * [Fructose altered hundreds of brain genes (in rats) unless also take Omega-3 – April 2016](/posts/fructose-altered-hundreds-of-brain-genes-in-rats-unless-also-take-omega-3)
 
-* <a href="/posts/fructose-reduces-blood-levels-of-active-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fructose reduces blood levels of active vitamin D">Fructose reduces blood levels of active vitamin D</a> HFCS consumes Magnesium might be the pathway
+* [Fructose reduces blood levels of active vitamin D](/posts/fructose-reduces-blood-levels-of-active-vitamin-d) HFCS consumes Magnesium might be the pathway
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> 34 reasons (1 of which is decreased Magnesium) as of May 2014
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) 34 reasons (1 of which is decreased Magnesium) as of May 2014
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 300px;">
 
- **<a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> has the following 2 charts** 
+ **[Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) has the following 2 charts** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500"> 
 

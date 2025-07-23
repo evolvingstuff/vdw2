@@ -376,7 +376,7 @@ Previously, we have reported that the active vitamin D metabolite, calcitriol 
 
 >  **It is extremely important to restore vitamin D levels if they become low** 
 
-> See: <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>
+> See: [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)
 
 * [Harvoni, a Hepatitis C Drug From Gilead, Wins F.D.A. Approval](http://www.nytimes.com/2014/10/11/business/harvoni-a-hepatitis-c-drug-from-gilead-wins-fda-approval.html) NYT Oct 2014
 

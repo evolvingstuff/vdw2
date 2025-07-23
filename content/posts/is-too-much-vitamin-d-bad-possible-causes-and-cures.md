@@ -41,33 +41,33 @@
 
 #### Possible reasons include:
 
-1.  **Body is out of balance with too much vitamin D – consider adjusting <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">cofactors</a>** 
+1.  **Body is out of balance with too much vitamin D – consider adjusting [cofactors](/posts/low-cost-cofactors-for-vitamin-d)** 
 
->  **<span style="color:#06F;">CURE:</span>**  Increase <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Vitamin K2</a>
+>  **<span style="color:#06F;">CURE:</span>**  Increase [Vitamin K2](/posts/overview-vitamin-k-and-vitamin-d)
 
 > - prevents excess Calcium created by lots of vitamin D from going to wrong places in body (arteries, [prostate](/posts/hypothesis-vitamin-k-will-reduce-prostate-blood-vessel-problems), etc)
 
->  **<span style="color:#06F;">CURE:</span>**  Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a>– which is vital for health but is consumed by Vitamin D
+>  **<span style="color:#06F;">CURE:</span>**  Increase [Magnesium](/posts/overview-magnesium-and-vitamin-d)– which is vital for health but is consumed by Vitamin D
 
->  **<span style="color:#06F;">CURE:</span>**  Reduce <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium</a> – which may be in excess due to high level of vitamin D
+>  **<span style="color:#06F;">CURE:</span>**  Reduce [Calcium](/posts/calcium-hazards-and-bioavailability) – which may be in excess due to high level of vitamin D
 
 1. Large doses of vitamin D taken very infrequently (quarterly, yearly) is known to cause imbalance and problems
 
->  **<span style="color:#06F;">CURE:</span>**  <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin more often than than once every 20 days</a>
+>  **<span style="color:#06F;">CURE:</span>**  [Take vitamin more often than than once every 20 days](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly)
 
 1. The body might change the [Vitamin D Binding Protein](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=143&deep=off&type=) so as to increase vitamin D levels when sick
 
 1. Sick people had attempted to heal themselves by adding Vitamin D or visiting a sunny climate
 
-1. Result of excess <a href="/posts/vitamin-d-needs-some-vitamin-a-but-not-too-much" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D needs some vitamin A, but not too much">Vitamin A</a> reducing the benefits of Vitamin D in the blood
+1. Result of excess [Vitamin A](/posts/vitamin-d-needs-some-vitamin-a-but-not-too-much) reducing the benefits of Vitamin D in the blood
 
 >  **<span style="color:#06F;">CURE:</span>**  Don't get your Vitamin D from cod liver oil - which appears to have too much Vitamin A
 
 > [It appears that only Nordic studies of mortality have found problems with high levels of vitamin D](/posts/mortality-increased-with-highest-levels-of-vitamin-d-article-and-4-letters)
 
-1. Drug dosage often assumes low Vitamin D, High vitamin D increases/decreases <a href="/posts/see-also-some-drugs-change-potency-when-vitamin-d-is-increased-increase-in-a-hormone" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: See also: ((Some drugs change potency when Vitamin D is increased (increase in a hormone)">dose potency</a>
+1. Drug dosage often assumes low Vitamin D, High vitamin D increases/decreases [dose potency](/tags/dose-potency.html)
 
-> Example: Vitamin D can greatly <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">amplify various Chemo drugs, making them deadly</a>
+> Example: Vitamin D can greatly [amplify various Chemo drugs, making them deadly](/posts/chemotherapy-and-vitamin-d-many-studies)
 
 >  **<span style="color:#06F;">CURE:</span>**  Have doctors adjust prescribed dosage when a patient is taking lots of vitamin D
 
@@ -77,7 +77,7 @@
 
 >  **<span style="color:#06F;">CURE:</span>** Take Magnesium
 
-1. Had been taking <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Vitamin D2</a> - which is known to cause problems
+1. Had been taking [Vitamin D2](/posts/overview-vitamin-d3-not-d2) - which is known to cause problems
 
 >  **<span style="color:#06F;">CURE:</span>** mTake Vitamin D3 instead of D2
 
@@ -85,7 +85,7 @@
 
 > See PubMed item below on this page
 
-1. <a href="/posts/cardiovascular-death-40-percent-more-likely-in-a-decade-if-chest-pain-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular death 40 percent more likely in a decade if chest pain and low Vitamin D - March 2018">Statins used in last decade of life decreased the vitamin D levels</a>
+1. [Statins used in last decade of life decreased the vitamin D levels](/posts/cardiovascular-death-40-percent-more-likely-in-a-decade-if-chest-pain-and-low-vitamin-d)
 
 >  **<span style="color:#06F;">CURE:</span>**  Do noit take statins or take more vitamin D
 

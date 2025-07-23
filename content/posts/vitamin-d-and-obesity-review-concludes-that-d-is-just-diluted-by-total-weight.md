@@ -61,17 +61,17 @@ and calculated that an input of  **<span style="color:#00F;">70-80 IU/kg/day </s
 
 * [Obese need more Vitamin D: Volume dilution, IU per pound, or BMI – RCT Dec 2012](/posts/obese-need-more-vitamin-d-volume-dilution-iu-per-pound-or-bmi-rct)
 
-* <a href="/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X as much vitamin D to get the same response – June 2012">Obese need 2X as much vitamin D to get the same response – June 2012</a>
+* [Obese need 2X as much vitamin D to get the same response – June 2012](/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/absurdity-of-600-iu-vitamin-d-for-10-lb-infant-or-300-lb-adult" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Absurdity of 600 IU vitamin D for 10 lb infant or 300 lb adult - Mar 2011">Absurdity of 600 IU vitamin D for 10 lb infant or 300 lb adult - Mar 2011</a>
+* [Absurdity of 600 IU vitamin D for 10 lb infant or 300 lb adult - Mar 2011](/posts/absurdity-of-600-iu-vitamin-d-for-10-lb-infant-or-300-lb-adult)
 
 * [Off Topic: Smaller people may live longer due to more benefit from supplements and drugs](/posts/off-topic-smaller-people-may-live-longer-due-to-more-benefit-from-supplements-and-drugs)
 
 > Some vitamin D experts, like the one in this study, believe that vitamin D supplementation should be based on weight
 
-* <a href="/posts/recommend-100-iu-of-vitamin-d-per-kg-of-infant-poland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Recommend 100 IU of vitamin D per kg of infant - Poland July 2011">Recommend 100 IU of vitamin D per kg of infant - Poland July 2011</a> which includes the following chart (note  **<span style="color:#00F;">100 IU/kg/day</span>** )
+* [Recommend 100 IU of vitamin D per kg of infant - Poland July 2011](/posts/recommend-100-iu-of-vitamin-d-per-kg-of-infant-poland) which includes the following chart (note  **<span style="color:#00F;">100 IU/kg/day</span>** )
 
 > (Note: virtually all vets calculate the vitamin D supplements on the animal weight)
 

@@ -55,7 +55,7 @@ Interpretation: Local UVB radiation of the skin influences systemic immune react
 
 #### See also VitaminDWiki
 
-* [Autoimmune](/categories/autoimmune) category listing with associated searches
+* [Autoimmune](/tags/autoimmune.html) category listing with associated searches
 
 * [Review of Autoimmune diseases, solar radiation and vitamin D – Schwalfenberg 2012](/posts/review-of-autoimmune-diseases-solar-radiation-and-vitamin-d-schwalfenberg-2012)
 
@@ -69,9 +69,9 @@ Interpretation: Local UVB radiation of the skin influences systemic immune react
 
 * [Tuberculosis varies with UVB in Australia - March 2013](/posts/tuberculosis-varies-with-uvb-in-australia)
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Beneficial effects of UV radiation other than via vitamin D production – June 2012">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
 * [Video by Dr. Coimbra – 95 percent of auto-immune cured with vitamin D in high doses - April 2014](/posts/video-by-dr-coimbra-95-percent-of-auto-immune-cured-with-vitamin-d-in-high-doses)
 

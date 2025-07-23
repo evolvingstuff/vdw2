@@ -48,13 +48,13 @@ Edited* by Hector F. DeLuca, University of Wisconsin–Madison, Madison, WI, and
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Cognition and vitamin D – summary of expert opinions – July 2014](/posts/cognition-and-vitamin-d-summary-of-expert-opinions)
 
 * [Vitamin D reduces Alzheimer’s disease in at least 11 ways – Jan 2013](/posts/vitamin-d-reduces-alzheimers-disease-in-at-least-11-ways)
 
-* [Cognitive](/categories/cognitive) category listing with associated searches
+* [Cognitive](/tags/cognitive.html) category listing with associated searches
 
 [Vitamin D Council has a good description of this experiment - behind a paywall](https://www.vitamindcouncil.org/blog/new-study-in-mice-hints-at-a-causal-relationship-for-vitamin-d-status-and-cognitive-function/)
 

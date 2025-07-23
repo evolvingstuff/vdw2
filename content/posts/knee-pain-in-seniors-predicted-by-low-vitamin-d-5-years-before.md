@@ -66,14 +66,14 @@ Conclusions Moderate vitamin D deficiency independently predicts incident, or wo
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [Blacks had lower vitamin D and more quantifiable pain than whites with knee osteoarthritis – Nov 2012](/posts/blacks-had-lower-vitamin-d-and-more-quantifiable-pain-than-whites-with-knee-osteoarthritis) Blacks typically have lower levels of vitamin D than whites
 
 * [Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013](/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review)
 
-* <a href="/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011">Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011</a>
+* [Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011](/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d)
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
 * [Knee osteoarthritis treated with vitamin D, weekly 50,000 IU – May 2015](/posts/knee-osteoarthritis-treated-with-vitamin-d-weekly-50000-iu)

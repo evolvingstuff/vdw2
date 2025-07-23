@@ -41,9 +41,9 @@
 
 >  **They are consuming more vitamin D and are going to the Osteo doctor 36% less** 
 
-* <a href="/posts/kaiser-working-to-decrease-hip-and-other-fractures" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kaiser working to decrease hip and other fractures – Nov 2011">Kaiser working to decrease hip and other fractures – Nov 2011</a>
+* [Kaiser working to decrease hip and other fractures – Nov 2011](/posts/kaiser-working-to-decrease-hip-and-other-fractures)
 
-> <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs will save millions of dollars with vitamin D</a> Kaiser is a large HMO
+> [HMOs will save millions of dollars with vitamin D](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d) Kaiser is a large HMO
 
 ---
 

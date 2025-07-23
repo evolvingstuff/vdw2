@@ -23,7 +23,6 @@
         "dosage",
         "fertility sperm",
         "high dose",
-        "in vitro fertilization",
         "intervention",
         "metabolic",
         "multiple sclerosis",
@@ -38,11 +37,11 @@
 
 #### Can vitamin D help me get pregnant?
 
-Yes – <a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">vitamin D improves the fertility</a> of both the [man](/posts/reproduction-function-in-males-improved-by-vitamin-d-review) and the woman, in both <a href="/posts/ivf-4x-more-successful-for-white-women-with-lots-of-vitamin-d-oct-2012-ivf-and-n-tc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: IVF 4X more successful for white women with lots of vitamin D – Oct 2012 IVF)) and natural conception. ((Fertility problem (PCOS) reduced by vitamin D, etc: many studies">Vitamin D also helps with PCOS</a>
+Yes – [vitamin D improves the fertility](/posts/vitamin-d-and-fertility-a-systematic-review) of both the [man](/posts/reproduction-function-in-males-improved-by-vitamin-d-review) and the woman, in both [Vitamin D also helps with PCOS](/tags/vitamin-d-also-helps-with-pcos.html)
 
 #### Are there side effects, how can I avoid them?
 
-<a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">The side effects of vitamin D are extremely rare</a>, and mild, even during pregnancy
+[The side effects of vitamin D are extremely rare](/posts/overview-rare-allergic-reaction-to-vitamin-d), and mild, even during pregnancy
 
 #### I cannot afford the $20 for vitamin D during my pregnancy – what are my options?
 

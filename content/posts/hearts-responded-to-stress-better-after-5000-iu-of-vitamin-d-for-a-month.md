@@ -100,7 +100,7 @@ Conclusions: Vitamin D deficiency is associated with suppression of resting card
 
 ## See also VitaminDWik
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 ## See also web
 

@@ -56,7 +56,7 @@ Noted. There is probably an error: 59% + 56% is > 100%
 
 * [Rheumatoid arthritis is 40 percent more likely if vitamin D Receptor problem – 2 meta-analyses 2015](/posts/rheumatoid-arthritis-is-40-percent-more-likely-if-vitamin-d-receptor-problem-2-meta-analyses-2015)
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
 </div>
 

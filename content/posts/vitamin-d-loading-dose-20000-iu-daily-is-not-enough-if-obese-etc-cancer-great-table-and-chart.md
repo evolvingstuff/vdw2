@@ -73,19 +73,19 @@ Yet again we see that a fixed dose dose not help about half ot the people
 
 > A good level of vitamin D years earlier would have PREVENTED the Lung Cancer
 
-* <a href="/posts/overview-lung-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Lung cancer and vitamin D">Overview Lung cancer and vitamin D</a>
+* [Overview Lung cancer and vitamin D](/posts/overview-lung-cancer-and-vitamin-d)
 
 * [Rapid Normalization of Vitamin D in Critically Ill Children (10,000 IU per kg) – clinical trial](/posts/rapid-normalization-of-vitamin-d-in-critically-ill-children-10000-iu-per-kg-clinical-trial)
 
 > Some studies have learned to vary the dose size with weight
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 * [18 fewer hospital days if given 500,000 IU of vitamin D while ventilated in ICU – RCT June 2016](/posts/18-fewer-hospital-days-if-given-500000-iu-of-vitamin-d-while-ventilated-in-icu-rct)
 
 > Loading Dose given over a span of 5 days
 
-* <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy and vitamin D - many studies</a>
+* [Chemotherapy and vitamin D - many studies](/posts/chemotherapy-and-vitamin-d-many-studies)
 
 > High levels of vitamin D increase the impact of Chemotherapy on the body
 

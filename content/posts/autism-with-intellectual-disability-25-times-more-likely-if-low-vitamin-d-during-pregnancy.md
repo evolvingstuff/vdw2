@@ -41,15 +41,15 @@ Of ~509,000 children born in Sweden
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
-* <a href="/posts/autism-more-frequent-from-mothers-who-are-dark-skinned-or-veiled" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism more frequent from mothers who are dark skinned or veiled – Jan 2011">Autism more frequent from mothers who are dark skinned or veiled – Jan 2011</a>
+* [Autism more frequent from mothers who are dark skinned or veiled – Jan 2011](/posts/autism-more-frequent-from-mothers-who-are-dark-skinned-or-veiled)
 
 * [Autism is associated with low vitamin D – meta-analysis Oct 2015](/posts/autism-is-associated-with-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies)
 
 </div>
 

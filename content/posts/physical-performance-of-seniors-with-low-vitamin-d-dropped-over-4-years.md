@@ -55,8 +55,8 @@ PMID: 23118104
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Loss of muscle strength –sarcopenia – one of the suspects is vitamin D – Aug 2012](/posts/loss-of-muscle-strength-sarcopenia-one-of-the-suspects-is-vitamin-d)

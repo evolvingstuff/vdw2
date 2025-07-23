@@ -52,4 +52,4 @@ PMID: 25136806
 
 ## See also VitaminDWiki
 
-* <a href="/posts/after-245000-free-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test – Oct 2011">After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test – Oct 2011</a> similar 3 years before.
+* [After 245,000 free vitamin D tests, 121,000 supplemented, but only 5,400 had 2nd test – Oct 2011](/posts/after-245000-free-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test) similar 3 years before.

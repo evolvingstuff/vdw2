@@ -42,13 +42,13 @@ Coskun Benlidayi I1, Basaran S1, Seydaoglu G2, Guzel R1.
 
 * [Vitamin D repaired nerve in rat (50,000 IU daily dose equivalent for human) – June 2013](/posts/vitamin-d-repaired-nerve-in-rat-50000-iu-daily-dose-equivalent-for-human)
 
-* <a href="/posts/spinal-cord-injuries-may-need-more-vitamin-d-than-others" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spinal cord injuries may need more vitamin D than others – June 2012">Spinal cord injuries may need more vitamin D than others – June 2012</a>
+* [Spinal cord injuries may need more vitamin D than others – June 2012](/posts/spinal-cord-injuries-may-need-more-vitamin-d-than-others)
 
 * [Ischaemic stroke – Vitamin D doubled survival (Injection followed by monthly 60,000 IU) – RCT Aug 2016](/posts/ischaemic-stroke-vitamin-d-doubled-survival-injection-followed-by-monthly-60000-iu-rct)
 
 * [Links between Vitamin D Deficiency and Cardiovascular Diseases – April 2015](/posts/links-between-vitamin-d-deficiency-and-cardiovascular-diseases)
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 </div>
 

@@ -61,7 +61,7 @@ Vitamin D may not only reflect disease but may also serve as a prognostic indica
 
 * [Vitamin D Deficiency may be an Independent Risk Factor for Arterial Disease – July 2012](/posts/vitamin-d-deficiency-may-be-an-independent-risk-factor-for-arterial-disease)
 
-* <a href="/posts/does-c-reactive-protein-increase-modestly-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does C-Reactive Protein increase modestly with vitamin D – Jan 2012">Does C-Reactive Protein increase modestly with vitamin D – Jan 2012</a>
+* [Does C-Reactive Protein increase modestly with vitamin D – Jan 2012](/posts/does-c-reactive-protein-increase-modestly-with-vitamin-d)
 
 * [7X increased chance of death if coronary artery disease and low vitamin D – Oct 2013](/posts/7x-increased-chance-of-death-if-coronary-artery-disease-and-low-vitamin-d)
 
@@ -69,7 +69,7 @@ Vitamin D may not only reflect disease but may also serve as a prognostic indica
 
 * [Low Vitamin D associated with a variety of causes of death a decade later – Feb 2013](/posts/low-vitamin-d-associated-with-a-variety-of-causes-of-death-a-decade-later)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a> which contains the following
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d) which contains the following
 
 >  **MAYO Clinic: Pathways from vitamin D Deficiency to CVD** 
 

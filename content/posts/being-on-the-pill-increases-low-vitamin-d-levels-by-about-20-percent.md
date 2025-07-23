@@ -52,8 +52,8 @@ In conclusion: Use of HC is associated with 13%–25% higher concentrations of t
 
 * [Search VitaminDWiki for Contraceptive](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=contraceptive&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 127 items Dec 2014
 
-* <a href="/posts/oral-contraceptives-may-reduce-or-increase-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral contraceptives may reduce or increase vitamin D">Oral contraceptives may reduce or increase vitamin D</a>
+* [Oral contraceptives may reduce or increase vitamin D](/posts/oral-contraceptives-may-reduce-or-increase-vitamin-d)
 
-* <a href="/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012">Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012</a>
+* [Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012](/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis)
 
 * [Hormonal contraceptives associated with higher vitamin D levels - 2013, 2018](/posts/hormonal-contraceptives-associated-with-higher-vitamin-d-levels-2013-2018)

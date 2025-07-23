@@ -1,0 +1,67 @@
+<!doctype html><html><head><meta charset=utf-8><title>Obesity also increases the risk of mental health problems (probably Vitamin D)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Obesity also increases the risk of mental health problems (probably Vitamin D)</h1><time>June 4, 2023</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#obesity-as-pleiotropic-risk-state-for-metabolic-and-mental-health-throughout-life>Obesity as pleiotropic risk state for metabolic and mental health throughout life</a></li><li><a href=#trial-site-news-review-of-the-study>Trial site news review of the study</a></li><li><a href=#low-vitamin-d-due-to-obesity-etc-causes-several-mental-health-problems>Low Vitamin D (due to obesity, etc) causes several mental health problems:</a></li></ul></li></ul></li></ul></nav><hr><h4 id=obesity-as-pleiotropic-risk-state-for-metabolic-and-mental-health-throughout-life>Obesity as pleiotropic risk state for metabolic and mental health throughout life</h4><p>Translational Psychiatry volume 13, Article number: 175 (2023)Michael Leutner, Elma Dervic, Luise Bellach, Peter Klimek, Stefan Thurner & Alexander Kautzky</p><p>Obesity, a highly prevalent disorder and central diagnosis of the metabolic syndrome, is linked to mental health by clinical observations and biological pathways. Patients with a diagnosis of obesity may show long-lasting increases in risk for receiving psychiatric co-diagnoses. Austrian national registry data of inpatient services from 1997 to 2014 were analyzed to detect associations between a hospital diagnosis of obesity (ICD-10: E66) and disorders grouped by level-3 ICD-10 codes. Data were stratified by age decades and associations between each pair of diagnoses were computed with the Cochran-Mantel-Haenszel method, providing odds ratios (OR) and p values corrected for multiple testing. Further, directions of the associations were assessed by calculating time-order-ratios. Receiving a diagnosis of obesity significantly increased the odds for a large spectrum of psychiatric disorders across all age groups, including depression, psychosis-spectrum, anxiety, eating and personality disorders (all pcorr &lt; 0.01, all OR > 1.5). For all co-diagnoses except for psychosis-spectrum, obesity was significantly more often the diagnosis received first. Further, significant sex differences were found for most disorders, with women showing increased risk for all disorders except schizophrenia and nicotine addiction. In addition to the well-recognized role in promoting disorders related to the metabolic syndrome and severe cardiometabolic sequalae, obesity commonly precedes severe mental health disorders. Risk is most pronounced in young age groups and particularly increased in female patients. Consequently, thorough screening for mental health problems in patients with obesity is urgently called for to allow prevention and facilitate adequate treatment.</p><p><strong>Obesity concurrent health problems</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/obesity-co-diagnosis.jpg alt=image width=500><p><strong>Note: Virtually all of the above are associated with low vitamin D</strong></p><p><strong>Suspect that many would decrease if Obese persons were to take enough Vitamin D</strong></p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/obesity-as-pleiotropic-risk-state-for-metabolic-and-mental-health-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=trial-site-news-review-of-the-study>Trial site news review of the study</h4><p><strong><a href=https://www.trialsitenews.com/a/obesity-significantly-increases-risk-of-developing-mental-health-disorders-across-all-age-groups-ff8e3190>Obesity Significantly Increases Risk of Developing Mental Health Disorders Across All Age Groups</a></strong></p><ul><li><p>&ldquo;Researchers analyzed a population-wide national registry of inpatient hospitalizations in Austria from 1997 to 2014 "</p></li><li><p>&ldquo;Receiving a diagnosis of obesity significantly increased the odds for a large spectrum of psychiatric disorders across all age groups, including depression, psychosis-spectrum, anxiety, eating and personality disorders. For all co-diagnoses except for psychosis-spectrum, obesity was significantly more often the diagnosis received first. Further, significant sex differences were found for most disorders, with women showing increased risk for all disorders except schizophrenia and nicotine addiction.&rdquo;</p></li></ul><hr><h4 id=low-vitamin-d-due-to-obesity-etc-causes-several-mental-health-problems>Low Vitamin D (due to obesity, etc) causes several mental health problems:</h4><p><a href=/tags/depression.html>Depression</a></p><p><a href=https://VitaminDWiki.com/Depression#Anxiety_studies>Anxiety</a></p><p><a href=/posts/overview-schizophrenia-and-vitamin-d>Schizophrenia</a></p><p><a href=/posts/smoking-reduces-vitamin-d-many-studies>Addiction to smoking</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/anxiety.html><span class=tag>anxiety</span></a>
+<a href=/tags/depression.html><span class=tag>depression</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/metabolic-conditions.html><span class=tag>metabolic conditions</span></a>
+<a href=/tags/metabolic-syndrome.html><span class=tag>metabolic syndrome</span></a>
+<a href=/tags/mood-disorders.html><span class=tag>mood disorders</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/smoking.html><span class=tag>smoking</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>anxiety, depression, health risk, metabolic, metabolic conditions, metabolic syndrome, mood disorders, obesity, smoking, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

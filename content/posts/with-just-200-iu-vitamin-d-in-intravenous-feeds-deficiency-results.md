@@ -18,80 +18,22 @@
         "Overview for doctors",
         "Top news",
         "Trauma and surgery",
-        "autoimmune",
         "blood levels",
         "bone",
         "bone mineral density",
         "child",
         "childhood viruses",
         "dosage",
-        "high dose",
-        "intervention",
         "magnesium",
         "magnesium and viruses",
-        "multiple sclerosis",
-        "pediatric autoimmune",
-        "therapeutic intervention",
         "ultraviolet light",
         "virus",
         "vitamin d",
         "vitamin d and viruses",
-        "vitamin d blood test",
-        "vitamin k",
-        "vitamin k and viruses"
+        "vitamin d blood test"
     ]
 }
 
-
-!!Recommendations for Changes in Commercially Available Parenteral Multivitamin and Multi–Trace Element Products
-__A.S.P.E.N. Position Paper__
-Nutr Clin Pract August 2012 vol. 27 no. 4 440-491
-Vincent W. Vanek, MD, FACS, FASPEN (Chair)1
-Peggy Borum, PhD, FASPEN2
-Alan Buchman, MD, MSPH, FACP, FACG, FACN, AGAF3
-Theresa A. Fessler, MS, RD, CNSC4
-Lyn Howard, MB, FRCP5
-Khursheed Jeejeebhoy, MBBS, PhD, FRCPC6
-Marty Kochevar, MS, RPh, BCNSP7
-Alan Shenkin, MB, ChB, PhD, FRCP, FRCPath8
-Christina J. Valentine, MD, MS, RD9
-__Novel Nutrient Task Force, Parenteral Multi-Vitamin and Multi–Trace Element Working Group__
-American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) Board of Directors
-1 St. Elizabeth Health Center, Youngstown, Ohio
-2 University of Florida, Gainesville, Florida
-3 Northwestern University School of Medicine, Chicago, Illinois
-4 University of Virginia, Charlottesville, Virginia
-5 Albany Medical College, Albany, New York
-6 Polyclinic, Toronto, Ontario
-7 A.S.P.E.N., Silver Spring, Maryland
-8 Royal Liverpool University Hospital, Liverpool, England
-9 University of Cincinnati, Cincinnati, Ohio
-Vincent W. Vanek, St. Elizabeth Health Center, 1044 Belmont Ave, PO Box 1790, Youngstown, OH 44501-1790; e-mail: vince_vanek@hmis.org.
-
-The parenteral multivitamin preparations that are commercially available in the United States (U.S.) meet the requirements for most patients who receive parenteral nutrition (PN). 
-
-However, a separate parenteral vitamin D preparation (cholecalciferol or ergocalciferol) should be made available for treatment of patients with vitamin D deficiency unresponsive to oral vitamin D supplementation. 
-
-Carnitine is commercially available and should be routinely added to neonatal PN formulations. 
-
-Choline should also be routinely added to adult and pediatric PN formulations; however, a commercially available parenteral product needs to be developed. 
-
-The parenteral multi–trace element (TE) preparations that are commercially available in the U.S. require significant modifications. Single-entity trace element products can be used to meet individual patient needs when the multiple-element products are inappropriate (see Summary/A.S.P.E.N. Recommendations section for details of these proposed modifications).
-
-__~~#00F:PDF is attached at the bottom of this page~~__
-!!! From the PDF: Current intravenous feeding
-__~~#F00:Only 200 IU of vitamin D, and it might be Vitamin D2, the PDF does not indicate~~__
-__~~#F00:No~~__ ((Overview Vitamin K and Vitamin D">Vitamin K2</a> – apparently just vitamin K1
-
- **<span style="color:#F00;">No</span>**  <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a>
-
- **<span style="color:#F00;">No</span>**  <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium</a> – perhaps cannot make into a liquid
-
- **<span style="color:#F00;">No</span>**  Boron – perhaps cannot make into a liquid
-
- **<span style="color:#F00;">No</span>**  Silcon – perhaps cannot make into a liquid
-
----
 
 ## Vitamin D deficiency in patients receiving home parenteral nutrition.
 

@@ -65,11 +65,11 @@ Perhaps consider a human with 30 ng Vitamin D level getting  a 60% increase ( 48
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Fewer mice became prediabetic when given Vitamin D, even when on high fat, high sugar diet – March 2017](/posts/fewer-mice-became-prediabetic-when-given-vitamin-d-even-when-on-high-fat-high-sugar-diet)
 
-* [Diabetes](/categories/diabetes) category listing with associated searches
+* [Diabetes](/tags/diabetes.html) category listing with associated searches
 
 * [Diabetes 3.5X less likely if more than 25 ng Vitamin D – Sept 2012](/posts/diabetes-35x-less-likely-if-more-than-25-ng-vitamin-d)
 
@@ -79,7 +79,7 @@ Perhaps consider a human with 30 ng Vitamin D level getting  a 60% increase ( 48
 
 * [Type 1 diabetes starting to decrease in Finland, they started Vitamin D fortification in 2003 – July 2013](/posts/type-1-diabetes-starting-to-decrease-in-finland-they-started-vitamin-d-fortification-in-2003)
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a> has the following
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d) has the following
 
 > Lethal dose which will kill half of the rats (LD-50) = 17 mg/kg of rat = 680,000 IU per kg 
 

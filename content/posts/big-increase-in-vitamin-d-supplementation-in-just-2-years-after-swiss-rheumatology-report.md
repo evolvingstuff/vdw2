@@ -67,12 +67,12 @@ PMID:     24317878
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
 * [100 percent of rheumatoid arthritis patients with very low vitamin D had very severe RA – Jan 2013](/posts/100-percent-of-rheumatoid-arthritis-patients-with-very-low-vitamin-d-had-very-severe-ra)
 
-* <a href="/posts/300000-iu-every-3-months-helped-raise-vitamin-d-levels-in-half-of-ra-patients" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 300,000 IU every 3 months helped raise vitamin D levels in half of RA patients – April 2012">300,000 IU every 3 months helped raise vitamin D levels in half of RA patients – April 2012</a>
+* [300,000 IU every 3 months helped raise vitamin D levels in half of RA patients – April 2012](/posts/300000-iu-every-3-months-helped-raise-vitamin-d-levels-in-half-of-ra-patients)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-* <a href="/posts/300000-iu-vitamin-d-helped-seniors-in-many-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 300,000 IU vitamin D helped seniors in many ways – May 2011">300,000 IU vitamin D helped seniors in many ways – May 2011</a> Stoll was one of the authors
+* [300,000 IU vitamin D helped seniors in many ways – May 2011](/posts/300000-iu-vitamin-d-helped-seniors-in-many-ways) Stoll was one of the authors

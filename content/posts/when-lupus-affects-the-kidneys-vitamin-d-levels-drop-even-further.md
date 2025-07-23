@@ -41,6 +41,6 @@ PMID: 23179257
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 There are many ways of maintining or increasing vitamin D levels in blood even when kidneys are not functioning well.

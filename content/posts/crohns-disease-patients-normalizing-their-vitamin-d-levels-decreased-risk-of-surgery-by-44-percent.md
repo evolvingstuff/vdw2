@@ -56,14 +56,14 @@ PMID:     23751398
 
 * [Crohn’s helped by 5000 IU vitamin D – April 2013](/posts/crohns-helped-by-5000-iu-vitamin-d)
 
-* <a href="/posts/about-40-percent-more-likely-to-get-crohns-disease-or-uc-if-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: About 40 percent more likely to get Crohn’s Disease or UC if have low vitamin D – March 2012">About 40 percent more likely to get Crohn’s Disease or UC if have low vitamin D – March 2012</a>
+* [About 40 percent more likely to get Crohn’s Disease or UC if have low vitamin D – March 2012](/posts/about-40-percent-more-likely-to-get-crohns-disease-or-uc-if-have-low-vitamin-d)
 
-* <a href="/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D might reduce military costs for UC and CD – June 2011">Vitamin D might reduce military costs for UC and CD – June 2011</a>
+* [Vitamin D might reduce military costs for UC and CD – June 2011](/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd)
 
 * [Vitamin D Intervention Clinical Trials - Feb 2013](/posts/vitamin-d-intervention-clinical-trials)
 
 * [Pregnancy complications reduced with 4000 IU of vitamin D - 2RCT Jan 2013](/posts/pregnancy-complications-reduced-with-4000-iu-of-vitamin-d-2rct)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 76 successful disease interventions with vitamin D as of Jan 2017
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 76 successful disease interventions with vitamin D as of Jan 2017
 
-* <a href="/posts/crohns-disease-4x-less-likely-to-reoccur-after-surgery-if-good-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crohn's Disease 4X less likely to reoccur after surgery if good level of vitamin D – Feb 2021">Crohn's Disease 4X less likely to reoccur after surgery if good level of vitamin D – Feb 2021</a>
+* [Crohn's Disease 4X less likely to reoccur after surgery if good level of vitamin D – Feb 2021](/posts/crohns-disease-4x-less-likely-to-reoccur-after-surgery-if-good-level-of-vitamin-d)

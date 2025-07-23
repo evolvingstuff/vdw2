@@ -44,7 +44,7 @@ But, unfortunately, may increase the costs due to low vitamin D by 10X to 100X a
 
 * [RCT confirms that Australians need at least 2000 IU vitamin D – Dec 2012](/posts/rct-confirms-that-australians-need-at-least-2000-iu-vitamin-d) near to New Zealand
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a> which has the following quote
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d) which has the following quote
 
 >  **<span style="color:#00F;">"It is difficult to get a man to understand something when his salary is dependent upon his not understanding it”</span>**  &nbsp;Upton Sinclair
 

@@ -96,7 +96,7 @@ The present review reveals considerable variability in blood levels of EPA + DHA
 
 > would have been nice if the study on this page also included information of Onega-6 to Onega-3 ratios
 
-* <a href="/posts/omega-3-levels-are-sub-optimal-in-99-percent-of-americans" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 levels are sub-optimal in 99 percent of Americans – Aug 2017">Omega-3 levels are sub-optimal in 99 percent of Americans – Aug 2017</a>
+* [Omega-3 levels are sub-optimal in 99 percent of Americans – Aug 2017](/posts/omega-3-levels-are-sub-optimal-in-99-percent-of-americans)
 
 * [Football Brain injuries prevented by Omega-3 – RCT Jan 2016](/posts/football-brain-injuries-prevented-by-omega-3-rct)
 

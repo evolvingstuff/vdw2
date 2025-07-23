@@ -56,9 +56,9 @@ Of course, walking more or taking more vitamin D will reduce the chance of breas
 
 * [Breast Cancer chance decreased 16 percent for every extra ng of vitamin D – Jan 2013](/posts/breast-cancer-chance-decreased-16-percent-for-every-extra-ng-of-vitamin-d)
 
-* <a href="/posts/how-vitamin-d-reduces-chance-of-breast-cancer-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How Vitamin D reduces chance of breast cancer – review May 2012">How Vitamin D reduces chance of breast cancer – review May 2012</a>
+* [How Vitamin D reduces chance of breast cancer – review May 2012](/posts/how-vitamin-d-reduces-chance-of-breast-cancer-review)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a> women with dark skins need to walk at least 3X as long to get 14% reduction
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d) women with dark skins need to walk at least 3X as long to get 14% reduction
 
 * [Increase your vitamin D from the sun by wearing a tan-through instead of standard shirt](/posts/increase-your-vitamin-d-from-the-sun-by-wearing-a-tan-through-instead-of-standard-shirt)
 

@@ -74,7 +74,7 @@ Copyright © 2013 American Association for the Study of Liver Diseases
 
 * [Search VitaminDWiki for NAFLD OR "fatty liver”](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=NAFLD+OR+%22fatty+liver%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 354 items as of Feb 2015
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a>
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d)
 
 * [NAFLD weakly associated with low vitamin D – meta-analysis 2013](/posts/nafld-weakly-associated-with-low-vitamin-d-meta-analysis-2013)
 
@@ -84,9 +84,9 @@ Copyright © 2013 American Association for the Study of Liver Diseases
 
 * [Muscles and Vitamin D - many studies](/posts/muscles-and-vitamin-d-many-studies)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
-*  **<a href="/posts/fatty-liver-disease-in-40-percent-of-seniors-seniors-often-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D">Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D</a>** 
+*  **[Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D](/tags/fatty-liver-disease-in-40-percent-of-seniors-seniors-often-have-low-vitamin-d.html)** 
 
 * [Loss of muscle strength –sarcopenia – one of the suspects is vitamin D – Aug 2012](/posts/loss-of-muscle-strength-sarcopenia-one-of-the-suspects-is-vitamin-d) which has the following graphic
 

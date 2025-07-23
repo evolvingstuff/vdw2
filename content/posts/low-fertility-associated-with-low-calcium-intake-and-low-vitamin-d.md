@@ -40,7 +40,7 @@ Gynecol Endocrinol. 2015 Nov 16:1-18. <span>[Epub ahead of print]</span>
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">Vitamin D and fertility: a systematic review – May 2012</a>
+* [Vitamin D and fertility: a systematic review – May 2012](/posts/vitamin-d-and-fertility-a-systematic-review)
 
 * [Vitamin D and fertility – Lerchbaum 2012, 2014](/posts/vitamin-d-and-fertility-lerchbaum-2012-2014)
 

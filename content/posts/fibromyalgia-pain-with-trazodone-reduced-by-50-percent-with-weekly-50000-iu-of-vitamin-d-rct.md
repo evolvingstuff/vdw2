@@ -49,11 +49,11 @@ Assistant Professor of Internal Medicine & Rheumatology, Firoozgar General Hospi
 
 * [Fibromyalgia pain reduced with vitamin D intervention that achieved 30-48 ng – RCT Feb 2014](/posts/fibromyalgia-pain-reduced-with-vitamin-d-intervention-that-achieved-30-48-ng-rct)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  Fibromyalgia is #39
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  Fibromyalgia is #39
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a> &nbsp; has the following chart
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d) &nbsp; has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/overlap.jpg" alt="image" width="450">
 

@@ -85,21 +85,21 @@
 
 (note: VitaminDWiki titles are now in  **<span style="color:#00F;">Blue Times Roman italics</span>** )
 
-## This page is on the web  <a href="/posts/vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3246">VitaminDWiki</a>
+## This page is on the web  [VitaminDWiki](/tags/vitamindwiki.html)
 
 ### Where it has graphics and translation to 55 other languages with 1 click
 
 ## Top Vitamin D News at VitaminDWiki
 
-* <a href="/posts/poland-conference-recommended-vitamin-d-levels-of-30-to-60-ng-vs-us-20-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3306">Poland conference recommended vitamin D levels of 30 to 60 ng, vs US 20 ng</a> 
+* [Poland conference recommended vitamin D levels of 30 to 60 ng, vs US 20 ng](/tags/poland-conference-recommended-vitamin-d-levels-of-30-to-60-ng-vs-us-20-ng.html) 
 
-> reminder: <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations around the world - IU and ng</a>
+> reminder: [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
-> reminder: <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is 50 ng of vitamin D too high, just right, or not enough</a>
+> reminder: [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [A review of the evidence regarding the solar ultraviolet-B-vitamin D-cancer hypothesis - Oct 2012](/posts/a-review-of-the-evidence-regarding-the-solar-ultraviolet-b-vitamin-d-cancer-hypothesis)
 
-* <a href="/posts/vitamin-d-from-commercial-uvb-lamps" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3154">Vitamin D from commercial UVB lamps</a> $450 and $150
+* [Vitamin D from commercial UVB lamps](/tags/vitamin-d-from-commercial-uvb-lamps.html) $450 and $150
 
 * [Vitamin D: what clinicians need to know - Aug 2012](/posts/vitamin-d-what-clinicians-need-to-know) a good paper which summarizes his (Wimalawansa) book
 
@@ -111,13 +111,13 @@
 
 * [5,000 IU vitamin D helped UK professional athletes in the winter – Oct 2012](/posts/5000-iu-vitamin-d-helped-uk-professional-athletes-in-the-winter)
 
-* <a href="/posts/the-panacea-of-the-sun-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3254">the 'Panacea' of the sun - Vitamin D Oct 2012</a> Vitamin D and the scientific calcium dogma:
+* [the 'Panacea' of the sun - Vitamin D Oct 2012](/tags/the-panacea-of-the-sun-vitamin-d-oct-2012.html) Vitamin D and the scientific calcium dogma:
 
 * [Vitamin D may prevent falls and fractures without Calcium – an overview of 9 meta-analysis – Oct 2012](/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis)
 
-* <a href="/posts/3rd-most-common-dementia-perhaps-might-also-be-associated-with-low-vitamin-d-lewy-body" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3245">3rd most common dementia perhaps might also be associated with low vitamin D: Lewy Body – Oct 2012</a>
+* [3rd most common dementia perhaps might also be associated with low vitamin D: Lewy Body – Oct 2012](/tags/3rd-most-common-dementia-perhaps-might-also-be-associated-with-low-vitamin-d-lewy-body-oct-2012.html)
 
-* <a href="/posts/seniors-need-more-than-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3271">Seniors need more than 2,000 IU of vitamin D – Oct 2012</a>
+* [Seniors need more than 2,000 IU of vitamin D – Oct 2012](/tags/seniors-need-more-than-2000-iu-of-vitamin-d-oct-2012.html)
 
 * [Alzheimer's Disease more likely with low vitamin D – meta-analysis Oct 2012](/posts/alzheimers-disease-more-likely-with-low-vitamin-d-meta-analysis)
 
@@ -125,23 +125,23 @@
 
 * [Vitamin D: A D-lightful solution for good health – Holick 2012](/posts/vitamin-d-a-d-lightful-solution-for-good-health-holick-2012)
 
-* <a href="/posts/normailizing-vitamin-d-levels-reduced-prediabetic-measure-by-18-percent-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3267">Normailizing vitamin D levels reduced prediabetic measure by 18 % – RCT Oct 2012</a>
+* [Normailizing vitamin D levels reduced prediabetic measure by 18 % – RCT Oct 2012](/tags/normailizing-vitamin-d-levels-reduced-prediabetic-measure-by-18-rct-oct-2012.html)
 
 * [A balanced diet is no longer enough – supplements needed - VitaminDWiki Oct 2012](/posts/a-balanced-diet-is-no-longer-enough-supplements-needed-vitamindwiki)
 
-* <a href="/posts/ivf-4x-more-successful-for-white-women-with-lots-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3277">IVF 4X more successful for white women with lots of vitamin D – Oct 2012</a>
+* [IVF 4X more successful for white women with lots of vitamin D – Oct 2012](/tags/ivf-4x-more-successful-for-white-women-with-lots-of-vitamin-d-oct-2012.html)
 
 * [Best heart geometry associated with vitamin D of 30-37 ng – Oct 2012](/posts/best-heart-geometry-associated-with-vitamin-d-of-30-37-ng)
 
-* <a href="/posts/vitamin-d-protects-dna-against-uv-skin-damage" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3280">Vitamin D protects DNA against UV skin damage – Oct 2012</a>
+* [Vitamin D protects DNA against UV skin damage – Oct 2012](/tags/vitamin-d-protects-dna-against-uv-skin-damage-oct-2012.html)
 
-* <a href="/posts/less-able-to-switch-attention-an-autism-test-if-mother-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3282">Less able to switch attention (an autism test) if mother had low vitamin D – Oct 2012</a>
+* [Less able to switch attention (an autism test) if mother had low vitamin D – Oct 2012](/tags/less-able-to-switch-attention-an-autism-test-if-mother-had-low-vitamin-d-oct-2012.html)
 
 * [Lupus flares totally eliminated by loading dose then 100,000 IU of vitamin D each month – Oct 2012](/posts/lupus-flares-totally-eliminated-by-loading-dose-then-100000-iu-of-vitamin-d-each-month)
 
 * [Much less depression if higher than 43 ng of vitamin D – Oct 2012](/posts/much-less-depression-if-higher-than-43-ng-of-vitamin-d)
 
-* <a href="/posts/puberty-for-girls-much-earlier-if-low-vitamin-d-perhaps-for-boys-as-well" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3293">Puberty for girls much earlier if low vitamin D – perhaps for boys as well</a>
+* [Puberty for girls much earlier if low vitamin D – perhaps for boys as well](/tags/puberty-for-girls-much-earlier-if-low-vitamin-d-perhaps-for-boys-as-well.html)
 
 * [After 30 years it still appears that vitamin D deals with colorectal cancer – Oct 2012](/posts/after-30-years-it-still-appears-that-vitamin-d-deals-with-colorectal-cancer)
 
@@ -161,19 +161,19 @@
 
 * [Prisoners in psychiatric wards have very low levels of vitamin D – Oct 2012](/posts/prisoners-in-psychiatric-wards-have-very-low-levels-of-vitamin-d)
 
-* <a href="/posts/hypothesis-mental-illness-sometimes-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3315">Hypothesis: Mental Illness sometimes due to low vitamin D</a> by VitaminDWiki
+* [Hypothesis: Mental Illness sometimes due to low vitamin D](/tags/hypothesis-mental-illness-sometimes-due-to-low-vitamin-d.html) by VitaminDWiki
 
 ## Changes in VitaminDWiki in Oct
 
 * Added Category [Vitamin A](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&sort_mode=created_des)
 
-* <a href="/posts/senior-pets-often-need-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Senior pets often need vitamin D</a> updated: Overview of Vets and Vitamin D
+* [Senior pets often need vitamin D](/tags/senior-pets-often-need-vitamin-d.html) updated: Overview of Vets and Vitamin D
 
 > Probably just put on your calendar to give a dose of 5,000 IU on a periodic basis – based on weight (15 IU per kg of pet)
 
 > Added a PDF file of tolerance by animals of Vitamins A, Bs, D, E, K
 
-* <a href="/posts/22-health-problems-proven-so-far-still-anticipating-30-by-spring-2013" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">22 Health problems  **proven**  so far, still anticipating 30 by Spring 2013</a>
+* [22 Health problems  **proven**  so far, still anticipating 30 by Spring 2013](/tags/22-health-problems-proven-so-far-still-anticipating-30-by-spring-2013.html)
 
 > Hypertension,  Cardiovascular,  Back Pain,  Diabetes,  Influenza,  Falls,  Hip Fractures,  Breast Cancer,
 
@@ -199,7 +199,7 @@ Pregnancy (209),    Psoriasis (24),    Rheumatoid Arthritis (36),    Rickets (26
 
 Thyroid, parathyroid (27),    Trauma & surgery (75),    Tuberculosis (48),    Vision (18),    Women (34),    Youth (74)
 
-* <a href="/posts/updated-deficiencies-chart" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Updated deficiencies chart</a>
+* [Updated deficiencies chart](/tags/updated-deficiencies-chart.html)
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -207,11 +207,11 @@ Thyroid, parathyroid (27),    Trauma & surgery (75),    Tuberculosis (48),    Vi
 
 ## Also at VitaminDWiki
 
-* Previous news <a href="/posts/" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3246">Sept 2012</a>
+* Previous news [Sept 2012](/tags/sept-2012.html)
 
 * [All new web pages](https://www.VitaminDWiki.com/tiki-index.php?page=vdwnews)
 
-* <a href="/posts/all-recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">All recently changed web pages</a>
+* [All recently changed web pages](/tags/all-recently-changed-web-pages.html)
 
 * [Top Vitamin D News](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc) continuously updated, not just a single month
 
@@ -237,6 +237,6 @@ Thyroid, parathyroid (27),    Trauma & surgery (75),    Tuberculosis (48),    Vi
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/henry-sm.jpg" alt="image">
 
-## <a href="/posts/sept-2012-summary" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3246">Sept 2012 summary</a>
+## [Sept 2012 summary](/tags/sept-2012-summary.html)
 
 ### [Nov 2012 Vitamin D News email](/posts/nov-2012-vitamin-d-news-email)

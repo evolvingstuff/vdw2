@@ -119,13 +119,13 @@ Vitamin D has influences many body processes like hormones do.
 
 or - Vitamin D is similar to hormones in acting on many body processes.
 
-(Most people are very aware of the power of hormones)  perhaps provide a link to <a href="/posts/sunshine-superhormone-overview-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunshine Superhormone - Overview 2010">Sunshine Superhormone - Overview 2010</a>
+(Most people are very aware of the power of hormones)  perhaps provide a link to [Sunshine Superhormone - Overview 2010](/posts/sunshine-superhormone-overview-2010)
 
 But, all of the health problems in the table are assocated with low levels of vitamin D.
 
 And, sometimes the relationship has been proven, that is, increasing vitamin D decreases the health problem (prevention and/or treatment)
 
-See <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>
+See [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
 ### Diabetes 40% per decade
 

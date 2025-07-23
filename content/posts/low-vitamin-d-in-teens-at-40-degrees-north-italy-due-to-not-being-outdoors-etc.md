@@ -78,6 +78,6 @@ Denver, New York City, Beijing, Melbourne
 
 > includes 5 minute animated video - with transcript in 90 languages
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)

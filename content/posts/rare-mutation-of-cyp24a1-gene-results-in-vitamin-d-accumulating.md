@@ -47,9 +47,9 @@ Joint Bone Spine. 2017 Jan 18. pii: S1297-319X(16)30209-3. [doi: 10.1016/j.jbspi
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a>
+* [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d)
 
-* <a href="/posts/cyp24a1-gene-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 gene and Vitamin D - many studies">CYP24A1 gene and Vitamin D - many studies</a>
+* [CYP24A1 gene and Vitamin D - many studies](/posts/cyp24a1-gene-and-vitamin-d-many-studies)
 
 </div>
 
@@ -95,4 +95,4 @@ Occurance varies with type of mutation and population group
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/cpy24a1-mutations.jpg" alt="image" width="600">
 
-#### See also <a href="/posts/vitamin-d-non-responders-may-have-one-or-more-poor-genes-gc-lipc-cyp24a1-and-pde3b" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022">Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022</a>
+#### See also [Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022](/posts/vitamin-d-non-responders-may-have-one-or-more-poor-genes-gc-lipc-cyp24a1-and-pde3b)

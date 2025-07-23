@@ -165,11 +165,11 @@ Note: Vitamin D reduces gout by at least the following ways:
 
 1. improving digestion
 
-1. <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">improving kidney function</a> 
+1. [improving kidney function](/posts/overview-kidney-and-vitamin-d) 
 
-1. <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">reducing pain</a>
+1. [reducing pain](/posts/overview-pain-and-vitamin-d)
 
-1. [reducing inflammation](/categories/inflammation)
+1. [reducing inflammation](/tags/reducing-inflammation.html)
 
 - - - - - - - - - - - - 
 
@@ -215,11 +215,11 @@ Note: Vitamin D reduces gout by at least the following ways:
 
  **[Victorian disease RETURNS to UK as NHS sees sudden surge and shares four warning signs](https://www.mirror.co.uk/news/uk-news/victorian-disease-returns-uk-nhs-28042355?utm_source=substack&utm_medium=email) Mirror** 
 
-Also <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">tuberculosis</a>, malnutrition, whooping cough, measles, scurvy, typhoid, scarlet fever, diphtheria, mumps, [rickets](/posts/overview-of-rickets-and-vitamin-d), cholera, and vitamin D deficiency 
+Also [tuberculosis](/posts/overview-tuberculosis-and-vitamin-d), malnutrition, whooping cough, measles, scurvy, typhoid, scarlet fever, diphtheria, mumps, [rickets](/posts/overview-of-rickets-and-vitamin-d), cholera, and vitamin D deficiency 
 
 *  **note:Hyperlinks go to VitaminDWiki** 
 
-* <a href="/posts/gout-cholera-scarlet-fever-tb-all-increasing-in-the-uk-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gout, cholera, scarlet fever, TB all increasing in the UK (low vitamin D) – Feb 2019">Gout, cholera, scarlet fever, TB all increasing in the UK (low vitamin D) – Feb 2019</a>
+* [Gout, cholera, scarlet fever, TB all increasing in the UK (low vitamin D) – Feb 2019](/posts/gout-cholera-scarlet-fever-tb-all-increasing-in-the-uk-low-vitamin-d)
 
 ---
 

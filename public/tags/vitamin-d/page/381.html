@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753303886"><link rel=stylesheet href="/css/pagination.css?v=1753303886"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303886"></script><script src="/js/search.js?v=1753303886"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><h1>Posts in "Vitamin D"</h1><article><div class=post-header><h2 class=post-title><a href=/posts/vitamin-d-receptor-tt-which-restricts-vit-d-to-cells-is-associated-with-balance-problems-in-seniors.html>Vitamin D receptor (TT), which restricts Vit D to cells, is associated with balance problems in seniors</a></h2><span class=post-date>July 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/worse-breathing-with-copd-is-related-to-lower-vitamin-d.html>Worse breathing with COPD is related to lower Vitamin D</a></h2><span class=post-date>July 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/osteomalacia-soft-bones-ricket-in-children-vitamin-d-occurs-87-times-in-pdf-but--in-the-abstract.html>Osteomalacia (soft bones - ricket in children) – Vitamin D occurs 87 times in PDF, but not once in the abstract</a></h2><span class=post-date>June 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/rationale-and-plan-for-vitamin-d-food-fortification.html>Rationale and Plan for Vitamin D Food Fortification</a></h2><span class=post-date>June 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/vitamin-d-levels-at-mayo-clinic-increased-over-a-decade.html>Vitamin D levels at Mayo Clinic increased over a decade</a></h2><span class=post-date>June 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/both-vitamin-d-and-vitamin-c-fight-cancers-and-aid-anticancer-drugs.html>Both Vitamin D and Vitamin C fight cancers and aid anticancer drugs</a></h2><span class=post-date>June 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/fecal-transplants-increased-vitamin-d-levels-germ-free-mice.html>Fecal transplants increased Vitamin D levels (germ-free mice)</a></h2><span class=post-date>June 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/number-of-vitamin-d-deficiency-studies-for-various-diseases.html>Number of Vitamin D deficiency studies for various diseases</a></h2><span class=post-date>June 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/improve-cognitive-health-and-memory-with-vitamin-d-and-omega-3-world-patent.html>Improve Cognitive Health and Memory with Vitamin D and Omega-3 – World Patent</a></h2><span class=post-date>June 2018</span></div></article><article><div class=post-header><h2 class=post-title><a href=/posts/iq-levels-around-the-world-are-falling-perhaps-lower-vitamin-d-iodine-or-omega-3.html>IQ levels around the world are falling (perhaps lower Vitamin D, Iodine, or Omega-3)</a></h2><span class=post-date>June 2018</span></div></article><nav class=pagination><a href=/tags/vitamin-d/page/380.html rel=prev>&#171; Previous</a>
+<a href=/tags/vitamin-d.html>1</a>
+<span>...</span>
+<a href=/tags/vitamin-d/page/378.html>378</a>
+<a href=/tags/vitamin-d/page/379.html>379</a>
+<a href=/tags/vitamin-d/page/380.html>380</a>
+<a href=/tags/vitamin-d/page/381.html class=active>381</a>
+<a href=/tags/vitamin-d/page/382.html>382</a>
+<a href=/tags/vitamin-d/page/383.html>383</a>
+<a href=/tags/vitamin-d/page/384.html>384</a>
+<span>...</span>
+<a href=/tags/vitamin-d/page/1002.html>1002</a>
+<a href=/tags/vitamin-d/page/382.html rel=next>Next &#187;</a></nav></div></div><script src="/js/toc-sanitizer.js?v=1753303886"></script><script src="/js/tiki-redirects.js?v=1753303886"></script><script src="/js/lightspa.js?v=1753303886"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303886",indexUrl:"/search/search_index.json.gz?v=1753303886"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303886"></script></body></html>

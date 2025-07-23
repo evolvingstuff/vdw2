@@ -51,4 +51,4 @@ INTERPRETATION: Vitamin D or calcium deficiency may be important predisposing fa
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
 
-* <a href="/posts/viral-pneumonia-in-children-52-x-more-likely-if-very-low-vitamin-d-trend" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Viral Pneumonia in children 52 X more-likely if very low vitamin D (trend) – June 2017">Viral Pneumonia in children 52 X more-likely if very low vitamin D (trend) – June 2017</a>
+* [Viral Pneumonia in children 52 X more-likely if very low vitamin D (trend) – June 2017](/posts/viral-pneumonia-in-children-52-x-more-likely-if-very-low-vitamin-d-trend)

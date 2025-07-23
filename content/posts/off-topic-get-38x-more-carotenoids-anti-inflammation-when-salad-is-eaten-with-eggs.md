@@ -33,7 +33,7 @@ J. E. Kim, S. L. Gordon, M. G. Ferruzzi, W. W. Campbell. Effects of egg consumpt
 
 ## See also VitaminDWiki
 
-* <a href="/posts/inflammation-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inflammation and Vitamin D several studies">Inflammation and Vitamin D several studies</a>
+* [Inflammation and Vitamin D several studies](/tags/inflammation-and-vitamin-d-several-studies.html)
 
 * [Vitamin D in inflammatory diseases – Technical Review June 2014](/posts/vitamin-d-in-inflammatory-diseases-technical-review)
 

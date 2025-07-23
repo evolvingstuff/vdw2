@@ -72,20 +72,20 @@ See: [Factors (including skin temperature) Influencing Vitamin D Status – 2011
 
 ## See also VitaminDWiki
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a>
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)
 
 * [60 minutes of sunlight needed to decrease vitamin D deficiency in sunny climate – Dec 2012](/posts/60-minutes-of-sunlight-needed-to-decrease-vitamin-d-deficiency-in-sunny-climate)
 
 * [Study of vitamin D level vs hours in the sun, etc. – Feb 2013](/posts/study-of-vitamin-d-level-vs-hours-in-the-sun-etc)
 
-* <a href="/posts/80-percent-of-south-asian-women-in-uk-had-less-than-10-ng-of-vitamin-d-in-winter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 80 percent of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012">80 percent of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012</a>
+* [80 percent of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012](/posts/80-percent-of-south-asian-women-in-uk-had-less-than-10-ng-of-vitamin-d-in-winter)
 
-* <a href="/posts/immigrant-vitamin-d-deficiency-in-europe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Immigrant vitamin D deficiency in Europe – May 2011">Immigrant vitamin D deficiency in Europe – May 2011</a>
+* [Immigrant vitamin D deficiency in Europe – May 2011](/posts/immigrant-vitamin-d-deficiency-in-europe)
 
-* <a href="/posts/vitamin-d-insufficiency-in-uk-youths-37x-more-likely-if-dark-skin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D insufficiency in UK youths – 37X more likely if dark skin – July 2011">Vitamin D insufficiency in UK youths – 37X more likely if dark skin – July 2011</a>
+* [Vitamin D insufficiency in UK youths – 37X more likely if dark skin – July 2011](/posts/vitamin-d-insufficiency-in-uk-youths-37x-more-likely-if-dark-skin)
 
 * [Schizophrenia high and increasing in Canada – lower vitamin D and more dark skin – Feb 2013](/posts/schizophrenia-high-and-increasing-in-canada-lower-vitamin-d-and-more-dark-skin)
 
 * [Dark skinned pregnant women far from equator were very vitamin D deficient – Sept 2012](/posts/dark-skinned-pregnant-women-far-from-equator-were-very-vitamin-d-deficient)
 
-* <a href="/posts/dark-skin-does-not-generate-as-much-vitamin-d-from-the-same-amount-of-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin does not generate as much vitamin D from the same amount of UV – Nov 2011">Dark skin does not generate as much vitamin D from the same amount of UV – Nov 2011</a>
+* [Dark skin does not generate as much vitamin D from the same amount of UV – Nov 2011](/posts/dark-skin-does-not-generate-as-much-vitamin-d-from-the-same-amount-of-uv)

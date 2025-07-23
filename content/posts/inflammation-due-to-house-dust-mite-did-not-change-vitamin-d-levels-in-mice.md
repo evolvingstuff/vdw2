@@ -61,7 +61,7 @@ PMID: 25391140
 
 * [Allergy to House dust mite greatly reduced by adding just 600 IU of vitamin D – RCT Nov 2014](/posts/allergy-to-house-dust-mite-greatly-reduced-by-adding-just-600-iu-of-vitamin-d-rct)
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
 ---
 

@@ -68,7 +68,7 @@ Compare 7,000 IU vs 1000 IU of Vitamin D per kilogram of feed
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/dopamine-quickly-increased-by-calcitriol-fully-activated-vitamin-d-might-be-a-way-to-treat-adhd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dopamine quickly increased by Calcitriol (fully activated vitamin D) – might be a way to treat ADHD – Oct 2024">Dopamine quickly increased by Calcitriol (fully activated vitamin D) – might be a way to treat ADHD – Oct 2024</a>
+* [Dopamine quickly increased by Calcitriol (fully activated vitamin D) – might be a way to treat ADHD – Oct 2024](/posts/dopamine-quickly-increased-by-calcitriol-fully-activated-vitamin-d-might-be-a-way-to-treat-adhd)
 
 * [Hypothesis: Drug addiction in humans can be prevented and treated by vitamin D -May 2014](/posts/hypothesis-drug-addiction-in-humans-can-be-prevented-and-treated-by-vitamin-d)
 

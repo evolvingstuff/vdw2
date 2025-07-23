@@ -50,11 +50,11 @@ Report is at [http://www.foodinsight.org/Resources/Detail.aspx?topic=2013_Functi
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> which has many charts, such as
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) which has many charts, such as
 
 > Only a tiny number of Americans eat even the "minimum wage" of vitamin D
 
->  **<span style="color:#F93;">orange line</span>**  indicates the <a href="/posts/institute-of-medicine-nov-2010-minimum-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">Institute of Medicine Nov 2010 minimum recommendations</a>
+>  **<span style="color:#F93;">orange line</span>**  indicates the [Institute of Medicine Nov 2010 minimum recommendations](/tags/institute-of-medicine-nov-2010-minimum-recommendations.html)
 
  **<span style="color:#F00;"><5% of all females,</span>**  
 

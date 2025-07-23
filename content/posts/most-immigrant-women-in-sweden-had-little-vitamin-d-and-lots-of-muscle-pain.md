@@ -45,7 +45,7 @@ Conclusion: Vitamin D deficiency was common in the immigrant patients and their 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Dark Skinned adults need more than 45 minutes of UK summer sun daily – June 2013](/posts/dark-skinned-adults-need-more-than-45-minutes-of-uk-summer-sun-daily)
 

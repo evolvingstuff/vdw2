@@ -72,6 +72,6 @@ only 45% of the people completed the study - no indication if the dropouts were 
 
 * [Atopic dermatitis dramatically reduced in Iran with 1600 IU of vitamin D – RCT March 2012](/posts/atopic-dermatitis-dramatically-reduced-in-iran-with-1600-iu-of-vitamin-d-rct) 
 
-* <a href="/posts/atopic-dermatitis-and-eczema-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies">Atopic Dermatitis and Eczema - many studies</a> a RCT
+* [Atopic Dermatitis and Eczema - many studies](/posts/atopic-dermatitis-and-eczema-many-studies) a RCT
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)

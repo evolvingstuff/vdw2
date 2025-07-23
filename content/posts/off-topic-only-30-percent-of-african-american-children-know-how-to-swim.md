@@ -36,10 +36,10 @@ African-American children aged 5-14 almost are 3X more likely to drown
 
 * [All items in category skin color and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&sort_mode=created_desc)
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">No – 10 minutes per day of sun-UVB is NOT enough</a>
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)
 
 > Blacks probably need 5X as much time in the sun to generate the same amount of vitamin D as whites
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>, which has the following graphic
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d), which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">

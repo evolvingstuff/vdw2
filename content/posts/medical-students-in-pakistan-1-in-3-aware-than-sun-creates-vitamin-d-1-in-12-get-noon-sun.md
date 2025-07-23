@@ -49,8 +49,8 @@ It can be concluded that in spite of awareness, the role of sunlight exposure an
 
 * [Fewer than 1 in 4 of nutrition students actually consumed RDA of Vitamin D – May 2013](/posts/fewer-than-1-in-4-of-nutrition-students-actually-consumed-rda-of-vitamin-d)
 
-* <a href="/posts/med-training-still-less-than-25-hours-in-nutrition-much-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Med training still less than 25 hours in nutrition - much less vitamin D - Sept 2010">Med training still less than 25 hours in nutrition - much less vitamin D - Sept 2010</a> Doctors get just 25 hours of nutrition training, vs 4 years
+* [Med training still less than 25 hours in nutrition - much less vitamin D - Sept 2010](/posts/med-training-still-less-than-25-hours-in-nutrition-much-less-vitamin-d) Doctors get just 25 hours of nutrition training, vs 4 years
 
 * [Avoiding the sun (and vitamin D) – most Chinese medical students do not want darker skins – Feb 2015](/posts/avoiding-the-sun-and-vitamin-d-most-chinese-medical-students-do-not-want-darker-skins)
 
-* <a href="/posts/medical-students-still-have-poor-vitamin-d-knowledge-score-of-46-out-of-20-poland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Medical students still have poor Vitamin D knowledge (score of 4.6 out of 20 – Poland) – Sept 2018">Medical students still have poor Vitamin D knowledge (score of 4.6 out of 20 – Poland) – Sept 2018</a>
+* [Medical students still have poor Vitamin D knowledge (score of 4.6 out of 20 – Poland) – Sept 2018](/posts/medical-students-still-have-poor-vitamin-d-knowledge-score-of-46-out-of-20-poland)

@@ -1,0 +1,91 @@
+<!doctype html><html><head><meta charset=utf-8><title>Know Your D - book</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Know Your D - book</h1><time>September 11, 2010</time><div data-pagefind-body><h1 id=amazon-1150httpwwwamazoncomknow-your-optimizing-health-vitamindp1452854149refsr_1_4sbooksieutf8qid1284240761sr1-4-by-dr-craig-keebler><a href="http://www.amazon.com/Know-Your-Optimizing-Health-Vitamin/dp/1452854149/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1284240761&amp;sr=1-4">Amazon $11.50</a> by Dr. Craig Keebler</h1><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/gif/know-your-d.gif alt=image><h1 id=amazon-description>Amazon Description</h1><p>If you care about your health, you&rsquo;ll find this comprehensive and readable guide indispensible.</p><p>Low vitamin D is a major health concern, <strong>four times more common than high cholesterol</strong> and far more dangerous, affecting adults, children, and the yet unborn.</p><p>Optimal vitamin D levels activate hundreds of genes that maintain wellness.</p><p>When levels are low, the risk for dozens of common diseases rises.</p><p>Sustaining optimal vitamin D levels is our single most potent tool for promoting good health.</p><p>Know Your D gathers results from the latest scientific research to answer all the critical questions.</p><p>Why is vitamin D so special?</p><p>How does my level affect my health?</p><p>Am I one of the 200 million Americans whose health is compromised because of low D levels?</p><p>How do I find out?</p><p>How do I convince my health care practitioner to check my D?</p><p>What do my test results mean? What should my levels be?</p><p>How can I safely get there? How do medications affect my D levels?</p><p>How long do I need to keep my levels optimal?</p><p>Are there dangers involved in correcting low D?</p><p>Using a warm, conversational style, Dr. Keebler takes the hard, cold facts of one groundbreaking study after another, invigorates them using patient stories, and makes them pertinent to your life. Clear, evidence-based guidelines make it easy for you and your health care practitioner to have you on the road to optimal health. Dr. Keebler shows how simple guidelines are applied in real life situations using patients with an assortment of health issues. Helpful hints are given on choosing the best form of D and how to take it. Pediatric guidelines and guidelines for pregnancy and nursing are included. Safety issues are covered including potential complications of D replacement and the challenges of using sun exposure for optimizing D levels. Finally, you are invited to share your D knowledge with others and to join the national effort to achieve optimal D levels for everyone by 2020.</p><h2 id=he-formed-the-optimize-d-foundation-in-april-2009-on-mercer-island-wash-httpoptimizedfoundationorg>He formed the Optimize D Foundation in April 2009 on Mercer Island Wash. <a href=http://optimizedfoundation.org/>http://optimizedfoundation.org/</a></h2><p>However, no activity for several years as of Oct 2011</p><h2 id=notes-on-things-i-found-interesting-in-this-book--after-reading-7-other-books-and-over-2500-articles-on-vitamin-d---henry-lahore>Notes on things I found interesting in this book -after reading 7 other books and over 2500 articles on vitamin D - Henry Lahore</h2><p>pg 10 - There is nothing more difficult or dangerous than trying to change a deeply accepted paradigm.</p><p>pg15 - Twenty years ago most Americans had adequate level of this hormone (D). Today, three in four don&rsquo;t</p><p>pg 16 - In treatment studies, replacing the deficient hormone (book has references)</p><ul><li><p>cut cancer rates by 77%,</p></li><li><p>reduced stress fractures in athletes and cut the number of falls in the elderly in half, (Have stress fractures have increased in the past 40 years?)</p></li><li><p>prevented 88% of type-1 diabetes in children and young adults, restored the cure rates of antibiotics to 100%</p></li></ul><p>pg 17 - Keebler has created a non-profit organization with 2020 goals which include</p><ul><li><p>80% of Americans knowing their D and having an optimal level</p></li><li><p>Number of new cases of cancer will plummet to half the current rates</p></li><li><p>African-Americans will no longer have higher rates of diabetes, heart attacks, stroke, cancer, etc than other Americans</p></li><li><p>Incidence of new cases of type-1 diabetes in children will drop by half</p></li></ul><p>pg 20 - clearly points out that D is not a vitamin with the following table</p><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Vitamins</td><td>Hormone D</td><td></td></tr><tr><td>a nutrient found naturally in foods</td><td>is found in very few foods..</td><td></td></tr><tr><td>cannot be produced by the body</td><td>is produced in the body..</td><td></td></tr><tr><td>usually performs a limited number of functions in the body</td><td>regulates 100&rsquo;s of genes that influence the activity of diverse cells throughout the body</td><td></td></tr></tbody></table><p>pg 23 - Keebler addresses the readers skepticism directly: &ldquo;Our degree of skepticism about a nutrient grows in direct proportion to the number of diseases it is purported to &ldquo;cure&rdquo;. After all, <a href=/tags/snake-oil.html>snake oil</a> was alleged to cure everything. So when I tell you that optimal level of D may prevent over 40 diseases, you &lsquo;skeptometer is likely to enter the red zone. Ans when I mention taking 10 to 50 times more D than the government says you need, your brain may flash warnings of a potentially dangerous fad.&rdquo;</p><p>pg 25 - D activates genes that produce natural <strong>antibiotics</strong> to fight infections (14 references) also page 28-29</p><p>pg 44 - &lsquo;As we age the number of D receptors in our muscles decrease" <a href=http://www.ncbi.nlm.nih.gov/pubmed/14969396>CLICK HERE for 2004 reference</a></p><p>pg 45 - PTH discussed, which caused me to make a new wiki page <a href=/tags/hyperparathyroidism-and-vitamin-d.html>Hyperparathyroidism and vitamin D</a></p><p>pg 48 - Original wisdom of adding vitamin D to milk has not proved out so well, especially now that many toddlers drink fruit juice instead of milk.</p><p>Pg 50 - For women with vitamin D levels above 20 ng/ml <strong>the only factor which was associated with more dense bones was the vitamin D level, not their Calcium level</strong></p><p>Pg 55 - In1997 the Institute of Medicine decided that the best indicator of the body’s store of vitamin D was the 25-D test.</p><p>Pg 56 - One of the benefits of vitamin D is that it prevents cancer cells from wandering away and metastasizing.</p><p>Pg 73 - Has a story of a woman with an autoimmune disease called dermatomyositis, which so weakened her muscles that she had used a wheel chair for years. Soon after taking high level of vitamin D her skin cleared up, later on she had decreased pain, and finally, after perhaps a year she was able to use a walker instead of her wheel chair.</p><p>Pg 83 - For women with low vitamin D the in vitro fertilization success rate is only 11%. For women with adequate vitamin D the success rate is 26%</p><p>Pg 95 - Dr. Keebler defines 3 ranges of optimal D based on the type of researcher:</p><ul><li><p>32-40 ng= researchers dealing with osteoporosis and fractures;</p></li><li><p>40-55 ng = most cancer researchers</p></li><li><p>55-90 ng = researchers concerned with autoimmmune and infectious diseases and some cancers</p></li></ul><p>Pg 101 - Elderly had best “sit-to-stand time” with 50 ng/ml blood level. Lower OR higher was not as good. Whereas for the “eight-foot walk” test the higher the D level the better.</p><p>Pg 107 - Data has been presented to the Institute of Medicine that the new Upper Limit should be 10,000 IU <a href=/tags/click-here-for-wiki-page-and-link-to-the-pdf.html>CLICK HERE for Wiki page and link to the PDF</a></p><p>Pg 126 - When the intestinal tract is not working well, thought should be given to getting the vitamin D by injection or UV (or perhaps sublingual?)</p><p>Pg 137 - There is disagreement about people being extra-sensitive to vitamin D if they have TB, sarcoidosis,, and lymphoma – due to higher Calcium levels. She take extra care with those diseases.</p><h2 id=hope-to-get-dr-keeblers-approval-to-include-in-the-vitamindwiki-12-excellent-figures-from-his-book>Hope to get Dr. Keebler&rsquo;s approval to include in the VitaminDWiki 12 excellent figures from his book</h2><p>Amazon provides a look inside</p><p>Here is the table of contents</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/gif/optimizing-toc1.gif alt=image>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/gif/optimizing-toc2.gif alt=image>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/gif/optimizing-toc3.gif alt=image></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/antibiotics.html><span class=tag>antibiotics</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/autoimmune-and-pregnancy.html><span class=tag>autoimmune and pregnancy</span></a>
+<a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/bone-stress-fractures.html><span class=tag>bone stress fractures</span></a>
+<a href=/tags/books-videos.html><span class=tag>Books videos</span></a>
+<a href=/tags/brain.html><span class=tag>brain</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cardiovascular.html><span class=tag>cardiovascular</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-cancer.html><span class=tag>childhood cancer</span></a>
+<a href=/tags/cholesterol.html><span class=tag>cholesterol</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/in-vitro-fertilization.html><span class=tag>in vitro fertilization</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/lymphoma.html><span class=tag>lymphoma</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/osteoporosis.html><span class=tag>osteoporosis</span></a>
+<a href=/tags/pediatric-autoimmune.html><span class=tag>pediatric autoimmune</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/stroke.html><span class=tag>stroke</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/tuberculosis.html><span class=tag>tuberculosis</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>antibiotics, autoimmune, autoimmune and pregnancy, bacteria, blood levels, bone, bone cancer, bone stress fractures, Books videos, brain, cancer, cardiovascular, child, childhood cancer, cholesterol, cognitive, diabetes, dosage, falls fractures, health risk, high dose, in vitro fertilization, intervention, lymphoma, metabolic, osteoporosis, pediatric autoimmune, pregnancy, stroke, therapeutic intervention, tuberculosis, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

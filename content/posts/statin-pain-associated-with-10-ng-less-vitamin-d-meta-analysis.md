@@ -55,14 +55,14 @@ This meta-analysis provides evidence that low vit D levels are associated with m
 
 ## See also VitaminDWiki
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a>
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies)
 
 * [Statin-induced Myalgias corrected with 100,000 weekly Vitamin D](/posts/statin-induced-myalgias-corrected-with-100000-weekly-vitamin-d)
 
-* <a href="/posts/statin-pain-eliminated-by-taking-50000-iu-vitamin-d-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1814">Statin pain eliminated by taking 50,000 IU vitamin D weekly – July 2011</a>
+* [Statin pain eliminated by taking 50,000 IU vitamin D weekly – July 2011](/tags/statin-pain-eliminated-by-taking-50000-iu-vitamin-d-weekly-july-2011.html)
 
 * [Breast cancer 2X more likely if have taken statins for 10 years – July 2013](/posts/breast-cancer-2x-more-likely-if-have-taken-statins-for-10-years) - due to lower level of vitamin D caused by the statins
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> which has the following chart
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">

@@ -55,14 +55,14 @@ PMID: 24970287
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 * [Stroke mortality 3X worse among seniors with less than 26 ng of vitamin D – June 2014](/posts/stroke-mortality-3x-worse-among-seniors-with-less-than-26-ng-of-vitamin-d)
 
 * [Second stroke 2X more likely if low vitamin D – Feb 2015](/posts/second-stroke-2x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/50-percent-fewer-strokes-with-vitamin-d-even-though-ignored-dose-size-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012">50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012</a>  
+* [50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012](/posts/50-percent-fewer-strokes-with-vitamin-d-even-though-ignored-dose-size-meta-analysis)  
 
 > should take vitamin D so as to reduce risk of getting a stroke
 
-* <a href="/posts/strokes-might-be-treated-as-well-as-prevented-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strokes might be treated as well as prevented by vitamin D – Jan 2011">Strokes might be treated as well as prevented by vitamin D – Jan 2011</a>
+* [Strokes might be treated as well as prevented by vitamin D – Jan 2011](/posts/strokes-might-be-treated-as-well-as-prevented-by-vitamin-d)

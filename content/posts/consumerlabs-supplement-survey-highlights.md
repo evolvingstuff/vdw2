@@ -98,9 +98,9 @@ They sell the results of the huge survey – unknown cost – but suspect about 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab</a>
+* [Excellent reviews of supplements at ConsumerLab](/posts/excellent-reviews-of-supplements-at-consumerlab)
 
-* <a href="/posts/supplement-reviews-by-consumerlab-vitamin-d-magnesium-vitamin-k-calcium-boron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Supplement reviews by ConsumerLab – Vitamin D, Magnesium, Vitamin K, Calcium , Boron – Nov 2019">Supplement reviews by ConsumerLab – Vitamin D, Magnesium, Vitamin K, Calcium , Boron – Nov 2019</a>
+* [Supplement reviews by ConsumerLab – Vitamin D, Magnesium, Vitamin K, Calcium , Boron – Nov 2019](/posts/supplement-reviews-by-consumerlab-vitamin-d-magnesium-vitamin-k-calcium-boron)
 
 * [Vitamin D home fortification- don't wait 100 years for your govt](/posts/vitamin-d-home-fortification-dont-wait-100-years-for-your-govt)
 

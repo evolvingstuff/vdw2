@@ -157,7 +157,7 @@ Many studies have shown that
 
 * The more vitamin D you get, the better your health.
 
-* The more Magnesium you get, the better your health.- by the way, Magnesium is the most important <a href="/posts/cofactor-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactor for vitamin D</a>
+* The more Magnesium you get, the better your health.- by the way, Magnesium is the most important [cofactor for vitamin D](/tags/cofactor-for-vitamin-d.html)
 
 * Pico Magnesium does not cause intestinal difficulties (only one Pico study that I am aware of)
 
@@ -171,7 +171,7 @@ Henry Lahore, adminstrator of VitaminDWiki
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Magnesium sources: Oxide thru Pico - March 2013](/posts/magnesium-sources-oxide-thru-pico)
 
@@ -191,7 +191,7 @@ Henry Lahore, adminstrator of VitaminDWiki
 
 * [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a> which has the following table
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic) which has the following table
 
 | | | |
 | --- | --- | --- |

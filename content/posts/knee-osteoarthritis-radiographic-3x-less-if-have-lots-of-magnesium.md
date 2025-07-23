@@ -71,9 +71,9 @@ PMID: 26800786 DOI: 10.1016/j.lfs.2016.01.029  **[Publisher wants $36 for the PD
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Knee osteoarthritis treated with vitamin D, weekly 50,000 IU – May 2015](/posts/knee-osteoarthritis-treated-with-vitamin-d-weekly-50000-iu)
 
@@ -91,7 +91,7 @@ PMID: 26800786 DOI: 10.1016/j.lfs.2016.01.029  **[Publisher wants $36 for the PD
 
 * [Search VitaminDWiki for "Knee Osteoarthritis"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22Knee+Osteoarthritis%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 410 items as of Oct 2020
 
-* <a href="/posts/knee-osteoarthritis-helped-by-vitamin-d2-40000-iu-weekly-raised-57-percent-above-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Knee osteoarthritis helped by vitamin D2 (40,000 IU weekly raised 57 % above 30 ng) June 2017">Knee osteoarthritis helped by vitamin D2 (40,000 IU weekly raised 57 % above 30 ng) June 2017</a>
+* [Knee osteoarthritis helped by vitamin D2 (40,000 IU weekly raised 57 % above 30 ng) June 2017](/posts/knee-osteoarthritis-helped-by-vitamin-d2-40000-iu-weekly-raised-57-percent-above-30-ng)
 
 ### See also web
 

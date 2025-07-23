@@ -52,11 +52,11 @@ PMID:     24433362
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
-* <a href="/posts/senior-pets-rejuvenated-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Senior pets rejuvenated with vitamin D">Senior pets rejuvenated with vitamin D</a>
+* [Senior pets rejuvenated with vitamin D](/posts/senior-pets-rejuvenated-with-vitamin-d)
 
-* <a href="/posts/controversy-cats-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Controversy cats and vitamin D">Controversy cats and vitamin D</a>
+* [Controversy cats and vitamin D](/posts/controversy-cats-and-vitamin-d)
 
 * [Is HyD (25(OH)D) a better form of vitamin D for some animals and maybe humans with liver problems](/posts/is-hyd-25ohd-a-better-form-of-vitamin-d-for-some-animals-and-maybe-humans-with-liver-problems) has the following chart
 

@@ -66,8 +66,8 @@ Clinical Trial Registration clinicaltrials.govNCT01240265
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Vitamin D Before, During, and After Pregnancy</a> - vs only immediately after pregnancy = this study
+* [Vitamin D Before, During, and After Pregnancy](/posts/overview-pregnancy-and-vitamin-d) - vs only immediately after pregnancy = this study
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has the following notional graph for blood level of 30 ng
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) has the following notional graph for blood level of 30 ng
 
 <img src="/attachments/d3.mock.jpg" alt="image">

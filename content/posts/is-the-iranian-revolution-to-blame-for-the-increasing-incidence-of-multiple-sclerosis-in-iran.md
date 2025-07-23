@@ -166,7 +166,7 @@ Received: July 4, 2012; Accepted: July 12, 2012; Published online: October 11, 2
 
 ## Comment by VitaminDWiki
 
-1. Missed <a href="/posts/many-reasons" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">many reasons</a> for vitamin D deficiency, such as
+1. Missed [many reasons](/tags/many-reasons.html) for vitamin D deficiency, such as
 
 > air conditioning, less cholesterol in diet, more drugs which consume of block vitamin D
 
@@ -176,17 +176,17 @@ Received: July 4, 2012; Accepted: July 12, 2012; Published online: October 11, 2
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1758">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [Google Search for "+"Multiple sclerosis" +african-american difference" got more than 2 million hits Oct 2012](http://www.google.com/search?hl=en&rlz=1B3GGGL_enUS233US234&q=%2B%22Multiple+sclerosis%22+%2Bafrican-american+difference&btnG=Search&aq=f&aqi=&aql=&oq=&gs_rfai=)
 
 > There are probably a similar number of hits for dark skin and MS
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/dark-skin-births-are-much-riskier-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Dark skin births are much riskier due to lack of vitamin D</a>
+* [Dark skin births are much riskier due to lack of vitamin D](/tags/dark-skin-births-are-much-riskier-due-to-lack-of-vitamin-d.html)
 
 > Something not yet discussed in the Middle East
 

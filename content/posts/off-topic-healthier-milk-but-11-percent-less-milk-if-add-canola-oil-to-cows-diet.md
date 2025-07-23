@@ -13,8 +13,7 @@
     "tags": [
         "Omega-3",
         "omega 3",
-        "vitamin d",
-        "vitamin d blood test"
+        "vitamin d"
     ]
 }
 
@@ -75,9 +74,7 @@ Can also increase Vitamin D content by:
 
 1) Sunshine
 
-2) <a href="/posts/solanum-glaucophyllum-a-purple-flower-produces-active-vitamin-d3-3-uv-lighting-4--liver-problems" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Solanum glaucophyllum (a purple flower) produces active vitamin D3))
-3) UV lighting
-4) in feed  - example ((Is HyD (25(OH)D) a better form of vitamin D for some animals and maybe humans with liver problems">HyD</a>
+2) [HyD](/tags/hyd.html)
 
 5) Add more D3 (instead of D2) to milk
 

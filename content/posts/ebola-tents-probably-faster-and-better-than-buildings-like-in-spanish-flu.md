@@ -20,7 +20,7 @@
 }
 
 
-### <a href="/posts/influenza-of-1918-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influenza of 1918 and vitamin D - July 2010">Influenza of 1918 and vitamin D - July 2010</a>
+### [Influenza of 1918 and vitamin D - July 2010](/posts/influenza-of-1918-and-vitamin-d)
 
  **Surgeon General of Mass back in 1918 noticed that infected people getting more sunlight had a better outcome. They had set up overflow tents outside of the hospital** 
 

@@ -77,7 +77,7 @@ Approximate averages for boys and girls
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Type 1 diabetes strongly associated with low vitamin D – March 2013](/posts/type-1-diabetes-strongly-associated-with-low-vitamin-d)
 
@@ -97,4 +97,4 @@ Approximate averages for boys and girls
 
 * [Type 1 diabetes starting to decrease in Finland, they started Vitamin D fortification in 2003 – July 2013](/posts/type-1-diabetes-starting-to-decrease-in-finland-they-started-vitamin-d-fortification-in-2003)
 
-* <a href="/posts/hba1c-levels-diabetes-reduced-by-monthly-50000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HbA1c levels (Diabetes) reduced by monthly 50,000 IU of vitamin D – Dec 2017">HbA1c levels (Diabetes) reduced by monthly 50,000 IU of vitamin D – Dec 2017</a>
+* [HbA1c levels (Diabetes) reduced by monthly 50,000 IU of vitamin D – Dec 2017](/posts/hba1c-levels-diabetes-reduced-by-monthly-50000-iu-of-vitamin-d)

@@ -41,13 +41,13 @@ Several mechanisms have been invoked in the literature to support a potential an
 
 ## See also VitaminDWiki
 
-* <a href="/posts/low-vitamin-d-may-contribute-to-peripheral-arterial-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D may contribute to Peripheral Arterial Disease – June 2010">Low vitamin D may contribute to Peripheral Arterial Disease – June 2010</a>
+* [Low vitamin D may contribute to Peripheral Arterial Disease – June 2010](/posts/low-vitamin-d-may-contribute-to-peripheral-arterial-disease)
 
-* <a href="/posts/vitamin-d-and-peripheral-arterial-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and peripheral arterial disease – Nov 2011">Vitamin D and peripheral arterial disease – Nov 2011</a>
+* [Vitamin D and peripheral arterial disease – Nov 2011](/posts/vitamin-d-and-peripheral-arterial-disease)
 
 * [Vitamin D not associated with PAD after adjusting for race, diabetes and BMI – July 2012](/posts/vitamin-d-not-associated-with-pad-after-adjusting-for-race-diabetes-and-bmi)
 
-* <a href="/posts/24x-less-calcification-of-aorta-for-pad-with-modest-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011">24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011</a>
+* [24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011](/posts/24x-less-calcification-of-aorta-for-pad-with-modest-level-of-vitamin-d)
 
 * [Peripheral Arterial Disease patients have low vitamin D levels – meta-analysis Oct 2015](/posts/peripheral-arterial-disease-patients-have-low-vitamin-d-levels-meta-analysis)
 

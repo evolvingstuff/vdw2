@@ -1,0 +1,69 @@
+<!doctype html><html><head><meta charset=utf-8><title>Study Finds Another Condition That Vitamin D Pills Do Not Help - NYT</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Study Finds Another Condition That Vitamin D Pills Do Not Help - NYT</h1><time>July 27, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#new-york-times-reporting-on-nejm-study>New York Times reporting on NEJM study</a></li><li><a href=#nejm-sub-study-of-vital---july-2022>NEJM sub-study of VITAL - July 2022</a></li><li><a href=#vital-did-not-use-calcium-nor-exercise-needed-to-build-bones>VITAL did not use Calcium nor exercise needed to build bones</a></li><li><a href=#nejm-editorial-in-the-same-issue>NEJM Editorial in the same issue</a></li></ul></li></ul></li></ul></nav><hr><h4 id=new-york-times-reporting-on-nejm-study>New York Times reporting on NEJM study</h4><p><strong><a href=https://www.nytimes.com/2022/07/27/health/vitamin-d-bone-fractures.html>NYT</a></strong></p><ul><li>&ldquo;But now, in the first large randomized controlled study in the United States, funded by the federal government, researchers report that vitamin D pills taken <strong>with or without calcium</strong> have no effect on bone fracture rates.&rdquo;</li></ul><h5 id=no-calcium-was-used-in-the-trial---yet-nyt-said-otherwise>NO Calcium was used in the trial - yet NYT said otherwise</h5><h5 id=half-of-participants-had-sufficient-vitamin-d>Half of participants had sufficient Vitamin D</h5><h5 id=many-were-likely-taking-800-iu-daily-intervention-group-also-took-2000-iu>Many were likely taking 800 IU daily (intervention group also took 2,000 IU)</h5><hr><h4 id=nejm-sub-study-of-vital---july-2022>NEJM sub-study of VITAL - July 2022</h4><p><strong>Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults</strong></p><p>N Engl J Med 2022; 387:299-309 July 28, 2022 DOI: 10.1056/NEJMoa2202106</p><p>Meryl S. LeBoff, M.D., Sharon H. Chou, M.D., Kristin A. Ratliff, B.A., Nancy R. Cook, Sc.D., Bharti Khurana, M.D., Eunjung Kim, M.S., Peggy M. Cawthon, Ph.D., M.P.H., Douglas C. Bauer, M.D., Dennis Black, Ph.D., J. Chris Gallagher, M.D., I-Min Lee, M.B., B.S., Sc.D., Julie E. Buring, Sc.D., et al.</p><p>BACKGROUND</p><p>Vitamin D supplements are widely recommended for bone health in the general population, but data on whether they prevent fractures have been inconsistent.</p><p>METHODS</p><p>In an ancillary study of the <strong>Vitamin D and Omega-3 Trial (VITAL)</strong> , we tested whether supplemental vitamin D3 would result in a lower risk of fractures than placebo. VITAL was a two-by-two factorial, randomized, controlled trial that investigated whether supplemental <strong>vitamin D3 (2000 IU per day)</strong> , n−3 fatty acids (1 g per day), or both would prevent cancer and cardiovascular disease in men 50 years of age or older and women 55 years of age or older in the United States. <strong>Participants were not recruited on the basis of vitamin D deficiency</strong> , low bone mass, or osteoporosis. Incident fractures were reported by participants on annual questionnaires and adjudicated by centralized medical-record review. The primary end points were incident total, nonvertebral, and hip fractures. Proportional-hazards models were used to estimate the treatment effect in intention-to-treat analyses.</p><p>RESULTS</p><p>Among 25,871 participants (50.6% women <span>[13,085 of 25,871]</span> and 20.2% Black <span>[5106 of 25,304]</span>), we confirmed 1991 incident fractures in 1551 participants over a median follow-up of 5.3 years. Supplemental vitamin D3, as compared with placebo, did not have a significant effect on total fractures (which occurred in 769 of 12,927 participants in the vitamin D group and in 782 of 12,944 participants in the placebo group; hazard ratio, 0.98; 95% confidence interval <span>[CI]</span>, 0.89 to 1.08; P=0.70), nonvertebral fractures (hazard ratio, 0.97; 95% CI, 0.87 to 1.07; P=0.50), or hip fractures (hazard ratio, 1.01; 95% CI, 0.70 to 1.47; P=0.96). There was no modification of the treatment effect according to baseline characteristics, including age, sex, race or ethnic group, body-mass index, or serum 25-hydroxyvitamin D levels. There were no substantial between-group differences in adverse events as assessed in the parent trial.</p><p>CONCLUSIONS</p><p>Vitamin D3 supplementation did not result in a significantly lower risk of fractures than placebo among generally healthy midlife and older adults who were not selected for vitamin D deficiency, low bone mass, or osteoporosis. (Funded by the National Institute of Arthritis and Musculoskeletal and Skin Diseases; VITAL ClinicalTrials.gov number, NCT01704859. opens in new tab.)</p><hr><h4 id=vital-did-not-use-calcium-nor-exercise-needed-to-build-bones>VITAL did not use Calcium nor exercise needed to build bones</h4><ul><li><p><a href=/posts/increased-risk-of-fracture-if-high-level-of-vitamin-d-if-continue-to-take-calciu-f-meta-analyses>Increased risk of fracture if high level of Vitamin D (if continue to take Calcium) – umbrella analysis of meta-analyses Nov 2020</a></p></li><li><p><a href=/posts/vitamin-d-not-help-fractures-and-falls-if-not-vitamin-d-deficient-meta-analysis>Vitamin D not help fractures and falls if not vitamin D deficient – meta-analysis Oct 2018</a></p></li><li><p><a href=/posts/fractures-reduced-with-any-amount-of-vitamin-d-and-some-calcium-cochraine>Fractures reduced with any amount of vitamin D and some Calcium - Cochraine April 2014</a></p></li><li><p><a href=/posts/call-to-action-vitamin-d-to-prevent-of-treat-hip-fracture-50000-weekly-for-8-wee-i-weekly-holick>Call to action: Vitamin D to prevent of treat hip fracture (50,000 weekly for 8 weeks, then bi-weekly) – Holick July 2020</a></p></li><li><p><a href=/posts/1-in-3-died-after-hip-fracture-but-only-1-in-14-if-add-vitamin-d-and-exercise-rct>1 in 3 died after hip fracture but only 1 in 14 if add Vitamin D and exercise – RCT April 2017</a></p></li><li><p><a href=/posts/silicon-vitamin-d-and-bone-health-multiple-studies>Silicon, Vitamin D and Bone Health - multiple studies</a></p></li></ul><hr><h4 id=nejm-editorial-in-the-same-issue>NEJM Editorial in the same issue</h4><ul><li><p>“Providers should stop screening for 25-hydroxyvitamin D levels or recommending vitamin D supplements and people should stop taking vitamin D supplements in order to prevent major diseases or extend life,”</p></li><li><p>&ldquo;And Dr. Rosen, who signed off on the National Academy of Medicine report, <strong>has become a vitamin D therapeutic nihilist</strong> . “I don’t believe any more in 600 units,” he said. “I don’t believe you should do anything.”</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/bone-stress-fractures.html><span class=tag>bone stress fractures</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/falls-and-fractures.html><span class=tag>Falls and Fractures</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/hip-fractures.html><span class=tag>hip fractures</span></a>
+<a href=/tags/omega-3.html><span class=tag>omega 3</span></a>
+<a href=/tags/osteoporosis.html><span class=tag>osteoporosis</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>bone, bone cancer, bone stress fractures, cancer, dosage, Falls and Fractures, falls fractures, hip fractures, omega 3, osteoporosis, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

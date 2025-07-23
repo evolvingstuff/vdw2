@@ -41,15 +41,23 @@
         "influenza",
         "intervention",
         "life span",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
         "metabolic",
         "metabolic conditions",
         "metabolic syndrome",
+        "metabolic syndrome and magnesium",
         "mortality",
         "multiple sclerosis",
         "multiple sclerosis and pregnancy",
         "obesity",
         "obesity and cancer",
         "obesity and vitamin d receptor",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
         "osteoporosis",
         "pediatric autoimmune",
         "pregnancy",
@@ -69,7 +77,71 @@
 }
 
 
-**Interpretation of portions of Table 2 by VitaminDWiki**  
+**Optimal Vitamin D Supplementation Doses that Minimize the Risk for Both Low and High Serum 25- Hydroxyvitamin D Concentrations in the General Population** 
+
+Nutrients 2015, 7(12), 10189-10208; doi:10.3390/nu7125527 
+
+Paul J. Veugelers *, Truong-Minh Pham and John Paul Ekwaru
+
+Received: 18 August 2015; Accepted: 27 November 2015; Published: 4 December 2015
+
+School of Public Health, University of Alberta, 350 University Terrace, Edmonton, AB T6G 2T4, Canada; ptrminh@gmail.com (T.-M.P.); ekwaru@ualberta.ca (J.P.E.)
+
+* Correspondence: paul.veugelers@ualberta.ca; Tel.: 1-780-492-9095
+
+<div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+
+This study agrees with many others:
+
+&nbsp; &nbsp; &nbsp;There is a 3X-4X difference between individuals in Vitamin D blood response to the idential dose.
+
+Both rare too BIG and too LITTLE of responses can bad for the health
+
+&nbsp; &nbsp; &nbsp; Too BIG - health problems if [co-factors](/posts/vitamin-d-cofactors-in-a-nutshell) are not adjusted - [Magnesium](/posts/overview-magnesium-and-vitamin-d), [Omega-3](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d), [Vitamin K2](/posts/overview-vitamin-k-and-vitamin-d). [Calcium](/posts/calcium-and-vitamin-d), etc
+
+&nbsp; &nbsp; &nbsp; Too LITTLE - not enough vitamin D in the blood to be of benefit
+
+It is essential that the vitamin D dose be individualized so as to avoid getting too much or too little
+
+ **See also VitaminDWiki** 
+
+[Virtually no risk of short-term toxicity](/tags/virtually-no-risk-of-short-term-toxicity.html) > 150 ng
+
+[Dose response equations for Vitamin D](/posts/dose-response-equations-for-vitamin-d) has the following chart
+
+<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
+
+[Response to Vitamin D - Grassroots](/posts/response-to-vitamin-d-grassroots) has the following chart in 2015
+
+<img src="/attachments/d3.mock.jpg" alt="image">
+
+[Vitamin D more than 40 ng: 1300 IU 50% chance: 5,000 IU 80% chance - Aug 2014](/posts/vitamin-d-more-than-40-ng-1300-iu-50-percent-chance-5000-iu-80-percent-chance) 
+
+has the following chart
+
+<img src="/attachments/d3.mock.jpg" alt="image" width="450">
+
+Unforunately, having a good vitamin D test result is not enough: 
+
+&nbsp; &nbsp; &nbsp; [Benefits of Vitamin D often limited by genes](/posts/benefits-of-vitamin-d-often-limited-by-genes)
+
+ **This study [was cited](https://scholar.google.com/scholar?cites=8022254996548015644&as_sdt=5,48&sciodt=0,48&hl=en) by 70 studies as of Aug 2022** 
+
+* Personalise vitamin D3 using physiologically based pharmacokinetic modelling - May 2021 https://doi.org/10.1002/psp4.12640 - FREE PDF
+
+</div>
+
+ **Figure 1: Dose/response from 36 studies** 
+
+<img src="/attachments/d3.mock.jpg" alt="image" width="700">
+
+solid line = mean response (50% above, 50% below)
+
+Lower dashed line = 97.5% will have achieved the level
+
+---
+
+ **Interpretation of portions of Table 2 by VitaminDWiki**  
 
  **To get 80% <span style="color:#F06;">>40 ng</span> level** 
 

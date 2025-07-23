@@ -67,7 +67,7 @@ Note 2: Some people who die with high levels of vitamin D also have recently gon
 
 * [Search VitaminDWiki for ICU OR “critical care” OR “intensive care” OR “acute care”](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=ICU+OR+%E2%80%9Ccritical+care%E2%80%9D+OR+%E2%80%9Cintensive+care%E2%80%9D+OR+%E2%80%9Cacute+care%E2%80%9D&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) &nbsp; 451 items as of March 2015
 
-* [Trauma and surgery](/categories/trauma-and-surgery)  category listing with associated searches
+* [Trauma and surgery](/posts/trauma-and-surgery)  category listing with associated searches
 
 * [Is too much vitamin D bad – possible causes and cures](/posts/is-too-much-vitamin-d-bad-possible-causes-and-cures)
 

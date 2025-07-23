@@ -43,8 +43,8 @@ PMID 24265166  **[Publisher wants $36 for the PDF](http://sjp.sagepub.com/conten
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
 * [Hip fractures greatly reduced by sunshine, vitamin D, and vitamin K – meta-analysis Sept 2012](/posts/hip-fractures-greatly-reduced-by-sunshine-vitamin-d-and-vitamin-k-meta-analysis)
 
-* <a href="/posts/many-diseases-increase-with-latitude-low-uv-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many diseases increase with latitude (low UV, Vitamin D) ">Many diseases increase with latitude (low UV, Vitamin D) </a>
+* [Many diseases increase with latitude (low UV, Vitamin D) ](/posts/many-diseases-increase-with-latitude-low-uv-vitamin-d)

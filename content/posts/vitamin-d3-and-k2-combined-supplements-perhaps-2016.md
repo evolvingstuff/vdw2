@@ -22,11 +22,11 @@
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a>
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
-* <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Cofactors and what the admin of VitaminDWiki takes</a>
+* [Cofactors and what the admin of VitaminDWiki takes](/posts/low-cost-cofactors-for-vitamin-d)
 
 </div>
 

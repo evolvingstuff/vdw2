@@ -44,7 +44,7 @@
 
 #### Subset of  [Illustrated History of Heart Disease 1825-2015](http://dietheartnews.com/2012/08/illustrated-history-of-heart-disease-1825-2015/%20) Diet Heart News Aug 2012
 
-Note:  **<span style="color:#F00;">lard</span>**    and  **<span style="color:#F00;">butter</span>**  used to have lots of vitamin D and [Omega-3](/categories/omega-3)
+Note:  **<span style="color:#F00;">lard</span>**    and  **<span style="color:#F00;">butter</span>**  used to have lots of vitamin D and [Omega-3](/tags/omega-3.html)
 
 | | |
 | --- | --- |
@@ -100,6 +100,6 @@ Note:  **<span style="color:#F00;">lard</span>**    and  **<span style="color:#F
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-#### <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a> has the following chart
+#### [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

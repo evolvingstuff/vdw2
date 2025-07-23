@@ -62,7 +62,7 @@ Vitamin D deficiency is prevalent in South Australia, affecting almost one quart
 
 * [90 percent of Canadians do not have optimal levels of vitamin D – Nov 2013](/posts/90-percent-of-canadians-do-not-have-optimal-levels-of-vitamin-d)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 #### Vitamin D test summary: click on chart for details
 

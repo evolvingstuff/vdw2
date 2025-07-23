@@ -96,7 +96,7 @@ We observed a positive correlation between bone turnover markers and 25(OH)D con
 
 ### See also VitaminDWiki
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 ### See also web
 

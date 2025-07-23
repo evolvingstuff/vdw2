@@ -46,7 +46,7 @@ Here we introduce a conditional, melanocyte-targeted allele of the most common m
 
 * [All items in Skin Cancer and Vitamin D](https://www.VitaminDWiki.com/Cancer+-+Skin)
 
-* <a href="/posts/overview-suntans-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans melanoma and vitamin D</a>
+* [Overview Suntans melanoma and vitamin D](/tags/overview-suntans-melanoma-and-vitamin-d.html)
 
 * [Vitamin D protects mouse from skin cancer – Sept 2012](/posts/vitamin-d-protects-mouse-from-skin-cancer)
 

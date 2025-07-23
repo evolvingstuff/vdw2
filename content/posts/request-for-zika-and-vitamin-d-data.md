@@ -27,7 +27,7 @@
 
 We are writing to you because we believe that supplementing with sufficient Vitamin D may be able to strengthen immune systems in pregnant women enough to prevent Zika birth defects.
 
-Vitamin D has been <a href="/posts/studied-and-proven" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7538">studied and proven</a> to effectively counter similar viruses.
+Vitamin D has been [studied and proven](/tags/studied-and-proven.html) to effectively counter similar viruses.
 
 If healthy vitamin D levels can protect pregnant mothers and their unborn babies against Zika then a very low cost treatment program would be available for millions at risk.
 

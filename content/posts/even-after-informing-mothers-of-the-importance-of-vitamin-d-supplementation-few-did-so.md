@@ -63,4 +63,4 @@ While an increase in government advertising would have contributed to the rise i
 
 * [To be reimbursed for supplements in the UK the benefits must now be approved by EU – Aug 2013](/posts/to-be-reimbursed-for-supplements-in-the-uk-the-benefits-must-now-be-approved-by-eu)
 
-* <a href="/posts/uk-survey-of-vitamin-d-knowledge-of-midwives-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UK survey of vitamin D knowledge of midwives - 2011">UK survey of vitamin D knowledge of midwives - 2011</a> they were not very knowledegable
+* [UK survey of vitamin D knowledge of midwives - 2011](/posts/uk-survey-of-vitamin-d-knowledge-of-midwives-2011) they were not very knowledegable

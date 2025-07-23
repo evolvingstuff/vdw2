@@ -33,7 +33,7 @@
 
 * [Jan 2016 meta-analysis](http://www.ncbi.nlm.nih.gov/pubmed/26825733?dopt=Abstract) found a very similar 1.45 X increase in GD with low vitamin D
 
-* <a href="/posts/gestational-diabetes-19-x-more-likely-if-low-vitamin-d-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gestational Diabetes 1.9 X more likely if low vitamin D – review Dec 2017">Gestational Diabetes 1.9 X more likely if low vitamin D – review Dec 2017</a>
+* [Gestational Diabetes 1.9 X more likely if low vitamin D – review Dec 2017](/posts/gestational-diabetes-19-x-more-likely-if-low-vitamin-d-review)
 
 * [Maternal and Neonatal Metabolic Outcomes of Vitamin D Supplementation in Gestational Diabetes Mellitus: A Systematic Review and Meta-Analysis](https://www.ncbi.nlm.nih.gov/pubmed/30173219?dopt=Abstract) Aug 2018 [doi: 10.1159/00049164](https://doi.org/10.1159/00049164)
 

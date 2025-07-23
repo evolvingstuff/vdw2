@@ -59,13 +59,13 @@ Graduate Institute of Ph.D. Program in Nutrition and Food Science, Fu-JenCatholi
 
 * [Type II Diabetes might be prevented and treated with Magnesium – Review Feb 2015](/posts/type-ii-diabetes-might-be-prevented-and-treated-with-magnesium-review)
 
-* <a href="/posts/reduced-chance-of-diabetes-46-percent-with-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduced chance of diabetes 46 percent with Magnesium - Oct 2010">Reduced chance of diabetes 46 percent with Magnesium - Oct 2010</a>
+* [Reduced chance of diabetes 46 percent with Magnesium - Oct 2010](/posts/reduced-chance-of-diabetes-46-percent-with-magnesium)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Drugs Deplete Magnesium](/posts/drugs-deplete-magnesium)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 ---
 

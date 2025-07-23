@@ -1,0 +1,449 @@
+{
+    "title": "High Vitamin D may prevent or treat COVID-19",
+    "slug": "high-vitamin-d-may-prevent-or-treat-covid-19",
+    "aliases": [
+        "/High+Vitamin+D+may+prevent+or+treat+COVID-19+-+April+23+2020",
+        "/11775"
+    ],
+    "tiki_page_id": 11775,
+    "date": "2020-05-20",
+    "categories": [
+        "Virus"
+    ],
+    "tags": [
+        "CKD",
+        "IBD",
+        "RSV",
+        "Virus",
+        "asthma",
+        "asthma receptor",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "child",
+        "childhood cancer",
+        "childhood pneumonia",
+        "childhood respiratory",
+        "childhood viruses",
+        "cystic fibrosis",
+        "dengue",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "ear",
+        "genetics",
+        "gut",
+        "herpes shingles",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "kidney",
+        "life span",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "otitis media",
+        "pain",
+        "pediatric autoimmune",
+        "pneumonia",
+        "pregnancy",
+        "respiratory",
+        "rheumatoid arthritis",
+        "sepsis",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "ulcerative colitis",
+        "virus",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "zinc",
+        "zinc and viruses"
+    ]
+}
+
+
+**Vitamin D high doses supplementation could represent a promising alternative to prevent or treat COVID-19 infection** 
+
+ **Most of the Argentine article is in Spanish - use translate button in upper left if needed** 
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/argentine-figure.jpg" alt="image" width="800">
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/c19-high-dose-vit-d-manucha.pdf">Download the study from VitaminDWiki</a>** 
+
+{{< toc >}}
+
+---
+
+Powered by Editorial Manager® and ProduXion Manager® from Aries Systems Corporation
+
+Argentina, April 23, 2020
+
+CLINICA E INVESTIGACION EN ARTERIOESCLEROSIS
+
+Director: Xavier Pinto Sala (Barcelona)
+
+Director Adjunto: Jesus Millan Nunez-Cortes (Madrid)
+
+Redactor Jefe: Josep Ribalta (Reus)
+
+The authors highlight a topic that keeps the global scientific and medical audience worried. 
+
+As we describe in the abstract, there is not enough evidence to justify supplementing vitamin D in the prevention and treatment of COVID-19 infection, however, it is increasingly feasible that this hypothesis is valid.
+
+wo general underlying mechanisms should be considered. One would be the anti-infectious and immunomodulatory action that it exerts by improving intercellular barriers by stimulating innate immunity, as well as by modulating adaptive immunity. Also, vitamin D reduces the production of inflammatory cytokines, such as IL-2 and interferon-gamma (INFy).
+
+More recently, multiple pleiotropic effects have been demonstrated on the actions of vitamin D at the anti-inflammatory and immunomodulatory level with positive results in studies with influenza, coronavirus, and other respiratory infections. An inverse relationship between serum vitamin D levels and the prevalence of the respiratory infectious disease has been described. Of interest, another mechanistic approach responds to considering the inhibition of the renin-angiotensin- aldosterone system (RAAS), which is exacerbated in COVID-19 infection because the virus binds to the enzyme ACE2, making more angiotensin II available to cause damage. 
+
+Vitamin D inhibits mediators of RAAS -present in all cells of the body- and by inhibiting ACE activity and increasing ACE2, it lowers angiotensin II levels. We present studies with proposals for recommended doses of vitamin D, and although a single guideline is not specified, the possible benefits are promising. Finally, the purpose of this review is to share this idea with health professionals to ignite the debate and call for critical reflection, so that it can contribute to the undertaking of more and better clinical designs to validate the benefits of using high doses of vitamin D for the benefit of public health and especially in times of crisis for COVID-19.
+
+The authors consent to the submission of the paper and stated that no part of the manuscript is under review in any other journal.
+
+I will be looking forward to receiving your reply.
+
+Sincerely yours,
+
+Walter Manucha PhD
+
+Area de Farmacologia, Departamento de Patologia
+
+Facultad de Ciencias Medicas
+
+Universidad Nacional de Cuyo
+
+Centro Universitario. CP 5500
+
+Mendoza. ARGENTINA
+
+FAX: 54-0261-4287370
+
+Telephone: 54-261-4135000 Ext. 2739, E-mail: wmanucha@yahoo.com.ar
+
+#### Introduccion
+
+En los ultimos meses, se han implementado multiples estrategias terapeuticas -algunas con base cientifica y otras hasta empiricas- para el abordaje de la afectacion pandemica por COVID-19 y que incluyen drogas antiretrovirales, corticoides, inmuno-moduladoras, entre otras. De interes, los tratamientos empiricos tienen su base racional debido a la urgencia del caso y tambien a la falta de evidencia clinico-farmacologica para COVID-19. No obstante, resulta clave recordar que el empirismo enfatiza el papel de la experiencia y la evidencia, y, por lo tanto, construye tarde o temprano al rigor de la evidencia medica o medicina basada en la evidencia. En este sentido, a la fecha, carecemos de suficiente evidencia (varios estudios clinicos) que avalen los beneficios de implementar altas dosis de vitamina D en la poblacion y/o pacientes expuestos al SARS-CoV-2. Sin embargo, la hipotesis y su validacion parece cada vez mas proxima.
+
+En rigor, es conocido que los receptores de vitamina D (VDR) existieron en organismos muy primitivos que carecian de un sistema dermico apropiado para sintetizar su ligando especifico, la vitamina D. Tambien, estos organismos carecian de aparatos como el osteo-articular, cardiovascular, rinones e inclusive pulmones1. Consecuentemente surge el planteo de cual seria su proposito y una primera aproximacion de respuesta seria la de formar parte de un complejo sistema de defensa. Los VDR fueron originalmente descriptos dentro de las celulas a nivel citoplasmatico, pero luego y de especial interes, tambien se los hallo en algunas organelas fundamentales como las mitocondrias2,3. Esta inedita localizacion reforzo la nocion de efectos no genomicos para la vitamina D, sobre todo si consideramos que sus acciones mas conocidas (tanto genomicas como no genomicas) son el producto de la interaccion hormona-receptor a nivel citoplasmatico. Esta union que sufre regulacion, forma un complejo factor de transcripcion que translocado al nucleo celular produce la modulacion de multiples genes mediadores del metabolismo fosfo-calcico4,5.
+
+Para destacar, mas de dos decadas atras fue descripta una diversidad de acciones para la vitamina D que incluian tanto las relacionadas al metabolismo fosfo-calcico como otras leiotropicas?y que incluian la inhibicion de la proliferacion de celulas cancerosas, efectos sobre la secrecion hormonal y supresion de la proliferacion de celulas T, asi tambien como la modulacion de ciertas citocinas6. En este sentido, mas recientemente se demostro que la vitamina D y sus metabolitos participan activamente en la regulacion de las respuestas inmunes innatas y adaptativas, por lo que su deficiencia se asocia con una serie de afecciones infecciones, autoinmunes y alergicas7. Estos hallazgos justifican las elucubraciones sobre los antecedentes evolutivos y dan soporte a la idea que probablemente su rol primario sea el de defensa celular y tisular a traves de mecanismos inmunologicos y/o regulacion de procesos inflamatorios. Adicionalmente, la evolucion tambien le posibilito interaccionar con otros sistemas fundamentales en el mantenimiento de la homeostasis celular. Asi, la vitamina D se contrapone y/o modula las vias de senalizacion de otro sistema ancestral, el sistema renina-angiotensina-aldosterona (SRAA), caracterizado por regular el medio interno y la hemodinamia en organismos superiores, pero y de central interes para la presente revision, tambien funciona como un complejo sistema pro-inflamatorio1. Por ello, no resulta casual que la mayoria de las celulas de mamiferos expresen tanto VDR como receptores y enzimas del SRRA. La vitamina D, sus metabolitos y receptores por un lado, y el SRAA por el otro, representarian las dos caras de una misma moneda -el mantenimiento del delicado equilibrio de defensa celular- siendo mediadores de procesos pro y anti-inflamatorios.
+
+Paralelamente, a la existencia de VDR en casi todas las celulas del organismo, y no solo a nivel renal, tambien se ha demostrado la presencia de la enzima 1 a-hidroxilasa lo que sugiere cierta independencia entre los niveles circulantes de vitamina D respecto de los niveles intracelulares8. Este concepto complejiza la comprension sobre el valor diagnostico/pronostico de las determinaciones de vitamina D circulante y su posible implicancia en enfermedades no clasicamente relacionadas a vitamina D como el cancer, la esclerosis multiple y la pre-eclampsia, entre otras9.
+
+#### Acciones de la vitamina D vinculadas al eje infeccion, inflamacion, repuesta inmune y lesion de organos bianco
+
+ **Vitamina D como hormona anti-infecciosa e inmuno-moduladora** 
+
+Como previamente fuera mencionado, la vitamina D puede disminuir el riesgo de infecciones por diversos mecanismos que incluyen la de participar en la integridad de una barrera fisica y mejorar la inmunidad innata celular y/o la adaptativa10.
+
+El efecto de barrera se ejerceria mediante la estimulacion de genes que codifican proteinas relacionadas con la integridad y uniones celular tales como ocludina (uniones estrechas), conexina 43 (uniones gap) y caderina E (uniones adherentes)11. Al respecto, cabe aclarar que en general los virus alteran la integridad de esas barreras lo que aumenta su grado de infectividad12, por ello resulta promisoria la actividad de mantener Integra la barrera celular demostrada para vitamina D.
+
+Por otro lado, y con relacion al sistema inmune propiamente dicho, se ha podido establecer que celulas especializadas en defensa como macrofagos, monocitos, celulas dendriticas, linfocitos T y B, expresan VDR y enzimas para la sintesis de vitamina D13,14. El estimulo que ejerce la vitamina D sobre la inmunidad innata celular se realiza mediante la induccion de peptidos antimicrobianos como catelicidina y beta 2 defensina. Catelicidina altera las membranas y actua sobre bacterias, virus, hongos y hasta el bacilo de Koch. Ademas, contribuye a disminuir la denominada ormenta de citoquinas?que ocurre en infecciones virales severas como las descriptas para COVID-1915, inhibiendo la produccion de citoquinas proinflamatorias de celulas Th1 como el factor de necrosis tumoral alfa (TNFa) e interferon gamma16. Mientras que el peptido humano beta 2 defensina es producida por celulas epiteliales y presenta una potente actividad antimicrobiana contra bacterias Gram negativas y Candida, esto ha permitido postular que beta 2 defensina podria contribuir a reducir la frecuencia de infecciones en piel y -de interes para esta revision- en tejido pulmonar17.
+
+Con relacion a vitamina D y su accion sobre la inmunidad adaptativa, esta se realiza por supresion de las respuestas mediadas por celulas T helper tipo 1 (Th1), reduciendo la produccion de las citoquinas pro-inflamatorias como interleucina 2 (IL-2) e interferon gamma (INFy)18. Asimismo, promueve la produccion de citoquinas anti-inflamatorias por las celulas Th2, colaborando con la inhibicion de Th1, y la induccion de celulas regulatorias T.
+
+En consideracion de los antecedentes citados, resulta oportuno mencionar que multiples estudios han podido demostrar que las personas con enfermedades cronicas tienen menores niveles de vitamina D en relacion con los sujetos sanos. Inclusive se ha discutido si el deficit es causa o consecuencia de estas afecciones (la vitamina D puede ser consumida en su papel de defensa frente a la injuria). No obstante, lo que resulta contundente a la luz de la evidencia es que existe una fuerte asociacion entre el deficit y la presencia de enfermedades no clasicas para el espectro de la vitamina D. Con respecto a los estudios de suplementacion contra placebo, son escasos y la mayoria de ellos fueron realizados con dosis bajas, durante lapsos de tiempo breve, o en sujetos saludables con valores normales de vitamina D. Estos disenos dificilmente pudieron establecer beneficios, mientras que -como era de suponer- no demostraron diferencias y/o algun beneficio al comparar individuos de condiciones semejantes19,20. Sin embargo, se ha reportado relacion inversa entre el status de la vitamina D y la ocurrencia de diversas enfermedades virales (dengue, hepatitis, herpes virus, HIV, influenza, virus sincitial respiratorio, rotavirus, infecciones del tracto respiratorio alto, entericas, urinarias, neumonia, otitis media, vaginitis, sepsis, hepatitis y HIV21.
+
+#### Vitamina D e infecciones virales
+
+2.2.1. Gripe (Influenza estacional)
+
+El virus de la influenza afecta al tracto respiratorio por infeccion viral directa o por dano a la respuesta del sistema inmune. Ademas, se ha reportado que un tercio de los pacientes hospitalizados con influenza confirmada desarrollan neumonia, y esto fue mas prevalente en ninos y ancianos, o en pacientes pulmonares cronicos, cardiacos, fumadores o inmunocomprometidos22. Se conoce que la supervivencia del virus es mayor en las estaciones con bajas temperaturas, pero ademas ha sido sugerido que el aumento de la incidencia en invierno puede responder tambien a la menor radiacion solar y consecuentemente un inferior nivel de vitamina D23. Luego y como resultado de un pobre nivel de vitamina D, serian sintetizados menos peptidos endogenos con propiedades antibioticas (defensinas y catelicidinas) como los citados previamente. Al respecto, la produccion de catelicidina es dosis-dependiente del nivel de vitamina D. Mas especificamente, se establecio que 30 ng/mL de vitamina D son requeridos como minimo para la optima induccion de catecilidina24. Este mismo nivel de vitamina D fue establecido como valor de corte (Third National Health and Nutrition Examination Survey) para menor incidencia de infecciones respiratorias altas25.
+
+Posteriormente, en 2018 se reviso el rol de la vitamina D y la influenza, y como resultado del analisis en estudios de suplementacion contra placebo, utilizando distintas metodologias y posologias, se pudieron establecer resultados positivos en la mayoria de ellos26-28. Ademas, el estudio GrassrootsHealth, basado en cuestionarios a 12.605 participantes donde se confrontaba la presencia o no de sindrome gripal en los ultimos 6 meses y medicion de vitamina D, establecio que los individuos con niveles del orden de los 60 ng/mL de vitamina D o valores superiores, presentaron un riesgo 43% menor de enfermedades como influenza en relacion a aquellos que tenian valores iguales o inferiores a 20 ng/mL	(p<0,0001)29 ( https://www.grassrootshealth.net/project/our-scientists/).
+
+#### Infecciones por coronavirus
+
+Los virus como influenza y coronavirus producen infecciones especialmente en invierno, pudiendo ser particularmente graves y hasta mortales por neumonias. Por lo que durante la actual pandemia por COVID-19 se ha postulado una promisoria hipotesis sobre mayor casuistica y muertes en regiones donde el nivel promedio de vitamina D resulta bajo30. En acuerdo, durante el invierno chino los casos fatales fueron mayores a mayor edad (14,8% para individuos de 80 anos o mas), mas en hombres que en mujeres (2,8% vs. 1,7%) y mas frecuente con comorbilidades (mayor edad, mas enfermedades cronicas).
+
+Pero tambien existen otras variables de interes para analizar como la etnica. Actualmente, las tasas de morbilidad y mortalidad por COVID-19 en individuos afroamericanos o negros son las mas altas en muchos lugares del mundo. Especificamente, una encuesta sobre la comunidad estadounidense y la Universidad Johns Hopkins indico que la tasa de infeccion es mas del triple y la tasa de mortalidad es 6 veces mas alta en los condados con predominio de personas negras que en aquellos con mayorias blancas31. Cabe destacar que si bien este hallazgo podria responder a multiples factores confundidores como la variable socioeconomica, resulta innegable el dato objetivo de saber que los afroamericanos presentaban niveles sericos bajos de vitamina D respecto a la poblacion de raza blanca32. Destaca el hecho que dentro de la etnia afroamericana se pudo establecer una mayor casuistica en estados con menor exposicion solar y mas frio.
+
+En consecuencia, la linea de razonamiento nos orienta a inferir que en todos los casos donde existan niveles de vitamina D bajos o muy bajos, se veran favorecidos los mecanismos mediante los cuales virus como el de la influenza y coronavirus, podran alterar con mayor facilidad el epitelio pulmonar a traves de una mayor produccion de citocinas Th1 como parte de la respuesta inmune innata a la propia infeccion viral16. Del mismo modo, bajos niveles de vitamina D, favorecerian la liberacion de interferon y18, resultando en ultima instancia responsable de la injuria en la fase tardia de la patologia por SARS-CoV-233. Aqui la denominada ormenta de citoquinas?favorecida por el deficit de vitamina D, complicara aun mas estas infecciones virales, como lo reportado para COVID-19 donde se producen verdaderos estallidos de las citocinas Th2 (IL 4 y 10)15.
+
+No obstante, los recientes hallazgos sobre posibles efectos anti-virales de la vitamina D, aun resultan poco conocidos sus complejos mecanismos en profundidad. Esto responde a la intrincada relacion establecida entre las infecciones virales y la vitamina D que incluye entre otros factores la induccion del estado antivirico, las caracteristicas inmuno-reguladoras funcionales, la interaccion con factores celulares y virales, la induccion de autofagia y apoptosis, alteraciones geneticas y epigeneticas. Al parecer la vitamina D interfiere de manera transitoria las vias de senalizacion intracelular viral provocando un efecto modulador esencial en la transcripcion del gen viral21.
+
+#### Acciones antiinflamatorias y antioxidantes de la vitamina D a nivel pulmonar
+
+Las celulas epiteliales pulmonares tienen una alta expresion de la enzima 1 a-hidroxilasa, lo que permite la sintesis local de 1,25-dihidroxi vitamina D, la forma mas activa de vitamina D, tambien llamada calcitriol. El calcitriol inhibe la produccion y secrecion de muchas citocinas de las celulas del musculo liso bronquial como el factor de crecimiento derivado de plaquetas, RANTES (regulador en la activacion de celulas T normales expresadas y secretadas) y metaloproteinasas de matriz, lo que conduce a una reduccion de la proliferacion e inflamacion en las celulas del musculo liso pulmonar. La vitamina D estimula la sintesis de interleucina 10 por las celulas CD4+ CD25+ Foxp3+ y T-reguladoras. Al mismo tiempo, inhibe la activacion de las celulas dendriticas regulando negativamente la expresion de CD80/86 y CD40. Ademas, y como previamente se hiciera mencion la vitamina D estimula la expresion de catelicidina y muchas otras moleculas antiinfecciosas34,35.
+
+La suplementacion con 1,25-dihidroxi vitamina D suprime el reclutamiento de eosinofilos y linfocitos en las vias respiratorias, disminuye la produccion de IL-4 de las celulas T e inhibe la migracion de las celulas T atenuando la respuesta inflamatoria36. Ademas funciona como adyuvante para otras terapias como la inmunoterapia contra alergenos37. La administracion simultanea de vitamina D y dexametasona en pacientes asmaticos resistentes a los esteroides, aumento la sintesis de IL-10 a niveles similares a los encontrados en pacientes sensibles a los esteroides tratados solo
+
+con dexametasona38.
+
+Tambien se ha descripto la reduccion significativa de los niveles sericos de IgE y eotaxina en un modelo de asma por el tratamiento con vitamina D39. Ademas, disminuyo la infiltracion de celulas inflamatorias en las vias respiratorias, los niveles sericos de IL-6, el factor de necrosis tumoral alfa (TNFa) e IL-ip, asi tambien como la expresion de la proteina apoptotica asociada a Bcl 2, caspasa 3, TLR4, NF-kB y NF-kB p65 fosforilada. Consecuentemente, la vitamina D elevo los niveles sericos de IL-10 reduciendo la respuesta inflamatoria y apoptotica en ese modelo de raton asmatico40. De interes, la vitamina D suprimio la sintesis de 8-isoprostano (8-iso), IL-6 y factor estimulante de colonias de granulocitos y macrofagos en celulas epiteliales bronquiales humanas expuestas a particulas contaminantes. Ademas, aumento la expresion del gen de la via antioxidante G6PD y los niveles de glutation oxidado, por lo que se infiere que la vitamina D parece proteger pulmones y vias respiratorias en la patologia asmatica a traves de sus efectos antiinflamatorios y antioxidantes41.
+
+En un modelo murino de inflamacion pulmonar inducida por bleomicina, el calcitriol redujo la inflamacion pulmonar temprana al atenuar la infiltracion de celulas inmunes, reprimir la secrecion de citocinas inflamatorias, bloquear la translocacion nuclear del factor nuclear kappa B (NF-kB) p65, inhibir la fosforilacion de p38 MAPK pulmonar y proteina quinasa B (Akt), atenuando la actina alfa del musculo liso (un marcador para la transicion epitelial-mesenquimatosa en los pulmones, que promueve la fibrosis), y disminuyo la fosforilacion del factor de crecimiento transformante beta 1 (TGF-pi) regulada por aumento y Smad42. El calcitriol tambien causo una reduccion del 40% en el reclutamiento de neutrofilos a los pulmones en un modelo animal de lesion pulmonar aguda. Este efecto antiinflamatorio de la vitamina D puede estar mediado por la inhibicion de la secrecion de IL-8 a nivel pulmonar43.
+
+La administracion de vitamina D a ratas neonatas con lesion pulmonar inducida por hiperoxia (como modelo de displasia broncopulmonar) causo la atenuacion de esta lesion a traves de varias acciones protectoras, como preservar la integridad de la estructura pulmonar, disminuir la inflamacion al regular negativamente la activacion de TLR4, reduciendo la deposicion de la matriz extracelular y la inhibicion de la apoptosis de las celulas pulmonares44. La vitamina D tambien ha demostrado tener efectos inmunomoduladores y antiinflamatorios en el tratamiento de la fibrosis quistica de las vias respiratorias, ya que reduce la expresion de CD279 (PD-1) en las celulas T CD4+ y CD8+. Ademas, la vitamina D disminuyo la frecuencia de CD8+ T y celulas T invariantes asociadas a la mucosa que co-expresan los marcadores de activacion de CD38 y el antigeno D de los leucocitos humanos. Por lo tanto, el tratamiento con vitamina D evitaria la progresion del dano pulmonar asociado con la fibrosis quistica de las vias respiratorias45.
+
+El estres oxidativo que causa el humo del tabaco empeora la progresion de la enfermedad pulmonar obstructiva cronica (EPOC). En este sentido, la vitamina D tambien se ha propuesto como un antiinflamatorio y antioxidante natural capaz de mejorar el pronostico de esta patologia pulmonar en pacientes fumadores46. De hecho, se ha observado que los pacientes con EPOC tienen niveles plasmaticos mas bajos de vitamina D que los pacientes sanos, lo que sugiere una posible correlacion entre una defensa antioxidante deficiente y el desarrollo de esta enfermedad pulmonar47. De interes central para el presente trabajo de revision, hace algunos anos nuestro grupo planteo la discusion sobre una pandemia mundial de deficiencia de vitamina D como una posible explicacion a la elevada actividad inflamatoria celular inducida por el SRAA1. La discusion original involucro un numero significativo de patologias, principalmente cardiovasculares, pero todas ellas de base inflamatoria similar. En la actualidad, con el enfoque central en la inflamacion pulmonar aguda causada por COVID-19, el Estudio Longitudinal Irlandes sobre el Envejecimiento (TILDA 2020) refuerza la idea de que una suplementacion adecuada de vitamina D, especialmente en personas mayores, puede ser beneficiosa para la poblacion de grupos vulnerables durante este brote pandemico por COVID-1948. En este sentido, la vitamina D inhibe a la proteina Skp2 que juega un papel central en el mecanismo de replicacion viral del COVID1949, y que utiliza el bloqueo de la autofagia para su acelerada replicacion e infectividad. El virus induce a la ya mencionada Skp2, que a su vez inactiva a la Beclina1, un componente esencial del proceso autofagico. (Figura)
+
+#### Vitamina D, COVID-19 y SRAA
+
+La infeccion por coronavirus produce un riesgo elevado de complicaciones y mortalidad en los ancianos, hipertensos, diabeticos o pacientes que padecen enfermedades cardiacas o pulmonares previas. Los informes iniciales de la evolucion de los pacientes en China, donde estallo la epidemia, mostraron que los pacientes con las condiciones clinicas mencionadas anteriormente tenian entre tres y cuatro veces mas complicaciones respiratorias, hospitalizaciones y mortalidad que los que no tenian tales condiciones preliminares50,51.
+
+Una de las complicaciones mas frecuentes es la hipertension arterial y como factor de riesgo relevante condujo a diferentes especulaciones. En este sentido, y con resultados provenientes desde las ciencias basicas, se propuso como hipotesis que los medicamentos que bloquean al SRAA (inhibidores de la enzima convertidora de angiotensina, IECA y los bloqueantes de receptores de angiotensina II, BRA), podrian aumentar el riesgo para los pacientes con COVID-19. Esto se fundamentaria en su mecanismo de accion que aumentaria la produccion de la enzima convertidora de angiotensina tipo 2 (ECA2)52. El trabajo experimental demostro que el uso de estas drogas aumenta los niveles de ECA253 (4). ECA2 es el receptor al que los coronavirus, tanto el SARS- COV como el SARS-COV2 (COVID-19), se unen para ingresar a la celula54,55. La hipotesis planteada por los autores y declarada nuevamente en una carta editorial mas reciente es que el aumento de ECA2 podria aumentar la carga viral, lo que a su vez explicaria el aumento de la morbilidad y la mortalidad.
+
+Tal hipotesis no prospero debido entre otros aspectos a que los primeros informes de China no declararon si los pacientes infectados que recibieron medicamentos del tipo IECA/BRA tuvieron una peor evolucion en su curso clinico. De hecho, hasta la fecha se carece de datos que muestren una relacion causal entre el aumento de ECA2 y el aumento de la mortalidad por COVID-19. Los estudios que se disponen no describen si los pacientes recibian IECA/BRA, y solo por informacion indirecta se puede inferir que aproximadamente un 33% de ellos estaban bajo dichos tratamientos. Tampoco se ha demostrado que la hipertension e inclusive la diabetes, fueran predictores de riesgo independientes56.
+
+Las sociedades cientificas internacionales muy criteriosamente acordaron que no hay evidencia que sugiera que se deba modificar los tratamientos con bloqueadores RAAS, de modo tal que se acepta que la interrupcion del tratamiento conlleva un riesgo muy alto. De hecho, si existe evidencia de lo contrario y convalida la decision de dichas sociedades. En efecto, se estudiaron pacientes hipertensos hospitalizados por COVID-19, y el uso de IECA/BRA se asocio con un menor riesgo de mortalidad por todas las causas en comparacion con los pacientes no tratados con IECA/BRA. Los autores reconocen que la interpretacion del estudio debe contemplar posibles factores de confusion, sin embargo concluyen que es poco probable que el uso de IECA/BRA se asocie con un mayor riesgo de mortalidad en pacientes COVID-19 positivos57.
+
+En contraposicion a la hipotesis del no uso de IECA/BRA en hipertensos, otros autores han propuesto una perspectiva diferente. Aqui la hipotesis seria una posible accion protectora de los bloqueadores del RAAS en la infeccion por COVID-1958,59. En acuerdo, se han registrado dos ensayos clinicos, aun no iniciados, para evaluar la accion de losartan en el curso de la infeccion viral. (# NCT04312009 y # NCT04311177 Clinicaltrials.gov).
+
+La hipotesis sobre la utilidad de los bloqueadores de RAAS tambien proviene de la mecanistica que utiliza el virus para ingresar a la celula mediante los receptores ECA2 y concomitante reduccion de los niveles intracelulares de ECA2. La ECA2, a diferencia de la ECA clasica, degrada la angiotensina II de modo que la reduccion inducida por el virus agrava la accion patogenica de la mayor concentracion de angiotensina II en el pulmon60. Los niveles de ECA2 ejercen una accion protectora sobre el parenquima pulmonar. Al respecto, existe evidencia de que niveles elevados de ECA2 a nivel del tejido pulmonar son relevantes en el proceso de defensa contra las infecciones virales respiratorias. El mecanismo dilucidado seria que ECA2 disminuye la liberacion masiva de citocinas y el consecuente infiltrado inflamatorio que conduce a las conocidas complicaciones respiratorias graves61. En consecuencia, la sugerencia inicial de descontinuar los bloqueadores de RAAS puede ser una estrategia contraproducente para la evolucion del paciente, y esto no solo al desestabilizar sus niveles de presion arterial en un momento clinico complejo sino tambien a traves del posible riesgo de eliminar el factor protector de un aumento de ECA2 en la patogenesis pulmonar por COVID-19.
+
+Paralelamente, existe otra forma de contrarrestar a la consecuente exaltacion del RAAS, especialmente mediante la induccion de la ECA2. Esto puede lograrse mediante la administracion de dosis apropiadas de vitamina D. Los niveles mas altos de cualquiera de los elementos estan inversamente asociados con los niveles mas bajos del otro. Existe abundante evidencia de que la administracion de vitamina D atenua la actividad RAAS a nivel circulante, pero notablemente mas a nivel tisular e intracelular1. De esta manera, la vitamina D bloquearia la cascada inflamatoria por reduccion de la actividad del RAAS62.
+
+La vitamina D reduce la actividad de ECA y aumenta la actividad de ECA2 lo cual tiene un efecto protector a nivel pulmonar, restaurando el equilibrio ECA/ECA2. Esta restauracion del equilibrio mediada por la vitamina D ha resultado clave en la reduccion de los eventos respiratorios en modelos experimentales63. Los bajos niveles de vitamina D estan asociados con un aumento de las infecciones respiratorias. En ensayos clinicos controlados, la administracion de vitamina D tambien ha demostrado un efecto protector sobre las infecciones en sujetos sanos y pacientes con enfermedad pulmonar obstructiva cronica (EPOC)26,64-67.
+
+De interes particular, se han publicado diferentes ensayos sobre el tema y tambien revisiones sistematicas a traves de metanalisis. En su mayoria informan beneficios en la reduccion de afecciones respiratorias, varios de ellos usaron suplementos de vitamina D68-77 Tambien se han reportado beneficios potenciales recientemente en infecciones por el virus del dengue78,79. (Figura)
+
+#### Conductas sugeridas acorde a los niveles de vitamina D
+
+Al respecto, se ha demostrado que el grado de proteccion contra infecciones aumenta a medida que aumentan los niveles de vitamina D, pero esta relacion no ha permitido establecer un nivel de corte adecuado aun. No obstante, un estudio observacional reporto que valores de 38 ng/mL resultan apropiados para disminuir el riesgo de infecciones respiratorias agudas virales80. Por otro lado, algunos autores sugieren mantener un nivel de vitamina D de por lo menos 30 ng/mL o incluso mantenerlo en un rango de entre 40-60 ng/mL para reducir los procesos infecciosos. Asi se pudo establecer que las infecciones intrahospitalarias post quirurgicas fueron tres veces mayores con valores de vitamina D inferiores a 30 ng/mL81 y que estas infecciones disminuian un 33% por cada 10 ng/mL de incremento en los niveles de vitamina D82.
+
+Conforme con la evidencia medica, la conducta clinica habitual sugiere que ante un deficit severo de vitamina D se debe establecer un esquema terapeutico en dos etapas, la primera con una alta dosis de carga y luego otra menor de mantenimiento83. En este sentido, se ha reportado el uso de la denominada osis de carga?de vitamina D para llegar a un nivel objetivo en donde se puede lograr una concentracion plasmatica de vitamina D de 30 ng/mL empleando distintos regimenes posologicos (diaria, semanal, quincenal, mensual). De interes, en pacientes con elevacion de marcadores inflamatorios como los obesos se ha establecido que el aporte necesario debe ser 2 a 3 veces superior al establecido para la poblacion general, y ante sobrepeso por lo menos 1,5 veces superior a la poblacion general84.
+
+Las emergentes circunstancias actuales de pandemia por COVID-19 requieren de conductas terapeuticas de base cientifico/racional e inclusive como se menciono previamente, empiricas. Con respecto a lo que se conoce de vitamina D, resulta aun escaso su protagonismo pero paulatinamente contamos con mas datos que la avalan como estrategia adyuvante para intentar brindar una rapida y efectiva proteccion frente el riesgo de infeccion por el SARS-CoV-2. En este sentido, existen distintas posturas como dosis diarias por un tiempo corto o bien el empleo de una dosis de carga inicial seguida por dosis altas de vitamina D durante un periodo corto de tiempo permitiendo -en cada caso- y en tiempos de pandemia, lograr concentraciones dentro de rangos apropiados de van entre 30-50 ng/mL o superiores. Mas especificamente, se han propuesto estrategias como la sugerida por Grant y col. con una dosis de 10.000 UI/dia por un mes para poder alcanzar rapidamente el objetivo de niveles entre 40-60 ng/mL, y luego continuar con 5.000 UI/dia por algunas semanas mas30.
+
+Llama la atencion el nivel propuesto de dosis elevadas desestimando los posibles efectos toxicos, sin embargo, en este sentido existen estudios que demuestran que una dosis de 10.000 UI/dia por 4-6 meses carece de efectos adversos. En detalle, Amir lo comprobo en mujeres canadienses con cancer de mama y metastasis oseas85. Del mismo modo, el equipo de investigadores dirigido por el Dr. Holick -uno de los grupos mas destacados en estudios con vitamina D- suplemento a pacientes oncologicos con altas dosis de vitamina D y tampoco establecieron toxicidad, por el contrario, mejoro la microbiota intestinal de los pacientes tratados86. El mismo grupo de trabajo trabajo con
+
+3Ul/diarias por 6 meses -sin provocar hipercalcemia- y logro niveles de vitamina D del orden de los 78,6士13 ng/mL87
+
+Tambien, se trato a pacientes psiquiatricos en un hospital de Cincinnati, Ohio, con dosis de 5.000 o
+
+23UI/dia durante 16 meses y como resultado no encontraron efectos adversos, solo se recomendo que si el paciente recibia ademas suplementacion de calcio, la dosis del mismo no deberia ser alta para minimizar el riesgo de hipercalcemia88.
+
+La apuesta fue superior en otros trabajos con propuestas de dosis inicial de 100.000 UI si se desean concentraciones sericas > de 20 ng/mL, dosis inicial de 300.000 UI si se desean concentraciones > de 30 ng/mL, e inclusive se ha sugerido el uso de dosis iniciales > a 500.000 UI en adultos 89 90 sanos?
+
+Como corolario, el Dr. Alipio acaba de publicar resultados que proporcionan informacion sustancial a medicos y formadores de politicas sanitarias. Especificamente, concluyo que la suplementacion con vitamina D mejora la evolucion clinica de los pacientes infectados por COVID-19 en funcion del aumento de la probabilidad de tener un resultado leve cuando aumenta el nivel en suero de vitamina D. Mientras que una disminucion serica de vitamina D se asocia con peor evolucion clinica91.
+
+#### Conclusiones y perspectivas
+
+En consecuencia y ante esta epidemia devastadora para la que carecemos aun de tratamientos efectivos, la presente revision recopila y propone explorar el efecto potencialmente protector de las altas dosis diarias de vitamina D para aumentar rapidamente los niveles en sangre y tejidos, con el objetivo de contrarrestar la sobrecarga de SRRA y mejorar asi el curso de la infeccion por COVID- 19, sus complicaciones respiratorias (Figura) e inclusive de otros organos. El proposito es abrir la discusion y crear un debate apropiado sobre la conducta de indicar vitamina D a la poblacion general, particularmente a los mas expuestos, y como lo citado, lograr un aumento serico y tisular para contrarrestar el desequilibrio de algunos de los componentes del SRRA y tambien manifestar sus propios efectos antiinflamatorios. (Figura)
+
+Consideramos que esta estrategia -a nivel poblacional- podria proporcionar una herramienta mas en la defensa contra el virus y con nulos efectos adversos, como se demostro en la revision de mas de
+
+pacientes incluidos en ensayos controlados con ingesta de vitamina D. Por lo expuesto previamente, una posible dosis para obtener rapidos incrementos en los niveles plasmaticos de vitamina D podria estar entre las 5.000 UI y/o 10.000 UI diariamente, o bien de 50.000 UI a
+
+UI por semana92. Dado lo tentativo de la dosis propuesta podria considerarse el uso de dosis mas bajas en ninos o adultos jovenes con bajo riesgo de exposicion al virus. Al respecto, nuestro grupo de trabajo avanza sobre el desarrollo de protocolos controlados con diferentes poblaciones, de personas en riesgo o ya infectadas, evaluando parametros fisiologicos y eventos clinicos. Asumimos que dicha intervencion no pretende eliminar al virus, sin embargo, resulta promisorio su potencial para dificultar el ingreso viral y en caso de padecerlo, mejorar la evolucion del paciente. Es decir, la ingesta de vitamina D podria mejorar las condiciones de los pacientes para que puedan estar en mas adecuadas condiciones para hacer frente y aumentar sus posibilidades contra COVID-19 e inclusive otros cuadros infecciosos equivalentes.
+
+Como lo descripto previamente, consideramos que la recomendacion encuentra respaldo en multiples informes. En acuerdo, muy recientemente, Grant y colegas tambien proponen elevar las concentraciones sericas a traves de la suplementacion con vitamina D y aseguran que esto podria reducir la incidencia, la gravedad y el riesgo de muerte por influenza, neumonia y la epidemia actual de COVID-1993. Tambien, Rhodes y colaboradores, han propuesto la suplementacion con vitamina D por lo menos para quienes en el hemisferio norte tienen mas riesgo de enfermedad grave y muerte94. Lo mismo que recomienda la Asociacion de Dietistas del Reino Unido95 y editoriales en medios internacionales de rigor cientifico.
+
+Finalmente, el proposito de compartir esta idea con profesionales de la salud es encender rapidamente el debate y llamar a la reflexion critica que permita contribuir a emprender sin demoras, mas y mejores disenos clinicos para validar esta hipotesis en beneficio de la salud publica y sobre todo en tiempos de esta emergencia por COVID-19.
+
+Contribucion de los autores
+
+Todos los autores contribuyeron de igual manera en la concepcion y diseno de la revision, con una contribucion sustancial sobre los datos, analisis e interpretacion de los contenidos, redaccion y revision critica del articulo para su contenido intelectual.
+
+Declaracion de conflicto de intereses
+
+Los autores declaran que no hay conflictos de interes potenciales con respecto a la investigacion, autoria y/o publicacion de este articulo.
+
+#### Bibliografia
+
+Argentine references
+
+1. Ferder M, Inserra F, Manucha W, Ferder L. The world pandemic of vitamin D deficiency could possibly be explained by cellular inflammatory response activity induced by the renin-angiotensin system. Am J Physiol Cell Physiol. 2013 Jun 1;304(11):C1027-39. [doi: 10.1152/ajpcell.00403.2011.](https://doi.org/10.1152/ajpcell.00403.2011.)
+
+1. Garcia IM, Altamirano L, Mazzei L, Fornes M, Molina MN, Ferder L, Manucha W. Role of mitochondria in paricalcitol-mediated cytoprotection during obstructive nephropathy. Am J Physiol Renal Physiol. 2012 Jun 15;302(12):F1595-605. [doi: 10.1152/ajprenal.00617.2011.](https://doi.org/10.1152/ajprenal.00617.2011.)
+
+1. Silvagno F, De Vivo E, Attanasio A, Gallo V, Mazzucco G, Pescarmona G. Mitochondrial localization of vitamin D receptor in human platelets and differentiated megakaryocytes. PLos One 5: e8670, 2010. [doi: 10.1371/journal.pone.0008670.](https://doi.org/10.1371/journal.pone.0008670.)
+
+1. Perret C, Colnot S, Romagnolo B, Thomasset M. Control of nuclear transcription of vitamin D- dependent genes by vitamin D. Curr Opin Nephrol Hypertens. 1997 Jul;6(4):314-20.
+
+1. Macova L£¬Bicikova M, Hampl R. Impaired vitamin D sensitivity. Physiol Res. 2018 Nov 28;67(Suppl 3):S391-S400.
+
+1. Christakos S, Raval-Pandya M, Wernyj RP, Yang W. Genomic mechanisms involved in the pleiotropic actions of 1,25-dihydroxyvitamin D3. Biochem J. 1996 Jun 1;316 ( Pt 2):361-71.
+
+1. Trochoutsou AI, Kloukina V, Samitas K, Xanthou G. Vitamin-D in the Immune System: Genomic and Non-Genomic Actions. Mini Rev Med Chem. 2015;15(11):953-63.
+
+1. Jones G. Expanding role for vitamin D in chronic kidney disease: importance of blood 25-OH-D levels and extra-renal 1alpha-hydroxylase in the classical and nonclassical actions of 1alpha,25- dihydroxyvitamin D(3). Semin Dial. 2007 Jul-Aug;20(4):316-24.
+
+1. Grant WB. An estimate of the global reduction in mortality rates through doubling vitamin D levels. Eur J Clin Nutr. 2011 Sep;65(9):1016-26. [doi: 10.1038/ejcn.2011.68.](https://doi.org/10.1038/ejcn.2011.68.)
+
+1. Rondanelli M, Miccono A, Lamburghini S, Avanzato I, Riva A, Allegrini P, Faliva MA, Peroni G, Nichetti M, Perna S. Self-Care for Common Colds: The Pivotal Role of Vitamin D, Vitamin C, Zinc, and Echinacea in Three Main Immune Interactive Clusters (Physical Barriers, Innate and Adaptive Immunity) Involved during an Episode of Common Colds-Practical Advice on Dosages and on the Time to Take These Nutrients/Botanicals in order to Prevent or Treat Common Colds. Evid Based Complement Alternat Med 2018, 2018, 5813095, doi:10.1155/2018/5813095.
+
+1. Schwalfenberg GK. A review of the critical role of vitamin D in the functioning of the immune system and the clinical implications of vitamin D deficiency. Mol Nutr Food Res 2011;55:96-108. doi:10.1002/mnfr.201000174.
+
+1. Kast JI, McFarlane AJ, Globinska A, Sokolowska M, Wawrzyniak P, Sanak M, Schwarze J, Akdis CA, Wanke K. Respiratory syncytial virus infection influences tight junction integrity. Clin Exp Immunol 2017;190:351-359. doi:10.1111/cei.13042
+
+1. Mora JR, Iwata M, von Andrian UH. Vitamin effects on the immune system: vitamins A and D take centre stage. Nat Rev Immunol. 2008 Sep;8(9):685-98. doi:10.1038/nri2378.
+
+1. Van Belle TL, Gysemans C, Mathieu C. Vitamin D in autoimmune, infectious and allergic diseases: a vital player?. Best Pract Res Clin Endocrinol Metab. 2011 Aug;25(4):617-32. [doi: 10.1016/j.beem.2011.04.009.](https://doi.org/10.1016/j.beem.2011.04.009.)
+
+1. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. [doi: 10.1016/S0140-6736(20)30183-5.](https://doi.org/10.1016/S0140-6736(20)30183-5.)
+
+1. Sharifi A, Vahedi H, Nedjat S, Rafiei H, Hosseinzadeh-Attar MJ. Effect of single dose injection of vitamin D on immune cytokines in ulcerative colitis patients: a randomized placebo-controlled trial. APMIS 2019;127:681-687. doi:10.1111/apm.12982.
+
+1. Schroder JM, Harder J. Human beta-defensin-2. Int J Biochem Cell Biol. 1999 Jun;31(6):645- 51. doi:10.1016/S1357-2725(99)00013-8.
+
+1. Lemire JM, Adams JS, Kermani-Arab V, Bakke AC, Sakai R, Jordan SC. 1,25- Dihydroxyvitamin D3 suppresses human T helper/inducer lymphocyte activity irn vi^ro. J Immunol 1985;134:3032-3035.
+
+1. Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, Gibson H, Gordon D, Copeland T, D'Agostino D, Friedenberg G, Ridge C, Bubes V, Giovannucci EL, Willett WC, Buring JE; VITAL Research Group. Vitamin D supplements and prevention of cancer and cardiovascular disease. N Engl J Med 2019;380:33-44.
+
+1. Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, Brodsky I, Ceglia L, Chadha C, Chatterjee R, Desouza C, Dolor R, Foreyt J, Fuss P, Ghazi A, Hsia DS, Johnson KC, Kashyap SR, Kim S, LeBlanc ES, Lewis MR, Liao E, Neff LM, Nelson J, O'Neil P, Park J, Peters A, Phillips LS, Pratley R, Raskin P, Rasouli N, Robbins D, Rosen C, Vickery EM, Staten M; D2d Research Group. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med 2019;381:520-30.
+
+1. Teymoori-Rad M, Shokri F, Salimi V, Marashi SM. The interplay between vitamin D and viral infections. Rev Med Virol. 2019 Mar;29(2):e2032. [doi: 10.1002/rmv.2032.](https://doi.org/10.1002/rmv.2032.)
+
+1. Kalil AC, Thomas PG. Influenza virus-related critical illness: pathophysiology and epidemiology. Crit Care. 2019; 23: 258. doi:10.1186/s13054-019-2539-x.
+
+1. Cannell JJ, Vieth R, Umhau, JC, Holick MF, Grant WB, Madronich S, Garland CF, Giovannucci E. Epidemic influenza and vitamin D. Epidemiol Infect. 2006;134:1129-1140. [doi: 10.1017/S0950268806007175.](https://doi.org/10.1017/S0950268806007175.)
+
+1. Lang PO, Samaras D. Aging adults and seasonal influenza: does the vitamin d status (h)arm the body?. J Aging Res. 2012;2012:806198. [doi: 10.1155/2012/806198.](https://doi.org/10.1155/2012/806198.)
+
+1. Ginde AA, Mansbach JM, Camargo CA Jr. Association between serum 25-hydroxyvitamin D level and upper respiratory tract infection in the Third National Health and Nutrition Examination Survey. Arch Intern Med. 2009 Feb 23;169(4):384-90. [doi: 10.1001/archinternmed.2008.560.](https://doi.org/10.1001/archinternmed.2008.560.)
+
+1. Gruber-Bzura BM. Vitamin D and Influenza-Prevention or Therapy? Int J Mol Sci. 2018; 19. doi:10.3390/ijms19082419.
+
+1. Urashima M, Segawa T, Okazaki M, Kurihara M, Wada Y, Ida H. Randomized trial of vitamin D supplementation to prevent seasonal influenza A in schoolchildren. Am J Clin Nutr. 2010; 91: 1255-1260. doi:10.3945/ajcn.2009.29094.
+
+1. Arihiro S, Nakashima A, Matsuoka M, Suto S, Uchiyama K, Kato T, Mitobe J, Komoike N, Itagaki M, Miyakawa Y, Koido S, Hokari A, Saruta M, Tajiri H, Matsuura T, Urashima M. Randomized Trial of Vitamin D Supplementation to Prevent Seasonal Influenza and Upper Respiratory Infection in Patients With Inflammatory Bowel Disease. Inflamm Bowel Dis. 2019; 25:1088-1095. doi:10.1093/ibd/izy346. https://www.grassrootshealth.net/project/our-scientists/
+
+1. Grant WB, Lahore H, McDonnell SL, Baggerly CA, French CB, Aliano JL, Bhattoa HP. Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths. Nutrients. 2020 Apr 2;12(4). pii: E988. [doi: 10.3390/nu12040988.](https://doi.org/10.3390/nu12040988.)
+
+1. Yancy CW. COVID-19 and African Americans. JAMA. 2020 Apr 15. [doi: 10.1001/jama.2020.6548.](https://doi.org/10.1001/jama.2020.6548.)
+
+1. Bodnar LM, Simhan HN, Powers RW, Frank MP, Cooperstein E, Roberts JM. High prevalence of vitamin D insufficiency in black and white pregnant women residing in the northern United States and their neonates. J Nutr. 2007 Feb;137(2):447-52.
+
+1. Theron M, Huang KJ, Chen YW, Liu CC, Lei HY. A probable role for IFN gamma in the development of a lung immunopathology in SARS. Cytokine. 2005;32:30-38. doi:10.1016/j.cyto.2005.07.007.
+
+1. Sandhu MS, Casale TB. The role of vitamin D in asthma. Ann. Allergy Asthma Immunol. 2010;105:191-199. doi.org/10.1016/j.anai.2010.01.013.
+
+1. Chen WW, Cai XX, Tian WM, Shang YX. Expression of RANTES in the lung tissue of asthmatic rats, and the intervention effect of vitamin D on RANTES expression. Zhongguo Dang Dai Er Ke Za Zhi. 2012; 14:863-868.
+
+1. Topilski I, Flaishon L, Naveh Y, Harmelin A, Levo Y, Shachar I. The anti-inflammatory effects of 1,25-dihydroxyvitamin D3 on Th2 cells in vivo are due in part to the control of integrin-mediated T lymphocyte homing, Eur. J. Immunol. 2004;34:1068e76. doi.org/10.1002/eji.200324532.
+
+1. Taher YA, van Esch BCAM, Hofman GA, Henricks PAJ, van Oosterhout AJM. 1a,25- Dihydroxyvitamin D3 potentiates the beneficial effects of allergen immunotherapy in a mouse model of allergic asthma: role for IL-10 and TGFbeta, J. Immunol. 2008;180:5211e21. doi.org/10.4049/jimmunol.180.8.5211.
+
+1. Xystrakis E, Kusumakar S, Boswell S, Peek E, Urry Z, Richards DF, Adikibi T, Pridgeon C, Dallman M, Loke TK, Robinson DS, Barrat FJ, O'Garra A, Lavender P, Lee PH, Corrigan C, Hawrylowicz CM. Reversing the defective induction of IL-10-secreting regulatory T cells in glucocorticoid-resistant asthma patients, J. Clin. Invest. 2006;116:146e55. doi.org/10.1172/JCI21759.
+
+1. Tian WM, Yang YG, Shang YX, Cai XX, Chen WW, Zhang H. Role of 1,25-dihydroxyvitamin D3 in the treatment of asthma. Eur. Rev. Med. Pharmacol. Sci. 2014;18:1762-1769.
+
+1. Zhang H, Yang N, Wang T, Dai B, Shang Y. Vitamin D reduces inflammatory response in asthmatic mice through HMGB1/TLR4/NF kB signaling pathway. Mol. Med. Rep. 2018;17:2915- 2920. doi.org/10.3892/mmr.2017.8216.
+
+1. Pfeffer PE, Lu H, Mann EH, Chen YH, Ho TR, Cousins DJ, Corrigan C, Kelly FJ, Mudway IS, Hawrylowicz CM. Effects of vitamin D on inflammatory and oxidative stress responses of human bronchial epithelial cells exposed to particulate matter. PLoS One. 2018;13:e0200040. doi.org/10.1371/journal.pone.0200040.
+
+1. Tan ZX, Chen YH, Xu S, Qin HY, Zhang C, Zhao H, Xu DX. Calcitriol inhibits bleomycin- induced early pulmonary inflammatory response and epithelial-mesenchymal transition in mice. Toxicol. Lett. 2016;240:161-171. doi.org/10.1016/j.toxlet.2015.10.022.
+
+1. Takano Y, Mitsuhashi H, Ueno K, 1a,25-Dihydroxyvitamin D3 inhibits neutrophil recruitment in hamster model of acute lung injury. Steroids. 2011;76:1305-1309. doi.org/10.1016/j.steroids.2011.06.009.
+
+1. Yao L, Shi Y, Zhao X, Hou A, Xing Y, Fu J, Xue X. Vitamin D attenuates hyperoxia-induced lung injury through downregulation of Toll-like receptor 4. Int. J. Mol. Med. 2017;39:1403-1408. doi.org/10.3892/ijmm.2017.2961.
+
+1. Pincikova T, Paquin-Proulx D, Sandberg JK, Flodstrom-Tullberg M, Hjelte L. Vitamin D treatment modulates immune activation in cystic fibrosis. Clin. Exp. Immunol. 2017;189:359-371. doi.org/10.1111/cei.12984.
+
+1. Biswas S, Hwang JW, Kirkham PA, Rahman I. Pharmacological and dietary antioxidant therapies for chronic obstructive pulmonary disease. Curr. Med. Chem. 2013;20:1496-530.
+
+1. Al-Azzawi MA, Ghoneim AH, Elmadbouh I. Evaluation of Vitamin D, Vitamin D Binding Protein Gene Polymorphism with Oxidant - Antioxidant Profiles in Chronic Obstructive Pulmonary Disease, J. Med. Biochem. 2017;36:331-340. doi.org/10.1515/jomb-2017-0012.
+
+1. Laird E, Kenny RA. The Irish Longitudinal Study of Ageing (TILDA). 2020. doi.org/10.38018/TildaRe.2020-05.
+
+1. Gassen NC, Niemeyer D, Muth D, Corman VM, Martinelli S, Gassen A, Hafner K, Papies J, Mosbauer K, Zellner A, Zannas AS, Herrmann A, Holsboer F, Brack-Werner R, Boshart M, Muller-Myhsok B, Drosten C, Muller MA, Rein T. SKP2 attenuates autophagy through Beclin1- ubiquitination and its inhibition reduces MERS-Coronavirus infection. Nat Commun. 2019; 18;10(1):5770. [doi: 10.1038/s41467-019-13659-4.](https://doi.org/10.1038/s41467-019-13659-4.)
+
+1. Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical characteristics of coronavirus disease 2019 in China. N Engl J Med. 2020 Feb 28. [doi: 10.1056/NEJMoa2002032.](https://doi.org/10.1056/NEJMoa2002032.)
+
+1. Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24. [doi: 10.1001/jama.2020.2648.](https://doi.org/10.1001/jama.2020.2648.)
+
+1. Sommerstein R, Grani C. Rapid response: re: preventing a covid-19 pandemic: ACE inhibitors as a potential risk factor for fatal Covid-19. BMJ 2020. https://www.bmj.com/content/368/bmj.m810/rr-2 (8 March 2020).
+
+1. Li XC. Zhang J, Zhuo JL. The vasoprotective axes of the renin-angiotensin system: physiological relevance and therapeutic implications in cardiovascular, hypertensive and kidney diseases. Pharmacol Res. 2017; 125: 21-38.
+
+1. Li W, Moore MJ, Vasilieva N, Sui J, Wong SK, Berne MA, Somasundaran M, Sullivan JL, Luzuriaga K, Greenough TC, Choe H, Farzan M. Angiotensin- converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature. 2003;426:450-454.
+
+1. Hoffmann M, Kleine-Weber H, Schroeder S, Kruger N, Herrler T, Erichsen S, Schiergens T, Herrler G, Wu NH, Nitsche A, Muller MA, Drosten Ch, Pohlmann S. SARS-CoV-2 Cell Entry
+
+1. Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell. 2020: 181, 1-10.
+
+1. Kuster GM, Pfister O, Burkard T, Zhou Q, Twerenbold R, Haaf P, Widmer AF, Osswal S. SARS-CoV2: should inhibitors of the renin-angiotensin system be withdrawn in patients with COVID-19?. Eur Heart J. 2020 Mar 20. pii: ehaa235. [doi: 10.1093/eurheartj/ehaa235.](https://doi.org/10.1093/eurheartj/ehaa235.)
+
+1. Zhang P, Zhu L, Cai J, Lei F, Qin JJ, Xie J, Liu YM, Zhao YC, Huang X, Lin L, Xia M, Chen MM, Cheng X, Zhang X, Guo D, Peng Y, Ji YX, Chen J, She ZG, Wang Y, Xu Q, Tan R, Wang H, Lin J, Luo P, Fu S, Cai H, Ye P, Xiao B, Mao W, Liu L, Yan Y, Liu M, Chen M, Zhang XJ, Wang X, Touyz RM, Xia J, Zhang BH, Huang X, Yuan Y, Rohit L, Liu PP, Li H. Association of Inpatient Use of Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers with Mortality Among Patients With Hypertension Hospitalized With COVID-19. Circ Res. 2020 Apr 17. [doi: 10.1161/CIRCRESAHA.120.317134.](https://doi.org/10.1161/CIRCRESAHA.120.317134.)
+
+1. Sun ML, Yang JM, Sun YP, Su GH. Inhibitors of RAS Might Be a Good Choice for the Therapy of COVID-19 Pneumonia. Zhonghua Jie He He Hu Xi Za Zhi. 2020 Feb 16;43(0):E014. doi:10.3760/cma.j.issn.1001-0939.2020.0014.
+
+1. Gurwitz D. Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics. Drug Dev Res 2020:1-4.
+
+1. Kuba K, Imai Y, Rao S, Huan Y, Guo F, Guan B, Yang P, Sarao R, Wada T, LeongPoi H, Crackower MA, Fukamizu A, Hui CC, Hein L, Uhlig S, Slutsky AS, Jiang C, Penninger JM. Angiotensin-converting enzyme 2 protects from severe acute lung failure. Nature 2005;436:112- 116.
+
+1. Sodhi CP, Wohlford-Lenane C, Yamaguchi Y, Prindle T, Fulton WB., Wang S, McCray, Jr PB, Chappell M, Hackam DJ, Jia H. Attenuation of pulmonary ACE2 activity impairs inactivation of des-Arg9 bradykinin/BKB1R axis and facilitates LPS-induced neutrophil infiltration. Am J Physiol Lung Cell Mol Physiol. 2018; 314: L17-L31.
+
+1. Colotta F, Jansson B, Bonelli F. Modulation of Inflammatory and Immune Responses by Vitamin D. J Autoimmun. 2017;85:78-97.
+
+1. Xu J, Yang J, Chen J, Luo Q, Zhang Q, Zhang H. Vitamin D alleviates lipopolysaccharide induced acute lung injury via regulation of the renin angiotensin system. Mol Med Rep. 2017;16:7432-7438.
+
+1. Grant WB, Giovannucci E. The possible roles of solar ultraviolet-B radiation and vitamin D in reducing case-fatality rates from the 1918-1919 influenza pandemic in the United States. Dermato- Endocrinology. 2009; 1:4: 215-219.
+
+1. Urashima M, Segawa T, Okazaki M, Kurihara M, Wada Y, Ida H. Randomized trial of vitamin D supplementation to prevent seasonal influenza A in schoolchildren. Am J Clin Nutr. 2010;91:1255-1260.
+
+1. Greiller CL, Martineau R. Modulation of the Immune Response to Respiratory Viruses by Vitamin D. Nutrients. 2015; 7: 4240-4270.
+
+1. Jolliffe DA, Greenberg L, Hooper RL, et al. Vitamin D to prevent exacerbations of COPD: systematic review and meta-analysis of individual participant data from randomized controlled trials. Thorax. 2019;74:337-345.
+
+1. Rejnmark L, Bislev LS, Cashman KD, Eiri ksdottir G, GakschM, Grubler M. Non-skeletal health effects of vitamin D supplementation: A systematic review on findings from meta-analyses summarizing trial data. PLoS ONE. 2017; 12(7):e0180512.
+
+1. Yamshchikov AV, Desai NS, Blumberg HM, Ziegler TR, Tangpricha V. Vitamin D for treatment and prevention of infectious diseases: a systematic review of randomized controlled trials. Endocr Pract. 2009; 15: 438-449.
+
+1. Charan J, Goyal JP, Saxena D, Yadav P. Vitamin D for prevention of respiratory tract infections: A systematic review and meta-analysis. J Pharmacol Pharmacother. 2012; 3: 300-303.
+
+1. Bergman P, Lindh AU, Bjorkhem-Bergman L, Lindh JD. Vitamin D and Respiratory Tract Infections: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. PLoS ONE. 2013; 8: e65835.
+
+1. Mao S, Huang S. Vitamin D supplementation and risk of respiratory tract infections: A meta-analysis of randomized controlled trials. Scand J Infect Dis. 2013; 45: 696-702.
+
+1. Das RR, Singh M, Panigrahi I, Naik SS. Vitamin d supplementation for the treatment of acute childhood pneumonia: a systematic review. ISRN Pediatr. 2013; 2013: 459160. 215.
+
+1. Jolliffe DA, Griffiths CJ, Martineau AR. Vitamin D in the prevention of acute respiratory infection: Systematic review of clinical studies. The Journal of Steroid Biochemistry and Molecular Biology. 2013; 136: 321-329.
+
+1. Xiao L, Xing C, Yang Z, Xu S, Wang M, Du H et al. Vitamin D supplementation for the prevention of childhood acute respiratory infections: a systematic review of randomised controlled trials. Br J Nutr. 2015; 114: 1026-1034.
+
+1. Yakoob MY, Salam RA, Khan FR, Bhutta ZA. Vitamin D supplementation for preventing infections in children under five years of age. Cochrane Database of Systematic Reviews. 2016; CD008824.
+
+1. Vuichard Gysin D, Dao D, Gysin CM, Lytvyn L, Loeb M. Effect of Vitamin D3 Supplementation on Respiratory Tract Infections in Healthy Individuals: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. PLoS ONE. 2016; 11: e0162996.
+
+1. Giraldo DM, Cardona A, Urcuqui-Inchima S. High-dose of vitamin D supplement is associated with reduced susceptibility of monocyte-derived macrophages to dengue virus infection and proinflammatory cytokine production: An exploratory study. Clin Chim Acta. 2018,478:140-151.
+
+1. Martinez Moreno J, Hernandez JC, Urcuqui Inchima S. Effect of high doses of vitamin D supplementation on dengue virus replication, Toll-like receptor expression, and cytokine profiles on dendritic cells. Mol Cell Bioch. 2020;464:169-180.
+
+1. Sabetta JR, DePetrillo P, Cipriani RJ, Smardin J, Burns LA, Landry ML. Serum 25- hydroxyvitamin d and the incidence of acute viral respiratory tract infections in healthy adults. PLoS One. 2010; 5. e11088. doi:10.1371/journal.pone.0011088.
+
+1. Quraishi SA, Bittner EA, Blum L, Hutter MM, Camargo CA Jr. Association between preoperative 25-hydroxyvitamin D level and hospital-acquired infections following Roux-en-Y gastric bypass surgery. JAMA Surg. 2014 Feb;149(2):112-8. [doi: 10.1001/jamasurg.2013.3176.](https://doi.org/10.1001/jamasurg.2013.3176.)
+
+1. Laviano E, Sanchez Rubio M, Gonzalez-Nicolas MT, Palacian MP, Lopez J, Gilaberte Y, Calmarza P, Rezusta A, Serrablo A. Association between preoperative levels of 25-hydroxyvitamin D and hospital-acquired infections after hepatobiliary surgery: A prospective study in a third-level hospital. PLoS One. 2020 Mar 26;15(3):e0230336. [doi: 10.1371/journal.pone.0230336.](https://doi.org/10.1371/journal.pone.0230336.)
+
+1. Sanchez A, Oliveri B, Mansur JL, Fradinger E. Diagnostico, prevencion y tratamiento de la hipovitaminosis D. Rev. Argent. Endocrinol. Metab. 2013;50 (2):140-155.
+
+1. Ekwaru JP, Zwicker JD, Holick MF, Giovannucci E, Veugelers PJ. The importance of body weight for the dose response relationship of oral vitamin D supplementation and serum 25- hydroxyvitamin D in healthy volunteers. PLoS One. 2014;9,  e111265. doi:10.1371/journal.pone.0111265.
+
+1. Amir E, Simmons CE, Freedman OC, Dranitsaris G, Cole DE, Vieth R, Ooi WS, Clemons M. A phase 2 trial exploring the effects of high-dose (10,000 IU/day) vitamin D(3) in breast cancer patients with bone metastases. Cancer. 2010, 116: 284-291. doi:10.1002/cncr.24749.
+
+1. Charoenngam N, Shirvani A, Kalajian TA, Song A, Holick MF. The Effect of Various Doses of Oral Vitamin D3 Supplementation on Gut Microbiota in Healthy Adults: A Randomized, Double- blinded, Dose-response Study. Anticancer Res. 2020; 40:551-556. doi:10.21873/anticanres.13984.
+
+1. Shirvani A, Kalajian TA, Song A, Holick MF. Disassociation of Vitamin D's Calcemic Activity and Non-calcemic Genomic Activity and Individual Responsiveness: A Randomized Controlled Double-Blind Clinical Trial. Sci Rep. 2019; 9: 17685. doi:10.1038/s41598-019-53864-1.
+
+1. McCullough PJ, Lehrer DS, Amend J. Daily oral dosing of vitamin D3 using 5,000 to 50,000 international units a day in long-term hospitalized patients: Insights from a seven year experience. J Steroid Biochem Mol Biol. 2019; 189: 228-239. doi:10.1016/j.jsbmb.2018.12.010.
+
+1. Cipriani A, Romagnoli E, Scillitani A, Chiodini I, Clerico R, Carnevale V, Mascia ML, Battista C, Viti R, Pileri M, Eller-Vainicher C, Minisola S. Effect of a Single Oral Dose of 600,000 IU of
+
+1. Cholecalciferol on Serum Calciotropic Hormones in Young Subjects With Vitamin D Deficiency: A Prospective Intervention Study. J Clin Endocrinol Metab. 2010;95:4771-4777.
+
+1. Kearns MD, Alvarez JA, Tangpricha V. Large, single-dose, oral vitamin D supplementation in adult populations: a systematic review. Endocr Pract. 2014; 20:341-351.
+
+1. Alipio M. Vitamin D Supplementation Could Possibly Improve Clinical Outcomes of Patients Infected with Coronavirus-2019 (COVID-2019) (April 8, 2020). Available at SSRN:  https://ssrn.com/abstract=3571484 or  http://dx.doi.org/10.2139/ssrn.3571484
+
+1. Bolland M, Grey A, Gamble G, Reid I. The effect of vitamin D supplementation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis. Lancet Diabetes Endocrinol. 2014; 2: 307-20.
+
+1. Grant WB, Lahore H, McDonnell SL, Baggerly CA, French CB, Aliano JL, Bhattoa HP. Vitamin D Supplementation Could Prevent and Treat Influenza, Coronavirus, and Pneumonia Infections. Preprints 2020, 2020030235 ([doi: 10.20944/preprints202003.0235.v1)](https://doi.org/10.20944/preprints202003.0235.v1))
+
+1. Rhodes JM, Subramanian S, Laird E, Kenny RA. Editorial: Low population mortality from COVID- 19 in countries south of latitude 35 degrees North - supports vitamin D as a factor determining severity. Aliment Pharmacol Ther. 2020 Apr 20. [doi: 10.1111/apt.15777.](https://doi.org/10.1111/apt.15777.)
+
+1. The association of UK Dietitians: Covid 19, Coronavirus - Advice for general Public. March 16, 2020.  https://www.bda.uk.com/resource/covid-19-corona-virus-advice-for-the-general-public.html

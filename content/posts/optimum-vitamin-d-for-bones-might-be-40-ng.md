@@ -43,19 +43,19 @@ Nauta, Maarten, Technical University of Denmark, National Food Institute
 
 <div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:770px">
 
-* <a href="/posts/vitamin-d-at-least-4000-iu-to-achieve-40-60-ng-and-reduce-risk-of-early-death-holick" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D - at least 4,000 IU to achieve 40-60 ng and reduce risk of early death – Holick June 2018">Vitamin D - at least 4,000 IU to achieve 40-60 ng and reduce risk of early death – Holick June 2018</a>
+* [Vitamin D - at least 4,000 IU to achieve 40-60 ng and reduce risk of early death – Holick June 2018](/posts/vitamin-d-at-least-4000-iu-to-achieve-40-60-ng-and-reduce-risk-of-early-death-holick)
 
-* <a href="/posts/vitamin-d-sufficiency-10-to-30-ng-optimal-40-to-80-ng-no-consensus" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D sufficiency 10 to 30 ng, optimal 40 to 80 ng (no consensus)– May 2018">Vitamin D sufficiency 10 to 30 ng, optimal 40 to 80 ng (no consensus)– May 2018</a>
+* [Vitamin D sufficiency 10 to 30 ng, optimal 40 to 80 ng (no consensus)– May 2018](/posts/vitamin-d-sufficiency-10-to-30-ng-optimal-40-to-80-ng-no-consensus)
 
-* <a href="/posts/optimal-level-of-vitamin-d-is-40-ng-93-percent-of-canadians-do-not-have-optimal-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimal level of vitamin D is 40 ng, 93 percent of Canadians do not have optimal levels – Oct 2017">Optimal level of vitamin D is 40 ng, 93 percent of Canadians do not have optimal levels – Oct 2017</a>
+* [Optimal level of vitamin D is 40 ng, 93 percent of Canadians do not have optimal levels – Oct 2017](/posts/optimal-level-of-vitamin-d-is-40-ng-93-percent-of-canadians-do-not-have-optimal-levels)
 
-* <a href="/posts/6000-iu-needed-for-many-to-achieve-40-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6,000 IU needed for many to achieve 40 ng of Vitamin D - Feb 2017">6,000 IU needed for many to achieve 40 ng of Vitamin D - Feb 2017</a>
+* [6,000 IU needed for many to achieve 40 ng of Vitamin D - Feb 2017](/posts/6000-iu-needed-for-many-to-achieve-40-ng-of-vitamin-d)
 
 * [4 more reasons to have more than 40 ng of vitamin D - 2015](/posts/4-more-reasons-to-have-more-than-40-ng-of-vitamin-d-2015)
 
 * [Optimum Vitamin D level: Evidence for 30 and 40 ng – Grant Aug 2013](/posts/optimum-vitamin-d-level-evidence-for-30-and-40-ng-grant)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 </div>
 

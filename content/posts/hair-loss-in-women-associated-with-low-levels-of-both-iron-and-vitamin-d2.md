@@ -58,11 +58,11 @@ Copyright © 2013 S. Karger AG, Basel. PMID:     23428658
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-reduces-hair-loss-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces hair loss - many studies">Vitamin D reduces hair loss - many studies</a>  
+* [Vitamin D reduces hair loss - many studies](/posts/vitamin-d-reduces-hair-loss-many-studies)  
 
-* <a href="/posts/vitamin-d2-patent-granted-to-prevent-hair-loss-during-chemotherapy-2002" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D2 patent granted to prevent hair loss during chemotherapy – 2002">Vitamin D2 patent granted to prevent hair loss during chemotherapy – 2002</a>
+* [Vitamin D2 patent granted to prevent hair loss during chemotherapy – 2002](/posts/vitamin-d2-patent-granted-to-prevent-hair-loss-during-chemotherapy-2002)
 
-* <a href="/posts/vitamin-d-and-hair-disorders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Hair disorders – Feb 2010">Vitamin D and Hair disorders – Feb 2010</a>
+* [Vitamin D and Hair disorders – Feb 2010](/posts/vitamin-d-and-hair-disorders)
 
 * [Vitamin D Shows Promise in Curing Baldness – July 2012](/posts/vitamin-d-shows-promise-in-curing-baldness) 
 

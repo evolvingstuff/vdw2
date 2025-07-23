@@ -87,10 +87,10 @@ Cardiovascular disease is the leading cause of morbidity/mortality in patients w
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Diabetics with low vitamin D had more cognitive impairment– Aug 2013](/posts/diabetics-with-low-vitamin-d-had-more-cognitive-impairment) wonder if that is due to clogging of blood vessels in the brain
 
-* <a href="/posts/vitamin-d-deficiency-might-cause-diabetes-and-cardiovascular-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D deficiency might cause diabetes and cardiovascular diseases – Jan 2012">Vitamin D deficiency might cause diabetes and cardiovascular diseases – Jan 2012</a>
+* [Vitamin D deficiency might cause diabetes and cardiovascular diseases – Jan 2012](/posts/vitamin-d-deficiency-might-cause-diabetes-and-cardiovascular-diseases)
 
 * [Timeline of Heart Disease, Diabetes, fats, lard, HFCS, and vitamin D – Aug 2012](/posts/timeline-of-heart-disease-diabetes-fats-lard-hfcs-and-vitamin-d)

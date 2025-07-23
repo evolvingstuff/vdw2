@@ -251,4 +251,4 @@ Address requests for reprints to: Dr. Christian M. Girgis or Associate Professor
 
 Disclosure Summary: C.M.G. received salary support from a postgraduate scholar award from University of Sydney. J.E.G. received funding from the Diabetes Australia Research Trust and the National Health and Medical Research Council. The remaining authors have no conflicts of interest to report.
 
-## References are in PDF at bottom of <a href="/posts/page-1" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3766">page 1</a>
+## References are in PDF at bottom of [page 1](/tags/page-1.html)

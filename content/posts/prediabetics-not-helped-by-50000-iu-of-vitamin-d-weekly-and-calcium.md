@@ -72,16 +72,16 @@ A randomized double-blind study with a  **longer duration**  of treatment is sug
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Normalizing vitamin D levels reduced prediabetic measure by 18 percent – RCT Oct 2012 ](/posts/normalizing-vitamin-d-levels-reduced-prediabetic-measure-by-18-percent-rct)
 
 * [27 percent less likely to develop diabetes if prediabetic and have adequate vitamin D – Mar 2012](/posts/27-percent-less-likely-to-develop-diabetes-if-prediabetic-and-have-adequate-vitamin-d)
 
-* <a href="/posts/prediabetes-progression-to-diabetes-25-percent-less-for-every-4-ng-increase-in-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes progression to diabetes 25 percent less for every 4 ng increase in vitamin D – April 2012">Prediabetes progression to diabetes 25 percent less for every 4 ng increase in vitamin D – April 2012</a>
+* [Prediabetes progression to diabetes 25 percent less for every 4 ng increase in vitamin D – April 2012](/posts/prediabetes-progression-to-diabetes-25-percent-less-for-every-4-ng-increase-in-vitamin-d)
 
 * [Intervention Studies - vitamin D and Prediabetes](http://clinicaltrials.gov/ct2/results?term=prediabetes&recr=&rslt=&type=&cond=&intr=%22vitamin+d%22&titles=&outc=&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&rcv_s=&rcv_e=&lup_s=&lup_e=) 20 studies as of Jan 2013
 
-* <a href="/posts/pre-diabetes-and-hypertension-24x-more-common-when-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pre-diabetes and hypertension 2.4X more common when less than 30 ng of vitamin D – Jan 2011">Pre-diabetes and hypertension 2.4X more common when less than 30 ng of vitamin D – Jan 2011</a>
+* [Pre-diabetes and hypertension 2.4X more common when less than 30 ng of vitamin D – Jan 2011](/posts/pre-diabetes-and-hypertension-24x-more-common-when-less-than-30-ng-of-vitamin-d)

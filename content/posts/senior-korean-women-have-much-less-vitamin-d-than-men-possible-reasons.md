@@ -79,7 +79,7 @@ PMID: 24431921
 
 #### See also VitaminDWiki
 
-* <a href="/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: South Koreans - half take supplements, Vitamin D levels dropping, COVID-19">South Koreans - half take supplements, Vitamin D levels dropping, COVID-19</a>
+* [South Koreans - half take supplements, Vitamin D levels dropping, COVID-19](/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19)
 
 * [Obese need 2.5 IU of vitamin D per kg to increase 1 ng (about 3.4 X more) – RCT Sept 2013](/posts/obese-need-25-iu-of-vitamin-d-per-kg-to-increase-1-ng-about-34-x-more-rct)
 
@@ -93,7 +93,7 @@ PMID: 24431921
 
 * [9X increase in Koreans seeking help with vitamin D deficiency in just 4 years – Jan 2015](/posts/9x-increase-in-koreans-seeking-help-with-vitamin-d-deficiency-in-just-4-years)
 
-* <a href="/posts/half-of-the-women-who-are-fat-do-not-have-a-high-bmi" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Half of the women who are fat do not have a high BMI – March 2012">Women have a higher percentage of body fat than men</a>
+* [Women have a higher percentage of body fat than men](/posts/half-of-the-women-who-are-fat-do-not-have-a-high-bmi)
 
  **<span style="color:#F00;">women = red dots</span>** 
 

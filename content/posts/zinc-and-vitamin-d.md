@@ -113,7 +113,7 @@
 
 * Not much daily zinc is needed - 10 mg seems OK for most people, 
 
-> &nbsp; &nbsp; 20 mg has been proven to <a href="/posts/zinc-cut-in-half-the-rate-of-prediabetes-progressing-to-diabetes-20-mg-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zinc cut in half the rate of prediabetes progressing to diabetes (20 mg) – RCT Oct 2017">cut in half the progression of prediabetes to diabetes</a>
+> &nbsp; &nbsp; 20 mg has been proven to [cut in half the progression of prediabetes to diabetes](/posts/zinc-cut-in-half-the-rate-of-prediabetes-progressing-to-diabetes-20-mg-rct)
 
 * [FYI: Zinc is the oldest knows pill - used by the Romans](https://en.wikipedia.org/wiki/Zinc#:~:text=the%20oldest%20known%20pills%20were%20made%20of%20the%20zinc%20carbonates%20hydrozincite%20and%20smithsonite.%20) WikiPedia
 

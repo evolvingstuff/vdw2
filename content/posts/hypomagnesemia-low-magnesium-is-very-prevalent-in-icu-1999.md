@@ -184,7 +184,7 @@ The underlying disease should also be corrected, if possible. Patients with hypo
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Drugs Deplete Magnesium](/posts/drugs-deplete-magnesium)
 
@@ -194,11 +194,11 @@ The underlying disease should also be corrected, if possible. Patients with hypo
 
 * [A balanced diet is no longer enough – supplements needed - VitaminDWiki Oct 2012](/posts/a-balanced-diet-is-no-longer-enough-supplements-needed-vitamindwiki)
 
-* <a href="/posts/magnesium-deficiency-reduces-vitamin-d-effectiveness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Deficiency Reduces Vitamin D Effectiveness- Sept 2011">Magnesium Deficiency Reduces Vitamin D Effectiveness- Sept 2011</a>
+* [Magnesium Deficiency Reduces Vitamin D Effectiveness- Sept 2011](/posts/magnesium-deficiency-reduces-vitamin-d-effectiveness)
 
-* <a href="/posts/most-people-not-getting-enough-vitamin-d-magnesium-and-vitamin-e" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Most people not getting enough Vitamin D, Magnesium, and Vitamin E – Aug 2011">Most people not getting enough Vitamin D, Magnesium, and Vitamin E – Aug 2011</a>
+* [Most people not getting enough Vitamin D, Magnesium, and Vitamin E – Aug 2011](/posts/most-people-not-getting-enough-vitamin-d-magnesium-and-vitamin-e)
 
-* <a href="/posts/very-low-on-micronutrients-such-as-vitamin-d-and-magnesium-nhanes-data" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Very low on micronutrients such as vitamin D and Magnesium – NHANES data Aug 2011">Very low on micronutrients such as vitamin D and Magnesium – NHANES data Aug 2011</a>
+* [Very low on micronutrients such as vitamin D and Magnesium – NHANES data Aug 2011](/posts/very-low-on-micronutrients-such-as-vitamin-d-and-magnesium-nhanes-data)
 
 ### See also PubMed
 

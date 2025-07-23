@@ -55,12 +55,12 @@ Study is described at [Scientific American](http://blogs.scientificamerican.com/
 
 ## VitaminDWiki includes
 
-1. Random Controlled Trials - <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> &nbsp; &nbsp;<a href="/posts/summary-of-vitamin-d-trials-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Summary of Vitamin D trials - Grant Nov 2012">Summary of Vitamin D trials - Grant Nov 2012</a>
+1. Random Controlled Trials - [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) &nbsp; &nbsp;[Summary of Vitamin D trials - Grant Nov 2012](/posts/summary-of-vitamin-d-trials-grant)
 
 1. Observational trials - hundreds
 
-1. Recommendations by governments and Medical Societies <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+1. Recommendations by governments and Medical Societies [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
 1. Doctors recommendations
 
-<a href="/posts/overview-evidence-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Evidence for vitamin D">Overview Evidence for vitamin D</a>
+[Overview Evidence for vitamin D](/posts/overview-evidence-for-vitamin-d)

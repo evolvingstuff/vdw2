@@ -88,14 +88,14 @@ Note from PDF - This was with Vitamin D2 (1000 IU) .  Vitamin D3 would be much b
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview Fractures</a>
+* [Overview Fractures](/tags/overview-fractures.html)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
-* <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 484">Overview Parkinsons and Vitamin D</a>
+* [Overview Parkinsons and Vitamin D](/posts/overview-parkinsons-and-vitamin-d)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
-* [68+ pages with hip tracture in title as of Dec 2022](/categories/falls-and-fractures)
+* [68+ pages with hip tracture in title as of Dec 2022](/posts/falls-and-fractures)
 
 * [The more the elderly got sunshine, the fewer falls they had - 2011](/posts/the-more-the-elderly-got-sunshine-the-fewer-falls-they-had-2011)

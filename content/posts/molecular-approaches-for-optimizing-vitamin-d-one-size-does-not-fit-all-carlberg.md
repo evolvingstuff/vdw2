@@ -94,10 +94,10 @@ If a loading dose is used the vitamin D tests could be closely spaced (a few day
 
 #### Some of Carlberg's later publications on VitaminDWiki
 
-* <a href="/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019">Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019</a>
+* [Vitamin D Nutrigenomics - High, Medium, and Low Responders - March 2019](/posts/vitamin-d-nutrigenomics-high-medium-and-low-responders)
 
-* <a href="/posts/huge-variation-in-response-to-vitamin-d-supplementation-personal-vitamin-d-response-index" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Huge variation in response to vitamin D supplementation – personal vitamin D response index – Dec 2016">Huge variation in response to vitamin D supplementation – personal vitamin D response index – Dec 2016</a>
+* [Huge variation in response to vitamin D supplementation – personal vitamin D response index – Dec 2016](/posts/huge-variation-in-response-to-vitamin-d-supplementation-personal-vitamin-d-response-index)
 
-* <a href="/posts/vitamin-d-effects-on-over-300-genes-varies-with-genetics-and-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D effects on over 300 genes varies with genetics and levels – Dec 2020">Vitamin D effects on over 300 genes varies with genetics and levels – Dec 2020</a>
+* [Vitamin D effects on over 300 genes varies with genetics and levels – Dec 2020](/posts/vitamin-d-effects-on-over-300-genes-varies-with-genetics-and-levels)
 
-* <a href="/posts/vitamin-d-up-and-down-regulates-1000s-of-genes-via-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D up and down regulates 1,000’s of genes via the Vitamin D Receptor – March 2022">Vitamin D up and down regulates 1,000’s of genes via the Vitamin D Receptor – March 2022</a>
+* [Vitamin D up and down regulates 1,000’s of genes via the Vitamin D Receptor – March 2022](/posts/vitamin-d-up-and-down-regulates-1000s-of-genes-via-the-vitamin-d-receptor)

@@ -69,7 +69,7 @@ Limitations: Lack of direct measurement of free and bioavailable vitamin D.
 
 Conclusions: In the general population, blood levels of vitamin D binding protein were positively associated and blood levels of free and bioavailable 25(OH)D were inversely associated with new-onset ESRD during follow-up.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1053/j.ajkd.2015.08.026** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1053/j.ajkd.2015.08.026** 
 
 ---
 
@@ -87,4 +87,4 @@ Results:There was a statistically significant inverse trend across quartiles of 
 
 Conclusions:Our findings demonstrate a strong inverse association between circulating DBP and risk of renal cell carcinoma, supporting the findings from previous research. Impact:This is only the second study to examine vitamin D binding protein (DBP) and risk of kidney cancer, and one of only a handful of studies to examine circulating DBP and risk of cancer at any site. Our findings support emerging evidence for an etiologic role of DBP in cancer and may provide insights into the etiology of kidney and other cancers.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1158/1055-9965.EPI-18-0263**
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1158/1055-9965.EPI-18-0263**

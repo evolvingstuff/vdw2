@@ -62,7 +62,7 @@ all slides are attached at the bottom of this page
 
  **[Sleep, Vitamin D, Vitamin B-12, IBS, Fibromyalgia - Gominak March 2015](/posts/sleep-vitamin-d-vitamin-b-12-ibs-fibromyalgia-gominak)** 
 
- **<a href="/posts/sleep-problems-cured-by-vitamin-d-etc-workshops-and-patient-workbooks-gominak-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sleep problems cured by vitamin D, etc. – workshops and patient workbooks – Gominak 2018">Sleep problems cured by vitamin D, etc. – workshops and patient workbooks – Gominak 2018</a>** 
+ **[Sleep problems cured by vitamin D, etc. – workshops and patient workbooks – Gominak 2018](/posts/sleep-problems-cured-by-vitamin-d-etc-workshops-and-patient-workbooks-gominak-2018)** 
 
 ### What’s the right dose?
 

@@ -174,4 +174,4 @@ Which has an interesting [set of publications online – with hyperlinks](http:/
 
 * [Omega-3 prevents PTSD and some mood disorders - Aug 2015](/posts/omega-3-prevents-ptsd-and-some-mood-disorders)
 
-* <a href="/posts/adhd-autism-early-psychosis-and-omega-3-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD, Autism, Early Psychosis and Omega-3 – review Dec 2017">ADHD, Autism, Early Psychosis and Omega-3 – review Dec 2017</a>
+* [ADHD, Autism, Early Psychosis and Omega-3 – review Dec 2017](/posts/adhd-autism-early-psychosis-and-omega-3-review)

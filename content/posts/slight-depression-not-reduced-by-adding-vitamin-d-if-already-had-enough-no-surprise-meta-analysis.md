@@ -54,4 +54,4 @@ Future RCTs examining the effect of vitamin D supplementation among individuals 
 
 * [Depression might be reduced by vitamin D – meta-analysis March 2014](/posts/depression-might-be-reduced-by-vitamin-d-meta-analysis)
 
-* [Depression](/categories/depression) category overview
+* [Depression](/tags/depression.html) category overview

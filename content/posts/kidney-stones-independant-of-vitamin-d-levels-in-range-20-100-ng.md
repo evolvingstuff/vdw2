@@ -59,7 +59,7 @@ Conclusions. We concluded that a serum 25-hydroxyvitamin D level of 20 to 100 na
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-stones-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney Stones and vitamin D">Overview Kidney Stones and vitamin D</a>
+* [Overview Kidney Stones and vitamin D](/posts/overview-kidney-stones-and-vitamin-d)
 
 > Rate of Kidney stones appears to increase with Calcium and decrease with Vitamin K2 and Magnesium
 

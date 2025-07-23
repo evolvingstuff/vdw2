@@ -35,7 +35,7 @@
 
 > Vitamin E,  **Vitamin D** , Aloe Vera, Shea Butter, Squalene Oil, etc
 
-* <a href="/posts/how-60-ng-of-vitamin-d-enabled-pregnancy-a-personal-story" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How 60 ng of vitamin D enabled pregnancy - a personal story">How 60 ng of vitamin D enabled pregnancy - a personal story</a> on VitaminDWiki
+* [How 60 ng of vitamin D enabled pregnancy - a personal story](/posts/how-60-ng-of-vitamin-d-enabled-pregnancy-a-personal-story) on VitaminDWiki
 
 > Stretch marks PREVENTED in one woman with lots of vitamin D
 

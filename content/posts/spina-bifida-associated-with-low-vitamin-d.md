@@ -92,4 +92,4 @@ Taken together, these results suggest that supplementation with VitD3 during pre
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-is-at-least-100-x-better-than-folic-acid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is at least 100 X better than Folic Acid">Vitamin D is at least 100 X better than Folic Acid</a>
+* [Vitamin D is at least 100 X better than Folic Acid](/posts/vitamin-d-is-at-least-100-x-better-than-folic-acid)

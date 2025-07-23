@@ -57,18 +57,18 @@ Knowledge of these variables may improve targeted education and public health in
 
 #### See also VitaminDWiki
 
-* <a href="/posts/canadian-immigrants-have-lower-vitamin-d-levels-and-more-chronic-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Canadian immigrants have lower vitamin D levels and more chronic diseases – April 2022">Canadian immigrants have lower vitamin D levels and more chronic diseases – April 2022</a>
+* [Canadian immigrants have lower vitamin D levels and more chronic diseases – April 2022](/posts/canadian-immigrants-have-lower-vitamin-d-levels-and-more-chronic-diseases)
 
 * [Immigrants and refugees had lower vitamin D levels – Jan 2013](/posts/immigrants-and-refugees-had-lower-vitamin-d-levels)
 
-* <a href="/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012">Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012</a>
+* [Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012](/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood)
 
-* <a href="/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Black Sudanese children 350X more likely to have rickets than other Australians – April 2012">Black Sudanese children 350X more likely to have rickets than other Australians – April 2012</a>
+* [Black Sudanese children 350X more likely to have rickets than other Australians – April 2012](/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians)
 
 * [Low vitamin D associated with poor regions in the UK, median was 10 ng – Nov 2012](/posts/low-vitamin-d-associated-with-poor-regions-in-the-uk-median-was-10-ng)
 
-* <a href="/posts/immigrant-vitamin-d-deficiency-in-europe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Immigrant vitamin D deficiency in Europe – May 2011">Immigrant vitamin D deficiency in Europe – May 2011</a>
+* [Immigrant vitamin D deficiency in Europe – May 2011](/posts/immigrant-vitamin-d-deficiency-in-europe)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Low vitamin D 5 times more likely in poor and ethnic neighborhoods (than the best in Dublin) – Nov 2016](/posts/low-vitamin-d-5-times-more-likely-in-poor-and-ethnic-neighborhoods-than-the-best-in-dublin)

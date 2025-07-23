@@ -65,7 +65,7 @@ Terry J. Aspray, Claire Bowring, William Fraser, Neil Gittoes, M. Kassim Javaid,
 
 * They appear to be unaware of the many vitamin D3 supplements for vegetarians
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 50 proofs as of Sept 2014 
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 50 proofs as of Sept 2014 
 
 > Note: There was only 1 proof as of the time that IoM stopped looking at data
 

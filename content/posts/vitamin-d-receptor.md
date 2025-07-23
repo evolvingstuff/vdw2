@@ -151,7 +151,7 @@ A poor VDR is associated with the risk of  **<span style="color:#F00;">55</span>
 
 The risk of <span style="color:#F00;">48 </span> diseases at least double with poor VDR as of Jan 2023 &nbsp;click here for details
 
-Some health problem, such as <a href="/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer reduces receptor and thus blocks Vitamin D to the cells – several studies">Breast Cancer</a> reduce the VDR
+Some health problem, such as [Breast Cancer](/posts/breast-cancer-reduces-receptor-and-thus-blocks-vitamin-d-to-the-cells-several-studies) reduce the VDR
 
 <!-- ~tc~ endCount~/tc~ -->
 
@@ -190,7 +190,7 @@ Some health problem, such as <a href="/posts/breast-cancer-reduces-receptor-and-
 
 <!-- ~tc~ stopCompensate~/tc~ -->
 
-<a href="/posts/far-healthier-and-stronger-at-age-72-due-to-supplements" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Far healthier and stronger at age 72 due to supplements">Far healthier and stronger at age 72 due to supplements</a> Includes 6 supplements that help the VDR
+[Far healthier and stronger at age 72 due to supplements](/posts/far-healthier-and-stronger-at-age-72-due-to-supplements) Includes 6 supplements that help the VDR
 
 <!-- ~tc~ end ~/tc~ --> 
 
@@ -211,7 +211,7 @@ Some health problem, such as <a href="/posts/breast-cancer-reduces-receptor-and-
 | Risk<br>increase | Health Problem |
 | 50 | ((Lyme disease and Vitamin D Receptor - many studies | Lyme Disease))  *****  |
 | 28 | ((Leprosy, low Vitamin D and poor Vitamin D Receptor - many studies | Leprosy)) - another says 3X |
-| 15 | <a href="/posts/chronic-heart-failure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 10602">Chronic Heart Failure</a> |
+| 15 | [Chronic Heart Failure](/tags/chronic-heart-failure.html) |
 | 15 | ((Temporary hair loss (Telogen Effluvium) is 15X more likely if poor Vitamin D Receptor – Oct 2019 | Temporary hair loss)) |
 | 14.7 | ((Poor prognosis of solid childhood cancers 14.7 X more likely with a poor Vitamin D Receptor – July 2022 | Childhood solid cancers)) |
 | 14 | ((Hand, foot, and Mouth disease is 14X more likely if poor Vitamin D Receptor – Oct 2019 | Hand, Foot, and Mouth disease)) |
@@ -273,7 +273,7 @@ Some health problem, such as <a href="/posts/breast-cancer-reduces-receptor-and-
 | 1.5 | ((Severe Pertussis is 1.5 times more likely if poor vitamin D receptor – Feb 2016 | Pertussis)) |
 | 1.5 | ((Obesity 1.5 X more likely if poor Vitamin D receptor – Dec 2017 | Obesity)) |
 | 1.4 | ((Graves' disease 1.4 X more likely if poor Vitamin D Receptor – March 2019 | Graves Disease)) |
-| 1.4  | [Rheumatoid arthritis](/categories/rheumatoid-arthritis) |
+| 1.4  | [Rheumatoid arthritis](/posts/rheumatoid-arthritis) |
 | 1.3 | ((Health problems running in family may be due to poor vitamin D (hypertension, VDR in this case) Sept 2022 | Hypertension)) |
 | 1.3 | ((Childhood asthma about 1.3 times more likely if poor Vitamin D Receptor – meta-analysis Aug 2016 | Childhood asthma)) see also 5X |
 | 1.3 | ((Psoriasis risk in Caucasians is 1.3 X higher if poor Vitamin D Receptor – meta-analysis Nov 2018 | Psoriasis in Caucasians)) |
@@ -303,7 +303,7 @@ Some health problem, such as <a href="/posts/breast-cancer-reduces-receptor-and-
 
 #### Book: Sunlight, UV, Vitamin D and Receptor, Skin and Other Cancers - Dec 2020
 
- **<a href="/posts/book-sunlight-uv-vitamin-d-and-receptor-skin-and-other-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Book: Sunlight, UV, Vitamin D and Receptor, Skin and other Cancers - Dec 2020">Book: Sunlight, UV, Vitamin D and Receptor, Skin and other Cancers - Dec 2020</a>** 
+ **[Book: Sunlight, UV, Vitamin D and Receptor, Skin and other Cancers - Dec 2020](/posts/book-sunlight-uv-vitamin-d-and-receptor-skin-and-other-cancers)** 
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/vdr-chapter-from-2020-book.pdf">Download the VDR chapter from sci-hub via VitaminDWiki</a>** 
 

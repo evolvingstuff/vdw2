@@ -51,11 +51,11 @@ Pulmonary hypertension is a rare disease - < 200,000 per year in US
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/pulmonary-hypertension-deaths-prevented-by-80-ng-of-vitamin-d-in-rats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pulmonary Hypertension deaths prevented by 80 ng of Vitamin D (in rats) – July 2017">Pulmonary Hypertension deaths prevented by 80 ng of Vitamin D (in rats) – July 2017</a>
+* [Pulmonary Hypertension deaths prevented by 80 ng of Vitamin D (in rats) – July 2017](/posts/pulmonary-hypertension-deaths-prevented-by-80-ng-of-vitamin-d-in-rats)
 
 * [The relationship between vitamin D deficiency and pulmonary hypertension – 2013](/posts/the-relationship-between-vitamin-d-deficiency-and-pulmonary-hypertension-2013)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a> Magnesium and Omega-3 also reduce standard hypertension
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d) Magnesium and Omega-3 also reduce standard hypertension
 
 * [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade) has the following
 

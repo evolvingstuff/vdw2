@@ -71,12 +71,12 @@ Conclusions: The analysis of 2135 adult patients showed that 25(OH)D concentrati
 
 * [Vitamin D and Immune Function – Review July 2013](/posts/vitamin-d-and-immune-function-review)
 
-* <a href="/posts/vitamin-ds-potential-to-reduce-the-risk-of-hospital-acquired-infections" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D's potential to reduce the risk of hospital-acquired infections – May 2012">Vitamin D's potential to reduce the risk of hospital-acquired infections – May 2012</a>
+* [Vitamin D's potential to reduce the risk of hospital-acquired infections – May 2012](/posts/vitamin-ds-potential-to-reduce-the-risk-of-hospital-acquired-infections)
 
 * [More sepsis deaths when active vitamin D (Calcitrol) was low – May 2013](/posts/more-sepsis-deaths-when-active-vitamin-d-calcitrol-was-low)
 
-* <a href="/posts/how-to-reduce-hospital-infections-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How to reduce hospital infections with vitamin D – April 2012">How to reduce hospital infections with vitamin D – April 2012</a>
+* [How to reduce hospital infections with vitamin D – April 2012](/posts/how-to-reduce-hospital-infections-with-vitamin-d)
 
-* <a href="/posts/mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011">MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011</a>
+* [MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011](/posts/mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d)
 
 * [Chance of dying within 1 month of entering hospital is 45 percent higher if low vitamin D – July 2013](/posts/chance-of-dying-within-1-month-of-entering-hospital-is-45-percent-higher-if-low-vitamin-d)

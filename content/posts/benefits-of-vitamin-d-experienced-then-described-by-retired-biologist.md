@@ -726,7 +726,7 @@ It would be reasonable to create in the future new agricultural products with in
 
 * [Free Vitamin D evaluation service](/posts/free-vitamin-d-evaluation-service) Von Helden
 
-* <a href="/posts/increasing-german-levels-of-vitamin-d-to-30-ng-could-save-18300-lives-annually" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009">Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009</a> Von Helden
+* [Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009](/posts/increasing-german-levels-of-vitamin-d-to-30-ng-could-save-18300-lives-annually) Von Helden
 
 * [Healthy in Seven Days - Loading dose of Vitamin D – book 2014](/posts/healthy-in-seven-days-loading-dose-of-vitamin-d-book-2014) Von Helden
 

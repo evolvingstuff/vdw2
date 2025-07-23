@@ -101,13 +101,13 @@ Mozos I1, Marginean O2
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
 
-<a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+[Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-<a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+[Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
-<a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+[Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
-<a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+[Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 </div>
 

@@ -51,7 +51,7 @@ PMID:    23092570
 
 ---
 
-### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4045">CLICK HERE</a> for the Chinese text extracted from the PDF
+### [CLICK HERE](/tags/click-here.html) for the Chinese text extracted from the PDF
 
  **The following is the text translated to English** 
 

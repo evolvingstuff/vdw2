@@ -22,7 +22,7 @@
 }
 
 
-**Update <a href="/posts/who-recommends-zero-vitamin-d-during-pregnancy-rest-of-the-world-disagrees-2018-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: WHO recommends zero vitamin D during pregnancy, rest of the world disagrees – 2018, 2020">WHO recommends zero vitamin D during pregnancy, rest of the world disagrees – 2018, 2020</a>** 
+**Update [WHO recommends zero vitamin D during pregnancy, rest of the world disagrees – 2018, 2020](/posts/who-recommends-zero-vitamin-d-during-pregnancy-rest-of-the-world-disagrees-2018-2020)** 
 
 WHO allows 200 IU if the woman has a documented Vitamin D deficiency
 

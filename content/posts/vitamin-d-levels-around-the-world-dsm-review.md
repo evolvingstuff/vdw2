@@ -703,11 +703,11 @@ using nutrition-related daily vitamin D3 doses (1'600 -3'200 IU)
 
 * [Search VitaminDWiki for DSM](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=dsm&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 587 hits March 2020
 
-* <a href="/posts/dsm-holder-of-many-vitamin-d-patents-to-make-deficiency-map" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DSM - holder of many vitamin D patents - to make deficiency map - Dec 2010">DSM - holder of many vitamin D patents - to make deficiency map - Dec 2010</a>
+* [DSM - holder of many vitamin D patents - to make deficiency map - Dec 2010](/posts/dsm-holder-of-many-vitamin-d-patents-to-make-deficiency-map)
 
 * [Is HyD (25(OH)D) a better form of vitamin D for some animals and maybe humans with liver problems](/posts/is-hyd-25ohd-a-better-form-of-vitamin-d-for-some-animals-and-maybe-humans-with-liver-problems) a DSM product
 
-* <a href="/posts/patent-for-combination-of-vitamin-d3-and-calcifediol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Patent for combination of vitamin D3 and calcifediol– Sept 2009">Patent for combination of vitamin D3 and calcifediol– Sept 2009</a>
+* [Patent for combination of vitamin D3 and calcifediol– Sept 2009](/posts/patent-for-combination-of-vitamin-d3-and-calcifediol)
 
 ---
 

@@ -40,4 +40,4 @@ PMID: 21878055
 
 # See also VitaminDWiki
 
-* <a href="/posts/hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1078">HIV and vitamin D</a>
+* [HIV and vitamin D](/tags/hiv-and-vitamin-d.html)

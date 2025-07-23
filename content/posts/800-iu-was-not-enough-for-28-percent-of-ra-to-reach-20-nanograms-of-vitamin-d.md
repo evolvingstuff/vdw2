@@ -68,16 +68,16 @@ PMID: 22766134
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1425">Overview Vitamin D Dose-Response</a>
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response)
 
-* <a href="/posts/800-iu-vitamin-d-resulted-in-20-ng-3200-iu-resulted-in-45-ng-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2500">800 IU vitamin D resulted in 20 ng, 3200 IU resulted in 45 ng – RCT March 2012</a>
+* [800 IU vitamin D resulted in 20 ng, 3200 IU resulted in 45 ng – RCT March 2012](/tags/800-iu-vitamin-d-resulted-in-20-ng-3200-iu-resulted-in-45-ng-rct-march-2012.html)
 
-* <a href="/posts/how-to-2x-the-response-to-vitamin-d-supplements" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">How to 2X the response to vitamin D supplements</a>
+* [How to 2X the response to vitamin D supplements](/tags/how-to-2x-the-response-to-vitamin-d-supplements.html)
 
-* <a href="/posts/how-to-increase-the-vitamin-d-you-get-from-time-in-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1051">How to increase the vitamin D you get from time in the sun</a>
+* [How to increase the vitamin D you get from time in the sun](/tags/how-to-increase-the-vitamin-d-you-get-from-time-in-the-sun.html)
 
-* <a href="/posts/dose-response-equation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 441">Dose response equation</a> square root of IU
+* [Dose response equation](/tags/dose-response-equation.html) square root of IU
 
 * [All items in category RA](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=32&sort_mode=created_desc) 33 items as of July 2012
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1442">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)

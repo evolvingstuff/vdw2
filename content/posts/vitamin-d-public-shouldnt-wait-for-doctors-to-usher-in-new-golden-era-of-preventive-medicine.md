@@ -58,21 +58,21 @@ Real progress in modern medicine
 
 * [Heliotherapy treated children – 1926](/posts/heliotherapy-treated-children-1926) (found thanks to Bill Sardi referencing it above)
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)
 
 * [Vitamin D important papers from 1645 to 2013 – Nov 2013](/posts/vitamin-d-important-papers-from-1645-to-2013)
 
 * [Does less Sun mean more Disease?](/posts/does-less-sun-mean-more-disease) a 5 minute video
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>  **19 new reasons in the past 40 years** 
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)  **19 new reasons in the past 40 years** 
 
 * [Incidence of 22 health problems related to vitamin D have doubled in a decade ](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)
 
-* <a href="/posts/scared-out-of-the-sun-for-fifty-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Scared Out of the Sun for Fifty Years – Jan 2011">Scared Out of the Sun for Fifty Years – Jan 2011</a>
+* [Scared Out of the Sun for Fifty Years – Jan 2011](/posts/scared-out-of-the-sun-for-fifty-years)
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a> 10 reasons "modern" doctors are reluctant to again endorse sunshine/vitamin D
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d) 10 reasons "modern" doctors are reluctant to again endorse sunshine/vitamin D
 
-* <a href="/posts/half-of-prescription-drugs-not-needed-if-have-good-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2541">Half of prescription drugs not needed if have good levels of vitamin D - March 2012</a> Personal opinion of a pharmacist
+* [Half of prescription drugs not needed if have good levels of vitamin D - March 2012](/posts/half-of-prescription-drugs-not-needed-if-have-good-levels-of-vitamin-d) Personal opinion of a pharmacist
 
 * [20X increase in vitamin D sold and 36 percent decrease in osteoporosis business in Australia – Nov 2013](/posts/20x-increase-in-vitamin-d-sold-and-36-percent-decrease-in-osteoporosis-business-in-australia)  
 
@@ -82,6 +82,6 @@ Real progress in modern medicine
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/fortification.gif" alt="image">
 
- **<a href="/posts/sunlight-for-babies-us-govt-1933" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunlight for babies – US Govt 1933">Sunlight for babies – US Govt 1933</a>  Govt had endorsed sunshine** 
+ **[Sunlight for babies – US Govt 1933](/posts/sunlight-for-babies-us-govt-1933)  Govt had endorsed sunshine** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sunlight-for-babies-1931.jpg" alt="image">

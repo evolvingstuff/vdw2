@@ -76,9 +76,9 @@ Conclusion: Our results suggest that individuals deficient in vitamin D have an 
 
 * [Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013](/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review)
 
-* <a href="/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011">Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011</a>
+* [Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011](/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d)
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
 * [Search VitaminDWiki for knee osteoarthritis](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=knee+osteoarthritis&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 170 items as of Oct 2014
 

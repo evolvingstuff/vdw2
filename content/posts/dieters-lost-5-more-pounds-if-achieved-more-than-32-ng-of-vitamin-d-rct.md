@@ -95,4 +95,4 @@ Any woman who achieved > 32 ng of vitamin D ended up losing an addtional 5 lbs o
 
 1. A majority of people who are overweight need > 2,000 IU to achieve > 32 ng of vitamin D
 
-1. A [Loading dose](/categories/loading-dose) of 200,000 to 400,000 IU reduces by about 3 months the time to get to > 32 ng
+1. A [Loading dose](/tags/loading-dose.html) of 200,000 to 400,000 IU reduces by about 3 months the time to get to > 32 ng

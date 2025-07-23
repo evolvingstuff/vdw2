@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset=utf-8><title>Childhood cancers – give Vitamin D loading dose if low</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Childhood cancers – give Vitamin D loading dose if low</h1><time>October 27, 2021</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#can-screening-for-low-vitamin-d-levels-prevent-bone-health-complications-in-paediatric-oncology-patients>Can screening for low vitamin D levels prevent bone health complications in paediatric oncology patients?</a></li><li><a href=#references>REFERENCES</a></li></ul></li></ul></li></ul></nav><hr><h4 id=can-screening-for-low-vitamin-d-levels-prevent-bone-health-complications-in-paediatric-oncology-patients>Can screening for low vitamin D levels prevent bone health complications in paediatric oncology patients?</h4><p>Cancer Rep (Hoboken) . 2021 Oct 26;e1534. <a href=https://doi.org/10.1002/cnr2.1534>doi: 10.1002/cnr2.1534</a></p><p>Leonie Naeije 1, Mandy Pohlui de Silva 1, Paul Hofman 2</p><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Loading Dose</td><td>Age</td></tr><tr><td>150 000 IU</td><td>1-2 year</td></tr><tr><td>300 000 units</td><td>2-5 year</td></tr><tr><td>600 000 units</td><td>>5 year</td></tr></tbody></table><p>Background: No international standards include vitamin D levels at diagnosis or during treatment. It is included in the Children&rsquo;s Oncology Group long-term follow-up guidelines. However, bone health complications (like osteopenia and atraumatic fractures) can occur at diagnosis or during treatment as well.</p><p>Cases: In this small case series, we illustrate the complexity of bone health complications among our broad paediatric oncology population. If the vitamin D level is low we supplement the patient with one standard oral dose (150 000 units for 1-2 year olds, 300 000 units for 2-5 year olds and 600 000 units for >5 year olds). We do not adjust depending on diagnosis.</p><p>Conclusion: Because of the potentially negative outcomes on short, medium and long term, we recommend checking vitamin D levels on diagnosis for all newly diagnosed patients. It is a simple, low cost test and one dose of oral supplementation can easily treat the deficiency.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/add-d-to-children-if-low.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=references>REFERENCES</h4><ul><li><p>Ward LM, Ma J, Lang B, et al. Bone morbidity and recovery in children with acute lymphoblastic leukemia: results of a six-year prospective cohort study. J Bone Miner Res. 2018;33(8):1435-1443.</p></li><li><p>Halton JM, Atkinson SA, Fraher L, et al. Altered mineral metabolism and bone mass in children during treatment for acute lymphoblastic leukemia. J Bone Miner Res. 2009;11(11):1774-1783.</p></li><li><p>Mabey T, Singhatanadgige W, Yingsakmongkol W, Limthongkul W, Honsawek S. Vitamin D and spine surgery. World J Orthop. 2016;7(11):726-730.</p></li><li><p>Frisk P, Arvidson J, Ljunggren Ö, Gustafsson J. Decreased bone mineral density in young adults treated with SCT in childhood: the role of 25-hydroxyvitamin D. Bone Marrow Transplant. 2012;47(5):657-662.</p></li><li><p>Marcucci G, Beltrami G, Tamburini A, et al. Bone health in childhood cancer: review of the literature and recommendations for the management of bone health in childhood cancer survivors. Ann Oncol. 2019;30(6):908-920.</p></li><li><p>Wallace G, Jodele S, Myers KC, et al. Single ultra-high-dose cholecalciferol to prevent vitamin D deficiency in pediatric hematopoietic stem cell transplantation. Biol Blood Marrow Transplant. 2018;24(9):1856-1860.</p></li><li><p>Revuelta Iniesta R, Rush R, Paciarotti I, et al. Systematic review and meta-analysis: prevalence and possible causes of vitamin D deficiency and insufficiency in pediatric cancer patients. Clin Nutr. 2016;35(1):95-108.</p></li><li><p>Wallace G, Jodele S, Howell J, et al. Vitamin D deficiency and survival in children after hematopoietic stem cell transplant. Biol Blood Marrow Transplant. 2015;21(9):1627-1631.</p></li><li><p>Orgel E, Mueske NM, Sposto R, et al. A randomized controlled trial testing an adherence-optimized Vitamin D regimen to mitigate bone change in adolescents being treated for acute lymphoblastic leukemia. Leuk Lymphoma. 2018;58(10):2370-2378.</p></li><li><p>Halton J, Gaboury I, Grant R, et al. Advanced vertebral fracture among newly diagnosed children with acute lymphoblastic leukemia: results of the Canadian STeroid-associated osteoporosis in the pediatric population ( STOPP ) research program. J Bone Miner Res. 2009;24(7):1326-1334. <a href=https://doi.org/10.1359/jbmr.090202>https://doi.org/10.1359/jbmr.090202</a></p></li><li><p>Cummings EA, Ma J, Fernandez CV, et al. Incident vertebral fractures in children with leukemia during the four years following diagnosis. J Clin Endocrinol Metab. 2015;100(9):3408-3417.</p></li><li><p>COG. Long term follow up resourceguide. <a href=https://www.childrenoncologygroup.org>www.childrenoncologygroup.org</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/bone-mineral-density.html><span class=tag>bone mineral density</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-cancer.html><span class=tag>childhood cancer</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/infant-child.html><span class=tag>Infant-Child</span></a>
+<a href=/tags/leukemia.html><span class=tag>leukemia</span></a>
+<a href=/tags/loading-dose.html><span class=tag>Loading dose</span></a>
+<a href=/tags/lymphoma.html><span class=tag>lymphoma</span></a>
+<a href=/tags/osteoporosis.html><span class=tag>osteoporosis</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/top-news.html><span class=tag>Top news</span></a>
+<a href=/tags/transplant.html><span class=tag>transplant</span></a>
+<a href=/tags/trauma-surgery.html><span class=tag>trauma surgery</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>bone, bone cancer, bone mineral density, cancer, child, childhood cancer, dosage, falls fractures, high dose, Infant-Child, leukemia, Loading dose, lymphoma, osteoporosis, therapeutic intervention, Top news, transplant, trauma surgery, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

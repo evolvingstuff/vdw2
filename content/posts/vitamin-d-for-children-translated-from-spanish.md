@@ -133,9 +133,9 @@ Interestingly, Google did not translate some Spanish words: niñnos ==> children
 
 * [All items in category < 5 years old and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=109&sort_mode=created_desc) 51 items as of July 2012
 
-* <a href="/posts/uk-pediatricians-have-a-lot-to-learn-about-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2797">UK pediatricians have a lot to learn about vitamin D – May 2012</a>
+* [UK pediatricians have a lot to learn about vitamin D – May 2012](/posts/uk-pediatricians-have-a-lot-to-learn-about-vitamin-d)
 
-* <a href="/posts/recommend-span-stylecolor00f100-iu-of-vitamin-d-per-kg-of-infantspan-poland" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1757">Recommend  **<span style="color:#00F;">100 IU of vitamin D per kg of infant</span>**  - Poland July 2011</a>
+* [Recommend  **<span style="color:#00F;">100 IU of vitamin D per kg of infant</span>**  - Poland July 2011](/tags/recommend-span-stylecolor00f100-iu-of-vitamin-d-per-kg-of-infantspan-poland-july-2011.html)
 
 - - - - - - - - - - - - - - - -
 
@@ -379,7 +379,7 @@ In Espanña, the working group on prevention in childhood and adolescence, Espan
 
 * 4. The ninños infants less than a corrected age anno need a vitamin D intake of  **200 IU / kg / day to a maximum of 400 IU / day** (recommendation grade A).
 
- **{Note by VitaminDWiki: many suggest <a href="/posts/100-iukgday" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1757">100 IU/kg/day</a>}** 
+ **{Note by VitaminDWiki: many suggest [100 IU/kg/day](/tags/100-iukgday.html)}** 
 
 Recently, several working groups have changed these recommendations,  **suggesting that vitamin D needs to be more of an anno 600 IU / day**  to maintain non-skeletal benefits of vitamin D22, 23.88.
 

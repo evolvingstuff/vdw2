@@ -53,6 +53,6 @@ VitaminDWiki has not seen this association before
 
 * [Overview Breast Cancer and Vitamin D](/posts/overview-breast-cancer-and-vitamin-d)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
-* <a href="/posts/breast-cancer-more-deadly-for-blacks-than-whites" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast cancer more deadly for blacks than whites">Breast cancer more deadly for blacks than whites</a>
+* [Breast cancer more deadly for blacks than whites](/posts/breast-cancer-more-deadly-for-blacks-than-whites)

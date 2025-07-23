@@ -47,7 +47,7 @@ I have subscribed for 15+ years. $36 per year
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
 
-* <a href="/posts/patients-like-me-survey-found-vitamin-d-to-be-number-one-supplement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Patients like me survey found vitamin D to be number one supplement">Patients like me survey found vitamin D to be number one supplement</a>
+* [Patients like me survey found vitamin D to be number one supplement](/posts/patients-like-me-survey-found-vitamin-d-to-be-number-one-supplement)
 
 * [Popular supplements 1 Vitamin D, 2 fish oil, 3 CoQ10, 4 multivitamins 5 probiotics - Feb 2016](/posts/popular-supplements-1-vitamin-d-2-fish-oil-3-coq10-4-multivitamins-5-probiotics)
 

@@ -45,4 +45,4 @@ Seniors greatly fear falling - and the outdoor location was unfamiliar - and cou
 
 * [Increase your vitamin D from the sun by wearing a tan-through instead of standard shirt](/posts/increase-your-vitamin-d-from-the-sun-by-wearing-a-tan-through-instead-of-standard-shirt)
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)

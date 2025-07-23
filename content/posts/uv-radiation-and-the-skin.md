@@ -46,6 +46,6 @@ UV radiation (UV) is classified as a “complete carcinogen” because it is bot
 
 ## See also VitaminDWiki
 
-* <a href="/posts/a-dermatologists-perspective-on-vitamin-d-mayo-clinic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A Dermatologist's Perspective on Vitamin D - Mayo Clinic April 2012">A Dermatologist's Perspective on Vitamin D - Mayo Clinic April 2012</a>
+* [A Dermatologist's Perspective on Vitamin D - Mayo Clinic April 2012](/posts/a-dermatologists-perspective-on-vitamin-d-mayo-clinic)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)

@@ -45,14 +45,14 @@ The results of this study suggest that 1,25(OH)2D3 potentiates cisplatin-mediate
 
 #### See also VitaminDWiki
 
-* [Cancer - After diagnosis](/categories/cancer---after-diagnosis) category listing
+* [Cancer - After diagnosis](/posts/cancer-after-diagnosis) category listing
 
 * [Vitamin D improves Cancer survival – Nov 2013](/posts/vitamin-d-improves-cancer-survival)
 
 * [Cancer Chemotherapy and vitamin D – Review March 2013](/posts/cancer-chemotherapy-and-vitamin-d-review)
 
-* <a href="/posts/chemotherapy-drugs-often-reduce-vitamin-d-levels-restoring-levels-helps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy drugs often reduce Vitamin D levels, restoring levels helps– Aug 2018">Chemotherapy drugs often reduce Vitamin D levels, restoring levels helps– Aug 2018</a>
+* [Chemotherapy drugs often reduce Vitamin D levels, restoring levels helps– Aug 2018](/posts/chemotherapy-drugs-often-reduce-vitamin-d-levels-restoring-levels-helps)
 
-* <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy and vitamin D - many studies</a> has the following chart made by VitaminDWiki
+* [Chemotherapy and vitamin D - many studies](/posts/chemotherapy-and-vitamin-d-many-studies) has the following chart made by VitaminDWiki
 
 <img src="/attachments/d3.mock.jpg" alt="image">

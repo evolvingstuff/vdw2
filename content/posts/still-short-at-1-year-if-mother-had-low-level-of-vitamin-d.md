@@ -38,9 +38,9 @@ Maternal vitamin D deficiency during pregnancy has been linked to fetal growth a
 
 ## See also VitaminDWiki
 
-* [Infant-Child](/categories/infant-child) category listing with many related searches
+* [Infant-Child](/posts/infant-child) category listing with many related searches
 
-* [Pregnancy](/categories/pregnancy) category listing with many related searches
+* [Pregnancy](/tags/pregnancy.html) category listing with many related searches
 
 * [Adding 4,000 IU of vitamin D daily at 20 weeks pregnancy not help much – RCT March 2014](/posts/adding-4000-iu-of-vitamin-d-daily-at-20-weeks-pregnancy-not-help-much-rct)
 

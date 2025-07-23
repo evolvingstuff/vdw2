@@ -59,7 +59,7 @@ Conclusions: Daily time spent on total PA is often included when studying the as
 
 ## See also VitaminDWiki
 
-* <a href="/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012">Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012</a>
+* [Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012](/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy)
 
 * [Activity and being outdoors helps seniors – GPS and Vitamin D Dec 2012](/posts/activity-and-being-outdoors-helps-seniors-gps-and-vitamin-d) 
 

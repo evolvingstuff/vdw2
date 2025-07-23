@@ -35,11 +35,11 @@
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-### Grassroots Health has held many excellent <a href="/posts/webinars-during-2013" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3643">webinars during 2013</a>, with recordngs on the web
+### Grassroots Health has held many excellent [webinars during 2013](/tags/webinars-during-2013.html), with recordngs on the web
 
  **<span style="color:#F00;">They are making a Diabetes and Vitamin D Webinar: August 27, 2013</span>** 
 
-### <a href="/posts/grassroots-health-summary-of-diseases-vs-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4210">Grassroots Health summary of diseases vs levels of vitamin D</a>
+### [Grassroots Health summary of diseases vs levels of vitamin D](/tags/grassroots-health-summary-of-diseases-vs-levels-of-vitamin-d.html)
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -47,7 +47,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> which has the following chart - found a 7X decrease in Diabetes with > 2,000 IU of vitamin D
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d) which has the following chart - found a 7X decrease in Diabetes with > 2,000 IU of vitamin D
 
 <img src="/attachments/d3.mock.jpg" alt="image">  
 
@@ -57,6 +57,6 @@
 
 * [Diabetes 6X more likely for those abdominal obese who have insufficient vitamin D – June 2012](/posts/diabetes-6x-more-likely-for-those-abdominal-obese-who-have-insufficient-vitamin-d)
 
-* <a href="/posts/25-ng-vitamin-d-reduced-chance-of-diabetes-by-43-percent-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 25 ng Vitamin D reduced chance of diabetes by 43 percent -review July 2011">25 ng Vitamin D reduced chance of diabetes by 43 percent -review July 2011</a>
+* [25 ng Vitamin D reduced chance of diabetes by 43 percent -review July 2011](/posts/25-ng-vitamin-d-reduced-chance-of-diabetes-by-43-percent-review)
 
 * [4 percent less type 2 diabetes for every 4 ng more vitamin D – meta-analysis May 2013](/posts/4-percent-less-type-2-diabetes-for-every-4-ng-more-vitamin-d-meta-analysis)

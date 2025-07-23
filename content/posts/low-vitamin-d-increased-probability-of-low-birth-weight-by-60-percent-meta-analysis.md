@@ -81,7 +81,7 @@ Can expect much better results if D3 were to be used and with more IU
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and Vitamin D</a>
+* [Overview Pregnancy and Vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
 * [Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015](/posts/improved-births-with-2000-iu-vitamin-d-during-pregnancy-in-india-rct)
 
@@ -91,9 +91,9 @@ Can expect much better results if D3 were to be used and with more IU
 
 * [Pregnancy and vitamin D meta-analysis – July 2012](/posts/pregnancy-and-vitamin-d-meta-analysis)  **Meta-analysis** 
 
-* <a href="/posts/gestational-diabetes-60-percent-more-likely-below-20-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012">Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012</a>  **Meta-analysis** 
+* [Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012](/posts/gestational-diabetes-60-percent-more-likely-below-20-ng-of-vitamin-d-meta-analysis)  **Meta-analysis** 
 
-* <a href="/posts/span-stylecolor0907xspan-more-likely-to-have-low-birth-weight-babies-when-mother-ow-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 467"> **<span style="color:#090;">7X</span>**  more likely to have low birth weight babies when mother very low on vitamin D – March 2010</a>
+* [ **<span style="color:#090;">7X</span>**  more likely to have low birth weight babies when mother very low on vitamin D – March 2010](/tags/span-stylecolor0907xspan-more-likely-to-have-low-birth-weight-babies-when-mother-very-low-on-vitamin-d-march-2010.html)
 
 * [Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012](/posts/low-vitamin-d-pregnancy-associated-with-both-low-birth-weight-and-more-weight-in-child-later)
 
@@ -101,7 +101,7 @@ Can expect much better results if D3 were to be used and with more IU
 
 * __[Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 265 items as of Dec 2016
 
-* <a href="/posts/less-vitamin-d-makes-for-low-birth-weight-for-white-babies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less vitamin D makes for low birth weight for white babies - May 2010">Less vitamin D makes for low birth weight for white babies - May 2010</a>
+* [Less vitamin D makes for low birth weight for white babies - May 2010](/posts/less-vitamin-d-makes-for-low-birth-weight-for-white-babies)
 
 * [Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013](/posts/opening-windows-while-pregnant-cut-the-number-of-low-birth-weight-infants-by-half)
 

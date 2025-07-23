@@ -55,4 +55,4 @@ PMID:    24008400
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)

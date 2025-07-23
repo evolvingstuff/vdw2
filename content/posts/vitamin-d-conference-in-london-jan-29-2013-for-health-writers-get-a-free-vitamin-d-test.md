@@ -76,6 +76,6 @@ Members £10.00, Guests £15.00
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-conferences-april-london-and-oslo-may-germany" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4200">Vitamin D conferences April London and Oslo, May: Germany</a>
+* [Vitamin D conferences April London and Oslo, May: Germany](/tags/vitamin-d-conferences-april-london-and-oslo-may-germany.html)
 
 > The vitamin D video being produced for VitaminDWiki will most likely be shown at all three conferences

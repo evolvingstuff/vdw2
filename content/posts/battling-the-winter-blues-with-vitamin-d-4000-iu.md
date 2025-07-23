@@ -74,7 +74,7 @@ mkwiatkowski@enterprisecanada.com
 
 * [Seasonal Affective Disorder - treated by both vitamin D and bright light](/posts/seasonal-affective-disorder-treated-by-both-vitamin-d-and-bright-light)
 
-* <a href="/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012">Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012</a>
+* [Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012](/posts/teens-no-longer-depressed-after-vitamin-d-raised-to-36-ng)
 
 * [Depression not reduced when vitamin D levels less than 30 nanograms – RCT Nov 2015](/posts/depression-not-reduced-when-vitamin-d-levels-less-than-30-nanograms-rct)
 
@@ -92,7 +92,7 @@ mkwiatkowski@enterprisecanada.com
 
 * [Reduced depression with single 300,000 IU injection of vitamin D – RCT June 2013](/posts/reduced-depression-with-single-300000-iu-injection-of-vitamin-d-rct)
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
 > Appears that pneunomia and SAD occur during the HOT summer in the Middle East
 

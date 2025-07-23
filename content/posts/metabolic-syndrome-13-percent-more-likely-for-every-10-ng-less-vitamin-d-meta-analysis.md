@@ -58,6 +58,6 @@ Affiliations
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Metabolic Syndrome 10% less likely for every 4 ng increase in Vitamin D – Jan 2013](/posts/metabolic-syndrome-10-percent-less-likely-for-every-4-ng-increase-in-vitamin-d)

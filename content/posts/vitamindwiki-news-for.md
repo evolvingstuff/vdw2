@@ -136,47 +136,47 @@ http://is.gd/VitaminDMay2013 is the home of this newsletter, were it can be read
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 
- **Update of <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>, the ng summary** 
+ **Update of [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng), the ng summary** 
 
-* <a href="/posts/uk-spring-2013" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3886">UK, Spring 2013</a>  **<span style="color:#690;">10ng/ml</span>** 
+* [UK, Spring 2013](/tags/uk-spring-2013.html)  **<span style="color:#690;">10ng/ml</span>** 
 
-* <a href="/posts/institute-of-medicine-us" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">Institute of Medicine  US  Nov 2010</a>   **<span style="color:#690;">20ng/ml</span>** 
+* [Institute of Medicine  US  Nov 2010](/tags/institute-of-medicine-us-nov-2010.html)   **<span style="color:#690;">20ng/ml</span>** 
 
-* <a href="/posts/osteoporosis-canada-sept-2010-span-stylecolor69030ngmlspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 969">Osteoporosis Canada Sept 2010  **<span style="color:#690;">>30ng/ml</span>** </a>
+* [Osteoporosis Canada Sept 2010  **<span style="color:#690;">>30ng/ml</span>** ](/tags/osteoporosis-canada-sept-2010-span-stylecolor69030ngmlspan.html)
 
-* <a href="/posts/usana-span-stylecolor69050-ngmlspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1197">USANA  **<span style="color:#690;">50 ng/ml</span>** </a>  with graph
+* [USANA  **<span style="color:#690;">50 ng/ml</span>** ](/tags/usana-span-stylecolor69050-ngmlspan.html)  with graph
 
-* <a href="/posts/need-span-stylecolor69030-60-ngspan-of-vitamin-d-for-good-health-grant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1327">Need **<span style="color:#690;">30-60 ng</span>**  of vitamin D for good health – Grant Jan 2011</a>
+* [Need **<span style="color:#690;">30-60 ng</span>**  of vitamin D for good health – Grant Jan 2011](/tags/need-span-stylecolor69030-60-ngspan-of-vitamin-d-for-good-health-grant-jan-2011.html)
 
 * [1800 to 4000 IU vitamin D to get  **<span style="color:#690;">30 to-44 ng</span>**  no risk osteo - July 2010.pdf](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1814)  file
 
-* <a href="/posts/span-stylecolor690more-than-40-ngspan-vitamin-d-for-athletes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 595"> **<span style="color:#690;">More than 40 ng</span>**  vitamin D for Athletes – July 2010</a>
+* [ **<span style="color:#690;">More than 40 ng</span>**  vitamin D for Athletes – July 2010](/tags/span-stylecolor690more-than-40-ngspan-vitamin-d-for-athletes-july-2010.html)
 
-* <a href="/posts/poland-2009-span-stylecolor69020-ng-for-children-30-ng-for-adultsspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2719">Poland 2009   **<span style="color:#690;">>20 ng for children, > 30 ng for adults</span>** </a>
+* [Poland 2009   **<span style="color:#690;">>20 ng for children, > 30 ng for adults</span>** ](/tags/poland-2009-span-stylecolor69020-ng-for-children-30-ng-for-adultsspan.html)
 
-* <a href="/posts/usda-vitamin-d-level-span-stylecolor690-30ngspan-and-600-mg-calcium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 559">USDA vitamin D level  **<span style="color:#690;">> 30ng</span>**   and 600 mg Calcium - March 2010</a>
+* [USDA vitamin D level  **<span style="color:#690;">> 30ng</span>**   and 600 mg Calcium - March 2010](/tags/usda-vitamin-d-level-span-stylecolor690-30ngspan-and-600-mg-calcium-march-2010.html)
 
-* <a href="/posts/linus-pauling-institute-span-stylecolor69032-ngspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2221">Linus Pauling Institute   **<span style="color:#690;">>32 ng</span>**  - Dec 2011</a>
+* [Linus Pauling Institute   **<span style="color:#690;">>32 ng</span>**  - Dec 2011](/tags/linus-pauling-institute-span-stylecolor69032-ngspan-dec-2011.html)
 
-* <a href="/posts/hypothesis-span-stylecolor69040-ngspan-is-enough-vitamin-d-if-high-latitude-or-dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1662">Hypothesis :  **<span style="color:#690;">40 ng</span>**  is enough vitamin D if high latitude or dark skin</a>
+* [Hypothesis :  **<span style="color:#690;">40 ng</span>**  is enough vitamin D if high latitude or dark skin](/tags/hypothesis-span-stylecolor69040-ngspan-is-enough-vitamin-d-if-high-latitude-or-dark-skin.html)
 
-* <a href="/posts/dr-oz-recommends-span-stylecolor69050-ngmlspan-vitamin-d-blood-level" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 442">Dr Oz recommends  **<span style="color:#690;">50 ng/ml</span>**  vitamin D blood level</a> May 2010
+* [Dr Oz recommends  **<span style="color:#690;">50 ng/ml</span>**  vitamin D blood level](/tags/dr-oz-recommends-span-stylecolor69050-ngmlspan-vitamin-d-blood-level.html) May 2010
 
 * [GrassRootsHealth.net](http://www.grassrootshealth.net/recommendation)  41 experts   **<span style="color:#690;">40-60 ng/ml</span>**  after IoM report
 
-* <a href="/posts/vitamin-d-should-be-span-stylecolor69048-ng-90-ngspan-heaney" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1947">Vitamin D should be  **<span style="color:#690;">48 ng-90 ng</span>**  – Heaney Sept 2011</a>
+* [Vitamin D should be  **<span style="color:#690;">48 ng-90 ng</span>**  – Heaney Sept 2011](/tags/vitamin-d-should-be-span-stylecolor69048-ng-90-ngspan-heaney-sept-2011.html)
 
-* <a href="/posts/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough</a>
+* [Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough](/tags/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough.html)
 
 * [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
 
-* <a href="/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 25 experts recommend vitamin D level of min 30 ng – Nov 2009">25 experts recommend vitamin D level of min 30 ng – Nov 2009</a>
+* [25 experts recommend vitamin D level of min 30 ng – Nov 2009](/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng)
 
 >  **The MINIMUM recommendation = 30 ng was higher than the IoM = 20, or UK = 10**  
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
- **<a href="/posts/links-at-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Links at VitaminDWiki">Links at VitaminDWiki</a>  added in May** 
+ **[Links at VitaminDWiki](/posts/links-at-vitamindwiki)  added in May** 
 
 * [Vitamin D news ](http://www.netvibes.com/karlge#vitamin_d) - the last few days, from scores of sources
 
@@ -194,7 +194,7 @@ http://is.gd/VitaminDMay2013 is the home of this newsletter, were it can be read
 
 * [GrassRoots on YouTube](https://www.youtube.com/user/vitaminDaction?feature=watch) Many added in early 2013
 
- **<a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>** 
+ **[Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)** 
 
  **Double-blind random-controlled-trials have proven that VITAMIN D reduces 28 health problems :** 
 
@@ -232,7 +232,7 @@ no response
 
 * [New web pages](https://www.VitaminDWiki.com/tiki-index.php?page=vdwnews)
 
-* <a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>
+* [Recently changed web pages](/tags/recently-changed-web-pages.html)
 
 * [Best/Top Vitamin D News](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc) continuously updated
 

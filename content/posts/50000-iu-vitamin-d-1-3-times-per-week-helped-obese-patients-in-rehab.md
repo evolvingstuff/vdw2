@@ -54,11 +54,11 @@ Nutrient supplementation during physical rehabilitation provided an efficient an
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [4,000 IU vitamin D did not change 25OHD to Vitamin D Binding Protein ratio for obese – RCT April 2013](/posts/4000-iu-vitamin-d-did-not-change-25ohd-to-vitamin-d-binding-protein-ratio-for-obese-rct)
 
@@ -66,4 +66,4 @@ Nutrient supplementation during physical rehabilitation provided an efficient an
 
 * [5700 IU vitamin D improved various growth factors in overweight people – Oct 2012](/posts/5700-iu-vitamin-d-improved-various-growth-factors-in-overweight-people)
 
-* <a href="/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X as much vitamin D to get the same response – June 2012">Obese need 2X as much vitamin D to get the same response – June 2012</a>
+* [Obese need 2X as much vitamin D to get the same response – June 2012](/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response)

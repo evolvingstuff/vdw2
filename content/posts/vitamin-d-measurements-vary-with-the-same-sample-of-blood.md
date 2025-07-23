@@ -67,11 +67,11 @@ Rachel Neale PhD, Associate Professor, Queensland Institute of Medical Research,
 
 * [Vitamin D tester falsely said half of hemodialysis patients had less than 30 ng – Jan 2013](/posts/vitamin-d-tester-falsely-said-half-of-hemodialysis-patients-had-less-than-30-ng)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
-* <a href="/posts/problems-with-vitamin-d-testing-chapter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems with Vitamin D Testing – chapter – Aug 2019">Problems with Vitamin D Testing – chapter – Aug 2019</a>
+* [Problems with Vitamin D Testing – chapter – Aug 2019](/posts/problems-with-vitamin-d-testing-chapter)
 
-* <a href="/posts/huge-variation-in-vitamin-d-test-results-between-4-testers-for-8-people-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Huge variation in Vitamin D test results between 4 testers for 8 people – 2013">Huge variation in Vitamin D test results between 4 testers for 8 people – 2013</a>
+* [Huge variation in Vitamin D test results between 4 testers for 8 people – 2013](/posts/huge-variation-in-vitamin-d-test-results-between-4-testers-for-8-people-2013)
 
 * [Big differences (~10 ng) in vitamin D test results, even when using the same type of tester – Aug 2015](/posts/big-differences-10-ng-in-vitamin-d-test-results-even-when-using-the-same-type-of-tester)
 

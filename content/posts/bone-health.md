@@ -35,6 +35,6 @@
 
 You can access if you elect to take a one week free trial
 
-* <a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab</a>
+* [Excellent reviews of supplements at ConsumerLab](/posts/excellent-reviews-of-supplements-at-consumerlab)
 
-* Previous Review: <a href="/posts/supplement-reviews-by-consumerlab-vitamin-d-magnesium-vitamin-k-calcium-boron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Supplement reviews by ConsumerLab – Vitamin D, Magnesium, Vitamin K, Calcium , Boron – Nov 2019">Supplement reviews by ConsumerLab – Vitamin D, Magnesium, Vitamin K, Calcium , Boron – Nov 2019</a>
+* Previous Review: [Supplement reviews by ConsumerLab – Vitamin D, Magnesium, Vitamin K, Calcium , Boron – Nov 2019](/posts/supplement-reviews-by-consumerlab-vitamin-d-magnesium-vitamin-k-calcium-boron)

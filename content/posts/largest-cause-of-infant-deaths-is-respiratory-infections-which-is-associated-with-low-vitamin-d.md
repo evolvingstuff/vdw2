@@ -148,4 +148,4 @@ Future studies, however, need to be undertaken in different settings to confirm 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/lower-respiratory-tract-infection-in-infants-reduced-59-x-by-daily-600-iu-of-vitamin-d-china" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lower Respiratory Tract Infection in Infants reduced 5.9 X by daily 600 IU of vitamin D (China) - March 2020">Lower Respiratory Tract Infection in Infants reduced 5.9 X by daily 600 IU of vitamin D (China) - March 2020</a>
+* [Lower Respiratory Tract Infection in Infants reduced 5.9 X by daily 600 IU of vitamin D (China) - March 2020](/posts/lower-respiratory-tract-infection-in-infants-reduced-59-x-by-daily-600-iu-of-vitamin-d-china)

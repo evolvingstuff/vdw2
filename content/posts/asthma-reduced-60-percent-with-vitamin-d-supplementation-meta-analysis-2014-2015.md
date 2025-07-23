@@ -94,10 +94,10 @@ Conclusions: Available evidence from this systematic review suggests that high d
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 
 
    *  **<span style="color:#00F;">Asthma has been proven to be treated by at least 4 Random Controlled trials with Vitamin D intervention</span>** 
 
-* <a href="/posts/atopies-allergy-asthma-rhinitis-etc-variously-associated-with-low-vitamin-d-and--amin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopies (allergy, asthma, rhinitis, etc.) variously associated with low Vitamin D and poor Vitamin D Receptor – Aug 2021">Atopies (allergy, asthma, rhinitis, etc.) variously associated with low Vitamin D and poor Vitamin D Receptor – Aug 2021</a>
+* [Atopies (allergy, asthma, rhinitis, etc.) variously associated with low Vitamin D and poor Vitamin D Receptor – Aug 2021](/posts/atopies-allergy-asthma-rhinitis-etc-variously-associated-with-low-vitamin-d-and--amin-d-receptor)

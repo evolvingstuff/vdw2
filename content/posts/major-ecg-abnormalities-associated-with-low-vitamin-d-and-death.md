@@ -76,4 +76,4 @@ VDD is associated with increased prevalence of major ECG abnormalities. Well-str
 
 * [Major Heart attacks occur 40 percent more often if vitamin D lower than 7 ng – Feb 2013](/posts/major-heart-attacks-occur-40-percent-more-often-if-vitamin-d-lower-than-7-ng)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)

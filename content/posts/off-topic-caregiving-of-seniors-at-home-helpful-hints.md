@@ -266,6 +266,6 @@ I just wanted to share with you what we have done to somewhat reduce the stress
 
 #### See also VitaminDWiki
 
-* <a href="/posts/centenarians-with-high-vitamin-d-were-29x-more-likely-to-be-functionally-independent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Centenarians with high vitamin D were 2.9X more likely to be functionally independent – Oct 2018">Centenarians with high vitamin D were 2.9X more likely to be functionally independent – Oct 2018</a>
+* [Centenarians with high vitamin D were 2.9X more likely to be functionally independent – Oct 2018](/posts/centenarians-with-high-vitamin-d-were-29x-more-likely-to-be-functionally-independent)
 
 #### Short url = http://is.gd/caregivehints

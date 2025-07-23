@@ -59,19 +59,19 @@ The role of cis-urocanic acid (UCA) as a UV-mediated immunomodulator in MS patie
 
 ## See also VitaminDWiki
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Beneficial effects of UV radiation other than via vitamin D production – June 2012">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
-* <a href="/posts/overview-of-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2089">Overview of UV and Vitamin D</a>
+* [Overview of UV and Vitamin D](/tags/overview-of-uv-and-vitamin-d.html)
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
-* <a href="/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012">MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012</a>
+* [MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012](/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels)
 
-* <a href="/posts/there-is-more-in-uv-than-vitamin-d-which-suppresses-ms-in-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: There is more in UV than vitamin D which suppresses MS in mice – April 2010">There is more in UV than vitamin D which suppresses MS in mice – April 2010</a>
+* [There is more in UV than vitamin D which suppresses MS in mice – April 2010](/posts/there-is-more-in-uv-than-vitamin-d-which-suppresses-ms-in-mice)
 
-* <a href="/posts/uv-produces-more-than-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV produces more than vitamin D – Aug 2011">UV produces more than vitamin D – Aug 2011</a>
+* [UV produces more than vitamin D – Aug 2011](/posts/uv-produces-more-than-vitamin-d)
 
-* <a href="/posts/lack-of-uv-20x-more-associated-with-ms-than-any-other-variable" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lack of UV 20X more associated with MS than any other variable – Dec 2010">Lack of UV 20X more associated with MS than any other variable – Dec 2010</a>
+* [Lack of UV 20X more associated with MS than any other variable – Dec 2010](/posts/lack-of-uv-20x-more-associated-with-ms-than-any-other-variable)
 
 ---
 

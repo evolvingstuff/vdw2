@@ -52,7 +52,7 @@ Although an abundance of epidemiological and mechanistic studies support the pot
 
 ## See also VitaminDWiki
 
-* [Breathing](/categories/breathing) category listing with many associated searches
+* [Breathing](/tags/breathing.html) category listing with many associated searches
 
 * [COPD becoming suddenly worse is 30X more likely if low vitamin D – Dec 2014](/posts/copd-becoming-suddenly-worse-is-30x-more-likely-if-low-vitamin-d)
 

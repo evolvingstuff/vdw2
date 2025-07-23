@@ -83,7 +83,7 @@ PMID: 26156737
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
 * [Healthy pregnancies need lots of vitamin D](/posts/healthy-pregnancies-need-lots-of-vitamin-d)
 

@@ -49,14 +49,14 @@ Most clinical studies appeared to use Calcitriol, but some used standard Choleca
 
 #### See also VitaminDWiki
 
-* <a href="/posts/both-vitamin-d-and-vitamin-c-fight-cancers-and-aid-anticancer-drugs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Both Vitamin D and Vitamin C fight cancers and aid anticancer drugs – May 2018">Both Vitamin D and Vitamin C fight cancers and aid anticancer drugs – May 2018</a>
+* [Both Vitamin D and Vitamin C fight cancers and aid anticancer drugs – May 2018](/posts/both-vitamin-d-and-vitamin-c-fight-cancers-and-aid-anticancer-drugs)
 
 * [Breast cancer chemotherapy benefits from highest vitamin D levels – June 2014](/posts/breast-cancer-chemotherapy-benefits-from-highest-vitamin-d-levels)
 
 * [Chemotherapy (cisplatin) and vitamin D synergistically stop stomach cancer – Feb 2014](/posts/chemotherapy-cisplatin-and-vitamin-d-synergistically-stop-stomach-cancer)
 
-* <a href="/posts/chemotherapy-might-be-augmented-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy might be augmented with Vitamin D – Jan 2017">Chemotherapy might be augmented with Vitamin D – Jan 2017</a>
+* [Chemotherapy might be augmented with Vitamin D – Jan 2017](/posts/chemotherapy-might-be-augmented-with-vitamin-d)
 
-* [Cancer - After diagnosis](/categories/cancer---after-diagnosis) has the following chart (2X chemo improvement with vitamin D)
+* [Cancer - After diagnosis](/posts/cancer-after-diagnosis) has the following chart (2X chemo improvement with vitamin D)
 
 <img src="/attachments/d3.mock.jpg" alt="image">

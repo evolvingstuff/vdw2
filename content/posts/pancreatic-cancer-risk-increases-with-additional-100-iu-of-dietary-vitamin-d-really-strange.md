@@ -69,11 +69,11 @@ Increased chance of prostate cancer by 30%
 
 * [Far fewer Pancreatic Cancer deaths at stage III and IV with more than 20 ng vitamin D – Sept 2013](/posts/far-fewer-pancreatic-cancer-deaths-at-stage-iii-and-iv-with-more-than-20-ng-vitamin-d)
 
-* <a href="/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012">Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012</a>
+* [Restoring vitamin D levels to Pancreatic patients required up to 20000 IU daily – May 2012](/posts/restoring-vitamin-d-levels-to-pancreatic-patients-required-up-to-20000-iu-daily)
 
-* <a href="/posts/even-small-increases-in-vitamin-d-decreased-risk-of-pancreatic-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Even small increases in vitamin D decreased risk of pancreatic cancer – Nov 2011">Even small increases in vitamin D decreased risk of pancreatic cancer – Nov 2011</a>
+* [Even small increases in vitamin D decreased risk of pancreatic cancer – Nov 2011](/posts/even-small-increases-in-vitamin-d-decreased-risk-of-pancreatic-cancer)
 
-* <a href="/posts/men-2x-more-likely-to-get-pancreatic-cancer-if-low-vitamin-d-food-intake" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Men 2X more likely to get pancreatic cancer if low Vitamin D food intake – Nov 2010">Men 2X more likely to get pancreatic cancer if low Vitamin D food intake – Nov 2010</a> 
+* [Men 2X more likely to get pancreatic cancer if low Vitamin D food intake – Nov 2010](/posts/men-2x-more-likely-to-get-pancreatic-cancer-if-low-vitamin-d-food-intake) 
 
 > appears to be the opposite of conclusion of current study
 

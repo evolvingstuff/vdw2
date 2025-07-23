@@ -63,7 +63,7 @@ Surgeon General US (a dermatologist) recently said – do not let a single photo
 
 ## See also VitaminDWiki
 
-* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+* [Health benefit of Sunlight is more than Vitamin D in the blood - many studies](/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies)
 
 * [Nitric oxide (from Sun, UVA, Vitamin D) reduces cardiovascular problems](/posts/nitric-oxide-from-sun-uva-vitamin-d-reduces-cardiovascular-problems)
 
@@ -91,7 +91,7 @@ Surgeon General US (a dermatologist) recently said – do not let a single photo
 
 * [UV – adverse and beneficial effects – review Nov 2014](/posts/uv-adverse-and-beneficial-effects-review)
 
-* <a href="/posts/there-is-more-in-uv-than-vitamin-d-which-suppresses-ms-in-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: There is more in UV than vitamin D which suppresses MS in mice – April 2010">There is more in UV than vitamin D which suppresses MS in mice – April 2010</a>
+* [There is more in UV than vitamin D which suppresses MS in mice – April 2010](/posts/there-is-more-in-uv-than-vitamin-d-which-suppresses-ms-in-mice)
 
 * [Multiple sclerosis associated with sun, not low vitamin D – Feb 2013](/posts/multiple-sclerosis-associated-with-sun-not-low-vitamin-d)
 

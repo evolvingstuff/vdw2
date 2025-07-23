@@ -65,15 +65,15 @@ PMID: 22742645
 
 * [Solar UVB reduces Cancer Risk – Grant, Jan 2013](/posts/solar-uvb-reduces-cancer-risk-grant)
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2929">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
-* <a href="/posts/there-is-more-in-uv-than-vitamin-d-which-suppresses-ms-in-mice" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1937">There is more in UV than vitamin D which suppresses MS in mice – April 2010</a>
+* [There is more in UV than vitamin D which suppresses MS in mice – April 2010](/posts/there-is-more-in-uv-than-vitamin-d-which-suppresses-ms-in-mice)
 
-* <a href="/posts/lack-of-uv-20x-more-associated-with-ms-than-any-other-variable" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1243">Lack of UV 20X more associated with MS than any other variable – Dec 2010</a>
+* [Lack of UV 20X more associated with MS than any other variable – Dec 2010](/posts/lack-of-uv-20x-more-associated-with-ms-than-any-other-variable)
 
-* <a href="/posts/uv-produces-more-than-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1931">UV produces more than vitamin D – Aug 2011</a>
+* [UV produces more than vitamin D – Aug 2011](/posts/uv-produces-more-than-vitamin-d)
 
-* <a href="/posts/opinion-sun-better-than-uv-better-than-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 747">Opinion: sun better than UV better than vitamin D</a>
+* [Opinion: sun better than UV better than vitamin D](/posts/opinion-sun-better-than-uv-better-than-vitamin-d)
 
 * [5 Amazing Properties of Sunlight You've Never Heard About](/posts/5-amazing-properties-of-sunlight-youve-never-heard-about) 
 

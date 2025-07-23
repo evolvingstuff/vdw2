@@ -57,7 +57,7 @@ Rimpi Singla, Usha Dutta, Neelam Aggarwal, Sanjay Kumar Bhadada, Rakesh Kochhar,
 
  **See also VitaminDWiki** 
 
-<a href="/posts/gallbladder-removal-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency">Gallbladder removal and vitamin D deficiency</a>
+[Gallbladder removal and vitamin D deficiency](/posts/gallbladder-removal-and-vitamin-d-deficiency)
 
 </div>
 

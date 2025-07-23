@@ -244,4 +244,4 @@ Recent advances in the understanding of the effects and mechanism of action of v
 
 * [Overview Gut and vitamin D](/posts/overview-gut-and-vitamin-d)
 
-* [Gut](/categories/gut) category listing with associated searches
+* [Gut](/tags/gut.html) category listing with associated searches

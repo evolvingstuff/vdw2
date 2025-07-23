@@ -77,6 +77,6 @@ Conclusions:%20There%20was%20a%20higher%20prevalence%20of%2025(OH)D%20deficiency
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
  **Short url =**  http://is.gd/u8oJJC

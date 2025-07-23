@@ -243,7 +243,7 @@ A lower 25(OH)D status increased the odds of severe CDI but not of CDI recurrenc
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/fecal-cd.jpg" alt="image" width="700">
 
-##### <a href="/posts/fecal-transplants-finally-approved-to-fight-cdifficile" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fecal transplants finally approved to fight C.difficile – July 2024">Fecal transplants finally approved to fight C.difficile – July 2024</a>
+##### [Fecal transplants finally approved to fight C.difficile – July 2024](/posts/fecal-transplants-finally-approved-to-fight-cdifficile)
 
 ---
 

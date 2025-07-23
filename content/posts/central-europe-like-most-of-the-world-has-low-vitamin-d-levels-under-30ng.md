@@ -60,7 +60,7 @@ Little published information is available regarding epidemiological data on vita
 
 ## See also VitaminDWiki
 
-* <a href="/posts/deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Deficiency of Vitamin D">Deficiency of Vitamin D</a> category listing includes listing of items in Deficiency and  Europe, etc.
+* [Deficiency of Vitamin D](/tags/deficiency-of-vitamin-d.html) category listing includes listing of items in Deficiency and  Europe, etc.
 
 * [30 to 50 ng of vitamin D is optimal – Central Europe consensus Sept 2013](/posts/30-to-50-ng-of-vitamin-d-is-optimal-central-europe-consensus)
 
@@ -70,6 +70,6 @@ Little published information is available regarding epidemiological data on vita
 
 * [90 percent of Swiss men have less than 30 ng of vitamin D in the winter – Nov 2012](/posts/90-percent-of-swiss-men-have-less-than-30-ng-of-vitamin-d-in-the-winter)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> which has the following
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) which has the following
 
 <img src="/attachments/d3.mock.jpg" alt="image">

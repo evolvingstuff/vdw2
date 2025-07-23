@@ -42,7 +42,7 @@ Bauer chart - 2013
 
 * [Liver and interactions with vitamin D deficiency - Review July 2013](/posts/liver-and-interactions-with-vitamin-d-deficiency-review)
 
-* <a href="/posts/adhd-2-x-more-likely-if-tylenol-used-a-lot-during-pregnancy-autism-increased-too" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD 2 X more likely if Tylenol used a lot during pregnancy (Autism increased too) – Dec 2016">ADHD 2 X more likely if Tylenol used a lot during pregnancy (Autism increased too) – Dec 2016</a>
+* [ADHD 2 X more likely if Tylenol used a lot during pregnancy (Autism increased too) – Dec 2016](/posts/adhd-2-x-more-likely-if-tylenol-used-a-lot-during-pregnancy-autism-increased-too)
 
  **Apparently:  Tylenol ==> liver damage ==> decreased vitamin D activation** 
 
@@ -52,9 +52,9 @@ Bauer chart - 2013
 
 #### See also VitaminDWiki
 
-* <a href="/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitamin-d-drops-15x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018">Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018</a>
+* [Autism risk increased if infant had antibiotics (2X), acetaminophen (3X), or no vitamin D drops (1.5X) – June 2018](/posts/autism-risk-increased-if-infant-had-antibiotics-2x-acetaminophen-3x-or-no-vitamin-d-drops-15x)
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a> has
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d) has
 
    * Autism 20X more likely if acetaminophen (Tylenol) from age 12 - 18 months - July 2023
 

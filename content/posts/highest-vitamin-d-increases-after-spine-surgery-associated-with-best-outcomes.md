@@ -78,6 +78,6 @@ The women having the largest increase in vitamin D had the best improvement in d
 
 * [All items in After Surgery and Trauma and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&sort_mode=created_desc)
 
-* <a href="/posts/should-stock-up-on-vitamin-d-if-having-surgery-due-to-fragile-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1554">Should stock-up on vitamin D if having surgery due to fragile bones – Jan 2011</a>
+* [Should stock-up on vitamin D if having surgery due to fragile bones – Jan 2011](/posts/should-stock-up-on-vitamin-d-if-having-surgery-due-to-fragile-bones)
 
-* <a href="/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1194">Noticed bones heal faster when more than 60 ng of vitamin D</a>
+* [Noticed bones heal faster when more than 60 ng of vitamin D](/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d)

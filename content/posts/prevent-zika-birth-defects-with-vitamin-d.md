@@ -34,7 +34,7 @@
 
 #### Zika birth problems can be virtually prevented when women have enough vitamin D during their first trimester:
 
-* Vitamin D strengthens woman's [immune system](/categories/immunity)
+* Vitamin D strengthens woman's [immune system](/tags/immune-system.html)
 
 * Vitamin D strengthens the [placenta immune system](/posts/virus-blocking-by-placenta-when-mother-has-enough-vitamin-d) 
 
@@ -46,7 +46,7 @@
 
 #### This same immune system benefit is obtained from about 4 days of sunbathing**
 
-* Vitamin D from the sun appears to provide about <a href="/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012">3X more benefit</a> than capsule.
+* Vitamin D from the sun appears to provide about [3X more benefit](/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels) than capsule.
 
 * Sunbathing for a day provides about 16,000 IU of vitamin D 
 

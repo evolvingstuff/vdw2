@@ -53,4 +53,4 @@ PMID: 24828383
 
 ## See also VitaminDWiki
 
-* [Dental](/categories/dental) category overview with associated searches
+* [Dental](/tags/dental.html) category overview with associated searches

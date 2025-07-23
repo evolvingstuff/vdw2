@@ -74,7 +74,7 @@ Conclusions and Relevance  Insufficient maternal 25(OH)D during pregnancy may in
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [Multiple Sclerosis is associated with about 1.5 X more Vitamin D Binding Protein – Jan 2015](/posts/multiple-sclerosis-is-associated-with-about-15-x-more-vitamin-d-binding-protein) This is an affect not seen by Vitamin D tests
 
@@ -82,6 +82,6 @@ Conclusions and Relevance  Insufficient maternal 25(OH)D during pregnancy may in
 
 * [Healthy pregnancies need lots of vitamin D](/posts/healthy-pregnancies-need-lots-of-vitamin-d)
 
-* <a href="/posts/low-vitamin-d-during-pregnancy-increases-risk-of-future-health-problems-obesity-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D during pregnancy increases risk of future health problems (obesity etc.) – May 2022">Low vitamin D during pregnancy increases risk of future health problems (obesity etc.) – May 2022</a>
+* [Low vitamin D during pregnancy increases risk of future health problems (obesity etc.) – May 2022](/posts/low-vitamin-d-during-pregnancy-increases-risk-of-future-health-problems-obesity-etc)
 
 <!-- ~tc~ (alias(Multiple Sclerosis 1.9X more likely if low vitamin D during pregnancy – March 2016)) ~/tc~ -->

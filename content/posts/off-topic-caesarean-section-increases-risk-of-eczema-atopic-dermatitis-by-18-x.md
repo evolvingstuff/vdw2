@@ -60,11 +60,11 @@ PMID: 26363368
 
 #### See also VitaminDWiki
 
-* <a href="/posts/acne" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acne">Acne</a>
+* [Acne](/tags/acne.html)
 
 * [Atopic Eczema might be helped by Vitamin D – Review May 2015](/posts/atopic-eczema-might-be-helped-by-vitamin-d-review)
 
-* <a href="/posts/caesarean-birth-much-more-likely-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Caesarean birth much more likely if low Vitamin D - many studies">Caesarean birth much more likely if low Vitamin D - many studies</a>
+* [Caesarean birth much more likely if low Vitamin D - many studies](/posts/caesarean-birth-much-more-likely-if-low-vitamin-d-many-studies)
 
 > Perhaps the connection is low D ==> C-section and low D ==> Eczema, rather than C-section ==> Eczema
 
@@ -74,4 +74,4 @@ PMID: 26363368
 
 > Perhaps less of good bateria transfered from mother to infant with C-section
 
-* <a href="/posts/atopic-dermatitis-and-eczema-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies">Atopic Dermatitis and Eczema - many studies</a>
+* [Atopic Dermatitis and Eczema - many studies](/posts/atopic-dermatitis-and-eczema-many-studies)

@@ -49,4 +49,4 @@ PMID: 25202161
 
 ### See alswo VitaminDWiki
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a>
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency)

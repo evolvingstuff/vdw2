@@ -84,37 +84,37 @@
 
 ### Many people around the world are vitamin D deficient
 
-<a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>
+[Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
 ### Many ways to increase your vitamin D levels
 
-<a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a>
+[Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response)
 
 [Many hints that vitamin D megadoses cure some diseases](/posts/many-hints-that-vitamin-d-megadoses-cure-some-diseases)
 
-<a href="/posts/dose-response-equations-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dose response equations for Vitamin D">Dose response equations for Vitamin D</a>
+[Dose response equations for Vitamin D](/posts/dose-response-equations-for-vitamin-d)
 
-<a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+[Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-<a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> hard to overdose
+[Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) hard to overdose
 
-<a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a>
+[How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
 ### When taking more Vitamin D you must also balance micronutrients - such as Magnesium and Calcium
 
-<a href="/posts/hypothesis-increased-breast-cancer-if-not-enough-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: increased breast cancer if not enough magnesium – Sept 2010">Hypothesis: increased breast cancer if not enough magnesium – Sept 2010</a>
+[Hypothesis: increased breast cancer if not enough magnesium – Sept 2010](/posts/hypothesis-increased-breast-cancer-if-not-enough-magnesium)
 
-<a href="/posts/hypothesis-anticancer-benefits-from-synergy-of-omega-3-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – anticancer benefits from synergy of omega-3 and vitamin D – May 2011">Hypothesis – anticancer benefits from synergy of omega-3 and vitamin D – May 2011</a>
+[Hypothesis – anticancer benefits from synergy of omega-3 and vitamin D – May 2011](/posts/hypothesis-anticancer-benefits-from-synergy-of-omega-3-and-vitamin-d)
 
 [Hypothesis: Premenopausal Iron deficiency causes increased recurrence of breast cancer – 2008](/posts/hypothesis-premenopausal-iron-deficiency-causes-increased-recurrence-of-breast-cancer-2008)
 
 ### Vitamin D comes in many forms: vegan, liquid, poor digestion . .
 
-<a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies</a>
+[Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies)
 
 [Quantum dots should deliver active vitamin D directly to inflammatory breast cancer tumors – Feb 2013](/posts/quantum-dots-should-deliver-active-vitamin-d-directly-to-inflammatory-breast-cancer-tumors)
 
-<a href="/posts/active-form-of-vitamin-d-appears-to-help-prevent-and-treat-some-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Active form of vitamin D appears to help prevent and treat some cancers – Feb 2011">Active form of vitamin D appears to help prevent and treat some cancers – Feb 2011</a>
+[Active form of vitamin D appears to help prevent and treat some cancers – Feb 2011](/posts/active-form-of-vitamin-d-appears-to-help-prevent-and-treat-some-cancers)
 
 Forms of vitamin D: not have to take pills, poor digestion, etc.
 
@@ -122,17 +122,17 @@ Forms of vitamin D: not have to take pills, poor digestion, etc.
 
 [The sun appears better at reducing incidence of some cancers than vitamin D – Dec 2012](/posts/the-sun-appears-better-at-reducing-incidence-of-some-cancers-than-vitamin-d)
 
-<a href="/posts/less-uv-means-2x-more-breast-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less UV means 2X more Breast Cancer – June 2011">Less UV means 2X more Breast Cancer – June 2011</a>
+[Less UV means 2X more Breast Cancer – June 2011](/posts/less-uv-means-2x-more-breast-cancer)
 
 [Less Solar Radiation was associated with more Cancer - 1941](/posts/less-solar-radiation-was-associated-with-more-cancer-1941)
 
-<a href="/posts/need-lots-of-uv-and-vitamin-d-to-reduce-risk-of-breast-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Need lots of UV AND vitamin D to reduce risk of breast cancer – Jan 2011">Need lots of UV AND vitamin D to reduce risk of breast cancer – Jan 2011</a>
+[Need lots of UV AND vitamin D to reduce risk of breast cancer – Jan 2011](/posts/need-lots-of-uv-and-vitamin-d-to-reduce-risk-of-breast-cancer)
 
 [Vitamin D, Sunlight and Cancer Connection – Holick Jan 2013](/posts/vitamin-d-sunlight-and-cancer-connection-holick)
 
 [Solar UVB reduces Cancer Risk – Grant, Jan 2013](/posts/solar-uvb-reduces-cancer-risk-grant)
 
-<a href="/posts/more-uvb-is-associated-with-less-cancer-study-of-450000-people" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More UVB is associated with less cancer – study of 450,000 people – April 2012">More UVB is associated with less cancer – study of 450,000 people – April 2012</a>
+[More UVB is associated with less cancer – study of 450,000 people – April 2012](/posts/more-uvb-is-associated-with-less-cancer-study-of-450000-people)
 
 [Photodynamic therapy for Cancer might be helped by vitamin D – July 2012](/posts/photodynamic-therapy-for-cancer-might-be-helped-by-vitamin-d)
 
@@ -156,7 +156,7 @@ Not get much D from the sun: Dark Skin, Shut-in, Far from the equator
 
 [Breast Cancer incidence change by 40 percent with vitamin D receptor genes – Oct 2012](/posts/breast-cancer-incidence-change-by-40-percent-with-vitamin-d-receptor-genes)
 
-<a href="/posts/genes-breast-cancer-and-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Genes breast cancer and vitamin D receptor - Sept 2010">Genes breast cancer and vitamin D receptor - Sept 2010</a>
+[Genes breast cancer and vitamin D receptor - Sept 2010](/posts/genes-breast-cancer-and-vitamin-d-receptor)
 
 [CYP24A1 gene in cancer cells may actually remove vitamin D from the blood – Oct 2012](/posts/cyp24a1-gene-in-cancer-cells-may-actually-remove-vitamin-d-from-the-blood)
 
@@ -164,17 +164,17 @@ Not get much D from the sun: Dark Skin, Shut-in, Far from the equator
 
 ### How vitamin D prevents and treats other cancers
 
-<a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+[Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
-<a href="/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies">Metastatic Cancer probably reduced by vitamin D - many studies</a>
+[Metastatic Cancer probably reduced by vitamin D - many studies](/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies)
 
 [How Vitamin D prevents many cancers (c-MYC) – Nov 2012](/posts/how-vitamin-d-prevents-many-cancers-c-myc)
 
 [Vitamin D and cancer: a view based of all models – April 2012](/posts/vitamin-d-and-cancer-a-view-based-of-all-models)
 
-<a href="/posts/advanced-stage-cancer-3x-more-likely-if-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Advanced stage cancer 3X more likely if low level of vitamin D – March 2012">Advanced stage cancer 3X more likely if low level of vitamin D – March 2012</a>
+[Advanced stage cancer 3X more likely if low level of vitamin D – March 2012](/posts/advanced-stage-cancer-3x-more-likely-if-low-level-of-vitamin-d)
 
-<a href="/posts/possible-ways-that-vitamin-d-does-its-magic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Possible ways that vitamin D does its magic">Possible ways that vitamin D does its magic</a>
+[Possible ways that vitamin D does its magic](/posts/possible-ways-that-vitamin-d-does-its-magic)
 
 ---
 
@@ -300,7 +300,7 @@ Vitamin D is not warned against
 
  **[Breast cancer chemoprevention: beyond tamoxifen](https://link.springer.com/article/10.1186/bcr279) April 2001** 
 
- **<a href="/posts/breast-cancer-chemo-made-more-women-vitamin-d-insufficient-even-6-months-later-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast cancer chemo made more women vitamin D insufficient, even 6 months later– 2019">Breast cancer chemo made more women vitamin D insufficient, even 6 months later– 2019</a>** 
+ **[Breast cancer chemo made more women vitamin D insufficient, even 6 months later– 2019](/posts/breast-cancer-chemo-made-more-women-vitamin-d-insufficient-even-6-months-later-2019)** 
 
 Lists all of the studies of Vitamin D after diagnosis of Breast Cancer
 

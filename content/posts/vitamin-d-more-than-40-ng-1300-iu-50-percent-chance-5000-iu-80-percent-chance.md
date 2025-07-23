@@ -39,11 +39,11 @@
 
 * [Vitamin D Cofactors in a nutshell](/posts/vitamin-d-cofactors-in-a-nutshell)
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a>
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)
 
 * [Too much Vitamin D](/posts/too-much-vitamin-d)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> get a good Vitamin D level in days, not months 
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) get a good Vitamin D level in days, not months 
 
 * [Vitamin D differences of 5 ng are meaningless - Aug 2015](/posts/vitamin-d-differences-of-5-ng-are-meaningless) - due to test inaccuracy, lack of consistency
 

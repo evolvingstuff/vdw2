@@ -55,8 +55,8 @@ Abbreviations: BMC, bone mineral content, BMD, bone mineral density, BMI, body m
 
 * [Google Search for Pancreatitis  in VitaminDWiki](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=Pancreatitis&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26sanitize%3D0%26v%3D29ba36fad07b3416%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D795869050) about 233 items May 2018
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)
 
 * [Pancreatitis and Vitamin D - many studies](/posts/pancreatitis-and-vitamin-d-many-studies)
 
-* <a href="/posts/severe-acute-pancreatitis-treated-in-11-ways-by-omega-3-in-just-7-days-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Severe acute pancreatitis treated in 11 ways by Omega-3 in just 7 days – RCT April 2018">Severe acute pancreatitis treated in 11 ways by Omega-3 in just 7 days – RCT April 2018</a>
+* [Severe acute pancreatitis treated in 11 ways by Omega-3 in just 7 days – RCT April 2018](/posts/severe-acute-pancreatitis-treated-in-11-ways-by-omega-3-in-just-7-days-rct)

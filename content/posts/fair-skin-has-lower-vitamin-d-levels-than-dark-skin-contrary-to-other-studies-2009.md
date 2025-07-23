@@ -31,7 +31,7 @@ Department of Twin Research and Genetic Epidemiology, Kings College London, St T
 
 <div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
-* <a href="/posts/skin-fairness-red-hair-both-associated-with-poor-health-perhaps-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019">Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019</a>
+* [Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019](/posts/skin-fairness-red-hair-both-associated-with-poor-health-perhaps-low-vitamin-d)
 
 >  **<span style="color:#F00;">RED highlight</span> for those with p value = 0.005 (very likely, normally p = 0.05)** 
 

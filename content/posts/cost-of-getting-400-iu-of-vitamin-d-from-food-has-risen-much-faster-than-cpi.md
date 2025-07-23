@@ -42,7 +42,7 @@ Food can be fortified, but [Vitamin D home fortification- don't wait 100 years f
 
 [Germany does not fortify ANY food with vitamin D, is considering 1000 IU from bread – Nov 2013](/posts/germany-does-not-fortify-any-food-with-vitamin-d-is-considering-1000-iu-from-bread)
 
-<a href="/posts/reasons-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Reasons for Vitamin  D deficiency</a> 35+ reasons
+[Reasons for Vitamin  D deficiency](/tags/reasons-for-vitamin-d-deficiency.html) 35+ reasons
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 300px;">
 

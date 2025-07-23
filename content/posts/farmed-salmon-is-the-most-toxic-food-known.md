@@ -62,7 +62,7 @@ includes a video
 
 * [Farmed fish not have enough vitamin D to increase levels – RCT Feb 2014](/posts/farmed-fish-not-have-enough-vitamin-d-to-increase-levels-rct)
 
-* <a href="/posts/salmon-and-iu-of-vitamin-d-per-100-g-baltic-19-north-sea-9-farmed-5" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Salmon and IU of Vitamin D per 100 g – Baltic 19, North Sea 9, Farmed 5 – April 2019">Salmon and IU of Vitamin D per 100 g – Baltic 19, North Sea 9, Farmed 5 – April 2019</a>
+* [Salmon and IU of Vitamin D per 100 g – Baltic 19, North Sea 9, Farmed 5 – April 2019](/tags/salmon-and-iu-of-vitamin-d-per-100-g-baltic-19-north-sea-9-farmed-5-april-2019.html)
 
 * [Fatty Fish in diet increases vitamin D level a few nanograms – meta-analysis Sept 2015](/posts/fatty-fish-in-diet-increases-vitamin-d-level-a-few-nanograms-meta-analysis)
 
@@ -72,7 +72,7 @@ includes a video
 
 > "They (Vectomega) claim 1 pill (costing about 59 cents) has the Omega-3 of 6 ounces of salmon "
 
-* <a href="/posts/farmed-fish-have-2x-less-omega-3-4x-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017">Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017</a>
+* [Farmed fish have 2X less Omega-3, 4X less Vitamin D – May 2017](/posts/farmed-fish-have-2x-less-omega-3-4x-less-vitamin-d)
 
 ---
 

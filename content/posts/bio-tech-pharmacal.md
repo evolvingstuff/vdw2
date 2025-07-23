@@ -53,13 +53,13 @@ The reasons I strongly believe that you should consider Bio-Tech are:
 
 > They have gotten many pharmacies around the world to stock Vitamin D3 (not just D2)
 
-> They have totally funded the <a href="/posts/vitamin-d-video-being-produced" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3914">Vitamin D Video being produced</a>
+> They have totally funded the [Vitamin D Video being produced](/tags/vitamin-d-video-being-produced.html)
 
 > They want to work with VitaminDWiki at making a Vitamin D + Magnesium supplement
 
 > They are supporting my efforts at creating a “vitamin D (salt) shaker”
 
-> They will probably support my efforts at <a href="/posts/home-fortification-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3541">“Home fortification of Vitamin D”</a>
+> They will probably support my efforts at [“Home fortification of Vitamin D”](/tags/home-fortification-of-vitamin-d.html)
 
 I have had extensive conversations with the owner. Dale
 

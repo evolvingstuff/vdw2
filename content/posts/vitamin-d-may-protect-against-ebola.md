@@ -215,13 +215,13 @@ East Germany gave 600,000 doses of vitamin D to ALL of its infants for 30 years 
 
 1. Rainy Season (similar to winter) ==> people outdoors less ==> less vitamin D generated
 
-> Note <a href="/posts/vitamin-d-lowest-in-summer-in-some-tropical-countries" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2954">Vitamin D lowest in summer in some tropical countries</a>
+> Note [Vitamin D lowest in summer in some tropical countries](/tags/vitamin-d-lowest-in-summer-in-some-tropical-countries.html)
 
-1. Poor sanitation in slums ==> vitamin D is consumed by [inflammation](/categories/inflammation), etc.
+1. Poor sanitation in slums ==> vitamin D is consumed by [inflammation](/tags/inflammation.html), etc.
 
 1. [Women want whiter skins](/posts/women-around-the-world-want-whiter-skin) ==> stay out of the sun ==> Reduce Vitamin D
 
-1. <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Pregnancy</a> ==> often drops the vitamin D levels considerably
+1. [Pregnancy](/posts/overview-pregnancy-and-vitamin-d) ==> often drops the vitamin D levels considerably
 
 > &nbsp; &nbsp; &nbsp; Note: not a single pregnant woman has survived Ebola
 
@@ -231,15 +231,15 @@ East Germany gave 600,000 doses of vitamin D to ALL of its infants for 30 years 
 
 1. Working long hours (health care workers) ==> stress ==> lowers immune system
 
-1. <a href="/posts/cola-soft-drinks-reduce-calcium-vitamin-d-and-magnesium-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cola Soft Drinks reduce Calcium Vitamin D, and Magnesium - many studies">|Soft drinks ==> reduce Calcium ==> lowers Vitamin D</a>
+1. [|Soft drinks ==> reduce Calcium ==> lowers Vitamin D](/posts/cola-soft-drinks-reduce-calcium-vitamin-d-and-magnesium-many-studies)
 
-1. <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking</a> (Africa is a huge growing market) ==> reduces Calcium ==> consumes vitamin D
+1. [Smoking](/posts/smoking-reduces-vitamin-d-many-studies) (Africa is a huge growing market) ==> reduces Calcium ==> consumes vitamin D
 
-1. <a href="/posts/air-pollution-reduces-uv-and-thus-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution reduces UV and thus vitamin D - Aug 2010">Atmospheric pollution in cities</a>==> reduced vitamin D generated 
+1. [Atmospheric pollution in cities](/posts/air-pollution-reduces-uv-and-thus-vitamin-d)==> reduced vitamin D generated 
 
 1. Vitamin D levels have dropped in [half in two decades](/posts/military-and-vitamin-d-many-studies)
 
-<a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> describes 34 reasons and has the following chart
+[Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) describes 34 reasons and has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 300px;">
 
@@ -337,7 +337,7 @@ Recall: Vitamin D levels are low during pregnancy. From Wikipedia: "no reported 
 
 ### Tents, like those used for Spanish flu, would be faster to put up and would provide more vitamin D
 
-<a href="/posts/influenza-of-1918-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influenza of 1918 and vitamin D - July 2010">Influenza of 1918 and vitamin D - July 2010</a>** Surgeon General of Mass in 1918 noticed that infected people getting more sunlight had a better outcome **** They had set up overflow tents outside of the hospital **<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/influenza-tents.jpg" alt="image" width="600">
+[Influenza of 1918 and vitamin D - July 2010](/posts/influenza-of-1918-and-vitamin-d)** Surgeon General of Mass in 1918 noticed that infected people getting more sunlight had a better outcome **** They had set up overflow tents outside of the hospital **<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/influenza-tents.jpg" alt="image" width="600">
 
 ---
 

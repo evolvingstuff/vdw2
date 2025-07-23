@@ -51,9 +51,9 @@ García-Álvarez M1, Berenguer J, Jiménez-Sousa MÁ, Vázquez-Morón S, Carrero
 
 * [Tuberculosis -100 percent cure rate with 10,000 IU of vitamin D daily – RCT 2006](/posts/tuberculosis-100-percent-cure-rate-with-10000-iu-of-vitamin-d-daily-rct-2006)
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 * [TB lowers vitamin D, then HIV lowers it even more - 2014](/posts/tb-lowers-vitamin-d-then-hiv-lowers-it-even-more-2014)
 

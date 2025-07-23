@@ -47,6 +47,6 @@ Wonder what that means??
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">Vitamin D and fertility: a systematic review – May 2012</a> Extensive article, including endometriosis
+* [Vitamin D and fertility: a systematic review – May 2012](/posts/vitamin-d-and-fertility-a-systematic-review) Extensive article, including endometriosis
 
 * [Endometriosis treated, and perhaps prevented, by vitamin D - many studies](/posts/endometriosis-treated-and-perhaps-prevented-by-vitamin-d-many-studies)

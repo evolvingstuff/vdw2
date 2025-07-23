@@ -94,4 +94,4 @@
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 
- **<a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>**
+ **[Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)**

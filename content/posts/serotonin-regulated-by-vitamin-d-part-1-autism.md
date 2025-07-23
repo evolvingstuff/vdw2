@@ -86,9 +86,9 @@ Supplementation with  **vitamin D and tryptophan**  is a practical and affordabl
 
 * [Search VitaminDWiki for tryptophan](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=+tryptophan&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)  105 items as of Aug 2017
 
-* <a href="/posts/serotonin-related-to-season-light-and-perhaps-latitude-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Serotonin related to season, light and perhaps latitude and vitamin D">Serotonin related to season, light and perhaps latitude and vitamin D</a>
+* [Serotonin related to season, light and perhaps latitude and vitamin D](/posts/serotonin-related-to-season-light-and-perhaps-latitude-and-vitamin-d)
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
 * [Vitamin and Mineral deficiencies – Ames Triage Theory Sept 2012](/posts/vitamin-and-mineral-deficiencies-ames-triage-theory) co-author of the study on this page
 

@@ -65,7 +65,7 @@ I have heard complaints about this recent IOM reversal, not so much from people 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/increased-salt-consumption-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased salt consumption decreased vitamin D">Increased salt consumption decreased vitamin D</a>  Dr. Dowd
+* [Increased salt consumption decreased vitamin D](/posts/increased-salt-consumption-decreased-vitamin-d)  Dr. Dowd
 
 ^ Just wondering
 

@@ -64,7 +64,7 @@ PMID: 23852093
 
 * [Premature birth 2.5X more likely if mother had low vitamin D and was having twins – July 2013](/posts/premature-birth-25x-more-likely-if-mother-had-low-vitamin-d-and-was-having-twins)
 
-* <a href="/posts/blacks-have-more-pre-term-births-due-to-low-nutrients-such-as-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Blacks have more pre-term births due to low nutrients such as vitamin D – Sept 2011">Blacks have more pre-term births due to low nutrients such as vitamin D – Sept 2011</a>
+* [Blacks have more pre-term births due to low nutrients such as vitamin D – Sept 2011](/posts/blacks-have-more-pre-term-births-due-to-low-nutrients-such-as-vitamin-d)
 
 * [The more preterm the birth, the lower the vitamin D level (both mothers and infants) – Feb 2014](/posts/the-more-preterm-the-birth-the-lower-the-vitamin-d-level-both-mothers-and-infants)
 

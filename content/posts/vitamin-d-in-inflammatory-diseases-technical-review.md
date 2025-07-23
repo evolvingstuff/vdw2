@@ -54,6 +54,6 @@ Martin Tenniswood, University at Albany, USA
 
 ## See also VitaminDWiki
 
-* [Inflammation](/categories/inflammation) category listing with associated searches
+* [Inflammation](/tags/inflammation.html) category listing with associated searches
 
 * [Inflammatory diseases: review of vitamin D, with many tables – May 2014](/posts/inflammatory-diseases-review-of-vitamin-d-with-many-tables)

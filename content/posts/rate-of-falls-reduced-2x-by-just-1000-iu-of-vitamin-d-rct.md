@@ -41,4 +41,4 @@
 
 The only thing the researchers didn’t do was administer vitamin D co-factors (magnesium, zinc, boron and vitamin K), but very few if any studies do that.
 
-See in VitaminDWiki <a href="/posts/why-randomized-controlled-trials-of-calcium-and-vitamin-d-sometimes-fail" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012">Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012</a>
+See in VitaminDWiki [Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012](/posts/why-randomized-controlled-trials-of-calcium-and-vitamin-d-sometimes-fail)

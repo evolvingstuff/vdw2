@@ -58,11 +58,11 @@ PMID: 2321053
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-and-obstetrics-improving-pregnancy-and-childbirth-presentations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1660">Vitamin D and Obstetrics Improving Pregnancy and Childbirth - presentations May 2011</a>
+* [Vitamin D and Obstetrics Improving Pregnancy and Childbirth - presentations May 2011](/posts/vitamin-d-and-obstetrics-improving-pregnancy-and-childbirth-presentations)
 
 > U shaped risk curve only where UV varies a lot with season - Veith
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 > U Shaped curve due to long follow-up time, not latitude - by Dr. Grant
 

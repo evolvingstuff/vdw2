@@ -75,9 +75,9 @@ color version is from his 2013 publication
 
 * [Vitamin D, Sunlight and Cancer Connection – Holick Jan 2013](/posts/vitamin-d-sunlight-and-cancer-connection-holick)
 
-* <a href="/posts/evidence-for-vitamin-d-holick" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Evidence for vitamin D – Holick June 2012">Evidence for vitamin D – Holick June 2012</a> Dermato-Endocrinology 
+* [Evidence for vitamin D – Holick June 2012](/posts/evidence-for-vitamin-d-holick) Dermato-Endocrinology 
 
-* <a href="/posts/vitamin-d-books-2-volume-2nd-edition-edited-by-holick" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3328">Vitamin D books - 2 volume 2nd edition edited by Holick - Dec 2012</a>
+* [Vitamin D books - 2 volume 2nd edition edited by Holick - Dec 2012](/tags/vitamin-d-books-2-volume-2nd-edition-edited-by-holick-dec-2012.html)
 
 * [VITAMIN D: A D-LIGHTFUL SOLUTION FOR GOOD HEALTH – Holick 2012](/posts/vitamin-d-a-d-lightful-solution-for-good-health-holick-2012)
 

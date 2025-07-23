@@ -54,13 +54,13 @@ Do not know just how much Glyphosate suppression there is
 
 1. Increase Vitamin D dose or time in the sun
 
-> <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
+> [Optimize vitamin D from the sun](/posts/optimize-vitamin-d-from-the-sun)
 
 1. Increase the response to the vitamin D which you do get
 
-> <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+> [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
-> <a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a>
+> [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
 1. Increase Omega-3 and/or resveratrol to increase local activation of vitamin D
 
@@ -70,7 +70,7 @@ Do not know just how much Glyphosate suppression there is
 
 1. Increase Magnesium
 
-> <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+> [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 1. Supplement with active vitamin D (generally by prescription)
 
@@ -80,9 +80,9 @@ Do not know just how much Glyphosate suppression there is
 
 #### See also VitaminDWiki
 
-* <a href="/posts/cyp2r1-gene-reduces-response-to-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP2R1 gene reduces response to Vitamin D - many studies">CYP2R1 gene reduces response to Vitamin D - many studies</a>
+* [CYP2R1 gene reduces response to Vitamin D - many studies](/posts/cyp2r1-gene-reduces-response-to-vitamin-d-many-studies)
 
-* <a href="/posts/cyp24a1-in-title-of-39-items" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1447">CYP24A1 in title of 39+ items</a>
+* [CYP24A1 in title of 39+ items](/tags/cyp24a1-in-title-of-39-items.html)
 
 * [Huge increases in health problems – risk factors include Vitamin D, Antibiotics, and Roundup](/posts/huge-increases-in-health-problems-risk-factors-include-vitamin-d-antibiotics-and-roundup)
 

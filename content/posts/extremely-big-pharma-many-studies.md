@@ -58,9 +58,9 @@ Expected to  increase in Big Pharma profit of $13 billion over a decade
 
 #### See also VitaminDWiki
 
-* <a href="/posts/fda-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA - many studies">FDA - many studies</a>  49 as of March 2024
+* [FDA - many studies](/posts/fda-many-studies)  49 as of March 2024
 
-* <a href="/posts/off-topic-pharma-funded-2400-state-lawmakers-campaigns-in-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021">Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021</a>
+* [Off Topic: Pharma Funded 2,400 State Lawmakers' Campaigns in 2020 - July 2021](/posts/off-topic-pharma-funded-2400-state-lawmakers-campaigns-in-2020)
 
 * [Off Topic: FDA advisors have many conflicts of interest](/posts/off-topic-fda-advisors-have-many-conflicts-of-interest)
 

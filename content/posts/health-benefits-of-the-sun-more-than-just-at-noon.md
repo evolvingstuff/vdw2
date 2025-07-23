@@ -27,7 +27,7 @@
 
 #### The most vitamin D is generated when UVB is the most intense (noon)
 
-#### [TB is treated both by Vitamin D and sunlight - even early morning](/categories/tuberculosis)
+#### [TB is treated both by Vitamin D and sunlight - even early morning](/tags/tb-is-treated-both-by-vitamin-d-and-sunlight-even-early-morning.html)
 
 Also: [The Healing Sun –1999 book highlights at VitaminDWiki](/posts/the-healing-sun-1999-book-highlights-at-vitamindwiki)
 
@@ -39,6 +39,6 @@ Also: [The Healing Sun –1999 book highlights at VitaminDWiki](/posts/the-heali
 
 ---
 
-#### <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+#### [Health benefit of Sunlight is more than Vitamin D in the blood - many studies](/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies)
 
-* <a href="/posts/vitamin-d-or-bright-light-treat-covid-tb-sad-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D or bright light treat COVID, TB, SAD, etc.">Vitamin D or bright light treat COVID, TB, SAD, etc.</a>
+* [Vitamin D or bright light treat COVID, TB, SAD, etc.](/posts/vitamin-d-or-bright-light-treat-covid-tb-sad-etc)

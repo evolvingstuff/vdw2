@@ -63,7 +63,7 @@ Strangely none of the RCT arms has any Omega-3
 
 #### See also VitaminDWiki
 
-* <a href="/posts/earthquake-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Earthquake and Vitamin D - several studies">Earthquake and Vitamin D - several studies</a>
+* [Earthquake and Vitamin D - several studies](/posts/earthquake-and-vitamin-d-several-studies)
 
 * [Mild Traumatic Brain Injury reduced by Vitamin D – May 2014](/posts/mild-traumatic-brain-injury-reduced-by-vitamin-d)
 

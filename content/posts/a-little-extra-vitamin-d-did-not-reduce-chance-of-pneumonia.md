@@ -67,8 +67,8 @@ Conclusions This study showed no preventive association between vitamin D supple
 
 * [Pneumonia 2.6X more likely if low vitamin D – April 2013 ](/posts/pneumonia-26x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/recurrence-of-child-pneumonia-delayed-by-100000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Recurrence of child pneumonia delayed by 100000 IU of vitamin D – RCT Oct 2010">Recurrence of child pneumonia delayed by 100000 IU of vitamin D – RCT Oct 2010</a>
+* [Recurrence of child pneumonia delayed by 100000 IU of vitamin D – RCT Oct 2010](/posts/recurrence-of-child-pneumonia-delayed-by-100000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/pneumonia-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pneumonia and low vitamin D - many studies">Pneumonia and low vitamin D - many studies</a>
+* [Pneumonia and low vitamin D - many studies](/posts/pneumonia-and-low-vitamin-d-many-studies)
 
-* <a href="/posts/any-supplementation-with-vitamin-d-reduced-chance-of-any-supplementation-with-vi-13by-50-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Any supplementation with vitamin D reduced chance of Any supplementation with vitamin D reduced chance of pneunomia by 50 percent – Oct 2013by 50 percent – Oct 2013">Any supplementation with vitamin D reduced chance of Any supplementation with vitamin D reduced chance of pneunomia by 50 percent – Oct 2013by 50 percent – Oct 2013</a>
+* [Any supplementation with vitamin D reduced chance of Any supplementation with vitamin D reduced chance of pneunomia by 50 percent – Oct 2013by 50 percent – Oct 2013](/tags/any-supplementation-with-vitamin-d-reduced-chance-of-any-supplementation-with-vitamin-d-reduced-chance-of-pneunomia-by-50-percent-oct-2013by-50-percent-oct-2013.html)

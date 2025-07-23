@@ -35,7 +35,7 @@ Clinical Journal of Pain. AN: 00002508-900000000-99189. POST ACCEPTANCE, 17 Febr
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
 * [Search VitaminDWiki for "Knee Osteoarthritis"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22Knee+Osteoarthritis%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 83 items as of Nov 2016
 

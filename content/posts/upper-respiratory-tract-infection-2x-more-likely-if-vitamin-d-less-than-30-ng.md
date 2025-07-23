@@ -63,7 +63,7 @@ PMID:     23677871
 
 * [Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013](/posts/vitamin-d-and-respiratory-tract-infections-meta-analysis-with-charts)
 
-* <a href="/posts/100-percent-of-acute-respiratory-failure-patients-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012">100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012</a>
+* [100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012](/posts/100-percent-of-acute-respiratory-failure-patients-had-low-vitamin-d)
 
 * [Acute respiratory infection treated by vitamin D in 6 of 12 clinical trials – review Nov 2012](/posts/acute-respiratory-infection-treated-by-vitamin-d-in-6-of-12-clinical-trials-review)
 

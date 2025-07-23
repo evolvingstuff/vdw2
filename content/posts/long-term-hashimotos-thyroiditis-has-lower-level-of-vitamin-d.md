@@ -55,7 +55,7 @@ Conclusions: We showed that serum 25OHD levels of patients with HT were signific
 
 ## See also VitaminDWiki
 
-* <a href="/posts/hashimotos-thyroiditis-and-vitamin-d-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hashimoto's Thyroiditis and Vitamin D - multiple studies">Hashimoto's Thyroiditis and Vitamin D - multiple studies</a> includes 2nd article written in 2014
+* [Hashimoto's Thyroiditis and Vitamin D - multiple studies](/posts/hashimotos-thyroiditis-and-vitamin-d-multiple-studies) includes 2nd article written in 2014
 
 * [Autoimmune disorder patients in Brazil helped by vitamin D – video and Facebook – Nov 2012](/posts/autoimmune-disorder-patients-in-brazil-helped-by-vitamin-d-video-and-facebook)  
 

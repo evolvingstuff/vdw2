@@ -37,7 +37,7 @@
 
 1. person in short sleeves has 1/3 as much skin exposed as a person in a bathing suit
 
-1. <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">No – 10 minutes per day of sun-UVB is NOT enough</a>
+1. [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)
 
 > Holick: difference between standing and lying down 3.5X at 30 latitude, 2X at high latitude
 

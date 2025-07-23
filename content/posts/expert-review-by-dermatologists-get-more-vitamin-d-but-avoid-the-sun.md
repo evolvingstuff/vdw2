@@ -92,7 +92,7 @@ Other than vitamin D deficiency's infamous causation of rickets and osteomalacia
 
 It has also been implicated in numerous cancers, as well as a potential trigger for autoimmune diseases <sup>[9]</sup>. It should however be noted that these are association studies.
 
-&nbsp; &nbsp; &nbsp; **{Note by VitaminDWiki: also there are <a href="/posts/23-rct-proofs-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">23 RCT proofs of vitamin D</a> as of Dec 2012.}** 
+&nbsp; &nbsp; &nbsp; **{Note by VitaminDWiki: also there are [23 RCT proofs of vitamin D](/tags/23-rct-proofs-of-vitamin-d.html) as of Dec 2012.}** 
 
 Aside from pathological etiologies of vitamin D deficiency, significant factors which affect vitamin D status on a population level include dietary intake and those reducing skin synthesis. These include skin pigmentation, season, latitude, time-of-day, age and sun protection behavior <sup>[2]</sup>.
 

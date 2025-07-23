@@ -44,10 +44,10 @@ PMID:     23823117
 
 * [Some childhood cancer 30% less likely in parts of California with more UVB – April 2013](/posts/some-childhood-cancer-30-percent-less-likely-in-parts-of-california-with-more-uvb)
 
-* <a href="/posts/cancer-in-children-6x-more-likely-if-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer in children 6X more likely if very low vitamin D – Oct 2011">Cancer in children 6X more likely if very low vitamin D – Oct 2011</a> < 10 nanograms
+* [Cancer in children 6X more likely if very low vitamin D – Oct 2011](/posts/cancer-in-children-6x-more-likely-if-very-low-vitamin-d) < 10 nanograms
 
    * Note: the abstract on this page does not define deficiency. Suspect that is it <20 or 30 ng of vitamin D
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
-* <a href="/posts/childhood-cancer-survivors-only-1-in-25-had-consumed-vitamin-d-rda" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Childhood Cancer survivors – only 1 in 25 had consumed Vitamin D RDA – Oct 2019">Childhood Cancer survivors – only 1 in 25 had consumed Vitamin D RDA – Oct 2019</a>
+* [Childhood Cancer survivors – only 1 in 25 had consumed Vitamin D RDA – Oct 2019](/posts/childhood-cancer-survivors-only-1-in-25-had-consumed-vitamin-d-rda)

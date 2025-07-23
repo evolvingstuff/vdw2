@@ -43,7 +43,7 @@ Scientific Opinion on Dietary Reference Values for vitamin D
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
-### <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a> has the following summary chart
+### [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough) has the following summary chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -97,7 +97,7 @@ Scientific Opinion on Dietary Reference Values for vitamin D
 
 > Pregnant (need to eat for more than one)
 
-> Seniors &nbsp; &nbsp; <a href="/posts/german-seniors-10-pct-less-than-7ng-92-pct-less-than-30-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: German seniors 10 pct less than 7ng, 92 pct less than 30 ng vitamin D – Jan 2012">German seniors 10 pct less than 7ng, 92 pct less than 30 ng vitamin D – Jan 2012</a>
+> Seniors &nbsp; &nbsp; [German seniors 10 pct less than 7ng, 92 pct less than 30 ng vitamin D – Jan 2012](/posts/german-seniors-10-pct-less-than-7ng-92-pct-less-than-30-ng-vitamin-d)
 
 * More vitamin D is needed for body health than for bone health
 
@@ -117,13 +117,13 @@ Scientific Opinion on Dietary Reference Values for vitamin D
 
 > [Reduce chance of falling with 800 IU of vitamin D - European Food Safety Authority - Nov 2014](/posts/reduce-chance-of-falling-with-800-iu-of-vitamin-d-european-food-safety-authority)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a> 800 IU is the very bare minimum amount
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d) 800 IU is the very bare minimum amount
 
 * [Yet again, 800 IU of vitamin D was found to be barely enough to help bones – Lancet Oct 2013](/posts/yet-again-800-iu-of-vitamin-d-was-found-to-be-barely-enough-to-help-bones-lancet)
 
 * [Bone fractures reduced by a minimum of 800 IU vitamin D and Calcium – meta-meta-analysis March 2014](/posts/bone-fractures-reduced-by-a-minimum-of-800-iu-vitamin-d-and-calcium-meta-meta-analysis)
 
-* <a href="/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some seniors do not repond to 1600 IU of vitamin D">Half of seniors got NO response at all from 1600 IU of vitamin D</a>
+* [Half of seniors got NO response at all from 1600 IU of vitamin D](/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d)
 
 ---
 
@@ -153,13 +153,13 @@ Scientific Opinion on Dietary Reference Values for vitamin D
 
 > Note: The word Death occurs only twice in EFSA document
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a> 
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki) 
 
 ---
 
 ### Bones problems in VitaminDWiki
 
-* <a href="/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011">Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011</a> 
+* [Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011](/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011) 
 
 > yes, 400 IU does reduce rickets, but not much else
 
@@ -169,13 +169,13 @@ Scientific Opinion on Dietary Reference Values for vitamin D
 
 ### See also VitaminDWiki
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 68 health problems PROVEN to be helped (Feb 2016)
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 68 health problems PROVEN to be helped (Feb 2016)
 
 * [More than half of the top richest US lobbys are Health related](/posts/more-than-half-of-the-top-richest-us-lobbys-are-health-related) all lobbyists are opposed to size reductions
 
 > American Medical Association, American Hospital Association, Big Pharma are 3 of the 6 biggest spending lobbiests in the US
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)
 
 * [1600 IU vitamin D was enough to get all (white, non-obese) elderly to 20 ng – RCT Dec 2012](/posts/1600-iu-vitamin-d-was-enough-to-get-all-white-non-obese-elderly-to-20-ng-rct)
 

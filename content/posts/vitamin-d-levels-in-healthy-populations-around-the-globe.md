@@ -84,15 +84,15 @@ D. A. Wahl, C. Cooper, P. R. Ebeling, M. Eggersdorfer, J. Hilger, K. Hoffmann, R
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [Vitamin D deficiency is a major global public health problem – Maps Nov 2013](/posts/vitamin-d-deficiency-is-a-major-global-public-health-problem-maps)
 
-* <a href="/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2533">Percent of population with less than 20 ng of vitamin D</a> has the following graph
+* [Percent of population with less than 20 ng of vitamin D](/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d) has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-* <a href="/posts/global-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1972">Global Vitamin D levels - Aug 2011</a> has maps like the following
+* [Global Vitamin D levels - Aug 2011](/posts/global-vitamin-d-levels) has maps like the following
 
 > A rectangle around the number indicates that it is a population-based study.
 

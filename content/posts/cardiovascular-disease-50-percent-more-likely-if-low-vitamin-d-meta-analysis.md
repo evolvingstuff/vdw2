@@ -66,7 +66,7 @@ PMID:     23149428
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Vitamin D non-skeletal trials – review June 2014](/posts/vitamin-d-non-skeletal-trials-review)
 

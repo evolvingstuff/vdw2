@@ -50,11 +50,11 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">Overview Influenza and vitamin D</a> 
+* [Overview Influenza and vitamin D](/posts/overview-influenza-and-vitamin-d) 
 
-* <a href="/posts/flu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Flu">Flu</a>
+* [Flu](/tags/flu.html)
 
-* <a href="/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010">Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010</a>
+* [Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010](/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d)
 
 * [Infectious diseases and vitamin D – update May 2015](/posts/infectious-diseases-and-vitamin-d-update)
 

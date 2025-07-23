@@ -51,13 +51,13 @@ Centro de medicamentos, cosmeticos e saneantes, Instituto Adolfo Lutz, Sao Paulo
 
 * [Off Topic: 4X increase in Americans taking morphine-type drugs in last decade (consider Vitamin D instead) – Aug 2014](/posts/off-topic-4x-increase-in-americans-taking-morphine-type-drugs-in-last-decade-con-tamin-d-instead)
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 * [Dopamine increased with vitamin D supplementation (in rats) April 2016](/posts/dopamine-increased-with-vitamin-d-supplementation-in-rats)
 
-* <a href="/posts/opioid-addiction-reduced-by-omega-3-gut-inflammation-in-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Opioid addiction reduced by Omega-3 (gut inflammation in mice) – Aug 2019">Opioid addiction reduced by Omega-3 (gut inflammation in mice) – Aug 2019</a>
+* [Opioid addiction reduced by Omega-3 (gut inflammation in mice) – Aug 2019](/posts/opioid-addiction-reduced-by-omega-3-gut-inflammation-in-mice)
 
-* <a href="/posts/less-morphine-recall-if-preceded-by-twice-a-week-vitamin-d-400-iu-per-kg-in-rats-human-weights-80-kg" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less morphine recall if preceded by twice a week Vitamin D (400 IU per kg in rats, human weights 80 kg) – Aug 2023">Less morphine recall if preceded by twice a week Vitamin D (400 IU per kg in rats, human weights 80 kg) – Aug 2023</a>
+* [Less morphine recall if preceded by twice a week Vitamin D (400 IU per kg in rats, human weights 80 kg) – Aug 2023](/posts/less-morphine-recall-if-preceded-by-twice-a-week-vitamin-d-400-iu-per-kg-in-rats-human-weights-80-kg)
 
 </div>
 

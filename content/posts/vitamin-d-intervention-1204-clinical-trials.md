@@ -157,7 +157,7 @@
 
 #### See also on VitaminDWiki
 
-* <a href="/posts/vitamin-d-intervention-100-active-clinical-trials-as-of" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D intervention -100 active clinical trials as of May 2018">Vitamin D intervention -100 active clinical trials as of May 2018</a>
+* [Vitamin D intervention -100 active clinical trials as of May 2018](/posts/vitamin-d-intervention-100-active-clinical-trials-as-of)
 
 * [Picure of the long list of intervention trials](/posts/vitamin-d-intervention-trials-a-long-list)
 
@@ -173,7 +173,7 @@
 
 > There is a huge number of less popular and rare diseases listed in the table below
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> trials which have completed, used enough Vitamin D, AND have published their results this side of a paywall
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) trials which have completed, used enough Vitamin D, AND have published their results this side of a paywall
 
 >  **84**  proofs that vitamin D works as of Dec 2017. 
 

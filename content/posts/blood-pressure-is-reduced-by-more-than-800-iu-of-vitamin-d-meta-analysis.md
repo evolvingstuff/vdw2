@@ -58,7 +58,7 @@ A total of  **30 RCTs**  with 41 arms including 4744 participants were included.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a> Overview
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d) Overview
 
 * [Hypertension associated with genes which reduce vitamin D – meta-analysis June 2014](/posts/hypertension-associated-with-genes-which-reduce-vitamin-d-meta-analysis)
 

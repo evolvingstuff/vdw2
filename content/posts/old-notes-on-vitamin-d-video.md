@@ -27,7 +27,7 @@
 }
 
 
-### <a href="/posts/main-webpage-for-vitamin-d-video" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3914">Main webpage for Vitamin D Video</a>
+### [Main webpage for Vitamin D Video](/tags/main-webpage-for-vitamin-d-video.html)
 
 ## Audience characterizations
 
@@ -75,11 +75,11 @@ Prefer fast feedback – not typically willing to wait for years to feel any ben
 
 ## Potential story to include: Proof that adding vitamin D prevents/treats
 
-Proved by <a href="/posts/many-random-controlled-trials" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Many Random Controlled Trials</a> 
+Proved by [Many Random Controlled Trials](/tags/many-random-controlled-trials.html) 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;which gives vitamin D to one half and a placebo to the other half, and see what happens
 
-<a href="/posts/rickets-reduced-6000-percent-by-adding-400-iu-vitamin-d-to-infants-for-an-entire-country" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1675">Rickets reduced 6000% by adding 400 IU vitamin D to infants for an entire country</a> not a Random Controlled Trial
+[Rickets reduced 6000% by adding 400 IU vitamin D to infants for an entire country](/tags/rickets-reduced-6000-by-adding-400-iu-vitamin-d-to-infants-for-an-entire-country.html) not a Random Controlled Trial
 
 [Back pain reduced by vitamin D in "only 97%" of the patients](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1348) (file) not a Random Controlled Trial
 

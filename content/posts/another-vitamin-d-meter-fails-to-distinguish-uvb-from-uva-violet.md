@@ -33,7 +33,7 @@ Goes on sale April 2015
 
 >  **The high UVA vs  UVB in the early morning/late afternoon might actually DECREASE the vitamin D levels** 
 
-* <a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Skin and vitamin D">Overview Skin and vitamin D</a> which has the following chart - UV while STANDING
+* [Overview Skin and vitamin D](/posts/overview-skin-and-vitamin-d) which has the following chart - UV while STANDING
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/uvb-and-uvb-vs-height-of-the-sun---from-creates-2009.gif" alt="image" style="max-width: 400px;">
 

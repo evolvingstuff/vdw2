@@ -88,7 +88,7 @@ apparent email address for more information de54@cornell.edu
 
 * [Vitamin D tester by Cue: consumables only 4 dollars per vitamin D test – Spring 2015](/posts/vitamin-d-tester-by-cue-consumables-only-4-dollars-per-vitamin-d-test-spring-2015)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * [Toward predicting vitamin D levels without a blood test.](/posts/toward-predicting-vitamin-d-levels-without-a-blood-test)
 

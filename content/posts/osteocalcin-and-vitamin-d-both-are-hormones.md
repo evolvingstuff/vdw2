@@ -34,7 +34,7 @@
 
 * [Search VitaminDWiki for OSTEOCALCIN](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Osteocalcin&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 201 items as of July 2014
 
-* <a href="/posts/obesity-related-to-osteocalcin-but-not-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity related to osteocalcin but not vitamin D – Feb 2012">Obesity related to osteocalcin but not vitamin D – Feb 2012</a>
+* [Obesity related to osteocalcin but not vitamin D – Feb 2012](/posts/obesity-related-to-osteocalcin-but-not-vitamin-d)
 
 > &nbsp; &nbsp;  **There is a strong relationship between vitamin K2 and osteocalcin** 
 

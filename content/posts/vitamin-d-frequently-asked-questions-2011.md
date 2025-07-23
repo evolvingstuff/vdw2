@@ -138,4 +138,4 @@ Yes, an expiration date will be printed on the label. Look for it and use it whi
 
 ## See also VitaminDWiki
 
-* <a href="/posts/frequently-asked-questions-about-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frequently asked Questions about vitamin D">Frequently asked Questions about vitamin D</a>
+* [Frequently asked Questions about vitamin D](/posts/frequently-asked-questions-about-vitamin-d)

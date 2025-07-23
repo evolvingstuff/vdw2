@@ -60,19 +60,19 @@ Wonder why this study did not find problem with DDT, as did a previous study (be
 
 ## See also VitaminDWiki
 
-* <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
+* [DDT and other pesticides decrease vitamin D](/posts/ddt-and-other-pesticides-decrease-vitamin-d)
 
 > Interesting: DDT peak use is when the vitamin D deficiency epidemic started
 
-* <a href="/posts/plastics-bpa-pcb-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plastics, BPA, PCB and Vitamin D deficiency">Plastics, BPA, PCB and Vitamin D deficiency</a>
+* [Plastics, BPA, PCB and Vitamin D deficiency](/posts/plastics-bpa-pcb-and-vitamin-d-deficiency)
 
-* <a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">Vitamin D and fertility: a systematic review – May 2012</a>
+* [Vitamin D and fertility: a systematic review – May 2012](/posts/vitamin-d-and-fertility-a-systematic-review)
 
-* <a href="/posts/vitamin-d-roles-in-womens-reproductive-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D - roles in women's reproductive health - Nov 2011">Vitamin D - roles in women's reproductive health - Nov 2011</a>
+* [Vitamin D - roles in women's reproductive health - Nov 2011](/posts/vitamin-d-roles-in-womens-reproductive-health)
 
-* <a href="/posts/conception-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Conception and vitamin D">Conception and vitamin D</a>
+* [Conception and vitamin D](/posts/conception-and-vitamin-d)
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
 ## See also web
 

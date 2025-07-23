@@ -1,0 +1,1259 @@
+{
+    "title": "Disease Database - nice links for Diabetes",
+    "slug": "disease-database-nice-links-for-diabetes",
+    "aliases": [
+        "/Disease+Database+-+nice+links+for+Diabetes",
+        "/507"
+    ],
+    "tiki_page_id": 507,
+    "date": "2010-07-01",
+    "categories": [
+        "Diabetes"
+    ],
+    "tags": [
+        "Diabetes",
+        "autoimmune",
+        "child",
+        "diabetes",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "pediatric autoimmune",
+        "retinopathy",
+        "type 1 diabetes",
+        "weight loss"
+    ]
+}
+
+
+<br />
+
+Links for <a href="http://www.diseasesdatabase.com/ddb3649.htm">Diabetes  mellitus type 1</a>.&#160;&#160; see below for type II<br />
+
+<p>&#160;</p>
+
+<table border="1">
+
+<tbody>
+
+<tr>
+
+<th>Site</th>
+
+<th>Link and description</th>
+
+<th>Content</th>
+
+<th>About</th>
+
+</tr>
+
+<tr>
+
+<td>ADAM</td>
+
+<td><a class="external" href="http://www.nlm.nih.gov/medlineplus/ency/article/000305.htm">Type 1 diabetes: MedlinePlus Medical Encyclopedia</a></td>
+
+<td>Patient  information</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=27222">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Miscellaneous  sites</td>
+
+<td><a class="external" href="http://www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Carbohydrates_and_the_glycaemic_index">Carbohydrates and the glycaemic index</a></td>
+
+<td>Patient  information</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=55046">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Online  Mendelian Inheritance In Man</td>
+
+<td><a class="external" href="http://www.ncbi.nlm.nih.gov/omim/222100">DIABETES  MELLITUS, INSULIN-DEPENDENT; IDDM - OMIM Result</a></td>
+
+<td>Subject  review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=2297">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/766036-overview">Diabetes Mellitus, Type 1 - A Review: eMedicine  Emergency Medicine</a></td>
+
+<td>Quick subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=5301">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/119020-overview">Glucose Intolerance: eMedicine Endocrinology</a></td>
+
+<td>Quick  subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=17072">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/284451-overview">Perioperative Management of the Diabetic Patient:  eMedicine Perioperative Care</a></td>
+
+<td>Quick subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=17250">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/117739-overview">Diabetes Mellitus, Type 1: eMedicine Endocrinology</a></td>
+
+<td>Quick  subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=20359">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>GPnotebook</td>
+
+<td><a class="external" href="http://www.gpnotebook.co.uk/simplepage.cfm?ID=1214971904">diabetes mellitus - General Practice Notebook</a></td>
+
+<td>Quick  subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=23580">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab003556.html">Debridement of diabetic foot ulcers</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=23856">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab004099.html">Routine hospital admission versus out-patient or home  care in children at diagnosis of type 1 diabetes mellitus</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=26890">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab002181.html">Protein restriction for diabetic renal disease</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=6409">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab003287.html">Short acting insulin analogues versus regular human  insulin in patients with diabetes mellitus</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=39636">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://mrw.interscience.wiley.com/cochrane/clsysrev/articles/CD006165/frame.html">Interventions for latent autoimmune diabetes (LADA) in  adults</a></td>
+
+<td>Critically appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=58709">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/Guidance/TA57">Diabetes  (type 1) - insulin pump therapy (replaced by TA151)</a></td>
+
+<td>Cost  effectiveness appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=59697">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/Guidance/TA151">Diabetes -  insulin pump therapy</a></td>
+
+<td>Cost effectiveness appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=61915">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/index.jsp?action=byID&o=11054">Pancreatic islet cell transplantation</a></td>
+
+<td>Cost  effectiveness appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=42405">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/TA113">Diabetes  (type 1 and 2) - inhaled insulin</a></td>
+
+<td>Cost effectiveness  appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=55992">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Madigan Army  Medical Center</td>
+
+<td><a class="external" href="http://www.mamc.amedd.army.mil/Referral/guidelines/ophthal_retinopathy.htm">Madigan Army Medical Center Diabetic  Retinopathy&nbsp; Referral Guidelines</a></td>
+
+<td>Clinical  management guideline</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=11057">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/Guidance/CG15">Type 1  diabetes</a></td>
+
+<td>Clinical management guideline</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=59139">URL metadata</a></small></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<hr />
+
+<h3>Search  elsewhere for Diabetes mellitus type 1</h3>
+
+<noscript><b class='look'>JavaScript must be enabled for some links on this page.</b></noscript>
+
+<p><small>Links  below send the search term in the left hand column to the named site.</small><br />
+
+<small>Alternative  synonyms give different results. Use browser 'Back' button to return to  this page.</small><small> Alternatively return to <a href="http://www.diseasesdatabase.com/ddb3649.htm"> Diabetes mellitus  type 1</a> page.</small></p>
+
+<table cellpadding="3" border="1">
+
+<tbody>
+
+<tr align="center">
+
+<th colspan="1">Search term<br />
+
+<small>* =  MeSH enabled</small></th>
+
+<th colspan="5">US National Library of Medicine</th>
+
+<th colspan="1">Medical databases</th>
+
+<th colspan="1">Guidelines</th>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Diabetes mellitus  type 1</td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PubMed&term=Diabetes+mellitus+type+1">PubMed</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pccompound&term=Diabetes+mellitus+type+1">PubChem</a></td>
+
+<td><a href="http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=Diabetes+mellitus+type+1">MedlinePlus</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=OMIM&term=Diabetes+mellitus+type+1">Online  Mendelian Inheritance in Man</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+mellitus+type+1">DailyMed</a></td>
+
+<td>
+
+<form action="http://www.hon.ch/cgi-bin/find?1+search" method="post" name="frmMedHunt0" class="nobreak">
+
+<input type="hidden" value="Diabetes mellitus type 1" size="40" name="SEARCH" /> 			<a href="ja<x>vascript:document.frmMedHunt0.submit()">MedHunt</a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.guidelines.gov/search/searchresults.aspx?Type=3&txtSearch=Diabetes+mellitus+type+1&num=20">National  Guideline Clearinghouse*</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">
+
+<form action="http://www.nlm.nih.gov/cgi/mesh/2010/MB_cgi" method="post" name="frmMeSHTree1" class="nobreak">
+
+Diabetes Mellitus, Type 1 					<input type="hidden" value="D003922" name="term" /><br />
+
+<input type="hidden" value="uid" name="field" /> 					<a href="ja<x>vascript:document.frmMeSHTree1.submit()"><small class="look">(MeSH Term)</small></a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PubMed&term=Diabetes+Mellitus%2C+Type+1<span>[MAJR]</span>%20AND%20Human<span>[MESH]</span>">PubMed*<small class="look"> (MeSH)</small></a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pccompound&term=Diabetes+Mellitus%2C+Type+1">PubChem</a></td>
+
+<td><a href="http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=Diabetes+Mellitus%2C+Type+1">MedlinePlus</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=OMIM&term=Diabetes+Mellitus%2C+Type+1">Online  Mendelian Inheritance in Man</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+Mellitus%2C+Type+1">DailyMed</a></td>
+
+<td>
+
+<form action="http://www.hon.ch/cgi-bin/find?1+search" method="post" name="frmMedHunt1" class="nobreak">
+
+<input type="hidden" value="Diabetes Mellitus, Type 1" size="40" name="SEARCH" /> 			<a href="ja<x>vascript:document.frmMedHunt1.submit()">MedHunt*<small class="look"> (MeSH)</small></a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.guidelines.gov/search/searchresults.aspx?Type=3&txtSearch=Diabetes+Mellitus%2C+Type+1&num=20">National  Guideline Clearinghouse**<small class="look"> (MeSH)</small></a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">IDDM</td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PubMed&term=IDDM">PubMed</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pccompound&term=IDDM">PubChem</a></td>
+
+<td><a href="http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=IDDM">MedlinePlus</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=OMIM&term=IDDM">Online  Mendelian Inheritance in Man</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=IDDM">DailyMed</a></td>
+
+<td>
+
+<form action="http://www.hon.ch/cgi-bin/find?1+search" method="post" name="frmMedHunt2" class="nobreak">
+
+<input type="hidden" value="IDDM" size="40" name="SEARCH" /> 			<a href="ja<x>vascript:document.frmMedHunt2.submit()">MedHunt</a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.guidelines.gov/search/searchresults.aspx?Type=3&txtSearch=IDDM&num=20">National  Guideline Clearinghouse*</a></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<hr />
+
+<table cellpadding="3" border="1">
+
+<tbody>
+
+<tr align="center">
+
+<th colspan="1">Search term</th>
+
+<th align="center" colspan="2">Dictionaries</th>
+
+<th align="center" colspan="2">Online textbooks</th>
+
+<th align="center" colspan="3">Drugs and medications</th>
+
+<th align="center" colspan="6">Misc</th>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Diabetes mellitus  type 1</td>
+
+<td><a href="http://www.onelook.com/?w=Diabetes+mellitus+type+1">OneLook</a></td>
+
+<td><a href="http://www.mondofacto.com/facts/dictionary?Diabetes+mellitus+type+1">On-line  Medical Dictionary</a></td>
+
+<td><a href="http://www.gpnotebook.co.uk/simpleprocess.cfm?querystring=Diabetes+mellitus+type+1">GP  Notebook</a></td>
+
+<td><a href="http://www.merck.com/mmpe/search.html?qt=Diabetes+mellitus+type+1">Merck  Manual</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+mellitus+type+1">DailyMed  NLM</a></td>
+
+<td><a href="http://www.drugbank.ca/search/search?query=Diabetes+mellitus+type+1">DrugBank</a></td>
+
+<td><a href="http://emc.medicines.org.uk/searchresults.aspx?term=%22Diabetes+mellitus+type+1%22&searchtype=AdvancedSearch">EMC</a></td>
+
+<td><a href="http://www.bing.com/search?q=Diabetes+mellitus+type+1#38;form=OSDSRC">Bing</a></td>
+
+<td><a href="http://www.biomedsearch.com/searchlist.html?query_txt=Diabetes+mellitus+type+1">BioMedSearch</a></td>
+
+<td><a href="http://www.google.com/search?q=Diabetes+mellitus+type+1#38;hl=en#38;safe=off">Google</a></td>
+
+<td><a href="http://www.clinicaltrials.gov/ct/search?term=Diabetes+mellitus+type+1">NIH  Clinical Trials</a></td>
+
+<td><a href="http://www.scirus.com/srsapp/search?p=0&sa=med&q=Diabetes+mellitus+type+1">SCIRUS</a></td>
+
+<td><a href="http://en.wikipedia.org/wiki/Special:Search?search=Diabetes+mellitus+type+1&go=Go">Wikipedia</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Diabetes Mellitus,  Type 1</td>
+
+<td><a href="http://www.onelook.com/?w=Diabetes+Mellitus%2C+Type+1">OneLook</a></td>
+
+<td><a href="http://www.mondofacto.com/facts/dictionary?Diabetes+Mellitus%2C+Type+1">On-line  Medical Dictionary</a></td>
+
+<td><a href="http://www.gpnotebook.co.uk/simpleprocess.cfm?querystring=Diabetes+Mellitus%2C+Type+1">GP  Notebook</a></td>
+
+<td><a href="http://www.merck.com/mmpe/search.html?qt=Diabetes+Mellitus%2C+Type+1">Merck  Manual</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+Mellitus%2C+Type+1">DailyMed  NLM</a></td>
+
+<td><a href="http://www.drugbank.ca/search/search?query=Diabetes+Mellitus%2C+Type+1">DrugBank</a></td>
+
+<td><a href="http://emc.medicines.org.uk/searchresults.aspx?term=%22Diabetes+Mellitus%2C+Type+1%22&searchtype=AdvancedSearch">EMC</a></td>
+
+<td><a href="http://www.bing.com/search?q=Diabetes+Mellitus%2C+Type+1#38;form=OSDSRC">Bing</a></td>
+
+<td><a href="http://www.biomedsearch.com/searchlist.html?query_txt=Diabetes+Mellitus%2C+Type+1">BioMedSearch</a></td>
+
+<td><a href="http://www.google.com/search?q=Diabetes+Mellitus%2C+Type+1#38;hl=en#38;safe=off">Google</a></td>
+
+<td><a href="http://www.clinicaltrials.gov/ct/search?term=Diabetes+Mellitus%2C+Type+1">NIH  Clinical Trials</a></td>
+
+<td><a href="http://www.scirus.com/srsapp/search?p=0&sa=med&q=Diabetes+Mellitus%2C+Type+1">SCIRUS</a></td>
+
+<td><a href="http://en.wikipedia.org/wiki/Special:Search?search=Diabetes+Mellitus%2C+Type+1&go=Go">Wikipedia</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">IDDM</td>
+
+<td><a href="http://www.onelook.com/?w=IDDM">OneLook</a></td>
+
+<td><a href="http://www.mondofacto.com/facts/dictionary?IDDM">On-line  Medical Dictionary</a></td>
+
+<td><a href="http://www.gpnotebook.co.uk/simpleprocess.cfm?querystring=IDDM">GP  Notebook</a></td>
+
+<td><a href="http://www.merck.com/mmpe/search.html?qt=IDDM">Merck  Manual</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=IDDM">DailyMed  NLM</a></td>
+
+<td><a href="http://www.drugbank.ca/search/search?query=IDDM">DrugBank</a></td>
+
+<td><a href="http://emc.medicines.org.uk/searchresults.aspx?term=%22IDDM%22&searchtype=AdvancedSearch">EMC</a></td>
+
+<td><a href="http://www.bing.com/search?q=IDDM#38;form=OSDSRC">Bing</a></td>
+
+<td><a href="http://www.biomedsearch.com/searchlist.html?query_txt=IDDM">BioMedSearch</a></td>
+
+<td><a href="http://www.google.com/search?q=IDDM#38;hl=en#38;safe=off">Google</a></td>
+
+<td><a href="http://www.clinicaltrials.gov/ct/search?term=IDDM">NIH  Clinical Trials</a></td>
+
+<td><a href="http://www.scirus.com/srsapp/search?p=0&sa=med&q=IDDM">SCIRUS</a></td>
+
+<td><a href="http://en.wikipedia.org/wiki/Special:Search?search=IDDM&go=Go">Wikipedia</a></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<br />
+
+Links for <a href="http://www.diseasesdatabase.com/ddb3661.htm">Diabetes  mellitus type 2</a>.<br />
+
+<p>&#160;</p>
+
+<table border="1">
+
+<tbody>
+
+<tr>
+
+<th>Site</th>
+
+<th>Link and description</th>
+
+<th>Content</th>
+
+<th>About</th>
+
+</tr>
+
+<tr>
+
+<td>ADAM</td>
+
+<td><a class="external" href="http://www.nlm.nih.gov/medlineplus/ency/article/000313.htm">Type 2 diabetes: MedlinePlus Medical Encyclopedia</a></td>
+
+<td>Patient  information</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=27230">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>ADAM</td>
+
+<td><a class="external" href="http://www.nlm.nih.gov/medlineplus/ency/article/001214.htm">Diabetes: MedlinePlus Medical Encyclopedia</a></td>
+
+<td>Patient  information</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=28131">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Miscellaneous  sites</td>
+
+<td><a class="external" href="http://muller.lbl.gov/TRessays/22-ThePhysicsDiet.htm">The Physics Diet</a></td>
+
+<td>Patient information</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=38178">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Miscellaneous  sites</td>
+
+<td><a class="external" href="http://www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Carbohydrates_and_the_glycaemic_index">Carbohydrates and the glycaemic index</a></td>
+
+<td>Patient  information</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=55046">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Miscellaneous  sites</td>
+
+<td><a class="external" href="http://www.riskscore.org.uk/">Cardiovascular  risk score</a></td>
+
+<td>Formulae, Algorithms and Calculators</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=14151">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Online  Mendelian Inheritance In Man</td>
+
+<td><a class="external" href="http://www.ncbi.nlm.nih.gov/omim/125853">DIABETES  MELLITUS, NONINSULIN-DEPENDENT; NIDDM - OMIM Result</a></td>
+
+<td>Subject  review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=2606">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/925700-overview">Diabetes Mellitus, Type 2: eMedicine Pediatrics:  General Medicine</a></td>
+
+<td>Quick subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=55430">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/117853-overview">Diabetes Mellitus, Type 2: eMedicine Endocrinology</a></td>
+
+<td>Quick  subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=16984">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/119020-overview">Glucose Intolerance: eMedicine Endocrinology</a></td>
+
+<td>Quick  subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=17072">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/122501-overview">Insulin Resistance: eMedicine Endocrinology</a></td>
+
+<td>Quick  subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=17142">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/284451-overview">Perioperative Management of the Diabetic Patient:  eMedicine Perioperative Care</a></td>
+
+<td>Quick subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=17250">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/766143-overview">Diabetes Mellitus, Type 2 - A Review: eMedicine  Emergency Medicine</a></td>
+
+<td>Quick subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=5302">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>eMedicine.com</td>
+
+<td><a class="external" href="http://emedicine.medscape.com/article/766804-overview">Hyperosmolar Hyperglycemic State: eMedicine Emergency  Medicine</a></td>
+
+<td>Quick subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=5488">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>GPnotebook</td>
+
+<td><a class="external" href="http://www.gpnotebook.co.uk/simplepage.cfm?ID=1214971904">diabetes mellitus - General Practice Notebook</a></td>
+
+<td>Quick  subject review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=23580">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/Guidance/TA63">Diabetes  (type 2) - glitazones (replaced by CG66)</a></td>
+
+<td>Quick subject  review</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=3722">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab006739.html">Dipeptidyl peptidase-4 (DPP-4) inhibitors for type 2  diabetes mellitus</a></td>
+
+<td>Critically appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=60281">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab005102.html">Dietary advice for the prevention of type 2 diabetes  mellitus in adults</a></td>
+
+<td>Critically appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=61772">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab003556.html">Debridement of diabetic foot ulcers</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=23856">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab002181.html">Protein restriction for diabetic renal disease</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=6409">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab004097.html">Dietary advice for treatment of type 2 diabetes  mellitus in adults</a></td>
+
+<td>Critically appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=39597">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab003418.html">Insulin monotherapy versus combinations of insulin with  oral hypoglycaemic agents in patients with type 2 diabetes mellitus</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=42289">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab004096.html">Pharmacotherapy for weight loss in adults with type 2  diabetes mellitus</a></td>
+
+<td>Critically appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=48638">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab005060.html">Self-monitoring of blood glucose in patients with type 2  diabetes mellitus who are not using insulin</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=48769">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab002966.html">Metformin monotherapy for type 2 diabetes mellitus</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=52578">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Cochrane  Database</td>
+
+<td><a class="external" href="http://www2.cochrane.org/reviews/en/ab002968.html">Exercise for type 2 diabetes mellitus</a></td>
+
+<td>Critically  appraised topic</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=54919">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/CG87">Type 2  Diabetes - newer agents (partial update of CG66)</a></td>
+
+<td>Cost  effectiveness appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=69246">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/index.jsp?action=byID&o=10913">Type 2 diabetes - management of blood pressure and  blood lipids (replaced by CG66)</a></td>
+
+<td>Cost effectiveness appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=59142">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/index.jsp?action=byID&o=10914">Type 2 diabetes - renal disease (replaced by CG66)</a></td>
+
+<td>Cost  effectiveness appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=59143">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/TA113">Diabetes  (type 1 and 2) - inhaled insulin</a></td>
+
+<td>Cost effectiveness  appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=55992">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/guidance/index.jsp?action=byID&o=10912">Type 2 diabetes - blood glucose (replaced by CG66)</a></td>
+
+<td>Cost  effectiveness appraisal</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=59140">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>Madigan Army  Medical Center</td>
+
+<td><a class="external" href="http://www.mamc.amedd.army.mil/Referral/guidelines/ophthal_retinopathy.htm">Madigan Army Medical Center Diabetic  Retinopathy&nbsp; Referral Guidelines</a></td>
+
+<td>Clinical  management guideline</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=11057">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/Guidance/CG10">Type 2  diabetes - footcare</a></td>
+
+<td>Clinical management guideline</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=59141">URL metadata</a></small></td>
+
+</tr>
+
+<tr>
+
+<td>NICE</td>
+
+<td><a class="external" href="http://www.nice.org.uk/Guidance/CG66">Type 2  diabetes</a></td>
+
+<td>Clinical management guideline</td>
+
+<td><small><a rel="nofollow" href="http://www.diseasesdatabase.com/link_details.asp?lngURLID=61965">URL metadata</a></small></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<hr />
+
+<h3>Search  elsewhere for Diabetes mellitus type 2</h3>
+
+<noscript><b class='look'>JavaScript must be enabled for some links on this page.</b></noscript>
+
+<p><small>Links  below send the search term in the left hand column to the named site.</small><br />
+
+<small>Alternative  synonyms give different results. Use browser 'Back' button to return to  this page.</small><small> Alternatively return to <a href="http://www.diseasesdatabase.com/ddb3661.htm"> Diabetes mellitus  type 2</a> page.</small></p>
+
+<table cellpadding="3" border="1">
+
+<tbody>
+
+<tr align="center">
+
+<th colspan="1">Search term<br />
+
+<small>* =  MeSH enabled</small></th>
+
+<th colspan="5">US National Library of Medicine</th>
+
+<th colspan="1">Medical databases</th>
+
+<th colspan="1">Guidelines</th>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Diabetes mellitus  type 2</td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PubMed&term=Diabetes+mellitus+type+2">PubMed</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pccompound&term=Diabetes+mellitus+type+2">PubChem</a></td>
+
+<td><a href="http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=Diabetes+mellitus+type+2">MedlinePlus</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=OMIM&term=Diabetes+mellitus+type+2">Online  Mendelian Inheritance in Man</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+mellitus+type+2">DailyMed</a></td>
+
+<td>
+
+<form action="http://www.hon.ch/cgi-bin/find?1+search" method="post" name="frmMedHunt0" class="nobreak">
+
+<input type="hidden" value="Diabetes mellitus type 2" size="40" name="SEARCH" /> 			<a href="ja<x>vascript:document.frmMedHunt0.submit()">MedHunt</a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.guidelines.gov/search/searchresults.aspx?Type=3&txtSearch=Diabetes+mellitus+type+2&num=20">National  Guideline Clearinghouse*</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">
+
+<form action="http://www.nlm.nih.gov/cgi/mesh/2010/MB_cgi" method="post" name="frmMeSHTree1" class="nobreak">
+
+Diabetes Mellitus, Type 2 					<input type="hidden" value="D003924" name="term" /><br />
+
+<input type="hidden" value="uid" name="field" /> 					<a href="ja<x>vascript:document.frmMeSHTree1.submit()"><small class="look">(MeSH Term)</small></a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PubMed&term=Diabetes+Mellitus%2C+Type+2<span>[MAJR]</span>%20AND%20Human<span>[MESH]</span>">PubMed*<small class="look"> (MeSH)</small></a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pccompound&term=Diabetes+Mellitus%2C+Type+2">PubChem</a></td>
+
+<td><a href="http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=Diabetes+Mellitus%2C+Type+2">MedlinePlus</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=OMIM&term=Diabetes+Mellitus%2C+Type+2">Online  Mendelian Inheritance in Man</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+Mellitus%2C+Type+2">DailyMed</a></td>
+
+<td>
+
+<form action="http://www.hon.ch/cgi-bin/find?1+search" method="post" name="frmMedHunt1" class="nobreak">
+
+<input type="hidden" value="Diabetes Mellitus, Type 2" size="40" name="SEARCH" /> 			<a href="ja<x>vascript:document.frmMedHunt1.submit()">MedHunt*<small class="look"> (MeSH)</small></a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.guidelines.gov/search/searchresults.aspx?Type=3&txtSearch=Diabetes+Mellitus%2C+Type+2&num=20">National  Guideline Clearinghouse**<small class="look"> (MeSH)</small></a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">NIDDM</td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PubMed&term=NIDDM">PubMed</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pccompound&term=NIDDM">PubChem</a></td>
+
+<td><a href="http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=NIDDM">MedlinePlus</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=OMIM&term=NIDDM">Online  Mendelian Inheritance in Man</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=NIDDM">DailyMed</a></td>
+
+<td>
+
+<form action="http://www.hon.ch/cgi-bin/find?1+search" method="post" name="frmMedHunt2" class="nobreak">
+
+<input type="hidden" value="NIDDM" size="40" name="SEARCH" /> 			<a href="ja<x>vascript:document.frmMedHunt2.submit()">MedHunt</a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.guidelines.gov/search/searchresults.aspx?Type=3&txtSearch=NIDDM&num=20">National  Guideline Clearinghouse*</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Non-insulin dependent  diabetes mellitus</td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=PubMed&term=Non%2Dinsulin+dependent+diabetes+mellitus">PubMed</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pccompound&term=Non%2Dinsulin+dependent+diabetes+mellitus">PubChem</a></td>
+
+<td><a href="http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=Non%2Dinsulin+dependent+diabetes+mellitus">MedlinePlus</a></td>
+
+<td><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=OMIM&term=Non%2Dinsulin+dependent+diabetes+mellitus">Online  Mendelian Inheritance in Man</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Non%2Dinsulin+dependent+diabetes+mellitus">DailyMed</a></td>
+
+<td>
+
+<form action="http://www.hon.ch/cgi-bin/find?1+search" method="post" name="frmMedHunt3" class="nobreak">
+
+<input type="hidden" value="Non-insulin dependent diabetes
+
+mellitus" size="40" name="SEARCH" /> 			<a href="ja<x>vascript:document.frmMedHunt3.submit()">MedHunt</a>
+
+</form>
+
+</td>
+
+<td><a href="http://www.guidelines.gov/search/searchresults.aspx?Type=3&txtSearch=Non%2Dinsulin+dependent+diabetes+mellitus&num=20">National  Guideline Clearinghouse*</a></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<hr />
+
+<table cellpadding="3" border="1">
+
+<tbody>
+
+<tr align="center">
+
+<th colspan="1">Search term</th>
+
+<th align="center" colspan="2">Dictionaries</th>
+
+<th align="center" colspan="2">Online textbooks</th>
+
+<th align="center" colspan="3">Drugs and medications</th>
+
+<th align="center" colspan="6">Misc</th>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Diabetes mellitus  type 2</td>
+
+<td><a href="http://www.onelook.com/?w=Diabetes+mellitus+type+2">OneLook</a></td>
+
+<td><a href="http://www.mondofacto.com/facts/dictionary?Diabetes+mellitus+type+2">On-line  Medical Dictionary</a></td>
+
+<td><a href="http://www.gpnotebook.co.uk/simpleprocess.cfm?querystring=Diabetes+mellitus+type+2">GP  Notebook</a></td>
+
+<td><a href="http://www.merck.com/mmpe/search.html?qt=Diabetes+mellitus+type+2">Merck  Manual</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+mellitus+type+2">DailyMed  NLM</a></td>
+
+<td><a href="http://www.drugbank.ca/search/search?query=Diabetes+mellitus+type+2">DrugBank</a></td>
+
+<td><a href="http://emc.medicines.org.uk/searchresults.aspx?term=%22Diabetes+mellitus+type+2%22&searchtype=AdvancedSearch">EMC</a></td>
+
+<td><a href="http://www.bing.com/search?q=Diabetes+mellitus+type+2#38;form=OSDSRC">Bing</a></td>
+
+<td><a href="http://www.biomedsearch.com/searchlist.html?query_txt=Diabetes+mellitus+type+2">BioMedSearch</a></td>
+
+<td><a href="http://www.google.com/search?q=Diabetes+mellitus+type+2#38;hl=en#38;safe=off">Google</a></td>
+
+<td><a href="http://www.clinicaltrials.gov/ct/search?term=Diabetes+mellitus+type+2">NIH  Clinical Trials</a></td>
+
+<td><a href="http://www.scirus.com/srsapp/search?p=0&sa=med&q=Diabetes+mellitus+type+2">SCIRUS</a></td>
+
+<td><a href="http://en.wikipedia.org/wiki/Special:Search?search=Diabetes+mellitus+type+2&go=Go">Wikipedia</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Diabetes Mellitus,  Type 2</td>
+
+<td><a href="http://www.onelook.com/?w=Diabetes+Mellitus%2C+Type+2">OneLook</a></td>
+
+<td><a href="http://www.mondofacto.com/facts/dictionary?Diabetes+Mellitus%2C+Type+2">On-line  Medical Dictionary</a></td>
+
+<td><a href="http://www.gpnotebook.co.uk/simpleprocess.cfm?querystring=Diabetes+Mellitus%2C+Type+2">GP  Notebook</a></td>
+
+<td><a href="http://www.merck.com/mmpe/search.html?qt=Diabetes+Mellitus%2C+Type+2">Merck  Manual</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Diabetes+Mellitus%2C+Type+2">DailyMed  NLM</a></td>
+
+<td><a href="http://www.drugbank.ca/search/search?query=Diabetes+Mellitus%2C+Type+2">DrugBank</a></td>
+
+<td><a href="http://emc.medicines.org.uk/searchresults.aspx?term=%22Diabetes+Mellitus%2C+Type+2%22&searchtype=AdvancedSearch">EMC</a></td>
+
+<td><a href="http://www.bing.com/search?q=Diabetes+Mellitus%2C+Type+2#38;form=OSDSRC">Bing</a></td>
+
+<td><a href="http://www.biomedsearch.com/searchlist.html?query_txt=Diabetes+Mellitus%2C+Type+2">BioMedSearch</a></td>
+
+<td><a href="http://www.google.com/search?q=Diabetes+Mellitus%2C+Type+2#38;hl=en#38;safe=off">Google</a></td>
+
+<td><a href="http://www.clinicaltrials.gov/ct/search?term=Diabetes+Mellitus%2C+Type+2">NIH  Clinical Trials</a></td>
+
+<td><a href="http://www.scirus.com/srsapp/search?p=0&sa=med&q=Diabetes+Mellitus%2C+Type+2">SCIRUS</a></td>
+
+<td><a href="http://en.wikipedia.org/wiki/Special:Search?search=Diabetes+Mellitus%2C+Type+2&go=Go">Wikipedia</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">NIDDM</td>
+
+<td><a href="http://www.onelook.com/?w=NIDDM">OneLook</a></td>
+
+<td><a href="http://www.mondofacto.com/facts/dictionary?NIDDM">On-line  Medical Dictionary</a></td>
+
+<td><a href="http://www.gpnotebook.co.uk/simpleprocess.cfm?querystring=NIDDM">GP  Notebook</a></td>
+
+<td><a href="http://www.merck.com/mmpe/search.html?qt=NIDDM">Merck  Manual</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=NIDDM">DailyMed  NLM</a></td>
+
+<td><a href="http://www.drugbank.ca/search/search?query=NIDDM">DrugBank</a></td>
+
+<td><a href="http://emc.medicines.org.uk/searchresults.aspx?term=%22NIDDM%22&searchtype=AdvancedSearch">EMC</a></td>
+
+<td><a href="http://www.bing.com/search?q=NIDDM#38;form=OSDSRC">Bing</a></td>
+
+<td><a href="http://www.biomedsearch.com/searchlist.html?query_txt=NIDDM">BioMedSearch</a></td>
+
+<td><a href="http://www.google.com/search?q=NIDDM#38;hl=en#38;safe=off">Google</a></td>
+
+<td><a href="http://www.clinicaltrials.gov/ct/search?term=NIDDM">NIH  Clinical Trials</a></td>
+
+<td><a href="http://www.scirus.com/srsapp/search?p=0&sa=med&q=NIDDM">SCIRUS</a></td>
+
+<td><a href="http://en.wikipedia.org/wiki/Special:Search?search=NIDDM&go=Go">Wikipedia</a></td>
+
+</tr>
+
+<tr valign="top" align="center">
+
+<td align="left">Non-insulin dependent  diabetes mellitus</td>
+
+<td><a href="http://www.onelook.com/?w=Non%2Dinsulin+dependent+diabetes+mellitus">OneLook</a></td>
+
+<td><a href="http://www.mondofacto.com/facts/dictionary?Non%2Dinsulin+dependent+diabetes+mellitus">On-line  Medical Dictionary</a></td>
+
+<td><a href="http://www.gpnotebook.co.uk/simpleprocess.cfm?querystring=Non%2Dinsulin+dependent+diabetes+mellitus">GP  Notebook</a></td>
+
+<td><a href="http://www.merck.com/mmpe/search.html?qt=Non%2Dinsulin+dependent+diabetes+mellitus">Merck  Manual</a></td>
+
+<td><a href="http://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Non%2Dinsulin+dependent+diabetes+mellitus">DailyMed  NLM</a></td>
+
+<td><a href="http://www.drugbank.ca/search/search?query=Non%2Dinsulin+dependent+diabetes+mellitus">DrugBank</a></td>
+
+<td><a href="http://emc.medicines.org.uk/searchresults.aspx?term=%22Non%2Dinsulin+dependent+diabetes+mellitus%22&searchtype=AdvancedSearch">EMC</a></td>
+
+<td><a href="http://www.bing.com/search?q=Non%2Dinsulin+dependent+diabetes+mellitus#38;form=OSDSRC">Bing</a></td>
+
+<td><a href="http://www.biomedsearch.com/searchlist.html?query_txt=Non%2Dinsulin+dependent+diabetes+mellitus">BioMedSearch</a></td>
+
+<td><a href="http://www.google.com/search?q=Non%2Dinsulin+dependent+diabetes+mellitus#38;hl=en#38;safe=off">Google</a></td>
+
+<td><a href="http://www.clinicaltrials.gov/ct/search?term=Non%2Dinsulin+dependent+diabetes+mellitus">NIH  Clinical Trials</a></td>
+
+<td><a href="http://www.scirus.com/srsapp/search?p=0&sa=med&q=Non%2Dinsulin+dependent+diabetes+mellitus">SCIRUS</a></td>
+
+<td><a href="http://en.wikipedia.org/wiki/Special:Search?search=Non%2Dinsulin+dependent+diabetes+mellitus&go=Go">Wikipedia</a></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<br />

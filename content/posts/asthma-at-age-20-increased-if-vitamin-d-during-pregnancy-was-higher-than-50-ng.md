@@ -56,11 +56,11 @@ Comments:
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015](/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
 > <span style="color:#00F;">Asthma has been proven to be treated by Vitamin D in at least 4 random controlled trials</span>
 

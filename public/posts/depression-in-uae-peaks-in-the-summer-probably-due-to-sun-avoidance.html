@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Depression in UAE peaks in the summer – probably due to sun avoidance</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Depression in UAE peaks in the summer – probably due to sun avoidance</h1><time>March 4, 2011</time><div data-pagefind-body><h1 id=sunshine-sadness-and-seasonality-25-hydroxyvitamin-d-and-depressive-symptoms-in-the-united-arab-emirates-uae>Sunshine, Sadness and Seasonality: 25-Hydroxyvitamin D, and Depressive Symptoms in the United Arab Emirates (UAE)</h1><p>Authors: Thomas, Justin; Anouti, Fatme A.l.; Hasani, Sara Al; Abdel-Wareth, Laila; Haq, Afrozul</p><p>The International Journal of Mental Health Promotion, Volume 13, Number 1, February 2011 , pp. 23-26(4)</p><p>Publisher: The Clifford Beers Foundation</p><p>Several studies have described the prevalence of vitamin D deficiency in Gulf Arab populations and focused on the physical health consequences of VTD deficiency. No work to date on this population has explored the psychological consequences of VTD deficiency or the issue of seasonal variations in deficiency and symptom severity. The aim of this study was to assess seasonal variation in depressive symptoms and 25-Hydroxyvitamin D levels, exploring the relationship between vitamin D deficiency and mood in female university students in the United Arab Emirates. A cross-sectional study design was used to assess seasonal variation in mood, and a correlational analysis to assess the relationship between vitamin D levels and depressive symptoms.</p><p>Depressive symptoms were positively correlated with 25 (OH)D levels. Seasonal variation was observed for both depressive symptoms and vitamin D levels, the summer cohort having the highest levels of vitamin D deficiency and reporting greater levels of depressive symptomatology. The results support previous studies that have suggested an association between 25 (OH)D levels and depressive symptoms</p><p>The observed seasonal variation supports the idea of a summer time depressive spike in the UAE, <strong>probably due to increased heat/sun avoidance rather than seasonal variations in photoperiod</strong> . These findings have implications for mental health promotion and prevention of depressive illness.</p><p>Document Type: Research article; Publication date: 2011-02-01</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/red-alert-one-in-three-pre-teens-in-tehran-had-less-than-5-ng-of-vitamin-d>Red Alert – one in three pre-teens in Tehran had less than 5 ng of vitamin D – Feb 2011</a></p></li><li><p><a href=/posts/overview-deficiency-of-vitamin-d>Overview Deficiency of vitamin D</a></p></li><li><p><a href=/posts/concealing-clothing-resulted-in-only-8-ng-vitamin-d>Concealing clothing resulted in only 8 ng vitamin D – Feb 2011</a></p></li><li><p><a href=/posts/23-ng-of-vitamin-d-in-sunny-israel>23 ng of vitamin D in sunny Israel – Dec 2010</a></p></li><li><p><a href=/tags/27-of-turkish-mothers-has-less-than-11-ng-of-vitamin-d.html>27% of Turkish mothers has less than 11 ng of vitamin D</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1524">Hypovitaminosis D in developing countries—prevalence, risk factors &mldr;</a> PDF</p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1507">High Prevalence of Vitamin D Insufficiency in Athletes and Dancers</a> in Israel</p></li><li><p><a href=/tags/ultra-orthodox-jews-also-suffer-from-10-ng-vitamin-d-levels-nov-2010.html>Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010</a> clothing restricts access to the sun</p></li><li><p><a href=/tags/arab-pre-term-infants-often-have-less-than-10-ng-of-vitamin-d-2010.html>Arab pre-term infants often have less than 10 ng of vitamin D - 2010</a> also a very sunny climate</p></li><li><p><a href=/posts/air-conditioning-probably-has-decreased-vitamin-d>Air Conditioning probably has decreased vitamin D</a> from a book</p></li><li><p><a href=/posts/even-in-sunny-areas-vitamin-d-intake-often-too-low>Even in Sunny Areas, Vitamin D Intake Often Too Low - May 2010</a></p></li><li><p><a href=/posts/less-than-4-ng-is-more-common-in-saudis-than-diabetic-saudis>Less than 4 ng is more common in Saudis than diabetic Saudis – July 2010</a></p></li><li><p><a href=/posts/teens-increasingly-indoors-especially-if-dark-skin>Teens increasingly indoors - especially if dark skin - July 2010</a></p></li><li><p><a href=/tags/several-abstracts-on-vitamin-d-and-depression-y-or-n-july-2010.html>Several abstracts on vitamin D and depression – Y or N July 2010</a></p></li><li><p><a href=/posts/less-than-20-ng-vitamin-d-increases-depression-by-80-percent>Less than 20 ng vitamin D increases depression by 80 percent – Dec 2010</a></p></li></ul><h1 id=see-web>See web</h1><ul><li><a href="http://www.google.com/webhp?sourceid=navclient-ff#hl=en&amp;site=webhp&&amp;sa=X&amp;ei=cshpTf7fKoLmsQOVlOSmBA&amp;ved=0CBQQvwUoAQ&amp;q=%28burka+OR+hijab%29+%22vitamin+D%22&amp;spell=1&amp;bav=on.1,or.&amp;fp=18e4c0cc530c3619">Google Search for (burka OR hijab) &ldquo;vitamin D&rdquo;</a> >400,000 hits Feb 2011</li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/depression.html><span class=tag>depression</span></a>
+<a href=/tags/depression.html><span class=tag>Depression</span></a>
+<a href=/tags/mood-disorders.html><span class=tag>mood disorders</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>child, depression, Depression, mood disorders, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

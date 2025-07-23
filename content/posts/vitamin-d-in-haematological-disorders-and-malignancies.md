@@ -47,9 +47,9 @@ Paige M. Kulling, Kristine C. Olson, Thomas L. Olson, David J. Feith, Thomas P. 
 
 * [Multiple Myeloma (blood cell cancer) treated by vitamin D - many studies](/posts/multiple-myeloma-blood-cell-cancer-treated-by-vitamin-d-many-studies)
 
-* [Cancer - Leukemia](/categories/cancer---leukemia) category in VitaminDWiki
+* [Cancer - Leukemia](/posts/cancer-leukemia) category in VitaminDWiki
 
-* [Cancer - Lymphoma](/categories/cancer---lymphoma) category in VitaminDWiki
+* [Cancer - Lymphoma](/posts/cancer-lymphoma) category in VitaminDWiki
 
 * [Vitamin D Cofactors in a nutshell](/posts/vitamin-d-cofactors-in-a-nutshell)  **cofactos often eliminate hypercalcemia** 
 

@@ -53,7 +53,7 @@ Conclusions PV and BP patients have an increased prevalence of hypovitaminosis D
 
 * [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)
 
-* <a href="/posts/half-as-much-blistering-diseases-bullous-in-portions-of-chile-with-lots-of-sunshine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Half as much blistering diseases (bullous) in portions of Chile with lots of sunshine – Feb 2025">Half as much blistering diseases (bullous) in portions of Chile with lots of sunshine – Feb 2025</a>
+* [Half as much blistering diseases (bullous) in portions of Chile with lots of sunshine – Feb 2025](/posts/half-as-much-blistering-diseases-bullous-in-portions-of-chile-with-lots-of-sunshine)
 
 ---
 

@@ -45,7 +45,7 @@ In conclusion, Family Medicine providers are aware of current AAP recommendation
 
 ## See also VitaminDWiki
 
-* [Infant-Child](/categories/infant-child) category listing with associated searches
+* [Infant-Child](/posts/infant-child) category listing with associated searches
 
 * [Fewer pre-infants were vitamin D deficient when they got 800 IU – RCT Feb 2014](/posts/fewer-pre-infants-were-vitamin-d-deficient-when-they-got-800-iu-rct)
 

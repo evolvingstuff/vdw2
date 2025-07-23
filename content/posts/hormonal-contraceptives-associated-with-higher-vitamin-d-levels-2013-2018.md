@@ -89,12 +89,12 @@ CONCLUSIONS: Use of HC was associated with, on average,  **26% higher total 25(O
 
 #### See also VitaminDWiki
 
-* <a href="/posts/oral-contraceptives-may-reduce-or-increase-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral contraceptives may reduce or increase vitamin D">Oral contraceptives may reduce or increase vitamin D</a>
+* [Oral contraceptives may reduce or increase vitamin D](/posts/oral-contraceptives-may-reduce-or-increase-vitamin-d)
 
-* <a href="/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012">Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012</a>
+* [Oral contraceptive use associated with higher levels of vitamin D – thesis June 2012](/posts/oral-contraceptive-use-associated-with-higher-levels-of-vitamin-d-thesis)
 
 * [Being on “the pill” increases low vitamin D levels by about 20 percent – Sept 2013](/posts/being-on-the-pill-increases-low-vitamin-d-levels-by-about-20-percent)
 
-* <a href="/posts/oral-contraceptives-which-increase-vitamin-d-reduce-the-risk-of-some-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral Contraceptives (which increase Vitamin D) reduce the risk of some cancers – Jan 2018">Oral Contraceptives (which increase Vitamin D) reduce the risk of some cancers – Jan 2018</a>
+* [Oral Contraceptives (which increase Vitamin D) reduce the risk of some cancers – Jan 2018](/posts/oral-contraceptives-which-increase-vitamin-d-reduce-the-risk-of-some-cancers)
 
 <!-- ~tc~ (alias(Hormonal contraceptives associated with higher vitamin D levels - May 2013)) ~/tc~ -->

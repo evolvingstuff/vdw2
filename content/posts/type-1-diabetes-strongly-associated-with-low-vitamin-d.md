@@ -42,7 +42,7 @@ PMID:     23573085
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Type 1 diabetes strongly associated with low vitamin D – March 2013](/posts/type-1-diabetes-strongly-associated-with-low-vitamin-d)
 

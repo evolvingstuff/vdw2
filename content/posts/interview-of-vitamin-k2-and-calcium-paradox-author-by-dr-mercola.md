@@ -68,11 +68,11 @@
 
 ### [Interview of author by Mercola](http://articles.mercola.com/sites/articles/archive/2012/12/16/vitamin-k2.aspx?e_cid=20121216_SNL_Art_1) Dec 2012
 
-### <a href="/posts/vitamin-k2-and-the-calcium-paradox-2012-book" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2908">Vitamin K2 and the Calcium Paradox – 2012 book</a> Review  and table of contents on VitaminDWiki
+### [Vitamin K2 and the Calcium Paradox – 2012 book](/posts/vitamin-k2-and-the-calcium-paradox-2012-book) Review  and table of contents on VitaminDWiki
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/kate.jpg" alt="image">
 
-### <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Overview Vitamin K and Vitamin D</a>
+### [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
  **Highlights in BLUE added by VitaminDWiki** 
 

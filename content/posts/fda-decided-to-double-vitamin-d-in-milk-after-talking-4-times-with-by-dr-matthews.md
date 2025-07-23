@@ -36,7 +36,7 @@ The U.S. Food and Drug Administration (FDA) released a press release on July 15,
 
 *  **[FDA doubles the amount of vitamin D permitted in milk – July 2016](/posts/fda-doubles-the-amount-of-vitamin-d-permitted-in-milk)** 
 
-* <a href="/posts/vitamin-d-advocate-dr-matthews-is-now-in-whos-who-marquis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D advocate (Dr. Matthews) is now in Who’s Who Marquis – Feb 2018">Vitamin D advocate (Dr. Matthews) is now in Who’s Who Marquis – Feb 2018</a>
+* [Vitamin D advocate (Dr. Matthews) is now in Who’s Who Marquis – Feb 2018](/posts/vitamin-d-advocate-dr-matthews-is-now-in-whos-who-marquis)
 
 * [Search VitaminDWiki for MATTHEWS](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=matthews&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 397 items as of April 2018
 
@@ -48,7 +48,7 @@ The U.S. Food and Drug Administration (FDA) released a press release on July 15,
 
 * [US Army learning about benefits of vitamin D to trauma – Matthews Dec 2013](/posts/us-army-learning-about-benefits-of-vitamin-d-to-trauma-matthews)
 
-* <a href="/posts/off-topic-fda-does-change-after-lots-of-money-and-decades-of-pressure-amalgum-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: FDA does change after lots of money and decades of pressure (amalgum in this case) - Oct 2020">Off Topic: FDA does change after lots of money and decades of pressure (amalgum in this case) - Oct 2020</a>
+* [Off Topic: FDA does change after lots of money and decades of pressure (amalgum in this case) - Oct 2020](/posts/off-topic-fda-does-change-after-lots-of-money-and-decades-of-pressure-amalgum-in-this-case)
 
 #### Web
 

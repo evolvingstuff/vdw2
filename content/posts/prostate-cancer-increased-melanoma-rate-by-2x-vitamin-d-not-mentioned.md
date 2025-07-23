@@ -47,7 +47,7 @@ Conclusion Personal history of PCa is associated with an increased risk of melan
 
 ## See also VitaminDWiki
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)
 
 ## See also web
 

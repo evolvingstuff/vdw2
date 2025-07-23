@@ -40,11 +40,11 @@ Gwon M1,2, Tak YJ3,4, Kim YJ5,6, Lee SY7,8, Lee JG9,10, Jeong DW11, Yi YH12,13, 
 
 > <span style="color:#00F;">Very similar conclusion to the study on this page</span>
 
-* <a href="/posts/vitamin-d-is-number-one-stress-buster-huffington-post" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is number one stress buster – Huffington Post May 2010">Vitamin D is number one stress buster – Huffington Post May 2010</a>
+* [Vitamin D is number one stress buster – Huffington Post May 2010](/posts/vitamin-d-is-number-one-stress-buster-huffington-post)
 
 * [Anti-depression medication about as good as big increase in vitamin D – meta-analysis of flawless data April 2014](/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data)
 
-* <a href="/posts/stress-increased-the-risk-of-getting-multiple-autoimmune-diseases-by-23-x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stress increased the risk of getting multiple autoimmune diseases by 2.3 X – June 2018">Stress increased the risk of getting multiple autoimmune diseases by 2.3 X – June 2018</a>
+* [Stress increased the risk of getting multiple autoimmune diseases by 2.3 X – June 2018](/posts/stress-increased-the-risk-of-getting-multiple-autoimmune-diseases-by-23-x)
 
 </div>
 

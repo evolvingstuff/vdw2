@@ -39,9 +39,9 @@
 
 * [Dry eyes associated with low vitamin D](/posts/dry-eyes-associated-with-low-vitamin-d)
 
-* <a href="/posts/dry-eye-decreased-with-weekly-50000-iu-vitamin-d-injection-for-8-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dry eye decreased with weekly 50,000 IU vitamin D injection for 8 weeks – Sept 2017">Dry eye decreased with weekly 50,000 IU vitamin D injection for 8 weeks – Sept 2017</a>
+* [Dry eye decreased with weekly 50,000 IU vitamin D injection for 8 weeks – Sept 2017](/posts/dry-eye-decreased-with-weekly-50000-iu-vitamin-d-injection-for-8-weeks)
 
-* <a href="/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dry Eyes treated by Omega-3 and Vitamin D – many studies">Dry Eyes treated by Omega-3 and Vitamin D – many studies</a>
+* [Dry Eyes treated by Omega-3 and Vitamin D – many studies](/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies)
 
 ---
 

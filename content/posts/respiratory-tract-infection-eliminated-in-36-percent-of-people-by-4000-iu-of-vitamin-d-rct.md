@@ -84,13 +84,13 @@ Vitamin D supplementation was found to significantly increase the probability of
 
 * [Respiratory Tract Infection visits 2.5 less likely with vitamin D: Pregnancy 2000 IU, Infant 800 IU – RCT Oct 2014](/posts/respiratory-tract-infection-visits-25-less-likely-with-vitamin-d-pregnancy-2000-iu-infant-800-iu-rct)
 
-* <a href="/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018">Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018</a>
+* [Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018](/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review)
 
 * [RTI – Feel much better if increase vitamin D level above 40 ng (4000 IU) – RCT Sept 2015](/posts/rti-feel-much-better-if-increase-vitamin-d-level-above-40-ng-4000-iu-rct)
 
    *  **later analysis of data by same authors of study on this page** 
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> RCT study on this page is one of the proofs that Vitamin D works
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) RCT study on this page is one of the proofs that Vitamin D works
 
 ## See also web
 

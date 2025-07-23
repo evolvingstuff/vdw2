@@ -143,7 +143,7 @@ Wageningen Academic Publishers
 
 ### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-3rd-edition-book-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D – 3rd Edition book 2011">Vitamin D – 3rd Edition book 2011</a>
+* [Vitamin D – 3rd Edition book 2011](/posts/vitamin-d-3rd-edition-book-2011)
 
  **<span>[dl2668]</span> if Registered** 
 

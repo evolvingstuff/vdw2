@@ -42,4 +42,4 @@ Squamous cell carcinoma incidence tended to be lower in persons with serum 25(OH
 
 * [Sunlight, Vitamin D and Skin Cancer – 2nd edition Aug 2013](/posts/sunlight-vitamin-d-and-skin-cancer-2nd-edition) book
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)

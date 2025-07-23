@@ -32,4 +32,4 @@ Behind $31 paywall https://doi.org/10.1016/j.jhsa.2022.03.002
 
 Described in [ConsumerLab report on CBD](ttps://www.consumerlab.com/reviews/cbd-oil-hemp-review/cbd-oil/) - free 5 day trial
 
-<a href="/posts/excellent-reviews-of-supplements-at-consumerlab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent reviews of supplements at ConsumerLab">Excellent reviews of supplements at ConsumerLab</a>
+[Excellent reviews of supplements at ConsumerLab](/posts/excellent-reviews-of-supplements-at-consumerlab)

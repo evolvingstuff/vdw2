@@ -43,7 +43,7 @@ Vitamin D levels of active female smokers
 
 Black 13 ng, Hispanic 19 ng, White 25 ng
 
-Note: Very similar to the vitamin D levels in <a href="/posts/another-us-study" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4172">another US study</a>
+Note: Very similar to the vitamin D levels in [another US study](/tags/another-us-study.html)
 
 Black 15 ng, Hispanic 20 ng, White 26 ng
 
@@ -61,4 +61,4 @@ Conclusion: The cotinine blood serum concentrations can also affect vitamin D co
 
 ## See also VitaminDWiki
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)

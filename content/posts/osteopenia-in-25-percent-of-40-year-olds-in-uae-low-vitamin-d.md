@@ -35,6 +35,6 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
 * [Search VitaminDWiki for Osteopenia](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=osteopenia&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 236 items as of Jan 2014

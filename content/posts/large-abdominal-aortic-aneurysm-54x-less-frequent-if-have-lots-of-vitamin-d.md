@@ -142,6 +142,6 @@ PMID:     23602862
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Increased probability of chest aorta aneurisms with low vitamin D – Nov 2012](/posts/increased-probability-of-chest-aorta-aneurisms-with-low-vitamin-d)

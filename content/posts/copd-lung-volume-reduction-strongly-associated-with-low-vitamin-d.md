@@ -74,6 +74,6 @@ PMID: 24638545
 
 ## See also VitaminDWiki
 
-* [Breathing](/categories/breathing) category listing - which includes COPD 345 items as of March 2014
+* [Breathing](/tags/breathing.html) category listing - which includes COPD 345 items as of March 2014
 
 * [COPD fought by Vitamin D - many studies](/posts/copd-fought-by-vitamin-d-many-studies)

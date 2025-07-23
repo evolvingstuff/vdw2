@@ -53,7 +53,7 @@ PMID: 23109222
 
 ### See also VitaminDWiki
 
-* <a href="/posts/increased-growth-factors-with-vitamin-d-and-vitamin-k2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2757">Increased growth factors with vitamin D and Vitamin K2 – May 2012</a>
+* [Increased growth factors with vitamin D and Vitamin K2 – May 2012](/posts/increased-growth-factors-with-vitamin-d-and-vitamin-k2)
 
 * [Search IGF in VitaminDWiki](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=igf&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0&ref=www.VitaminDWiki.com%2Ftiki-index.php%3Fpage%3DVitaminDSearch#gsc.tab=0&gsc.q=igf&gsc.page=1) 172 items as of July 2015
 

@@ -56,4 +56,4 @@ PMID: 22883066
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Overview Hypertension and Vitamin D</a> which include many previous meta-analysis
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d) which include many previous meta-analysis

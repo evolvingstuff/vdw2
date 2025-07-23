@@ -49,11 +49,11 @@ Wake Forest School of Medicine - Winston-Salem, USA  jplate@wakehealth.edu
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/better-total-hip-replacement-if-have-high-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better total hip replacement if have high vitamin D">Better total hip replacement if have high vitamin D</a>
+* [Better total hip replacement if have high vitamin D](/posts/better-total-hip-replacement-if-have-high-vitamin-d)
 
-* <a href="/posts/death-of-older-hip-fracture-patients-at-least-16x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death of older hip fracture patients at least 1.6X more likely if low vitamin D – May 2018">Death of older hip fracture patients at least 1.6X more likely if low vitamin D – May 2018</a>
+* [Death of older hip fracture patients at least 1.6X more likely if low vitamin D – May 2018](/posts/death-of-older-hip-fracture-patients-at-least-16x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/perhaps-fewer-bone-non-unions-with-100000-iu-weekly-of-vitamin-d-rct-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps fewer bone non-unions with 100,000 IU weekly of vitamin D – RCT 2018">Perhaps fewer bone non-unions with 100,000 IU weekly of vitamin D – RCT 2018</a>
+* [Perhaps fewer bone non-unions with 100,000 IU weekly of vitamin D – RCT 2018](/posts/perhaps-fewer-bone-non-unions-with-100000-iu-weekly-of-vitamin-d-rct-2018)
 
 * [Hip replacement 2X more likely if hip bone surgery was during winter (low vitamin D) – Dec 2014](/posts/hip-replacement-2x-more-likely-if-hip-bone-surgery-was-during-winter-low-vitamin-d)
 
@@ -81,9 +81,9 @@ Wake Forest School of Medicine - Winston-Salem, USA  jplate@wakehealth.edu
 
    * $5/year of vitamin D greatly reduces the risk of any bone fracture
 
-* <a href="/posts/total-knee-arthroplasty-worse-outcome-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Total knee arthroplasty – worse outcome if low vitamin D – many studies">Total knee arthroplasty – worse outcome if low vitamin D – many studies</a>
+* [Total knee arthroplasty – worse outcome if low vitamin D – many studies](/posts/total-knee-arthroplasty-worse-outcome-if-low-vitamin-d-many-studies)
 
-* <a href="/posts/hip-surgery-with-multiple-doses-of-50000-iu-of-vitamin-d-weekly-both-before-and-after-rct-2023" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hip surgery with multiple doses of 50,000 IU of vitamin D weekly both before and after – RCT 2023">Hip surgery with multiple doses of 50,000 IU of vitamin D weekly both before and after – RCT 2023</a>
+* [Hip surgery with multiple doses of 50,000 IU of vitamin D weekly both before and after – RCT 2023](/posts/hip-surgery-with-multiple-doses-of-50000-iu-of-vitamin-d-weekly-both-before-and-after-rct-2023)
 
 </div>
 

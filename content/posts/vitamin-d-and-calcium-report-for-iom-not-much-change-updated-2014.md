@@ -82,9 +82,9 @@
 
 * [Vitamin D Deficiency](/posts/vitamin-d-deficiency)
 
-* <a href="/posts/is-the-institute-of-medicine-report-on-calcium-and-vitamin-d-good-science" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is the Institute of Medicine Report on Calcium and Vitamin D Good Science - Jan 2011">Is the Institute of Medicine Report on Calcium and Vitamin D Good Science - Jan 2011</a>
+* [Is the Institute of Medicine Report on Calcium and Vitamin D Good Science - Jan 2011](/posts/is-the-institute-of-medicine-report-on-calcium-and-vitamin-d-good-science)
 
-* <a href="/posts/wonder-about-conflict-of-interest-of-iom-panel-members" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wonder about conflict of interest of IoM panel members">Wonder about conflict of interest of IoM panel members</a>
+* [Wonder about conflict of interest of IoM panel members](/posts/wonder-about-conflict-of-interest-of-iom-panel-members)
 
 </div>
 

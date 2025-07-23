@@ -96,10 +96,10 @@ Then, when they ate the pigs, etc. they got their vitamin D
 
 * [Rickets in Mongolia - July 2013](/posts/rickets-in-mongolia)
 
-* <a href="/posts/rickets-1-in-10000-in-canada-and-uk-1-in-2-in-russia-and-mongolia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets – 1 in 10,000 in Canada and UK, 1 in 2 in Russia and Mongolia">Rickets – 1 in 10,000 in Canada and UK, 1 in 2 in Russia and Mongolia</a>
+* [Rickets – 1 in 10,000 in Canada and UK, 1 in 2 in Russia and Mongolia](/posts/rickets-1-in-10000-in-canada-and-uk-1-in-2-in-russia-and-mongolia)
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
 
 * [Group is giving only 200 IU of Vitamin D to 70 million women and children to prevent Rickets](/posts/group-is-giving-only-200-iu-of-vitamin-d-to-70-million-women-and-children-to-prevent-rickets)
 
-* <a href="/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Percent of population with less than 20 ng of vitamin D">Percent of population with less than 20 ng of vitamin D</a>  98% in Mongolia < 20 ng
+* [Percent of population with less than 20 ng of vitamin D](/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d)  98% in Mongolia < 20 ng

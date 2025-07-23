@@ -37,7 +37,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> which has the following chart
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

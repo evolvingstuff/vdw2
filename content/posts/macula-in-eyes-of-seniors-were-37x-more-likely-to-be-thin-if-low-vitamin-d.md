@@ -63,6 +63,6 @@ PMID: 25028353
 
 * [Macular degeneration 4X more likely if low vitamin D and a particular gene – May 2013](/posts/macular-degeneration-4x-more-likely-if-low-vitamin-d-and-a-particular-gene)
 
-* <a href="/posts/vitamin-d-may-help-prevent-macular-degeneration-in-women-younger-than-75" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D may help prevent macular degeneration in women younger than 75 – April 2011">Vitamin D may help prevent macular degeneration in women younger than 75 – April 2011</a>
+* [Vitamin D may help prevent macular degeneration in women younger than 75 – April 2011](/posts/vitamin-d-may-help-prevent-macular-degeneration-in-women-younger-than-75)
 
 * [Search VitaminDWiki for "macular degeneration" OR AMD](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22macular+degeneration%22+OR+AMD&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 232 items as of Nov 2015

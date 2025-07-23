@@ -43,7 +43,7 @@
 
 Many diseases stress the body ==> consume vitamin D
 
-No indication that mental stress is reduced by Vitamin D (other than [Depression](/categories/depression) )
+No indication that mental stress is reduced by Vitamin D (other than [Depression](/tags/depression.html) )
 
 perhaps stress ==> lower vitamin D ==> depression
 
@@ -53,9 +53,9 @@ perhaps stress ==> lower vitamin D ==> depression
 
  **[96 percent vitamin D deficient – destitute asylum seekers and refugees in London – Nov 2012](/posts/96-percent-vitamin-d-deficient-destitute-asylum-seekers-and-refugees-in-london)** 
 
- **<a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>** 
+ **[Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)** 
 
- **<a href="/posts/cholesterol-is-needed-to-produce-both-vitamin-d-and-cortisol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cholesterol is needed to produce both Vitamin D and Cortisol">Cholesterol is needed to produce both Vitamin D and Cortisol</a>** 
+ **[Cholesterol is needed to produce both Vitamin D and Cortisol](/posts/cholesterol-is-needed-to-produce-both-vitamin-d-and-cortisol)** 
 
 ---
 

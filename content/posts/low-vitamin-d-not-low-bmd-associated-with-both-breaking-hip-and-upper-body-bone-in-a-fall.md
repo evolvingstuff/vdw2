@@ -52,7 +52,7 @@ The dependent variable was the presence of a concomitant fracture at the upper l
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Vitamin D may prevent falls and fractures without Calcium – an overview of 9 meta-analysis – Oct 2012](/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis)
 

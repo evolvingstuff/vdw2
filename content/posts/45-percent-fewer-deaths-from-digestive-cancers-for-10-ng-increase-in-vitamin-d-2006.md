@@ -60,8 +60,8 @@ CONCLUSIONS: Low levels of vitamin D may be associated with increased cancer inc
 
 * [After 30 years it still appears that vitamin D deals with colorectal cancer – Oct 2012](/posts/after-30-years-it-still-appears-that-vitamin-d-deals-with-colorectal-cancer)
 
-* <a href="/posts/colon-cancer-probability-increases-with-decreased-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colon cancer probability increases with decreased vitamin D – Meta-analysis July 2011">Colon cancer probability increases with decreased vitamin D – Meta-analysis July 2011</a>
+* [Colon cancer probability increases with decreased vitamin D – Meta-analysis July 2011](/posts/colon-cancer-probability-increases-with-decreased-vitamin-d-meta-analysis)
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a> which has the following graphic
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d) which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">

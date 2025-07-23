@@ -33,7 +33,7 @@
 
 #### Photosensitivity (sun allergy) and vitamin D in VitaminDWiki
 
-<a href="/posts/photosensitivity-sun-allergy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Photosensitivity (sun allergy) and vitamin D">Photosensitivity (sun allergy) and vitamin D</a>
+[Photosensitivity (sun allergy) and vitamin D](/posts/photosensitivity-sun-allergy-and-vitamin-d)
 
 ---
 
@@ -149,6 +149,6 @@ PMID:    22952008
 
 > [Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
 
-1. <a href="/posts/special-plexiglass-silver-panel-should-block-all-uva-from-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3121">Special Plexiglass-silver panel should block all UVA from the sun</a>
+1. [Special Plexiglass-silver panel should block all UVA from the sun](/tags/special-plexiglass-silver-panel-should-block-all-uva-from-the-sun.html)
 
 > [Business opportunity: you can now make stuff which only passes vitamin D wavelength](/posts/business-opportunity-you-can-now-make-stuff-which-only-passes-vitamin-d-wavelength)

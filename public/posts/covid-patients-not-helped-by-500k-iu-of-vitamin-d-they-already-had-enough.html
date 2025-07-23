@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>COVID patients not helped by 500K IU of Vitamin D (they already had enough)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>COVID patients not helped by 500K IU of Vitamin D (they already had enough)</h1><time>May 27, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#high-dose-vitamin-d-versus-placebo-to-prevent-complications-in-covid-19-patients-multicentre-randomized-controlled-clinical-trial>High-dose vitamin D versus placebo to prevent complications in COVID-19 patients: Multicentre randomized controlled clinical trial</a></li><li><a href=#perhaps-adding-vitamin-d-did-not-help-because-both-groups-already-had-30-ng-of-vitamin-d>Perhaps adding vitamin D did not help because both groups already had 30 ng of Vitamin D</a></li><li><a href=#perhaps--people-with-covid-in-argentina-have-wait-longer-before-going-to-the-hospital>Perhaps people with COVID in Argentina have wait longer before going to the hospital</a></li></ul></li></ul></li></ul></nav><hr><h4 id=high-dose-vitamin-d-versus-placebo-to-prevent-complications-in-covid-19-patients-multicentre-randomized-controlled-clinical-trial>High-dose vitamin D versus placebo to prevent complications in COVID-19 patients: Multicentre randomized controlled clinical trial</h4><p>PLoS One. 2022 May 27;17(5):e0267918. <a href=https://doi.org/10.1371/journal.pone.0267918.>doi: 10.1371/journal.pone.0267918.</a></p><p>Javier Mariani 1 2, Laura Antonietti 1 2, Carlos Tajer 1 2, León Ferder 3, Felipe Inserra 3, Milagro Sanchez Cunto 4, Diego Brosio 5, Fernando Ross 6, Marcelo Zylberman 7, Daniel Emilio López 8, Cecilia Luna Hisano 9, Sebastián Maristany Batisda 1, Gabriela Pace 10, Adrián Salvatore 11, Jimena Fernanda Hogrefe 12, Marcela Turela 13, Andrés Gaido 14, Beatriz Rodera 15, Elizabeth Banega 16, María Eugenia Iglesias 17, Mariela Rzepeski 18, Juan Manuel Gomez Portillo 19, Magalí Bertelli 4, Andrés Vilela 6, Leandro Heffner 7, Verónica Laura Annetta 5, Lucila Moracho 4, Maximiliano Carmona 11, Graciela Melito 3, María José Martínez 1, Gloria Luna 1, Natalia Vensentini 1, Walter Manucha 20</p><p>Background: The role of oral vitamin D3 supplementation for hospitalized patients with COVID-19 remains to be determined. The study was aimed to evaluate whether vitamin D3 supplementation could prevent respiratory worsening among hospitalized patients with COVID-19.</p><p>Methods and findings: We designed a multicentre, randomized, double-blind, sequential, placebo-controlled clinical trial. The study was conducted in 17 second and third level hospitals, located in four provinces of Argentina, from 14 August 2020 to 22 June 2021. We enrolled 218 adult patients, hospitalized in general wards with SARS-CoV-2 confirmed infection, mild-to-moderate COVID-19 and risk factors for disease progression. Participants were randomized to a single oral dose of 500 000 IU of vitamin D3 or matching placebo. Randomization ratio was 1:1, with permuted blocks and stratified for study site, diabetes and age (≤60 vs >60 years). The primary outcome was the change in the respiratory Sepsis related Organ Failure Assessment score between baseline and the highest value recorded up to day 7. Secondary outcomes included the length of hospital stay; intensive care unit admission; and in-hospital mortality. Overall, 115 participants were assigned to vitamin D3 and 105 to placebo (mean <span>[SD]</span> age, 59.1 <span>[10.7]</span> years; 103 <span>[47.2%]</span> women). There were no significant differences in the primary outcome between groups (median <span>[IQR]</span> 0.0 <span>[0.0-1.0]</span> vs 0.0 <span>[0.0-1.0]</span>, for vitamin D3 and placebo, respectively; p = 0.925). Median <span>[IQR]</span> length of hospital stay was not significantly different between vitamin D3 group (6.0 <span>[4.0-9.0]</span> days) and placebo group (6.0 <span>[4.0-10.0]</span> days; p = 0.632). There were no significant differences for intensive care unit admissions (7.8% vs 10.7%; RR 0.73; 95% CI 0.32 to 1.70; p = 0.622), or in-hospital mortality (4.3% vs 1.9%; RR 2.24; 95% CI 0.44 to 11.29; p = 0.451). There were no significant differences in serious adverse events (vitamin D3 = 14.8%, placebo = 11.7%).</p><p>Conclusions: Among hospitalized patients with mild-to-moderate COVID-19 and risk factors, a single high oral dose of vitamin D3 as compared with placebo, did not prevent the respiratory worsening.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/500k-hospital-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=perhaps-adding-vitamin-d-did-not-help-because-both-groups-already-had-30-ng-of-vitamin-d>Perhaps adding vitamin D did not help because both groups already had 30 ng of Vitamin D</h4><p>&ldquo;Baseline measurements,were 32.5 ng/ml (IQR 27.2 to 44.2) and 30.5 ng/ml "</p><p>Note: Only 16 patients had their vitamin D levels measured</p><hr><h4 id=perhaps--people-with-covid-in-argentina-have-wait-longer-before-going-to-the-hospital>Perhaps people with COVID in Argentina have wait longer before going to the hospital</h4><p><strong>Early COVID treatments must be taken as soon as possible</strong></p><ul><li><p><a href=/posts/covid-19-risk-reduction-by-early-treatment-5x-vitamin-d>COVID-19 risk reduction by early treatment: 5X Vitamin D – Oct 8, 2021</a></p></li><li><p><a href=/posts/review-of-early-treatments-of-covid-19-within-a-few-days-of-symptoms>Review of Early Treatments of COVID-19 (within a few days of symptoms)</a></p></li></ul><blockquote><img src=/attachments/d3.mock.jpg alt=image width=600></blockquote><blockquote></blockquote><blockquote><p><strong>9 days after onset The average efficacy drops to zero</strong></p></blockquote><blockquote><p><strong>Do COVID patients in Argentina wait 7 days before going to the hospital?</strong></p></blockquote><blockquote><p><strong><a href=/posts/take-lots-of-vitamin-d-at-first-signs-of-covid>Take lots of Vitamin D at first signs of COVID</a> do not wait for 7 days!!</strong></p></blockquote></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/loading-dose.html><span class=tag>Loading dose</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/sepsis.html><span class=tag>sepsis</span></a>
+<a href=/tags/trauma-surgery.html><span class=tag>trauma surgery</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>blood levels, diabetes, dosage, life span, Loading dose, metabolic, mortality, sepsis, trauma surgery, Virus, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

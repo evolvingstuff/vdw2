@@ -42,7 +42,7 @@ Typical VDR associations with diseases are < 10%
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/229-genes-related-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 229 Genes related to vitamin D - Aug 2010">229 Genes related to vitamin D - Aug 2010</a> mentions Leprosy
+* [229 Genes related to vitamin D - Aug 2010](/posts/229-genes-related-to-vitamin-d) mentions Leprosy
 
 * [Vitamin D, immunity and microbiome – Dec 2014](/posts/vitamin-d-immunity-and-microbiome) mentions Leprosy
 
@@ -56,7 +56,7 @@ Typical VDR associations with diseases are < 10%
 
 * [2,776 vitamin D receptor binding sites - April 2014](/posts/2776-vitamin-d-receptor-binding-sites)
 
-* <a href="/posts/leprosy-28-x-more-likely-if-a-newly-found-vitamin-d-receptor-modification-a61894g" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Leprosy 28 X more likely if a __newly found__ Vitamin D Receptor modification (A61894G) – Dec 2017">Leprosy 28 X more likely if a  **newly found**  Vitamin D Receptor modification (A61894G) – Dec 2017</a>
+* [Leprosy 28 X more likely if a  **newly found**  Vitamin D Receptor modification (A61894G) – Dec 2017](/tags/leprosy-28-x-more-likely-if-a-newly-found-vitamin-d-receptor-modification-a61894g-dec-2017.html)
 
 </div>
 

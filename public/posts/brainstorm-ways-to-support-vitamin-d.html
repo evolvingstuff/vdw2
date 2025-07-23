@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Brainstorm ways to support vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Brainstorm ways to support vitamin D</h1><time>October 12, 2010</time><div data-pagefind-body><p>Met with Carole Baggerly - of <a href=http://www.Grassrootshealth.org>Grassrootshealth</a> Oct 2010</p><p>It appears that money would help them convey the benefits of vitamin D</p><p>Also, <a href=http://www.vitamindcouncil.org/vitamin-d-announcements.shtml>Vitamin D Council&rsquo;s future at risk — please help</a></p><p>Example: Doctors are very reluctant to have to pay for Continuing Medical Education (CME)</p><p>60% of CME is now paid for by commercial interests - reference <a href="http://www.amazon.com/s/ref=nb_sb_ss_i_0_22?url=search-alias%3Daps&amp;field-keywords=white+coats+black+hats&amp;sprefix=white+coats+black+hats">White Coats, Black Hats</a> Amazon - excellent book</p><p>Would be nice to be able to educate medical professionals about vitamin D without having to charge them.</p><p>So, trying to think of organizations that might underwrite Vitamin D CME – if not now, perhaps near future</p><ul><li><p>not Big Pharma,</p></li><li><p>not a vitamin supplement company (other vitamin companies were getting a free ride)</p></li><li><p>perhaps one of the vitamin supplement trade groups such as <a href=http://www.crnusa.org/>The Council for Responsible Nutrition</a></p></li><li><p>perhaps a disease group – breast cancer, MS . . . for which there is extremely strong documentation of the benefits of vitamin D</p><ul><li><p>Vitamin D is the #1 supplement taken by people with <a href=/tags/ms.html>MS</a></p></li><li><p>some people in these disease groups are very wealthy angels</p></li></ul></li><li><p>perhaps an at-risk group – seniors (AARP), blacks, ….also, some of whom have very wealthy angels</p></li></ul><p>Suspect that large funding would only result after a wealthy angel sees the results for themselves.</p><h1 id=along-those-lines-i-have-been-putting-together-information-on-blacks>Along those lines, I have been putting together information on blacks</h1><h2 id=a-packet-of-information-for-oprah-the-wealthiest-woman-in-the-us>a packet of information for Oprah (the wealthiest woman in the US)</h2><p>3 immediate members of Oprah’s family died due to what I suspect was a lack of vitamin D – in blacks.</p><p>That information at this point is still on my computer, and not on this wiki</p><p><a href="https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1544">Oprah Magazine has a nice 2 page summary of vitamin D</a></p><p>Dr. Oz, the doctor for the Oprah show, has said several times that everyone needs to have blood level of at least 50ng <a href=/tags/video-dec-2009.html>Video Dec 2009</a> and <a href=/tags/aarp-april-2010.html>AARP April 2010</a></p><h1 id=there-is-a-similar-but-not-as-strong-a-case-for-the-obamas>There is a similar, but not as strong a case for the Obama&rsquo;s</h1><h2 id=-only-one-member-of-the-family-died-due-to-lack-of-vitamin-d-mstagsmshtml>" only" one member of the family died due to lack of vitamin D <a href=/tags/ms.html>MS</a></h2><p>The Obama&rsquo;s manage to have an annual winter trip to Hawaii - with lots of vitamin D and sun.</p><p>Mr Obama, until his election, regularly played basketball out-doors - getting a lot of vitamin D</p><h1 id=the-surgeon-general-of-the-us-dr-regina-m-benjamin--is-a-black-woman-who-is-overweight>The Surgeon General of the US, Dr. Regina M. Benjamin, is a black woman who is overweight</h1><h3 id=have-not-yet-looked-into-her-family-health-record>Have not yet looked into her family health record</h3><p>Surgeon General oversees the operations of the 6,500-member Commissioned Corps of the U.S. Public Health Service</p><p>Appears to be working closely with M Obama on Childhood Overweight and Obesity Prevention Initiative</p><p><strong>If you have ideas, please register and comment on this web page or e-mail me: <a href=mailto:hlahore@gmail.com>hlahore@gmail.com</a></strong></p><h1 id=suggestions>Suggestions</h1><h2 id=christian-churches>Christian Churches</h2><p>Who has the worldwide mission to help people?</p><p>Who has little monetary gain from healing (no disclosures)?</p><p>Who has large auditoriums widely available?</p><p>Who has large memberships?</p><p>Who has worldwide media publications regularly?</p><p>What group/s have many written sources from their leadership to heal mankind?</p><h2 id=one-answer--christian-churches>One answer… Christian Churches.</h2><p>Christian churches are rooted in “grassroots” and “local”, while being instructed to heal from God.</p><p>Vitamin D education heals the sick among them, it is a low cost message and churches represent a TREMENDOUS worldwide network.</p><p>Start with the leadership of: United Church of Christ (US), United Church of Canada (Canada), The Roman Catholic Church hierarchy, The Evangelical church hierarchy</p><p>Throw a stone in that pool and the ripples will be felt around the globe.</p><p>Might produce a 30-40 minute educational video that could run instead of a sermom, that the priest or minister could lead his congregation into and you have mobilized a vast population. You want the information to go “viral” and there are ways to do that.</p><p>The sun is simply one of God’s local mirrors, shining blessings down upon us daily.</p><h2 id=teens-and-20s>Teens and 20&rsquo;s</h2><p>Some of the near-term benefits they might relate to which might be supported by research (not prioritized order)</p><ul><li><p>Less weight gain for about 30% of women</p></li><li><p>Far fewer flues/colds in the winter</p></li><li><p>More fertile</p></li><li><p>Healthful glow ==> be more attractive (recall how much women spend on make-up)</p></li><li><ul><li><ul><li>Is it possible to have a &ldquo;healthy glow&rdquo; from vitamin D without an &ldquo;unhealthy tan&rdquo; from UV?</li></ul></li></ul></li><li><p>Less likely to break bones when involved in impact sports (football, skiing, hockey,</p></li><li><p>Less likely to get stress fractures</p></li><li><ul><li><ul><li>something like 30% of women recruits now get stress fractures</li></ul></li></ul></li><li><p>Excel in school sports</p></li><li><ul><li>UV/vitamin D has been used by Olympics contestants since 1935</li></ul></li><li><p>Fewer allergies</p></li><li><p>Not feel as guilty about being indoors and addicted to video games if take vitamin S</p></li><li><p>Here is a stretch - get better grades</p></li><li><ul><li><ul><li>There are many studies of vitamin D and cognition in the elderly, but unaware of any studies of vitamin D and cognition for youths)</li></ul></li></ul></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/about-d-more.html><span class=tag>About D - more</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/bone-stress-fractures.html><span class=tag>bone stress fractures</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/obesity-and-cancer.html><span class=tag>obesity and cancer</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>About D - more, autoimmune, bone, bone cancer, bone stress fractures, breast cancer, cancer, falls fractures, health risk, high dose, intervention, multiple sclerosis, obesity, obesity and cancer, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

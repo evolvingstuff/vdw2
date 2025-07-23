@@ -57,6 +57,6 @@ Some small clinical trials seem to show that coenzyme Q10 supplements can be use
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Hypertension reduced by Omega-3, especially if previously untreated – meta-analysis July 2014](/posts/hypertension-reduced-by-omega-3-especially-if-previously-untreated-meta-analysis)

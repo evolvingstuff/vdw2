@@ -56,11 +56,11 @@ Click on plus signs in each section to see details
 
 Vitamin D has been shown to provide health benefits to problems associated with PD
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Reduce pain</a>
+* [Reduce pain](/posts/overview-pain-and-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Reduce both falls and fractures</a>
+* [Reduce both falls and fractures](/posts/overview-fractures-and-falls-and-vitamin-d)
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Reduce cognitive decline</a>
+* [Reduce cognitive decline](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Improved muscle control](/posts/skeletal-muscles-helped-by-vitamin-d-review) and [#2](/posts/elderly-lower-limb-muscle-strength-improved-with-vitamin-d-supplementation-meta-analysis)
 

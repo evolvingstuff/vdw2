@@ -273,4 +273,4 @@ Prescribing Dosage, fortified Foods, Vitamin D2 vs. D3 @ 21 minutes
 
 Vitamin K2 @ 35 minutes
 
-## <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3456">CLICK HERE</a> for posters which were shown.
+## [CLICK HERE](/tags/click-here.html) for posters which were shown.

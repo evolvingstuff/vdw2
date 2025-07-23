@@ -44,14 +44,14 @@ Still need prescription for >1,000 IU in Canada
 
 ### Comments by VitaminDWiki on the News Item
 
-Lack of proof? <a href="/posts/59-diseases-have-been-proven-to-be-treated-or-prevented-by-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">59 diseases have been proven to be treated or prevented by vitamin D</a>
+Lack of proof? [59 diseases have been proven to be treated or prevented by vitamin D](/tags/59-diseases-have-been-proven-to-be-treated-or-prevented-by-vitamin-d.html)
 
-Yes, <a href="/posts/the-obese-need-far-more-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5890">the obese need far more vitamin D</a>
+Yes, [the obese need far more vitamin D](/tags/the-obese-need-far-more-vitamin-d.html)
 
-Yes, <a href="/posts/most-people-need-a-lot-more-vitamin-d-at-least-4000-iu-daily-which-costs-2-centsday" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5217">most people need a lot more vitamin D - at least 4,000 IU daily - which costs 2 cents/day</a>
+Yes, [most people need a lot more vitamin D - at least 4,000 IU daily - which costs 2 cents/day](/tags/most-people-need-a-lot-more-vitamin-d-at-least-4000-iu-daily-which-costs-2-centsday.html)
 
-Yes, <a href="/posts/2x-increase-in-30-major-health-problems-in-past-decade" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4503">2X increase in 30 major health problems in past decade</a>
+Yes, [2X increase in 30 major health problems in past decade](/tags/2x-increase-in-30-major-health-problems-in-past-decade.html)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/frogpot2.gif" alt="image" width="100">  **Medical problems are heating up - but the "frog" is not noticing** 
 
-The <a href="/posts/importance-of-vitamin-d-can-be-seen-in-charts" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4981">importance of vitamin D can be seen in charts</a>
+The [importance of vitamin D can be seen in charts](/tags/importance-of-vitamin-d-can-be-seen-in-charts.html)

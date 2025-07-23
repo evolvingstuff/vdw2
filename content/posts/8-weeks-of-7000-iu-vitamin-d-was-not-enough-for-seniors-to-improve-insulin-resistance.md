@@ -66,8 +66,8 @@ PMID: 22744624
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1758">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 326">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)

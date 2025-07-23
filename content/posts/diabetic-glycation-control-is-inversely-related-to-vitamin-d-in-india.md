@@ -20,7 +20,6 @@
         "cancer",
         "depression",
         "diabetes",
-        "dosage",
         "falls fractures",
         "high dose",
         "intervention",
@@ -49,20 +48,16 @@ Glycation control inverse relationship in the other 6% (> 20 ng)
 
  **See also VitaminDWiki** 
 
-<a href="/posts/overview-diabetes-and-vitamin-d-why-indias-vitamin-d-deficiency-is-grim-40-pages-a-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D)) 
-((Why India's vitamin D deficiency is grim - 40 pages Feb 2014))
-((80 percent of young adults had low vitamin D tests in Mumbai India - 2011))
-*((HbA1c levels (Diabetes) reduced by monthly 50,000 IU of vitamin D – Dec 2017))
-__((Diseases that may be related via low vitamin D">Diabetes leads to many diseases - need to restore the vitamin D levels</a>__
+[Diabetes leads to many diseases - need to restore the vitamin D levels](/tags/diabetes-leads-to-many-diseases-need-to-restore-the-vitamin-d-levels.html)__
 
-<a href="/posts/diabetes-cognitive-impairment" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4507">Diabetes ==> Cognitive impairment</a>
+[Diabetes ==> Cognitive impairment](/tags/diabetes-cognitive-impairment.html)
 
-<a href="/posts/diabetes-vertebral-fracture" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3278">Diabetes ==> Vertebral fracture</a> in men only
+[Diabetes ==> Vertebral fracture](/tags/diabetes-vertebral-fracture.html) in men only
 
-<a href="/posts/diabetes-rheumatoid-arthritis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1900">Diabetes ==> Rheumatoid Arthritis</a>
+[Diabetes ==> Rheumatoid Arthritis](/tags/diabetes-rheumatoid-arthritis.html)
 
-<a href="/posts/diabetes-pancreatic-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3579">Diabetes ==> Pancreatic Cancer</a>
+[Diabetes ==> Pancreatic Cancer](/tags/diabetes-pancreatic-cancer.html)
 
-<a href="/posts/diabetes-alzheimers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2021">Diabetes ==> Alzheimer's</a>
+[Diabetes ==> Alzheimer's](/tags/diabetes-alzheimers.html)
 
 [Diabetes <==> Depression](/posts/depression-2x-more-common-among-diabetics-both-associated-with-low-vitamin-d-2014)

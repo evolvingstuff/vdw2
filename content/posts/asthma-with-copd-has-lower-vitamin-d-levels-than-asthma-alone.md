@@ -51,7 +51,7 @@ Conclusion: Vitamin D deficiency is present in ACOS patients and circulating 25(
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015](/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015)
 
@@ -59,6 +59,6 @@ Conclusion: Vitamin D deficiency is present in ACOS patients and circulating 25(
 
 * [COPD fought by Vitamin D - many studies](/posts/copd-fought-by-vitamin-d-many-studies)
 
-* <a href="/posts/severe-asthma-children-31x-more-likely-to-develop-chronic-obstructive-lung-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Severe asthma children 31X more likely to develop chronic obstructive lung disease -May 2010">Severe asthma children 31X more likely to develop chronic obstructive lung disease -May 2010</a>
+* [Severe asthma children 31X more likely to develop chronic obstructive lung disease -May 2010](/posts/severe-asthma-children-31x-more-likely-to-develop-chronic-obstructive-lung-disease)
 
-* <a href="/posts/copd-with-obstruction-death-17-x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD with obstruction: Death 1.7 X more likely with low vitamin D – Sept 2018">COPD with obstruction: Death 1.7 X more likely with low vitamin D – Sept 2018</a>
+* [COPD with obstruction: Death 1.7 X more likely with low vitamin D – Sept 2018](/posts/copd-with-obstruction-death-17-x-more-likely-with-low-vitamin-d)

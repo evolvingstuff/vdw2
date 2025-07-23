@@ -45,6 +45,6 @@
 
 * [Less sun (less vitamin D) more anaphylaxis (severe allergic reaction) – June 2014](/posts/less-sun-less-vitamin-d-more-anaphylaxis-severe-allergic-reaction)  Carmargo is a co-author
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* <a href="/posts/6-year-old-children-were-5x-less-likely-to-have-food-allergies-if-supplementing-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6 year-old children were 5X less likely to have food allergies if supplementing with vitamin D – July 2019">6 year-old children were 5X less likely to have food allergies if supplementing with vitamin D – July 2019</a>
+* [6 year-old children were 5X less likely to have food allergies if supplementing with vitamin D – July 2019](/posts/6-year-old-children-were-5x-less-likely-to-have-food-allergies-if-supplementing-with-vitamin-d)

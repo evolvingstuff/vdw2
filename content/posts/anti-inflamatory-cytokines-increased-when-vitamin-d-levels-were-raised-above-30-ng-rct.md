@@ -59,7 +59,7 @@ Did not matter dose size, just that blood levels were raised above 30 ng
 
 #### See also VitaminDWiki
 
-* <a href="/posts/inflammation-reduced-when-vitamin-d-supplementation-raised-level-higher-than-32-ng-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inflammation reduced when vitamin D supplementation raised level higher than 32 ng – meta-analysis May 2017">Inflammation reduced when vitamin D supplementation raised level higher than 32 ng – meta-analysis May 2017</a>
+* [Inflammation reduced when vitamin D supplementation raised level higher than 32 ng – meta-analysis May 2017](/posts/inflammation-reduced-when-vitamin-d-supplementation-raised-level-higher-than-32-ng-meta-analysis)
 
 * [Vitamin D in inflammatory diseases – Technical Review June 2014](/posts/vitamin-d-in-inflammatory-diseases-technical-review)
 

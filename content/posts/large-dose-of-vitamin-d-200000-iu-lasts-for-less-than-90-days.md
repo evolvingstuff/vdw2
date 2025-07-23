@@ -73,9 +73,9 @@ A dose of 250,000 IU of vitamin D3 given once in November resulted in a robust
 
 > Injection lasts a lot longer than oral
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
- **<a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a>**  has the following charts
+ **[Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly)**  has the following charts
 
  **Notional chart for Vitamin D supplementation for levels < 30 nanograms** 
 

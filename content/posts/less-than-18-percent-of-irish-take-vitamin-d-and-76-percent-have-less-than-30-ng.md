@@ -43,38 +43,38 @@ Speculation: does the Irish red hair/light skin allow getting more vitamin D fro
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [Other mentions of Cashman in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=cashman&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 716 by April 2021
 
-* <a href="/posts/vitamin-d-review-from-ireland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D review from Ireland - April 2012">Vitamin D review from Ireland - April 2012</a> by Cachman
+* [Vitamin D review from Ireland - April 2012](/posts/vitamin-d-review-from-ireland) by Cachman
 
 * [4 out of 10 Irish have vitamin D levels inadequate even for bone health – Aug 2012](/posts/4-out-of-10-irish-have-vitamin-d-levels-inadequate-even-for-bone-health) by Cachman
 
-* <a href="/posts/redhead-red-hair-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Redhead – Red hair - vitamin D">Redhead – Red hair - vitamin D</a>
+* [Redhead – Red hair - vitamin D](/posts/redhead-red-hair-vitamin-d)
 
-* <a href="/posts/review-of-vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2670">Review of vitamin D recommendations – April 2012</a> by Cashman
+* [Review of vitamin D recommendations – April 2012](/posts/review-of-vitamin-d-recommendations) by Cashman
 
-* <a href="/posts/96-percent-of-young-koreans-had-less-than-span-stylecolorf0030-ngspan-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2516"> **96 %**  of young Koreans had less than  **<span style="color:#F00;">30 ng</span>**  of vitamin D – March 2012 </a>
+* [ **96 %**  of young Koreans had less than  **<span style="color:#F00;">30 ng</span>**  of vitamin D – March 2012 ](/tags/96-of-young-koreans-had-less-than-span-stylecolorf0030-ngspan-of-vitamin-d-march-2012.html)
 
-* <a href="/posts/span-stylecolor00f92-percentspan-of-all-germans-less-than-30-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2940"> **<span style="color:#00F;">92 %</span>**   of ALL Germans less than  **30 ng**  - Jan 2012</a>
+* [ **<span style="color:#00F;">92 %</span>**   of ALL Germans less than  **30 ng**  - Jan 2012](/tags/span-stylecolor00f92-span-of-all-germans-less-than-30-ng-jan-2012.html)
 
-* <a href="/posts/span-stylecolor00f92-percentspan-of-german-elderly-less-than-30-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2453"> **<span style="color:#00F;">92 %</span>**   of German elderly less than  **30 ng**  - Jan 2012</a>
+* [ **<span style="color:#00F;">92 %</span>**   of German elderly less than  **30 ng**  - Jan 2012](/tags/span-stylecolor00f92-span-of-german-elderly-less-than-30-ng-jan-2012.html)
 
-* <a href="/posts/span-stylecolor00f91-percentspan-of-japanese-women-less-than-30-ng-2012" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4094"> **<span style="color:#00F;">91 %</span>**   of Japanese women less than  **30 ng**  -  2012</a>
+* [ **<span style="color:#00F;">91 %</span>**   of Japanese women less than  **30 ng**  -  2012](/tags/span-stylecolor00f91-span-of-japanese-women-less-than-30-ng-2012.html)
 
-* <a href="/posts/span-stylecolor00f90-percentspan-of-canadian-youth-less-than-30-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1090"> **<span style="color:#00F;">90 %</span>**  of Canadian youth less than  **30 ng**  vitamin D – Oct 2010</a>
+* [ **<span style="color:#00F;">90 %</span>**  of Canadian youth less than  **30 ng**  vitamin D – Oct 2010](/tags/span-stylecolor00f90-span-of-canadian-youth-less-than-30-ng-vitamin-d-oct-2010.html)
 
-* <a href="/posts/span-stylecolor00f90-percentspan-of-swiss-men-have-less-than-30-ng-of-vitamin-d-in-the-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3486"> **<span style="color:#00F;">90 %</span>**  of Swiss men have less than 30 ng of vitamin D in the winter – Nov 2012</a>
+* [ **<span style="color:#00F;">90 %</span>**  of Swiss men have less than 30 ng of vitamin D in the winter – Nov 2012](/tags/span-stylecolor00f90-span-of-swiss-men-have-less-than-30-ng-of-vitamin-d-in-the-winter-nov-2012.html)
 
-* <a href="/posts/span-stylecolor00f90-percent-span-of-young-health-care-professionals-had-less-th-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2205"> **<span style="color:#00F;">90 % </span>** of young health care professionals had less than  **30 ng**  of vitamin D – Nov 2011</a>
+* [ **<span style="color:#00F;">90 % </span>** of young health care professionals had less than  **30 ng**  of vitamin D – Nov 2011](/tags/span-stylecolor00f90-span-of-young-health-care-professionals-had-less-than-30-ng-of-vitamin-d-nov-2011.html)
 
-* <a href="/posts/span-stylecolor00f87-percent-span-of-tennessee-general-medicine-patients-had-les-an-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1419"> **<span style="color:#00F;">87 % </span>** of Tennessee general medicine patients had less than  **<span style="color:#F00;">32 ng</span>**  of vitamin D – Jan 2011</a>
+* [ **<span style="color:#00F;">87 % </span>** of Tennessee general medicine patients had less than  **<span style="color:#F00;">32 ng</span>**  of vitamin D – Jan 2011](/tags/span-stylecolor00f87-span-of-tennessee-general-medicine-patients-had-less-than-span-stylecolorf0032-ngspan-of-vitamin-d-jan-2011.html)
 
-* <a href="/posts/span-stylecolor00f86-percentspan-of-uk-elderly-less-than-30-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 852"> **<span style="color:#00F;">86 %</span>**   of UK elderly less than  **30 ng**  - Jan 2010</a>
+* [ **<span style="color:#00F;">86 %</span>**   of UK elderly less than  **30 ng**  - Jan 2010](/tags/span-stylecolor00f86-span-of-uk-elderly-less-than-30-ng-jan-2010.html)
 
-* <a href="/posts/82-percent-of-swedes-did-not-have-the-recommended-amount-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1395"> **82 %**   of Swedes did not have the recommended amount of vitamin D – Feb 2011</a>
+* [ **82 %**   of Swedes did not have the recommended amount of vitamin D – Feb 2011](/tags/82-of-swedes-did-not-have-the-recommended-amount-of-vitamin-d-feb-2011.html)
 
-* <a href="/posts/span-stylecolor00f80-percentspan-of-teens-in-europe-had-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1923"> **<span style="color:#00F;">80 %</span>**   of teens in Europe had less than  **30 ng**  of vitamin D – Aug 2011</a>
+* [ **<span style="color:#00F;">80 %</span>**   of teens in Europe had less than  **30 ng**  of vitamin D – Aug 2011](/tags/span-stylecolor00f80-span-of-teens-in-europe-had-less-than-30-ng-of-vitamin-d-aug-2011.html)
 
-* <a href="/posts/span-stylecolor00f79-percentspan-of-middle-aged-americans-had-less-than-32-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 849"> **<span style="color:#00F;">79 %</span>**  of middle aged Americans had less than  **32 ng**  of vitamin D – July 2010</a>
+* [ **<span style="color:#00F;">79 %</span>**  of middle aged Americans had less than  **32 ng**  of vitamin D – July 2010](/tags/span-stylecolor00f79-span-of-middle-aged-americans-had-less-than-32-ng-of-vitamin-d-july-2010.html)

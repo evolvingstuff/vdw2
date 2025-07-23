@@ -1,0 +1,71 @@
+<!doctype html><html><head><meta charset=utf-8><title>Searching for Vitamin D studies – AllMEDx is a superset of PubMed</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Searching for Vitamin D studies – AllMEDx is a superset of PubMed</h1><time>March 11, 2019</time><div data-pagefind-body><p><strong><a href=https://allmedx.com/>https://allmedx.com/</a></strong></p><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#sources-of-information>Sources of information</a></li><li><a href=#can-subsort-a-search-on>Can subsort a search on</a></li><li><a href=#also-includes-subtopics>Also includes subtopics</a></li><li><a href=#does-not-include-non-human-preclinical-studies-nor-studies-10-years-old>Does not include non-human, preclinical studies, nor studies >10 years old</a></li><li><a href=#unfortunately-puts--in-long-titles-making-them-hard-to-understand>Unfortunately puts &mldr;&mldr; in long titles, making them hard to understand</a></li><li><a href=#unable-to-search-for-word-in-title>Unable to search for word in title</a></li><li><a href=#supported-by-advertising>Supported by advertising</a></li></ul></li></ul></li></ul></nav><hr><h4 id=sources-of-information>Sources of information</h4><ol><li><p>Centers for Disease Control (CDC): thousands of articles and alerts from the nation’s health protection agency</p></li><li><p>Cleveland Clinic: free full text of hundreds of Patient Education handouts</p></li><li><p>Clinical Guidelines: thousands of links to free full text clinical guidelines, hand-curated from 230 medical associations</p></li><li><p>Clinicaltrials.gov: the official United States registry of all publicly and privately supported clinical research studies</p></li><li><p>DailyMed: the official database of FDA label information, this site has the package inserts from all currently marketed drugs, both branded and generic</p></li><li><p>Drug web sites: the official branded drug web sites from all 2000+ currently marketed pharmaceutical drugs, both prescription and over-the-counter</p></li><li><p>FDA Alerts: public notices of drug and device recalls, market withdrawals, and safety alerts</p></li><li><p>GeneReviews: free full text of clinically relevant and medically actionable information for inherited conditions from the University of Washington, Seattle</p></li><li><p>Johns Hopkins Medicine: free full text of Patient Education Handouts</p></li><li><p>Mayo Clinic: free full text of Patient Education handouts</p></li><li><p>MDedge.com: links to free full text articles from 30 medical journals from Frontline Medical Publications</p></li><li><p>Medical Associations: links to the home pages of hundreds of medical associations and societies</p></li><li><p>Medical Devices: links to the manufacturer web sites of hundreds of medical devices</p></li><li><p>MedlinePlus: free full text of hundreds of Patient Education handouts</p></li><li><p>MedPageToday: links to thousands of free full text news and clinical articles from this well known medical publisher</p></li><li><p>Medscape: links to thousands of free full text medical news, perspectives, and drug and disease information from this leading medical web site</p></li><li><p>Merck Manuals Professional Edition: free full text of comprehensive disease state diagnosis and treatment articles, as well as other medical topics, in every specialty</p></li><li><p>Morbidity and Mortality Weekly Report (MMWR): links to free full text of the CDC’s official scientific publication</p></li><li><p>OncLive: OncLive is the official website for OncologyLive, Urologists in Cancer Care, Oncology Business Management, and Oncology Nursing News</p></li><li><p>PDQ Clinical Guides: free full text of all PDQ clinical guides; PDQ (Physician Data Query) is the National Cancer Institute&rsquo;s comprehensive source of cancer information</p></li><li><p><strong><span style=color:red>PubMed</span>:</strong> a proprietary selection of 1,000 of the most clinically relevant indexed journals</p></li><li><p>Rare Disease database: links to full text articles and resources for professionals from the Genetic and Rare Diseases Information Center (funded by NIH)</p></li><li><p>Reuters Health: the world’s largest multimedia news provider provides breaking medical and health news before other sources.</p></li><li><p>USPSTF: Free full text of all recommendations and clinical guidelines from the U.S. Preventive Services Task Force</p></li></ol><hr><h4 id=can-subsort-a-search-on>Can subsort a search on</h4><ul><li><p>Research & Reviews</p></li><li><p>Guidelines</p></li><li><p>Drugs</p></li><li><p>Rare Diseases</p></li><li><p>Clinicaltrials.gov s</p></li><li><p>News</p></li><li><p>Patient Education</p></li></ul><h4 id=also-includes-subtopics>Also includes subtopics</h4><p><strong>for Search of Diabetes and Vitamin D</strong></p><ul><li><p>Vitamin D (1,174)</p></li><li><p>Blood (1,082)</p></li><li><p>Vitamin D Deficiency (892)</p></li><li><p>Metabolism (752)</p></li><li><p>Complications (624)</p></li><li><p>Diabetes Mellitus, Type 2 (594)</p></li><li><p>Epidemiology (580)</p></li><li><p>Analogs & Derivatives (538)</p></li><li><p>Etiology (460)</p></li><li><p>Drug Therapy (428)</p></li><li><p>Therapeutic Use (392)</p></li><li><p>Risk Factors (386)</p></li><li><p>Administration & Dosage (364)</p></li><li><p>Dietary Supplements (344)</p></li><li><p>Physiopathology (336)</p></li><li><p>Blood Glucose (330)</p></li><li><p>Prevention & Control (302)</p></li><li><p>Physiology (286)</p></li><li><p>Drug Effects (280)</p></li><li><p>Genetics (274)</p></li><li><p>Diabetes Mellitus, Type 1 (262)</p></li><li><p>Cross-Sectional Studies (260)</p></li><li><p>Insulin Resistance (226)</p></li><li><p>Adolescent (218)</p></li><li><p>Child (218)</p></li><li><p>Receptors, Calcitriol (206)</p></li><li><p>Biomarkers (196)</p></li><li><p>Vitamins (188)</p></li><li><p>Insulin (186)</p></li><li><p>Case-Control Studies (184)</p></li><li><p>Pregnancy (184)</p></li><li><p>Prevalence (168)</p></li><li><p>Analysis (166)</p></li><li><p>Pharmacology (166)</p></li><li><p>Glycated Hemoglobin A (164)</p></li><li><p>Body Mass Index (162)</p></li><li><p>Cholecalciferol (158)</p></li><li><p>Diagnosis (158)</p></li><li><p>Cardiovascular Diseases (138)</p></li><li><p>Obesity (136)</p></li><li><p>Prospective Studies (128)</p></li></ul><h4 id=does-not-include-non-human-preclinical-studies-nor-studies-10-years-old>Does not include non-human, preclinical studies, nor studies >10 years old</h4><h4 id=unfortunately-puts--in-long-titles-making-them-hard-to-understand>Unfortunately puts &mldr;&mldr; in long titles, making them hard to understand</h4><h4 id=unable-to-search-for-word-in-title>Unable to search for word in title</h4><h4 id=supported-by-advertising>Supported by advertising</h4><p><strong>Submit links for consideration: <a href=mailto:cnathan@allmedx.com>cnathan@allmedx.com</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-cancer.html><span class=tag>childhood cancer</span></a>
+<a href=/tags/childhood-obesity.html><span class=tag>childhood obesity</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/health-problem.html><span class=tag>Health Problem</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/obesity-and-cancer.html><span class=tag>obesity and cancer</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>cancer, child, childhood cancer, childhood obesity, diabetes, Health Problem, health risk, life span, metabolic, mortality, obesity, obesity and cancer, pregnancy, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

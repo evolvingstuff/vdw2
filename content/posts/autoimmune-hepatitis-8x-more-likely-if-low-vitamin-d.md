@@ -47,7 +47,7 @@ Digestive Diseases and Sciences, December 2014, Volume 59, Issue 12, pp 3035-304
 
 Cumali Efe, Taylan Kav, Cisel Aydin, Mustafa Cengiz, Narin Nasıroglu Imga, Tugrul Purnak, Daniel S. Smyk, Murat Torgutalp, Turan Turhan, Seren Ozenirler
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1007/s10620-014-3267-3** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1007/s10620-014-3267-3** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/hepatitis-severity.jpg" alt="image" width="400">
 

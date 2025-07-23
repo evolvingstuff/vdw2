@@ -59,6 +59,6 @@ Text is behind a low-cost paywall: $10
 
 * [Dissertation vitamin D and birth outcomes - Feb 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1764) PDF
 
-* <a href="/posts/diseases-correlated-to-month-of-birth-2008" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases correlated to month of birth – 2008">Diseases correlated to month of birth – 2008</a> which has the following table
+* [Diseases correlated to month of birth – 2008](/posts/diseases-correlated-to-month-of-birth-2008) which has the following table
 
 <img src="/attachments/d3.mock.jpg" alt="image">

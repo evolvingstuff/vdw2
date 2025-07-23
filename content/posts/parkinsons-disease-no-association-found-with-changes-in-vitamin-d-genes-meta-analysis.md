@@ -53,6 +53,6 @@ Previous studies have reported an association between vitamin D receptor (VDR) g
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson's and Vitamin D</a>
+* [Overview Parkinson's and Vitamin D](/posts/overview-parkinsons-and-vitamin-d)
 
 * [Parkinson’s Disease relationship to Vitamin D](/posts/parkinsons-disease-relationship-to-vitamin-d)

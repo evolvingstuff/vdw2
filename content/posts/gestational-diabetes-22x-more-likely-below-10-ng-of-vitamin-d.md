@@ -65,13 +65,13 @@ PMID: 22717271
 
 * [Google Search for "gestational diabetes" in VitaminDWiki](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=%22gestational+diabetes%22&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26sanitize%3D0%26v%3D285bf524c2769c8c%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D1055554330#gsc.tab=0&gsc.q=%22gestational%20diabetes%22&gsc.page=1) 136 items Nov 2012
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and Vitamin D</a>
+* [Overview Pregnancy and Vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2143">Overview Women and Vitamin D</a>
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d)
 
-* <a href="/posts/300000-iu-loading-dose-of-vitamin-d-stopped-gestational-diabetes-in-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2070">300,000 IU loading dose of vitamin D stopped gestational diabetes in RCT – Oct 2011</a>
+* [300,000 IU loading dose of vitamin D stopped gestational diabetes in RCT – Oct 2011](/tags/300000-iu-loading-dose-of-vitamin-d-stopped-gestational-diabetes-in-rct-oct-2011.html)
 
-* <a href="/posts/gestational-diabetes-60-percent-more-likely-below-20-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2451">Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012</a>
+* [Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012](/posts/gestational-diabetes-60-percent-more-likely-below-20-ng-of-vitamin-d-meta-analysis)
 
 # See also web
 

@@ -106,7 +106,7 @@ In a nutshell :It appears that
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [Overview Epileptic children and Vitamin D](/posts/overview-epileptic-children-and-vitamin-d)
 

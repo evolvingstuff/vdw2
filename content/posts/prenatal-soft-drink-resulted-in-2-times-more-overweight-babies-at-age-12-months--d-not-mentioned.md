@@ -36,7 +36,7 @@ Meghan B. Azad, PhD1,2; Atul K. Sharma, MSc, MD1,2,3; Russell J. de Souza, RD, S
 
  **1) Cola drinks ==> lower Vitamin D Levels** 
 
-* <a href="/posts/cola-soft-drinks-reduce-calcium-vitamin-d-and-magnesium-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cola Soft Drinks reduce Calcium Vitamin D, and Magnesium - many studies">Cola Soft Drinks reduce Calcium Vitamin D, and Magnesium - many studies</a>
+* [Cola Soft Drinks reduce Calcium Vitamin D, and Magnesium - many studies](/posts/cola-soft-drinks-reduce-calcium-vitamin-d-and-magnesium-many-studies)
 
 * [More colas lower vitamin D by 3 ng– July 2014](/posts/more-colas-lower-vitamin-d-by-3-ng)
 

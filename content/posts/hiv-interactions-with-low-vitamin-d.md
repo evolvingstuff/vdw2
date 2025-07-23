@@ -103,7 +103,7 @@ Last EACS guidelines suggest to screen for hypovitaminosis D every HIV-positive 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 * [Vitamin D and the Immune System – Aug 2011](/posts/vitamin-d-and-the-immune-system)
 
@@ -113,7 +113,7 @@ Last EACS guidelines suggest to screen for hypovitaminosis D every HIV-positive 
 
 * [An update on vitamin D and human immunity – March 2012](/posts/an-update-on-vitamin-d-and-human-immunity)
 
-* <a href="/posts/review-of-infectious-diseases-vitamin-d-trials" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of infectious diseases vitamin D trials – Feb 2012">Review of infectious diseases vitamin D trials – Feb 2012</a>
+* [Review of infectious diseases vitamin D trials – Feb 2012](/posts/review-of-infectious-diseases-vitamin-d-trials)
 
 ---
 

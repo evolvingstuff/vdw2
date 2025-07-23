@@ -40,7 +40,7 @@
 
 #### <span style="color:#00F;">Increased consumption of Magnesium in the body</span>
 
-* <a href="/posts/hypothesis-fluoridation-reduces-magnesium-in-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Fluoridation reduces magnesium in body">Fluoridated water chemically bonds with Magnesium</a> (US and a few other countries) 
+* [Fluoridated water chemically bonds with Magnesium](/posts/hypothesis-fluoridation-reduces-magnesium-in-body) (US and a few other countries) 
 
 > &nbsp; &nbsp; [US reduced upper limit for Fluoridation of water by 40%](http://articles.mercola.com/sites/articles/archive/2015/05/12/fluoride-overdose.aspx?e_cid=20150507Z1_DNL_NB_artTest_B2&utm_source=dnl&utm_medium=email&utm_content=artTest_B2&utm_campaign=20150507Z1_DNL_NB&et_cid=DM74147&et_rid=944278099) April 2015
 
@@ -60,6 +60,6 @@
 
 * [Hypothesis: Magnesium accounts for some of the variation in vitamin D response – Oct 2013](/posts/hypothesis-magnesium-accounts-for-some-of-the-variation-in-vitamin-d-response)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> which has the following chart
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

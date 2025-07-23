@@ -69,12 +69,12 @@ The people living in the Southern portion of the US appear to be using air condi
 
 ## See also VitaminDWiki
 
-* <a href="/posts/diabetes-rising-quickly-in-areas-with-recent-air-conditioning" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetes rising quickly in areas with recent air conditioning – June 2011">Diabetes rising quickly in areas with recent air conditioning – June 2011</a>
+* [Diabetes rising quickly in areas with recent air conditioning – June 2011](/posts/diabetes-rising-quickly-in-areas-with-recent-air-conditioning)
 
-* <a href="/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011">Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011</a>
+* [Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011](/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d)
 
 * [Air conditioning has not totally canceled the latitude effective in the US yet – July 2013](/posts/air-conditioning-has-not-totally-canceled-the-latitude-effective-in-the-us-yet)
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Conditioning probably has decreased vitamin D">Air Conditioning probably has decreased vitamin D</a> which has the following graphic
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 800px;">

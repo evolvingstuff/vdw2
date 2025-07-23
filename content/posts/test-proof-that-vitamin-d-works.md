@@ -25,21 +25,21 @@ I am unaware of a single vitamin D clinical trial which used enough D for long e
 
  **Many Clinical Trials do not find a benefit bacause of one or more of the following:** 
 
-1. Have used <a href="/posts/too-small-a-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">too small a dose of vitamin D</a> (often < 1,100 IU) 
+1. Have used [too small a dose of vitamin D](/tags/too-small-a-dose-of-vitamin-d.html) (often < 1,100 IU) 
 
-> Even larger dose needed if: 1) <a href="/posts/obese" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">obese</a>, 2) <a href="/posts/poor-gut" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 745">poor gut</a>, 3) sick (many diseases consume lots of vitamin D
+> Even larger dose needed if: 1) [obese](/tags/obese.html), 2) [poor gut](/tags/poor-gut.html), 3) sick (many diseases consume lots of vitamin D
 
 1. Fails to have given vitamin D for too short of time (a few RCT lasted less than 5 weeks)
 
-Fails to have given Vitamin D frequently enough. <a href="/posts/at-least-every-2-months-for-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">At least every 2 months for D3)</a> - and at least weekly for D2
+Fails to have given Vitamin D frequently enough. [At least every 2 months for D3)](/tags/at-least-every-2-months-for-d3.html) - and at least weekly for D2
 
 > Note: Infrequent dosing also causes unbalancing of the body's chemistry
 
-Fails to provide a [loading dose](/categories/loading-dose), or had too short a duration to restore the vitamin D levels
+Fails to provide a [loading dose](/tags/loading-dose.html), or had too short a duration to restore the vitamin D levels
 
-Fails to use D3 form, instead uses the <a href="/posts/less-effective-d2-form" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">less effective D2 form</a>
+Fails to use D3 form, instead uses the [less effective D2 form](/tags/less-effective-d2-form.html)
 
-1. Fails to have a health range of [Calcium](/categories/calcium) or other important <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a> (especially for [bone-related trials](/posts/bone-health)
+1. Fails to have a health range of [Calcium](/tags/calcium.html) or other important [cofactors](/tags/cofactors.html) (especially for [bone-related trials](/posts/bone-health)
 
 > Also, differences in Magnesium can result in 30% change in response to vitamin D
 

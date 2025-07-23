@@ -53,23 +53,23 @@ Note: Poor health of dark skinned immigrants is a big problem around the world -
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/us-coalition-of-black-and-latino-churches-hope-to-reduce-the-3x-covid-19-disparity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US coalition of Black and Latino churches hope to reduce the 3X COVID-19 disparity - Aug 2021">US coalition of Black and Latino churches hope to reduce the 3X COVID-19 disparity - Aug 2021</a>
+* [US coalition of Black and Latino churches hope to reduce the 3X COVID-19 disparity - Aug 2021](/posts/us-coalition-of-black-and-latino-churches-hope-to-reduce-the-3x-covid-19-disparity)
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Immigrants and refugees had lower vitamin D levels – Jan 2013](/posts/immigrants-and-refugees-had-lower-vitamin-d-levels)
 
-* <a href="/posts/immigrant-vitamin-d-deficiency-in-europe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Immigrant vitamin D deficiency in Europe – May 2011">Immigrant vitamin D deficiency in Europe – May 2011</a>
+* [Immigrant vitamin D deficiency in Europe – May 2011](/posts/immigrant-vitamin-d-deficiency-in-europe)
 
-* <a href="/posts/88-percent-of-african-immigrants-to-melborne-had-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 88 percent of African immigrants to Melborne had less than 20 ng of vitamin D">88 percent of African immigrants to Melborne had less than 20 ng of vitamin D</a>
+* [88 percent of African immigrants to Melborne had less than 20 ng of vitamin D](/posts/88-percent-of-african-immigrants-to-melborne-had-less-than-20-ng-of-vitamin-d)
 
 * [Most immigrant women in Sweden had little vitamin D and lots of muscle pain – May 2013](/posts/most-immigrant-women-in-sweden-had-little-vitamin-d-and-lots-of-muscle-pain)
 

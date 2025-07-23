@@ -57,13 +57,13 @@ Conclusion. 25-(OH)D appears to be implicated in structural changes of knee OA r
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a> not just Vitamin D monotherapy:
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d) not just Vitamin D monotherapy:
 
->  **[Omega-3](/categories/omega-3), [Magnesium](/categories/magnesium), and <a href="/posts/vitamin-k2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Vitamin K2</a> also help reduce Osteoarthritis**  
+>  **[Omega-3](/tags/omega-3.html), [Magnesium](/tags/magnesium.html), and [Vitamin K2](/tags/vitamin-k2.html) also help reduce Osteoarthritis**  
 
-* <a href="/posts/knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010">Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010</a> 
+* [Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010](/posts/knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55) 
 
-* <a href="/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011">Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011</a>
+* [Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011](/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d)
 
 * [Knee Osteoarthritis (Radiographic ) 3X less if have lots of Magnesium – May 2015](/posts/knee-osteoarthritis-radiographic-3x-less-if-have-lots-of-magnesium)
 

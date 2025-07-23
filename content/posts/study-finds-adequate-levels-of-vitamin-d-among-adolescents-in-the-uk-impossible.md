@@ -25,6 +25,6 @@ This is the first time I can recall that the title so disagreed with the content
 
 ### See also VitaminDWiki
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>  10 reasons, one of which follows
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)  10 reasons, one of which follows
 
 >  **<span style="color:#00F;">"It is difficult to get a man to understand something when his salary is dependent upon his not understanding it”</span>**  &nbsp;Upton Sinclair

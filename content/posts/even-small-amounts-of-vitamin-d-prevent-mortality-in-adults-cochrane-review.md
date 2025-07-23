@@ -93,7 +93,7 @@ AUTHORS' CONCLUSIONS: Vitamin D3 seemed to decrease mortality in elderly people 
 
 ### See also VitaminDWiki
 
-* <a href="/posts/cochrane-800-iu-vitamin-d-decreased-mortality-by-6-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cochrane – 800 IU vitamin D decreased mortality by 6 percent – July 2011">Cochrane – 800 IU vitamin D decreased mortality by 6 percent – July 2011</a> (Previous version of this 2014 study - which looked at 50, rather than 56 trials)
+* [Cochrane – 800 IU vitamin D decreased mortality by 6 percent – July 2011](/posts/cochrane-800-iu-vitamin-d-decreased-mortality-by-6-percent) (Previous version of this 2014 study - which looked at 50, rather than 56 trials)
 
 * [6 percent less likely to die by taking just a little vitamin D for 3 plus years – RCT Dec 2013](/posts/6-percent-less-likely-to-die-by-taking-just-a-little-vitamin-d-for-3-plus-years-rct)
 
@@ -101,10 +101,10 @@ AUTHORS' CONCLUSIONS: Vitamin D3 seemed to decrease mortality in elderly people 
 
 * [Chance of dying increases by 25 percent in seniors if low vitamin D – Meta-analysis July 2013](/posts/chance-of-dying-increases-by-25-percent-in-seniors-if-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012">40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012</a>  **40 ng** 
+* [40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)  **40 ng** 
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
-* <a href="/posts/mortality-and-vitamin-d-great-chart" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mortality and vitamin D – great chart">Mortality and vitamin D – great chart</a>
+* [Mortality and vitamin D – great chart](/posts/mortality-and-vitamin-d-great-chart)
 
 <img src="/attachments/d3.mock.jpg" alt="image">

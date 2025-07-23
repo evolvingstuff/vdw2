@@ -55,7 +55,7 @@
 }
 
 
-#### Update: <a href="/posts/vitamin-d-levels-are-correlated-with-6-environmental-variables-in-china" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels are correlated with 6 environmental variables in China – July 2022">Vitamin D levels are correlated with 6 environmental variables in China – July 2022</a>
+#### Update: [Vitamin D levels are correlated with 6 environmental variables in China – July 2022](/posts/vitamin-d-levels-are-correlated-with-6-environmental-variables-in-china)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/map.jpg" alt="image" width="700">
 

@@ -1,0 +1,457 @@
+{
+    "title": "Vitamin D and Vitamin K together fight CVD Part 1- Pizzorno",
+    "slug": "vitamin-d-and-vitamin-k-together-fight-cvd-part-1-pizzorno",
+    "aliases": [
+        "/Vitamin+D+and+Vitamin+K+together+fight+CVD+Part+1-+Pizzorno",
+        "/9983"
+    ],
+    "tiki_page_id": 9983,
+    "date": "2018-08-27",
+    "categories": [
+        "Cardiovascular",
+        "Vitamin K"
+    ],
+    "tags": [
+        "CKD",
+        "Cardiovascular",
+        "Vitamin K",
+        "atherosclerosis",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone mineral density",
+        "brain",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "cholesterol",
+        "chronic pain",
+        "cognitive",
+        "colon cancer",
+        "cystic fibrosis",
+        "depression",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dialysis",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "health risk",
+        "heart failure",
+        "high dose",
+        "hip fractures",
+        "hypertension",
+        "intervention",
+        "kidney",
+        "life span",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "pain",
+        "rheumatoid arthritis",
+        "smoking",
+        "statins",
+        "stroke",
+        "stroke and depression",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "ultraviolet light",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d blood test",
+        "vitamin d receptor",
+        "vitamin k",
+        "vitamin k and viruses",
+        "weight loss"
+    ]
+}
+
+
+**Vitamin D and Vitamin K Team Up to Lower CVD Risk: Part I** 
+
+by Lara Pizzorno  
+
+* [Vitamin K, Cardiovascular and interactions with Vitamin D and Vitamin A – Pizzorno July 2018](/posts/vitamin-k-cardiovascular-and-interactions-with-vitamin-d-and-vitamin-a-pizzorno)
+
+   * Vitamin D and Vitamin K Team Up to Lower CVD Risk: Part II 
+
+{{< toc >}}
+
+Strong correlations have been noted between cardiovascular diseases and low bone density / osteoporosis—connections so strong that the presence of one type of pathology is considered a likely predictor of the other. This potentially causal relationship has led to the hypothesis that these conditions share core mechanisms. Recent advances in our understanding of the complimentary roles played by vitamin D3 and vitamin K2 in vascular and bone health provide support for this hypothesis, along with insight into key metabolic dysfunctions underlying cardiovascular disease and osteoporosis.
+
+Part I of this review summarizes current research linking vitamin D deficiency to cardiovascular disease, the physiological mechanisms underlying vitamin D’s cardiovascular effects, and leading vitamin D researchers’ recommendations for significantly higher supplemental doses of the pro-hormone. Part II reviews the vitamin K connection to cardiovascular disease; the ways in which vitamin D and vitamin K pair up to prevent inflammation, vascular calcification and osteoporosis; and the necessity of providing vitamin K along with vitamin D to preclude adverse effects associated with hypervitaminosis D, which include vascular and other soft tissue calcification.
+
+#### Part I : Vitamin D Deficiency – a Non-Traditional Risk Factor for Cardiovascular Disease
+
+##### Introduction
+
+Risk for both cardiovascular disease and osteoporosis significantly increases with age. Even after adjustment for age, strong correlations have been noted between cardiovascular diseases (including atherosclerosis, coronary heart disease, congestive heart failure, hypertension, myocardial infarction and peripheral artery disease) and low bone density and osteoporosis—connections so strong that the presence of one type of pathology is considered a likely predictor of the other. This apparently causal relationship has led to the hypothesis that these conditions share core mechanisms. Recent advances in our understanding of the complimentary roles played by vitamin D3 and vitamin K2 in vascular and bone health provide support for this hypothesis, along with insight into key metabolic dysfunctions underlying cardiovascular disease and osteoporosis.1 2 3 4 5 6 This article focuses on the effects of vitamin D deficiency on cardiovascular disease and the mechanisms through which vitamin D sufficiency promotes cardiovascular health.
+
+#### Vitamin D and Cardiovascular Disease
+
+Technically, vitamin D is not a “vitamin”. Its metabolic product, calcitriol, is a secosteroid hormone that affects more than 2,000 genes in the body (about 10% of the human genome). Current research implicates vitamin D deficiency as a major factor in the pathology of not only cardiovascular disease (CVD)—the focus of this review—but at least 17 varieties of cancer, diabetes, autoimmune diseases, osteoporosis, osteoarthritis, chronic pain, periodontal disease, sarcopenia, depression and more.7 A rapidly growing number of recently published studies link vitamin D deficiency with virtually all forms of CVD, including arteriosclerosis, atherosclerosis, hypertension, coronary artery disease, congestive heart failure, peripheral artery disease, myocardial infarction, and stroke.8 9 10 11 12 13 14 15 16 17 18
+
+#### Myocardial infarction
+
+Serum 25(OH)D (25-hydroxyvitamin D or calcidiol, the pre-hormone produced by hydroxylation of cholecalciferol in the liver and the form measured in blood to assess vitamin D status) has recently been shown to be an independent predictor of CVD morbidity and mortality. A prospective study involving 18,225 men, aged 40-75 years at baseline (April 1993) and followed for 10 years, found that men deficient in 25(OH)D (serum levels ≤15 ng/mL or 37.5 nmol/L [to convert ng/mL to nmol/L, multiply by 2.496](to%20convert%20ng/mL%20to%20nmol/L,%20multiply%20by%202.496)) were at significantly increased risk for myocardial infarction (relative risk 2.09) compared with those considered to be sufficient in 25(OH)D (≥30 ng/mL [75 nmol/L](75%20nmol/L)). Even men with intermediate 25(OH)D levels (22.6-29.9 ng/mL [or 56.4-74.6 nmol/L](or%2056.4-74.6%20nmol/L)) were at elevated risk (RR, 1.60) compared to those with sufficient 25(OH)D levels.14
+
+#### Peripheral arterial disease
+
+Other NHANES III-related research indicates an inverse relationship between 25(OH)D serum levels and prevalence of peripheral arterial disease (PAD), which is associated with a 2-fold increase in incidence of heart failure.19 In this analysis of nationally representative data from 4,839 participants including white, black and Hispanic ethnicities, the prevalence ratio of PAD for the lowest, compared to the highest 25(OH)D quartile (<17.8 and ≥29.2 ng/mL [44.4 and 72.8 nmol/L](44.4%20and%2072.8%20nmol/L), respectively) was 8.1% compared to 3.7%.20
+
+#### Hypertension and cardiac hypertrophy
+
+Vitamin D deficiency is associated with cardiac hypertrophy and hypertension in animal and human studies. Vitamin D receptor expression is increased in the myocytes, fibroblasts and intact ventricular myocardium of the hypertrophic heart, and 1-α hydroxylase and 24-hydroxylase, the two enzymes involved in the synthesis and metabolism of 1,25 dihydroxyvitamin D (calcitriol, the active form of vitamin D), are also present in the heart, allowing for local production of bioactive D3 from 25(OH)D.13
+
+In animal studies, vitamin D deficiency leads to both hypertension and cardiac hypertrophy, while treatment with the vitamin D analogue, paricalcitol, reverses cardiac hypertrophy. The VDR knockout mouse exhibits hypertension and cardiac hypertrophy. In humans, low circulating levels of vitamin D3 in patients with chronic renal failure on dialysis are associated with ventricular hypertrophy, and treatment with supplemental vitamin D3 results in amelioration of the hypertrophy. All of the above suggests that the key components required for a functional 1,25 dihydroxyvitamin D-dependent signaling system are present in the human heart and that it provides an anti-hypertrophic system, which is protectively amplified in cardiac hypertrophy.13
+
+##### Association with other CVD risk factors
+
+Low vitamin D levels have also been associated with prevalence of a number of key risk factors for CVD. Analysis of data collected by the Third National Health and Nutrition Examination Survey (NHANES III) found that individuals in the lowest quartile of serum 25(OH)D levels had a significantly higher odds ratio for obesity (OR 2.29), diabetes (OR, 1.98), and high serum triglyceride levels (OR 1.47), as well as hypertension (OR 1.30).21
+
+Another cross-sectional analysis of NHANES III data involving a large sample representative of the U.S. adult population (16,603 men and women, ≥18 years) found a strong correlation between low levels of 25(OH)D and CVD that was independent of traditional CVD risk factors.. Even after adjustment for age, gender, race/ethnicity, season of measurement, physical activity, body mass index, smoking status, hypertension, diabetes, elevated LDL cholesterol, low HDL, hypertriglyceridemia, and chronic kidney disease, vitamin D3-deficient participants had a 1.20 increased risk of CVD.10
+
+Low 25(OH)D concentrations (<15 ng/mL [37.5 nmol/L](37.5%20nmol/L)) have been clearly associated with a steep increase in incidence of cardiovascular disease in the Framingham Offspring Study22; with heart failure, sudden cardiac death, and fatal stroke in patients routinely referred for coronary angiography23,24; and with increased risk for all-cause and cardiovascular mortality.25 A recent meta-analysis of studies reviewing 18 independent randomized controlled trials (n= 57,311 participants) suggests that low vitamin D status is associated with higher risk of mortality (from cardiovascular disease, diabetes mellitus and cancer) that accounts for 60% to 70% of the total mortality in high-income countries!26
+
+#### Obesity
+
+Obesity is a well recognized contributing factor to CVD via its associations with risk factors such as hypertension, dyslipidemia, decreased glucose tolerance, metabolic syndrome and diabetes, and elevations in levels of markers of inflammation—all of which contribute to CVD pathology. Prevalence of overweight (BMI ≥ 25) and obesity (BMI ≥ 30) has dramatically increased during the last several decades. According to World Health Organization estimates, 1.6 billion adults were overweight, and 400 million adults were obese worldwide in 2006.27 In the U.S., 2 in 3 adults have a BMI >25.28 29
+
+A recent double-blind, placebo-controlled clinical trial involving 200 healthy overweight subjects with mean 25(OH)D concentrations of 30 nmol/L (12 ng/mL), who received vitamin D (83 microg <span>[3,320 IU]</span>/day) or placebo for 12 months while in a weight-reduction program, revealed several beneficial effects of vitamin D supplementation at this dosage. Pronounced decreases in parathyroid hormone levels (-26.5%), triglycerides (-13.5%), and the inflammation marker tumor necrosis factor alpha <span>[TNFα ]</span> (-10.2%) were seen in the vitamin D group compared to the placebo group, in which results were -18.7%, +3.0%, and -3.2%, respectively.30
+
+##### Parathyroid hormone
+
+As noted in the discussion of the results of this clinical trial, elevated levels of parathyroid hormone (PTH) are a non-traditional risk factor for CVD.30 Primary hyperparathyroidism is associated with hypertension, coronary atherosclerosis and other cardiovascular diseases. Elevated PTH concentrations due to hyperparathyroidism have been correlated with significantly higher risk of cardiovascular morbidity and mortality.31Elevated serum PTH has been found to be an independent predictor of all-cause mortality in a study of frail elderly subjects, among whom 50% of deaths were cardiovascular-related32. And in the Tromsø Study, in subjects with calcium levels within the normal reference range, the rate of coronary heart disease (CHD) was higher in subjects with serum PTH > 6.8 pmol/l than in those with normal or low serum PTH levels (relative risk 1.67). The highest PTH quartile (> 3.50 pmol/l in men and > 3.30 pmol/l in women) predicted CHD, with mean odds ratios of 1.70 for men and 1.73 for women.33
+
+##### TNFα
+
+As mentioned above, concentrations of TNFα were also significantly lessened (-10.2%) in overweight subjects supplemented with vitamin D3, confirming the suppressive effects of vitamin D3 on TNFα concentrations in an earlier study conducted by the same researchers in patients with congestive heart failure.34
+
+High TNFα concentrations (> 2.8 pg/mL) are recognized as a risk factor for cardiovascular disease35. Studies have confirmed a significant association between high levels of TNFα, congestive heart failure and coronary heart disease mortality.36 37 Accumulating evidence suggests that TNFα plays a pivotal role in disruption of endothelial function and macrovascular and microvascular circulation, thus contributing to atherosclerosis.38
+
+As noted by Zitterman A et al.8, high levels of TNFα have been shown to suppress circulating calcitriol concentrations by inhibiting 1α-hydroxylation of 25(OH)D (calcidiol) to 1,25-(OH2)D3 (calcitriol).39 Concentrations of vitamin 25 (OH)D of at least 30 ng/mL (75 nmol/L)—which were not achieved in all patients in the above study even with daily vitamin D supplementation of 3,320 IU—may be necessary to achieve calcitriol concentrations sufficient to prevent a vicious cycle of low calcitriol and high TNFα in the majority of patients. Individuals with genetic polymorphisms associated with increased TNFα production or impaired VDR binding activity (e.g., the BsmI BB SNP) may need considerably more (4,600 IU – 5,000 IU/day).40 41
+
+##### Natriuretic peptide
+
+The natriuretic peptide family is a group of peptide hormones that play a major role in cardiovascular, endocrine, and renal homoeostasis. B-type natriuretic peptide and its N-terminal counterpart (N-terminal pro-brain natriuretic peptide or NT-proBNP) are secreted from cardiomyocytes in response to increased wall tension. Both natriuretic peptides have been comprehensively studied in heart failure and are considered major prognostic factors for high risk of death or serious complications across the whole spectrum of acute coronary syndromes and beyond traditional risk markers.42 In studies of patients with renal disease, circulating levels of 25(OH)D have been shown to correlate inversely with both BNP and NP-proBNP.43 44 In patients with congestive heart failure, levels of 25 (OH)D and calcitriol have also been found to correlate inversely with another natriuretic peptide, N-terminal pro-atrial natriuretic peptide (NT-proANP), which is a strong predictor of congestive heart failure severity.45
+
+##### Mechanisms: How Vitamin D Supports Cardiovascular Health
+
+Endogenous production of vitamin D begins when the sun’s ultraviolet light acts upon 7-dehydrocholesterol (a precursor of cholesterol) in the skin, converting it to pre-vitamin D3, which then spontaneously isomerizes to vitamin D3 (cholecalciferol). Whether made in the skin or ingested, cholecalciferol is then hydroxylated in the liver by the enzyme 25-hydroxylase, to form 25-hydroxycholecalciferol <span>[25(OH)D]</span>or calcidiol, the metabolite that reflects bodily vitamin D stores. Calcidiol is further hydroxylated in the kidneys by 1α-hydroxylase into 1,25-dihydroxycholecalciferol <span>[1,25(OH)2D]</span> or calcitriol—the biologically active form of D3. Although calcitriol is primarily produced in the kidneys, a number of other tissues, including vascular smooth muscle cells and cardiac myocytes, also express 1α-hydroxylase and can locally produce the activated form of vitamin D3 <span>[1,25(OH)2D]</span>.1
+
+##### Decreases cell proliferation and cardiac hypertrophy
+
+Local 1α-hydroxylase activity and consequent production of 1,25(OH)2D within endothelial cells and the myocytes of the heart provides an autocrine/paracrine link for control of hypertrophic activity within the myocardial wall.46 Specifically, 1,25(OH)2D increases expression of myotrophin (a factor that stimulates myocyte growth), but balances this action by decreasing expression of atrial natriuretic peptide (a powerful vasodilator) and c-myc (a transcription factor that upregulates expression of numerous genes that drive cell proliferation). In addition, 1,25(OH)2D increases expression of the VDR in cardiac myocytes. The combined effect of these actions is a decrease in cell proliferation and prevention of cardiac hypertrophy.47
+
+Vitamin D3 has been shown to control genes affecting coagulation at the level of transcription, leading one group of researchers to propose that “vitamin D derivatives may develop as new types of antithrombotic and anti-atherosclerotic agents which change the character of cells.”48 In human peripheral monocytes, 1,25(OH)2D has been shown to exert anticoagulant effects by upregulating expression of an anticoagulant glycoprotein, thrombomodulin, while also downregulating expression of a critical coagulation factor, tissue factor.49
+
+##### Decreases rennin expression
+
+Vitamin D decreases rennin expression and thus lessens activation of the rennin-angiotensin-aldosterone system (RAAS), which regulates blood pressure and fluid balance. Renin, secreted by the kidneys when blood volume is low, stimulates production of angiotensin, which causes blood vessels to constrict, increasing blood pressure, and also stimulates secretion of aldosterone, which causes the tubules of the kidneys to retain sodium and water, increasing the volume of fluid in the body and further increasing blood pressure. Studies using VDR and 1α-hydroxylase knockout or genetically modified mouse models, in which the vitamin D system has been inactivated, show that its ablation leads to increased renin expression, resulting in increased angiotensin II and aldosterone concentrations, abnormal sodium handling, hypertension, and left-ventricular hypertrophy.1 50 51 52 In contrast, high levels of calcitriol have been shown to decrease plasma renin activity, producing a decrease in angiotensin II levels.53
+
+By lessening RAAS activation, vitamin D not only decreases blood pressure, but also decreases the inflammation in the vascular endothelium that results from angiotensin activation, thus lessening progression of atherosclerosis. RAAS inhibition has also been shown to reduce common carotid and femoral artery intima-media thickness.54
+
+##### Decreases C-peptide
+
+Low levels of vitamin D have been correlated with higher levels of C-peptide, a surrogate marker for insulin resistance that has recently been identified as a key mediator of atherosclerotic lesion development in individuals with type 2 diabetes. C-peptide facilitates the recruitment of inflammatory cells into early lesions and promotes lesion progression by inducing smooth muscle cell proliferation.55
+
+Data gathered from two large cross-sectional studies among men from the Health Professionals Follow-up Study and women from the Nurses’ Health Study revealed that individuals with the highest calcium intake and plasma concentrations of 25(OH)D had significantly lower fasting C-peptide concentrations (35% lower in men, 12% lower in women) than individuals with the lowest levels of the two nutrients. Levels of C-peptide have also been found to be especially high in hypertensive individuals with inadequate calcium intake and low vitamin D levels.56
+
+Diabetes is associated with a 3-fold higher CVD mortality risk, and metabolic syndrome is a significant risk factor for type 2 diabetes.57 58Vitamin D’s protective effects against the development of metabolic syndrome were apparent in an analysis of data on 10,066 women participating in the Women’s Health Study. Women in the highest, compared to the lowest, quintile of vitamin D intake had an age- and calorie-adjusted relative risk of 0.77 for the metabolic syndrome.59
+
+##### Lowers C-reactive protein and metalloproteinases
+
+Vitamin D supplementation lowers levels of C-reactive protein (CRP), a well-documented marker of inflammation associated with CVD pathology} 60 and improves the balance between anti-inflammatory and pro-inflammatory cytokines. In patients with congestive heart failure, supplementation with vitamin D decreases the activity of pro-inflammatory nuclear factor-kappaB (NFκB), thus decreasing levels of pro-inflammatory interleukin-6, interleukin-1, interferon-γ, and TNFα; and also increases production of anti-inflammatory interleukin-10.34 61
+
+Vitamin D levels also correlate inversely with levels of tissue matrix metalloproteinases (MMPs), which control remodeling in the vascular wall, myocardium and other tissues. Plasma levels of MMPs increase in unstable angina and acute infarction. High levels of CRP and MMPs predict atheromatous vulnerability; both are considered indicative of increased risk of acute cardiovascular events. An elevated CRP level is a marker of inflammatory vascular damage to which the body responds by increasing circulating levels of MMPs. Calcitriol (1,25(OH)2D), the activated hormonal form of vitamin D3, modulates tissue MMP expression, plus vitamin D receptors are expressed in the vascular wall and in arterial plaque macrophages, which allows for MMP regulation by both circulating calcitriol and that which is produced locally in vascular tissues. These mechanisms underlying vitamin D’s protective effects against CVD also help to explain why vitamin D reduces disease activity in rheumatoid arthritis, another disease in which increased expression of MMP contributes to pathogenesis. 62
+
+Perhaps the most intriguing insight into the mechanisms underlying vitamin D’s protective cardiovascular effects is to be found in very recent developments in our understanding of the pharmacology of statin drugs.
+
+##### Statin’s Widespread Benefits Due to Increased Levels of Vitamin D3?
+
+Not only do the benefits of statin drugs extend well beyond their powerful cholesterol-lowering effects, but these agents appear to mimic so many of the actions of vitamin D that they have recently been hypothesized to be vitamin D analogues.63
+
+Statins have been found to not only lower LDL cholesterol concentrations, but to raise concentrations of HDL cholesterol, lower serum triglycerides, reduce rejection of heart and kidney transplants, lessen symptoms in patients with rheumatoid arthritis and multiple sclerosis, improve bone mass, reduce hip fracture, and greatly reduce the risk of several cancers including lung, prostate and, especially, colorectal cancer. The latter two effects seem paradoxical in light of research indicating that high serum cholesterol concentrations are associated with higher bone mineral density in postmenopausal women64 and are protective against colon cancer.65
+
+These unexpected and apparently contradictory benefits of statins indicate that these drugs are doing more than blocking cholesterol production by inhibiting 3-hydroxy-3-methylglutaryl coenzyme A reductase (HMGCoA reducatse). So, how can a drug that lowers serum cholesterol levels increase bone density and lower risk of colon cancer, conditions for which high serum cholesterol concentrations have been shown to be protective?63 The explanation may lie with vitamin D.
+
+Insight into the mechanism underlying statin’s wonder drug persona has recently been provided by a study that revealed treatment with atorvastatin raised serum 25(OH)D levels in patients with acute ischemic heart disease. After diagnosis, 83 patients (52 men, 31 women) with acute coronary syndrome (75 with acute myocardial infarction and 8 with unstable angina.) were given atorvastatin as secondary prevention. Serum vitamin D was measured at baseline and 12 months later. Atorvastatin treatment significantly decreased cholesterol and triglyceride levels and increased vitamin D levels (41+/-19 vs 47+/-19 nmol/L.). At baseline, 75% of patients had vitamin D deficiency (≤50 nmol/L [≤20 ng/mL](≤20%20ng/mL)), which was decreased by 75% at 12 months. Results did not differ according to gender or dose of atorvastatin used.66 Further analysis of the same patients revealed another benefit of the atorvastatin-induced 33% increase in vitamin D: bone mineral density increased in the spine (1.31%) in male patients whose severely low baseline vitamin D levels had risen to >30 nmol/L (>12 ng/mL).67
+
+How do statins increase vitamin D levels? Cholesterol and vitamin D share the same metabolic pathway. Cholesterol is synthesized from 7-dehydrocholesterol, which is also the precursor for vitamin D3. Statins are known to lower cholesterol by inhibiting HMG-CoA reductase, but this enzyme is 10 steps upstream from the production of 7-dehydrocholesterol in the cholesterol synthesis pathway, so blocking HMG Co-A reductase should lessen production of not only cholesterol, but also vitamin D.68 Since atorvastatin treatment increases vitamin D levels, the following two statements must be true: (1) statins do not completely block HMG Co-A reductase, but allow some activity of this enzyme, and (2) statins also inhibit the final enzyme in the production of cholesterol, 7-dehydrocholesterol reductase, preventing its conversion of 7-dehydrocholesterol to cholesterol and increasing the amount of 7-dehydrocholesterol in the skin, which can then be energized by ultraviolet (specifically, UV-B) radiation to form 25(OH)D. Thus, it is statins’ inhibition of 7-dehydrocholesterol reductase that results in increased levels of 7-dehydrocholesterol, enabling increased synthesis of 25(OH)D, thereby increasing vitamin D levels.66 69
+
+In addition, 25(OH)D has itself been shown in vitro to inhibit HMG-CoA enzyme reductase activity in mouse epithelial and human skin and liver cells.70 Thus, a statin-induced increase in vitamin D concentrations could further increase inhibition of HMGCoA. Vitamin D may be acting synergistically with statins to decrease total cholesterol levels.66
+
+#### Cholesterol, Vitamin D, Statin Connection - chart
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/cardio-piz.jpg" alt="image" width="700">
+
+##### Vitamin D3 Dosage Considerations
+
+Using 28 ng/ml (69.8 nmol/L) as a cut-off, it has been estimated that approximately 41% of men and 53% of women in the U.S. have insufficient levels of 25(OH)D.1
+
+Dose-response curves observed in a recent 6-month, prospective, randomized, double blind, placebo-controlled study of vitamin D3 supplementation suggest that the intake of vitamin D3 needed to raise serum 25(OH)D levels to >30 ng/mL (75 nmol/L) varies depending upon the individual’s baseline levels of vitamin D. In one study, a daily dose of 3,800 IU appeared to be adequate for individuals whose baseline vitamin D levels were above 55 nmol/L (22 ng/mL); for individuals whose baseline levels of vitamin D fall below this threshold, the researchers suggest a dose of 5,000 IU/day may be required.71
+
+However, the optimal serum level of 25(OH)D may be 40 ng/mL or even higher, not 30 ng/mL. A number of other studies reviewed by Heaney suggest 25(OH)D levels of ≥40 ng/ml are needed for full vitamin D efficacy.72 These include:
+
+Meta-analyses of controlled trials in which vitamin D supplementation has been shown to reduce osteoporotic fracture show no benefit unless serum 25(OH)D reaches at least 75 nmol/L (30 ng/mL).73
+
+Studies looking at the risk of falling in the elderly, which is also significantly related to serum 25(OH)D and has been shown to lessen all the way up to serum 25(OH)D values of 75 nmol/L (30 ng/mL). The researchers note that risk may be further reduced at higher levels, but there were too few individuals with higher values to assess an association at levels higher than 75 nmol/L.72
+
+Studies analyzing the inverse relationship between serum 25(OH)D and cancers in humans from which the evidence indicates a dose-related, linear decrease in risk as serum 25(OH)D rises to levels of ≥80 nmol/L (32 ng/mL).74 One recent 4-year, randomized, controlled trial showed that raising serum 25(OH)D from a mean of 71 nmol/L (28 ng/mL) to one of 96 nmol/L (38 ng/mL) decreased all-cancer risk in 1,169 postmenopausal women by approximately 60%.75
+
+NHANES III data on fasting blood sugar and response to a standard glucose challenge that indicates response plateaued at 25(OH)D values between 100 and 120 nmol/L (40 and 48 ng/mL).76
+
+Leading vitamin D experts presented a paper at the 2008 American Public Health Association meeting in which they noted, “Observational and randomized controlled trial studies have found that it takes at least 1000-2000 IU of vitamin D3 <span>[per day]</span> and serum levels of 40-60 ng/mL for substantial benefits … 1100 IU/day can raise <span>[vitamin D blood levels]</span> by ~10 ng/mL.”77
+
+Hollis et al. analyzed the relationship between cholecalciferol (the parent compound) and 25(OH)D (which reflects bodily vitamin D stores). They found that optimal nutritional vitamin D status did not occur until circulating 25(OH)D exceeded 40 ng/mL (100 nmol/L). Not until this level was the Vmax, of the 25-hydroxylase enzyme achieved (i.e., all enzyme sites were saturated). In other words, the body’s ability to utilize cholecalciferol in the numerous roles played by the vitamin D endocrine system is not reached until 25(OH)D levels are ≥40 ng/ml. Below this level, chronic substrate deficiency prevents full actualization of the myriad benefits of vitamin D.78
+
+##### In overweight / obese individuals
+
+Body composition may affect vitamin D requirements. Suggested mechanisms include that 1) low vitamin D3, may impair insulin action, glucose metabolism and various other metabolic processes in adipose and lean tissue,79 2) fat soluble-vitamin D3 is sequestered in adipose tissue,80and 3) obese individuals may minimize skin sun exposure due to embarrassment about their body shape.81
+
+Results of two studies recently conducted on women in sunny Spain, one in Barcelona and the other in Madrid, confirm that overweight/obese persons usually have inadequate vitamin D levels. In the Barcelona study, 51% of the morbidly obese were vitamin D deficient (25(OH)D <38 nmol/L [15 ng/mL](15%20ng/mL)) compared to 22% of the non-obese women.82 The women in Madrid were divided into two groups depending on their serum vitamin D concentrations: a low-D group (<90 nmol/L [<36 ng/mL](<36%20ng/mL)) and a high-D group (>90 nmol/L [>36 ng/mL](>36%20ng/mL)). Although intakes of vitamin D, calcium and supplements were similar in both groups, a BMI of >27.7 kg/m(2) was associated with serum vitamin D concentrations of ≤ 90 nmol/L.83
+
+A study conducted in Auckland, New Zealand, another area of the world in which access to sunshine is not an issue, tested how vitamin D3 levels related to fat mass, markers of metabolic syndrome, and hemoglobin A1c (HbA1c) in 250 overweight and obese adults of different ethnicities. Multivariable regression carried out separately for BMI and waist showed a decrease of 0.74 nmol/L in vitamin D3 per 1 kg/m2 increase in BMI, and a decrease of 0.29 nmol/L per 1 cm increase in waist, with each explaining approximately 3% of the variation in vitamin D3 over and above gender, age, ethnicity and season.81
+
+In the U.S., a comparison of NHANES data on serum 25(OH)D in the population in 1988-1994 versus 2000-2004 revealed a significant drop (by 5-20 nmol/L [2-8 ng/L](2-8%20ng/L)) in 2000-2004 vitamin D levels, which researchers suggest is explained by increases in BMI, decreases in milk intake, and sun protection.84
+
+##### In black individuals
+
+Black individuals, particularly those living in northern latitudes, typically need 5–10 times longer sun exposure to generate vitamin D than Caucasians, and therefore are likely to need higher doses of supplemental vitamin D. Epidemiological studies have shown an inverse association between blood pressure and vitamin D levels, and a direct association between blood pressure and increasing latitude (a surrogate of lower vitamin D levels).85 86 87
+
+Hypertension is more common among blacks living in the U.S. or U.K. than whites. NHANES III data showed mean serum levels of 25(OH)D were lowest in non-Hispanic blacks (49 nmol/L [19.6 ng/mL](19.6%20ng/mL)), intermediate in Mexican-Americans (68 nmol/L [27.2 ng/mL](27.2%20ng/mL)), and highest in whites (79 nmol/L [31.6 ng/mL](31.6%20ng/mL)). When participants were divided into 25(OH)D quintiles, mean systolic BP was 3.0 mm/Hg lower, and diastolic BP was 1.6 mm/Hg lower in subjects in the highest quintile (25(OH)D ≥ 85.7 nmol/L [≥34.3 ng/mL](≥34.3%20ng/mL)) compared with the lowest (25(OH)D ≤ 40.4 nmol/L [≤16 ng/mL](≤16%20ng/mL)). The inverse association between 25(OH)D and systolic BP was strongest in participants aged ≥50 years. Ethnic differences in 25(OH)D explained ~50% of the increased prevalence of hypertension seen in blacks compared to whites.88
+
+##### In older individuals
+
+In the aging patient, an additional factor to consider is that older individuals are more prone to low vitamin D concentrations, both because the skin’s capacity to produce vitamin D decreases with age, and because many elders do not get adequate sun exposure.89 Worldwide, almost 50% of the elderly are estimated to be vitamin D-deficient. Indication that older individuals are at increased risk for vitamin D deficiency-related CVD is provided by a recent 6.2 year prospective trial, initiated in 2000-2001 that involved 614 older Austrian men and women participating in the Hoorn Study. Risk for all-cause and cardiovascular mortality in individuals in the lowest quartile of serum vitamin D3 levels, compared to those in the upper three quartiles, were 1.97 and 5.38, respectively.90
+
+John Cannell, MD, Executive Director and founder in 2003 of the non-profit Vitamin D Council (www.vitamindcouncil.org), a consortium of the world’s leading vitamin D scientists, offers the following as “conservative” recommendations for vitamin D supplementation: Healthy adults and adolescents between 80 pounds and 130 pounds should start with 3,000 IU per day; over 130 pounds but less than 170 pounds, 4,000 IU per day; over 170 pounds, 5,000 IU per day. After two months, test serum levels of 25(OH)D3 <span>[calcidiol]</span>. Adjust dose to reach and maintain 25(OH)D <span>[calcidiol]</span> levels between 50 and 70 ng/mL [124.8 nmol/L and 174.72 nmol/L](124.8%20nmol/L%20and%20174.72%20nmol/L), summer and winter.91
+
+##### Vitamin D Safety Issues: Upper Tolerable Limit
+
+A recently published review of the evidence regarding the risk-related consequences of vitamin D supplementation in adults concluded: “Evidence from clinical trials shows, with a wide margin of confidence, that a prolonged intake of 10,000 IU per day of vitamin D3 poses no risk of adverse effects for adults, even if this is added to a rather high physiologic background level <span>[sun exposure, dietary intake]</span> of vitamin D.92
+
+This is not surprising since in an adult with white skin, one minimum erythema dose of total body solar exposure, such as typically achieved in 15 to 20 minutes on a summer day while wearing a bathing suit, generates ~10,000 – 20,000 IU of vitamin D3 in 15 to 20 minutes.92
+
+In humans, the physiologic limit for serum 25(OH)D concentrations is ~220 nmol/L (88 ng/mL), a level that approximates the top of the range of values reported for humans well exposed to ultraviolet light. The fact that humans evolved in a tropical climate with regular skin exposure to sunshine implies that the upper end of the physiological concentration range for 25(OH)D is not only safe, but optimal.92
+
+People with abundant exposure to sunlight can easily exhibit a serum 25(OH)D greater than 150 nmol/L (60 ng/mL). Such 25(OH)D concentrations reflect a pre-supplement oral intake or biosynthesis of vitamin D equivalent to more than 4,000 IU per day. An additional oral intake of 4,000 IU per day of vitamin D would still be far less than the dose of 50,000 IU per day reported to be non-hypercalcemic in clinical trials.92
+
+While the safe upper limit for serum 25(OH)D appears to be 200 nmol/L (80 ng/L),93 the published evidence regarding vitamin D toxicity shows that the lowest 25(OH)D concentration causing hypercalcemia is greater than 500 nmol/L (200 ng/mL). Those patients reported in the literature as exhibiting hypercalcemia with a 25(OH)D concentration less than 500 nmol/L were taking vitamin D in infrequent but extreme doses (e.g., 600,000 IU once weekly). Very strong evidence indicates no hypercalcemia or hypercalcinuria is associated with supplementary vitamin D intakes of at least 10,000 IU per day, in addition to the vitamin D that healthy North American adults acquire in the normal course of modern life.92
+
+#### Conclusion
+
+Vitamin D exerts numerous protective actions on the cardiovascular system, and a plethora of current studies demonstrate that deficiency of this pro-hormone is a highly significant, if non-traditonal, risk factor for cardiovascular disease. All patients, but particularly those at increased cardiovascular risk, should be screened for vitamin D deficiency. Treatment with physiological doses of vitamin D3 (between 4,000 to as high as 10,000 IU/day from all sources, i.e., intelligent sun exposure, food and supplements) combined with periodic monitoring of serum 25(OH)D calcidiol and calcium levels should be standard medical practice.
+
+##### References
+
+1.	Michos ED, Melamed ML. Vitamin D and cardiovascular disease risk. Curr Opin Clin Nutr Metab Care. 2008 Jan;11(1):7-12. Review. ↑
+
+2.	Samelson EJ, Kiel DP, Broe KE, et al. Metacarpal cortical area and risk of coronary heart disease: the Framingham Study. Am J Epidemiol. 2004 Mar 15;159(6):589-95. ↑
+
+3.	von der Recke P, Hansen MA, Hassager C. The association between low bone mass at the menopause and cardiovascular mortality. Am J Med. 1999 Mar;106(3):273-8. ↑
+
+4.	Tankó LB, Christiansen C, Cox DA, et al. Relationship between osteoporosis and cardiovascular disease in postmenopausal women. J Bone Miner Res. 2005 Nov;20(11):1912-20. ↑
+
+5.	Wu-Wong JR. Potential for vitamin D receptor agonists in the treatment of cardiovascular disease. Br J Pharmacol. 2009 Apr 9. ↑
+
+6.	Hofbauer LC, Brueck CC, Shanahan CM, et al. Vascular calcification and osteoporosis–from clinical observation towards molecular understanding. Osteoporos Int. 2007 Mar;18(3):251-9. Epub 2006 Dec 7. ↑
+
+7.	www.vitamindcouncil.org ↑
+
+8.	Zittermann A, Schleithoff SS, Frisch S, et al. Circulating Calcitriol Concentrations and Total Mortality. Clin Chem. 2009 Apr 9. ↑
+
+9.	Martins D, Wolf M, Pan D, Zadshir A, et al. Prevalence of cardiovascular risk factors and the serum levels of 25-hydroxyvitamin D in the United States: data from the Third National Health and Nutrition Examination Survey. Arch Intern Med. 2007 Jun 11;167(11):1159-65. ↑
+
+10.	Kendrick J, Targher G, Smits G, et al. 25-Hydroxyvitamin D deficiency is independently associated with cardiovascular disease in the Third National Health and Nutrition Examination Survey. Atherosclerosis. 2008 Nov 11. ↑
+
+11.	McCarty MF. Poor vitamin D status may contribute to high risk for insulin resistance, obesity, and cardiovascular disease in Asian Indians. Med Hypotheses. 2009 Jun;72(6):647-51. ↑
+
+12.	Lee JH, O’Keefe JH, Bell D, et al. Vitamin D deficiency an important, common, and easily treatable cardiovascular risk factor?. Am Coll Cardiol. 2008 Dec 9;52(24):1949-56. ↑
+
+13.	Chen S, Glenn DJ, Ni W, Grigsby CL, et al. Expression of the vitamin d receptor is increased in the hypertrophic heart. Hypertension. 2008 Dec;52(6):1106-12. ↑
+
+14.	Giovannucci E, Liu Y, Hollis BW, et al. 25-hydroxyvitamin D and risk of myocardial infarction in men: a prospective study. Arch Intern Med. 2008 Jun 9;168(11):1174-80. ↑
+
+15.	Linhartová K, Veselka J, Sterbáková G, et al. Parathyroid hormone and vitamin D levels are independently associated with calcific aortic stenosis. Circ J. 2008 Feb;72(2):245-50. ↑
+
+16.	Michos ED, Melamed ML. Vitamin D and cardiovascular disease risk. Curr Opin Clin Nutr Metab Care. 2008 Jan;11(1):7-12. ↑
+
+17.	Wu-Wong JR. Potential for vitamin D receptor agonists in the treatment of cardiovascular disease. Br J Pharmacol. 2009 Apr 9. ↑
+
+18.	Chonchol M, Cigolini M, Targher G. Association between 25-hydroxyvitamin D deficiency and cardiovascular disease in type 2 diabetic patients with mild kidney dysfunction. Nephrol Dial Transplant. 2008 Jan;23(1):269-74. ↑
+
+19.	Anand RG, Ventura HO, Mehra MR. Is heart failure more prevalent in patients with peripheral arterial disease? A meta-analysis. Congest Heart Fail. 2007 Nov-Dec;13(6):319-22. ↑
+
+20.	Melamed ML, Muntner P, Michos ED, et al. Serum 25-hydroxyvitamin D levels and the prevalence of peripheral arterial disease: results from NHANES 2001 to 2004. Arterioscler Thromb Vasc Biol. 2008 Jun;28(6):1179-85. ↑
+
+21.	Martins D, Wolf M, Pan D, et al. Prevalence of cardiovascular risk factors and the serum levels of 25-hydroxyvitamin D in the United States: data from the Third National Health and Nutrition Examination Survey. Arch Intern Med. 2007 Jun 11;167(11):1159-65. ↑
+
+22.	Wang TJ, Pencina MJ, Booth SL, et al. Vitamin D deficiency and risk of cardiovascular disease. Circulation. 2008 Jan 29;117(4):503-11. ↑
+
+23.	Pilz S, März W, Wellnitz B, et al. Association of vitamin D deficiency with heart failure and sudden cardiac death in a large cross-sectional study of patients referred for coronary angiography. J Clin Endocrinol Metab. 2008 Oct;93(10):3927-35. ↑
+
+24.	Pilz S, Dobnig H, Fischer JE, et al. Low vitamin d levels predict stroke in patients referred to coronary angiography. Stroke. 2008 Sep;39(9):2611-3. ↑
+
+25.	Dobnig H, Pilz S, Scharnagl H, et al. Independent association of low serum 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D levels with all-cause and cardiovascular mortality. Arch Intern Med. 2008 Jun 23;168(12):1340-9. ↑
+
+26.	Autier P, Gandini S. Vitamin D supplementation and total mortality: a meta-analysis of randomized controlled trials. Arch Intern Med. 2007 Sep 10;167(16):1730-7. ↑
+
+27.	World Health Organization (WHO). Obesity and overweight. September 2006. WHO data is currently being updated; current statistics should be available shortly at. ↑
+
+http://www.who.int/bmi/index.jsp
+
+28.	Ogden CL, Carroll MD, Curtin LR, et al. Prevalence of overweight and obesity in the United States, 1999-2004. JAMA. 2006 Apr 5;295(13):1549-55. ↑
+
+29.	Ogden CL, Carroll MD, McDowell MA, et al. Obesity among adults in the United States—no statistically significant chance since 2003-2004. NCHS Data Brief. 2007 Nov;(1):1-8. ↑
+
+30.	Zittermann A, Frisch S, Berthold HK, et al. Vitamin D supplementation enhances the beneficial effects of weight loss on cardiovascular disease risk markers. Am J Clin Nutr. 2009 May;89(5):1321-7. Epub 2009 Mar 25. ↑
+
+31.	Andersson P, Rydberg E, Willenheimer R. Primary hyperparathyroidism and heart disease—a review. Eur Heart J. 2004 Oct;25(20):1776-87. ↑
+
+32.	Sambrook PN, Chen JS, March LM, et al. Serum parathyroid hormone is associated with increased mortality independent of 25-hydroxy vitamin d status, bone mass, and renal function in the frail and very old: a cohort study. J Clin Endocrinol Metab. 2004 Nov;89(11):5477-81. ↑
+
+33.	Kamycheva E, Sundsfjord J, Jorde R. Serum parathyroid hormone levels predict coronary heart disease: the Tromsø Study. Eur J Cardiovasc Prev Rehabil. 2004 Feb;11(1):69-74. ↑
+
+34.	Schleithoff SS, Zittermann A, Tenderich G, et al. Vitamin D supplementation improves cytokine profiles in patients with congestive heart failure: a double-blind, randomized, placebo-controlled trial. Am J Clin Nutr. 2006 Apr;83(4):754-9. ↑
+
+35.	Woodward M, Welsh P, Rumley A, et al. Do inflammatory biomarkers add to the discrimination of cardiovascular disease after allowing for social deprivation? Results from a 10 year cohort study in Glasgow, Scotland. Eur Heart J. 2009 Apr 10. ↑
+
+36.	Dunlay SM, Weston SA, Redfield MM, et al. Tumor necrosis factor-alpha and mortality in heart failure: a community study. Circulation. 2008 Aug 5;118(6):625-31. ↑
+
+37.	Tuomisto K, Jousilahti P, Sundvall J, et al. C-reactive protein, interleukin-6 and tumor necrosis factor alpha as predictors of incident coronary and cardiovascular events and total mortality. A population-based, prospective study. Thromb Haemost. 2006 Mar;95(3):511-8. ↑
+
+38.	Zhang H, Park Y, Wu J, Chen X, et al. Role of TNF-alpha in vascular dysfunction. Clin Sci (Lond). 2009 Feb;116(3):219-30. ↑
+
+39.	Haug CJ, Aukrust P, Haug E, et al. Severe deficiency of 1,25-dihydroxyvitamin D3 in human immunodeficiency virus infection: association with immunological hyperactivity and only minor changes in calcium homeostasis. J Clin Endocrinol Metab. 1998 Nov;83(11):3832-8. ↑
+
+40.	Buraczynska M, Mierzicki P, Buraczynska K, et al. Tumor necrosis factor-alpha gene polymorphism correlates with cardiovascular disease in patients with end-stage renal disease. Mol Diagn Ther. 2007;11(4):257-63. ↑
+
+41.	Olivieri F, Antonicelli R, Cardelli M, et al. Genetic polymorphisms of inflammatory cytokines and myocardial infarction in the elderly. Mech Ageing Dev. 2006 Jun;127(6):552-9. Epub 2006 Mar 6. ↑
+
+42.	Lorgis L, Zeller M, Dentan G, et al. Prognostic value of N-terminal pro-brain natriuretic peptide in elderly people with acute myocardial infarction: prospective observational study. BMJ. 2009 May 6;338:b1605. [doi: 10.1136/bmj.b1605.](https://doi.org/10.1136/bmj.b1605.) ↑
+
+43.	Obineche EN, Saadi H, Benedict S, et al. Interrelationships between B-type natriuretic peptides and vitamin D in patients on maintenance peritoneal dialysis. Perit Dial Int. 2008 Nov-Dec;28(6):617-21. ↑
+
+44.	Matias PJ, Ferreira C, Jorge C, et al. 25-Hydroxyvitamin D3, arterial calcifications and cardiovascular risk markers in haemodialysis patients. Nephrol Dial Transplant. 2009 Feb;24(2):611-8. Epub 2008 Sep 4. ↑
+
+45.	Zittermann A, Schleithoff SS, Tenderich G, et al. Low vitamin D status: a contributing factor in the pathogenesis of congestive heart failure?. J Am Coll Cardiol. 2003 Jan 1;41(1):105-12. ↑
+
+46.	Chen S, Nakamura K, Gardner DG. 1,25-dihydroxyvitamin D inhibits human ANP gene promoter activity. Regul Pept. 2005 Jun 30;128(3):197-202. ↑
+
+47.	Nibbelink KA, Tishkoff DX, Hershey SD, et al. 1,25(OH)2-vitamin D3 actions on cell proliferation, size, gene expression, and receptor localization, in the HL-1 cardiac myocyte. J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):533-7. ↑
+
+48.	Koyama T, Hirosawa S. Anticoagulant effects of synthetic retinoids and activated vitamin D3. Semin Thromb Hemost. 1998;24(3):217-26. ↑
+
+49.	Ohsawa M, Koyama T, Yamamoto K, et al. 1alpha,25-dihydroxyvitamin D(3) and its potent synthetic analogs downregulate tissue factor and upregulate thrombomodulin expression in monocytic cells, counteracting the effects of tumor necrosis factor and oxidized LDL. Circulation. 2000 Dec 5;102(23):2867-72. ↑
+
+50.	Hiemstra TF. Are statins analogues of vitamin D?. Lancet. 2006 Oct 7;368(9543):1233. ↑
+
+51.	Bouillon R, Carmeliet G, Verlinden L, van Etten E, et al. Vitamin D and human health: lessons from vitamin D receptor null mice. Endocr Rev. 2008 Oct;29(6):726-76. ↑
+
+52.	Zhou C, Lu F, Cao K, Xu D, et al. Calcium-independent and 1,25(OH)2D3-dependent regulation of the renin-angiotensin system in 1alpha-hydroxylase knockout mice. Kidney Int. 2008 Jul;74(2):170-9. Epub 2008 Apr 2. ↑
+
+53.	Li YC. Vitamin D regulation of the renin-angiotensin system. J Cell Biochem. 2003;88:327–331. ↑
+
+54.	Ferrario CM, Strawn WB. Role of the renin-angiotensin-aldosterone system and proinflammatory mediators in cardiovascular disease. Am J Cardiol. 2006 Jul 1;98(1):121-8. ↑
+
+55.	Marx N, Walcher D. C-Peptide and atherogenesis: C-Peptide as a mediator of lesion development in patients with type 2 diabetes mellitus?.Exp Diabetes Res. 2008;2008:385108. ↑
+
+56.	Wu T, Willett WC, Giovannucci E. Plasma C-peptide is inversely associated with calcium intake in women and with plasma 25-hydroxy vitamin D in men. J Nutr. 2009 Mar;139(3):547-54. Epub 2009 Jan 13. ↑
+
+57.	Church TS, Thompson AM, Katzmarzyk PT, et al. Metabolic Syndrome and Diabetes, Alone and in Combination as Predictors of Cardiovascular Disease Mortality among Men. Diabetes Care. 2009 Apr 14. ↑
+
+58.	Huang PL. A comprehensive definition for metabolic syndrome. Dis Model Mech. 2009 May-Jun;2(5-6):231-7. ↑
+
+59.	Liu S, Song Y, Ford ES, et al. Dietary calcium, vitamin D, and the prevalence of metabolic syndrome in middle-aged and older U.S. women. Diabetes Care. 2005 Dec;28(12):2926-32. ↑
+
+60.	Jialal I, Devaraj S, Venugopal SK. C-reactive protein: risk factor or mediator in atherothrombosis. Hypertension. 2004; 44:6–11. ↑
+
+61.	Zittermann A, Scheleithoff SS, Koerfer R. Vitamin D insufficiency in congestive heart failure: why and what to do about it?. Heart Fail Rev. 2006 Mar;11(1):25-33. ↑
+
+62.	Timms PM, Mannan N, Hitman GA, et al. Circulating MMP9, vitamin D and variation in the TIMP-1 response with VDR genotype: mechanisms for inflammatory damage in chronic disorders?. QJM. 2002 Dec;95(12):787-96. ↑
+
+63.	Grimes D. Are statins analogues of vitamin D?. Lancet. 2006 Jul 1;368(9529):83-6. ↑
+
+64.	Brownbill RA, Ilich JZ. Lipid profile and bone paradox: higher serum lipids are associated with higher bone mineral density in postmenopausal women. J Womens Health (Larchmt). 2006 Apr;15(3):261-70. ↑
+
+65.	Delahaye F, Bruckert E, Thomas D, et al. <span>[Serum cholesterol and cancer. Is there a causal relationship?]</span>. Arch Mal Coeur Vaiss. 1992 Oct;85 Spec No 3:37-45. ↑
+
+66.	Pérez-Castrillón JL, Vega G, Abad L, et al. Effects of Atorvastatin on vitamin D levels in patients with acute ischemic heart disease. Am J Cardiol. 2007 Apr 1;99(7):903-5. ↑
+
+67.	Pérez-Castrillón JL, Abad L, Vega G, et al. Effect of atorvastatin on bone mineral density in patients with acute coronary syndrome. Eur Rev Med Pharmacol Sci. 2008 Mar-Apr;12(2):83-8. ↑
+
+68.	Michal G. Biochemical Pathways: an Atlas of Biochemistry and Molecular Biology. John Wiley & Sons, Inc. New York: 1999.p. 86; p. 120. ↑
+
+69.	Analysis of the implications of cholesterol synthesis, conversations and emails from Dr. Joseph Pizzorno, CEO, SaluGenecists, Inc., 5-12-09. ↑
+
+70.	Gupta AK, Sexton RC, Rudney H. Effects of vitamin D3 derivatives on cholesterol synthesis and HMG-CoA reductase activity in cultured cells. J Lipid Res. 1989;30:379 –386. ↑
+
+71.	Aloia JF, Patel M, Dimaano R, et al. Vitamin D intake to attain a desired serum 25-hydroxyvitamin D concentration. Am J Clin Nutr. 2008 Jun;87(6):1952-8. ↑
+
+72.	Heaney RP. Vitamin D: criteria for safety and efficacy. Nutr Rev. 2008 Oct;66(10 Suppl 2):S178-81. ↑
+
+73.	Bischoff-Ferrari HA, Willett WC, Wong JB, et al. Fracture prevention with vitamin D supplementation. JAMA. 2005 May 11;293(18):2257-64. ↑
+
+74.	Giovannucci E. The epidemiology of vitamin D and cancer incidence and mortality: a review (United States). Cancer Causes Control. 2005 Mar;16(2):83-95. ↑
+
+75.	Lappe JM, Travers-Gustafson D, Davies KM, et al. Vitamin D and calcium supplementation reduces cancer risk. Am J Clin Nutr. 2007 Jun;85(6):1586-91. ↑
+
+76.	Scragg R, Holdaway I, Singh V, et al. Serum 25-hydroxyvitamin D3 levels decreased in impaired glucose tolerance and diabetes mellitus.Diabetes Res Clin Pract. 1995 Mar;27(3):181-8. ↑
+
+77.	Grant WB, Garland CF, Gorham ED, Mohr SB. Paper 179061, presented Monday, October 27, 2008: 5:10 PM: How to reduce the burden of disease in the United States through increased vitamin D3. 136th APHA Annual Meeting & Exposition (October 25-29, 2008), San Diego, CA. Accessed online at. ↑
+
+http://apha.confex.com/apha/136am/webprogram/Paper179061.html
+
+78.	Hollis BW, Wagner CL, Drezner MK, et al. Circulating vitamin D3 and 25-hydroxyvitamin D in humans: An important tool to define adequate nutritional vitamin D statusCirculating vitamin D3 and 25-hydroxyvitamin D in humans: An important tool to define adequate nutritional vitamin D status. J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):631-4. ↑
+
+79.	Chowdhury TA, Boucher BJ, Hitman GA. Vitamin D and type 2 diabetes Is there a link?. Prim Care Diabetes. 2009 Apr 21. ↑
+
+80.	Blum M, Dolnikowski G, Seyoum E, et al. Vitamin D(3) in fat tissue. Endocrine. 2008 Feb;33(1):90-4. ↑
+
+81.	McGill AT, Stewart JM, Lithander FE, et al. Relationships of low serum vitamin D3 with anthropometry and markers of the metabolic syndrome and diabetes in overweight and obesity. Nutr J. 008 Jan 28;7:4. ↑
+
+82.	Vilarrasa N, Maravall J, Estepa A, et al. Low 25-hydroxyvitamin D concentrations in obese women: their clinical significance and relationship with anthropometric and body composition variables. J Endocrinol Invest. 2007 Sep;30(8):653-8. ↑
+
+83.	Rodríguez-Rodríguez E, Navia B, López-Sobaler AM, et al. Vitamin d in overweight/obese women and its relationship with dietetic and anthropometric variables. Obesity (Silver Spring). 2009 Apr;17(4):778-82. ↑
+
+84.	Looker AC, Pfeiffer CM, Lacher DA, et al. Serum 25-hydroxyvitamin D status of the US population: 1988-1994 compared with 2000-2004. Am J Clin Nutr. 2008 Dec;88(6):1519-27. ↑
+
+85.	Dawson-Hughes B. Racial/ethnic considerations in making recommendations for vitamin D for adult and elderly men and women. Am J Clin Nutr. 2004 Dec;80(6 Suppl):1763S-6S. ↑
+
+86.	Harris SS. Vitamin D and African Americans. J Nutr. 2006 Apr;136(4):1126-9. ↑
+
+87.	Rostand SG. Ultraviolet light may contribute to geographic and racial blood pressure differences. Hypertension. 1997 Aug;30(2 Pt 1):150-6. ↑
+
+88.	Scragg R, Sowers M, Bell C. Serum 25-hydroxyvitamin D, ethnicity, and blood pressure in the Third National Health and Nutrition Examination Survey. Am J Hypertens. 2007 Jul;20(7):713-9. ↑
+
+89.	Mosekilde L. Vitamin D and the elderly. Clin Endocrinol (Oxf). 2005 Mar;62(3):265-81. ↑
+
+90.	Pilz S, Dobnig H, Nijpels G, et a. Vitamin D and mortality in older men and women. Clin Endocrinol (Oxf). 2009 Feb 18. ↑
+
+91.	Cannell JJ. Am I Vitamin D Deficient?. Accessed online May 5, 2009. ↑
+
+http://www.vitamindcouncil.org/health/deficiency/am-i-vitamin-d-deficient.shtml
+
+92.	Vieth R. Vitamin D and Cancer Mini-Symposium: The Risk of Additional Vitamin D. Ann Epidemiol. 2009 Apr 11. <span>[Epub ahead of print]</span> PMID: 19364661. ↑
+
+93.	Kimball SM, Ursell MR, O’Connor P, Vieth R. Safety of vitamin D3 in adults with multiple sclerosis. Am J Clin Nutr. 2007; 86(3):645-51. ↑
+
+#### About Lara Pizzorno
+
+Lara Pizzorno, MDiv, MA, LMT A member of the American Medical Writers Association with 25+ years of experience writing for physicians and the public, Lara is Editor of Longevity Medicine Review as well as Senior Medical Editor for SaluGenecists, Inc. Recent publications include: Your Bones (Praktikos, April 2011), contributing author to the Textbook of Functional Medicine, (IFM, 2006), articles for Integrative Medicine: A Clinician's Journal (Innovisions Communications, Inc., 2005 through present), and Textbook of Natural Medicine (Elsevier, 2005, e-dition through present); lead author of Natural Medicine Instructions for Patients (Elsevier, 2002); co-author of The Encyclopedia of Healing Foods (Scribner’s, 2005); and editor, The World's Healthiest Foods Essential Guide for the healthiest way of eating (George Mateljan Foundation, 2006 through present). In addition to reviewing the latest in longevity research for clinicians, Lara summarizes health & nutrition research for the Textbook of Natural Medicine e-dition, The World's Healthiest Foods (www.whfoods.org), and Dr. Joseph Pizzorno's blog as WebMD's Integrative Medicine & Wellness Expert. Lara graduated Phi Beta Kappa, magna cum laude from Wheaton College (Norton, MA, 1970), received her Master's in Religious Studies with Honors from Yale Divinity School (New Haven, CT, 1973), Master's in Literature from the University of Washington (Seattle, 1986), and has been a licensed massage therapist since 1986. Avocations include Pilates, motorcycling, organic gardening, healthy cooking.

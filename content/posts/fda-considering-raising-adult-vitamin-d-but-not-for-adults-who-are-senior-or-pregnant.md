@@ -25,7 +25,7 @@
 
 #### <span style="color:#F00;">Update 2015 - FDA took no action</span>
 
-#### Update <a href="/posts/1200-iu-of-vitamin-d-now-recommended-if-you-consume-3000-calories-daily-fda-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 1,200 IU of Vitamin D now recommended if you consume 3,000 calories daily (FDA) – 2018">1,200 IU of Vitamin D now recommended if you consume 3,000 calories daily (FDA) – 2018</a>
+#### Update [1,200 IU of Vitamin D now recommended if you consume 3,000 calories daily (FDA) – 2018](/posts/1200-iu-of-vitamin-d-now-recommended-if-you-consume-3000-calories-daily-fda-2018)
 
 ### [Nutrition Labels Get a Facelift to Reflect Reality](http://abcnews.go.com/blogs/health/2014/02/27/nutrition-labels-get-a-facelift-to-reflect-reality/) ABC News
 
@@ -49,16 +49,16 @@ Children
 	Pregnant and  
  lactating women
 
-<a href="/posts/iom-again-fails-to-look-at-interactions" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: IoM again fails to look at interactions - Nov 2010">IoM 2010</a>| 600 IU  
+[IoM 2010](/posts/iom-again-fails-to-look-at-interactions)| 600 IU  
 800 IU > age 70| - |600 IU| 600 IU
 
 [FDA proposed 2014](https://www.federalregister.gov/articles/2014/03/03/2014-04387/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels#page-11971) |800 IU|	400 IU|600 IU	|600 IU||
 
- **FDA should have also raised the RDA for <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Seniors</a>** 
+ **FDA should have also raised the RDA for [Seniors](/posts/overview-seniors-and-vitamin-d)** 
 
  **<span style="color:#F00;">FDA appears to consider an ADULT who gets pregnant needs LESS vitamin D</span>** 
 
- **&nbsp; &nbsp;while <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">studies</a> have shown the pregnancy requires MORE vitamin D** 
+ **&nbsp; &nbsp;while [studies](/posts/overview-pregnancy-and-vitamin-d) have shown the pregnancy requires MORE vitamin D** 
 
  **[Also  in the Federal Register](https://www.federalregister.gov/articles/2014/03/03/2014-04387/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels#page-11931)** 
 

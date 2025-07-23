@@ -32,6 +32,6 @@ Both Mercola and Biotech are "probably" easier to take for people with poor guts
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a>
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
 > includes forms for poor gut, vegan, etc,

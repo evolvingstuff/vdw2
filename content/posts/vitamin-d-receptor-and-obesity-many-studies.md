@@ -57,7 +57,7 @@
 
 #### Obesity in 700 young males associated with a poor Vitamin D Receptor – Jan 2018
 
-* <a href="/posts/obesity-in-700-young-adults-associated-with-a-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity in 700 young adults associated with a poor Vitamin D Receptor – Jan 2018">Obesity in 700 young adults associated with a poor Vitamin D Receptor – Jan 2018</a>
+* [Obesity in 700 young adults associated with a poor Vitamin D Receptor – Jan 2018](/posts/obesity-in-700-young-adults-associated-with-a-poor-vitamin-d-receptor)
 
 ---
 

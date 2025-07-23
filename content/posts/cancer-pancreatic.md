@@ -15,7 +15,6 @@
         "Category",
         "IBD",
         "Pancreatic Cancer",
-        "bariatric surgery",
         "cancer",
         "cancer in VDR",
         "diabetes",
@@ -30,7 +29,6 @@
         "obesity and vitamin d receptor",
         "pancreatic cancer",
         "pancreatitis",
-        "trauma surgery",
         "type 1 diabetes",
         "vitamin d",
         "vitamin d receptor",
@@ -45,13 +43,13 @@
 
 #### Vitamin D Receptor and Cancer (81+ studies)
 
-* <a href="/posts/the-role-of-resveratrol-in-cancer-therapy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The Role of Resveratrol in Cancer Therapy – Dec 2017">The Role of Resveratrol in Cancer Therapy – Dec 2017</a>
+* [The Role of Resveratrol in Cancer Therapy – Dec 2017](/posts/the-role-of-resveratrol-in-cancer-therapy)
 
-* <a href="/posts/needing-a-high-level-of-vitamin-d-is-a-good-clue-that-the-vitamin-d-receptor-is-deactivated" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Needing a high level of vitamin D is a good clue that the Vitamin D Receptor is deactivated">Needing a high level of vitamin D is a good clue that the Vitamin D Receptor is deactivated</a>
+* [Needing a high level of vitamin D is a good clue that the Vitamin D Receptor is deactivated](/posts/needing-a-high-level-of-vitamin-d-is-a-good-clue-that-the-vitamin-d-receptor-is-deactivated)
 
-* <a href="/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019">A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019</a>
+* [A poor Vitamin D Receptor is associated with many cancers (oral cancer in this case) – Jan 2019](/posts/a-poor-vitamin-d-receptor-is-associated-with-many-cancers-oral-cancer-in-this-case)
 
-* <a href="/posts/cancer-and-the-vitamin-d-receptor-a-primer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer and the Vitamin D Receptor, a primer – Sept 2017">Cancer and the Vitamin D Receptor, a primer – Sept 2017</a>
+* [Cancer and the Vitamin D Receptor, a primer – Sept 2017](/posts/cancer-and-the-vitamin-d-receptor-a-primer)
 
 ---
 
@@ -73,15 +71,15 @@ Note: Many of the nutrients on this page that fight Pancreatic Cancer stop this 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/pc-risk-factors-bar-charts.jpg" alt="image" width="800">
 
-a) Type 2 diabetes mellitus  [See also VitaminDWiki](/categories/diabetes)
+a) Type 2 diabetes mellitus  [See also VitaminDWiki](/tags/see-also-vitamindwiki.html)
 
-b) Unspecified jaundice  **(good risk factor in DK) &nbsp; see also: <a href="/posts/jaundice-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Jaundice and vitamin D">Jaundice and vitamin D</a>** 
+b) Unspecified jaundice  **(good risk factor in DK) &nbsp; see also: [Jaundice and vitamin D](/posts/jaundice-and-vitamin-d)** 
 
 c) Hypercholesterolemia
 
 d) Acute pancreatitis
 
-e) Type 1 diabetes mellitus  **(good risk factor in US)**  [See also VitaminDWiki](/categories/diabetes)
+e) Type 1 diabetes mellitus  **(good risk factor in US)**  [See also VitaminDWiki](/tags/see-also-vitamindwiki.html)
 
 f) Other diseases of the pancreas
 
@@ -89,7 +87,7 @@ g) Obesity
 
 h) Malignant neoplasm in other and unspecified parts of bile ducts
 
-i) Inflammatory bowel disease <a href="/posts/vitamin-d-interactions-with-poor-gut-celiac-ibd-and-bariatric-surgery-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D interactions with poor gut (Celiac, IBD, and Bariatric surgery) – several studies">See also  VitaminDWiki</a>
+i) Inflammatory bowel disease [See also  VitaminDWiki](/posts/vitamin-d-interactions-with-poor-gut-celiac-ibd-and-bariatric-surgery-several-studies)
 
 j) Weight loss and other food intake problems
 

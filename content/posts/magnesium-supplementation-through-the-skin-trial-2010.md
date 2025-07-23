@@ -34,7 +34,7 @@ Daily spraying  **20 times**  of Magnesium oil on skin along with twice-a-week f
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 > Includes types, bioavailability, benefits, how much,   **<span style="color:#00F;">book on Transdermal Magensium</span>** 
 

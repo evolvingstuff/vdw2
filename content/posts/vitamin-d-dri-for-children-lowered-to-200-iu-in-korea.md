@@ -63,15 +63,15 @@ When visiting Korea in 2011 the largest Vitamin D capsule I could find was 40 IU
 
 #### See also VitaminDWiki
 
-* <a href="/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: South Koreans - half take supplements, Vitamin D levels dropping, COVID-19">South Koreans - half take supplements, Vitamin D levels dropping, COVID-19</a>
+* [South Koreans - half take supplements, Vitamin D levels dropping, COVID-19](/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
 * [Korea proposes vitamin D of 20 ng, but notes 20ng increases osteo by 50 percent – Oct 2012](/posts/korea-proposes-vitamin-d-of-20-ng-but-notes-20ng-increases-osteo-by-50-percent)
 
-* <a href="/posts/70-percent-of-koreans-in-their-twenties-had-less-than-20ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 70 percent of Koreans in their twenties had less than 20ng of vitamin D – Dec 2010">70 percent of Koreans in their twenties had less than 20ng of vitamin D – Dec 2010</a>
+* [70 percent of Koreans in their twenties had less than 20ng of vitamin D – Dec 2010](/posts/70-percent-of-koreans-in-their-twenties-had-less-than-20ng-of-vitamin-d)
 
-* <a href="/posts/virtually-all-young-koreans-had-less-than-30-ng-of-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Virtually all young Koreans had less than 30 ng of vitamin D – 2012">Virtually all young Koreans had less than 30 ng of vitamin D – 2012</a>
+* [Virtually all young Koreans had less than 30 ng of vitamin D – 2012](/posts/virtually-all-young-koreans-had-less-than-30-ng-of-vitamin-d-2012)
 
 * [Breastfed infants: 90 percent had less than 20 ng of vitamin D, formula-fed: 15 percent – May 2013](/posts/breastfed-infants-90-percent-had-less-than-20-ng-of-vitamin-d-formula-fed-15-percent) Korea
 

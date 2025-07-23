@@ -43,31 +43,31 @@ No mention of vitamin D in the article
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
-* <a href="/posts/having-twins-takes-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having twins takes more vitamin D - May 2011">Having twins takes more vitamin D - May 2011</a>
+* [Having twins takes more vitamin D - May 2011](/posts/having-twins-takes-more-vitamin-d)
 
 * [Premature birth 2.5X more likely if mother had low vitamin D and was having twins – July 2013](/posts/premature-birth-25x-more-likely-if-mother-had-low-vitamin-d-and-was-having-twins)
 
 * [Air pollution while pregnant reduced vitamin D level in infant – Aug 2012](/posts/air-pollution-while-pregnant-reduced-vitamin-d-level-in-infant)
 
-* <a href="/posts/risk-of-cesarean-2x-higher-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of Cesarean 2X higher if low vitamin D – April 2012">Risk of Cesarean 2X higher if low vitamin D – April 2012</a> 
+* [Risk of Cesarean 2X higher if low vitamin D – April 2012](/posts/risk-of-cesarean-2x-higher-if-low-vitamin-d) 
 
    * Cesarean  was mentioned in the text of the NY Times article
 
 * [Depression 50 percent more likely if low vitamin D in early pregnancy – Aug 2012](/posts/depression-50-percent-more-likely-if-low-vitamin-d-in-early-pregnancy)
 
-* <a href="/posts/smoking-while-pregnant-lowers-vitamin-d-and-increases-child-asthma-by-36-x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking while pregnant lowers vitamin D and increases child asthma by 3.6 X – Aug 2011">Smoking while pregnant lowers vitamin D and increases child asthma by 3.6 X – Aug 2011</a> 
+* [Smoking while pregnant lowers vitamin D and increases child asthma by 3.6 X – Aug 2011](/posts/smoking-while-pregnant-lowers-vitamin-d-and-increases-child-asthma-by-36-x) 
 
    * Smoking was not mentioned in the NY Times article
 
-* [Genetics](/categories/genetics) category listing - strong interaction between Genetics and low vitamin D, 
+* [Genetics](/tags/genetics.html) category listing - strong interaction between Genetics and low vitamin D, 
 
    * author of NYT article believes that Genetics may be the strongest link to Autism
 
 * [Autistic measure 5X more likely if low vitamin D in second trimester – Oct 2012](/posts/autistic-measure-5x-more-likely-if-low-vitamin-d-in-second-trimester)
 
-* <a href="/posts/autism-3x-more-likely-after-closely-spaced-pregnancy-vs-3-year-apart" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism 3X more likely after closely spaced pregnancy vs 3 year apart– Jan 2011">Autism 3X more likely after closely spaced pregnancy vs 3 year apart– Jan 2011</a>
+* [Autism 3X more likely after closely spaced pregnancy vs 3 year apart– Jan 2011](/posts/autism-3x-more-likely-after-closely-spaced-pregnancy-vs-3-year-apart)
 
 ---
 

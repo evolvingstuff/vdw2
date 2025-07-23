@@ -41,7 +41,7 @@ Finally, the authors discuss how courts should properly assess, use, and limit m
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
-* <a href="/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019">Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019</a>
+* [Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019](/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc)
 
 * [Child abuse, vitamin D deficiency, or what - for parents and defense attorneys - Cannell June 2015](/posts/child-abuse-vitamin-d-deficiency-or-what-for-parents-and-defense-attorneys-cannell)
 

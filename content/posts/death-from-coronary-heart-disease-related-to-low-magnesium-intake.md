@@ -120,13 +120,13 @@ PMID:     23537810
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-might-deal-with-atherosclerosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D might deal with atherosclerosis – Jan 2011">Vitamin D might deal with atherosclerosis – Jan 2011</a>
+* [Vitamin D might deal with atherosclerosis – Jan 2011](/posts/vitamin-d-might-deal-with-atherosclerosis)
 
-* <a href="/posts/atherosclerosis-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atherosclerosis associated with low vitamin D – June 2011">Atherosclerosis associated with low vitamin D – June 2011</a>
+* [Atherosclerosis associated with low vitamin D – June 2011](/posts/atherosclerosis-associated-with-low-vitamin-d)
 
 * [Magnesium prevents cardiovascular events – Meta-analysis March 2013](/posts/magnesium-prevents-cardiovascular-events-meta-analysis)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> which has the following table
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) which has the following table
 
  **<span style="color:#00F;">Magnesium</span> and <span style="color:#090;">Vitamin D </span> are synergistic, that is, increasing one helps the other.** 
 

@@ -47,15 +47,15 @@ B. Andersson, D. Swolin-Eide, B. Kriström, L. Gelander, P. Magnusson, K. Albert
 
 * [Search VitaminDWiki for “GROWTH HORMONE”](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=polar&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 176 items as of March 2018
 
-* <a href="/posts/growth-hormone-treatment-raised-vitamin-d-levels-by-16-ng-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Growth Hormone treatment raised vitamin D levels by 16 ng – 2018">Growth Hormone treatment raised vitamin D levels by 16 ng – 2018</a>
+* [Growth Hormone treatment raised vitamin D levels by 16 ng – 2018](/posts/growth-hormone-treatment-raised-vitamin-d-levels-by-16-ng-2018)
 
 * [Growth Hormone problem (Acromegaly) more likely if vitamin D gene problems](/posts/growth-hormone-problem-acromegaly-more-likely-if-vitamin-d-gene-problems)
 
-* <a href="/posts/increased-growth-factors-with-vitamin-d-and-vitamin-k2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased growth factors with vitamin D and Vitamin K2 – May 2012">Increased growth factors with vitamin D and Vitamin K2 – May 2012</a>
+* [Increased growth factors with vitamin D and Vitamin K2 – May 2012](/posts/increased-growth-factors-with-vitamin-d-and-vitamin-k2)
 
 * [Human grown hormone (IGF1) in seniors greatly increased with 7,000 IU of vitamin D – Sept 2013](/posts/human-grown-hormone-igf1-in-seniors-greatly-increased-with-7000-iu-of-vitamin-d)
 
-* <a href="/posts/growth-hormone-deficiency-treated-by-treating-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Growth Hormone Deficiency treated by treating Vitamin D Deficiency – March 2019">Growth Hormone Deficiency treated by treating Vitamin D Deficiency – March 2019</a>
+* [Growth Hormone Deficiency treated by treating Vitamin D Deficiency – March 2019](/posts/growth-hormone-deficiency-treated-by-treating-vitamin-d-deficiency)
 
 * [Growth Hormone treatment raised vitamin D levels – May 2014](/posts/growth-hormone-treatment-raised-vitamin-d-levels) summary by VitaminDWiki
 

@@ -52,13 +52,13 @@ Mario Olivieri1, Carlo Alberto Biscardo1, Dario Valenza1 and Giuseppe Verlato2
 
 * [Shift work increases breast cancer risk by 22 percent (Vitamin D is 1 of 5 possible ways) – Oct 2013](/posts/shift-work-increases-breast-cancer-risk-by-22-percent-vitamin-d-is-1-of-5-possible-ways)
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
 * [Shift work](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=559) PDF file
 
 * [Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012](/posts/shift-workers-23-percent-more-likely-to-have-cardiovascular-events-meta-analysis)
 
-*  **<a href="/posts/shiftwork-diseases-are-often-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shiftwork diseases are often due to lack of vitamin D">Shiftwork diseases are often due to lack of vitamin D</a>**  has the following chart
+*  **[Shiftwork diseases are often due to lack of vitamin D](/posts/shiftwork-diseases-are-often-due-to-lack-of-vitamin-d)**  has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/shiftwork-disease.gif" alt="image" style="max-width: 600px;">
 

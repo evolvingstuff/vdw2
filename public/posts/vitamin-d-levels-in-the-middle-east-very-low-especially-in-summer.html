@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D levels in the Middle East: very low, especially in summer</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D levels in the Middle East: very low, especially in summer</h1><time>June 21, 2012</time><div data-pagefind-body><h1 id=vitamin-d-deficiency-in-middle-east>Vitamin D Deficiency in Middle East</h1><p>Endocr Rev, Vol. 33 (03_MeetingAbstracts): MON-347</p><p>Copyright © 2012 by The Endocrine Society ENDO 2012: June 23-26, 2012, Houston, Texas</p><p>Nishanth Sanalkumar, MBBS, MD, FACE1, Priya Sreekumaran Nair, MBBS, DCH, DNB2 and Srinivas Bontha, MBBS, MD, MRCP1</p><p>1 Endocrinology and Diabetes, Al Zahra Hospital Sharjah, United Arab Emirates</p><p>2 Pediatrics, Dr Sunny Medical Center Sharjah, United Arab Emirates</p><p>Despite ample sunshine,Vitamin D deficiency is reported from several countries in middle east(1). We describe the prevalence of vitamin D deficiency in patients who were seen in the outpatient clinics of Al Zahra Hospital, Sharjah, UAE over a period of 14 months.</p><p>Methods: We analyzed the demographic profile of all patients who had 25-hydroxy vitamin D (25<span>[OH]</span>D) levels tested at the Al Zahra hospital, Sharjah from January 2010 to February 2011.Severity of vitamin D deficiency was determined based on the serum 25<span>[OH]</span>D level.Total 25<span>[OH]</span>D level in serum was measured using Diasorin chemiluminescence assay (normal range 75-200 nmol/L).Vitamin D deficiency was defined as 25<span>[OH]</span>D levels below 50 nmol/L (20 ng/mL). Levels between 50-75 nmol/L (20-30 ng/mL)was taken as vitamin D insufficiency and above 75 nmol/L (30 ng/mL), normal. Patients with 25<span>[OH]</span>D levels below 25 nmol/L (10 ng/mL) were considered to have severe vitamin D deficiency.The mean 25<span>[OH]</span>D levels in different nationalities, age groups and in men and women were compared.Statistical analysis was done using SPSS 10.0 statistical software.</p><p>Results: Serum 25<span>[OH]</span>D levels were available for 3449 patients. Mean age(±SD) of the population tested was 38.6 ±13.4 years. Male to female ratio was 1:3.</p><p><strong><span style=color:#00f>{Wonder: are there so many women in the Middle East hospitals due to such low levels of vitamin D?}</span></strong></p><p>More than 60 nationalities were represented and were divided into 5 groups – UAE nationals, Non UAE Arabs, Caucasians, South Asians, Others.</p><p>The mean (±SD) 25<span>[OH]</span>D level was 30.34 ± 18.09 nmol/L.</p><p>Only 111 patients (3.2%) had normal vitamin D levels.</p><p><strong><span style=color:#00f>{97% have less than 30 ng}</span></strong></p><p>Vitamin D insufficiency was present in 399 patients (11.6%) and</p><p>deficiency in 2939 patients (85.2%).</p><p>Nearly half of all the patients tested had <strong>severe vitamin D deficiency</strong> (n 1629; 47.2%).</p><p>The 25 <span>[OH]</span>D level was low in both sexes, but it was significantly lower in females compared with males (29.5±18.3 vs 33.5±16.9 nmol/L).</p><p><strong><span style=color:#00f>{probably due to very conservative clothing}</span></strong></p><p>Mean 25<span>[OH]</span>D level was <strong>below normal</strong> in all nationalities, but was lowest in UAE nationals (27.29nmol/L) and highest in Caucasians (39.97 nmol/L).</p><p>Vitamin D level was low across all ages.</p><p>It was relatively better in the first decade (45.8nmol/L).</p><p>Mean 25<span>[OH]</span>D levels were higher in January to June period compared with July-December.</p><p><strong><span style=color:#00f>{They REALLY avoid the hot summer sun}</span></strong></p><p>Conclusion: Vitamin D deficiency, including severe vitamin D deficiency, is very common in Sharjah.</p><p>Daily supplementation with 400-800 IU of vitamin D is recommended for prophylaxis(2), but higher doses may be needed to keep the 25<span>[OH]</span>D levels above 75 nmol/L.</p><p>(1)The Middle East and Africa Regional Audit. The Epidemiology, cost and burden of Osteoporosis in 2011. <a href=https://www.iofbonehealth.org>www.iofbonehealth.org</a>. (2)Holick MF, Binkley NC, Heike A. Evaluation, Treatment and Prevention of Vitamin D deficiency. J Clin Endocrinol Metab July 2011, 96(7) 1911-30.</p><p>Nothing to Disclose: NS, PSN, SB</p><p>– – – – – – – – – – – –</p><h2 id=by-vitamindwiki>By VitaminDWiki</h2><p><strong><span style=color:#00f>People with darker skin typically have lower levels of D</span></strong></p><ol><li><p>Dark skin produces less vitamin D per minute than white</p></li><li><p>People with dark skin often want to have lighter skin – so avoid the sun</p></li><li><p>People with dark skin do not feel that they need to tan – so do not seek out the sun</p></li></ol><p><strong><span style=color:#00f>The average person in Turkey probably has somewhat more vitamin D for at least two reasons</span></strong></p><ol><li><p>Patients in the hospital may have been inside for many days – not getting any sun</p></li><li><p>Surgery, trauma, and various diseases which have vicious circles with vitamin D - all decrease the levels of vitamin D</p></li></ol><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/tags/sun-is-too-hot-in-dubai.html>Sun is too hot in Dubai</a></p></li><li><p><a href=/posts/vitamin-d-in-blood-is-higher-in-winter-than-summer-in-middle-east>Vitamin D in blood is higher in winter than summer – in Middle-East Sept 2011</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/middle-east.html><span class=tag>Middle East</span></a>
+<a href=/tags/osteoporosis.html><span class=tag>osteoporosis</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>blood levels, bone, diabetes, dosage, metabolic, Middle East, osteoporosis, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

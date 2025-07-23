@@ -20,7 +20,7 @@
 
 [Search for Phosphorus on VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=phosophrus&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 499 pages June 2013
 
-<a href="/posts/vitamin-d-increased-absorption-of-phosphorus-and-calcium-in-steers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D increased absorption of Phosphorus and Calcium in steers – April 2012">Vitamin D increased absorption of Phosphorus and Calcium in steers – April 2012</a>
+[Vitamin D increased absorption of Phosphorus and Calcium in steers – April 2012](/posts/vitamin-d-increased-absorption-of-phosphorus-and-calcium-in-steers)
 
 ### Some images from VitaminDWiki and Google Images
 

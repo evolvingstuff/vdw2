@@ -51,13 +51,13 @@ Greatest risk reduction with Vitamin D in the range 21 to 36  nanograms
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-lung-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Lung cancer and vitamin D">Overview Lung cancer and vitamin D</a>
+* [Overview Lung cancer and vitamin D](/posts/overview-lung-cancer-and-vitamin-d)
 
 * [Lung Cancer less likely if vitamin D (higher level or supplement) – meta-analysis May 2015](/posts/lung-cancer-less-likely-if-vitamin-d-higher-level-or-supplement-meta-analysis)
 
-* <a href="/posts/lung-cancer-decreased-by-75-percent-for-every-1260-feet-in-altitude" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 153">Lung cancer decreased by  **7.5%**  for every 1260 feet in altitude</a>
+* [Lung cancer decreased by  **7.5%**  for every 1260 feet in altitude](/tags/lung-cancer-decreased-by-75-for-every-1260-feet-in-altitude.html)
 
-* <a href="/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011">Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011</a> 
+* [Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011](/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d) 
 
 > has the following chart
 

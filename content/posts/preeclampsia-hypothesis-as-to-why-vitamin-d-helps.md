@@ -61,7 +61,7 @@ A randomized prospective clinical study performed on a group of 74 pregnant wome
 
 ## See also VitaminDWiki
 
-* <a href="/posts/risk-of-preeclampsia-might-be-cut-in-half-if-take-an-amount-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017">Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017</a>
+* [Risk of preeclampsia might be cut in half if take an amount of Vitamin D – meta-analysis Sept 2017](/posts/risk-of-preeclampsia-might-be-cut-in-half-if-take-an-amount-of-vitamin-d-meta-analysis)
 
 * [Preeclampsia was prevented or treated by vitamin D in majority of studies – review May 2015](/posts/preeclampsia-was-prevented-or-treated-by-vitamin-d-in-majority-of-studies-review)
 

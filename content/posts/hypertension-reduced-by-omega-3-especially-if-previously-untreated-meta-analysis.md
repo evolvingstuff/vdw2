@@ -48,13 +48,13 @@ Each of them improve health and they appear to be synegistic (help each other)
 
 * [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Hypertension 1.5X more likely if low level of Magnesium - Oct 2014](/posts/hypertension-15x-more-likely-if-low-level-of-magnesium)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a>
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic)
 
 * [I use Vectomega brand of Omega-3 – Admin of VitaminDWiki, May 2014](/posts/i-use-vectomega-brand-of-omega-3-admin-of-vitamindwiki) 
 

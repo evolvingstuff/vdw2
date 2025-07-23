@@ -109,9 +109,9 @@ PMID: 27571093 DOI: 10.3390/ijerph13090850
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-thyroid-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Thyroid and Vitamin D">Overview Thyroid and Vitamin D</a>
+* [Overview Thyroid and Vitamin D](/posts/overview-thyroid-and-vitamin-d)
 
-* <a href="/posts/hashimotos-thyroiditis-and-vitamin-d-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hashimoto's Thyroiditis and Vitamin D - multiple studies">Hashimoto's Thyroiditis and Vitamin D - multiple studies</a>
+* [Hashimoto's Thyroiditis and Vitamin D - multiple studies](/posts/hashimotos-thyroiditis-and-vitamin-d-multiple-studies)
 
 * [Autoimmune Thyroid Disease 2X more likely if low vitamin D – Dec 2013](/posts/autoimmune-thyroid-disease-2x-more-likely-if-low-vitamin-d)
 

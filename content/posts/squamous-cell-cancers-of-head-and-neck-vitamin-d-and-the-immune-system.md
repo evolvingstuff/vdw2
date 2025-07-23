@@ -48,9 +48,9 @@ These cells are the main part of the epidermis of the skin, and this cancer is o
 
 ## See also VitaminDWiki
 
-* <a href="/posts/head-and-neck-cancer-associated-with-low-vitamin-d-especially-with-blacks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Head and Neck Cancer associated with low vitamin D, especially with blacks - April 2012">Head and Neck Cancer associated with low vitamin D, especially with blacks - April 2012</a>
+* [Head and Neck Cancer associated with low vitamin D, especially with blacks - April 2012](/posts/head-and-neck-cancer-associated-with-low-vitamin-d-especially-with-blacks)
 
-* <a href="/posts/head-and-neck-cancer-occurrence-and-deaths-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Head and neck cancer occurrence and deaths associated with low vitamin D – Aug 2011">Head and neck cancer occurrence and deaths associated with low vitamin D – Aug 2011</a>
+* [Head and neck cancer occurrence and deaths associated with low vitamin D – Aug 2011](/posts/head-and-neck-cancer-occurrence-and-deaths-associated-with-low-vitamin-d)
 
 * [Thin epidermis under skin cancer was thickened when vitamin D was raised to 70 ng – April 2014](/posts/thin-epidermis-under-skin-cancer-was-thickened-when-vitamin-d-was-raised-to-70-ng)
 

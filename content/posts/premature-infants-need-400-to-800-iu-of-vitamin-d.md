@@ -233,4 +233,4 @@ PMID: 26958695
 
 #### Premature infants getting 800-1000 IU of vitamin D were much healthier – March 2017
 
-<a href="/posts/premature-infants-30-weeks-who-got-800-1000-iu-of-vitamin-d-were-much-healthier" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Premature infants (30 weeks) who got 800-1000 IU of vitamin D were much healthier – March 2017">Premature infants (30 weeks) who got 800-1000 IU of vitamin D were much healthier – March 2017</a>
+[Premature infants (30 weeks) who got 800-1000 IU of vitamin D were much healthier – March 2017](/posts/premature-infants-30-weeks-who-got-800-1000-iu-of-vitamin-d-were-much-healthier)

@@ -51,4 +51,4 @@ PMID:     21610497 [ **<span style="color:#090;">full text online</span>** ](htt
 
 # See also VitaminDWiki
 
-* <a href="/posts/cyp24a1-enzyme-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1447">CYP24A1 enzyme and Vitamin D</a>
+* [CYP24A1 enzyme and Vitamin D](/tags/cyp24a1-enzyme-and-vitamin-d.html)

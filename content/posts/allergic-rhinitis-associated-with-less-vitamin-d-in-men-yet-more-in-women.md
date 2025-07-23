@@ -64,7 +64,7 @@ PMID: 24467227
 
 * [Allergic rhinitis 56 percent more likely if low vitamin D – Nov 2013](/posts/allergic-rhinitis-56-percent-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/being-told-you-have-allergies-is-associated-with-less-than-10-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Being told you have allergies is associated with less than 10 ng vitamin D – Nov 2011">Being told you have allergies is associated with less than 10 ng vitamin D – Nov 2011</a>
+* [Being told you have allergies is associated with less than 10 ng vitamin D – Nov 2011](/posts/being-told-you-have-allergies-is-associated-with-less-than-10-ng-vitamin-d)
 
 ## See also web
 

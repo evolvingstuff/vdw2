@@ -30,7 +30,7 @@ This is not the current consensus opinion, but may be correct
 
 * [Topical Vitamin D](/posts/topical-vitamin-d)
 
-* <a href="/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies">Topical Vitamin D provides more benefits than oral sometimes - many studies</a>
+* [Topical Vitamin D provides more benefits than oral sometimes - many studies](/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies)
 
 * [Search VitaminDWiki for TOPICAL](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=topical&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 404 items as of Oct 2015
 
@@ -56,7 +56,7 @@ The following are the graphics from a 2-3 page article
 
  **References** 
 
-* 1. Ruth E. Grossmann. (2010). Evaluation of vehicle substances on vitamin D bioavailability: A systematic review. Mol Nutr Food Res. 54 (8), 1055-1061.&nbsp; &nbsp; in VitaminDWiki <a href="/posts/review-of-bioavailability-of-vitamin-d-oil-aprox-2-ng-per-100-iu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of bioavailability of vitamin D - oil aprox 2 ng per 100 IU Sept 2010">Review of bioavailability of vitamin D - oil aprox 2 ng per 100 IU Sept 2010</a>
+* 1. Ruth E. Grossmann. (2010). Evaluation of vehicle substances on vitamin D bioavailability: A systematic review. Mol Nutr Food Res. 54 (8), 1055-1061.&nbsp; &nbsp; in VitaminDWiki [Review of bioavailability of vitamin D - oil aprox 2 ng per 100 IU Sept 2010](/posts/review-of-bioavailability-of-vitamin-d-oil-aprox-2-ng-per-100-iu)
 
 * 2. Mir Sadat-Ali. (2014). Topical Delivery of Vitamin D3: A Randomized Controlled Pilot Study. Int J Biomed Sci. 10 (1), 21-24.
 

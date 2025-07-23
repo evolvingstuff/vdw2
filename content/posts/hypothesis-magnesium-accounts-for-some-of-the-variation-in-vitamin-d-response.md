@@ -88,7 +88,7 @@ Clinic for Thoracic and Cardiovascular Surgery, Heart Center North Rhine-Westpha
 
 Like vitamin D deficit, magnesium deficit is considered to be a risk factor for cardiovascular disease. Several steps in the vitamin D metabolism, such as vitamin D binding to its transport protein and the conversion of vitamin D into the hormonal form 1,25-dihydroxyvitamin D by hepatic and renal hydroxylation, depend on magnesium as a cofactor. A new analysis of two National Health and Nutrition Examination Surveys data sets, published in BMC Medicine, investigated potential interactions between magnesium intake, circulating 25-hydroxyvitamin D, which is the generally accepted indicator of vitamin D status, and mortality. Data indicate a reduced risk of insufficient/deficient vitamin D status at high magnesium intake and an inverse association between circulating 25-hydroxyvitamin D and mortality, particularly cardiovascular mortality, among those with magnesium intake above the median. The study provides important findings concerning potential metabolic interactions between magnesium and vitamin D and its clinical relevance. However, results should be considered preliminary since biochemical data on individual magnesium status were lacking, confounding cannot be excluded and questions on the dose?response relationship still remain to be answered. 
 
- **Please see related research article**  <a href="/posts/vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4602">VitaminDWiki</a> Or : [http://www.biomedcentral.com/1741-7015/11/187](http://www.biomedcentral.com/1741-7015/11/187)
+ **Please see related research article**  [VitaminDWiki](/tags/vitamindwiki.html) Or : [http://www.biomedcentral.com/1741-7015/11/187](http://www.biomedcentral.com/1741-7015/11/187)
 
 Life depends on an energy-consuming complex interplay of organic and inorganic substances to maintain biological structures. Adequate energy and nutrient supply is a prerequisite to guarantee normal functioning of metabolic pathways and thus a healthy life. To become metabolically active, several nutrients require other essential nutrients as cofactors. For example, copper is required for the oxidation of absorbed Fe2+ to Fe3+, which is then bound to transferrin, and riboflavin (vitamin B2) and pyridoxine (vitamin B6) are required to produce niacin (vitamin B3) from dietary tryptophan. Therefore, some nutrition-related illnesses, such as anemia and pellagra, can be caused by multiple nutrient deficits <sup>[1,2]</sup>. Magnesium (Mg) is a cofactor that is required for the binding of vitamin D to its transport protein. Moreover, conversion of vitamin D by hepatic 25-hydroxlation and renal 1?-hydroxylation into the active, hormonal form 1,25-dihydroxyvitamin D (1,25(OH)2D) is Mg-dependent <sup>[3,4]</sup>. A study by Deng et al. <sup>[5]</sup>, published in BMC Medicine, investigated potential interactions between Mg intake, vitamin D status and mortality. Still, some questions remain open.
 
@@ -132,7 +132,7 @@ AZ is a nutritionist, whose main research focuses on human vitamin D status, inc
 
 1. Rude RK, Adams JS, Ryzen E, Endres DB, Niimi H, Horst RL, Haddad JG Jr, Singer FR: Low serum concentrations of 1,25-dihydroxyvitamin D in human magnesium deficiency.     J Clin Endocrinol Metab 1985, 61:933-940. PubMed Abstract | Publisher Full Text OpenURL
 
-1. Deng X, Song Y, Manson JE, Signorello LB, Zhang SM, Shrubsole M, Ness RM, Seidner D, Dai Q: Magnesium, vitamin D status and mortality: results from US National Health and Nutrition Examination Survey (NHANES) 2001 to 2006 and NHANES III,     BMC Med 2013, 11:187. PubMed Abstract | BioMed Central Full Text | PubMed Central Full Text OpenURL<a href="/posts/vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4602"> **VitaminDWiki** </a>
+1. Deng X, Song Y, Manson JE, Signorello LB, Zhang SM, Shrubsole M, Ness RM, Seidner D, Dai Q: Magnesium, vitamin D status and mortality: results from US National Health and Nutrition Examination Survey (NHANES) 2001 to 2006 and NHANES III,     BMC Med 2013, 11:187. PubMed Abstract | BioMed Central Full Text | PubMed Central Full Text OpenURL[ **VitaminDWiki** ](/tags/vitamindwiki.html)
 
 1. Ross AC, Manson JE, Abrams SA, Aloia JF, Brannon PM, Clinton SK, Durazo-Arvizu RA, Gallagher JC, Gallo RL, Jones G, Kovacs CS, Mayne ST, Rosen CJ, Shapses SA: The 2011 report on dietary reference intakes for calcium and vitamin D from the Institute of Medicine: what clinicians need to know.  J Clin Endocrinol Metab 2011, 96:53-58. PubMed Abstract | Publisher Full Text | PubMed Central Full Text OpenURL
 
@@ -166,15 +166,15 @@ AZ is a nutritionist, whose main research focuses on human vitamin D status, inc
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
-* <a href="/posts/response-to-vitamin-d-increased-30-percent-with-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to vitamin D increased 30 percent with Magnesium - Nov 2018">Response to vitamin D increased 30 percent with Magnesium - Nov 2018</a>
+* [Response to vitamin D increased 30 percent with Magnesium - Nov 2018](/posts/response-to-vitamin-d-increased-30-percent-with-magnesium)
 
 * [If at high risk of vitamin D deficiency, get a higher response if take more Magnesium – Sept 2013](/posts/if-at-high-risk-of-vitamin-d-deficiency-get-a-higher-response-if-take-more-magnesium)
 
 * [Magnesium and Vitamin D very synergistic – Aug 2013](/posts/magnesium-and-vitamin-d-very-synergistic)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a> which has the following chart as of Oct 2013
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic) which has the following chart as of Oct 2013
 
  **They are also synergistic, that is, increasing one helps the other** 
 

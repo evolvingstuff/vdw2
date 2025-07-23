@@ -37,7 +37,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a>
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)
 
 * [Vitamin D supplementation improves muscle strength in healthy adults – meta-analysis of 6 RCT Aug 2014](/posts/vitamin-d-supplementation-improves-muscle-strength-in-healthy-adults-meta-analysis-of-6-rct)
 
@@ -47,7 +47,7 @@
 
 * [Cardiovascular system benefits from both Omega-3 and vitamin D – Dec 2012](/posts/cardiovascular-system-benefits-from-both-omega-3-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012">Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012</a>
+* [Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012](/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis)
 
 * [10 Diseases associated with Multiple Sclerosis are also associated with low Omega-3 and vitamin D – Feb 2016](/posts/10-diseases-associated-with-multiple-sclerosis-are-also-associated-with-low-omega-3-and-vitamin-d)
 

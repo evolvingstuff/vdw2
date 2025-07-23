@@ -54,6 +54,6 @@ Speculation: should get more vitamin D (from sun, UV, supplements) if have melan
 
 * [Hypothesis – Increasing Folate or vitamin D decreases probability of skin cancer – July 2012](/posts/hypothesis-increasing-folate-or-vitamin-d-decreases-probability-of-skin-cancer)
 
-* <a href="/posts/sun-exposure-is-associated-with-increased-survival-from-melanoma-2005" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sun exposure is associated with increased survival from melanoma – 2005">Sun exposure is associated with increased survival from melanoma – 2005</a>
+* [Sun exposure is associated with increased survival from melanoma – 2005](/posts/sun-exposure-is-associated-with-increased-survival-from-melanoma-2005)
 
 <img src="/attachments/d3.mock.jpg" alt="image">

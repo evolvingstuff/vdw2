@@ -82,7 +82,7 @@ Received September 5, 2012.     Accepted January 7, 2013.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> 
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d) 
 
 * [2000 IU of vitamin D helped Type 2 diabetic women, but was not enough – July 2012](/posts/2000-iu-of-vitamin-d-helped-type-2-diabetic-women-but-was-not-enough)
 
@@ -90,4 +90,4 @@ Received September 5, 2012.     Accepted January 7, 2013.
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials) just one capsule every 12 days according to one diabetes RCT
 
-* <a href="/posts/4000-iu-rct-reduces-type-2-diabetes-homa-by-24-percent-and-crp-by-64-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4000 IU RCT reduces type 2 diabetes HOMA by 24% and CRP by 64% April 2010 ">4000 IU RCT reduces type 2 diabetes HOMA by 24% and CRP by 64% April 2010 </a> a previous RCT with good results
+* [4000 IU RCT reduces type 2 diabetes HOMA by 24% and CRP by 64% April 2010 ](/posts/4000-iu-rct-reduces-type-2-diabetes-homa-by-24-percent-and-crp-by-64-percent) a previous RCT with good results

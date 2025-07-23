@@ -46,6 +46,6 @@ Conclusions
 
 Anaphylaxis admission rates in Chile are highest at higher latitudes and lower solar radiation, used as proxies of VD status. The associations appear driven by food-induced anaphylaxis. Our data support a possible role of VD deficiency as an etiological factor in the high anaphylaxis admission rates found in southern Chile.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1111/pai.12211** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1111/pai.12211** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/anaphylaxis-chile.jpg" alt="image" width="400">

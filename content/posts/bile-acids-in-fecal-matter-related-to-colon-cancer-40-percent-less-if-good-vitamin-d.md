@@ -51,6 +51,6 @@ After adjustment for age, sex, BMI, physical activity, and calcium intake, adequ
 
 * [Colon cancer 30 percent more likely if low vitamin D – 12th meta-analysis Aug 2015](/posts/colon-cancer-30-percent-more-likely-if-low-vitamin-d-12th-meta-analysis)
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a> which has the following chart
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

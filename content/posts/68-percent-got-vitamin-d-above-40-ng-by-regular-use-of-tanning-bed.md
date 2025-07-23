@@ -25,7 +25,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
 * [Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
 
@@ -39,7 +39,7 @@
 
 * [Interview with transcript concerning UVA, UVB, and health – Grant Dec 2012](/posts/interview-with-transcript-concerning-uva-uvb-and-health-grant)
 
-* <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
+* [Optimize vitamin D from the sun](/posts/optimize-vitamin-d-from-the-sun)
 
 * [Increase your vitamin D from the sun by wearing a tan-through instead of standard shirt](/posts/increase-your-vitamin-d-from-the-sun-by-wearing-a-tan-through-instead-of-standard-shirt)
 

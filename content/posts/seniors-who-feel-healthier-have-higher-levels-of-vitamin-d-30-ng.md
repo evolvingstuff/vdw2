@@ -43,7 +43,7 @@ Martin Carlsson 1,2,* , Pär Wanby 3, Lars Brudin 4,5, Erik Lexne 6, Karin Matho
 
 * [Evidence suggests need more than 30 ng of vitamin D to prevent long-latency diseases – review March 2013](/posts/evidence-suggests-need-more-than-30-ng-of-vitamin-d-to-prevent-long-latency-diseases-review)
 
-* <a href="/posts/low-vitamin-d-associated-with-24-percent-increase-in-major-diseases-cohort-study" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D associated with 24 percent increase in major diseases - cohort study May 2012">Low vitamin D associated with 24 percent increase in major diseases - cohort study May 2012</a>
+* [Low vitamin D associated with 24 percent increase in major diseases - cohort study May 2012](/posts/low-vitamin-d-associated-with-24-percent-increase-in-major-diseases-cohort-study)
 
 * [Optimum Vitamin D level: Evidence for 30 and 40 ng – Grant Aug 2013](/posts/optimum-vitamin-d-level-evidence-for-30-and-40-ng-grant)
 

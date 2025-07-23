@@ -65,6 +65,6 @@ Wonder if autism studies have noticed increased frequency with Darker skins.
 
 * [Autism treated by Vitamin D: Dr. Cannell - video June 2013](/posts/autism-treated-by-vitamin-d-dr-cannell-video) 19 reasons to associate autism with low vitamin D
 
-* <a href="/posts/low-vitamin-d-in-pregnancy-and-2x-worse-language-skills-later" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D in pregnancy and 2X worse language skills later – Feb 2012">Low vitamin D in pregnancy and 2X worse language skills later – Feb 2012</a>
+* [Low vitamin D in pregnancy and 2X worse language skills later – Feb 2012](/posts/low-vitamin-d-in-pregnancy-and-2x-worse-language-skills-later)
 
 * [Heavier Babies Do Better in School (perhaps more vitamin D) – Oct 2014](/posts/heavier-babies-do-better-in-school-perhaps-more-vitamin-d)

@@ -65,7 +65,7 @@ Editor
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/dress-codes.jpg" alt="image">
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a> which has the following list of reasons for vitamin D deficiency 
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d) which has the following list of reasons for vitamin D deficiency 
 
 >  **<span style="color:#00F;">Less time in the SUN</span>** 
 
@@ -133,14 +133,14 @@ Editor
 
 1. Dark Skin  **<span style="color:#F00;">ME</span>** 
 
-1. Use [vitamin D2](/categories/vitamin-d2) avoiding D3 from wool and gelatin typically made from animals  **<span style="color:#F00;">ME</span>** 
+1. Use [vitamin D2](/tags/vitamin-d2.html) avoiding D3 from wool and gelatin typically made from animals  **<span style="color:#F00;">ME</span>** 
 
-> Note: D2 is known to have less benefit than D3, and it may actually <a href="/posts/decrease-d3-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2008">DECREASE D3 levels</a>
+> Note: D2 is known to have less benefit than D3, and it may actually [DECREASE D3 levels](/tags/decrease-d3-levels.html)
 
-> Note: As of 2012 many companies make <a href="/posts/koshervegan-vitamin-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2136">Kosher/Vegan Vitamin D3</a>
+> Note: As of 2012 many companies make [Kosher/Vegan Vitamin D3](/tags/koshervegan-vitamin-d3.html)
 
 > Note: [Vegi-caps do exist](http://www.mothernature.com/p/now-foods_double-00-250-vegi-cap/114323.html)
 
 1. Lack vitamin D fortification of food and drinks   **<span style="color:#F00;">ME</span>** 
 
-Details on above list are <a href="/posts/here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">HERE</a>
+Details on above list are [HERE](/tags/here.html)

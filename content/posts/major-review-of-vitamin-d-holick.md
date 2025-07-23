@@ -97,9 +97,9 @@ The study is too long to be translated by Google, so it is in two sections
 
 * [Vitamin D: A D-Lightful Vitamin for Health – Holick Dec 2012](/posts/vitamin-d-a-d-lightful-vitamin-for-health-holick) Korea - which has many of the same figures & tables
 
-* <a href="/posts/evidence-for-vitamin-d-holick" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Evidence for vitamin D – Holick June 2012">Evidence for vitamin D – Holick June 2012</a> Dermato-Endocrinology 
+* [Evidence for vitamin D – Holick June 2012](/posts/evidence-for-vitamin-d-holick) Dermato-Endocrinology 
 
-* <a href="/posts/vitamin-d-books-2-volume-2nd-edition-edited-by-holick" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3328">Vitamin D books - 2 volume 2nd edition edited by Holick - Dec 2012</a>
+* [Vitamin D books - 2 volume 2nd edition edited by Holick - Dec 2012](/tags/vitamin-d-books-2-volume-2nd-edition-edited-by-holick-dec-2012.html)
 
 * [VITAMIN D: A D-LIGHTFUL SOLUTION FOR GOOD HEALTH – Holick 2012](/posts/vitamin-d-a-d-lightful-solution-for-good-health-holick-2012)
 
@@ -745,4 +745,4 @@ A recent study of 714 Chinese men (>65 yr) found no association between baseline
 
 Few studies have examined the effect of vitamin D supplementation on muscle function in younger people. Gle-rup et al. (208) reported a case-control study in which 55 veiled Arabic women with a mean age of 32 and severe vitamin D deficiency [mean 25D = 3 ng/ml (7 nmol/liter)](mean%2025D%20=%203%20ng/ml%20(7%20nmol/liter)) were compared with 22 Danish women of similar age but higher 25D levels [19 ng/ml (47 nmol/liter)](19%20ng/ml%20(47%20nmol/liter)). At baseline, all parameters of muscle function were significantly lower
 
-## <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3767">CLICK HERE</a> for the rest of the study
+## [CLICK HERE](/tags/click-here.html) for the rest of the study

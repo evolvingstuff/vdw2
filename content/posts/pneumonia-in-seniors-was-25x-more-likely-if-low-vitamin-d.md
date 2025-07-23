@@ -65,21 +65,21 @@ A total of 422 sepsis patients and controls were 65 ± 14 years, 59% female, and
 
 ## See also VitaminDWiki
 
-* <a href="/posts/pneumonia-patients-3-x-more-likely-to-die-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pneumonia patients 3 X more likely to die if low vitamin D – meta-analysis Sept 2017">Pneumonia patients 3 X more likely to die if low vitamin D – meta-analysis Sept 2017</a>
+* [Pneumonia patients 3 X more likely to die if low vitamin D – meta-analysis Sept 2017](/posts/pneumonia-patients-3-x-more-likely-to-die-if-low-vitamin-d-meta-analysis)
 
 * [Any supplementation with vitamin D reduced chance of pneumonia by 50 percent – Oct 2013](/posts/any-supplementation-with-vitamin-d-reduced-chance-of-pneumonia-by-50-percent)
 
 * [Pneumonia 2.6X more likely if low vitamin D – April 2013](/posts/pneumonia-26x-more-likely-if-low-vitamin-d)  Finland, similar age group
 
-* <a href="/posts/pneumonia-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pneumonia and low vitamin D - many studies">Pneumonia and low vitamin D - many studies</a>
+* [Pneumonia and low vitamin D - many studies](/posts/pneumonia-and-low-vitamin-d-many-studies)
 
 * [Pneumonia acquired in hospital – 3X more likely to die if low vitamin D – June 2015](/posts/pneumonia-acquired-in-hospital-3x-more-likely-to-die-if-low-vitamin-d)
 
 * [Less Pneumonia in those having more activated vitamin D (kidneys working)– April 2014](/posts/less-pneumonia-in-those-having-more-activated-vitamin-d-kidneys-working)
 
-* <a href="/posts/recurrence-of-child-pneumonia-delayed-by-100000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Recurrence of child pneumonia delayed by 100000 IU of vitamin D – RCT Oct 2010">Recurrence of child pneumonia delayed by 100000 IU of vitamin D – RCT Oct 2010</a>
+* [Recurrence of child pneumonia delayed by 100000 IU of vitamin D – RCT Oct 2010](/posts/recurrence-of-child-pneumonia-delayed-by-100000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/icu-patients-with-pneumonia-stay-7-days-longer-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2468">ICU patients with pneumonia stay 7 days longer if low vitamin D - Dec 2011</a>
+* [ICU patients with pneumonia stay 7 days longer if low vitamin D - Dec 2011](/posts/icu-patients-with-pneumonia-stay-7-days-longer-if-low-vitamin-d)
 
 ## See also web
 

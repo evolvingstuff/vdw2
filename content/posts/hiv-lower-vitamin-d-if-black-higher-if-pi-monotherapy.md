@@ -32,7 +32,7 @@ Cervero M1, Agud JL, Torres R, García-Lacalle C, Alcázar V, Jusdado JJ, Moreno
 
 boosted PI monotherapy was associated with a lower risk of vitamin D
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 * [Blacks with HIV were 3.5X more likely to be vitamin D deficient than whites – May 2012](/posts/blacks-with-hiv-were-35x-more-likely-to-be-vitamin-d-deficient-than-whites)
 

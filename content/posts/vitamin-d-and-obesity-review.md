@@ -66,7 +66,7 @@ Received: 16 February 2013; in revised form: 12 March 2013 / Accepted: 14 March 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Genes indicate that Obesity causes vitamin D deficiency – Feb 2013](/posts/genes-indicate-that-obesity-causes-vitamin-d-deficiency)
 
@@ -78,11 +78,11 @@ Received: 16 February 2013; in revised form: 12 March 2013 / Accepted: 14 March 
 
 * [Overweight women lost fat in 12 weeks with just 1000 IU vitamin D daily – Sept 2012](/posts/overweight-women-lost-fat-in-12-weeks-with-just-1000-iu-vitamin-d-daily)
 
-* <a href="/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X as much vitamin D to get the same response – June 2012">Obese need 2X as much vitamin D to get the same response – June 2012</a>
+* [Obese need 2X as much vitamin D to get the same response – June 2012](/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response)
 
-* <a href="/posts/obesity-reduction-with-calcium-and-vitamin-d-controversy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity reduction with Calcium and vitamin D – controversy May 2012">Obesity reduction with Calcium and vitamin D – controversy May 2012</a>
+* [Obesity reduction with Calcium and vitamin D – controversy May 2012](/posts/obesity-reduction-with-calcium-and-vitamin-d-controversy)
 
-* <a href="/posts/obesity-epidemic-a-perfect-storm-of-deficiency-of-vitamin-d-magnesium-iodine-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012">Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012</a> should not forget the other nutrients whch have become very low
+* [Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012](/posts/obesity-epidemic-a-perfect-storm-of-deficiency-of-vitamin-d-magnesium-iodine-etc) should not forget the other nutrients whch have become very low
 
 * [Obese have 50 percent less of two enzymes in fatty tissue to process vitamin D – May 2013](/posts/obese-have-50-percent-less-of-two-enzymes-in-fatty-tissue-to-process-vitamin-d)
 

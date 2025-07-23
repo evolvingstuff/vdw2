@@ -63,9 +63,9 @@ Crauwels P, Bank E, Walbers B, Wenzel UA, Agerberth B, Negatue MC, Alemayehu MA,
 
 #### See also VitaminDWiki
 
-* <a href="/posts/leishmaniasis-from-sand-flea-might-be-fought-by-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Leishmaniasis (from sand flea) might be fought by Vitamin D - several studies">Leishmaniasis (from sand flea) might be fought by Vitamin D - several studies</a>
+* [Leishmaniasis (from sand flea) might be fought by Vitamin D - several studies](/posts/leishmaniasis-from-sand-flea-might-be-fought-by-vitamin-d-several-studies)
 
-* <a href="/posts/antimicrobial-implications-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Antimicrobial implications of vitamin D – Oct 2011">Antimicrobial implications of vitamin D – Oct 2011</a>
+* [Antimicrobial implications of vitamin D – Oct 2011](/posts/antimicrobial-implications-of-vitamin-d)
 
 * [Multiple Sclerosis risk factors – Vitamin D, parasites, and EBV – 2015](/posts/multiple-sclerosis-risk-factors-vitamin-d-parasites-and-ebv-2015)
 

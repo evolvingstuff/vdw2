@@ -52,7 +52,7 @@
 }
 
 
-#### <a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a> - includes Boron
+#### [Ways to improve health](/posts/ways-to-improve-health) - includes Boron
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 

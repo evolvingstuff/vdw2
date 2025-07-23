@@ -63,14 +63,14 @@ Further research should examine role of routine 25(OH)D tests, the clinical cons
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
-* <a href="/posts/cancer-patients-need-more-vitamin-d-even-those-who-are-supplementing-observational-study" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer patients need more vitamin D, even those who are supplementing – observational study June 2021">Cancer patients need more vitamin D, even those who are supplementing – observational study June 2021</a>
+* [Cancer patients need more vitamin D, even those who are supplementing – observational study June 2021](/posts/cancer-patients-need-more-vitamin-d-even-those-who-are-supplementing-observational-study)
 
-* <a href="/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012">85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012</a>
+* [85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012](/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng)
 
 * [Warning – Medicare will pay for just 1 vitamin D test PER LIFETIME (if not related to a few diseases) ](/posts/warning-medicare-will-pay-for-just-1-vitamin-d-test-per-lifetime-if-not-related-to-a-few-diseases)
 
 * [High Risk of little Vitamin D](/posts/high-risk-of-little-vitamin-d) category
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>  Individuals at high risk of being vitamin D deficient - paradoxically not tested as often in this study
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)  Individuals at high risk of being vitamin D deficient - paradoxically not tested as often in this study

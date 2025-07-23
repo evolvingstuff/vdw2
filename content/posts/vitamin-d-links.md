@@ -13,10 +13,10 @@
 }
 
 
-<a href="/posts/vitamin-d-council" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 112">Vitamin D Council</a> 
+[Vitamin D Council](/tags/vitamin-d-council.html) 
 
 [Vitamin D Council Forum](http://www.facebook.com/pages/Vitamin-D-Council/332321220632)
 
 [Grassroots](http://www.grassrootshealth.net/) 
 
-<a href="/posts/links-to-vitamin-d-and-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1567">Links to  Vitamin D and Health</a>
+[Links to  Vitamin D and Health](/tags/links-to-vitamin-d-and-health.html)

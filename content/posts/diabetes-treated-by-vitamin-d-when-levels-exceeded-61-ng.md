@@ -53,4 +53,4 @@ Results: There was a significant increase in the mean value of 25(OH)D level aft
 
 Conclusions: Vitamin D supplementation may be beneficial to subjects with diabetes because it improved glycemic control. Subjects with diabetes with high 25(OH)D levels (>61 ng/ml) had better lipid profiles.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1080/07315724.2015.1026427**
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1080/07315724.2015.1026427**

@@ -57,9 +57,9 @@ The placebo contained ZERO Magnesium
 
 ### See also VitaminDWiki
 
-* <a href="/posts/magnesium-l-threonate-perhaps-more-bioavailable" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium L-Threonate – perhaps more bioavailable – Jan 2012">Magnesium L-Threonate – perhaps more bioavailable – Jan 2012</a>
+* [Magnesium L-Threonate – perhaps more bioavailable – Jan 2012](/posts/magnesium-l-threonate-perhaps-more-bioavailable)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Magnesium roundup including bioavailability - Aug 2013](/posts/magnesium-roundup-including-bioavailability)
 
@@ -67,7 +67,7 @@ The placebo contained ZERO Magnesium
 
 * [Magnesium oxide is (surpringly) better than citrate – RCT March 2012](/posts/magnesium-oxide-is-surpringly-better-than-citrate-rct)
 
-* <a href="/posts/magnesium-l-threonate-perhaps-more-bioavailable" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium L-Threonate – perhaps more bioavailable – Jan 2012">Magnesium L-Threonate – perhaps more bioavailable – Jan 2012</a>
+* [Magnesium L-Threonate – perhaps more bioavailable – Jan 2012](/posts/magnesium-l-threonate-perhaps-more-bioavailable)
 
 * [Dementia less likely with increased levels of Magnesium etc.](/posts/dementia-less-likely-with-increased-levels-of-magnesium-etc)
 

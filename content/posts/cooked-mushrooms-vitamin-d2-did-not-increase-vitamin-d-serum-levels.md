@@ -44,6 +44,6 @@ Conclusions: Unanticipated D2 cooking loss from fresh UVB mushrooms and probable
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a> D2 should be ignored anyway
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2) D2 should be ignored anyway
 
 * [11 titles contained Mushroom as of Jan 2022](https://VitaminDWiki.com/Overview+Vitamin+D3+not+D2#VitaminDWiki_pages_with_MUSHROOM_S_in_title)

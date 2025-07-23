@@ -104,7 +104,7 @@
 
 * "Many of our adolescent shooters prior to the massacre had been misdiagnosed with attention-deficit disorder (ADD), major depression disorder (MDD), or autism spectrum disorder."
 
-<a href="/posts/mental-illness-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental Illness and Vitamin D">Mental Illness and Vitamin D</a>
+[Mental Illness and Vitamin D](/posts/mental-illness-and-vitamin-d)
 
 ---
 
@@ -120,6 +120,6 @@
 
 ---
 
-#### Note: <a href="/posts/magnesium-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Magnesium deficiency</a> is also associated with low vitamin D and poor mental health
+#### Note: [Magnesium deficiency](/tags/magnesium-deficiency.html) is also associated with low vitamin D and poor mental health
 
 <img src="/attachments/d3.mock.jpg" alt="image">

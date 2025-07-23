@@ -41,17 +41,17 @@ Huang H1, Zheng T1, Wang S1, Wei L2, Wang Q3, Sun Z4.
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/large-vessel-ischemic-stroke-13-x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: __Large vessel__ Ischemic Stroke 13 X more likely if low vitamin D – Nov 2017"> **Large vessel**  Ischemic Stroke 13 X more likely if low vitamin D – Nov 2017</a>
+* [ **Large vessel**  Ischemic Stroke 13 X more likely if low vitamin D – Nov 2017](/posts/large-vessel-ischemic-stroke-13-x-more-likely-if-low-vitamin-d)
 
 * [Stroke is 13.5 X more likely if low vitamin D and high blood pressure – March 2015](/posts/stroke-is-135-x-more-likely-if-low-vitamin-d-and-high-blood-pressure)
 
 * [Second stroke 2X more likely if low vitamin D – Feb 2015](/posts/second-stroke-2x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/50-percent-fewer-strokes-with-vitamin-d-even-though-ignored-dose-size-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012">50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012</a>
+* [50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012](/posts/50-percent-fewer-strokes-with-vitamin-d-even-though-ignored-dose-size-meta-analysis)
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
-* <a href="/posts/strokes-might-be-treated-as-well-as-prevented-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strokes might be treated as well as prevented by vitamin D – Jan 2011">Strokes might be treated as well as prevented by vitamin D – Jan 2011</a>
+* [Strokes might be treated as well as prevented by vitamin D – Jan 2011](/posts/strokes-might-be-treated-as-well-as-prevented-by-vitamin-d)
 
 </div>
 

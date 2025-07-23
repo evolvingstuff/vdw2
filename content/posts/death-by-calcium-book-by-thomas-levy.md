@@ -75,7 +75,7 @@ To recap, then, medicine has long regarded calcium supplementation as beneficial
 
 ## See also VitaminDWiki
 
-* <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium hazards and bioavailability</a>
+* [Calcium hazards and bioavailability](/posts/calcium-hazards-and-bioavailability)
 
 * [Increased Vitamin K2 reduces the problems of excess Calcium – Nov 2013](/posts/increased-vitamin-k2-reduces-the-problems-of-excess-calcium)
 
@@ -87,6 +87,6 @@ To recap, then, medicine has long regarded calcium supplementation as beneficial
 
 * [Calcium levels can be measured with ionized calcium tests – Aug 2012](/posts/calcium-levels-can-be-measured-with-ionized-calcium-tests)
 
-* <a href="/posts/more-than-800-mg-of-calcium-increases-cardiovascular-events-by-85-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than 800 mg of Calcium increases Cardiovascular events by 85 percent– Nov 2011">More than 800 mg of Calcium increases Cardiovascular events by 85 percent– Nov 2011</a>
+* [More than 800 mg of Calcium increases Cardiovascular events by 85 percent– Nov 2011](/posts/more-than-800-mg-of-calcium-increases-cardiovascular-events-by-85-percent)
 
-* <a href="/posts/high-blood-pressure-associated-with-high-level-of-calcium-in-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High blood pressure associated with high level of Calcium in blood – Oct 2011">High blood pressure associated with high level of Calcium in blood – Oct 2011</a>
+* [High blood pressure associated with high level of Calcium in blood – Oct 2011](/posts/high-blood-pressure-associated-with-high-level-of-calcium-in-blood)

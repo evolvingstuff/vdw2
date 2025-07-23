@@ -90,9 +90,9 @@ Abbreviations: CNS - central nervous system, DBP - vitamin D binding protein, DV
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Dementia associated with low vitamin D in two thirds of studies – systematic review May 2013](/posts/dementia-associated-with-low-vitamin-d-in-two-thirds-of-studies-systematic-review)
 
@@ -102,7 +102,7 @@ Abbreviations: CNS - central nervous system, DBP - vitamin D binding protein, DV
 
 * [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d)
 
-* <a href="/posts/dementia-19x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia 19X more likely if low vitamin D – Jan 2012">Dementia 19X more likely if low vitamin D – Jan 2012</a>
+* [Dementia 19X more likely if low vitamin D – Jan 2012](/posts/dementia-19x-more-likely-if-low-vitamin-d)
 
 * [98 pcnt of genes that Vitamin D activates to reduce MS are also activated by Interferon -May 2013](/posts/98-pcnt-of-genes-that-vitamin-d-activates-to-reduce-ms-are-also-activated-by-interferon)
 

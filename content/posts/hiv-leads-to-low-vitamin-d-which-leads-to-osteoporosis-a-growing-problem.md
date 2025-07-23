@@ -43,10 +43,10 @@ PMID: 22866352
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1078">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
-* <a href="/posts/vertebral-fractures-9x-more-likely-in-hiv-patients-having-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vertebral fractures 9X more likely in HIV patients having low vitamin D – Dec 2017">Vertebral fractures 9X more likely in HIV patients having low vitamin D – Dec 2017</a>
+* [Vertebral fractures 9X more likely in HIV patients having low vitamin D – Dec 2017](/posts/vertebral-fractures-9x-more-likely-in-hiv-patients-having-low-vitamin-d)
 
-* <a href="/posts/diseases-which-become-related-due-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1817">Diseases which become related due to vitamin D deficiency</a> which has the following chart
+* [Diseases which become related due to vitamin D deficiency](/tags/diseases-which-become-related-due-to-vitamin-d-deficiency.html) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

@@ -164,7 +164,7 @@ So, keep taking magnesium. Take it in the various sources: the picometer-sized m
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [If at high risk of vitamin D deficiency, get a higher response if take more Magnesium – Sept 2013](/posts/if-at-high-risk-of-vitamin-d-deficiency-get-a-higher-response-if-take-more-magnesium)
 
@@ -192,7 +192,7 @@ So, keep taking magnesium. Take it in the various sources: the picometer-sized m
 
 ## See also web
 
-* [Mercola Dec 2013](http://products.mercola.com/magnesium-supplement/?e_cid=20131206Z1_DNL_art_1&utm_source=dnl&utm_medium=email&utm_content=art1&utm_campaign=20131206Z1&et_cid=DM34528&et_rid=359025346) he has many previous - see <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Mercola Dec 2013](http://products.mercola.com/magnesium-supplement/?e_cid=20131206Z1_DNL_art_1&utm_source=dnl&utm_medium=email&utm_content=art1&utm_campaign=20131206Z1&et_cid=DM34528&et_rid=359025346) he has many previous - see [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 > Mercola sells Magnesium Threonate, which he claims is best. 144 mg per day (4 pills) costs $35 a month. Very expensive
 

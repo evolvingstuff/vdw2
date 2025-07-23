@@ -46,6 +46,6 @@ Strange. Have never seen this result in any other study.
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Overview Vitamin K and Vitamin D</a> 
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d) 
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)

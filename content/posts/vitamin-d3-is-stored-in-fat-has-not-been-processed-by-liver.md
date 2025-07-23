@@ -81,7 +81,7 @@ PMID: 25661743
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Obese have 50 percent less of two enzymes in fatty tissue to process vitamin D – May 2013](/posts/obese-have-50-percent-less-of-two-enzymes-in-fatty-tissue-to-process-vitamin-d)
 

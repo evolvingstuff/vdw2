@@ -39,7 +39,7 @@
 
 #### Hives (Urticaria) 7X more likely if vitamin D deficient; supplementation helps – meta-analysis April 2021
 
- **<a href="/posts/hives-urticaria-7x-more-likely-if-vitamin-d-deficient-supplementation-helps-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hives (Urticaria) 7X more likely if vitamin D deficient, supplementation helps – meta-analysis April 2021">Hives (Urticaria) 7X more likely if vitamin D deficient, supplementation helps – meta-analysis April 2021</a>** 
+ **[Hives (Urticaria) 7X more likely if vitamin D deficient, supplementation helps – meta-analysis April 2021](/posts/hives-urticaria-7x-more-likely-if-vitamin-d-deficient-supplementation-helps-meta-analysis)** 
 
 ---
 

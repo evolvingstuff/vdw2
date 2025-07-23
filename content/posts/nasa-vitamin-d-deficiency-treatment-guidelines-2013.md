@@ -41,7 +41,7 @@ Secondly, astronauts are deprived of sunlight while aboard the International Spa
 
 * [Recommended increasing vitamin D for space flight – NASA Sept 2013](/posts/recommended-increasing-vitamin-d-for-space-flight-nasa)
 
-* <a href="/posts/1700-iu-vitamin-d-50000-monthly-helped-antarctic-explorers-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012">1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012</a>
+* [1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012](/posts/1700-iu-vitamin-d-50000-monthly-helped-antarctic-explorers-rct)
 
 * [2000 IU daily raised vitamin D levels by 5 nanograms while on submarine patrol – July 2014](/posts/2000-iu-daily-raised-vitamin-d-levels-by-5-nanograms-while-on-submarine-patrol)
 

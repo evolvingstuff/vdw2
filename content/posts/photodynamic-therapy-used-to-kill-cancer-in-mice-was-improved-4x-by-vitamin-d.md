@@ -60,7 +60,7 @@ Cutaneous metastasis occurs more frequently in breast cancer than in any other m
 
 * [Photodynamic therapy for Cancer might be helped by vitamin D – July 2012](/posts/photodynamic-therapy-for-cancer-might-be-helped-by-vitamin-d) one author is the same, full PDF on VitaminDWiki
 
-* <a href="/posts/10x-more-skin-cancer-cells-killed-by-photodynamic-therapy-when-add-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10X more skin cancer cells killed by photodynamic therapy when add Vitamin D – Feb 2020">10X more skin cancer cells killed by photodynamic therapy when add Vitamin D – Feb 2020</a>
+* [10X more skin cancer cells killed by photodynamic therapy when add Vitamin D – Feb 2020](/posts/10x-more-skin-cancer-cells-killed-by-photodynamic-therapy-when-add-vitamin-d)
 
 #### See also web
 

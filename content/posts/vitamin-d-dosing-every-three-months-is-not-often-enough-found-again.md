@@ -60,6 +60,6 @@ Conclusions: The doses of 100 000 or 200 000 IU of oral cholecalciferol every 3 
 
 * [Vitamin D needed on a daily basis (other reseach shows infrequent doses are OK) – Oct 2013](/posts/vitamin-d-needed-on-a-daily-basis-other-reseach-shows-infrequent-doses-are-ok)
 
-* <a href="/posts/take-vitamin-d3-daily-or-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Take vitamin D3 daily or weekly</a> which has the following graph
+* [Take vitamin D3 daily or weekly](/tags/take-vitamin-d3-daily-or-weekly.html) which has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">

@@ -193,7 +193,7 @@ Respiratory infections|25 %
 
 ---
 
- **<a href="/posts/many-vitamin-d-articles-and-videos-by-schwalfenberg-in-canada" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many vitamin D articles and videos by Schwalfenberg in Canada">Many vitamin D articles and videos by Schwalfenberg in Canada</a>** 
+ **[Many vitamin D articles and videos by Schwalfenberg in Canada](/posts/many-vitamin-d-articles-and-videos-by-schwalfenberg-in-canada)** 
 
 * A Review of the Potential Benefits of Increasing Vitamin D Status in Mongolian Adults through Food Fortification and Vitamin D Supplementation - Oct 2019 10.3390/nu11102452 &nbsp; **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/mongolia-2019.pdf">PDF</a>** 
 

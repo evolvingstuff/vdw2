@@ -83,4 +83,4 @@ No apparent agreement on association
 
 Wonder what the mechanism is
 
-* <a href="/posts/smaller-brains-intracranial-volume-associated-with-lower-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smaller brains (Intracranial Volume) associated with lower vitamin D – July 2018">Smaller brains (Intracranial Volume) associated with lower vitamin D – July 2018</a>
+* [Smaller brains (Intracranial Volume) associated with lower vitamin D – July 2018](/posts/smaller-brains-intracranial-volume-associated-with-lower-vitamin-d)

@@ -48,6 +48,6 @@ Copyright © 2013 UICC. PMID:     23754630
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a> which has the following chart
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

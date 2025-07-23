@@ -87,7 +87,7 @@
 
 #### 86% of US military no longer have enough Vitamin D (30 ng) – Dec 2020
 
- **<a href="/posts/86-percent-of-us-military-no-longer-have-enough-vitamin-d-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 86 percent of US military no longer have enough Vitamin D (30 ng) – Dec 2020">Page has the following comments by VitaminDWiki</a>** 
+ **[Page has the following comments by VitaminDWiki](/posts/86-percent-of-us-military-no-longer-have-enough-vitamin-d-30-ng)** 
 
 *  **There have been many reports of the military no longer having adequate levels of Vitamin D, but little has been done** 
 
@@ -167,7 +167,7 @@ Through its association with testosterone production, vitamin D deficiency may i
 
 #### Chart: Vitamin D levels of everyone dropped by half over 18 years
 
- **<a href="/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc">Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc</a>** 
+ **[Vitamin D levels have been crashing since 1995 (Polish Children, Elite Military, etc](/posts/vitamin-d-levels-have-been-crashing-since-1995-polish-children-elite-military-etc)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -261,4 +261,4 @@ Mandatory vitamin D levels should be routinely obtained on all military personne
 
 ---
 
-##### <a href="/posts/veterans-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Veterans and Vitamin D - many studies">Veterans and Vitamin D - many studies</a> 17+
+##### [Veterans and Vitamin D - many studies](/posts/veterans-and-vitamin-d-many-studies) 17+

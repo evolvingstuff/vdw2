@@ -54,8 +54,8 @@ Conclusion: Among adults ≥ 40 years old with 25(OH)D <15 ng/mL, statin users h
 
 ## See also VitaminDWiki
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a>
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [Search VitaminDWiki for "musculoskeletal pain"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22musculoskeletal+pain%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)  151 items as of Aug 2014

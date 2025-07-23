@@ -128,9 +128,9 @@
 
  **<span style="color:#F00;">33</span> additional, for a total of <span style="color:#F00;">61</span> health problems fought if take 50,000 IU weekly** 
 
- **<a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Diabetes</a>** 
+ **[Diabetes](/posts/overview-diabetes-and-vitamin-d)** 
 
-* <a href="/posts/diabetes-helped-by-daily-4000-iu-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetes helped by daily 4,000 IU of Vitamin D – meta-analysis Sept 2017">Diabetes helped by daily 4,000 IU of Vitamin D – meta-analysis Sept 2017</a>
+* [Diabetes helped by daily 4,000 IU of Vitamin D – meta-analysis Sept 2017](/posts/diabetes-helped-by-daily-4000-iu-of-vitamin-d-meta-analysis)
 
    * which is very close to 50,000 IU every two weeks
 
@@ -144,11 +144,11 @@
 
 * [Many Diabetics guts poorly absorb standard vitamin D - need an injection of gut-friendly form](/posts/vitamin-d-injection-is-far-better-than-oral-for-diabetics-poor-gut-rct)
 
-* <a href="/posts/diabetics-helped-by-vitamin-d-in-5-ways-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetics helped by vitamin D in 5 ways – meta-analysis June 2018">Diabetics helped by vitamin D in 5 ways – meta-analysis June 2018</a>
+* [Diabetics helped by vitamin D in 5 ways – meta-analysis June 2018](/posts/diabetics-helped-by-vitamin-d-in-5-ways-meta-analysis)
 
- **<a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Heart Failure</a>** 
+ **[Heart Failure](/posts/overview-cardiovascular-and-vitamin-d)** 
 
-* <a href="/posts/stroke-or-coronary-heart-disease-deaths-30-percent-less-likely-if-had-taken-more-0-patient-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stroke or coronary heart disease deaths 30% less likely if had taken more than 440 IU of vitamin D (900,000 patient years) – Jan 2018">Stroke or coronary heart disease deaths 30% less likely if had taken more than 440 IU of vitamin D (900,000 patient years) – Jan 2018</a>
+* [Stroke or coronary heart disease deaths 30% less likely if had taken more than 440 IU of vitamin D (900,000 patient years) – Jan 2018](/posts/stroke-or-coronary-heart-disease-deaths-30-percent-less-likely-if-had-taken-more-0-patient-years)
 
 * [Cardiovascular deaths 12 percent less likely if have 10 ng more vitamin D – meta-analysis March 2017](/posts/cardiovascular-deaths-12-percent-less-likely-if-have-10-ng-more-vitamin-d-meta-analysis)
 
@@ -156,57 +156,57 @@
 
 * [Seniors with Heart Failure helped by daily 4,000 IU of vitamin D (increase 16 ng) – RCT Aug 2014](/posts/seniors-with-heart-failure-helped-by-daily-4000-iu-of-vitamin-d-increase-16-ng-rct)
 
-* <a href="/posts/congestive-heart-failure-in-infants-virtually-cured-by-1000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Congestive heart failure in infants virtually cured by 1000 IU of vitamin D – RCT Feb 2012">Congestive heart failure in infants virtually cured by 1000 IU of vitamin D – RCT Feb 2012</a>
+* [Congestive heart failure in infants virtually cured by 1000 IU of vitamin D – RCT Feb 2012](/posts/congestive-heart-failure-in-infants-virtually-cured-by-1000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/acute-heart-failure-length-of-stay-and-readmission-rates-cut-in-half-if-high-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acute Heart Failure length of stay and readmission rates cut in half if high vitamin D – Aug 2017">Acute Heart Failure length of stay and readmission rates cut in half if high vitamin D – Aug 2017</a>
+* [Acute Heart Failure length of stay and readmission rates cut in half if high vitamin D – Aug 2017](/posts/acute-heart-failure-length-of-stay-and-readmission-rates-cut-in-half-if-high-vitamin-d)
 
 * [7X increased chance of death if coronary artery disease and low vitamin D – Oct 2013](/posts/7x-increased-chance-of-death-if-coronary-artery-disease-and-low-vitamin-d)
 
- **<a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Chronic Pain</a>** 
+ **[Chronic Pain](/posts/overview-pain-and-vitamin-d)** 
 
 * [Chronic Pain reported 38 percent less often if supplemented with Vitamin D – meta-analysis Sept 2016](/posts/chronic-pain-reported-38-percent-less-often-if-supplemented-with-vitamin-d-meta-analysis)
 
    * Note - many studies found a variety of types of pain were prevented or relieved by weekly 50,000 IU
 
-* <a href="/posts/shin-pain-in-elderly-men-36-x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shin pain in elderly men 36 X more likely if low vitamin D – March 2017">Shin pain in elderly men 36 X more likely if low vitamin D – March 2017</a>
+* [Shin pain in elderly men 36 X more likely if low vitamin D – March 2017](/posts/shin-pain-in-elderly-men-36-x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/back-and-leg-pain-lasts-a-year-longer-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Back and leg pain lasts a year longer if low vitamin D – April 2017">Back and leg pain lasts a year longer if low vitamin D – April 2017</a>
+* [Back and leg pain lasts a year longer if low vitamin D – April 2017](/posts/back-and-leg-pain-lasts-a-year-longer-if-low-vitamin-d)
 
 * [Fibromyalgia treated with Vitamin D (50,000 IU weekly for 3 months) – 2016, 2017, 2018, 2019](/posts/fibromyalgia-treated-with-vitamin-d-50000-iu-weekly-for-3-months-2016-2017-2018-2019)
 
-#### [Depression](/categories/depression)
+#### [Depression](/tags/depression.html)
 
 * [Anti-depression medication about as good as big increase in vitamin D – meta-analysis of flawless data April 2014](/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data)
 
-* <a href="/posts/depression-in-adolescent-girls-reduced-somewhat-by-50000-iu-weekly-for-9-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Depression in adolescent girls reduced somewhat by 50,000 IU weekly for 9 weeks – July 2017">Depression in adolescent girls reduced somewhat by 50,000 IU weekly for 9 weeks – July 2017</a>
+* [Depression in adolescent girls reduced somewhat by 50,000 IU weekly for 9 weeks – July 2017](/posts/depression-in-adolescent-girls-reduced-somewhat-by-50000-iu-weekly-for-9-weeks)
 
-* <a href="/posts/vitamin-d-depression-rct-canceled-too-many-were-taking-vitamin-d-supplements-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D depression RCT canceled: too many were taking Vitamin D supplements, etc. Feb 2018">Vitamin D depression RCT canceled: too many were taking Vitamin D supplements, etc. Feb 2018</a>
+* [Vitamin D depression RCT canceled: too many were taking Vitamin D supplements, etc. Feb 2018](/posts/vitamin-d-depression-rct-canceled-too-many-were-taking-vitamin-d-supplements-etc)
 
-#### <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Autism</a>
+#### [Autism](/posts/overview-autism-and-vitamin-d)
 
-* <a href="/posts/autism-treated-by-vitamin-d-80-120-ng-cannell-update" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism treated by Vitamin D (80 – 120 ng) – Cannell update May 2018">Autism treated by Vitamin D (80 – 120 ng) – Cannell update May 2018</a>
+* [Autism treated by Vitamin D (80 – 120 ng) – Cannell update May 2018](/posts/autism-treated-by-vitamin-d-80-120-ng-cannell-update)
 
-* <a href="/posts/autism-risk-factors-many-are-associated-with-low-vitamin-d-meta-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk factors – many are associated with low vitamin D – meta-meta-analysis March 2017">Autism risk factors – many are associated with low vitamin D – meta-meta-analysis March 2017</a>
+* [Autism risk factors – many are associated with low vitamin D – meta-meta-analysis March 2017](/posts/autism-risk-factors-many-are-associated-with-low-vitamin-d-meta-meta-analysis)
 
 * [Vitamin D and autism - treat: 300 IU per kg per day, prevent: during pregnancy 5,000 IU – Feb 2017](/posts/vitamin-d-and-autism-treat-300-iu-per-kg-per-day-prevent-during-pregnancy-5000-iu)
 
-* <a href="/posts/autistic-children-were-36-x-more-likely-to-have-low-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autistic children were 3.6 X more likely to have low levels of vitamin D – Nov 2017">Autistic children were 3.6 X more likely to have low levels of vitamin D – Nov 2017</a>
+* [Autistic children were 3.6 X more likely to have low levels of vitamin D – Nov 2017](/posts/autistic-children-were-36-x-more-likely-to-have-low-levels-of-vitamin-d)
 
 #### [Breast cancer](/posts/overview-breast-cancer-and-vitamin-d)
 
-* <a href="/posts/breast-cancer-80-percent-less-likely-if-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer 80 percent less likely if high level of vitamin D – June 2018">Breast Cancer 80 percent less likely if high level of vitamin D – June 2018</a>
+* [Breast Cancer 80 percent less likely if high level of vitamin D – June 2018](/posts/breast-cancer-80-percent-less-likely-if-high-level-of-vitamin-d)
 
-* <a href="/posts/breast-cancer-prevented-by-vitamin-d-most-studies-concur" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer prevented by Vitamin D (most studies concur) – Dec 2017">Breast Cancer prevented by Vitamin D (most studies concur) – Dec 2017</a>
+* [Breast Cancer prevented by Vitamin D (most studies concur) – Dec 2017](/posts/breast-cancer-prevented-by-vitamin-d-most-studies-concur)
 
 * [Breast cancer 60% reduction with 1100 IU of Vitamin D - RCT](/posts/overview-breast-cancer-and-vitamin-d)
 
-* <a href="/posts/breast-cancer-mortality-reduced-60-percent-if-more-than-60-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis June 2017">Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis June 2017</a>
+* [Breast Cancer Mortality reduced 60 percent if more than 60 ng of Vitamin D – meta-analysis June 2017](/posts/breast-cancer-mortality-reduced-60-percent-if-more-than-60-ng-of-vitamin-d-meta-analysis)
 
 * [17 meta-analyses of Breast Cancer as of Sept 2017](/posts/meta-analysis-of-vitamin-d)
 
-#### <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Colon Cancer</a>
+#### [Colon Cancer](/posts/overview-cancer-colon-and-vitamin-d)
 
-* <a href="/posts/colorectal-cancer-is-associated-with-vitamin-d-17-meta-analyses-so-far" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colorectal cancer is associated with Vitamin D (17 meta-analyses so far) – July 2018">Colorectal cancer is associated with Vitamin D (17 meta-analyses so far) – July 2018</a>
+* [Colorectal cancer is associated with Vitamin D (17 meta-analyses so far) – July 2018](/posts/colorectal-cancer-is-associated-with-vitamin-d-17-meta-analyses-so-far)
 
 * [Colorectal cancer 60 percent less likely if have more than 50 ng of vitamin D (vs 5 ng) – meta-analysis April 2017](/posts/colorectal-cancer-60-percent-less-likely-if-have-more-than-50-ng-of-vitamin-d-vs-5-ng-meta-analysis)
 
@@ -216,7 +216,7 @@
 
 #### [Prostate Cancer](/posts/overview-prostate-cancer-and-vitamin-d)
 
-* <a href="/posts/prostate-cancer-risk-increase-with-vitamin-d-other-studies-disagree-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prostate cancer risk increase with Vitamin D (other studies disagree) – meta-analysis Jan 2018">Prostate cancer risk increase with Vitamin D (other studies disagree) – meta-analysis Jan 2018</a>
+* [Prostate cancer risk increase with Vitamin D (other studies disagree) – meta-analysis Jan 2018](/posts/prostate-cancer-risk-increase-with-vitamin-d-other-studies-disagree-meta-analysis)
 
 * [Prostate cancer reduced when 4000 IU vitamin D was added– Hollis RCT April 2015](/posts/prostate-cancer-reduced-when-4000-iu-vitamin-d-was-added-hollis-rct)
 
@@ -226,11 +226,11 @@
 
 #### Enlarged prostate
 
-* <a href="/posts/bph-psa-decreased-by-vitamin-d-50000-iu-bi-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: BPH (PSA) decreased by Vitamin D (50,000 IU bi-weekly) – RCT Nov 2020">BPH (PSA) decreased by Vitamin D (50,000 IU bi-weekly) – RCT Nov 2020</a>
+* [BPH (PSA) decreased by Vitamin D (50,000 IU bi-weekly) – RCT Nov 2020](/posts/bph-psa-decreased-by-vitamin-d-50000-iu-bi-weekly-rct)
 
-#### <a href="/posts/preeclampsia-recurrence-reduced-2-x-by-50000-iu-of-vitamin-d-every-two-weeks-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia recurrence reduced 2 X by 50,000 IU of vitamin D every two weeks – RCT July 2017">Preeclampsia</a>
+#### [Preeclampsia](/posts/preeclampsia-recurrence-reduced-2-x-by-50000-iu-of-vitamin-d-every-two-weeks-rct)
 
-* <a href="/posts/preeclampsia-recurrence-reduced-2-x-by-50000-iu-of-vitamin-d-every-two-weeks-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia recurrence reduced 2 X by 50,000 IU of vitamin D every two weeks – RCT July 2017">Preeclampsia recurrence reduced 2 X by 50,000 IU of vitamin D every two weeks – RCT July 2017</a>
+* [Preeclampsia recurrence reduced 2 X by 50,000 IU of vitamin D every two weeks – RCT July 2017](/posts/preeclampsia-recurrence-reduced-2-x-by-50000-iu-of-vitamin-d-every-two-weeks-rct)
 
 * [Preeclampsia reduced by Vitamin D (50,000 IU bi-weekly) and Calcium – Oct 2015](/posts/preeclampsia-reduced-by-vitamin-d-50000-iu-bi-weekly-and-calcium)
 
@@ -240,25 +240,25 @@
 
 #### [Premature Birth](/posts/pre-term-birth-many-of-risk-factors-are-associated-with-low-vitamin-d)
 
-* <a href="/posts/vitamin-d-intervention-reduces-preterm-births-and-low-birth-weight-by-60-percent-cochrane-reviews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017">Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017</a>
+* [Vitamin D intervention reduces preterm births and low birth weight by 60 percent – Cochrane Reviews – Nov 2017](/posts/vitamin-d-intervention-reduces-preterm-births-and-low-birth-weight-by-60-percent-cochrane-reviews)
 
 * [Preterm birth rate reduced 57 percent by Vitamin D – Nov 2015](/posts/preterm-birth-rate-reduced-57-percent-by-vitamin-d) 4,000 IU?
 
 * [Preterm birth rate reduced by 43 percent with adequate Vitamin D supplementation – meta-analysis Feb 2017](/posts/preterm-birth-rate-reduced-by-43-percent-with-adequate-vitamin-d-supplementation-meta-analysis)
 
-#### [Falls](/categories/falls-and-fractures)
+#### [Falls](/posts/falls-and-fractures)
 
 * [Falls cut in half by 100,000 IU vitamin D monthly - RCT 2016](/posts/falls-cut-in-half-by-100000-iu-vitamin-d-monthly-rct-2016)
 
 * [Elderly falls reduced 3.6 times by 900 IU of vitamin D and simple exercise – RCT Nov 2016](/posts/elderly-falls-reduced-36-times-by-900-iu-of-vitamin-d-and-simple-exercise-rct)
 
-* <a href="/posts/39-percent-fewer-falls-with-2000-iu-than-800-iu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 39% fewer falls with 2000 IU than 800 IU – RCT June 2010">39% fewer falls with 2000 IU than 800 IU – RCT June 2010</a>
+* [39% fewer falls with 2000 IU than 800 IU – RCT June 2010](/posts/39-percent-fewer-falls-with-2000-iu-than-800-iu-rct)
 
-* <a href="/posts/hip-fracture-58-percent-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hip fracture 58 percent more likely if low vitamin D – meta-analysis March 2017">Hip fracture 58 percent more likely if low vitamin D – meta-analysis March 2017</a>
+* [Hip fracture 58 percent more likely if low vitamin D – meta-analysis March 2017](/posts/hip-fracture-58-percent-more-likely-if-low-vitamin-d-meta-analysis)
 
 * [Free Vitamin D in New Zealand to prevent falls in nursing homes (50,000 IU monthly) – June 2016](/posts/free-vitamin-d-in-new-zealand-to-prevent-falls-in-nursing-homes-50000-iu-monthly)
 
-#### [Cognitive Decline](/categories/cognitive)
+#### [Cognitive Decline](/tags/cognitive-decline.html)
 
 * [Cognition of Alzheimer’s patients improved by daily 4,000 IU of vitamin D – RCT Jan 2015](/posts/cognition-of-alzheimers-patients-improved-by-daily-4000-iu-of-vitamin-d-rct)
 
@@ -280,17 +280,17 @@
 
 * [Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012](/posts/vitamin-d-reduces-respiratory-tract-infections-by-40-percent-meta-analysis)
 
-* <a href="/posts/reduced-viral-respiratory-tract-infections-by-half-by-having-more-than-38-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010">Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010</a> many people get > 38 ng with 50,000 every two weeks
+* [Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010](/posts/reduced-viral-respiratory-tract-infections-by-half-by-having-more-than-38-ng-of-vitamin-d) many people get > 38 ng with 50,000 every two weeks
 
-#### <a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">Influenza</a>
+#### [Influenza](/posts/overview-influenza-and-vitamin-d)
 
 * [Influenza prevented by 40 ng levels or treated with vitamin D hammer (50,000 IU) – June 2015](/posts/influenza-prevented-by-40-ng-levels-or-treated-with-vitamin-d-hammer-50000-iu)  a single 50,000 IU dose
 
-* <a href="/posts/half-the-risk-of-influenza-a-in-infants-taking-1200-iu-of-vitamin-d-for-4-months-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Half the risk of Influenza -A in infants taking 1200 IU of vitamin D for 4 months – RCT Jan 2018">Half the risk of Influenza -A in infants taking 1200 IU of vitamin D for 4 months – RCT Jan 2018</a>
+* [Half the risk of Influenza -A in infants taking 1200 IU of vitamin D for 4 months – RCT Jan 2018](/posts/half-the-risk-of-influenza-a-in-infants-taking-1200-iu-of-vitamin-d-for-4-months-rct)
 
-* <a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">Overview Influenza and vitamin D</a>
+* [Overview Influenza and vitamin D](/posts/overview-influenza-and-vitamin-d)
 
-#### <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Tuberculosis</a>
+#### [Tuberculosis](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Tuberculosis 4.5X more likely if vitamin D less than 10 nanogram – meta-analysis May 2015](/posts/tuberculosis-45x-more-likely-if-vitamin-d-less-than-10-nanogram-meta-analysis)
 
@@ -302,13 +302,13 @@
 
 * [Tuberculosis recovery speeded up by single 450,000 IU dose of vitamin D – RCT Jan 2017](/posts/tuberculosis-recovery-speeded-up-by-single-450000-iu-dose-of-vitamin-d-rct)
 
-#### <a href="/posts/overview-copd-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview COPD and Vitamin D">Chronic Obstructive Pulmonary Disease</a>
+#### [Chronic Obstructive Pulmonary Disease](/tags/chronic-obstructive-pulmonary-disease.html)
 
 * [COPD reduced by 40 percent with monthly 100,000 IU of vitamin D – RCT Jan 2015](/posts/copd-reduced-by-40-percent-with-monthly-100000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100000 IU vitamin D monthly helps COPD patients – 3 RCT">100000 IU vitamin D monthly helps COPD patients – 3 RCT</a>
+* [100000 IU vitamin D monthly helps COPD patients – 3 RCT](/posts/100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct)
 
-#### [Lupus](/categories/lupus)
+#### [Lupus](/tags/lupus.html)
 
 * [Lupus flareups cut in half by just 2,000 IU of vitamin D – RCT Dec 2012](/posts/lupus-flareups-cut-in-half-by-just-2000-iu-of-vitamin-d-rct)
 
@@ -316,11 +316,11 @@
 
 * [Musculoskeletal pain reduced with 4,000 IU of vitamin D – RCT April 2015](/posts/musculoskeletal-pain-reduced-with-4000-iu-of-vitamin-d-rct) Lupus pain
 
-* <a href="/posts/lupus-helped-by-vitamin-d-supplementation-in-3-out-of-4-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lupus helped by Vitamin D supplementation in 3 out of 4 studies – Oct 2017">Lupus helped by Vitamin D supplementation in 3 out of 4 studies – Oct 2017</a>
+* [Lupus helped by Vitamin D supplementation in 3 out of 4 studies – Oct 2017](/posts/lupus-helped-by-vitamin-d-supplementation-in-3-out-of-4-studies)
 
-* <a href="/posts/lupus-is-both-prevented-and-treated-by-vitamin-d-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lupus is both prevented and treated by Vitamin D – review Dec 2017">Lupus is both prevented and treated by Vitamin D – review Dec 2017</a>
+* [Lupus is both prevented and treated by Vitamin D – review Dec 2017](/posts/lupus-is-both-prevented-and-treated-by-vitamin-d-review)
 
-#### [Inflammatory Bowel Syndrome](/categories/gut)
+#### [Inflammatory Bowel Syndrome](/tags/inflammatory-bowel-syndrome.html)
 
 * [IBS quality of life improved by vitamin D (50,000 IU every two weeks) – RCT May 2016](/posts/ibs-quality-of-life-improved-by-vitamin-d-50000-iu-every-two-weeks-rct)
 
@@ -332,35 +332,35 @@
 
 #### Multiple Sclerosis
 
-* <a href="/posts/multiple-sclerosis-relapses-cut-in-half-by-100000-iu-of-vitamin-d-every-2-weeks-rct-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis relapses cut in half by 100,000 IU of Vitamin D every 2 weeks– RCT 2019">Multiple Sclerosis relapses cut in half by 100,000 IU of Vitamin D every 2 weeks– RCT 2019</a>
+* [Multiple Sclerosis relapses cut in half by 100,000 IU of Vitamin D every 2 weeks– RCT 2019](/posts/multiple-sclerosis-relapses-cut-in-half-by-100000-iu-of-vitamin-d-every-2-weeks-rct-2019)
 
 #### PMS
 
-* <a href="/posts/pms-again-significantly-reduced-by-50000-iu-of-vitamin-d-this-time-every-two-weeks-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PMS again significantly reduced by 50,000 IU of vitamin D (This time, every two weeks) – RCT Oct 2019">PMS again significantly reduced by 50,000 IU of vitamin D (This time, every two weeks) – RCT Oct 2019</a>
+* [PMS again significantly reduced by 50,000 IU of vitamin D (This time, every two weeks) – RCT Oct 2019](/posts/pms-again-significantly-reduced-by-50000-iu-of-vitamin-d-this-time-every-two-weeks-rct)
 
-* <a href="/posts/pms-in-teens-reduced-3x-by-50000-iu-vitamin-d-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018">PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018</a>
+* [PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018](/posts/pms-in-teens-reduced-3x-by-50000-iu-vitamin-d-weekly)
 
 * [PMS reduced by half in girls who had low levels of vitamin D – RCT Dec 2015](/posts/pms-reduced-by-half-in-girls-who-had-low-levels-of-vitamin-d-rct)
 
-* <a href="/posts/menstrual-pain-pms-reduced-by-vitamin-d-rct-2012-2014-2016" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Menstrual Pain (PMS) reduced by vitamin D – RCT 2012, 2014, 2016">Menstrual Pain (PMS) reduced by vitamin D – RCT 2012, 2014, 2016</a>
+* [Menstrual Pain (PMS) reduced by vitamin D – RCT 2012, 2014, 2016](/posts/menstrual-pain-pms-reduced-by-vitamin-d-rct-2012-2014-2016)
 
    * Single dose of 300,000 IU of vitamin D 
 
    * Women getting vitamin D needed NO pain relievers, vs 40% of the women without vitamin D
 
-* <a href="/posts/pms-reduced-by-vitamin-d-intervention-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PMS reduced by Vitamin D intervention - meta-analysis May 2019">PMS reduced by Vitamin D intervention - meta-analysis May 2019</a>
+* [PMS reduced by Vitamin D intervention - meta-analysis May 2019](/posts/pms-reduced-by-vitamin-d-intervention-meta-analysis)
 
 #### Schizophrenia
 
-* <a href="/posts/schizophrenia-reduced-by-biweekly-50000-iu-vitamin-d-and-probiotics-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Schizophrenia reduced by biweekly 50,000 IU Vitamin D and probiotics – RCT Feb 2019">Schizophrenia reduced by biweekly 50,000 IU Vitamin D and probiotics – RCT Feb 2019</a>
+* [Schizophrenia reduced by biweekly 50,000 IU Vitamin D and probiotics – RCT Feb 2019](/posts/schizophrenia-reduced-by-biweekly-50000-iu-vitamin-d-and-probiotics-rct)
 
 #### Endometriosis
 
-* <a href="/posts/endometriosis-treated-by-vitamin-d-50000-iu-bi-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021">Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021</a>
+* [Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021](/posts/endometriosis-treated-by-vitamin-d-50000-iu-bi-weekly-rct)
 
 #### Smoking
 
-* <a href="/posts/smoking-depression-etc-reduced-by-vitamin-d-bi-weekly-50000-iu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking depression, etc. reduced by Vitamin D (bi-weekly, 50,000 IU) - RCT Dec 2021">Smoking depression, etc. reduced by Vitamin D (bi-weekly, 50,000 IU) - RCT Dec 2021</a>
+* [Smoking depression, etc. reduced by Vitamin D (bi-weekly, 50,000 IU) - RCT Dec 2021](/posts/smoking-depression-etc-reduced-by-vitamin-d-bi-weekly-50000-iu-rct)
 
  **Note - Magnesium and Omega-3 supplementation often provide similar benefits for the above health problems** 
 
@@ -419,7 +419,7 @@ If at high risk: at least double the number of capsules will be needed for loadi
 | &nbsp;Tasteless  | &nbsp; No unpleasant taste or odor as with some liquids |
 | &nbsp;Tiny capsule need not<br>&nbsp;be swallowed | &nbsp; &nbsp;You can put the capsule powder <br>into the water, milk (animal or plant), juice, food, etc <br>&nbsp;and consume your vitamin D over the period of days. |
 | &nbsp;Kosher and Halal certified  | &nbsp;Vegi-cap (needed for Kosher) is more expensive |
-| &nbsp;Gut friendly | &nbsp; Though <a href="/posts/some-companies" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1252">some companies</a> have even gut friendlier forms |
+| &nbsp;Gut friendly | &nbsp; Though [some companies](/tags/some-companies.html) have even gut friendlier forms |
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/bio-tech-allergy-free.jpg" alt="image" width="800">
 
@@ -453,27 +453,27 @@ Additional companies that  **ship internationally**  include (Note: customs rare
 
 [Swansons](http://www.swansonvitamins.com/q?kw=%22vitamin+d%22), &nbsp; &nbsp; [Life Extension Foundation](http://www.lef.org/search/ingredient.vitamin-d3/index.aspx) &nbsp; &nbsp;  [Vitaminshoppe](http://www.vitaminshoppe.com/search/controller?N=200784522&type=category) &nbsp; &nbsp;  [Nutrition Express - can sort by size or type](http://www.nutritionexpress.com/vitamins+minerals/vitamin+d3?p=2) &nbsp; &nbsp; [Ebay](http://www.ebay.com/sch/i.html?_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.X%22vitamin+d%22&_nkw=%22vitamin+d%22&_sacat=0&_from=R40) 35,000 listings in Jan 2024
 
-#### <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Cofactors should be adjusted- especially if take for many months</a>
+#### [Cofactors should be adjusted- especially if take for many months](/posts/low-cost-cofactors-for-vitamin-d)
 
 {ANAME()}2 weeks{ANAME}
 
-Reduce <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium</a> intake to  **500 mg/day**  (dairy products, food, supplements)
+Reduce [Calcium](/posts/calcium-hazards-and-bioavailability) intake to  **500 mg/day**  (dairy products, food, supplements)
 
-Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a> supplements to  **500 mg/day** 
+Increase [Magnesium](/posts/overview-magnesium-and-vitamin-d) supplements to  **500 mg/day** 
 
 ---
 
 ### Additional Vitamin D references
 
-*  **<a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">VitaminDWiki pages containing "50,000" in title</a> 262 as of Aug 2024** 
+*  **[VitaminDWiki pages containing "50,000" in title](/posts/50000-iu-vitamin-d-weekly-is-often-recommended) 262 as of Aug 2024** 
 
 >  **Every 2 weeks 50,000 IU** 
 
-* <a href="/posts/50000-iu-of-vitamin-d-once-every-2-weeks-achieved-40-ng-in-3-months-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU of Vitamin D once every 2 weeks achieved 40 ng in 3 months – RCT March 2021">50,000 IU of Vitamin D once every 2 weeks achieved 40 ng in 3 months – RCT March 2021</a>
+* [50,000 IU of Vitamin D once every 2 weeks achieved 40 ng in 3 months – RCT March 2021](/posts/50000-iu-of-vitamin-d-once-every-2-weeks-achieved-40-ng-in-3-months-rct)
 
-* <a href="/posts/treating-vitamin-d-deficiency-in-senior-women-such-as-50000-iu-daily-for-15-days--a-month-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Treating Vitamin D deficiency in senior women – such as 50,000 IU daily for 15 days then twice a month – Review April 2019">Treating Vitamin D deficiency in senior women – such as 50,000 IU daily for 15 days then twice a month – Review April 2019</a>
+* [Treating Vitamin D deficiency in senior women – such as 50,000 IU daily for 15 days then twice a month – Review April 2019](/posts/treating-vitamin-d-deficiency-in-senior-women-such-as-50000-iu-daily-for-15-days--a-month-review)
 
-* <a href="/posts/50000-iu-of-vitamin-d-every-two-weeks-jordan-conclusion-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU of vitamin D every two weeks – Jordan conclusion - RCT July 2017">50,000 IU of vitamin D every two weeks – Jordan conclusion - RCT July 2017</a>
+* [50,000 IU of vitamin D every two weeks – Jordan conclusion - RCT July 2017](/posts/50000-iu-of-vitamin-d-every-two-weeks-jordan-conclusion-rct)
 
 * [Vitamin D update – 40-60 ng ideal, 50K biweekly maintenance – Jan 2014](/posts/vitamin-d-update-40-60-ng-ideal-50k-biweekly-maintenance)
 
@@ -481,13 +481,13 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
 * [Even taking as much as 4200 IU vitamin D 43 percent had less than 30 ng in blood – RCT Jan 2013](/posts/even-taking-as-much-as-4200-iu-vitamin-d-43-percent-had-less-than-30-ng-in-blood-rct) need more?
 
-* <a href="/posts/monthly-vitamin-d-dosing-is-better-than-daily-dosing-for-children-and-elderly-mo-ely-to-be-taken" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017">Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017</a>
+* [Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017](/posts/monthly-vitamin-d-dosing-is-better-than-daily-dosing-for-children-and-elderly-mo-ely-to-be-taken)
 
 * [Vitamin D RCT using 100,000 IU monthly for a variety of health problems – results of ViDA due in 2016](/posts/vitamin-d-rct-using-100000-iu-monthly-for-a-variety-of-health-problems-results-of-vida-due-in-2016){ANAME()}optimal{ANAME} 
 
  **What is an Optimal Level: 40 ng, 50 ng, 60 ng, 80 ng?** 
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Optimum Vitamin D level: Evidence for 30 and 40 ng – Grant Aug 2013](/posts/optimum-vitamin-d-level-evidence-for-30-and-40-ng-grant)
 
@@ -495,7 +495,7 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
 * [Defining normal level of vitamin D (need 4000-5000 IU) - Heaney Spring 2013](/posts/defining-normal-level-of-vitamin-d-need-4000-5000-iu-heaney-spring-2013)
 
-* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012">40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012</a>
+* [40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)
 
 * [Fewer health problems with higher Vitamin D Levels](/posts/chart-of-vitamin-d-levels-vs-disease-grassroots-health) has the following chart
 
@@ -503,9 +503,9 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
  **Loading doses of Vitamin D** 
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-* <a href="/posts/540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011">540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011</a>
+* [540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011](/posts/540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days)
 
  **High Risk of having low vitamin D levels** 
 
@@ -525,7 +525,7 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
 * 10,000 IU daily can be taken for years and years. (The body naturally removes any excess)
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a>
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)
 
 * [Some indication that too much vitamin D causes problems in hospitals](/posts/is-too-much-vitamin-d-bad-possible-causes-and-cures)
 
@@ -535,15 +535,15 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
  **Use the same 50,000 IU pill monthly for children** 
 
-* <a href="/posts/children-no-longer-get-much-vitamin-d-from-milk-fortify-at-home" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children no longer get much vitamin D from milk - fortify at home">Children no longer get much vitamin D from milk - fortify at home</a>
+* [Children no longer get much vitamin D from milk - fortify at home](/posts/children-no-longer-get-much-vitamin-d-from-milk-fortify-at-home)
 
  **Other Vitamin D information** 
 
 * [Does Less Sun mean More Disease](/posts/does-less-sun-mean-more-disease) video tells you WHY vitamin D is needed 
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
-*  **[258+ Randomized Clinical Trials with non-daily dosing](/categories/intervention---non-daily)** 
+*  **[258+ Randomized Clinical Trials with non-daily dosing](/posts/intervention-non-daily)** 
 
 > Note: very little difference if Vitamin D is taken every day or with 16 X a dose taken every 16 days
 
@@ -553,23 +553,23 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
    * How to ask your doctor if you should take more vitamin D
 
-* <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a> 
+* [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d) 
 
    * Magnesium, wool, oil, etc. About 1 in 300 people, typically due to low level of Magnesium
 
-* <a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies</a> Vegan D3 surprisingly does not cost much more
+* [Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies) Vegan D3 surprisingly does not cost much more
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a> typically 5 cents per 5000 IU
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk) typically 5 cents per 5000 IU
 
-* <a href="/posts/overviews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overviews">Overviews</a> at VitaminDWiki
+* [Overviews](/tags/overviews.html) at VitaminDWiki
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 99 proofs as of Jan 2025
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 99 proofs as of Jan 2025
 
 * [Even taking as much as 4200 IU vitamin D 43 percent had less than 30 ng in blood – RCT Jan 2013](/posts/even-taking-as-much-as-4200-iu-vitamin-d-43-percent-had-less-than-30-ng-in-blood-rct)
 
 * [30 percent of vitamin D sold now has more than 2000 IU - Dec 2012](/posts/30-percent-of-vitamin-d-sold-now-has-more-than-2000-iu) vs US govt says 600 IU is enough
 
-* <a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a>
+* [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
 * [85% achieved 20 ng with avg of 3300 IU of vitamin D - oral and injection Aug 2012](/posts/85-percent-achieved-20-ng-with-avg-of-3300-iu-of-vitamin-d-oral-and-injection)
 
@@ -579,13 +579,13 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
 * If you have  **gut problems or poor absorption** , you should probably take Vitamin D3 in a more easily absorbable form such as [BioMulsion gel](/posts/overview-gut-and-vitamin-d)
 
-* <a href="/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alternatives if not swallow pills or not absorb vitamin D">Alternatives if not swallow pills or not absorb vitamin D</a>
+* [Alternatives if not swallow pills or not absorb vitamin D](/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d)
 
 * If you just have a maintenance dosing without loading dose it will take 6-9 months to feel the benefits
 
-* No need to <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">test your vitamin D blood level</a> - But, a test will confirm when you are getting enough Vitamin D
+* No need to [test your vitamin D blood level](/posts/low-cost-vitamin-d-blood-tests) - But, a test will confirm when you are getting enough Vitamin D
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Many different forms are available</a>
+* [Many different forms are available](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
 * [Oil-based Vitamin D3 has the worst bioavailability – April 2014](/posts/oil-based-vitamin-d3-has-the-worst-bioavailability)
 
@@ -599,7 +599,7 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
 > generally because Vitamin D increases or decreases the effect of their medications ( [Contra-indications](/posts/review-of-vitamin-d-interaction-with-drugs) )
 
-> When in a hospital, you must make them aware that you have a higher level of vitamin D than most of the population. Virtually all drug doses assume low levels of vitamin D, and high levels can increase/decrease potency by 3X. A <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemo dose</a>, for example, might be decreased by 3X for people with optimal vitamin D, giving you much less trauma, but if not reduced, you might die.
+> When in a hospital, you must make them aware that you have a higher level of vitamin D than most of the population. Virtually all drug doses assume low levels of vitamin D, and high levels can increase/decrease potency by 3X. A [Chemo dose](/posts/chemotherapy-and-vitamin-d-many-studies), for example, might be decreased by 3X for people with optimal vitamin D, giving you much less trauma, but if not reduced, you might die.
 
 > [Review of vitamin D interaction with drugs – Jan 2014](/posts/review-of-vitamin-d-interaction-with-drugs)
 
@@ -621,49 +621,49 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
  **| | | |
 | --- | --- | --- |
-| ((ADHD and Vitamin D Deficiency | ADHD)) | <a href="/posts/attention-deficit-hyperactivity-disorder-treated-by-weekly-50000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Attention-Deficit Hyperactivity Disorder treated by weekly 50,000 IU of vitamin D – RCT Nov 2018">Attention-Deficit Hyperactivity Disorder treated by weekly 50,000 IU of vitamin D – RCT Nov 2018</a> |
-| Anxiety | <a href="/posts/general-anxiety-disorder-treated-by-weekly-vitamin-d-50000-iu-omega-3-mg-also-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: General Anxiety Disorder treated by weekly Vitamin D (50,000 IU -Omega-3, Mg also help) – Sept 2019">General Anxiety Disorder treated by weekly Vitamin D (50,000 IU -Omega-3, Mg also help) – Sept 2019</a> |
+| ((ADHD and Vitamin D Deficiency | ADHD)) | [Attention-Deficit Hyperactivity Disorder treated by weekly 50,000 IU of vitamin D – RCT Nov 2018](/posts/attention-deficit-hyperactivity-disorder-treated-by-weekly-50000-iu-of-vitamin-d-rct) |
+| Anxiety | [General Anxiety Disorder treated by weekly Vitamin D (50,000 IU -Omega-3, Mg also help) – Sept 2019](/posts/general-anxiety-disorder-treated-by-weekly-vitamin-d-50000-iu-omega-3-mg-also-help) |
 | ((Overview Asthma and Vitamin D | Asthma))   | [Asthma reduced by weekly 50,000 IU of vitamin D – RCT Aug 2014](/posts/asthma-reduced-by-weekly-50000-iu-of-vitamin-d-rct) |
 | Back Pain<br>Chronic | [Chronic Back Pain relieved by weekly 60,000 IU of vitamin D – Jan 2017](/posts/chronic-back-pain-relieved-by-weekly-60000-iu-of-vitamin-d) |
-| Breast Cancer | <a href="/posts/50000-iu-vitamin-d-weekly-was-the-most-popular-for-breast-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly was the most popular for Breast Cancer - May 2020">50,000 IU Vitamin D weekly was the most popular for Breast Cancer - May 2020</a> |
-| Colds | <a href="/posts/childhood-colds-reduced-25-percent-by-weekly-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Childhood colds reduced 25 percent by weekly Vitamin D – RCT Jan 2019">Childhood colds reduced 25 percent by weekly Vitamin D – RCT Jan 2019</a> |
-| Cardiovascular | <a href="/posts/50000-iu-of-vitamin-d-weekly-for-6-months-after-cardiac-failure-helps-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU of Vitamin D weekly for 6 months after cardiac failure helps – RCT May 2022">50,000 IU of Vitamin D weekly for 6 months after cardiac failure helps – RCT May 2022</a> |
+| Breast Cancer | [50,000 IU Vitamin D weekly was the most popular for Breast Cancer - May 2020](/posts/50000-iu-vitamin-d-weekly-was-the-most-popular-for-breast-cancer) |
+| Colds | [Childhood colds reduced 25 percent by weekly Vitamin D – RCT Jan 2019](/posts/childhood-colds-reduced-25-percent-by-weekly-vitamin-d-rct) |
+| Cardiovascular | [50,000 IU of Vitamin D weekly for 6 months after cardiac failure helps – RCT May 2022](/posts/50000-iu-of-vitamin-d-weekly-for-6-months-after-cardiac-failure-helps-rct) |
 | COPD | [COPD fought by Vitamin D - many studies](/posts/copd-fought-by-vitamin-d-many-studies) |
-| Cognition | <a href="/posts/senior-cognition-improved-in-4-ways-by-vitamin-d-50000-iu-weekly-for-8-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Senior cognition improved in 4 ways by Vitamin D (50,000 IU weekly for 8 weeks) – Sept 2023">Senior cognition improved in 4 ways by Vitamin D (50,000 IU weekly for 8 weeks) – Sept 2023</a><br><a href="/posts/cognitive-function-of-adult-women-improved-in-3-months-of-50000-iu-weekly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cognitive function of adult women improved in 3 months of 50,000 IU weekly Vitamin D – Jan 2019">Cognitive function of adult women improved in 3 months of 50,000 IU weekly Vitamin D – Jan 2019</a> |
-| COVID | <a href="/posts/consensus-60000-iu-of-vitamin-d-weekly-for-2-6-months-can-fight-covid-etc-india" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022">Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022</a><br><a href="/posts/covid-etc-prevented-and-treated-with-50000-iu-vitamin-d-capsules" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID etc. prevented and treated with 50,000 IU Vitamin D capsules - July 2022">COVID etc. prevented and treated with 50,000 IU Vitamin D capsules - July 2022</a> |
-| [Depression](/categories/depression) <br> (dup of 2 weeks)  | <a href="/posts/depression-in-adolescent-girls-reduced-somewhat-by-50000-iu-weekly-for-9-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Depression in adolescent girls reduced somewhat by 50,000 IU weekly for 9 weeks – July 2017">Depression in adolescent girls reduced somewhat by 50,000 IU weekly for 9 weeks – July 2017</a><br><a href="/posts/yet-another-study-confirms-depression-is-treated-by-weekly-vitamin-d-50000-iu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Yet another study confirms Depression is treated by weekly Vitamin D (50,000 IU)– RCT Dec 2019">Yet another study confirms Depression is treated by weekly Vitamin D (50,000 IU)– RCT Dec 2019</a><br><a href="/posts/depression-decreased-after-vitamin-d-50000-iu-weekly-to-elderly-in-the-case-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Depression decreased after vitamin D (50,000 IU weekly to elderly in the case) – RCT Oct 2019">Depression decreased after vitamin D (50,000 IU weekly to elderly in the case) – RCT Oct 2019</a><br><a href="/posts/depression-in-seniors-greatly-reduced-by-vitamin-d-50000-iu-weekly-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Depression in seniors greatly reduced by Vitamin D (50,000 IU weekly) – meta-analysis June 2023">Depression in seniors greatly reduced by Vitamin D (50,000 IU weekly) – meta-analysis June 2023</a> |
-| ((Overview Diabetes and vitamin D | Diabetes))<br> (dup of 2 weeks)  | <a href="/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019">Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019</a><br><a href="/posts/diabetic-inflammation-reduced-by-vitamin-d-30000-iu-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic inflammation reduced by Vitamin D (30,000 IU weekly) – RCT July 2020">Diabetic inflammation reduced by Vitamin D (30,000 IU weekly) – RCT July 2020</a><br><a href="/posts/prediabetes-reduced-by-weekly-60000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes reduced by weekly 60,000 IU of Vitamin D – RCT Jan 2021">Prediabetes reduced by weekly 60,000 IU of Vitamin D – RCT Jan 2021</a> |
+| Cognition | [Senior cognition improved in 4 ways by Vitamin D (50,000 IU weekly for 8 weeks) – Sept 2023](/posts/senior-cognition-improved-in-4-ways-by-vitamin-d-50000-iu-weekly-for-8-weeks)<br>[Cognitive function of adult women improved in 3 months of 50,000 IU weekly Vitamin D – Jan 2019](/posts/cognitive-function-of-adult-women-improved-in-3-months-of-50000-iu-weekly-vitamin-d) |
+| COVID | [Consensus: 60,000 IU of Vitamin D weekly for 2-6 months can fight COVID, etc, – India April 2022](/posts/consensus-60000-iu-of-vitamin-d-weekly-for-2-6-months-can-fight-covid-etc-india)<br>[COVID etc. prevented and treated with 50,000 IU Vitamin D capsules - July 2022](/posts/covid-etc-prevented-and-treated-with-50000-iu-vitamin-d-capsules) |
+| [Depression](/tags/depression.html) <br> (dup of 2 weeks)  | [Depression in adolescent girls reduced somewhat by 50,000 IU weekly for 9 weeks – July 2017](/posts/depression-in-adolescent-girls-reduced-somewhat-by-50000-iu-weekly-for-9-weeks)<br>[Yet another study confirms Depression is treated by weekly Vitamin D (50,000 IU)– RCT Dec 2019](/posts/yet-another-study-confirms-depression-is-treated-by-weekly-vitamin-d-50000-iu-rct)<br>[Depression decreased after vitamin D (50,000 IU weekly to elderly in the case) – RCT Oct 2019](/posts/depression-decreased-after-vitamin-d-50000-iu-weekly-to-elderly-in-the-case-rct)<br>[Depression in seniors greatly reduced by Vitamin D (50,000 IU weekly) – meta-analysis June 2023](/posts/depression-in-seniors-greatly-reduced-by-vitamin-d-50000-iu-weekly-meta-analysis) |
+| ((Overview Diabetes and vitamin D | Diabetes))<br> (dup of 2 weeks)  | [Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019](/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct)<br>[Diabetic inflammation reduced by Vitamin D (30,000 IU weekly) – RCT July 2020](/posts/diabetic-inflammation-reduced-by-vitamin-d-30000-iu-weekly-rct)<br>[Prediabetes reduced by weekly 60,000 IU of Vitamin D – RCT Jan 2021](/posts/prediabetes-reduced-by-weekly-60000-iu-of-vitamin-d-rct) |
 | ((Overview Fibromyalgia or Chronic Fatigue and vitamin D | Fibromyalgia))  | [Fibromyalgia treated with Vitamin D (50,000 IU weekly for 3 months) – 2016, 2017, 2018, 2019](/posts/fibromyalgia-treated-with-vitamin-d-50000-iu-weekly-for-3-months-2016-2017-2018-2019) 2023 |
-| Hashimoto's<br> thyroiditis  | <a href="/posts/hashimotos-thyroiditis-helped-by-weekly-50000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hashimoto's thyroiditis helped by weekly 50,000 IU of vitamin D – RCT May 2019">Hashimoto's thyroiditis helped by weekly 50,000 IU of vitamin D – RCT May 2019</a> |
-| Hay Fever | <a href="/posts/hay-fever-treated-by-vitamin-d-50000-iu-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019">Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019</a> |
+| Hashimoto's<br> thyroiditis  | [Hashimoto's thyroiditis helped by weekly 50,000 IU of vitamin D – RCT May 2019](/posts/hashimotos-thyroiditis-helped-by-weekly-50000-iu-of-vitamin-d-rct) |
+| Hay Fever | [Hay Fever treated by Vitamin D (50,000 IU weekly) – RCT July 2019](/posts/hay-fever-treated-by-vitamin-d-50000-iu-weekly-rct) |
 | ((Chronic Hives treated by Vitamin D - many studies | Hives))   | [Hives treatment augmented by 60,000 IU Vitamin D weekly – RCT June 2015](/posts/hives-treatment-augmented-by-60000-iu-vitamin-d-weekly-rct) |
 | ((Overview Hypertension and Vitamin D | Hypertension)) <br>– pulmonary | [Pulmonary hypertension reduced in some people with weekly 50,000 IU vitamin D for 3 months – 2016](/posts/pulmonary-hypertension-reduced-in-some-people-with-weekly-50000-iu-vitamin-d-for-3-months-2016) |
-| Immune System | <a href="/posts/immune-systems-helped-by-50000-iu-of-vitamin-d-weekly-for-3-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Immune systems helped by 50,000 IU of vitamin D (weekly for 3 months) – May 2021">Immune systems helped by 50,000 IU of vitamin D (weekly for 3 months) – May 2021</a> |
-| Infant | <a href="/posts/weekly-vitamin-d-to-mother-after-birth-much-better-than-daily-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Weekly Vitamin D to mother after birth much better than daily - RCT Aug 2018">Weekly Vitamin D to mother after birth much better than daily - RCT Aug 2018</a> |
-| IBS <br>(dup of 2 weeks) | <a href="/posts/ibs-diarrhea-treated-by-weekly-50000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: IBS diarrhea treated by weekly 50,000 IU of Vitamin D – RCT March 2020">IBS diarrhea treated by weekly 50,000 IU of Vitamin D – RCT March 2020</a><br><a href="/posts/irritable-bowel-syndrome-treated-by-weekly-50000-iu-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Irritable Bowel Syndrome treated by weekly 50,000 IU Vitamin D – RCT Feb 2019">Irritable Bowel Syndrome treated by weekly 50,000 IU Vitamin D – RCT Feb 2019</a><br><a href="/posts/ibs-reduced-by-50000-iu-of-vitamin-d-weekly-or-bi-weekly-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: IBS reduced by 50,000 IU of Vitamin D (weekly or bi-weekly) – Meta-analysis July 2023">IBS reduced by 50,000 IU of Vitamin D (weekly or bi-weekly) – Meta-analysis July 2023</a> |
-| ((Overview Kidney and vitamin D | Kidney Disease))   | <a href="/posts/hemodialysis-patients-ckd-helped-by-weekly-50000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hemodialysis patients (CKD) helped by weekly 50,000 IU of vitamin D – Jan 2017">Hemodialysis patients (CKD) helped by weekly 50,000 IU of vitamin D – Jan 2017</a> |
+| Immune System | [Immune systems helped by 50,000 IU of vitamin D (weekly for 3 months) – May 2021](/posts/immune-systems-helped-by-50000-iu-of-vitamin-d-weekly-for-3-months) |
+| Infant | [Weekly Vitamin D to mother after birth much better than daily - RCT Aug 2018](/posts/weekly-vitamin-d-to-mother-after-birth-much-better-than-daily-rct) |
+| IBS <br>(dup of 2 weeks) | [IBS diarrhea treated by weekly 50,000 IU of Vitamin D – RCT March 2020](/posts/ibs-diarrhea-treated-by-weekly-50000-iu-of-vitamin-d-rct)<br>[Irritable Bowel Syndrome treated by weekly 50,000 IU Vitamin D – RCT Feb 2019](/posts/irritable-bowel-syndrome-treated-by-weekly-50000-iu-vitamin-d-rct)<br>[IBS reduced by 50,000 IU of Vitamin D (weekly or bi-weekly) – Meta-analysis July 2023](/posts/ibs-reduced-by-50000-iu-of-vitamin-d-weekly-or-bi-weekly-meta-analysis) |
+| ((Overview Kidney and vitamin D | Kidney Disease))   | [Hemodialysis patients (CKD) helped by weekly 50,000 IU of vitamin D – Jan 2017](/posts/hemodialysis-patients-ckd-helped-by-weekly-50000-iu-of-vitamin-d) |
 | Migraine  | [Migraine headaches reduced with 50,000 IU vitamin D weekly – RCT July 2015](/posts/migraine-headaches-reduced-with-50000-iu-vitamin-d-weekly-rct) |
-| [Obesity](/categories/obesity) | <a href="/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs">Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs</a> |
-| Multiple Sclerosis<br>Relapse  | [No multiple sclerosis relapses during pregnancy if 50,000 IU of Vitamin D weekly – RCT April 2015](/posts/no-multiple-sclerosis-relapses-during-pregnancy-if-50000-iu-of-vitamin-d-weekly-rct)<br><a href="/posts/multiple-sclerosis-treated-equally-by-uvb-and-weekly-50000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis treated equally by UVB and weekly 50,000 IU of Vitamin D – RCT July 2023">Multiple Sclerosis treated equally by UVB and weekly 50,000 IU of Vitamin D – RCT July 2023</a> |
-| Multiple Sclerosis<br>Fatigue | <a href="/posts/multiple-sclerosis-fatigue-reduced-by-weekly-vitamin-d-50000-iu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis fatigue reduced by weekly Vitamin D (50,000 IU) – June 2023">Multiple Sclerosis fatigue reduced by weekly Vitamin D (50,000 IU) – June 2023</a> |
-| Muscles - women | <a href="/posts/muscles-improved-in-women-with-50000-iu-vitamin-d-weekly-8-weeks-plus-daily-magnesium-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020">Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020</a><br><a href="/posts/muscle-pain-in-obese-women-reduced-by-aerobic-exercise-plus-50000-iu-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscle pain in obese women reduced by aerobic exercise plus 50,000 IU Vitamin D - RCT May 2021">Muscle pain in obese women reduced by aerobic exercise plus 50,000 IU Vitamin D - RCT May 2021</a> |
+| [Obesity](/tags/obesity.html) | [Obese lost more weight on diet if added 50,000 IU of vitamin D weekly – many RCTs](/posts/obese-lost-more-weight-on-diet-if-added-50000-iu-of-vitamin-d-weekly-many-rcts) |
+| Multiple Sclerosis<br>Relapse  | [No multiple sclerosis relapses during pregnancy if 50,000 IU of Vitamin D weekly – RCT April 2015](/posts/no-multiple-sclerosis-relapses-during-pregnancy-if-50000-iu-of-vitamin-d-weekly-rct)<br>[Multiple Sclerosis treated equally by UVB and weekly 50,000 IU of Vitamin D – RCT July 2023](/posts/multiple-sclerosis-treated-equally-by-uvb-and-weekly-50000-iu-of-vitamin-d-rct) |
+| Multiple Sclerosis<br>Fatigue | [Multiple Sclerosis fatigue reduced by weekly Vitamin D (50,000 IU) – June 2023](/posts/multiple-sclerosis-fatigue-reduced-by-weekly-vitamin-d-50000-iu) |
+| Muscles - women | [Muscles improved in women with 50,000 IU vitamin D weekly (8 weeks) plus daily Magnesium – RCT Sept 2020](/posts/muscles-improved-in-women-with-50000-iu-vitamin-d-weekly-8-weeks-plus-daily-magnesium-rct)<br>[Muscle pain in obese women reduced by aerobic exercise plus 50,000 IU Vitamin D - RCT May 2021](/posts/muscle-pain-in-obese-women-reduced-by-aerobic-exercise-plus-50000-iu-vitamin-d-rct) |
 | Osteoarthritis – knee  | [Knee osteoarthritis treated with vitamin D, weekly 50,000 IU – May 2015](/posts/knee-osteoarthritis-treated-with-vitamin-d-weekly-50000-iu) |
-| ((Pain - chronic | Pain))<br>(dup of 2 weeks)  | <a href="/posts/7-improvements-in-lives-of-veterans-with-chronic-pain-with-50000-iu-vitamin-d-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012">7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012</a><br><a href="/posts/pain-reduced-by-vitamin-d-60k-weekly-then-monthly-plus-daily-calcium-in-3-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pain reduced by Vitamin D (60K weekly, then monthly) plus daily Calcium in 3 months – May 2021">Pain reduced by Vitamin D (60K weekly, then monthly) plus daily Calcium in 3 months – May 2021</a> |
-| PMS   | <a href="/posts/pms-in-teens-reduced-3x-by-50000-iu-vitamin-d-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018">PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018</a> |
-| Sleep Apnea | <a href="/posts/mild-obstructive-sleep-apnea-decreased-by-50000-iu-weekly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mild Obstructive Sleep Apnea decreased by 50,000 IU weekly vitamin D – June 2021">Mild Obstructive Sleep Apnea decreased by 50,000 IU weekly vitamin D – June 2021</a> |
-| Sports <br>Performance | <a href="/posts/athletes-helped-by-weekly-50000-iu-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Athletes helped by weekly 50,000 IU Vitamin D – RCT Aug 2019">Athletes helped by weekly 50,000 IU Vitamin D – RCT Aug 2019</a><br><a href="/posts/50000-iu-vitamin-d-weekly-provided-enough-benefit-for-combat-sport-athletes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly provided enough benefit for combat sport athletes – March 2020">50,000 IU Vitamin D weekly provided enough benefit for combat sport athletes – March 2020</a> |
-| Stroke | <a href="/posts/stroke-patients-getting-weekly-50000-iu-vitamin-d-did-better-trial" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stroke patients getting weekly 50,000 IU Vitamin D did better – trial March 2021">Stroke patients getting weekly 50,000 IU Vitamin D did better – trial March 2021</a> |
-| Surgery | <a href="/posts/weekly-oral-vitamin-d-recommended-before-surgery-bariatric-in-this-case-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Weekly oral Vitamin D recommended before surgery (Bariatric in this case) – RCT June 2019">Weekly oral Vitamin D recommended before surgery (Bariatric in this case) – RCT June 2019</a> |
-| Tonsillitis | <a href="/posts/chronic-tonsillitis-virtually-eliminated-in-children-by-vitamin-d-50000-iu-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic tonsillitis virtually eliminated in children by Vitamin D (50,000 IU weekly) – RCT May 2023">Chronic tonsillitis virtually eliminated in children by Vitamin D (50,000 IU weekly) – RCT May 2023</a> |
-| Ulcerative <br>Colitis  | <a href="/posts/ulcerative-colitis-inflammation-treated-by-weekly-vitamin-d-40000-iu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ulcerative Colitis inflammation treated by weekly vitamin D (40,000 IU) – July 2018">Ulcerative Colitis inflammation treated by weekly vitamin D (40,000 IU) – July 2018</a> |
+| ((Pain - chronic | Pain))<br>(dup of 2 weeks)  | [7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012](/posts/7-improvements-in-lives-of-veterans-with-chronic-pain-with-50000-iu-vitamin-d-weekly)<br>[Pain reduced by Vitamin D (60K weekly, then monthly) plus daily Calcium in 3 months – May 2021](/posts/pain-reduced-by-vitamin-d-60k-weekly-then-monthly-plus-daily-calcium-in-3-months) |
+| PMS   | [PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018](/posts/pms-in-teens-reduced-3x-by-50000-iu-vitamin-d-weekly) |
+| Sleep Apnea | [Mild Obstructive Sleep Apnea decreased by 50,000 IU weekly vitamin D – June 2021](/posts/mild-obstructive-sleep-apnea-decreased-by-50000-iu-weekly-vitamin-d) |
+| Sports <br>Performance | [Athletes helped by weekly 50,000 IU Vitamin D – RCT Aug 2019](/posts/athletes-helped-by-weekly-50000-iu-vitamin-d-rct)<br>[50,000 IU Vitamin D weekly provided enough benefit for combat sport athletes – March 2020](/posts/50000-iu-vitamin-d-weekly-provided-enough-benefit-for-combat-sport-athletes) |
+| Stroke | [Stroke patients getting weekly 50,000 IU Vitamin D did better – trial March 2021](/posts/stroke-patients-getting-weekly-50000-iu-vitamin-d-did-better-trial) |
+| Surgery | [Weekly oral Vitamin D recommended before surgery (Bariatric in this case) – RCT June 2019](/posts/weekly-oral-vitamin-d-recommended-before-surgery-bariatric-in-this-case-rct) |
+| Tonsillitis | [Chronic tonsillitis virtually eliminated in children by Vitamin D (50,000 IU weekly) – RCT May 2023](/posts/chronic-tonsillitis-virtually-eliminated-in-children-by-vitamin-d-50000-iu-weekly-rct) |
+| Ulcerative <br>Colitis  | [Ulcerative Colitis inflammation treated by weekly vitamin D (40,000 IU) – July 2018](/posts/ulcerative-colitis-inflammation-treated-by-weekly-vitamin-d-40000-iu) |
 | Ulcers – Venous  | [Venous ulcers healed 4X faster with weekly 50,000 IU vitamin D – RCT Oct 2012](/posts/venous-ulcers-healed-4x-faster-with-weekly-50000-iu-vitamin-d-rct) |
-| UTI <br>(dup of 2 weeks) | <a href="/posts/urgency-urinary-incontinence-in-senior-black-women-decreased-40-percent-by-weekl-u-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Urgency Urinary Incontinence in senior black women decreased 40 percent by weekly 50,000 IU vitamin D – RCT Dec 2018">Urgency Urinary Incontinence in senior black women decreased 40 percent by weekly 50,000 IU vitamin D – RCT Dec 2018</a><br><a href="/posts/urinary-incontinence-reduced-by-50000-iu-of-vitamin-d-weekly-details-behind-paywall-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Urinary Incontinence reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023">Urinary Incontinence reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023</a> |** 
+| UTI <br>(dup of 2 weeks) | [Urgency Urinary Incontinence in senior black women decreased 40 percent by weekly 50,000 IU vitamin D – RCT Dec 2018](/posts/urgency-urinary-incontinence-in-senior-black-women-decreased-40-percent-by-weekl-u-vitamin-d-rct)<br>[Urinary Incontinence reduced by 50,000 IU of vitamin D weekly (details behind paywall) – RCT Feb 2023](/posts/urinary-incontinence-reduced-by-50000-iu-of-vitamin-d-weekly-details-behind-paywall-rct) |** 
 
  **See also** 
 
-* <a href="/posts/take-50000-iu-of-vitamin-d-weekly-for-2-4-months-then-get-a-test" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take 50,000 IU of Vitamin D weekly for 2-4 months, then get a test - Dec 2021">Take 50,000 IU of Vitamin D weekly for 2-4 months, then get a test - Dec 2021</a>
+* [Take 50,000 IU of Vitamin D weekly for 2-4 months, then get a test - Dec 2021](/posts/take-50000-iu-of-vitamin-d-weekly-for-2-4-months-then-get-a-test)
 
-* <a href="/posts/vitamin-d-supplementation-guidelines-adults-50000-iu-per-week" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplementation guidelines (adults – 50,000 IU per week) – Feb 2017">Vitamin D supplementation guidelines (adults – 50,000 IU per week) – Feb 2017</a>
+* [Vitamin D supplementation guidelines (adults – 50,000 IU per week) – Feb 2017](/posts/vitamin-d-supplementation-guidelines-adults-50000-iu-per-week)
 
 ---
 
@@ -677,6 +677,6 @@ Increase <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; te
 
 ---
 
-#### <a href="/posts/50000-iu-of-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU of Vitamin D - many studies">50,000 IU of Vitamin D - many studies</a> 160+
+#### [50,000 IU of Vitamin D - many studies](/posts/50000-iu-of-vitamin-d-many-studies) 160+
 
  **short URL =**  is.gd/vitdweek

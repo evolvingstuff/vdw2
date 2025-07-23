@@ -73,13 +73,13 @@ Vitamin D: Physiology, Molecular Biology, and Clinical Applications, Second Edit
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d-books" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2123">Overview Vitamin D books</a>
+* [Overview Vitamin D books](/tags/overview-vitamin-d-books.html)
 
-* <a href="/posts/vitamin-d-solution-holick-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 144">Vitamin D Solution – Holick 2010</a> author is one of the top 5 researchers, pretty good, many libraries will have the book
+* [Vitamin D Solution – Holick 2010](/tags/vitamin-d-solution-holick-2010.html) author is one of the top 5 researchers, pretty good, many libraries will have the book
 
 * [Vitamin D, Sunlight and Cancer Connection – Holick Jan 2013](/posts/vitamin-d-sunlight-and-cancer-connection-holick)
 
-* <a href="/posts/evidence-for-vitamin-d-holick" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Evidence for vitamin D – Holick June 2012">Evidence for vitamin D – Holick June 2012</a> Dermato-Endocrinology 
+* [Evidence for vitamin D – Holick June 2012](/posts/evidence-for-vitamin-d-holick) Dermato-Endocrinology 
 
 * [VITAMIN D: A D-LIGHTFUL SOLUTION FOR GOOD HEALTH – Holick 2012](/posts/vitamin-d-a-d-lightful-solution-for-good-health-holick-2012)
 

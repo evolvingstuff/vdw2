@@ -48,10 +48,10 @@ Perhaps TV advertising of drugs is allowed in Australia and Canada as well - see
 
 ## See also VitaminDWiki
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a>
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a> does Vitamin D reduce Hypertension better than statins?
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d) does Vitamin D reduce Hypertension better than statins?
 
-* <a href="/posts/statin-use-increased-probability-of-diabetes-in-women-by-48-percent-perhaps-via-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statin use increased probability of diabetes in women by 48 percent – perhaps via vitamin D Jan 2012">Statin use increased probability of diabetes in women by 48 percent – perhaps via vitamin D Jan 2012</a>
+* [Statin use increased probability of diabetes in women by 48 percent – perhaps via vitamin D Jan 2012](/posts/statin-use-increased-probability-of-diabetes-in-women-by-48-percent-perhaps-via-vitamin-d)
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)

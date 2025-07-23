@@ -35,9 +35,9 @@ Correspondence to Fan Mu, ScD, Brigham and Women’s Hospital, ObGyn Epidemiolog
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> 
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) 
 
 > 70 disease pairs as of March 2016
 

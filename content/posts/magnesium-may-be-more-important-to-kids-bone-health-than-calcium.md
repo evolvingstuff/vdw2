@@ -86,14 +86,14 @@ Results showed that the amounts of magnesium consumed and absorbed were key pred
 
 * [More than Calcium and Vitamin D can improve bones – Nov 2012](/posts/more-than-calcium-and-vitamin-d-can-improve-bones)
 
-* <a href="/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012">Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012</a>
+* [Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012](/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012)
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
-* <a href="/posts/400-iu-of-vitamin-d-magnesium-and-calcium-helped-twin-bones" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 400 IU of vitamin D Magnesium and Calcium helped Twin bones – Feb 2011">400 IU of vitamin D Magnesium and Calcium helped Twin bones – Feb 2011</a>
+* [400 IU of vitamin D Magnesium and Calcium helped Twin bones – Feb 2011](/posts/400-iu-of-vitamin-d-magnesium-and-calcium-helped-twin-bones)
 
-* <a href="/posts/magnesium-deficiency-reduces-vitamin-d-effectiveness" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium Deficiency Reduces Vitamin D Effectiveness- Sept 2011">Magnesium Deficiency Reduces Vitamin D Effectiveness- Sept 2011</a>
+* [Magnesium Deficiency Reduces Vitamin D Effectiveness- Sept 2011](/posts/magnesium-deficiency-reduces-vitamin-d-effectiveness)
 
-* <a href="/posts/6500-iu-vitamin-d-not-improve-bone-density-without-co-factors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6500 IU vitamin D not improve bone density without co-factors – Jan 2012">6500 IU vitamin D not improve bone density without co-factors – Jan 2012</a>
+* [6500 IU vitamin D not improve bone density without co-factors – Jan 2012](/posts/6500-iu-vitamin-d-not-improve-bone-density-without-co-factors)
 
 * [Bones grow better with high level of magnesium: rat study – Dec 2013](/posts/bones-grow-better-with-high-level-of-magnesium-rat-study)

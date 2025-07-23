@@ -50,10 +50,10 @@
 
 * [Rickets can be suspected below 36 ng of vitamin D – Oct 2012](/posts/rickets-can-be-suspected-below-36-ng-of-vitamin-d)
 
-* <a href="/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Black Sudanese children 350X more likely to have rickets than other Australians – April 2012">Black Sudanese children 350X more likely to have rickets than other Australians – April 2012</a> .
+* [Black Sudanese children 350X more likely to have rickets than other Australians – April 2012](/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians) .
 
-* <a href="/posts/your-vitamin-d-deficient-infant-could-be-taken-away-from-you-council" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Your vitamin D deficient infant could be taken away from you – Council Sept 2010">Your vitamin D deficient infant could be taken away from you – Council Sept 2010</a>
+* [Your vitamin D deficient infant could be taken away from you – Council Sept 2010](/posts/your-vitamin-d-deficient-infant-could-be-taken-away-from-you-council)
 
-* <a href="/posts/16-percent-of-exclusively-breastfed-infants-so-low-on-vitamin-d-that-they-had-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 16% of exclusively breastfed infants so low on vitamin D that they had rickets – June 2010">16% of exclusively breastfed infants so low on vitamin D that they had rickets – June 2010</a>  .
+* [16% of exclusively breastfed infants so low on vitamin D that they had rickets – June 2010](/posts/16-percent-of-exclusively-breastfed-infants-so-low-on-vitamin-d-that-they-had-rickets)  .
 
-* <a href="/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019">Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019</a>
+* [Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019](/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc)

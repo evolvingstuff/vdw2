@@ -47,7 +47,7 @@
 
 
 #### Update  
- <a href="/posts/monthly-100000-iu-of-vitamin-d-is-safe-and-may-be-better-than-daily-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monthly 100,000 IU of vitamin D is safe (and may be better than daily) – RCT Aug 2018">Monthly 100,000 IU of vitamin D is safe (and may be better than daily) – RCT Aug 2018</a>
+ [Monthly 100,000 IU of vitamin D is safe (and may be better than daily) – RCT Aug 2018](/posts/monthly-100000-iu-of-vitamin-d-is-safe-and-may-be-better-than-daily-rct)
 
 #### The Vitamin DAssessment (ViDA) Study: design of a randomized controlled trial of vitamin D supplementation for the prevention of cardiovascular disease, acute respiratory infection, falls and non-vertebral fractures.
 
@@ -77,13 +77,13 @@ PMID: 26365555
 
 * [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need) identical dose/month as this RCT
 
-* <a href="/posts/100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100000 IU vitamin D monthly helps COPD patients – 3 RCT">100000 IU vitamin D monthly helps COPD patients – 3 RCT</a>
+* [100000 IU vitamin D monthly helps COPD patients – 3 RCT](/posts/100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct)
 
 * [2X fewer Senior falls in group getting 100,000 IU vitamin D monthly via Meals-on-Wheels – RCT Aug 2015](/posts/2x-fewer-senior-falls-in-group-getting-100000-iu-vitamin-d-monthly-via-meals-on-wheels-rct)
 
 * [Monthly 100,000 IU vitamin D supplementation got virtually all vitamin D deficient subjects above 20 ng – RCT April 2014](/posts/monthly-100000-iu-vitamin-d-supplementation-got-virtually-all-vitamin-d-deficien-above-20-ng-rct)
 
-* <a href="/posts/take-vitamin-d3-daily-or-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Take vitamin D3 daily or weekly</a> shows that monthly dosing results in less benefit
+* [Take vitamin D3 daily or weekly](/tags/take-vitamin-d3-daily-or-weekly.html) shows that monthly dosing results in less benefit
 
 > Notional of Vitamin D benefit vs dosing frequency for vitamin D level < 30 nanograms
 

@@ -60,7 +60,7 @@ The peaks/valleys unbalance the body's chemistry
 
 * [Quarterly vitamin D3 is too infrequent – it increases the occurrence of pneumonia – June 2012](/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia)
 
-* <a href="/posts/take-vitamin-d3-daily-or-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Take vitamin D3 daily or weekly</a> which has the following graphic
+* [Take vitamin D3 daily or weekly](/tags/take-vitamin-d3-daily-or-weekly.html) which has the following graphic
 
 > Notional of Vitamin D benefit vs dosing frequency of < 30 nanograms
 

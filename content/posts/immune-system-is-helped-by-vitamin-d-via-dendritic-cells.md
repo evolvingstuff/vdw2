@@ -62,7 +62,7 @@ Studies over the last two decades have revealed profound immunomodulatory aspect
 
 * [1000 IU per kg Vitamin D for autoimmune diseases – Coimbra Aug 2013](/posts/1000-iu-per-kg-vitamin-d-for-autoimmune-diseases-coimbra)
 
-* <a href="/posts/autoimmune-system-dendric-cells-and-active-vitamin-d-technical" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autoimmune system, Dendric cells and active Vitamin D (technical) March 2019">Autoimmune system, Dendric cells and active Vitamin D (technical) March 2019</a>
+* [Autoimmune system, Dendric cells and active Vitamin D (technical) March 2019](/posts/autoimmune-system-dendric-cells-and-active-vitamin-d-technical)
 
 * [Review of Autoimmune diseases, solar radiation and vitamin D – Schwalfenberg 2012](/posts/review-of-autoimmune-diseases-solar-radiation-and-vitamin-d-schwalfenberg-2012)
 

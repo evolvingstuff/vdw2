@@ -56,7 +56,7 @@ PMID: 25093721
 
 * [IVF 4X more successful for white women with lots of vitamin D – many studies](/posts/ivf-4x-more-successful-for-white-women-with-lots-of-vitamin-d-many-studies)
 
-* <a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">Vitamin D and fertility: a systematic review – May 2012</a>
+* [Vitamin D and fertility: a systematic review – May 2012](/posts/vitamin-d-and-fertility-a-systematic-review)
 
 * [Assisted Reproduction – 5 studies concluded vitamin D repletion helps – Review March 2015](/posts/assisted-reproduction-5-studies-concluded-vitamin-d-repletion-helps-review)
 

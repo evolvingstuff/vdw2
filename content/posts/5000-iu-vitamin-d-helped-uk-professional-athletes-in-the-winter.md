@@ -57,25 +57,25 @@ PMID: 23083379
 
 ## See also VitaminDWiki
 
-<a href="/posts/professional-sports-team-takes-span-stylecolor00f5000-iuspan-vitamin-d-and-wins-championship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 293">Professional sports team takes **<span style="color:#00F;">5000 IU</span>**  vitamin D and wins championship</a> Hockey
+[Professional sports team takes **<span style="color:#00F;">5000 IU</span>**  vitamin D and wins championship](/tags/professional-sports-team-takes-span-stylecolor00f5000-iuspan-vitamin-d-and-wins-championship.html) Hockey
 
 [5,000 IU daily was just enough vitamin D for Irish athletes in the winter – March 2013](/posts/5000-iu-daily-was-just-enough-vitamin-d-for-irish-athletes-in-the-winter)
 
-<a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Overview Sports and vitamin D</a> which has the following summary Oct 2012
+[Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d) which has the following summary Oct 2012
 
 *  **<span style="color:#F00;">Athletes are helped by vitamin D by:</span>** 
 
-1. <a href="/posts/faster-reaction-time" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 278">Faster reaction time</a>
+1. [Faster reaction time](/tags/faster-reaction-time.html)
 
-1. <a href="/posts/far-fewer-coldsflues-during-the-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 707">Far fewer colds/flues during the winter</a>
+1. [Far fewer colds/flues during the winter](/tags/far-fewer-coldsflues-during-the-winter.html)
 
 1. Less sore/tired after a workout
 
-1. <a href="/posts/fewer-micro-cracks-and-broken-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 974">Fewer micro-cracks and broken bones</a>
+1. [Fewer micro-cracks and broken bones](/tags/fewer-micro-cracks-and-broken-bones.html)
 
 1. Bones which do break heal much more quickly
 
-1. <a href="/posts/increased-vo2-and-exercise-endurance" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1724">Increased VO2 and exercise endurance</a> Feb 2011
+1. [Increased VO2 and exercise endurance](/tags/increased-vo2-and-exercise-endurance.html) Feb 2011
 
 1. Indoor athletes especially need vitamin D
 

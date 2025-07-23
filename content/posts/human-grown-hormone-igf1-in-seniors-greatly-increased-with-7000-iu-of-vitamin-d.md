@@ -59,7 +59,7 @@ Conclusions: Vitamin D increases circulating IGF1 in adults. As a result, a bett
 
 ## See also VitaminDWiki
 
-* <a href="/posts/increased-growth-factors-with-vitamin-d-and-vitamin-k2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased growth factors with vitamin D and Vitamin K2 – May 2012">Increased growth factors with vitamin D and Vitamin K2 – May 2012</a>
+* [Increased growth factors with vitamin D and Vitamin K2 – May 2012](/posts/increased-growth-factors-with-vitamin-d-and-vitamin-k2)
 
 * [Search VitaminDWiki for IGF](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=+IGF&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 168 items as of Aug 2015
 

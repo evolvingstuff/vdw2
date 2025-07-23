@@ -58,11 +58,11 @@ PMID:     23168244
 
 #### See also VitaminDWiki
 
-* <a href="/posts/uk-pediatricians-have-a-lot-to-learn-about-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UK pediatricians have a lot to learn about vitamin D – May 2012">UK pediatricians have a lot to learn about vitamin D – May 2012</a>
+* [UK pediatricians have a lot to learn about vitamin D – May 2012](/posts/uk-pediatricians-have-a-lot-to-learn-about-vitamin-d)
 
 * [A look at inner workings of committee looking at vitamin D for UK - Dec 2012](/posts/a-look-at-inner-workings-of-committee-looking-at-vitamin-d-for-uk)
 
-* <a href="/posts/chief-uk-medical-officer-recommends-only-280-iu-for-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chief UK Medical Officer recommends only 280 IU for children - Jan 2011">Chief UK Medical Officer recommends only 280 IU for children - Jan 2011</a>
+* [Chief UK Medical Officer recommends only 280 IU for children - Jan 2011](/posts/chief-uk-medical-officer-recommends-only-280-iu-for-children)
 
 * [2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013](/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis)
 
@@ -72,10 +72,10 @@ PMID:     23168244
 
 > Even 5,000 IU vitamin D daily was not enough
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011">People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011</a>
+* [People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011](/posts/people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d)
 
-* <a href="/posts/sunlight-robbery-in-the-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunlight robbery in the UK May 2010">Sunlight robbery in the UK May 2010</a>
+* [Sunlight robbery in the UK May 2010](/posts/sunlight-robbery-in-the-uk)
 
 * [Let 1000 die from vitamin D deficiency rather than incur 1 lawsuit](/posts/let-1000-die-from-vitamin-d-deficiency-rather-than-incur-1-lawsuit)

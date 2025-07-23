@@ -55,7 +55,7 @@ This thesis presents evidence that UV LEDs have the capacity to efficiently synt
 
 * [Vitamin D produced in pig skin by 296 nmeter UV-LEDs – May 2016](/posts/vitamin-d-produced-in-pig-skin-by-296-nmeter-uv-leds)
 
-* <a href="/posts/uv-leds-293-nm-produce-the-more-vitamin-d-in-skin-than-290-305-nm-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV LEDs (293 nm) produce the more Vitamin D in skin than 290-305 nm UVB – Sept 2017">UV LEDs (293 nm) produce the more Vitamin D in skin than 290-305 nm UVB – Sept 2017</a>
+* [UV LEDs (293 nm) produce the more Vitamin D in skin than 290-305 nm UVB – Sept 2017](/posts/uv-leds-293-nm-produce-the-more-vitamin-d-in-skin-than-290-305-nm-uvb)
 
 ## See also web
 

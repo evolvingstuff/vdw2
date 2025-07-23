@@ -57,7 +57,7 @@ Vitamin D helps bones absorb calcium and can protect against osteoporosis. It's 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-genes-varied-seasonally-with-european-but-not-asian-ancestors-vdbp" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Genes varied seasonally with European but not Asian ancestors – VDBP June 2011">Vitamin D Genes varied seasonally with European but not Asian ancestors – VDBP June 2011</a>
+* [Vitamin D Genes varied seasonally with European but not Asian ancestors – VDBP June 2011](/posts/vitamin-d-genes-varied-seasonally-with-european-but-not-asian-ancestors-vdbp)
 
 * [Large seasonal variation in vitamin D levels associated with poor bone health – Aug 2013](/posts/large-seasonal-variation-in-vitamin-d-levels-associated-with-poor-bone-health)
 

@@ -59,4 +59,4 @@ We observed a significantly larger proportion of infants in the D2 group with de
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)

@@ -33,6 +33,6 @@ It's a mad stat, and leads us to ask; have we simply become too 'sun smart' for 
 
 ---
 
-* <a href="/posts/dermatologists-use-sun-block-stay-indoors-and-have-low-vitamin-d-thai-in-this-study" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dermatologists use sun block, stay indoors, and have low vitamin D (Thai in this study) – Dec 2018">Dermatologists use sun block, stay indoors, and have low vitamin D (Thai in this study) – Dec 2018</a>
+* [Dermatologists use sun block, stay indoors, and have low vitamin D (Thai in this study) – Dec 2018](/posts/dermatologists-use-sun-block-stay-indoors-and-have-low-vitamin-d-thai-in-this-study)
 
  **PDF is attached at the bottom of this page**

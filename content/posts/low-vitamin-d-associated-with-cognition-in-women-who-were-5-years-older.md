@@ -70,7 +70,7 @@ Conclusions: Higher levels of plasma vitamin D in women aged 60–70 years were 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Vitamin D was one of the few drugs which improved cognition in seniors – Aug 2013](/posts/vitamin-d-was-one-of-the-few-drugs-which-improved-cognition-in-seniors)
 
@@ -84,9 +84,9 @@ Conclusions: Higher levels of plasma vitamin D in women aged 60–70 years were 
 
 * [Cognitive Impairment 2.4X more likely if low vitamin D – meta-analysis July 2012](/posts/cognitive-impairment-24x-more-likely-if-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/senior-moment-25x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Senior moment" 25X more likely with low vitamin D - Feb 2012">"Senior moment" 25X more likely with low vitamin D - Feb 2012</a>
+* ["Senior moment" 25X more likely with low vitamin D - Feb 2012](/posts/senior-moment-25x-more-likely-with-low-vitamin-d)
 
-* <a href="/posts/dementia-19x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia 19X more likely if low vitamin D – Jan 2012">Dementia 19X more likely if low vitamin D – Jan 2012</a>
+* [Dementia 19X more likely if low vitamin D – Jan 2012](/posts/dementia-19x-more-likely-if-low-vitamin-d)
 
 ---
 
@@ -202,4 +202,4 @@ Conclusions: Higher levels of plasma vitamin D in women aged 60–70 years were 
 
 1. Carter GD, Carter R, Jones J, Berry J. How accurate are assays for 25-hydroxyvitamin D? Data from the international vitamin D external quality assessment scheme. Clin Chem 2004;50(11):2195–2197. CrossRef
 
-1. Ginde AA, Liu MC, Camargo CA, Jr. Demographic differences and trends of vitamin D insufficiency in the US population, 1988–2004. Arch Intern Med 2009;169(6):626–632. CrossRef  which is in <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+1. Ginde AA, Liu MC, Camargo CA, Jr. Demographic differences and trends of vitamin D insufficiency in the US population, 1988–2004. Arch Intern Med 2009;169(6):626–632. CrossRef  which is in [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)

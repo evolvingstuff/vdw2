@@ -63,6 +63,6 @@ Conclusions We suggest that future studies use similar biologically-based exposu
 
 * [Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012](/posts/shift-workers-23-percent-more-likely-to-have-cardiovascular-events-meta-analysis)
 
-* <a href="/posts/shiftwork-diseases-are-often-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shiftwork diseases are often due to lack of vitamin D">Shiftwork diseases are often due to lack of vitamin D</a>
+* [Shiftwork diseases are often due to lack of vitamin D](/posts/shiftwork-diseases-are-often-due-to-lack-of-vitamin-d)
 
 * [Shift work](https://VitaminDWiki.com/tiki-download_wiki_attachment.php?attId=559) PDF file

@@ -38,7 +38,7 @@ Even if your doctor  **personally**  feels that more vitamin D could be good for
 
 Even if he understands the power of vitamin D, he will rarely be likely to state: ‘’I believe that you should take more vitamin D.’’
 
-## <a href="/posts/vitamin-d-recommendations-from-around-the-world" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D recommendations from around the world</a> has the following graph
+## [Vitamin D recommendations from around the world](/tags/vitamin-d-recommendations-from-around-the-world.html) has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -52,7 +52,7 @@ Even if he understands the power of vitamin D, he will rarely be likely to state
 
 # See also VitaminDWiki
 
-* <a href="/posts/wonder-when-the-first-doctor-will-be-found-liable-for-not-providing-vitamin-d-to-a-patient" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2244">Wonder when the first doctor will be found liable for not providing vitamin D to a patient</a>
+* [Wonder when the first doctor will be found liable for not providing vitamin D to a patient](/posts/wonder-when-the-first-doctor-will-be-found-liable-for-not-providing-vitamin-d-to-a-patient)
 
 > Suspect that within a few years the liability situation will be reversed, that is, the doctor will be INCREASE his liability when he FAILS to recommend vitamin D
 
@@ -60,20 +60,20 @@ Even if he understands the power of vitamin D, he will rarely be likely to state
 
 > no side effects, even after 45 years.
 
-* <a href="/posts/about-1-in-300-people-have-an-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2433">About 1 in 300 people have an allergic reaction to vitamin D</a>
+* [About 1 in 300 people have an allergic reaction to vitamin D](/tags/about-1-in-300-people-have-an-allergic-reaction-to-vitamin-d.html)
 
 > it is very very simple to test for the minor allergic reaction.
 
-* <a href="/posts/many-people-around-the-world-are-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889">Many people around the world are vitamin D deficient</a>
+* [Many people around the world are vitamin D deficient](/tags/many-people-around-the-world-are-vitamin-d-deficient.html)
 
-* <a href="/posts/random-controlled-trials-have-proven-the-vitamin-d-prevents-or-treats-many-diseases" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Random Controlled trials have proven the vitamin D prevents or treats many diseases</a>
+* [Random Controlled trials have proven the vitamin D prevents or treats many diseases](/tags/random-controlled-trials-have-proven-the-vitamin-d-prevents-or-treats-many-diseases.html)
 
 > Note: Treatment often requires 10,000+ IU daily.
 
-* <a href="/posts/here-is-detailed-description-of-the-many-reasons-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Here is detailed description of the many reasons for vitamin D deficiency</a> many reasons have developed in the past 40 years
+* [Here is detailed description of the many reasons for vitamin D deficiency](/tags/here-is-detailed-description-of-the-many-reasons-for-vitamin-d-deficiency.html) many reasons have developed in the past 40 years
 
 * [Papers describing the groups at high risk of being vitamin D deficient](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=95&sort_mode=created_desc)
 
 > examples include: seniors, pregnant women, obese, dark skinned, avoid the sun, indoors most of the time, and wear excessive clothes
 
-* <a href="/posts/why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2617">Why are doctors reluctant to accept vitamin D</a>
+* [Why are doctors reluctant to accept vitamin D](/tags/why-are-doctors-reluctant-to-accept-vitamin-d.html)

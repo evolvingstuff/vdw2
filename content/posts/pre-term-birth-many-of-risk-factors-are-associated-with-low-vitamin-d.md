@@ -31,7 +31,7 @@
 }
 
 
-* <a href="/posts/preterm-birth-rate-reduced-by-vitamin-d-78-percent-if-non-white-39-percent-if-white" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017">Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017</a> Baggerly etc.
+* [Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017](/posts/preterm-birth-rate-reduced-by-vitamin-d-78-percent-if-non-white-39-percent-if-white) Baggerly etc.
 
 * [Vitamin D Webinar - cost of pre-term birth etc- Baggerly Nov 2013](/posts/vitamin-d-webinar-cost-of-pre-term-birth-etc-baggerly)
 
@@ -43,7 +43,7 @@
 
 * [Chance of preterm birth is strongly associated with low vitamin D – Feb 2015](/posts/chance-of-preterm-birth-is-strongly-associated-with-low-vitamin-d)
 
-* <a href="/posts/why-higher-levels-of-vitamin-d-reduces-premature-birth" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Why higher levels of vitamin D reduces premature birth - April 2011">Why higher levels of vitamin D reduces premature birth - April 2011</a> Dr. Grant
+* [Why higher levels of vitamin D reduces premature birth - April 2011](/posts/why-higher-levels-of-vitamin-d-reduces-premature-birth) Dr. Grant
 
 * [High risk of extremely premature birth if high BMI (low vitamin D) – June 2013](/posts/high-risk-of-extremely-premature-birth-if-high-bmi-low-vitamin-d)
 

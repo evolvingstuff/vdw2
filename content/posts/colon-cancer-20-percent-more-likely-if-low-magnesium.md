@@ -47,7 +47,7 @@ CONCLUSIONS: Findings from this study support the hypothesis that magnesium inta
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a>
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d)
 
 * [Colon cancer 30 percent more likely if low vitamin D – 12th meta-analysis Aug 2015](/posts/colon-cancer-30-percent-more-likely-if-low-vitamin-d-12th-meta-analysis)
 

@@ -47,17 +47,17 @@ If others have changed without problems there is less unknown to be afraid of.
 
 #### My history with change and Vitamin D
 
-* I have <a href="/posts/seniors-vitamin-d-workshop" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors Vitamin D Workshop - Sept 2011">personally informed many people of benefits of vitamin D</a>. They then increased their vitamin D (4,000 to 10,000 IU of vitamin D) and got benefits within weeks, However, every time they then told their doctor he said that much vitamin D could be toxic and had them decrease to 2,000 IU of vitamin D, and the benefits disappeared.
+* I have [personally informed many people of benefits of vitamin D](/posts/seniors-vitamin-d-workshop). They then increased their vitamin D (4,000 to 10,000 IU of vitamin D) and got benefits within weeks, However, every time they then told their doctor he said that much vitamin D could be toxic and had them decrease to 2,000 IU of vitamin D, and the benefits disappeared.
 
 * I have personally also described the benefits of vitamin D to friends with Multiple Sclerosis, Diabetes,  and Parkinson’s, They ignored my recommendation, as I am not a doctor and it seemed too good to be true.
 
-* Back in 2010 I (mistakenly) thought that doctors would change once that randomized controlled trials had proven that vitamin D works.  Now, in 2016, there have been over 500 trials proving that Vitamin D works – <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">for 68+ health problems</a>, but doctors have not changed and they now say that they do not yet understand why vitamin D works, so are not ready to recommend it. 
+* Back in 2010 I (mistakenly) thought that doctors would change once that randomized controlled trials had proven that vitamin D works.  Now, in 2016, there have been over 500 trials proving that Vitamin D works – [for 68+ health problems](/posts/proof-that-vitamin-d-works), but doctors have not changed and they now say that they do not yet understand why vitamin D works, so are not ready to recommend it. 
 
-> I now realize that there are <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">at least 10 reasons that doctors are reluctant</a>. 
+> I now realize that there are [at least 10 reasons that doctors are reluctant](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d). 
 
 * Doctors correctly fear possible loss of jobs.  One doctor went out of business in 2012 after he got all 2,000 of the patients in his clinic to a vitamin D level of 80 nanograms. They, on average, dropped the number of visits from 4 per year to only one per year – they were excessively healthy with that much vitamin D.  Our [5 minute video mentions the job loss problem of vitamin D](/posts/does-less-sun-mean-more-disease). 
 
-* I have decided to focus on those organizations which will benefit from increased vitamin D,  One example is a <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HMOs will save millions of dollars with vitamin D">Health Maintenance Organization</a> – where profit is made when people are healthier, increased health (due to vitamin D) attracts more customers.
+* I have decided to focus on those organizations which will benefit from increased vitamin D,  One example is a [Health Maintenance Organization](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d) – where profit is made when people are healthier, increased health (due to vitamin D) attracts more customers.
 
 #### Which health problems to focus on?
 
@@ -164,13 +164,13 @@ As of March 2016
 
 | | | | |
 | --- | --- | --- | --- |
-|  | ((Vitamin D is being used to prevent premature births – Baggerly interview – Dec 2015 | Pregnancy)) | [Multiple Sclerosis](/categories/multiple-sclerosis) |
+|  | ((Vitamin D is being used to prevent premature births – Baggerly interview – Dec 2015 | Pregnancy)) | [Multiple Sclerosis](/posts/multiple-sclerosis) |
 | Proof that vitamin D will help | Extensive | Minimal |
 | Cost savings for 1 year | $1,000 per pregnancy<br>(50% fewer premature births) | $10,000<br>(MS drugs are VERY expensive) |
 
  **<span style="color:#00F;">Summary: Multiple Sclerosis provides 10 times the cost savings, but has far less proof</span>** 
 
- **Note: Insurance Companies such as Blue Cross and <a href="/posts/aetna" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 532">Aetna</a> may also be interested** 
+ **Note: Insurance Companies such as Blue Cross and [Aetna](/tags/aetna.html) may also be interested** 
 
 * [Blue Cross parent lost $1.5 billion on individual health plans last year](http://www.chicagotribune.com/business/ct-blue-cross-obamacare-insurance-0313-biz-20160311-story.html) March 2016
 

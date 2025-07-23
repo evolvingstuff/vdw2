@@ -53,7 +53,7 @@ Might try topical vitamin D (cream, spray, patch, or oil) directly on the CTS
 
 * [100 percent of rheumatoid arthritis patients with very low vitamin D had very severe RA – Jan 2013](/posts/100-percent-of-rheumatoid-arthritis-patients-with-very-low-vitamin-d-had-very-severe-ra)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [400,000 IU of vitamin D reduced adult pain and improved quality of life – March 2014](/posts/400000-iu-of-vitamin-d-reduced-adult-pain-and-improved-quality-of-life)
 

@@ -79,7 +79,7 @@ PMID:     23953180
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * Vitamin D and diabetic neuropathy.pdf - file  (it is in VitaminDWiki, but no hyperlink, sorry
 

@@ -87,7 +87,7 @@ Bio-Tech is soon making a [D3Plus](https://www.biotechpharmacal.com/catalog/d3pl
 
 Example: 6 capsules per day if weigh 200 lbs, and even more if obese
 
-<a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">I take the ingredients of about 6 of those capsules daily</a>
+[I take the ingredients of about 6 of those capsules daily](/posts/low-cost-cofactors-for-vitamin-d)
 
 Note: probably should not take all 6 in a single serving - that might be too much of that type of Magnesium for the gut
 

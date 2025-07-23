@@ -245,7 +245,7 @@ The RCT used 50,000 IU every two weeks
 
 </div>
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a>** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web)** 
 
 Jamilian M1, Samimi M2, Mirhosseini N3, Afshar Ebrahimi F2, Aghadavod E4, Talaee R5, Jafarnejad S4, Hashemi Dizaji S6, Asemi Z7.
 

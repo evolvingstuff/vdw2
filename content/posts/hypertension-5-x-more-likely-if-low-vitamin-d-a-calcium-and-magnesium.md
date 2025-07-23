@@ -47,9 +47,9 @@ Barainca, Pamela – PHD Dissertation, University of MD
 
 * [Hypertension 30 percent more likely if low vitamin D – meta-analysis March 2013](/posts/hypertension-30-percent-more-likely-if-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/hypertension-associated-with-low-calcium-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypertension associated with low Calcium levels– Oct 2011">Hypertension associated with low Calcium levels– Oct 2011</a>
+* [Hypertension associated with low Calcium levels– Oct 2011](/posts/hypertension-associated-with-low-calcium-levels)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a> Overview
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d) Overview
 
 > section in Overview:  **Omega-3, Magnesium and Coenzyme Q10 may each be better than Vitamin D** 
 

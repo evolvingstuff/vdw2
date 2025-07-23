@@ -251,4 +251,4 @@ The role of vitamin D in bone metabolism, and the amount to support bone health 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)

@@ -60,13 +60,13 @@ Received April 11, 2012; Accepted July 31, 2012; Copyright © 2012 by The Endocr
 
 ### See also VitaminDWiki
 
-* <a href="/posts/air-pollution-associated-with-poor-bone-density-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution associated with poor bone density (less vitamin D) – Nov 2017">Air pollution associated with poor bone density (less vitamin D) – Nov 2017</a>
+* [Air pollution associated with poor bone density (less vitamin D) – Nov 2017](/posts/air-pollution-associated-with-poor-bone-density-less-vitamin-d)
 
 * [Pollution and Vitamin D](/posts/pollution-and-vitamin-d)
 
 * [Search VitaminDWiki for "air pollution"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22air+pollution%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 493 items as of June 2018
 
-* <a href="/posts/air-pollution-reduces-uv-and-thus-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 818">Air pollution reduces UV and thus vitamin D - Aug 2010</a> which has the following chart
+* [Air pollution reduces UV and thus vitamin D - Aug 2010](/posts/air-pollution-reduces-uv-and-thus-vitamin-d) which has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/vitamin-d-and-polution.gif" alt="image">
 

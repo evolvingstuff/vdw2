@@ -125,7 +125,7 @@ However, guess that the combination might result in a $3,500 average savings per
 
 ---
 
- **<a href="/posts/preterm-birth-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth and low Vitamin D - many studies">Preterm birth and low Vitamin D - many studies</a>** 
+ **[Preterm birth and low Vitamin D - many studies](/posts/preterm-birth-and-low-vitamin-d-many-studies)** 
 
 #### Details of pregnancy-related cost reductions for other supplements
 
@@ -151,7 +151,7 @@ However, guess that the combination might result in a $3,500 average savings per
 
  **All nutrients** 
 
-* <a href="/posts/micronutrients-such-as-vitamin-d-needed-during-pregnancy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Micronutrients (such as Vitamin D) needed during pregnancy – May 2016">Micronutrients (such as Vitamin D) needed during pregnancy – May 2016</a>
+* [Micronutrients (such as Vitamin D) needed during pregnancy – May 2016](/posts/micronutrients-such-as-vitamin-d-needed-during-pregnancy)
 
  **Folic Acid** 
 

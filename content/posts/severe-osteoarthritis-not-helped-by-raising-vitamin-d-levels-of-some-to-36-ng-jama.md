@@ -80,13 +80,13 @@ Trial Registration  clinicaltrials.gov Identifier: NCT00306774
 
 * [Will knee osteoarthritis be prevented with 1700 IU of vitamin D – proposed RCT](/posts/will-knee-osteoarthritis-be-prevented-with-1700-iu-of-vitamin-d-proposed-rct)
 
-* <a href="/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011">Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011</a>
+* [Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011](/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d)
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a> which had the following summary Jan 2013 
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d) which had the following summary Jan 2013 
 
 > Osteoarthritis results from narrowing of joints which are made of cartilage
 
-> Vitamin D with <a href="/posts/co-factors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">co-factors</a> such as Magnesium, Calcium, and vitamin K help build cartilage as well as bone
+> Vitamin D with [co-factors](/tags/co-factors.html) such as Magnesium, Calcium, and vitamin K help build cartilage as well as bone
 
 > Vitamin D PREVENTS Osteoarthritis
 

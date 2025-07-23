@@ -55,8 +55,8 @@ PMID:    23006125
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-is-a-t-cell-modulator-in-multiple-sclerosis-april-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is a T-cell modulator in multiple sclerosis – April 2011.">Vitamin D is a T-cell modulator in multiple sclerosis – April 2011.</a>
+* [Vitamin D is a T-cell modulator in multiple sclerosis – April 2011.](/posts/vitamin-d-is-a-t-cell-modulator-in-multiple-sclerosis-april-2011)
 
 * [The vitamin D receptor and T cell function – June 2013](/posts/the-vitamin-d-receptor-and-t-cell-function)
 
-* <a href="/posts/fight-cancer-with-more-than-cut-burn-and-poison-nobel-prize-for-t-cell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018">Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018</a>
+* [Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018](/posts/fight-cancer-with-more-than-cut-burn-and-poison-nobel-prize-for-t-cell)

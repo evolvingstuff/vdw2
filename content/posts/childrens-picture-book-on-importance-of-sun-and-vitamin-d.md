@@ -52,7 +52,7 @@ Price £4.99 - discount for bulk purchase. To buy Dinosaur D visit:  www.fbs.me.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/sunlight-for-babies-us-govt-1933" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunlight for babies – US Govt 1933">Sunlight for babies – US Govt 1933</a>
+* [Sunlight for babies – US Govt 1933](/posts/sunlight-for-babies-us-govt-1933)
 
 * [Why do gardeners live longer (vitamin D, etc.) ](/posts/why-do-gardeners-live-longer-vitamin-d-etc)
 

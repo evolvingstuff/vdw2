@@ -78,7 +78,7 @@ This trial was registered at clinicaltrials.gov as NCT01119378.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium hazards and bioavailability</a>
+* [Calcium hazards and bioavailability](/posts/calcium-hazards-and-bioavailability)
 
 * [Calcium intestinal absorption increased with active, but not tested level of vitamin D – May 2014](/posts/calcium-intestinal-absorption-increased-with-active-but-not-tested-level-of-vitamin-d)
 
@@ -88,7 +88,7 @@ This trial was registered at clinicaltrials.gov as NCT01119378.
 
 * [Little change in Calcium absorption when taking 400 vs 4,000 IU of vitamin D – Oct 2012](/posts/little-change-in-calcium-absorption-when-taking-400-vs-4000-iu-of-vitamin-d)
 
-* <a href="/posts/decrease-calcium-and-increase-magnesium-when-increasing-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Decrease Calcium and Increase Magnesium when increasing vitamin D">Decrease Calcium and Increase Magnesium when increasing vitamin D</a> has the following conceptual chart
+* [Decrease Calcium and Increase Magnesium when increasing vitamin D](/posts/decrease-calcium-and-increase-magnesium-when-increasing-vitamin-d) has the following conceptual chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

@@ -53,9 +53,9 @@ PMID: 23982028
 
 ## See also VitaminDWiki
 
-* <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a>
+* [Sepsis is both prevented and treated by Vitamin D - many studies](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies)
 
-* <a href="/posts/sepsis-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis associated with low vitamin D - April 2012">Sepsis associated with low vitamin D - April 2012</a>
+* [Sepsis associated with low vitamin D - April 2012](/posts/sepsis-associated-with-low-vitamin-d)
 
 * [Hospital or ICU death about twice as likely if low vitamin D – March 2014](/posts/hospital-or-icu-death-about-twice-as-likely-if-low-vitamin-d)
 

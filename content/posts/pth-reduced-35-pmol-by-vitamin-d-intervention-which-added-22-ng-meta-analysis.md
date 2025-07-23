@@ -66,7 +66,7 @@ PMID: 24382124
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-thyroid-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Thyroid and Vitamin D">Overview Thyroid and Vitamin D</a>
+* [Overview Thyroid and Vitamin D](/posts/overview-thyroid-and-vitamin-d)
 
 * [Hyperparathyroidism – still not absolutely, positively sure that vitamin D should be used to treat it – March 2014](/posts/hyperparathyroidism-still-not-absolutely-positively-sure-that-vitamin-d-should-be-used-to-treat-it)
 

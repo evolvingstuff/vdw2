@@ -41,7 +41,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
 * [Dr. Cannell on Autism – Spring 2013](/posts/dr-cannell-on-autism-spring-2013) 45 minute webinar hosted by GrassRootsHealth April 2013 
 
@@ -55,21 +55,21 @@ There was a rapid recovery in all three cases.
 
 Dr. Cannell speculated that the future goal for Autism might be a vitamin D level of 150 ng instead of the current 50-80 ng level
 
-* <a href="/posts/early-lack-of-vitamin-d-may-trigger-autism-clinical-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early lack of vitamin D may trigger autism – Clinical Review April 2012">Early lack of vitamin D may trigger autism – Clinical Review April 2012</a>
+* [Early lack of vitamin D may trigger autism – Clinical Review April 2012](/posts/early-lack-of-vitamin-d-may-trigger-autism-clinical-review)
 
-* <a href="/posts/prenatal-vitamins-including-vitamin-d-reduced-autism-by-7x-in-some-cases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prenatal vitamins – including vitamin D – reduced autism by 7X in some cases – May 2011">Prenatal vitamins – including vitamin D – reduced autism by 7X in some cases – May 2011</a>
+* [Prenatal vitamins – including vitamin D – reduced autism by 7X in some cases – May 2011](/posts/prenatal-vitamins-including-vitamin-d-reduced-autism-by-7x-in-some-cases)
 
-* <a href="/posts/autism-3x-more-likely-after-closely-spaced-pregnancy-vs-3-year-apart" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism 3X more likely after closely spaced pregnancy vs 3 year apart– Jan 2011">Autism 3X more likely after closely spaced pregnancy vs 3 year apart– Jan 2011</a>
+* [Autism 3X more likely after closely spaced pregnancy vs 3 year apart– Jan 2011](/posts/autism-3x-more-likely-after-closely-spaced-pregnancy-vs-3-year-apart)
 
 * [Twins, no tan, winter, and smoking all associated with low levels of vitamin D during pregnancy – Jan 2013](/posts/twins-no-tan-winter-and-smoking-all-associated-with-low-levels-of-vitamin-d-during-pregnancy)
 
 * [Pregnancy and vitamin D meta-analysis – July 2012](/posts/pregnancy-and-vitamin-d-meta-analysis)
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies)
 
-   * <a href="/posts/autism-more-frequent-from-mothers-who-are-dark-skinned-or-veiled" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism more frequent from mothers who are dark skinned or veiled – Jan 2011">Autism more frequent from mothers who are dark skinned or veiled – Jan 2011</a>
+   * [Autism more frequent from mothers who are dark skinned or veiled – Jan 2011](/posts/autism-more-frequent-from-mothers-who-are-dark-skinned-or-veiled)
 
 * [Breast Cancer and Vitamin D: Dr Garland - video June 2013](/posts/breast-cancer-and-vitamin-d-dr-garland-video) presented just after Dr. Cannell
 

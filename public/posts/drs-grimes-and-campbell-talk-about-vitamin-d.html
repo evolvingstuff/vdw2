@@ -1,0 +1,80 @@
+<!doctype html><html><head><meta charset=utf-8><title>Drs. Grimes and Campbell talk about Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Drs. Grimes and Campbell talk about Vitamin D</h1><time>December 23, 2024</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#vitamin-d-the-study-of-disease-86-minutediscussion>Vitamin D, the study of disease: 86 minute discussion</a></li><li><a href=#summary-byglasp-ai-a-free-chrome-extension>Summary by GLASP-AI (A FREE Chrome extension)</a></li></ul></li></ul></li></ul></nav><hr><h4 id=vitamin-d-the-study-of-disease-86-minutediscussion>Vitamin D, the study of disease: 86 minute discussion</h4><p><strong><a href="https://www.youtube.com/watch?v=a-uzGkCjiKQ&amp;t=14s&amp;ab_channel=Dr.JohnCampbell">YouTube</a></strong></p><h4 id=summary-byglasp-ai-a-free-chrome-extension>Summary by GLASP-AI (A FREE Chrome extension)</h4><p><strong>Summary (with approximate timestamps)</strong></p><ul><li><p><strong>(00:02–00:38) Introduction to Dr. David Grimes</strong></p><ul><li><p>Lifelong physician, consultant, medical researcher/teacher, and pioneer in vitamin D.</p></li><li><p>Early recognition of widespread vitamin D deficiency and its link to multiple diseases.</p></li></ul></li><li><p><strong>(01:16–03:15) Discovering Vitamin D Deficiency</strong></p><ul><li><p>Worked in Blackburn, NW England, a region with high poverty and a large South Asian population.</p></li><li><p>Began measuring vitamin D in ~5,000 patients in the 1980s, finding up to 85% of white patients and 95% of South Asian patients severely deficient.</p></li></ul></li><li><p><strong>(03:51–05:28) Tuberculosis and Vitamin D</strong></p><ul><li><p>TB risk soared in the South Asian community 6–8 years after arriving in the UK, likely triggered by lack of sunlight (vitamin D).</p></li><li><p>Vitamin D supports T-cell function (cellular immunity), helping contain TB bacteria.</p></li></ul></li><li><p><strong>(08:39–10:34) Historical Insights on Rickets and TB</strong></p><ul><li><p>Historical data (Glasgow, early 1900s) showed rickets (vitamin D deficiency) and TB clustered in poor, indoor workers.</p></li><li><p>A 1926 study in Bombay revealed wealthier families (who stayed indoors) suffered more rickets/TB, whereas poorer families working outdoors were healthier.</p></li></ul></li><li><p><strong>(14:13–15:10) Maternal and Childhood Vitamin D</strong></p><ul><li><p>Vitamin D deficiency in pregnancy can cause rickets and long-term health issues for children.</p></li><li><p>Babies born in winter months (when mothers have less sun exposure) have higher risks of certain diseases (e.g., multiple sclerosis).</p></li></ul></li><li><p><strong>(18:09–23:00) Broader Disease Links (Renal Disease, Diabetes, Heart Disease)</strong></p><ul><li><p>Chronic kidney disease and autoimmune conditions may be worsened or triggered by low vitamin D.</p></li><li><p>Cardiac disease (atherosclerosis, coronary artery disease) may involve chronic infection/inflammation, where vitamin D is crucial to immunity.</p></li><li><p>Type 2 diabetes correlates with low vitamin D, possibly due to effects on insulin resistance.</p></li></ul></li><li><p><strong>(27:30–31:52) Case Histories: Abdul and Frank</strong></p><ul><li><p><strong>Abdul:</strong> Arrived from Pakistan as a child; spent most life indoors in poor conditions. Developed kidney failure, TB, strokes, heart attacks, diabetes—all tied to poor immunity and vitamin D deficiency.</p></li><li><p><strong>Frank:</strong> Born in a deprived area, developed peptic ulcers, coronary artery disease, strokes, and peripheral vascular disease. Again, linked to chronic vitamin D deficiency and social deprivation.</p></li></ul></li><li><p><strong>(40:48–46:32) Decline in Heart Disease & Role of Infection</strong></p><ul><li><p>Heart attacks peaked around 1970, then declined—possibly related to shifts in infection patterns and immunity.</p></li><li><p>Vitamin D deficiency undermines the body’s ability to fight chronic inflammatory/infective processes in arterial walls.</p></li></ul></li><li><p><strong>(50:00–1:03:00) Public Health Implications</strong></p><ul><li><p>Advocates routine vitamin D testing, especially in pregnancy: “No child should be born deficient.”</p></li><li><p>Highlights the importance of vitamin D for immunity against all infections (rather than specific vaccines alone).</p></li><li><p>Notes that individuals vary widely in how much vitamin D they need (body weight, skin color, sunlight exposure).</p></li></ul></li><li><p><strong>(1:06:00–End) Conclusion and Next Steps</strong></p><ul><li><p>Emphasizes vitamin D as “low-hanging fruit” for global health improvement.</p></li><li><p>Dr. Grimes plans to reissue/update his book in PDF form for wider distribution.</p></li><li><p>Encourages broader public health policies to ensure universal vitamin D adequacy and break cycles of preventable disease.</p></li></ul></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/atherosclerosis.html><span class=tag>atherosclerosis</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/autoimmune-and-pregnancy.html><span class=tag>autoimmune and pregnancy</span></a>
+<a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/cardiovascular.html><span class=tag>cardiovascular</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/ckd.html><span class=tag>CKD</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/kidney.html><span class=tag>kidney</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/multiple-sclerosis-and-pregnancy.html><span class=tag>multiple sclerosis and pregnancy</span></a>
+<a href=/tags/pediatric-autoimmune.html><span class=tag>pediatric autoimmune</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/rickets.html><span class=tag>rickets</span></a>
+<a href=/tags/stroke.html><span class=tag>stroke</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/tuberculosis.html><span class=tag>tuberculosis</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>atherosclerosis, autoimmune, autoimmune and pregnancy, bacteria, bone, cardiovascular, child, CKD, diabetes, high dose, immunity, intervention, kidney, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, pediatric autoimmune, pregnancy, rickets, stroke, therapeutic intervention, tuberculosis, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

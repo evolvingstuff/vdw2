@@ -48,7 +48,7 @@ They also noted that a previous RCT using (only) 1200 IU of vitamin D did not sh
 
 * [2X more Parkinson's disease if modified vitamin D receptor genes – meta-analysis Aug 2014](/posts/2x-more-parkinsons-disease-if-modified-vitamin-d-receptor-genes-meta-analysis)
 
-* <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson's and Vitamin D</a> 
+* [Overview Parkinson's and Vitamin D](/posts/overview-parkinsons-and-vitamin-d) 
 
  **[Recent increase in Parkinson's](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade) age adjusted** 
 

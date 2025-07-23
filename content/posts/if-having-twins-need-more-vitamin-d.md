@@ -57,7 +57,7 @@ Deepti Goswami, Reena Rani, Alpana Saxena, Monika Sethi Arora, Swaraj Batra, Vis
 
 * [Premature birth 2.5X more likely if mother had low vitamin D and was having twins – July 2013](/posts/premature-birth-25x-more-likely-if-mother-had-low-vitamin-d-and-was-having-twins)
 
-* <a href="/posts/having-twins-takes-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having twins takes more vitamin D - May 2011">Having twins takes more vitamin D - May 2011</a>
+* [Having twins takes more vitamin D - May 2011](/posts/having-twins-takes-more-vitamin-d)
 
  **Twins are born about 5 weeks early** 
 

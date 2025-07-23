@@ -60,10 +60,10 @@ PMID: 26121590
 
 * [Advanced liver cirrhosis death 6.3X more likely if extremely low vitamin D – Jan 2013](/posts/advanced-liver-cirrhosis-death-63x-more-likely-if-extremely-low-vitamin-d)
 
-* <a href="/posts/alcoholic-liver-cirrhosis-treated-by-1000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alcoholic liver cirrhosis treated by 1,000 IU of vitamin D – July 2018">Alcoholic liver cirrhosis treated by 1,000 IU of vitamin D – July 2018</a>
+* [Alcoholic liver cirrhosis treated by 1,000 IU of vitamin D – July 2018](/posts/alcoholic-liver-cirrhosis-treated-by-1000-iu-of-vitamin-d)
 
-* <a href="/posts/liver-failure-in-icu-25x-more-likely-to-die-in-within-six-months-if-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Liver failure in ICU – 2.5X more likely to die in within six months if very low vitamin D – Oct 2018">Liver failure in ICU – 2.5X more likely to die in within six months if very low vitamin D – Oct 2018</a>
+* [Liver failure in ICU – 2.5X more likely to die in within six months if very low vitamin D – Oct 2018](/posts/liver-failure-in-icu-25x-more-likely-to-die-in-within-six-months-if-very-low-vitamin-d)
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 *  **[Search for CIRRHOSIS in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Cirrhosis&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 174 items Nov 2015**

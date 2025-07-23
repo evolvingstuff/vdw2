@@ -50,7 +50,7 @@ Note: Enteral supplementation = normal, through the mouth
 
  **See also VitaminDWiki** 
 
-<a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+[Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 [400,000 IU of vitamin D reduced adult pain and improved quality of life – March 2014](/posts/400000-iu-of-vitamin-d-reduced-adult-pain-and-improved-quality-of-life)
 

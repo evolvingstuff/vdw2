@@ -93,9 +93,9 @@ Might want to provide the user an indication of the importance of each question.
 
 Weight, BMI, Muscular (compensates for BMI in-accuracy)
 
-<a href="/posts/skin-color" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Skin color</a>
+[Skin color](/tags/skin-color.html)
 
-<a href="/posts/red-hair" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1677">Red hair</a> (less likely to be out in the sun)
+[Red hair](/tags/red-hair.html) (less likely to be out in the sun)
 
 ##### Have a disease/health problem which is strongly associated with low vitamin D
 
@@ -107,7 +107,7 @@ Inflammation – including depression -which consumes vitamin D
 
 Have infection
 
-[Gut](/categories/gut), Kidney, liver poor
+[Gut](/tags/gut.html), Kidney, liver poor
 
 Low stomach acid ==> less Magnesium
 

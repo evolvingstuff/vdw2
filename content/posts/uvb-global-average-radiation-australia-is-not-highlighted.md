@@ -41,7 +41,7 @@ Data set is available at http://www.ufz.de/gluv/
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
 * [UVB produced 8X more vitamin D as solar UV – July 2012](/posts/uvb-produced-8x-more-vitamin-d-as-solar-uv)
 

@@ -73,7 +73,7 @@ Note: 19th conf will be in Orlando March 2017
 
  **Most of the PDFs cost $35.95 each, only 4 are free (author had to pay?)** 
 
- **<a href="/posts/international-congress-on-vitamin-d-vitamind-workshop-ny" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: International Congress on Vitamin D (VitaminD Workshop) – NY May 2019">International Congress on Vitamin D (VitaminD Workshop) – NY May 2019</a> has links to many previous workshops** 
+ **[International Congress on Vitamin D (VitaminD Workshop) – NY May 2019](/posts/international-congress-on-vitamin-d-vitamind-workshop-ny) has links to many previous workshops** 
 
  **Abstracts are typically available [online](http://www.sciencedirect.com/science/journal/09600760/164/supp/C%20)** 
 
@@ -91,7 +91,7 @@ See below: Consistent ethnic specific differences . . . .
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/136-countries.pdf">Download the PDF via ResearchGate from VitaminDWiki</a>** 
 
-Here are additional histograms from [Australia](/posts/vitamin-d-testing-and-levels-are-increasing-in-australia-nsw) &nbsp; and <a href="/posts/historgrams-for-multiple-races" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4172">historgrams for multiple races</a>
+Here are additional histograms from [Australia](/posts/vitamin-d-testing-and-levels-are-increasing-in-australia-nsw) &nbsp; and [historgrams for multiple races](/tags/historgrams-for-multiple-races.html)
 
 ---
 

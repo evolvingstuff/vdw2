@@ -30,13 +30,13 @@ From Aug 18 email
 
 ## See also VitaminDWiki
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Vitamin D (40-70 ng) in Children’s Health – review Sept 2014](/posts/vitamin-d-40-70-ng-in-childrens-health-review)
 
 * [A group of 6,000 people have vitamin D levels higher than 50 ng – GrassrootsHealth](/posts/a-group-of-6000-people-have-vitamin-d-levels-higher-than-50-ng-grassrootshealth)
 
-* <a href="/posts/hawaiians-had-a-span-stylecolor690mean-of-51-ng-and-a-high-of-140-ngspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1853">Hawaiians had a  **<span style="color:#690;">mean of 51 ng and a high of 140 ng</span>** </a>
+* [Hawaiians had a  **<span style="color:#690;">mean of 51 ng and a high of 140 ng</span>** ](/tags/hawaiians-had-a-span-stylecolor690mean-of-51-ng-and-a-high-of-140-ngspan.html)
 
 * [Farmers in India have 2.5 times higher vitamin D than office workers – 2016](/posts/farmers-in-india-have-25-times-higher-vitamin-d-than-office-workers-2016)
 

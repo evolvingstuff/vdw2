@@ -25,4 +25,4 @@
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/invitation-vitamin-d-workshop-incl-deadlines-29-12-14.pdf">Download the PDF from VitaminDWiki.</a>** 
 
-#### <a href="/posts/international-congress-on-vitamin-d-vitamind-workshop-ny" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: International Congress on Vitamin D (VitaminD Workshop) – NY May 2019">International Congress on Vitamin D (VitaminD Workshop) – NY May 2019</a> has links to many previous workshops
+#### [International Congress on Vitamin D (VitaminD Workshop) – NY May 2019](/posts/international-congress-on-vitamin-d-vitamind-workshop-ny) has links to many previous workshops

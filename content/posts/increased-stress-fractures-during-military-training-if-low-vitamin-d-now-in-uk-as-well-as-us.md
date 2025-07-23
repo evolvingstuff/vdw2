@@ -30,9 +30,9 @@ Davey T1, Lanham-New SA2, Shaw AM3, Hale B4, Cobley R3, Berry JL5, Roch M6, Alls
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:750px">
 
-* <a href="/posts/stress-fractures-in-1-in-5-women-during-army-basic-training" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stress fractures in 1 in 5 women during Army basic training – April 2018">Stress fractures in 1 in 5 women during Army basic training – April 2018</a>
+* [Stress fractures in 1 in 5 women during Army basic training – April 2018](/posts/stress-fractures-in-1-in-5-women-during-army-basic-training)
 
-* <a href="/posts/army-training-trying-performance-readiness-bars-with-1400-iu-of-vitamin-d-dr-matthews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Army Training trying performance readiness bars with 1400 IU of Vitamin D (Dr. Matthews) – Sept 2018">Army Training trying performance readiness bars with 1400 IU of Vitamin D (Dr. Matthews) – Sept 2018</a>
+* [Army Training trying performance readiness bars with 1400 IU of Vitamin D (Dr. Matthews) – Sept 2018](/posts/army-training-trying-performance-readiness-bars-with-1400-iu-of-vitamin-d-dr-matthews)
 
 * [Increased Bone strength during military training – with just 800 IU of vitamin D and Calcium – RCT April 2014](/posts/increased-bone-strength-during-military-training-with-just-800-iu-of-vitamin-d-and-calcium-rct)
 
@@ -44,7 +44,7 @@ Davey T1, Lanham-New SA2, Shaw AM3, Hale B4, Cobley R3, Berry JL5, Roch M6, Alls
 
 * [Need for Routine Vitamin D Screening in Military Personnel – Sept 2016](/posts/need-for-routine-vitamin-d-screening-in-military-personnel)
 
-* <a href="/posts/perhaps-stress-fractures-2x-less-frequent-if-4000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D – June 2011">Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D – June 2011</a>
+* [Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D – June 2011](/posts/perhaps-stress-fractures-2x-less-frequent-if-4000-iu-of-vitamin-d)
 
 * [Huge increase in Vitamin D supplementation in the US military (2005-13) – Oct 2016](/posts/huge-increase-in-vitamin-d-supplementation-in-the-us-military-2005-13) - they are learning of the benefits of Vitamin D
 

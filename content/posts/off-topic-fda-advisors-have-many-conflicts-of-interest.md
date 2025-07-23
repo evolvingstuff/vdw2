@@ -44,11 +44,11 @@
 
 ---
 
-* <a href="/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018">More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018</a>
+* [More than half of the FDA entire budget now comes from Big Pharma, not the govt. – Sept 2018](/posts/more-than-half-of-the-fda-entire-budget-now-comes-from-big-pharma-not-the-govt)
 
 * [Off topic – FDA buried evidence of fraud in 78 of 600 clinical trials – Feb 2014](/posts/off-topic-fda-buried-evidence-of-fraud-in-78-of-600-clinical-trials)
 
-* <a href="/posts/medicare-kicks-back-6-percent-of-price-of-an-administered-drug-to-physicians-per-lzheimers-drugs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Medicare kicks-back 6 percent of price of an administered drug to physicians, perhaps 6 billion dollars annually for Aduhelm (Alzheimer’s) drugs">Medicare kicks-back 6 percent of price of an administered drug to physicians, perhaps 6 billion dollars annually for Aduhelm (Alzheimer’s) drugs</a>
+* [Medicare kicks-back 6 percent of price of an administered drug to physicians, perhaps 6 billion dollars annually for Aduhelm (Alzheimer’s) drugs](/posts/medicare-kicks-back-6-percent-of-price-of-an-administered-drug-to-physicians-per-lzheimers-drugs)
 
 * [Off topic: Conflicts of Interest at the FDA - NYT April 2015](/posts/off-topic-conflicts-of-interest-at-the-fda-nyt)
 

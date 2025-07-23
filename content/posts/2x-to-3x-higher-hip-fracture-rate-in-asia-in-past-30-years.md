@@ -47,4 +47,4 @@ PMID: 22898971
 
 # See also VitaminDWiki
 
-* <a href="/posts/5x-increase-in-hip-fracture-rates-in-past-65-years" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3083">5X increase in hip fracture rates in past 65 years</a>
+* [5X increase in hip fracture rates in past 65 years](/tags/5x-increase-in-hip-fracture-rates-in-past-65-years.html)

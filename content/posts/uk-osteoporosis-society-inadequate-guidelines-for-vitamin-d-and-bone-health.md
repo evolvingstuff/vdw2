@@ -50,23 +50,23 @@ There is growing interest in the importance of vitamin D in the maintenance of b
 
 > No suggestion about supplementing: just sunlight and diet
 
-> No comment about the <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">cofactors</a> REQUIRED for bone health
+> No comment about the [cofactors](/posts/low-cost-cofactors-for-vitamin-d) REQUIRED for bone health
 
 * “Vitamin D2 may be preferred by vegetarians and patients who wish to avoid vitamin D of animal origin because of religious or cultural beliefs”
 
-> They appear to be unaware of the availability of <a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">vitamin D3 made from plants</a>
+> They appear to be unaware of the availability of [vitamin D3 made from plants](/posts/vitamin-d3-for-vegans-many-studies)
 
 * “ Oral administration of vitamin D is recommended, because of unpredictable bioavailability and slower correction of vitamin D deficiency with intramuscular preparations (7,8).”
 
-> Appear to be unaware of [topical](/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct), <a href="/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011">vaginal</a>, sublingual, etc
+> Appear to be unaware of [topical](/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct), [vaginal](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection), sublingual, etc
 
 * “Loading doses should provide a total of approximately 300,000 IU (7,500 µg) vitamin D, given either as weekly or daily doses.
 
-> <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> has many other opinions on loading doses around the world
+> [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) has many other opinions on loading doses around the world
 
 * “Maintenance treatment should be considered one month after loading, with doses equivalent to 800 to 2,000 IU”
 
-> <a href="/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some seniors do not repond to 1600 IU of vitamin D">half of seniors got ZERO improvement from 1600 IU</a>
+> [half of seniors got ZERO improvement from 1600 IU](/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d)
 
 * The only references in the PDF after 2010 were to Vitamin D2 studies
 
@@ -74,7 +74,7 @@ There is growing interest in the importance of vitamin D in the maintenance of b
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
 * [Vitamin D and Bone Health – UK National Osteoporosis Society – April 2013](/posts/vitamin-d-and-bone-health-uk-national-osteoporosis-society)
 
@@ -82,11 +82,11 @@ There is growing interest in the importance of vitamin D in the maintenance of b
 
 * [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Korea proposes vitamin D of 20 ng, but notes 20ng increases osteo by 50 percent – Oct 2012](/posts/korea-proposes-vitamin-d-of-20-ng-but-notes-20ng-increases-osteo-by-50-percent)
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
 * [30 to 50 ng of vitamin D is optimal – Central Europe consensus Sept 2013](/posts/30-to-50-ng-of-vitamin-d-is-optimal-central-europe-consensus)
 
@@ -94,8 +94,8 @@ There is growing interest in the importance of vitamin D in the maintenance of b
 
 * [8X higher Osteoporosis risk if high level of vitamin A, vitamin D important too – Feb 2013](/posts/8x-higher-osteoporosis-risk-if-high-level-of-vitamin-a-vitamin-d-important-too)
 
-* <a href="/posts/overview-bone-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview - Bone Fractures</a>
+* [Overview - Bone Fractures](/tags/overview-bone-fractures.html)
 
-* <a href="/posts/overview-vitamin-d-and-falling" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Overview: Vitamin D and falling</a>
+* [Overview: Vitamin D and falling](/tags/overview-vitamin-d-and-falling.html)
 
 * [Hypothesis: increased bone mineral density needs protein, Ca, Mg, Vitamin D and K](/posts/hypothesis-increased-bone-mineral-density-needs-protein-ca-mg-vitamin-d-and-k)

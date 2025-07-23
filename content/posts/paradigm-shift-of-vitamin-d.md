@@ -1,0 +1,825 @@
+{
+    "title": "Paradigm Shift of vitamin D",
+    "slug": "paradigm-shift-of-vitamin-d",
+    "aliases": [
+        "/Paradigm+Shift+of+vitamin+D+\u2013+Jan+2011",
+        "/1881"
+    ],
+    "tiki_page_id": 1881,
+    "date": "2011-08-01",
+    "categories": [
+        "Overview for doctors"
+    ],
+    "tags": [
+        "CKD",
+        "CYPR",
+        "IBD",
+        "Overview for doctors",
+        "atherosclerosis",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "bariatric surgery",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "brain",
+        "breast cancer",
+        "breastfed",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood pneumonia",
+        "childhood respiratory",
+        "childhood viruses",
+        "cholesterol",
+        "cognitive",
+        "colon cancer",
+        "cystic fibrosis",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "gut",
+        "health risk",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "kidney",
+        "life span",
+        "lung cancer",
+        "lupus",
+        "lymphoma",
+        "magnesium",
+        "magnesium and cancer",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "metabolic",
+        "mortality",
+        "multiple myeloma",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "ovarian cancer",
+        "pain",
+        "pediatric autoimmune",
+        "placenta",
+        "pneumonia",
+        "pregnancy",
+        "prostate cancer",
+        "psoriasis",
+        "respiratory",
+        "rheumatoid arthritis",
+        "rickets",
+        "sepsis",
+        "skin cancer",
+        "smoking",
+        "therapeutic intervention",
+        "trauma surgery",
+        "tuberculosis",
+        "type 1 diabetes",
+        "ulcerative colitis",
+        "ultraviolet light",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+# The Role of Vitamin D in Human Health: A Paradigm Shift
+
+Joan M. Lappe, PhD, RN, FAAN
+
+Creighton University, Omaha, NE, USA, jmlappe@creighton.edu
+
+Journal of Evidence-Based Complementary & Alternative Medicine January 2011 vol. 16 no. 1 58-72
+
+Vitamin D deficiency is pandemic, spanning many continents and including all ages, genders and racial/ethnic groups. Currently, world-wide attention is focused on the importance of vitamin D in optimizing health and preventing disease. This focus is largely the result of the scientific discovery that vitamin D receptors are present in nearly every tissue and cell in the body and that adequate vitamin D status is essential for optimal functioning of these tissues and cells. An impressive body of research has accumulated over the past two decades providing new information about the role of vitamin D in prevention of a broad range of diseases. The purpose of this paper is to provide a review of this new information.
+
+## Table 2.  Clinical Conditions  for  Which  Measurement  of Serum 25(OH)D Is Indicated and May Be <span style="color:#F00;">Reimbursed by Medicare</span>
+
+Hypo/hyperparathyroidism
+
+Rickets
+
+Osteoporosis and osteomalacia
+
+Paget’s bone disease
+
+Disorders of phosphorus metabolism Disorders of calcium metabolism Chronic kidney disease
+
+History or risk of falls Malabsorption syndromes Fibromyalgia
+
+Gastric bypass and bariatric surgery
+
+Psoriasis
+
+Unspecified vitamin D deficiency
+
+Liver disease
+
+Use of anticonvulsants
+
+- - - - - - - - - 
+
+## <span>[tiki-download_file.php?fileId=1932]</span> for PDF
+
+- - - - - - - - 
+
+# Rough extraction of the PDF - for translation to other languages
+
+Vitamin D Metabolism
+
+Vitamin D (which includes both D2 and D3) carries out essential biologic functions through both an endocrine mechanism and an autocrine mechanism. It is found in all animals, and in humans, it is made in skin exposed to ultraviolet (UV)-B radiation. It is derived from a cholesterol precursor in the skin,7-dehydrocholesterol. When the skin absorbs UV-B radiation, the precursor is converted to previtamin D3, which undergoes thermally induced transformation to vitamin D3  (cholecalciferol). Vitamin D2  (ergocalciferol) is a synthetic product produced  by  irradiation  of  plant  sterols.  Vitamin  D,  whether from the diet or the skin, is metabolized in the liver to 25(OH)D by 25-hydroxylase. Since 25(OH)D is the most plentiful and stable metabolite of vitamin D in the human bloodstream, it has
+
+been accepted as the functional indicator of vitamin D status.1 
+
+intracellularly by 25(OH)D 1-a-hydroxylases in various cells of the immune system as well as in many epithelial cell types, such as breast, colon, lung, skin, and prostate.3-7  When these cells receive an extracellular signal to produce certain proteins, enzymes, or signaling molecules, 1,25(OH)2D binds to the vitamin D receptor and, in combination with tissue-specific and stimulus-specific proteins, binds to vitamin D response elements on the chromosomes, inducing transcription of needed substances. In this manner, 1,25(OH)2D serves as an intermediary between external stimuli and genomic response. Since the tissue level 1-a-hydroxylase operates well below its kM, this local conversion of 25(OH)D to 1,25(OH)2D is dependent on adequate levels of circulating 25(OH)D. Also produced in these cells that have 1-a-hydroxylases is vitamin D 24-hydroxylase, which degrades excess 1,25(OH)2D intracellularly and prevents excess accumulation of 1,25(OH)2D.
+
+Thus, vitamin D 25(OH)D  is  a  prohormone  that  serves  as  an  immediate precursor    to    the    active    form    of    vitamin    D,    1,25dihydroxyvitamin D (1,25(OH)2D; calcitriol). A single enzyme, 25(OH)D-1-a-hydroxylase (encoded by CYP27B1), is responsible for production of 1,25(OH)2D, which serves as a high-affinity ligand  for the  vitamin D receptor.2   In its endocrine action, 25(OH)D  is  converted  by  hydroxylation  in  the  kidney  to 1,25(OH)2D, which circulates in the blood as a hormone to regulate mineral and skeletal homeostasis. The primary target of 1,25(OH)2D is the intestinal mucosa in which it directs the calcium transport system to adapt to varying calcium intakes.
+
+Renewed interest in vitamin D has been stimulated by the discovery that vitamin D also acts through an autocrine pathway. In this system, 25(OH)D is converted to 1,25(OH)2D serves as a quick on-off switch, necessary for expression of certain cellular actions but also limiting their duration and extent. This well-worked out model illustrates the key role of vitamin D in mediating certain cellular responses to external signals (see Figure 1).
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/paradigm-fig1.jpg" alt="image">
+
+Figure 1. Schematic depiction of the 2 faces of vitamin D function. The principal outputs of each are designated by the symbol Â«. In the case of the endocrine side, the stimulus to expression and action of the 1-a-hydroxylase is typically parathyroid hormone (PTH) and FGF23, and the principal output is calcitriol (1,25(OH)2D). On the autocrine side the stimulus to expression of the 1-a-hydroxylase will vary from tissue to tissue, and the principal output of the process (but not released from the cell) will be the proteins signaling, for example, cell differentiation and apoptosis. For the autocrine function the principal input variable will be serum 25(OH)D, as circulating calcitriol levels are not usually high enough to elicit the full autocrine response. Instead, each tissue controls its own autocrine activation independently of other  tissues but is dependent on an adequate circulating level of 25(OH)D. (Copyright 2006, Robert P. Heaney, MD)
+
+## Optimal Levels  of Serum 25(OH)D
+
+As mentioned earlier, the indicator of vitamin D status is serum 25(OH)D. There is lack of agreement on the definition of optimal 25(OH)D and the cutoff for low vitamin D status. Until recently, the index disease for vitamin D deficiency in adults has  been  osteomalacia,  which  is  associated  with  serum sensitivity is inversely associated with vitamin D status and that at 25(OH)D levels of about 46 ng/mL (114 nmol/L) no further lowering of serum glucose is observed.22
+
+That higher levels of 25(OH)D are optimal is also supported by values found in persons who spend time outdoors. Darkskinned workers in tropical climates have 25(OH)D values of 23 25(OH)D concentrations <8 ng/mL (<20 nmol/L).9  However, about  60  ng/mL  (150  nmol/L).
+
+Others  have  shown  that it is now recognized that 25(OH)D    8 ng/mL (   20 nmol/L) can also be associated with skeletal disease. Although â€˜â€˜normal rangesâ€™â€™ in US laboratories vary between 20 and 100 ng/mL (50-250 nmol/L), there is a growing consensus that the optimal range for 25(OH)D values lies above 30 to 32 ng/mL (75-80 nmol/L) for most populations. This is based on studies of the inverse relationship between serum parathyroid hormone and 25(OH)D, showing that parathyroid hormone concentrations plateau at serum 25(OH)D levels of 28 to 40 ng/mL (70-100 nmol/L).10-14 Further evidence is provided by studies that show calcium absorption efficiency increases with rising 25(OH)D and plateaus at 25(OH)D levels about 32 ng/mL (80 nmol/ L).15-17
+
+An optimal level of at least 30 to 32 ng/mL (75-80 nmol/L) is also suggested by the relationship between 25(OH)D and both bone mineral density and lower extremity neuromuscular function in National Health and Nutrition Examination Survey III (NHANES III).18,19   Numerous other disorders, in addition to skeletal diseases, have been associated with low 25(OH)D, although these conditions have not been linked definitively to specific 25(OH)D levels. For example, observational studies show that 25(OH)D levels above 30 to 32 ng/mL (75-80 nmol/L) are associated with reduced incidence of colorectal adenomas and cancer.20,21  A study in nondiabetics found that insulin 25(OH)D as high as 80 ng/mL (200 nmol/L) can be achieved by cutaneous production.16,24  Thus, the preponderance of evidence points to optimal serum 25(OH)D levels of at least 32 ng/mL (80 nmol/L). Furthermore, emerging data suggest that higher levels are needed to prevent some of the nonskeletal disorders associated with inadequate vitamin D.
+
+## Vitamin D Deficiency
+
+Low vitamin D status is prevalent across all age-groups, geographic regions, and seasons.7,25,26 The NHANES data shows that the number of persons with 25(OH)D levels below 30 ng/mL (75 nmol/L) nearly doubled from the 1994 survey to the 2004 survey.27  The most recent survey (2004) found that 75% to 80% of the NHANES population has 25(OH)D levels <30 ng/mL (<75 nmol/L), whereas 65% to 75% of the population has levels <20 ng/mL (<501 nmol/L).26  More than 90% of the black and Latino population have levels <30 ng/mL (<75 nmol/L). Of great concern are findings that less than 3% of African American mothers are vitamin D sufficient, and the mean cord blood levels of 25(OH)D in their infants is very low (10 + 6 ng/mL or 25 + 15 nmol/L).27,28
+
+Factors associated with vitamin D deficiency include low sunlight   exposure,   age-related    decreases   in    cutaneous synthesis, low vitamin D oral intakes, obesity, and high degree of skin pigmentation.7,25,29  The reasons for the dramatic increase in vitamin D insufficiency are not clear, but decline in 25(OH)D levels are associated with decreased consumption of vitamin Dâ€“fortified milk, increased use of sun screen, and the upward trend in body mass index.30  It has been hypothesized that the worldwide increase in obesity is a major contribTable 1. Dietary Sources of Vitamin D
+
+Food                                                                             IUs per Servinga
+
+Cod liver oil, 1 tablespoon                                                   1360
+
+Salmon (sockeye), cooked, 3 ounces                                     794
+
+Mackerel, cooked, 3 ounces                                                  388
+
+Tuna fish, canned in water, drained, 3 ounces                      154
+
+utory factor to growing epidemic of vitamin D insufficiency.31
+
+Milk, nonfat, reduced fat, and whole,
+
+vitamin Dâ€“fortified, 1 cup 115-124
+
+Achieving Optimal Levels  of Vitamin D
+
+It is very difficult to achieve and maintain optimal levels of serum 25(OH)D by diet  alone since few foods are natural sources of vitamin D and fortified foods contain limited amounts. Oily fish, such as salmon, mackerel, and herring, and sun-dried mushrooms are  a  rich  source of vitamin  D. Ocean-raised fish, which feed on vitamin Dâ€“rich plankton, have much higher levels of vitamin D than farm-raised varieties. Cod liver oil is a rich source of vitamin D, but many available  preparations  of  cod  liver  oil  also  contain  large amounts of vitamin A, which antagonizes the action of vitamin D and can cause toxicity.32  In the United States, milk is fortified with a little more than 100 International Units (IU) of vitamin D, whereas other foods, such as yogurt, juices, cereals, and soy, are fortified with varying amounts (see Table 1 of sources of vitamin D).
+
+The major source of vitamin D is sunlight exposure. For a Caucasian adult, sunlight exposure in a bathing suit long enough to cause the skin to turn pink raises the serum 25(OH)D to a level comparable to a person taking 10 000 to 20 000 IU of vitamin D2.33  Exposure to arms and legs for 5 to 30 minutes between 10:00 AM and 3:00 PM is often adequate to meet vitamin D requirements. However, variables such as time of day, season, latitude, clothing, sunscreen use, skin pigmentation, and age affect the amount of vitamin D converted in the skin. For  example,  at  latitudes  above  37  N,  from  about  midOctober to mid-March the solar angle is such that no vitamin D is converted in the skin. Although humans store some vitamin D obtained from summer sunlight, many individuals do not  store  enough  to  supply  adequate  amounts through  the winter  months.34     Also,  aging   decreases  the   amount   of 7-dehydrocholesterol in the skin by about 50% between the ages of 20 and 80 years,35   which decreases the amount of vitamin D3  older persons can make. It is well established that persons with greater skin pigmentation produce lower amounts of vitamin D3 compared with their lighter skinned counterparts, and this largely accounts for the higher prevalence of vitamin D deficiency in darker-skinned persons.36-38  Sunscreen with a sun protective factor as low as 8 decreases conversion of vitamin D3 in the skin by 95%.39 Probably the greatest barrier to obtaining optimal vitamin D from sunlight exposure is the widespread concern about skin cancer and photoaging resulting in sun avoidance and widespread use of sunscreen.
+
+Fortunately, vitamin D dietary supplements, which are safe and  inexpensive,  are   becoming   widely  available.   Many
+
+Sardines, canned in oil, drained, 2 sardines                            46
+
+Liver, beef, cooked, 3.5 ounces                                              46
+
+Egg, 1 whole (vitamin D is found in yolk)                              25
+
+Abbreviation: IU, International Unit.
+
+a Adapted  from  Selected Food Sources of  Vitamin D.  US  Department   of Agriculture, Agricultural Research Service. USDA Nutrient Database for Standard Reference, Release 22; 2009.
+
+multiple-vitamin preparations contain 200 to 400 IU/capsule. Also, calcium supplement pills commonly contain 200 to 400 IU of vitamin D. Stand-alone vitamin D supplements range in dose from 400 to 50 000 IU and can be found in various formulations such as tablets, gelcaps, liquid drops, and chewables. The American Academy of Pediatricsâ€™ currently recommended intake level of vitamin D for infants and children is 400 IU/ day.40  In November, 2010, the United States Institute of Medicine released revised recommendations for daily intake of vitamin D based on the bodyâ€™s need for skeletal health. (www.iom.edu/vitamind) Their recommended adequate intake levels are 600 IU/day for everyone from age one through 70 years. The IOM report stated that persons age 71 and older may require as much as 800 IUs per day because of potential changes in their bodies as they age However, the new IOM recommendations are controversial and have stimulated considerable debate.
+
+## Vitamin D2  Versus Vitamin D3
+
+Vitamin D3   (cholecalciferol) is synthesized in the skin on exposure to  sunlight, whereas vitamin  D2   (ergocalciferol) is a synthetic product obtained by irradiation of plant sterols. Because of differences in  the  chemistry of their side chains, the 2 forms differ in their metabolism and in their binding to vitamin D binding protein, which transports both isoforms through the circulation42   (see Figure 2). Probably due to these differences, recent studies suggest that vitamin D3  is more potent than vitamin D2.43-45 Holick et al demonstrated that daily doses of 1000 IU of vitamin D2  are equally as  effective  as  daily  doses  of  1000 IU  of  vitamin  D3   in maintaining 25-hydroxyvitamin.46   **However** , 2 studies found that with intermittent dosing vitamin D3  stayed in the circulation longer than vitamin D2.43,45  Thus, vitamin D3  would be a better choice for persons who prefer intermittent dosing. Both vitamin D2   and D3   are available commercially, and on average, vitamin D3  is less expensive.
+
+Table 2.  Clinical Conditions  for  Which  Measurement  of Serum 25(OH)D Is Indicated and May Be Reimbursed by Medicare
+
+Figure 2. Isomers of vitamin D2  and Vitamin D3. Ergosterol in plants and 7-dehydrocholesterol in skin are the precursors for vitamin D2 and vitamin D3, respectively. Ultraviolet light B breaks the B chain of each molecule to form the pre-D isomer, which then undergoes isomerization to D. D2 and D3 differ only in the side chain in which D2 has a double bond between C22 and C23 and a methyl group at C24. These differences result  in  somewhat  different  binding to   D  binding protein  and metabolism.
+
+Hypo/hyperparathyroidism
+
+Rickets
+
+Osteoporosis and osteomalacia
+
+Pagetâ€™s bone disease
+
+Disorders of phosphorus metabolism Disorders of calcium metabolism Chronic kidney disease
+
+History or risk of falls Malabsorption syndromes Fibromyalgia
+
+Gastric bypass and bariatric surgery
+
+Psoriasis
+
+Unspecified vitamin D deficiency
+
+Liver disease
+
+Use of anticonvulsants
+
+## Safety of Vitamin D
+
+The Institute of Medicine (IOM) National Academy of Sciences recently raised the tolerable upper intake level of vitamin D from
+
+1
+
+How  Much Vitamin D Supplementation  Is
+
+2000 IU/day to 4000 IU/day.
+
+The recent IOM report indicated
+
+Needed?
+
+Heaney established the 25(OH)D response to various doses of vitamin D3 (up to 10 000 IU).34,47  In brief, the serum 25(OH)D rises by about 1 ng/mL (2.5 nmol/L) for each 100 IU of additional  D3.  If,  for  example,  one  wants  to  increase  serum 25(OH)D by 15 ng/mL (37.5 nmol/L)â€”for example, from 15 to 30 ng/mL (37.5-75 nmol/L)â€”this would require additional vitamin D3 intake of about 1500 IU (37.5 mg) per day. Applying this information to the NHANES III national distribution data for serum 25(OH)D, Heaney showed explicitly what the distribution would be if everyone in the US population received an additional 2000 IU vitamin D3 per day.48 The mean would rise by about 14 ng/mL (35 nmol/L), and about 80% to 85% of the population would have 25(OH)D value above 32 ng/mL (80 nmol/L).
+
+There is considerable variation in how individuals respond to vitamin D supplementation. This is seen in clinical studies as well as clinical practice.43,49  Starting at the same baseline 25(OH)D level, some persons will require higher doses than others to achieve an identical target value. Thus, the only definitive way to assess for deficiency and to achieve the target serum  25(OH)D is  to  measure 25(OH)D. However, serum 25(OH)D assays are expensive, and the need for universal screening has not been established as of yet. Currently, third party payer coverage of vitamin D measurement is limited. Table 2 shows some of the clinical conditions for which measurement of serum 25(OH)D is indicated and can be reimbursed by Medicare. Of course, paying out-of-pocket costs for the assay is always an option and is prudent for otherwise healthy persons who are at risk of vitamin D insufficiency (eg, dark skin, advanced age, obesity).
+
+that serum levels of 25(OH)D above 50 ng/mL may be associated with adverse events, but did not set that as a threshold for vitamin D toxicity.50  Barger-Lux and Heaney16  found that healthy men who completed a summer season of outdoor work had a mean serum 25(OH)D of 45 ng/mL (122 nmol/L), with some men exceeding 80 ng/mL (200 nmol/L). Others have found similarly high levels of serum 25(OH)D in other populations exposed to the sun.24,51  In the Barger-Lux and Heaney study, the mean sun exposure response was equivalent in dosing to 2800 IU/d (70 mg/ d). This means that natural sunlight exposure provides healthy young people with considerably higher doses of vitamin D than currently considered safe for oral dosing. In fact, there is no evidence of adverse effects of vitamin D3 intake at or below 10 000 IU/d.52 
+
+Based on the sunlight studies, Binkley has concluded that designating the upper limits of serum 25(OH)D as between 80 and 100 ng/mL (200 and 250 nmol/L) is appropriate.53 Vitamin D toxicity, which is very rare, is a clinical syndrome  of  both  hypervitaminosis  D  and  hypercalcemia.54
+
+Hyperphosphatemia and hypercalciuria are often, but not always, present. Clinical symptoms include nausea and vomiting, dehydration, muscle weakness, lethargy, and confusion. No cases of vitamin D toxicity have been reported in vitamin D supplementation doses less than 10 000 IU/d.52  Usually, the large doses have been for prolonged periods of time and often concomitant with excessive amounts of calcium. In a recent study, vitamin D supplementation of 1600 IU/d or 50 000 IU monthly was not associated with any signs of toxicity.55   In another study, Hollis supplemented women during pregnancy with 4000 IU/d vitamin D3  without any adverse clinical or laboratory  events.56   This  provides  confidence  that  we  can increase vitamin D intake from prevailing levels without incurring significant risk.
+
+Persons  with  vitamin  D  toxicity  usually  have  serum 25(OH)D levels above 150 ng/mL (375 nmol/L).57   In fact, Heaney pointed out that â€˜â€˜no credible reportsâ€™â€™ show vitamin D toxicity at serum 25(OH)D levels below 200 ng/mL (500 nmol/ L).58 However, individuals with metastatic cancer or granulomatous diseases, such as tuberculosis or sarcoidosis, can develop hypercalcemia at 25(OH)D levels that are somewhat lower.49
+
+## Vitamin D and  Disease Prevention
+
+Two major scientific findings in the past decade have revolutionized the field of vitamin D: (a) vitamin D receptors are present in nearly every tissue and cell in the body and (b) 25(OH)D-1a-hydroxylase, the enzyme responsible for conversion of 25(OH)D to the biologically active form of vitamin D strength and lower extremity function.64,65   Randomized trials have shown the efficacy of vitamin D supplementation for increasing muscle strength and balance65,66  and reducing the risk of falls.67-70  A minimum 25(OH)D level of 24 ng/mL (60 nmol/L) is needed for fall prevention, and higher levels of 25(OH)D are associated with greater fall reduction.
+
+## Cancer
+
+An impressive body of evidence suggests that vitamin D decreases the risk of cancer. Actually, it has long been recognized that there is an inverse association between sunlight exposure and malignancy. In the 1930s, it was reported that US Navy personnel with abundant sunlight exposure had higher rates of skin cancer but lower rates of other malignan-71 (1,25(OH)2D), has been identified in a multitude of cells outcies.
+
+In 1941, Apperly noted an inverse association between side the kidney. Subsequently, clinical studies have suggested a preventive effect of vitamin D on a broad range of disorders. Furthermore, preclinical research has advanced the field by elucidating mechanisms underlying the preventive effects of vitamin D. This section will review the disorders associated with vitamin D that are supported with a substantial amount of scientific evidence.
+
+## Skeletal Disorders
+
+It is well established that vitamin D deficiency in adults leads to secondary hyperparathyroidism, causing a loss of bone matrix and minerals and subsequent increased risk of osteoporosis and low-trauma fractures. In severe vitamin D deficiency, accumulation of poorly mineralized bone leads to osteomalacia, a painful bone disease also associated with fractures.
+
+Although osteomalacia can be prevented by maintaining relatively  low  levels  of  serum  25(OH)D  (>10  ng/mL  or >25 nmol/L),11,59  studies suggest that higher 25(OH)D levels are  needed  to  decrease  the  risk  of  osteoporosis.  Among 13 432 individuals in NHANES III, higher serum 25(OH)D was associated with higher bone density throughout the reference  range  9  to  37.6  ng/mL  (22.5-94.0  nmol/L).19
+
+A meta-analysis of randomized trials of the vitamin D effect on  fractures  found  that  serum  25(OH)D  levels  more  than 30 ng/mL (75 nmol/L) prevented fractures in the treatment group.60 The antifracture effect increased with higher achieved levels of 25(OH)D. Only trials that gave at least 700 to 800 IU of  vitamin  D  achieved  serum  25(OH)D  levels  more  than 30 ng/mL (75 nmol/L). These trials showed that vitamin D reduced the incidence of nonvertebral fractures by at least 20%.
+
+Recent studies have also established that vitamin D supplementation decreases the risk of falls, a frequent event underlying osteoporotic fractures.61  This is not surprising since proximal muscle weakness is a major sign of clinical vitamin D deficiency. Also, muscle tissue expresses vitamin D receptor, and vitamin D receptor activation can promote synthesis of new muscle protein.62,63  Observational studies have found a positive  association  between  serum  25(OH)D  and  muscle latitude and cancer mortality rates.72  However, no further reports were available until 1980 when Garland and Garland noted that rates of cancer were higher in the northeast US states  than  in  the  southwest  states  and  attributed  this  to greater  sunlight  exposure in  the  southwest.73   They  further proposed that that the apparent benefit of sunlight exposure was mediated by vitamin D. Since then a remarkable number of research studies have been designed to elucidate the role of vitamin D in cancer development and prevention. Subsequently, an inverse association between cancer mortality rates and regional solar UV-B radiation exposure has been found for cancers of the breast, colon, rectum, ovary, prostate, stomach, bladder, esophagus, kidney, lung, gallbladder, thyroid, rectum, pancreas, and uterus, as well as non-Hodgkinâ€™s lymphoma and multiple myeloma.74-77
+
+Even stronger evidence for the anticancer effect of vitamin D is provided by numerous cohort and caseâ€“control studies that show an inverse association between serum 25(OH)D and cancer incidence/mortality. For example, Pilz et al reported that low 25(OH)D predicts fatal cancer in general.78  Other studies have   found  an   inverse  association  between  low   serum 25(OH)D  and  cancer  incidence/mortality  specifically  for colon, rectal,  prostate, breast, and ovarian  cancer.79-83   The decrease in risk is dramatic. For example, Garland et al found that the risk of colon cancer in a group of 25 620 Maryland community volunteers was 80% lower if they were in the highest quintile of 25(OH)D compared with the lowest.84  Abbas reported that the risk of breast cancer was 70% lower in women who   were   in   the   highest   quartile   of   serum   25(OH)D (>30 ng/mL, or >75 nmol/L) compared with those in the lowest quartile (<18 ng/mL, or <45 nmol/L).85  The preponderance of evidence supports an inverse association between vitamin D and cancer incidence/mortality. Although there were studies that found no effect,86-88 none of the studies showed an increased risk between vitamin D and cancer.
+
+The culmination of the decades of vitamin D research is a 4-year population-based randomized, placebo controlled trial by Lappe et al89  showing that calcium and vitamin D supplementation significantly reduced the incidence of all types of 
+
+Figure 3. Kaplanâ€“Meier survival curves (ie, free of cancer) for the
+
+3 random treatment  groups in the  entire  cohort  of 1179 women. Sample sizes  are 288 for  placebo,  445 for calcium only, and 446 for calcium plus vitamin D. The survival at the end of study for the Ca Ã¾ D group is significantly higher than that for placebo, by logistic regression. (Copyright Robert P. Heaney, 2006. Used with permission)
+
+cancer  by 60% to 77%. The  study participants  were 1179 community-dwelling women randomly selected from the population of healthy postmenopausal women aged 55 and older in a 9-county rural area of Nebraska. Participants were randomly assigned to receive 1400 to 1500 mg/d supplemental calcium alone (Ca-only), supplemental calcium plus 1100 IU/d vitamin D3  (Ca Ã¾ D), or double placebo. The mean serum 25(OH)D at baseline in the 3 treatment groups was 28.8 ng/mL (72 nmol/L). Vitamin D3  produced an elevation in serum 25(OH)D in the Ca Ã¾ D group of 9.56 + 7.12 ng/mL (23.9 + 17.8 nmol/L), whereas the placebo and Ca-only groups had no significant change.   The   intention-to-treat   analysis   showed   that   the Ca Ã¾ D group had significantly fewer incident cancers of all types (relative  risk <span>[RR]</span> Â¼  0.40; 95% confidence  interval <span>[CI]</span> Â¼ 0.20-0.82; P Â¼ .013) (see Figure 3). In a second analysis that excluded cancers diagnosed during the first year of the study, the RR for the Ca Ã¾ D group was 0.23 (95% CI Â¼ 0.09-0.60; P < .005) (see Figure 4). Additionally, baseline and treatment-induced serum 25(OH)D concentrations themselves were strong predictors of cancer risk.
+
+In a second randomized trial, the Womenâ€™s Health Initiative (WHI),  postmenopausal  women  were  randomly  assigned to 1000 mg calcium and 400 IU vitamin D per day or placebo pills.90   The  primary  analysis by treatment  group found no effect on colorectal cancer incidence. However, the 400 IU dose was inadequate to raise blood levels of 25(OH)D to an optimal level. Furthermore, the reported adherence to supplementation was only about 50%. Although the primary analysis found no  association, a  nested caseâ€“control  study found a highly statistically significant inverse relationship between baseline 25(OH)D and incident cancer risk. The risk of colorectal cancer in the lowest quartile of serum 25(OH)D
+
+Figure 4. Kaplanâ€“Meier survival curves (ie, free of cancer) for the 
+
+3 random treatment  groups in the cohort  of women free of cancer at 1 year of intervention (N Â¼ 1,085). Sample sizes are 266 for placebo,
+
+416 for calcium only, and 403 for calcium plus vitamin D. The survival at the end of study for the Ca Ã¾ D group is significantly higher than that for placebo, by logistic regression. (Copyright Robert P. Heaney, 2006. Used with permission)
+
+(<12.4 ng/mL, or <31 nmol/L) was 253% higher than in the highest quartile (   23.36 ng/mL, or   58.4 nmol/L) (RR Â¼ 2.53; 95% CI Â¼ 1.49-4.32).90
+
+The principal weakness of the Lappe et al89  study was that cancer was a secondary outcome. (Cancer was also a secondary
+
+outcome in the Womenâ€™s Health Initiative).90   Although the design and successful completion of the Lappe et al study render the findings quite strong, they need to be confirmed with a randomized controlled clinical trial designed with incidence of cancer as the primary outcome variable. Two such trials are currently under way.
+
+The optimal levels of 25(OH)D for prevention of cancer have  not  been  established. A  review of  several  studies of serum 25(OH)D and colorectal cancer showed that the doseâ€“response  curve  is  linear  up  to  a  25(OH)D  value  of 36 ng/mL (90 nmol/L).20,21,89,91,92  Garland et al93  combined data from observational studies to estimate the doseâ€“response gradient between serum 25(OH)D and colon and breast cancer. They confirmed the estimate with an analysis of modeled and reported 25(OH)D levels and estimated age-standardized cancer  incidence  rates  for 177  countries from the  International  Agency for Research on Cancer  GLOBOCAN database. The first apparent increase in prevention of colorectal cancer   is   seen   at   serum   25(OH)D   levels      22   ng/mL (   55 nmol/L). The first apparent increase in prevention of breast cancer is at    32 ng/mL (   80 nmol/L). The authors concluded that  differences in serum 25(OH)D below those levels are unlikely to affect cancer risk.
+
+Garland et al further estimated that if serum 25(OH)D levels  in  the  US population were maintained     34 ng/mL (   85  nmol/L),  50%  of  colon  cancer  incidence  could  be prevented.93  Maintaining serum 25(OH)D levels    42 ng/mL (   105 nmol/L) would prevent about 30% of breast cancers. Using linear extrapolation of the known data points, an estimated 50% of breast cancer could be prevented with serum 25(OH)D levels   52 ng/mL (   130 nmol/L). In the randomized trial of Lappe et al,89   the mean achieved 25(OH)D level in the group with the lowest risk of cancer was 39 + 8.6 ng/mL (96.0 + 21.4 nmol/L). Thus, it is apparent that   serum   25(OH)D   levels   higher   than   the   currently accepted optimum of 32 ng/mL (80 nmol/L) are needed to provide the maximum effect on cancer reduction. According to Garland et al, a 50% reduction in colorectal cancer risk would require a  population intake  of 2000 IU of vitamin D3   per  day.  However,  a  50%  reduction  in  breast  cancer would require a higher dose, 3500 IU/d.93  These doses are much  higher  than  the  currently  recommended  levels  of 400 to 600 IU/d.
+
+The mechanism for vitamin Dâ€™s effect on cancer works through its autocrine mode of action. Via the autocrine pathway, in various cells of the immune system as well as in many epithelial cell types (breast, colon, lung, skin, and prostate), tissue-level 1-a-hydroxylases convert 25(OH)D to 1,25(OH)2D intracellularly.3-7,75,94,95      Then    this    freshly    synthesized 1,25(OH)2D binds to the vitamin D receptor and, in combination with tissue-specific and stimulus-specific proteins, binds to 1 of more than 1000 vitamin D response elements on the chromosomes, inducing transcription of the corresponding proteins. These include proteins responsible for cell proliferation, differentiation, and apoptosis, activities that are necessary for initiation and promotion of cancer.94,96  Because the tissue level 1-a-hydroxylase operates well below its kM, this local conversion of 25(OH)D to 1,25(OH)2D is dependent on circulating 25(OH)D levels.
+
+In further support of the role of vitamin D in cancer, a convincing body of animal data, summarized by Welsh,97  as well as by Holick,75   shows that vitamin Dâ€“deficient animals are more prone both to spontaneous cancer and to chemical carcinogenesis by carcinogenic agents. The ecologic and serum 25(OH)D studies and the animal and in vitro reports are consistent with and strongly support the randomized trial findings of the chemopreventive effect of optimal vitamin D nutrition. Adequate serum 25(OH)D is essential for the anticancer effect of vitamin D.
+
+## Hypertension and Cardiovascular Disease
+
+Evidence is accumulating for the association between inadequate  vitamin  D  and  hypertension and  cardiovascular  disease.98-103  Since the 1980s, it has been recognized that the incidence of cardiovascular disease increases in winter with increasing latitude and decreases at higher altitudes.104,105 It was hypothesized that sunlight exposure, by raising vitamin D levels, decreases the risk of cardiovascular disease. This has been a consistent finding. For example, the US National Register of Myocardial Infarction, including more than 250 000 cases, showed 53% more myocardial infarctions in winter than in summer for all parts of the country.106  Recent cohort studies have also shown that low vitamin D levels increase the risk of cardiovascular disease.103,107-109 In the Framingham Offspring Study over 5 years of follow-up, those with baseline serum 25(OH)D levels <10 ng/mL (<25 nmol/L) had a statistically significant 80% greater risk for cardiovascular disease compared with those with >15 ng/mL (>37.5 nmol/L).103  The effect was seen only in participants with hypertension, which suggests that hypertension somehow intensifies the negative effect of inadequate vitamin D. The only randomized clinical trial to date failed to find an effect of vitamin D and calcium on cardiovascular mortality or morbidity.110  This was the Womenâ€™s Health Initiative in which 36 282 postmenopausal women were randomly assigned to calcium carbonate 1000 mg/d and vitamin D 400 IU/d. However, the dose of vitamin D was likely too low to have an effect, and adherence to the vitamin D supplementation was poor.110,111  Thus, rigorously conducted randomized clinical trials are needed to confirm the effect of vitamin D on cardiovascular events.
+
+Epidemiological evidence from sunlight and cohort studies also suggests an inverse relationship between vitamin D and blood pressure.112-114  For example, a prospective study that included subjects from both the Nursesâ€™ Health Study and the Health Professionals Follow-up Study found that the relative risk for incident hypertension was 3.18 for those with 25(OH)D levels <15 ng/mL (<37.5 nmol/L) compared with those with levels >30 ng/mL (>75 nmol/L).114   NHANES III found that systolic blood pressure is 3 mm Hg higher in the lowest quintile of 25(OH)D compared with the highest quintile.115  Researchers estimated that this modest decrease in blood pressure could account for a 10% to 15% decline in cardiovascular mortality in the population.116 On the other hand, another large cohort study failed to find an inverse relationship between dietary vitamin D and hypertension.117  One explanation for the lack of an effect in this study is that dietary sources of vitamin D provide much less vitamin D than sunlight exposure, and dietary intake is difficult to measure.118
+
+One small clinical trial found that administering vitamin D to older adults with existing high blood pressure caused both the systolic and diastolic blood pressure to decrease.119  In this randomized, placebo-controlled study of 145 elderly women, 800 IU of vitamin D3 plus 1200 mg of calcium per day significantly reduced blood pressure by 9.3% after 8 weeks, whereas supplementation with 1200 mg of calcium per day alone lowered blood pressure significantly by only 4.0%. These data suggest that vitamin D and calcium somehow work together to cause a reduction in blood pressure. On the other hand, at least 3 randomized trials found no effect of vitamin D alone or in combination with calcium on lowering blood pressure.120-122
+
+One study was short, with only 5 weeks of follow-up after a single vitamin D dose of 100 000 IU.122  A second study was the Womenâ€™s Health Initiative, in which the supplement dose of 400 IU/d was too low to increase serum 25(OH)D.120  In the third study by Orwoll et al, blood pressure was a secondary outcome.121  Normotensive men were randomly assigned to 1000 mg of calcium per day and cholecalciferol 1000 IU/d for 3 years. Although the dose of vitamin D was likely adequate, nearly 25% of the subjects dropped from study before the end of 3 years. Thus, there remains a lack of rigorous trials of the effect of vitamin D on blood pressure.
+
+Several mechanisms have been proposed to play a role in prevention of hypertension and cardiovascular disease. The reninâ€“angiotensin system plays an essential role in regulating blood pressure, and Li et al have shown that 1,25(OH)2D is a potent suppressor of renin biosynthesis.123  Vitamin D receptor knock out mice have increased production of renin and angiotensin II with resultant hypertension and cardiac hypertrophy. Hypertrophy of cardiac and smooth muscle could be caused by elevation of matrix metalloproteinases, associated with vitamin D deficiency.124-126 Insufficient vitamin D levels increase the inflammatory process, which is associated with atherosclerosis, endothelial dysfunction, and insulin resistance.127-129  
+
+Considerable research effort is underway to further elucidate the mechanisms underlying a vitamin D effect on the circulatory system.
+
+Thus, the epidemiologic studies of vitamin D tend to support its effects on lowering/maintaining blood pressure, and plausible mechanisms for such an effect have been proposed. However, rigorous randomized clinical trials using adequate doses of vitamin D supplementation are needed to confirm the effect.
+
+## Optimal Functioning of the Immune System
+
+A fascinating role of vitamin D is involvement in optimal functioning of the immune system. Evidence suggests that vitamin D insufficiency is linked to bacterial and viral infections as well as autoimmune diseases. This article will provide only a broad overview of this complex topic.
+
+Regulation of Immune Function. Calcitriol (1,25(OH)2D) is a hormone that regulates both adaptive and innate immunity.
+
+Adaptive immunity. Adaptive immunity involves the production of cytokines by T-lymphocytes and immunoglobulins by B-lymphocytes to combat the antigens presented to them by cells such as macrophages and dendritic cells. 1,25(OH)2D has been found to inhibit the adaptive immune system by suppressing immunoglobulin production and proliferation and retarding  the  differentiation  of  B-cell  precursors  into  plasma cells.130  Furthermore, 1,25(OH)2D suppresses T-cell proliferation  and  function, particularly  T  helper-1 and T  helper-17 cells.131,132 This ability of 1,25(OH)2D to suppress the adaptive immune response seems to account for the beneficial effect of vitamin D on autoimmune disorders. In fact, in experimental models for inflammatory arthritis, autoimmune diabetes, multiple sclerosis, and inflammatory bowel disease, 1,25(OH)2D administration has prevented or diminished the disease process.133,134 Evidence from clinical studies also show promise.
+
+Clinical evidence of a vitamin D effect on autoimmune disorders. A considerable body of epidemiological evidence supports the effect of vitamin D on prevention of various autoimmune disorders such as diabetes, multiple sclerosis, inflammatory bowel disease, rheumatoid arthritis, and systemic lupus erythematosus.22,135-150  For example, data from Finland show that adults who had been given 2000 IU/d of vitamin D during the first year of life had greater than an 80% decrease in risk of type1 diabetes compared with those who had not been supplemented.136  In NHANES III, nondiabetic individuals were shown to have a higher prevalence of high blood sugar values if they had low vitamin D.135  In animal studies, 1,25(OH)2D administration prevents development of experimentally induced type 1 diabetes.151,152
+
+The risk of multiple sclerosis seems to be decreased with adequate vitamin D. Studies show that persons who were born in an area below 35  N latitude and/or resided there during the first 10 years of life have a lower lifetime risk of multiple sclerosis.137-140  Large observational studies have shown that higher intake of vitamin D is associated with lower risk of multiple sclerosis.153  Burton et al154  conducted an open-label randomized prospective controlled 52-week trial matching patients with multiple sclerosis for demographic and disease characteristics. The treatment group received increasing vitamin D doses up to 40 000 IU/d over 28 weeks to raise serum 25(OH)D rapidly, followed by 10 000 IU/d for 12 weeks, and further decreased to 0 IU/d. Calcium (1200 mg/d) was given throughout the study. The primary objective was to assess tolerability  of high doses of vitamin  D. Secondary endpoints included immunologic biomarkers and relapse events. Despite a mean peak 25(OH)D of 165.2 ng/mL (413 nmol/L), no significant adverse events occurred. Those in the treatment group appeared to have fewer relapse events and a persistent reduction in T-cell proliferation compared with controls. A second randomized trial found that supplemented multiple sclerosis patients had increased serum transforming growth factor b1 levels compared with controls.155  Elevated b1 levels are associated with the stable phase of multiple sclerosis.156,157
+
+Thus, evidence for the relationship between vitamin D and autoimmune diseases is accumulating rapidly. However, rigorous randomized trials have not been done. Because of the long latency of many of these disorders, designing and conducting such trials may be challenging.
+
+Innate immunity. Innate immunity involves the activation of the Toll-like receptor (TLR) pathway in polymorphonuclear cells, monocytes, and macrophages, as well as in several types of epithelial cells.158  TLRs are transmembrane pathogen recognition receptors that trigger the innate immune response of the host to infectious agents.159  In this regard, TLRs serve as stimulators of inflammation and triggers for sepsis and immune exacerbation.160  The mechanism of vitamin Dâ€™s action in this context has been elucidated and shows that vitamin D is a necessary intermediate in the production of antimicrobial peptides, such as cathelicidin, by monocyte-macrophages.161-168  It has been shown that activation of the TLR pathway in human monocyte-macrophages by microbial agents, such as the Mycobacterium tuberculosis, stimulates expression of the CYP 27B (25(OH)D-1-a-hydroxylase) and vitamin D receptor genes in that cell. If there is inadequate 25(OH)D substrate available to the cell CYP 27B, there will be insufficient production of 1,25(OH)2D  locally.162,169,170   This  will  result  in  decreased binding of 1,25(OH)2D to the vitamin D receptor and limited activation of 1,25(OH)2D-VDR-directed antimicrobial genes. 
+
+The end result is decreased killing of ingested microbes.
+
+This antimicrobial mechanism is also used by epithelial cells in a variety of sites that serve as microbial barriers, such as the intestine, lung, placenta, and skin.171-177  Both bacteria and viruses can activate TLR-induced pathways.31  One of the human cathelicidins,  LL-37, has bactericidal  effects  and is involved in inflammatory and tissue remodeling processes.167,168 Furthermore, LL-37 stimulates angiogenesis, proliferation of lung epithelial cells, cytokine release, and cell migration.
+
+That serum 25(OH)D is the key precursor is also indicated by the fact that the first gene expressed in the macrophage is the 25(OH)D-1-a   hydroxylase, a step that would make sense only if the cell were expecting to use circulating 25(OH)D. It has also been found that, in addition to the gene for cathelicidin, the macrophage also produces the vitamin D-24 hydroxylase  (CYP  24),  resulting  in  a  rapid  degradation  of  the 1,25(OH)2D synthesized within the cell. It should be noted that dendritic cells and many epithelial cells, as well as monocyte-macrophages, express the vitamin D receptor and produce the 25(OH)D-1-a-hydroxylase and the 25(OH)D-24 hydroxylase.162,178-180 Thus, a large body of preclinical research suggests that vitamin D, working through the autocrine pathway, is essential for resisting infectious disease.
+
+Clinical evidence  of a vitamin D effect on infections. The effect of vitamin D in prevention and treatment of the bacterial infection tuberculosis has been known for decades. In fact, the Nobel Prize was awarded to Niels Finsen in 1903 for discovering that ultraviolet radiation heals lupus vulgaris, a skin form of tuberculosis.181  During the 1900s tuberculosis sanitariums with abundant sunshine exposure were common for treatment of tuberculosis patients.
+
+A wealth of clinical evidence supports the effect of vitamin D on decreasing the risk of infectious diseases.182-188  In the 1800s, it was recognized that patients with rickets, a vitamin Dâ€“deficiency disease, were prone to infections and often died of pneumonia.189  More recently, high rates of tuberculosis are associated with vitamin D deficiency in various populations.183,184  Viral infections such as the common cold, influenza,  and  respiratory  syncytial  virus  peak  during  winter months when the serum 25(OH)D levels are the lowest.182  This has also been shown for scarlet fever,185   meningitis,190   and viral infections of the gastrointestinal tract.186-188  Pandemic influenza also appears to have a higher incidence during winter months. 191     
+
+Recently,   Ginde   et  al 182  reported   that   the prevalence of upper respiratory infections in NHANES III was higher with lower 25(OH)D levels, regardless of season of the year. In a prospective cohort study, Sabetta et al192  found that serum 25(OH)D levels of 38 ng/mL (95 nmol/L) or more were associated with a significant (P < .0001) 2-fold reduction in the risk  of  developing acute  respiratory infections  and  with  a marked reduction in the percentages of days ill.
+
+A few randomized trials support the effect on vitamin D on infectious diseases. For example, 10 000 IU of native vitamin D given daily along with standard tuberculosis treatment resulted in a 24% greater clearance of mycobacterium from the sputum compared with the standard treatment alone.193   In a study of African American women randomized to placebo or vitamin D3  800 IU for 2 years and 2000 IU for the third year, Aloia et al found a significantly lower incidence of common colds and influenza in the treated group.194 However, colds and influenza were secondary outcomes in this study of bone health. Recently, young Finnish males in military training were randomly assigned to  vitamin  D3   400  IU/d  or  placebo  for  6 months.195  The primary outcome was number of days absent from duty due to respiratory infection. Although the mean number of days absent did not differ between groups, the proportion of men remaining healthy (without a respiratory infection) was significantly higher in the treatment group (51.3% vs 35.7%, P Â¼ .045).
+
+In total, the evidence is very strong for vitamin D being essential for prevention of infectious diseases. However, rigorous randomized trials remain to be done to confirm the efficacy of vitamin D in this regard and to delineate the optimal levels of 25(OH)D for prevention of various diseases in a multitude of population groups.
+
+## Conclusion
+
+In conclusion, scientists are generating a strong body of evidence to support a vitamin D paradigm shift. 
+
+This evidence suggests that vitamin D is much more than a nutrient needed for bone health; it is an essential hormone required for regulation of a large number of physiologic functions. 
+
+It is clear that sufficient levels of serum 25(OH)D are essential for optimizing human health. 
+
+However, many questions remain unanswered. For example, 
+
+* what levels of serum 25(OH)D are optimal? 
+
+* Do these optimal levels vary for prevention of various disorders or in differing human populations? 
+
+* What amount of supplementation or sunlight exposure is needed to achieve and maintain these levels?
+
+Although innumerable clinical studies support the effect of vitamin D in preventing a wide range of disorders, rigorous randomized clinical trials of vitamin D supplementation are sorely lacking. 
+
+Successful completion of such trials is essential to establish the efficacy and safety of vitamin D supplementation on a population level.
+
+However, since we are experiencing a global epidemic of vitamin D insufficiency,  **it is unacceptable to continue the status quo pending the outcome of long-term clinical trials.**  
+
+It is imperative that all individuals be encouraged to obtain vitamin D from either sunlight or supplementation. 
+
+Although relatively few clinical research reports are available in children, it is obvious that all age-groups require optimal levels of vitamin D to support physiologic functions that are dependent on circulating 25(OH)D. 
+
+Public education should be provided about the safety of vitamin D supplementation and the value of sensible sunlight exposure. 
+
+There is a growing consensus that the optimal range for 25(OH)D values lies above 30 to 32 ng/mL (75-80 nmol/L) for most populations, and it seems prudent that persons at high risk of vitamin D deficiency and/or vitamin Dâ€“ deficiency disorders have their serum 25(OH)D assessed.
+
+Vitamin D is truly remarkable in that it plays a key role in a wide range of physiologic functions. 
+
+As scientists continue to solve the remaining mysteries related to vitamin D function and provide approaches for optimizing vitamin D status, we can expect dramatic improvement in a broad spectrum of human disorders.
+
+Declaration of Conflicting Interests: The author is on the Diasorin Scientific Advisory Panel for Vitamin D.
+
+Funding: The  author received  no  financial  support for  the  research and/or authorship of this article.
+
+## References
+
+1. National Academy of Science. Dietary Reference Intakes for Calcium, Magnesium, Phosphorus, Vitamin D, and Fluoride. Washington, DC: National Academies Press; 1999.
+
+2. Stumpf W, Sar M, DeLuca H. Sites of action of 1,25(OH)D2 identified by thaw-mount autoradiography. In: Cohn D, Talmage R, Matthews K, eds. Hormonal Control  of Calcium Metabolism. Amsterdam, Netherlands: Oxford-Princeton; 1981:222-229.
+
+3. Schwartz G, Whitlatch  L,  Chen T,  Lokeshwar B, Holick M. Human prostate cells synthesize 1,25-dihydroxyvitamin D3 from 25-hydroxyvitamin  D3.  Cancer  Epidemiol  Biomarkers  Prev. 1998;7:391-395.
+
+4. Mawer E,  Hayes M, Heys S. Constitutive  synthesis of 1,25dihydroxyvitamin D3 by a human small cell lung cancer cell line. J Clin Endocrinol Metab. 1994;79:554-560.
+
+5. Cross H, Bareis P, Hofer H. 25-Hydroxyvitamin D3-1-alphahydroxlyase and vitamin D receptor gene expression in human colonic mucosa is elevated during early cancerogenesis. Steroids. 2001;66:287-292.
+
+6. Tangpricha V, Flanagan J, Whitlatch L. 25-Hydroxyvitamin D-1alpha-hydroxylase in normal and malignant colon tissue. Lancet. 2001;357:1673-1674.
+
+7. Holick  MF.  High  prevalence  of  vitamin  D  inadequacy  and implications for health. Mayo Clin Proc. 2006;81:353-373.
+
+8. Jones G. Metabolism and catabolism of vitamin D, its metabolites and clinically relevant analogs. In: Holick M, ed. Vitamin D: Physiology, Molecular Biology, and Clinical Applications. 2nd ed. Boston, MA: Humana Press; 2010:99-134.
+
+9. Heaney RP. Functional indices of vitamin D status and ramifications of vitamin D deficiency. Am J Clin Nutr. 2004;80(suppl): 1706S-1709S.
+
+10. Thomas M, Lloyd-Jones D, Thadhani R, et al. Hypovitaminosis  D  in  medical  inpatients.  N  Engl  J  Med.  1998;338: 777-783.
+
+11. Chapuy M, Prezoisi P, Maamer M. Prevalence of vitamin D insufficiency in an adult normal population. Osteoporos Int. 1997;7: 439-443.
+
+12. Need A, Oâ€™Loughlin P, Morris H, Horowitz M, Nordin B. The effects of age and other variables on serum parathyroid hormone in  postmenopausal  women  attending  an  osteoporosis  center. J Clin Endocrinol Metab. 2004;89:1646-1649.
+
+13. Holick M, Siris E, Binkley N, et al. Prevalence of vitamin D inadequacy among postmenopausal North American women receiving osteoporosis therapy. J Clin Endocrinol Metab. 2005; 90:3215-3224.
+
+14. Lappe JM, Davies KM, Travers-Gustafson D, Heaney RP. Vitamin D status in a rural postmenopausal female population. J Am Clin Nutr. 2006;25:395-402.
+
+15. Heaney RP, Dowell M, Hale C, Bendich A. Calcium absorption varies within the reference range for serum 25-hydroxyvitamin D. J Am Coll Nutr. 2003;22:142-146.
+
+16. Barger-Lux J, Heaney R. Effects of above average  summer sun exposure on serum 25-hydroxyvitamin D and calcium absorption   fraction.   J   Clin   Endocrinol   Metab.   2002;87: 4952-4956.
+
+17. Heaney RP. Vitamin D depletion and effective calcium absorption. J Bone Miner Res. 2003;18:1342.
+
+18. Bischoff-Farrari  H,  Dietrich  T,  Orav  E.  Higher  25-hydroxyvitamin D concentrations are associated with better lowerextremity function in both active and inactive persons aged over 60 y. Am J Clin Nutr. 2004;80:752-758.
+
+19. Bischoff-Farrari H, Dietrich T, Orav EJ, Dawson-Hughes B. Positive association between 25-hydroxy vitamin D levels and bone mineral density; a population-based study of younger and older adults. Am J Med. 2004;116:634-639.
+
+20. Grau M, Baron J, Sandler R, et al. Vitamin D, calcium supplementation, and colorectal adenomas: results of a randomized trial. J Natl Cancer Inst. 2003;95:1765-1771.
+
+21. Platz E, Hankinson S, Hollis B. Plasma 1,25-dihydroxyvitamin D and adenomatous polyps of the distal colorectum. Cancer Epidemiol Biomarkers Prev. 2000;9:1059-1065.
+
+22. Chiu KC, Chu A, Go VL, Saad MF. Hypovitaminosis D is associated with insulin resistance and beta cell dysfunction. Am J Clin Nutr. 2004;79:820-825.
+
+23. Vieth R. Vitamin D supplementation, 25-hydroxyvitamin D concentrations, and safety. Am J Clin Nutr. 1999;69:842-856.
+
+24. Binkley N, Novotny R, Krueger D, et al. Low vitamin D status despite abundant sun exposure. J Clin Endocrinol Metab. 2007; 92:2130-2135.
+
+25. Garland C, Garland F, Gorham E, et al. The role of vitamin D in cancer prevention. Am J Public Health. 2006;96:252-261.
+
+26. Yetley EA. Assessing the vitamin D status of the US population. Am J Clin Nutr. 2008;88:558S-564S.
+
+27. Ginde AA, Liu MC, Camargo CA Jr. Demographic differences and  trends of  vitamin  D  insufficiency  in  the  US  population,1988-2004. Arch Intern Med. 2009;169:626-632.
+
+28. Greer  FR.  25-Hydroxyvitamin  D:  functional  outcomes  in infants   and   young   children.   Am  J   Clin   Nutr.   2008;88:529S-533S.
+
+29. Armas L, Heaney R, Barger-Lux J, Huerter C, Lund R. The effects of UV-B on serum 25(OH)D in humans with dark skin. J Bone Miner Res. 2006;21(suppl 1):S449.
+
+30. Looker  A,  Pfeiffer  C,  Lacher  D,  Schleicher  R,  Picciano  M, Yetley E. Serum 25-hydroxyvitamin D status of the US population:  1988-1994 compared  with  2000-2004. Am J  Clin  Nutr.  008;88:1519-1527.
+
+31. Adams JS, Hewison M. Update in vitamin D. J Clin Endocrinol Metab. 2010;95:471-478.
+
+32. Rohde CM, Manatt M, Clagett-Dame M, DeLuca HF. Vitamin A antagonizes the action of vitamin D in rats. J Nutr. 1999;129: 2246-2250.
+
+33. Holick M. Vitamin D: the underappreciated D-lightful hormone that is important for skeletal and cellular health. Curr Opin Endocrinol Diabetes. 2002;9:87-98.
+
+34. Heaney RP, Davis KM, Chen T, Holick M, Barger-Lux J. Human serum 25-hydroxycholecalciferol response to extended oral dosing with cholecalciferol. Am J Clin Nutr. 2003;77:204-210.
+
+35. Lappe  JM,  Davies  KM,  Travers-Gustafson  D,  Heaney  RP. Vitamin D status in a rural postmenopausal female population. J Am Coll Nutr. 2006;25:395-402.
+
+36. Harris S, Dawson-Hughes B. Seasonal changes in plasma 25hydroxyvitamin D concentrations of young American black and white women. Am J Clin Nutr. 1998;67:1232-1236.
+
+37. Dawson-Hughes B, Harris S, Dallal G. Plasma calcidiol, season, and serum parathyroid hormone concentrations in healthy elderly men and women. Am J Clin Nutr. 1997;65:67-71.
+
+38. Armas L, Dowell S, Akhter M, et al. Ultraviolet-B radiation increases  serum  25-hydroxyvitamin  D  levels:  the  effect  of UVB  dose  and  skin  color.  J  Am Acad Dermatol.  2007;57: 588-593.
+
+39. Matsuoka L, Ide L, Wortsman J. Sunscreens suppress cutaneous vitamin  D3  synthesis.  J   Clin  Endocrinol   Metab.  1987;64: 1165-1168.
+
+40. Wagner CL, Greer FR, Section on Breastfeeding and Committee on Nutrition. Prevention of rickets and vitamin D deficiency in infants,   children,   and   adolescents.   Pediatrics.    2008;122: 1142-1152.
+
+41. Yetley EA, Brule D, Cheney MC, et al. Dietary reference intakes for vitamin D: justification for a review of the 1997 values. Am J Clin Nutr. 2009;89:719-727.
+
+42. Bikle D. Nonclassic actions of vitamin D. J  Clin Endocrinol Metab. 2009;94:26-34.
+
+43. Armas LA, Hollis BW, Heaney RP. Vitamin D2 is much less effective than vitamin D3 in humans. J Clin Endocrinol Metab. 2004;89:5387-5391.
+
+44. Trang H, Cole D, Rubin L, Pierratos A, Siu S, Vieth R. Evidence that vitamin D3 increases serum 25-hydroxyvitamin D more efficiently than does vitamin D2. Am J Clin Nutr. 1998;68:854-858.
+
+45. Romagnoli E, Mascia ML, Cipriani C, et al. Short and long-term variations in serum calciotropic hormones after a single very large dose of ergocalciferol (vitamin D2) or cholecalciferol (vitamin D3) in the elderly. J Clin Endocrinol Metab. 2008;93:3015-3020.
+
+46. Holick MF, Biancuzzo RM, Chen TC, et al. Vitamin D2 is as effective as vitamin D3 in maintaining circulating concentrations of  25-hydroxyvitamin D.  J  Clin  Endocrinol  Metab. 2008;93: 677-681.
+
+47. Heaney RP, Barger-Lux J, Dowell MS, Chen T, Holick MF. Calcium absorptive effects of vitamin D and its major metabolites. J Clin Endocrinol Metab. 1997;82:4111-4116.
+
+48. Heaney R. The vitamin D requirement in health and disease. J Steroid Biochem Mol Biol. 2005;97:13-19.
+
+49. Binkley N, Krueger D, Lensmeyer G. 25-hydroxyvitamin D measurement, 2009: a review for clinicians. J Clin Densitom. 2009; 12:417-427.
+
+50. Vieth R. Vitamin D toxicity, policy and science. J Bone Miner Res. 2007;22(suppl):V64-V68.
+
+51. Tangpricha V, Turner A, Spina C, Decastro S, Chen T, Holick M. Tanning is associated with optimal vitamin D status (serum 25hydroxyvitamin D concentration) and higher bone mineral density. Am J Clin Nutr. 2004;80:1645-1649.
+
+52. Hathcock J, Shao A, Vieth R, Heaney R. Risk assessment for vitamin D. Am J Clin Nutr. 2007;85:6-18.
+
+53. Giovannucci E, Platz EA. In: Feldman, D, Glorieux, Francis H, Pike, JW, eds. Epidemiology of Cancer Risk: Vitamin D and Calcium. 2nd ed. Boston, MA: Elsevier Inc; 2005:1617-1634.
+
+54. Kennel K, Drake M, Hurley D. Vitamin D deficiency in adults: when to test and how to treat. Mayo Clin Proc. 2010;85:752-758.
+
+55. Binkley N, Germar D, Engelke JA, Gangnon R, Ramamurthy R, Krueger D. Dosing with ergocalciferol or cholecalciferol, 1,600 IU daily or 50,000 IU monthly, is safe but does not assure vitamin D adequacy. J Bone Miner Res. 2009;24(suppl):24.
+
+56. Wagner C, Johnson D, Hulsey T, et al. Vitamin D supplementation during pregnancy part 2 NICHD/CTSA Rand Trial (RCT): outcomes.  Paper  presented  at:  Pediatric  Academic  Societiesâ€™ 2010 Annual Meeting; Vancouver, British Columbia, Canada; May 1-4, 2010.
+
+57. Jones G. Pharmacokinetics of vitamin D toxicity. Am J Clin Nutr. 2008;88(suppl):582S-586S.
+
+58. Heaney R. Nutrition and chronic disease. Mayo Clin Proc. 2006; 81:297-299.
+
+59. Aaron J, Gallagher J, Anderson J, et al. Frequency of osteomalacia and osteoporosis in fractures of the proximal femur. Lancet. 1974;1:229-233.
+
+60. Bischoff-Farrari H, Willet W, Wong J, Giovannucci E, Dietrich T, Dawson-Hughes B. Fracture prevention with vitamin D supplementation. JAMA. 2005;293:2257-2264.
+
+61. Tinetti ME, Speechley M, Ginter SF. Risk factors for falls among elderly persons living in the community. N Engl J Med. 2010;319: 1701-1707.
+
+62. Bischoff-Ferrari  HA,  Borchers  M,  Gudat  F,  Durmuller  U, Stahelin HB, Dick W. Vitamin D receptor expression in human muscle tissue decreases with age. J Bone Miner Res. 2004;19: 265-269.
+
+63. Sorensen OH, Lund B, Saltin B, et al. Myopathy in bone loss of ageing: improvement by treatment with 1 alphahydroxycholecalciferol and calcium. Clin Sci (Lond). 1979;56: 157-161.
+
+64. Bischoff-Ferrari HA,  Dietrich  T,  Orav  EJ,  et  al.  Higher  25hydroxyvitamin D concentrations are associated with better lower-extremity function in both active and inactive persons aged  60 y. Am J Clin Nutr. 2004;80:752-758.
+
+65. Bischoff HA, Stahelin HB, Dick W, et al. Effects of vitamin D and calcium supplementation on falls: a randomized controlled trial. J Bone Miner Res. 2003;18:343-351.
+
+66. Pfeifer M, Begerow B, Minne HW, Suppan K, Fahrleitner-Pammer A, Dobnig H. Effects of a long-term vitamin D and calcium supplementation on falls and parameters of muscle function in communitydwelling older individuals. Osteoporos Int. 2009;20:315-322.
+
+67. Bischoff H, Stahelin HB, Dick W, et al. Effects of vitamin D and calcium  supplements  on  falls:  a  randomized  controlled  trial. J Bone Miner Res. 2003;18:343-351.
+
+68. Bischoff-Ferrari HA, Orav EJ, Dawson-Hughes B. Effect of cholecalciferol plus calcium on falling in ambulatory older men and women: a 3-year randomized controlled trial. Arch Intern Med. 2006;166:424-430.
+
+69. Pfeifer M, Begerow B, Minne HW, Abrams C, Nachtigall D, Hansen C. Effects of a short-term vitamin D and calcium supplementation on body sway and secondary hyperparathyroidism in elderly women. J Bone Miner Res. 2000;15:1113-1118.
+
+70. Broe KE, Chen TC, Weinberg J, Bischoff-Ferrari HA, Holick MF, Kiel DP. A higher dose of vitamin d reduces the risk of falls in nursing  home  residents:  a  randomized,  multiple-dose  study. J Am Geriatr Soc. 2007;55:234-239.
+
+71. Peller S, Stephenson C. Skin irritation and cancer in the United States Navy. Am J Med. 1937;194:326-333.
+
+72. Apperly F. The relation of solar radiation to cancer mortality in North America. Cancer Res. 1941;1:191-195.
+
+73. Garland C, Garland F. Do sunlight and vitamin D reduce the likelihood of colon cancer? Int J Epidemiol. 1980;9:227-231.
+
+74. Grant W. An estimate of premature cancer mortality in the U.S. due to inadequate doses of solar ultraviolet-B radiation. Cancer. 2002;94:1867-1875.
+
+75. Holick MF. Vitamin D: its role in cancer prevention and treatment. Prog Biophys Mol Biol. 2006;92:49-59.
+
+76. Giovannucci E. The epidemiology of vitamin D and cancer incidence and mortality: a review (United States). Cancer  Causes Control. 2005;16:83-95.
+
+77. Grant WB, Garland CF. The association of solar ultraviolet B (UVB) with reducing risk of cancer: multifactorial ecologic analysis  of  geographic variation  in  age-adjusted  cancer  mortality rates. Anticancer Res. 2006;26:2687-2699.
+
+78. Pilz S, Dobnig H, Winklhofer-Roob B, et al. Low serum levels of 25-hydroxyvitamin D predict fatal cancer in patients referred to coronary  angiography.  Cancer   Epidemiol  Biomarkers  Prev. 2008;17:1228-1233.
+
+79. Feskanich D, Ma J, Fuchs CS, et al. Plasma vitamin D metabolites and risk of colorectal cancer in women. Cancer Epidemiol Biomarkers Prev. 2004;13:1502-1508.
+
+80. Ahonen M, Tenkanen L, Teppo L. Prostate cancer risk and prediagnostic serum 25-hydroxyvitamin D levels (Finland). Cancer Causes Control. 2000;11:847-852.
+
+81. Gorham ED, Garland CF, Garland FC, et al. Vitamin D and prevention of colorectal cancer. J Steroid Biochem Mol Biol. 2005; 97:179-194.
+
+82. Abbas S, Linseisen J, Slanger T, et al. Serum 25-hydroxyvitamin D and risk of post-menopausal breast cancerâ€”results of a large case-control study. Carcinogenesis. 2008;29:93-99.
+
+83. Bertone-Johnson  E,   Chen   W,   Holick   M,   et   al.   Plasma 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D and risk of breast cancer. Cancer Epidemiol Biomarkers Prev. 2005;14: 1991-1997.
+
+84. Garland C, Garland F, Shaw E. Serum 25-hydroxyvitamin D and colon cancer:  eight-year prospective study. Lancet. 1989;18:1176-1178.
+
+85. Cox  AJ,  Gleeson  M,  Pyne  DB,  Callister  R,  Hopkins  WG, Fricker PA. Clinical and laboratory evaluation of upper respiratory symptoms in elite athletes. Clin J  Sport Med. 2008;18: 438-445.
+
+86. Tworoger S, Lee IM, Buring J, et al. Plasma 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D and risk of incident ovarian cancer. Cancer Epidemiol Biomarkers Prev. 2007;16:783-788.
+
+87. Teegarden D, Legowski P, Gunther C, McCabe G, Peacock M, Lyle R. Dietary calcium intake protects women consuming oral contraceptives from spine and hip bone loss. J Clin Endocrinol Metab. 2005;90:5127-5133.
+
+88. Ahn J, Peters U, Albanes D, et al. Serum vitamin D concentration and prostate cancer risk: a nested case-control study. J Natl Cancer Inst. 2008;100:796-804.
+
+89. Lappe  JM,  Travers  Gustafson  D,  Davies  KM,  Recker  RR, Heaney RP. Vitamin D and calcium supplementation reduces cancer  risk:  results  of  a  randomized  trial.  Am J  Clin  Nutr. 2007;85:1586-1591.
+
+90. Wactawski Wende J, Kotchen JM, Anderson GL, et al. Calcium plus vitamin D supplementation and the risk of colorectal cancer. N Engl J Med. 2006;354:684-696.
+
+91. Ng K, Meyerhardt J, Wu K, et al. Circulating 25-hydroxyvitamin D levels and survival in patients with colorectal cancer. J Clin Oncol. 2008;26:2984-2991.
+
+92. Giovannucci E. The epidemiology of vitamin D and cancer risk. In: Holick M, ed. Vitamin D: Physiology, Molecular Biology, and Clinical Applications. 2nd ed. Boston, MA: Humana Press;2010:777-796.
+
+93. Garland CF, Gorham ED, Mohr SB, Garland FC. Vitamin D for cancer prevention: global perspective. Ann Epidemiol. 2009;19:468-483.
+
+94. Holick M. Vitamin D: a millennium perspective. J Cell Biochem. 2003;88:296-307.
+
+95. DeLuca H. Overview of general physiologic features and functions   of   vitamin   D.   Am  J   Clin   Nutr.   2004;80(suppl): 1689S-1696S.
+
+96. Rachez C, Freedman LP. Mechanisms of gene regulation by vitamin D(3) receptor: a network of coactivator interactions. Gene. 2000;246:9-21.
+
+97. Welsh J. Vitamin D and breast cancer: insights from animal models. Am J Clin Nutr. 2004;80(suppl):1721S-1724S.
+
+98. Holick M. Sunlight and vitamin D for bone health and prevention of autoimmune diseases, cancers, and cardiovascular disease. Am J Clin Nutr. 2004;80(suppl):1678S-1688S.
+
+99. Grant WB, Holick MF. Benefits and requirements of vitamin D for optimal health: a review. Altern Med Rev. 2005;10:94-111.
+
+100. Krause   R,   Buhring   M,   Hopfenmuller   W,   Holick   MF, Sharma AM. Ultraviolet B and blood pressure. Lancet. 1998; 352:709-710.
+
+101. Rostand S. Ultraviolet light may contribute to geographic and racial   blood   pressure   differences.   Hypertension.  1997;30: 150-156.
+
+102. Ullah MI, Uwaifo GI, Nicholas WC, Koch CA. Does vitamin d deficiency cause hypertension? Current evidence from clinical studies  and  potential  mechanisms.  Int  J  Endocrinol.  2010; 2010:579640.
+
+103. Wang T, Pencina M, Booth S, et al. Vitamin D deficiency and risk of cardiovascular disease. J  Am Heart  Assoc. 2008;117: 503-511.
+
+104. Skragg R. Seasonality of cardiovascular disease mortality and the possible protective effect of ultra-violet radiation. Int J Epidemiol. 2010;10:337-341.
+
+105. Skragg R. Sunlight, vitamin D and cardiovascular disease. In: Crass M, Avioli L, eds. Calcium-Regulating Hormones and Cardiovascular Function. Boca Raton, FL: CRC Press; 1995:213-237.
+
+106. Spencer FA, Goldberg RJ, Becker RC, Gore JM. Seasonal distribution of acute myocardial infarction in the second National Registry of Myocardial Infarction. J Am Coll Cardiol.  1998;31:1226-1233.
+
+107. Giovannucci    E,     Liu     Y,     Hollis     BW,     Rimm     EB. 25-Hydroxyvitamin D and risk of myocardial infarction in men: a prospective study. Arch Intern Med. 2008;168:1174-1180.
+
+108. Melamed ML, Michos ED, Post W, Astor B. 25-Hydroxyvitamin D levels and the risk of mortality in the general population. Arch Intern Med. 2008;168:1629-1637.
+
+109. Dobnig H, Pilz S, Scharnagl H, et al. Independent association of low serum 25-hydroxyvitamin d and 1,25-dihydroxyvitamin d levels with all-cause and cardiovascular mortality. Arch Intern Med. 2008;168:1340-1349.
+
+110. Hsia J, Heiss G, Ren H, et al. Calcium/vitamin D supplementation and cardiovascular events. Circulation. 2007;115:846-854.
+
+111. Newmark HL, Heaney RP. Calcium, vitamin D, and risk reduction of colorectal cancer. Nutr Cancer. 2006;56:1-2.
+
+112. Sowers MR, Wallace RB, Lemke JH. The association of intakes of vitamin D and calcium with blood pressure among women. Am J Clin Nutr. 1985;42:135-142.
+
+113. Forman JP, Bischoff-Ferrari HA, Willett WC, Stampfer MJ, Curhan GC. Vitamin D intake and risk of incident hypertension: results from three large prospective cohort studies. Hypertension. 2005;46:676-682.
+
+114. Forman JP, Giovannucci E,  Holmes MD, et  al.  Plasma 25hydroxyvitamin D  levels  and  risk  of  incident  hypertension. Hypertension. 2007;49:1063-1069.
+
+115. Scragg R, Sowers M, Bell C. Serum 25-hydroxyvitamin D, ethnicity, and blood pressure in the Third National Health and Nutrition  Examination  Survey.  Am  J  Hypertens.  2007;20: 713-719.
+
+116. Lewington S, Clarke R, Qizilbash N, Peto R, Collins R. Agespecific relevance of usual blood pressure to vascular mortality: a meta-analysis of individual data for one million adults in 61 prospective studies. Lancet. 2002;360:1903-1913.
+
+117. Jorde R, Bonaa K. Calcium from dairy products, vitamin D intake, and blood pressure: the Tromso study. Am J Clin Nutr. 2000;71:1530-1535.
+
+118. Poskitt  EM,  Cole  TJ,  Lawson  DE.  Diet,  sunlight,  and  25hydroxy vitamin D in healthy children and adults. Br Med J. 1979;1:221-223.
+
+119. Fahrleitner A, Dobnig H, Obernosterer A, et al. Vitamin D deficiency and secondary hyperparathyroidism are common complications in patients with peripheral arterial disease. J Gen Intern Med. 2002;17:663-669.
+
+120. Margolis KL, Ray RM, Van Horn L, et al. Effect of calcium and vitamin D supplementation on blood pressure: the Womenâ€™s Health  Initiative  Randomized  Trial.  Hypertension.  2008;52:847-855.
+
+121. Orwoll ES, Oviatt S. Relationship of mineral metabolism and long-term calcium and cholecalciferol supplementation to blood pressure  in  normotensive  men.  Am J  Clin  Nutr.  1990;52:717-721.
+
+122. Scragg R, Khaw KT, Murphy S. Effect of winter oral vitamin D3 supplementation on cardiovascular risk factors in elderly adults. Eur J Clin Nutr. 1995;49:640-646.
+
+123. Li YC. Vitamin D regulation of the renin-angiotensin system. J Cell Biochem. 2003;88:327-331.
+
+124. Loftus IM, Thompson MM. The role of matrix metalloproteinases in vascular disease. Vasc Med. 2002;7:117-133.
+
+125. Perlstein TS, Lee RT. Smoking, metalloproteinases, and vascular   disease.   Arterioscler   Thromb  Vasc  Biol.  2006;26: 250-256.
+
+126. Timms PM, Mannan N, Hitman GA, et al. Circulating MMP9, vitamin D and variation in the TIMP-1 response with VDR genotype: mechanisms for inflammatory damage in chronic disorders? QJM. 2002;95:787-796.
+
+127. Epstein FH, Ross R. Atherosclerosis: an inflammatory disease. N Engl J Med. 1999;340:115-126.
+
+128. Daxecker H, Raab M, Markovic S, Karimi A, Griesmacher A, Mueller MM. Endothelial adhesion molecule expression in an in  vitro  model  of inflammation.  Clin Chim Acta. 2002;325: 171-175.
+
+129. Visser M, Bouter LM, McQuillan GM, Wener MH, Harris TB. Elevated  C-reactive  protein  levels  in  overweight  and  obese adults. JAMA. 1999;282:2131-2135.
+
+130. Chen S, Sims GP, Chen XX, Gu YY, Chen S, Lipsky PE. Modulatory effects of 1,25-dihydroxyvitamin D3 on human B cell differentiation. J Immunol. 2007;179:1634-1647.
+
+131. Rigby WF, Stacy T, Fanger MW. Inhibition of T lymphocyte mitogenesis by 1,25-dihydroxyvitamin D3 (calcitriol). J  Clin Invest. 1984;74:1451-1455.
+
+132. Daniel C, Sartory NA, Zahn N, Radeke HH, Stein JM. Immune modulatory treatment  of trinitrobenzene  sulfonic acid  colitis with calcitriol is associated with a change of a T helper (Th) 1/Th17 to a Th2 and regulatory T cell profile. J Pharmacol Exp Ther. 2008;324:23-33.
+
+133. Adorini L. Intervention in autoimmunity: the potential of vitamin D receptor agonists. Cell Immunol. 2005;233:115-124.
+
+134. DeLuca HF, Cantorna MT. Vitamin D: its role and uses in immunology. FASEB J. 2001;15:2579-2585.
+
+135. Scragg R, Sowers MF, Bell C. Serum 25-hydroxy vitamin D, diabetes, and ethnicity in the Third National Health and Nutrition   Examination   Survey.   Diabetes   Cure.   2004;27: 2813-2818.
+
+136. Hypponen E, Laara E, Reunanen A, Jarvelin MR, Virtanen SM. Intake of vitamin D and risk of type 1 diabetes: a birth-cohort study. Lancet. 2001;358:1500-1503.
+
+137. Hernan MA, Olek MJ, Ascherio A. Geographic variation of MS incidence in two prospective studies of US women. Neurology. 1999;53:1711-1718.
+
+138. Leibowitz R, Davi S, Alter M. Geographical considerations in multiple sclerosis. Brain. 1967;90:871-886.
+
+139. Ponsonby AL, McMichael A, van der Mei I. Ultraviolet radiation  and autoimmune  disease:  insights from epidemiological research. Toxicology. 2002;181-182:71-78.
+
+140. Embry AF, Snowdon LR, Vieth R. Vitamin D and seasonal fluctuations of gadolinium-enhancing magnetic resonance imaging lesions in multiple sclerosis. Ann Neurol. 2000;48:271-272.
+
+141. Moum B, Aadland E, Ekbom A, Vatn MH. Seasonal variations in the onset of ulcerative colitis. Gut. 1996;38:376-378.
+
+142. Leslie WD, Miller N, Rogala L, Bernstein CN. Vitamin D status  and  bone  density  in  recently  diagnosed  inflammatory bowel disease: the Manitoba IBD Cohort Study. Am J Gastroenterol. 2008;103:1451-1459.
+
+143. Pappa HM, Gordon CM, Saslowsky TM, et al. Vitamin D status in children and young adults with inflammatory bowel disease. Pediatrics. 2006;118:1950-1961.
+
+144. Staples JA, Ponsonby AL, Lim LLY, McMichael AJ. Ecologic analysis of some immune-related disorders, including type 1 diabetes, in Australia: latitude, regional ultraviolet radiation, and disease prevalence. Environ Health Perspect. 2003;111:518-523.
+
+145. Oelzner P, Franke S, Muller A, Hein G, Stein G. Relationship between soluble markers of immune activation and bone turnover in post-menopausal women with rheumatoid arthritis. Rheumatology (Oxford). 1999;38:841-847.
+
+146. Iikuni N, Nakajima A, Inoue E, et al. Whatâ€™s in season for rheumatoid arthritis patients? Seasonal fluctuations in disease activity. Rheumatology (Oxford). 2007;46:846-848.
+
+147. Oelzner P, Muller A, Deschner F, et al. Relationship between disease activity and serum levels of vitamin D metabolites and PTH in rheumatoid arthritis. Calcif Tissue Int. 1998;62:193-198.
+
+148. Barnes TC, Bucknall RC. Vitamin D deficiency in a patient with systemic lupus erythematosus. Rheumatology (Oxford). 2004; 43:393-394.
+
+149. Huisman AM, White KP, Algra A, et al. Vitamin D levels in women with systemic lupus erythematosus and fibromyalgia. J Rheumatol. 2001;28:2535-2539.
+
+150. Muller   K,   Kriegbaum   NJ,   Baslund   B,   Sorensen   OH, Thymann M, Bentzen K. Vitamin D3 metabolism in patients with rheumatic diseases: low serum levels of 25hydroxyvitamin D3 in patients with systemic lupus erythematosus. Clin Rheumatol. 1995;14:397-400.
+
+151. Casteels K, Waer M, Bouillon R, et al. 1,25-Dihydroxyvitamin D3 restores  sensitivity  to  cyclophosphamide-induced apoptosis in non-obese diabetic (NOD) mice and protects against diabetes. Clin Exp Immunol. 1998;112:181-187.
+
+152. Mathieu C, Waer M, Laureys J, Rutgeerts O, Bouillon R. Prevention of autoimmune diabetes in NOD mice by 1,25dihydroxyvitamin D3. Diabetologia. 1994;37:552-558.
+
+153. Munger KL, Zhang SM, Oâ€™Reilly E, et al. Vitamin D intake and incidence of multiple sclerosis. Neurology. 2004;62:60-65.
+
+154. Burton  JM,  Kimball  S,  Vieth  R,  et  al.  A  phase  I/II  doseescalation trial of vitamin D3 and calcium in multiple sclerosis. Neurology. 2010;74:1852-1859.
+
+155. Mahon BD, Gordon SA, Cruz J, Cosman F, Cantorna MT. Cytokine profile in patients with multiple sclerosis following vitamin   D   supplementation.  J   Neuroimmunol.  2003;134: 128-132.
+
+156. Carrieri  PB,  Provitera  V,  De  RT,  Tartaglia  G,  Gorga  F, Perrella O. Profile of cerebrospinal fluid and serum cytokines in patients with relapsing-remitting multiple sclerosis: a correlation with clinical activity. Immunopharmacol Immunotoxicol. 1998;20:373-382.
+
+157. Losy J, Michalowska-Wender G. In vivo effect of interferonbeta 1a on interleukin-12 and TGF-beta(1) cytokines in patients with relapsing-remitting multiple sclerosis. Acta Neurol Scand.
+
+2002;106:44-46.
+
+158. Liu P, Hewison M, Adams J. Vitamin D and the innate immunity. In: Holick M, ed. Vitamin D: Physiology, Molecular Biology, and Clinical  Applications. 2nd  ed.  Boston,  MA:  Humana  Press; 2010:297-310.
+
+159. Medzhitov R. Recognition of microorganisms and activation of the immune response. Nature. 2007;449:819-826.
+
+160. Sadeghi K, Wessner B, Laggner U, et al. Vitamin D3 downregulates monocyte TLR expression and triggers hyporesponsiveness   to   pathogen-associated   molecular   patterns.   Eur J Immunol. 2006;36:361-370.
+
+161. Adams JS, Hewison M. Unexpected actions of vitamin D: new perspectives on the regulation of innate and adaptive immunity. Nat Clin Pract Endocrinol Metab. 2008;4:80-90.
+
+162. Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin  D-mediated  human  antimicrobial  response.  Science. 2006;311:1770-1773.
+
+163. Liu PT, Stenger S, Tang DH, Modlin RL. Cutting edge: vitamin D-mediated human antimicrobial activity against mycobacterium tuberculosis is dependent on the induction of cathelicidin. J Immunol. 2007;179:2060-2063.
+
+164. Krutzik SR, Hewison M, Liu PT, et al. IL-15 links TLR2/1-induced macrophage differentiation to the vitamin D-dependent antimicrobial pathway. J Immunol. 2008;181:7115-7120.
+
+165. Liu PT, Schenk M, Walker VP, et al. Convergence of IL-1beta and VDR activation pathways in human TLR2/1-induced antimicrobial responses. PLoS One. 2009;4:e5810.
+
+166. Adams JS, Ren S, Liu PT, et al. Vitamin D-directed rheostatic regulation  of  monocyte  antibacterial  responses.  J  Immunol. 2009;182:4289-4295.
+
+167. Zanetti M. Cathelicidins, multifunctional peptides of the innate immunity. J Leukoc Biol. 2004;75:39-48.
+
+168. Golec M. Cathelicidin LL-37: LPS-neutralizing, pleiotropic peptide. Ann Agric Environ Med. 2007;14:1-4.
+
+169. Schauber J, Dorschner RA, Coda AB, et al. Injury enhances TLR2 function and antimicrobial peptide expression through a vitamin  D-dependent  mechanism.  J  Clin  Invest.  2007;117:
+
+803-811.
+
+170. Wang TT, Nestel FP, Bourdeau V, et al. Cutting edge: 1,25dihydroxyvitamin D3 is a direct inducer of antimicrobial peptide gene expression. J Immunol. 2004;173:2909-2912.
+
+171. Liu N, Nguyen L, Chun RF, et al. Altered endocrine and autocrine metabolism of vitamin D in a mouse model of gastrointestinal inflammation. Endocrinology. 2008;149:4799-4808.
+
+172. Hansdottir S, Monick MM, Hinde SL, Lovan N, Look DC, Hunninghake GW. Respiratory epithelial cells convert inactive vitamin D to its active form: potential effects on host defense. J Immunol. 2008;181:7090-7099.
+
+173. Liu N, Kaplan AT, Low J, et al. Vitamin D induces innate antibacterial responses in human trophoblasts via an intracrine pathway. Biol Reprod. 2009;80:398-406.
+
+174. Schauber J, Oda Y, Buchau AS, et al. Histone acetylation in keratinocytes enables control of the expression of cathelicidin and CD14 by 1,25-dihydroxyvitamin D3. J Invest Dermatol. 2008;
+
+128:816-824.
+
+175. Segaert S. Vitamin D regulation of cathelicidin in the skin: toward a renaissance of vitamin D in dermatology? J Invest Dermatol. 2008;128:773-775.
+
+176. Peric M, Koglin S, Kim SM, et al. IL-17A enhances vitamin D3induced expression of cathelicidin antimicrobial peptide in human keratinocytes. J Immunol. 2008;181:8504-8512.
+
+177. Peric M, Koglin S, Dombrowski Y, et al. Vitamin D analogs differentially control antimicrobial peptide/â€˜â€˜alarminâ€™â€™ expression in psoriasis. PLoS One. 2009;4:e6340.
+
+178. Hewison  M,  Burke  F,  Evans  KN,  et  al.  Extra-renal  25hydroxyvitamin D3-1alpha-hydroxylase in human health and disease. J Steroid Biochem Mol Biol. 2007;103:316-321.
+
+179. Adams J, Sharma O, Gacad M, Singer F. Metabolism of 25hydroxyvitamin D3 by cultured pulmonary alveolar macrophages in sarcoidosis. J Clin Invest. 1983;72:1856-1860.
+
+180. Bikle  DD,  Nemanic  MK,  Whitney  JO,  Elias  PW.  Neonatal human foreskin keratinocytes produce 1,25-dihydroxyvitamin D3. Biochemistry. 1986;25:1545-1548.
+
+181. Roelandts R. The history of phototherapy: something new under the sun? J Am Acad Dermatol. 2002;46:926-930.
+
+182. Ginde AA, Mansbach JM, Camargo CA Jr. Association between serum 25-hydroxyvitamin d level and upper respiratory tract infection in the third national health and nutrition examination survey. Arch Intern Med. 2009;169:384-390.
+
+183. Wilkinson RJ, Llewelyn M, Toossi Z, et al. Influence of vitamin D deficiency and vitamin D receptor polymorphisms on tuberculosis among Gujarati Asians in west London: a case-control study. Lancet. 2000;355:618-621.
+
+184. Gibney KB, MacGregor L, Leder K, et al. Vitamin D deficiency is associated with tuberculosis and latent tuberculosis infection in immigrants from sub-Saharan Africa. Clin Infect Dis. 2008; 46:443-446.
+
+185. Hope-Simpson RE. The role of season in the epidemiology of influenza. J Hyg (Lond). 1981;86:35-47.
+
+186. Hale A, Mattick K, Lewis D, et al. Distinct epidemiological patterns of Norwalk-like virus infection. J  Med Virol. 2000;62: 99-103.
+
+187. Putzker M, Sauer H, Kirchner G, Keksel O, Malic A. Community acquired diarrheaâ€”the incidence of astrovirus infections in Germany. Clin Lab. 2000;46:269-273.
+
+188. Suzuki H, Sakai T, Tanabe N, Okabe N. Peak rotavirus activity shifted from winter to early spring in Japan. Pediatr Infect Dis J. 2005;24:257-260.
+
+189. Armas L. Vitamin D, infections and immune-mediated diseases. Int J Clin Rheumatol. 2009;4:89-103.
+
+190. Canals M. Seasonal patterns of infectious disease: similarity and differences. Rev Med Chil. 1997;125:403-408.
+
+191. Colizza V, Barrat A, Barthelemy M, Valleron AJ, Vespignani A. Modeling the worldwide spread of pandemic influenza: baseline case and containment interventions. PLoS Med. 2007;4:e13.
+
+192. Sabetta JR, DePetrillo P, Cipriani RJ, Smardin J, Burns LA, Landry ML. Serum 25-hydroxyvitamin D and the incidence of acute viral respiratory tract infections in healthy adults. PLoS One. 2010;5:e11088.
+
+193. Nursyam EW, Amin Z, Rumende CM. The effect of vitamin D as supplementary treatment in patients with moderately advanced  pulmonary  tuberculous lesion.  Acta Med Indones. 2006;38:3-5.
+
+194. Aloia JF, Li-Ng M. Re: epidemic  influenza and vitamin D.Epidemiol Infect. 2007;135:1095-1096.
+
+195. Laaksi  I,  Ruohola  JP,  Mattila  V,  Auvinen  A,  Ylikomi  T, Pihlajamaki H. Vitamin D supplementation for the prevention of acute respiratory tract infection: a randomized, double-blinded trial among young Finnish men. J Infect Dis. 2010;202:809-814.
+
+- - - - - - - - - - - - - - - 
+
+# See also VitaminDWiki
+
+* [Google search for lappe in VitaminDWiki](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=Lappe&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26sanitize%3D0%26v%3Dafb6168a5fba69bc%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D626994251#gsc.tab=0&gsc.q=Lappe&gsc.page=1) 233 hits on Nov 2011
+
+* [Vitamin D and Cancer Treatment and Prevention – presentations May 2011](/posts/vitamin-d-and-cancer-treatment-and-prevention-presentations)
+
+   * Vitamin D & Cancer - RCT trial - Lappe (387KB) includes full details on the RCT Cancer trial
+
+* [Cardiovascular disease may be reduced by vitamin D – June 2011](/posts/cardiovascular-disease-may-be-reduced-by-vitamin-d) co-authored, has the following graph
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/png/cvd-figure-1.png" alt="image">

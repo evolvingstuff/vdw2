@@ -27,13 +27,13 @@
 }
 
 
-* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+* [Health benefit of Sunlight is more than Vitamin D in the blood - many studies](/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies)
 
-* <a href="/posts/uv-produces-more-than-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV produces more than vitamin D – Aug 2011">UV produces more than vitamin D – Aug 2011</a>
+* [UV produces more than vitamin D – Aug 2011](/posts/uv-produces-more-than-vitamin-d)
 
-* <a href="/posts/ultraviolet-light-in-human-health-diseases-and-environment-book-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultraviolet Light in Human Health, Diseases and Environment - book 2017">Ultraviolet Light in Human Health, Diseases and Environment - book 2017</a>
+* [Ultraviolet Light in Human Health, Diseases and Environment - book 2017](/posts/ultraviolet-light-in-human-health-diseases-and-environment-book-2017)
 
-* <a href="/posts/vitamin-d-and-sun-conference-germany" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Sun conference – Germany June 2017">Vitamin D and Sun conference – Germany June 2017</a>
+* [Vitamin D and Sun conference – Germany June 2017](/posts/vitamin-d-and-sun-conference-germany)
 
 * [Many wavelengths of light provide health benefits, not just UV – March 2016](/posts/many-wavelengths-of-light-provide-health-benefits-not-just-uv)
 
@@ -41,7 +41,7 @@
 
 * [Less sun means more disease -Grant, Holick, Cannell, et al Feb 2015](/posts/less-sun-means-more-disease-grant-holick-cannell-et-al)
 
-* <a href="/posts/exposing-some-blood-to-ultraviolet-light-has-treated-various-health-problems-the-tics-came-along" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Exposing some blood to Ultraviolet light has treated various health problems, then antibiotics came along – April 2016">Exposing some blood to Ultraviolet light has treated various health problems, then antibiotics came along – April 2016</a>
+* [Exposing some blood to Ultraviolet light has treated various health problems, then antibiotics came along – April 2016](/posts/exposing-some-blood-to-ultraviolet-light-has-treated-various-health-problems-the-tics-came-along)
 
 </div>
 

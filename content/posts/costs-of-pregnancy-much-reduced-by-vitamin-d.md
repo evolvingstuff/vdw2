@@ -141,7 +141,7 @@ Health at a Glance 2011: OECD Indicators LBW](http://www.oecd-ilibrary.org/sites
 
 #### Smoking while pregnant** [Smoking while pregnant: are the problems due to low vitamin D – July 2013](/posts/smoking-while-pregnant-are-the-problems-due-to-low-vitamin-d)  **** CBS story did not mention vitamin D but has the following risk factors *** Miscarriage** <span style="color:#00F;">(known to be associated with low vitamin D)</span> *** Sudden Infant Death Syndrome (SIDS)** <span style="color:#00F;">(known to be associated with low vitamin D)</span> *** mental health problems for children: ADHD, autism** <span style="color:#00F;">(known to be associated with low vitamin D)</span> *** premature birth,** <span style="color:#00F;">(known to be associated with low vitamin D)</span> *** cleft lip or palate   (excess vitamin A or lack of folic)
 
-<a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a> has the following** It appears that taking Vitamin D while smoking will__
+[Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies) has the following** It appears that taking Vitamin D while smoking will__
 
 1. Decrease the incidence of the many health problems associated with smoking - even lung cancer
 
@@ -161,7 +161,7 @@ Health at a Glance 2011: OECD Indicators LBW](http://www.oecd-ilibrary.org/sites
 
 * [Healthy pregnancies need lots of vitamin D](/posts/healthy-pregnancies-need-lots-of-vitamin-d) 
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
 #### See also web
 

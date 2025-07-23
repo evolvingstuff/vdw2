@@ -70,7 +70,7 @@ From the Group Health Research Institute and the Departments of Medicine and Hea
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Search VitaminDWiki for demntia anywhere in text](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=dementia&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 219 items Jan 2014
 

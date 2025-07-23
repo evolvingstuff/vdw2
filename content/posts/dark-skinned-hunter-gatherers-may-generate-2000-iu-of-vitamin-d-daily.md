@@ -70,7 +70,7 @@ Seems that they might have found the 2000 IU recommendation then worked back.
 
 * Exposed to [Roundup](/posts/vitamin-d-suppressed-by-roundup-and-genes-cyp2r1-cyp24a1-cyp450-etc)
 
-* Exposed to <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">smoke</a>, <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT</a>
+* Exposed to [smoke](/posts/smoking-reduces-vitamin-d-many-studies), [DDT](/posts/ddt-and-other-pesticides-decrease-vitamin-d)
 
 * Have taken lots of [antibiotics](/posts/antibiotics-and-vitamin-d-are-associated-with-many-of-the-same-diseases) - especially when young
 
@@ -78,13 +78,13 @@ Seems that they might have found the 2000 IU recommendation then worked back.
 
 * Have low Omega-3 in diet
 
-* Elderly - <a href="/posts/intestines-do-not-process-active-vitamin-d-as-well-as-you-age" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intestines do not process active vitamin D as well as you age – June 2012">gut</a> (and [skin](/posts/2x-less-vitamin-d-from-the-sun-for-seniors) ) less efficient in processing vitamin D
+* Elderly - [gut](/posts/intestines-do-not-process-active-vitamin-d-as-well-as-you-age) (and [skin](/posts/2x-less-vitamin-d-from-the-sun-for-seniors) ) less efficient in processing vitamin D
 
 > etc.
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [2000 IU of vitamin D- doctors trained that it was too much, but it is often too little](/posts/2000-iu-of-vitamin-d-doctors-trained-that-it-was-too-much-but-it-is-often-too-little)
 

@@ -136,9 +136,9 @@ PMID:     21050796
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Hip fracture rate varies with latitude (and thus vitamin D) in Sweden – Nov 2013](/posts/hip-fracture-rate-varies-with-latitude-and-thus-vitamin-d-in-sweden)
 
@@ -148,11 +148,11 @@ PMID:     21050796
 
 * [5 Amazing Properties of Sunlight You've Never Heard About](/posts/5-amazing-properties-of-sunlight-youve-never-heard-about) sun produces more than vitamin D
 
-* <a href="/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012">MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012</a>
+* [MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012](/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels)
 
-* <a href="/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012">Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012</a>
+* [Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012](/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy)
 
-* <a href="/posts/lets-go-to-the-sunny-beach-it-is-just-down-the-hall" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lets go to the sunny beach, it is just down the hall – Nov 2011">Lets go to the sunny beach, it is just down the hall – Nov 2011</a> which has the following picture
+* [Lets go to the sunny beach, it is just down the hall – Nov 2011](/posts/lets-go-to-the-sunny-beach-it-is-just-down-the-hall) which has the following picture
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sun-simulator.jpg" alt="image">
 

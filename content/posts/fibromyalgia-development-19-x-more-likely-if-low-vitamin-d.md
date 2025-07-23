@@ -48,7 +48,7 @@ Those who developed fibromyalgia were 1.93 more likely to have low vitamin D
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a> 
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d) 
 
 > it is perhaps the most-read page on VitaminDWiki
 

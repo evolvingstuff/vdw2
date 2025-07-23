@@ -47,7 +47,7 @@ PMID: 26858432 PMCID: PMC4801294 DOI: 10.1073/pnas.1518129113
 
  **Note: The word VITAMIN does not appear in the PDF** 
 
- **<a href="/posts/vitamin-d-uk-45-year-olds" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D UK 45 year olds">Vitamin D UK 45 year olds</a>** 
+ **[Vitamin D UK 45 year olds](/posts/vitamin-d-uk-45-year-olds)** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/seasonal-variation.gif" alt="image" style="max-width: 700px;">
 

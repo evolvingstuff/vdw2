@@ -34,7 +34,7 @@ Here are a few answers. &nbsp; &nbsp;(These numbers assume that you want 10,000 
 
 Get Vitamin D3 and Vitamin K-2 as a sublingual
 
-Get the next most important cofactor, [Magnesium](/categories/magnesium) as a liquid
+Get the next most important cofactor, [Magnesium](/tags/magnesium.html) as a liquid
 
 Skip the other cofactors unless you are very concerned about your bones.
 
@@ -48,15 +48,15 @@ There are many suppliers of [Magnesium liquid = Oil or Chloride](http://www.amaz
 
  **2) Cofactors as liquid** 
 
-<a href="/posts/osteodensity-and-several-others" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Osteodensity and several others</a> provide many of the cofactors as a single liquid
+[Osteodensity and several others](/tags/osteodensity-and-several-others.html) provide many of the cofactors as a single liquid
 
  **3) Cofactors as a Fizzy powder and add Vitamin D powder** 
 
-The <a href="/posts/fizzy-powder" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Fizzy powder</a> has K-2 which the Osteodensity lacks and several other nice vitamins and minerals.
+The [Fizzy powder](/tags/fizzy-powder.html) has K-2 which the Osteodensity lacks and several other nice vitamins and minerals.
 
  **3a) Add vitamin D from cut open capsules to 2) or 3)**  
 
-<a href="/posts/bio-tech" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3188">Bio-Tech</a> has the lowest-cost vitamin D in capsules  – which can be cut open (knife, scissors)
+[Bio-Tech](/tags/bio-tech.html) has the lowest-cost vitamin D in capsules  – which can be cut open (knife, scissors)
 
 Each Bio-Tech capsule provides 50,000 IU, so you would only need to take the powder once every days.
 
@@ -72,7 +72,7 @@ Since there are 50,000 IU in each capsule, you would need to cut open 11 capsule
 
 [Bulk vitamin D](http://purebulk.com/vitamin-d3-cholecalciferol-powder-capsules.html#) costs about 1/2 as much (no capsules to fill)
 
-<a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">CLICK HERE</a> for more about the bulk form at VitaminDWiki
+[CLICK HERE](/tags/click-here.html) for more about the bulk form at VitaminDWiki
 
 Bulk = 100,000 IU per gram.  They sell 100 grams for $23 + shipping
 
@@ -86,7 +86,7 @@ To fortify the Fizzy above for 60 days you would need 540,000 IU = 3.38 teaspoon
 
 It appears that Vitamin D is more bio-available if taken with some fats.
 
-The best type of fat is <a href="/posts/monounsaturated-which-is-in-almonds" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1903">monounsaturated, which is in Almonds</a>
+The best type of fat is [monounsaturated, which is in Almonds](/tags/monounsaturated-which-is-in-almonds.html)
 
 I take my vitamin D with a few almonds.
 

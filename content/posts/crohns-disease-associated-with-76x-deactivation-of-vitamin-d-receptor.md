@@ -61,14 +61,14 @@ Xia S, Lin X, Guo M, Jiang L, Jin J, Lin X, Ding R, Li S, Jiang Y1.
 
  **The risk of <span style="color:#F00;">44 </span> diseases at least double with poor [Vitamin D Receptor](/posts/vitamin-d-receptor) as of Oct 2019** 
 
- **<a href="/posts/vitamin-d-receptor-activation-can-be-increased-by-any-of-resveratrol-overview-om-lping-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor)) Activation can be increased by any of: ((Resveratrol)), ((Overview: Omega-3 many benefits include helping vitamin D">Omega-3</a>, [Magnesium](/posts/magnesium-and-vitamin-d), [Zinc](/posts/zinc-and-vitamin-d), [non-daily Vitamin D dosing](/categories/better-than-daily), <a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">curcumin</a>, intense exercise, etc  
+ **[Omega-3](/tags/omega-3.html), [Magnesium](/posts/magnesium-and-vitamin-d), [Zinc](/posts/zinc-and-vitamin-d), [non-daily Vitamin D dosing](/posts/better-than-daily), [curcumin](/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor), intense exercise, etc  
 &nbsp; &nbsp; Note: The founder of VitaminDWiki uses 10 of the 12 known VDR activators** 
 
 ---
 
  **Note: Crohn's is 2.7X more associated with poor Receptor than low Vitamin D in the blood  
 &nbsp; &nbsp; &nbsp; &nbsp;  (Odds Ratio = 7.580 vs 2.842)  
-<a href="/posts/women-with-breast-cancer-were-169-times-more-likely-to-have-a-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Women with Breast Cancer were 16.9 times more likely to have a poor Vitamin D Receptor – Jan 2019">Breast Cancer</a> has learned how to deactivate the Vitamin D Receptor  
+[Breast Cancer](/posts/women-with-breast-cancer-were-169-times-more-likely-to-have-a-poor-vitamin-d-receptor) has learned how to deactivate the Vitamin D Receptor  
 Wonder if Crohn's Disease has learned the same trick?** 
 
 </div>

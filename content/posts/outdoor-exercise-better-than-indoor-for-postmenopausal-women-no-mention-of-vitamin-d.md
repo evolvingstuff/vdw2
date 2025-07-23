@@ -51,4 +51,4 @@ Increased physical activity level
 
 * [Prescription: A walk in the park to improve your health (ParkRX) - May 2014](/posts/prescription-a-walk-in-the-park-to-improve-your-health-parkrx)
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a>
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)

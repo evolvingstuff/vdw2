@@ -33,9 +33,9 @@ Aneela N. Hussain, Abdullah Hamad Alkhenizan, Mohammad El Shaker, Hussein Raef, 
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:>70%">
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
-* <a href="/posts/70-pcnt-of-saudi-women-were-extremely-vitamin-d-deficient-but-only-40-pcnt-of-men" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 70 pcnt of Saudi women were extremely vitamin D deficient, but only 40 pcnt of men – March 2012">70 pcnt of Saudi women were extremely vitamin D deficient, but only 40 pcnt of men – March 2012</a>
+* [70 pcnt of Saudi women were extremely vitamin D deficient, but only 40 pcnt of men – March 2012](/posts/70-pcnt-of-saudi-women-were-extremely-vitamin-d-deficient-but-only-40-pcnt-of-men)
 
 * [If heavily clothed, very little vitamin D – Dec 2012](/posts/if-heavily-clothed-very-little-vitamin-d)
 

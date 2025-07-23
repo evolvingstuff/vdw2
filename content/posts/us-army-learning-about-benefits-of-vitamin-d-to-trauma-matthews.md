@@ -69,11 +69,11 @@ Dr. Ed Childs, chairman of Morehouse Department of Surgery
 
 #### See also VitaminDWiki
 
-* [Trauma and surgery](/categories/trauma-and-surgery)
+* [Trauma and surgery](/posts/trauma-and-surgery)
 
-* <a href="/posts/icu-need-vitamin-d-asap-interview-and-transcript-matthews" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ICU - need Vitamin D ASAP - interview and transcript, Matthews Aug 2024">ICU - need Vitamin D ASAP - interview and transcript, Matthews Aug 2024</a>
+* [ICU - need Vitamin D ASAP - interview and transcript, Matthews Aug 2024](/posts/icu-need-vitamin-d-asap-interview-and-transcript-matthews)
 
-* <a href="/posts/vitamin-d-helps-atlanta-high-school-athletes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Helps Atlanta High School Athletes - Feb 2012">Vitamin D Helps Atlanta High School Athletes - Feb 2012</a>
+* [Vitamin D Helps Atlanta High School Athletes - Feb 2012](/posts/vitamin-d-helps-atlanta-high-school-athletes)
 
 * [Traumatic brain injury treated by Vitamin D Progesterone Omega-3 and glutamine – May 2013](/posts/traumatic-brain-injury-treated-by-vitamin-d-progesterone-omega-3-and-glutamine)
 
@@ -81,7 +81,7 @@ Dr. Ed Childs, chairman of Morehouse Department of Surgery
 
 * [Surgeon on a mission to promote vitamin D - Dec 2012](/posts/surgeon-on-a-mission-to-promote-vitamin-d)
 
-* <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a>  
+* [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution)  
 
 > big increase in concussions recently while vitamin D levels has decreased.
 

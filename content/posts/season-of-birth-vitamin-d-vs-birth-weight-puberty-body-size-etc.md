@@ -56,6 +56,6 @@ Season of birth, a marker of in utero vitamin D exposure, has been associated wi
 
 * [7 percent less likely to get immune mediated disease if born in the fall – July 2012](/posts/7-percent-less-likely-to-get-immune-mediated-disease-if-born-in-the-fall)
 
-* <a href="/posts/diseases-correlated-to-month-of-birth-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1715">Diseases correlated to month of birth – 2008</a> which has many charts, such as the following:
+* [Diseases correlated to month of birth – 2008](/posts/diseases-correlated-to-month-of-birth-2008) which has many charts, such as the following:
 
 <img src="/attachments/d3.mock.jpg" alt="image">

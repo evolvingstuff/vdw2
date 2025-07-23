@@ -23,15 +23,15 @@
 }
 
 
-#### <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Many reasons why vitamin D deficiency has become epidemic </a> Aug 2012
+#### [Many reasons why vitamin D deficiency has become epidemic ](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) Aug 2012
 
 *  **Want whiter skin - especially women** 
 
 > [Here](http://innerreflectionstranscribed.wordpress.com/2007/04/25/fair-skin-desirable/) and [Here (Helen of Troy)](http://books.google.com/books?id=K8PCYtg1SocC&pg=PT81&lpg=PT81&dq=desirability+of+white+skin&source=bl&ots=CI7w34zn6X&sig=2ma4FM-zouS59Afbz4tggXdxUNI&hl=en&ei=eaTaTbniI4HGsAOz0dGFDA&sa=X&oi=book_result&ct=result&resnum=5&ved=0CDQQ6AEwBA#v=onepage&q=desirability%20of%20white%20skin&f=false) and [Being Fair-Skinned in Today's World](http://www.abcdlady.com/2005-07/art6.php)
 
-> <a href="/posts/suntan-popularity-is-fading" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 304">Suntan: Popularity is fading</a>
+> [Suntan: Popularity is fading](/posts/suntan-popularity-is-fading)
 
-> <a href="/posts/perhaps-not-burn-from-the-sun-if-have-enough-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1669">Perhaps not burn from the sun if have enough vitamin D</a>
+> [Perhaps not burn from the sun if have enough vitamin D](/posts/perhaps-not-burn-from-the-sun-if-have-enough-vitamin-d)
 
 * [Thai vulva-bleaching product](http://boingboing.net/2012/09/23/thai-vulva-bleaching-product.html) Sept 2012
 
@@ -55,11 +55,11 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/skin-whitening-cream-rd-may-cause-blotchy-skin-5000-vitamin-d-can-treat-it-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin whitening cream (RD) may cause blotchy skin, 5,000 Vitamin D can treat it – RCT Feb 2018">Skin whitening cream (RD) may cause blotchy skin, 5,000 Vitamin D can treat it – RCT Feb 2018</a>
+* [Skin whitening cream (RD) may cause blotchy skin, 5,000 Vitamin D can treat it – RCT Feb 2018](/posts/skin-whitening-cream-rd-may-cause-blotchy-skin-5000-vitamin-d-can-treat-it-rct)
 
-* <a href="/posts/sweat-types-folate-binding-protein-lighter-skin-in-females-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sweat types, folate, binding protein, lighter skin in females and Vitamin D – Jan 2020">Sweat types, folate, binding protein, lighter skin in females and Vitamin D – Jan 2020</a>
+* [Sweat types, folate, binding protein, lighter skin in females and Vitamin D – Jan 2020](/posts/sweat-types-folate-binding-protein-lighter-skin-in-females-and-vitamin-d)
 
-* <a href="/posts/some-women-who-want-whiter-skin-avoid-the-sun-increasing-the-risk-of-colon-cancer-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some women who want whiter skin avoid the sun – increasing the risk of colon cancer in this case. – June 2022">Some women who want whiter skin avoid the sun – increasing the risk of colon cancer in this case. – June 2022</a>
+* [Some women who want whiter skin avoid the sun – increasing the risk of colon cancer in this case. – June 2022](/posts/some-women-who-want-whiter-skin-avoid-the-sun-increasing-the-risk-of-colon-cancer-in-this-case)
 
 ---
 

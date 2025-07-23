@@ -56,6 +56,6 @@ Vitamin D activity requires an adequate vitamin D status as indicated by the ser
 
 * [Inhaled vitamin D help lungs - many studies](/posts/inhaled-vitamin-d-help-lungs-many-studies)
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a> which has the following (incomplete) chart
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d) which has the following (incomplete) chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 600px;">

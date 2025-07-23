@@ -93,27 +93,27 @@ interactive charting of 50+ items - not just milk
 
 * [Vitamin D home fortification- don't wait 100 years for your govt](/posts/vitamin-d-home-fortification-dont-wait-100-years-for-your-govt)
 
-* <a href="/posts/vitamin-k-in-full-fat-dairy-products" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K in full-fat dairy products – June 2017">Vitamin K in full-fat dairy products – June 2017</a>
+* [Vitamin K in full-fat dairy products – June 2017](/posts/vitamin-k-in-full-fat-dairy-products)
 
-* <a href="/posts/milk-vitamin-d-deficiency-2x-more-likely-if-lactose-intolerant-milk-allergy-or-low-fat-milk-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017">Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017</a>
+* [Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017](/posts/milk-vitamin-d-deficiency-2x-more-likely-if-lactose-intolerant-milk-allergy-or-low-fat-milk-2017)
 
-* <a href="/posts/full-fat-milk-for-children-associated-with-higher-vitamin-d-and-lower-bmi" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Full-fat milk for children associated with higher Vitamin D and lower BMI – Dec 2016">Full-fat milk for children associated with higher Vitamin D and lower BMI – Dec 2016</a>
+* [Full-fat milk for children associated with higher Vitamin D and lower BMI – Dec 2016](/posts/full-fat-milk-for-children-associated-with-higher-vitamin-d-and-lower-bmi)
 
-* <a href="/posts/review-of-vitamin-d-from-milk-products-is-unaware-that-skim-milk-provides-little-vitd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of vitamin D from milk products is unaware that skim milk provides little VitD – Aug 2018">Review of vitamin D from milk products is unaware that skim milk provides little VitD – Aug 2018</a>
+* [Review of vitamin D from milk products is unaware that skim milk provides little VitD – Aug 2018](/posts/review-of-vitamin-d-from-milk-products-is-unaware-that-skim-milk-provides-little-vitd)
 
 * [FDA decided to double vitamin D in milk after talking 4 times with by Dr. Matthews – July 2016](/posts/fda-decided-to-double-vitamin-d-in-milk-after-talking-4-times-with-by-dr-matthews)
 
-* <a href="/posts/full-fat-diary-healthier-than-skim-perhaps-better-vitamin-d-and-vitamin-k-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Full-fat diary healthier than skim (perhaps better Vitamin D and Vitamin K bioavailability) – Sept 2019">Full-fat diary healthier than skim (perhaps better Vitamin D and Vitamin K bioavailability) – Sept 2019</a>
+* [Full-fat diary healthier than skim (perhaps better Vitamin D and Vitamin K bioavailability) – Sept 2019](/posts/full-fat-diary-healthier-than-skim-perhaps-better-vitamin-d-and-vitamin-k-bioavailability)
 
 * [Little vitamin D in various types of milk – Oct 2012](/posts/little-vitamin-d-in-various-types-of-milk)
 
-* <a href="/posts/vitamin-d-fortification-of-cows-milk-ignores-lactose-intolerance-and-poor-bioava-in-low-fat-milk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D fortification of Cows milk (ignores lactose intolerance and poor bioavailability in low fat milk) – Aug 2021">Vitamin D fortification of Cows milk (ignores lactose intolerance and poor bioavailability in low fat milk) – Aug 2021</a>
+* [Vitamin D fortification of Cows milk (ignores lactose intolerance and poor bioavailability in low fat milk) – Aug 2021](/posts/vitamin-d-fortification-of-cows-milk-ignores-lactose-intolerance-and-poor-bioava-in-low-fat-milk)
 
-* <a href="/posts/vitamin-d-levels-dropped-when-consuming-2-brands-of-fortified-milk-in-the-winter-trial" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels dropped when consuming 2 brands of fortified milk in the winter– trial June 2018">Vitamin D levels dropped when consuming 2 brands of fortified milk in the winter– trial June 2018</a>
+* [Vitamin D levels dropped when consuming 2 brands of fortified milk in the winter– trial June 2018](/posts/vitamin-d-levels-dropped-when-consuming-2-brands-of-fortified-milk-in-the-winter-trial)
 
-* <a href="/posts/whole-fat-or-nonfat-dairy-the-debate-continues-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Whole-Fat or Nonfat Dairy -The Debate Continues (less vitamin D) - Dec 2018">Whole-Fat or Nonfat Dairy -The Debate Continues (less vitamin D) - Dec 2018</a>
+* [Whole-Fat or Nonfat Dairy -The Debate Continues (less vitamin D) - Dec 2018](/posts/whole-fat-or-nonfat-dairy-the-debate-continues-less-vitamin-d)
 
-* <a href="/posts/children-no-longer-get-much-vitamin-d-from-milk-fortify-at-home" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children no longer get much vitamin D from milk - fortify at home">Children no longer get much vitamin D from milk - fortify at home</a>
+* [Children no longer get much vitamin D from milk - fortify at home](/posts/children-no-longer-get-much-vitamin-d-from-milk-fortify-at-home)
 
 * [Most people have major problems of milk as a source of vitamin D](/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d)
 

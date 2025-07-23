@@ -1,0 +1,75 @@
+<!doctype html><html><head><meta charset=utf-8><title>COVID-19 patients with low vitamin D had far fewer natural killer cells</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>COVID-19 patients with low vitamin D had far fewer natural killer cells</h1><time>December 15, 2020</time><div data-pagefind-body><h4 id=3400-medical-studies-on-natural-killer-and-vitamin-d>>3,400 medical studies on &ldquo;Natural Killer&rdquo; and &ldquo;Vitamin D&rdquo;</h4><p>   in <a href="https://europepmc.org/search?query=%22NAtural%20killer%22%20%22vitamin%20d%22&amp;page=1&amp;sortBy=Relevance">Euro Pub Med as of Dec 2020</a></p><ul><li><p>Vitamin D, invariant natural killer T-cells and experimental autoimmune disease - 2012</p><ul><li>FREE PDF <a href=https://doi.org/10.1017/S0029665111003193>doi: 10.1017/S0029665111003193</a></li></ul></li><li><p>Effect of vitamin D levels on natural killer cells in diabetes mellitus patients with tuberculosis - 2014</p></li><li><p>Vitamin D Status and the Host Resistance to Infections: What It Is Currently (Not) Understood - 2017</p><ul><li>FREE PDF <a href=https://doi.org/10.1016/j.clinthera.2017.04.004>https://doi.org/10.1016/j.clinthera.2017.04.004</a></li></ul></li><li><p>Effect of Natural Compounds on NK Cell Activation - 2018</p><ul><li>FREE PDF <a href=https://doi.org/10.1155/2018/4868417>https://doi.org/10.1155/2018/4868417</a></li></ul></li></ul></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/fewer-killer-cells-if-vit-d-deficient.pdf>Download PDF from VitaminDWiki</a></strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/fewer-killer-cells-if-deficient.jpg alt=image width=400><p>Regulation of immune function continues to be one of the most well recognised extra-skeletal actions of vitamin D. In vitro data have shown that vitamin D modulates immune cells and induces immune tolerance, while in vivo data from animal studies and from vitamin D supplementation human studies have shown beneficial effects of vitamin D on immune function, in particular in the context of autoimmunity. <sup>[1]</sup> In the present study, we examined whether vitamin D deficiency modulates the number of immune cells in COVID-19 patients.</p><p>This observational, single-centre study included consecutive COVID-19 intensive care unit (ICU) patients (N= 29), and consecutive patients hospitalised in a specialised non-ICU COVID-19 ward (N= 10), who were discharged from the hospital without being transferred to the ICU, from March 18th 2020 to May 25th 2020. The study was approved by the Hospital’s Research Ethics Committee (129/19-3-2020) and all procedures carried out on patients were in compliance with the Helsinki Declaration. Informed written consent was obtained from all patients’ next-of-kin. Total 25- hydroxyvitamin D was measured on hospital admission using the electrochemiluminescence immunoassay method (Cobas E602, Roche Diagnostics International Ltd). Immune phenotyping was performed by flow cytometric analysis (Navios EX flow cytometer, Beckman Coulter).</p><p>Vitamin D levels positively correlated with subpopulations of immune cells. Specifically, with cytotoxic T cells (r2= 0.344, p= 0.032), natural killer (NK) cells (r2= 0.496, p= 0.001), NK-T cells (r2= 0.325, p= 0.044) and regulatory T cells (r2= 0.333, p= 0.038). With respect to all other clinical and laboratory parameters, vitamin D levels correlated only with albumin (r2= 0.387, p= 0.018). To further explore these associations, we divided our cohort in two groups based on their vitamin D levels; we classified them in vitamin D deficient (&lt;19.9 ng/ml, N= 32) and vitamin D insufficient (20-29.9 ng/ml, N= 7). Demographics, clinical and biochemical characteristics on hospital admission, and important outcomes of the two patient groups are listed in Table 1. As expected, hypertension was the most common comorbidity. <sup>[2]</sup> The two groups differed only in the number of NK cells (Table 1 and Figure 1). Cytotoxic T cells, NK-T cells and regulatory T cells did not differ in the two groups. It should also be noted, that the two patient groups did not differ with respect to hospital mortality, or disease severity.</p><p>The beneficial effects of vitamin D on protective immunity are due in part to its effects on the innate immune system. In vitro studies have reported contradictory results on the role of vitamin D on NK cell function, but whether vitamin D induces or inhibits NK cell function in vivo remains unclear. <sup>[3]</sup> NK cells are a type of cytotoxic lymphocytes critical to the innate immune system that secrete many cytokines and chemokines. Despite their vital role in viral infections, the contribution of NK cells in the immune defence against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has not yet been directly investigated. The reduced circulating NK cells and exhaustion in the peripheral blood of COVID-19 patients has been suggested to be directly responsible for the progression and severity of COVID- 19. <span>[4-6]</span> Another study demonstrated that in SARS-CoV-2 infection, NK cell number was significantly reduced, however, the cells were strongly activated and this activation correlated with the development of severe disease. <sup>[7]</sup></p><p>The immunomodulatory effects of vitamin D, have prompted researchers to consider the preventive effect of vitamin D supplementation on SARS-CoV2 viral infection <sup>[8,9]</sup>. It has been suggested that vitamin D supplementation might boost the immune system of COVID-19 patients and reduce disease severity in vitamin D deficient patients. <sup>[10]</sup> Indeed, bolus vitamin D3 supplementation during or just prior to COVID-19 infection was associated in frail elderly with less severe COVID-19 and better survival rate. <sup>[11]</sup></p><p>Vitamin D deficiency is a widespread situation, affecting from cardiovascular- related conditions to endothelial function and the immune system. <sup>[12]</sup> In our pilot, single-centre, limited sample size study, we were able to demonstrate that vitamin D deficiency was associated with reduced numbers of natural killer cells; specifically, vitamin D deficient patients presented with mild NK lymphopenia (&lt;100 cells/ul), while vitamin D insufficient patients had normal NK cell counts (>100 cells/ul). This reported lymphopenia may obstruct the important cellular barrier during early viral infections in patients with vitamin D deficiency. A larger cohort of COVID-19 patients to study the correlation between vitamin D deficiency and NK lymphopenia and activation is required.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/immunity.html><span class=tag>Immunity</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/tuberculosis.html><span class=tag>tuberculosis</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a></div><div data-pagefind-meta=tags hidden>autoimmune, bacteria, blood levels, diabetes, high dose, hypertension, immunity, Immunity, intervention, life span, metabolic, mortality, therapeutic intervention, tuberculosis, virus, Virus, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

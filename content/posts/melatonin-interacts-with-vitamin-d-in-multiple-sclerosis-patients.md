@@ -29,7 +29,7 @@
 #### Latitude, Vitamin D, Melatonin, and Gut Microbiota Act in Concert to Initiate Multiple Sclerosis:  
  A New Mechanistic Pathway - 2018
 
- **See <a href="/posts/a-multiple-sclerosis-hypothesis-supported-by-eae-data" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A Multiple Sclerosis hypothesis supported by EAE data – Oct 2018">A Multiple Sclerosis hypothesis supported by EAE data – Oct 2018</a>** 
+ **See [A Multiple Sclerosis hypothesis supported by EAE data – Oct 2018](/posts/a-multiple-sclerosis-hypothesis-supported-by-eae-data)** 
 
 ---
 

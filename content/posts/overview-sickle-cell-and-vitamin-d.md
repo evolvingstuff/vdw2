@@ -64,21 +64,21 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-should-be-an-almost-universal-feature-of-the-care-of-young-adults-with-sickle-cell-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D should be an almost universal feature of the care of young adults with sickle cell disease – May 2018">Vitamin D should be an almost universal feature of the care of young adults with sickle cell disease – May 2018</a>
+* [Vitamin D should be an almost universal feature of the care of young adults with sickle cell disease – May 2018](/posts/vitamin-d-should-be-an-almost-universal-feature-of-the-care-of-young-adults-with-sickle-cell-disease)
 
 * [Search VitaminDWiki for "sickle cell"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22sickle+cell%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 215 web pages contained the phrase as of Jan 2024
 
 * [Off topic: Malaria recovery associated with having more immature red blood cells – Sept 2016](/posts/off-topic-malaria-recovery-associated-with-having-more-immature-red-blood-cells)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do blacks have a 5 year life penalty due to low vitamin D">Do blacks have a 5 year life penalty due to low vitamin D</a>
+* [Do blacks have a 5 year life penalty due to low vitamin D](/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d)
 
 * [Diabetes (Type 1) 14X more likely in dark skin children with low levels of vitamin D – May 2015](/posts/diabetes-type-1-14x-more-likely-in-dark-skin-children-with-low-levels-of-vitamin-d) 
 
    * example of increased diseases in dark-skinned children
 
-* <a href="/posts/26-health-factors-increase-the-risk-of-covid-19-all-are-proxies-for-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D">26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D</a>
+* [26 health factors increase the risk of COVID-19 – all are proxies for low vitamin D](/posts/26-health-factors-increase-the-risk-of-covid-19-all-are-proxies-for-low-vitamin-d)
 
    * CDC list of high-risks for COVID-19 includes Sickle Cell
 
@@ -88,7 +88,7 @@
 
 * [Low vitamin D - anemia 2.2X more likely (no surprise) – meta-analysis Aug 2015](/posts/low-vitamin-d-anemia-22x-more-likely-no-surprise-meta-analysis)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>  
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)  
 
    * perhaps one of the reasons that Vitamin D helps with SC is by pain reduction 
 

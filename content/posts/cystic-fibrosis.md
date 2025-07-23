@@ -203,4 +203,4 @@ Mansi Kanhere, Benoit Chassaing, Andrew T. Gewirtz, Vin Tangpricha
 
 Am J Med Sci . 2021 Jan;361(1):75-82. [doi: 10.1016/j.amjms.2020.08.020](https://doi.org/10.1016/j.amjms.2020.08.020)
 
-Should consider <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">gut-friendly forms of Vitamin D</a>, such as nanoemulsions which can be absorbed in the mouth, rather than the gut
+Should consider [gut-friendly forms of Vitamin D](/posts/gut-friendly-vitamin-d), such as nanoemulsions which can be absorbed in the mouth, rather than the gut

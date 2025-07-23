@@ -52,7 +52,7 @@ Cows milk increased odd of vitamin D deficiency by 7 times – if not supplement
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/anemia-in-children-35-x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Anemia in children 3.5 X more likely if low vitamin D – March 2018">Anemia in children 3.5 X more likely if low vitamin D – March 2018</a>
+* [Anemia in children 3.5 X more likely if low vitamin D – March 2018](/posts/anemia-in-children-35-x-more-likely-if-low-vitamin-d)
 
 * [Danes opposed to Vitamin D fortification, will get more COPD, diabetes, depression, lupus, leg pain, etc – Oct 2015](/posts/danes-opposed-to-vitamin-d-fortification-will-get-more-copd-diabetes-depression-lupus-leg-pain-etc)
 
@@ -70,13 +70,13 @@ Cows milk increased odd of vitamin D deficiency by 7 times – if not supplement
 
 > wonder how many infants who become allergic to cow's milk drank low-fat milk
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a> which has the following
+* [Allergy - Overview](/posts/allergy-overview) which has the following
 
 > Food Allergy 5X more likely if low vitamin D – Oct 2014
 
 > Food allergies in children 40 % more likely in urban areas (which have less vitamin D) – Sept 2012
 
-* <a href="/posts/milk-vitamin-d-deficiency-2x-more-likely-if-lactose-intolerant-milk-allergy-or-low-fat-milk-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017">Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017</a>
+* [Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017](/posts/milk-vitamin-d-deficiency-2x-more-likely-if-lactose-intolerant-milk-allergy-or-low-fat-milk-2017)
 
 </div>
 

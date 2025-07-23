@@ -124,7 +124,7 @@ As one wise mentor taught me, "Don't get mad . . . get data!" My advice: conduct
 
 * [Plotknioff at VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=plotnikoff&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1116 items as of Oct 2017
 
-* <a href="/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010">Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010</a>
+* [Cadavers with good skeletons had 30 ng of vitamin D – Feb 2010](/posts/cadavers-with-good-skeletons-had-30-ng-of-vitamin-d)
 
 * [Vitamin D Webinar - Plotnikoff - Feb 29 2016](/posts/vitamin-d-webinar-plotnikoff) latest webinar
 
@@ -132,11 +132,11 @@ As one wise mentor taught me, "Don't get mad . . . get data!" My advice: conduct
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/greg-outdoor.jpg" alt="image">
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Evidence that the minimum vitamin D blood level is 30 ng – Grant Nov 2012](/posts/evidence-that-the-minimum-vitamin-d-blood-level-is-30-ng-grant)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
 * [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)
 
@@ -144,7 +144,7 @@ As one wise mentor taught me, "Don't get mad . . . get data!" My advice: conduct
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-* <a href="/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 25 experts recommend vitamin D level of min 30 ng – Nov 2009">25 experts recommend vitamin D level of min 30 ng – Nov 2009</a>
+* [25 experts recommend vitamin D level of min 30 ng – Nov 2009](/posts/25-experts-recommend-vitamin-d-level-of-min-30-ng)
 
 >  **The MINIMUM recommendation = 30 ng was higher than the IoM = 20, or UK = 10**  
 

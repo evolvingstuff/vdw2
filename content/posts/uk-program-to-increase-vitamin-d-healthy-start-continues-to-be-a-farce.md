@@ -35,7 +35,7 @@ Many regulatory agencies around the world consider  **30 ng**  to be the minimum
 
 [VitaminDWiki is very conservative and recommends __40 ng__](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need)
 
-<a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Many groups and studies believe that__ 50 ng__ is optimum</a>
+[Many groups and studies believe that__ 50 ng__ is optimum](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 A doctor who got all of his patients to  **80 ng**  found that they were FAR healthier
 
@@ -63,7 +63,7 @@ Monthly?, Quarterly?, Annually?
 
 ### What they provide can be Vitamin D2 instead of Vitamin D3 (page 36)
 
-<a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Over 15 years ago veterinarians decided to never use Vitamin D2 on any mammal</a>
+[Over 15 years ago veterinarians decided to never use Vitamin D2 on any mammal](/posts/overview-veterinary-and-vitamin-d)
 
 Also - veterinarians give about 5X more vitamin D3 to mammals than Healthy Start provides
 
@@ -73,7 +73,7 @@ Also -veterinarians give vitamin D based on body weight,
 
 ### 0 IU vitamin D from age 0-1 month (page 32)
 
-### <a href="/posts/too-little-vitamin-d-for-infants-to-even-prevent-rickets" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4231">Too little vitamin D for infants to even prevent rickets</a>
+### [Too little vitamin D for infants to even prevent rickets](/tags/too-little-vitamin-d-for-infants-to-even-prevent-rickets.html)
 
 340 IU ==> age 6 months
 
@@ -87,7 +87,7 @@ Note:could not figure out difference in vitamin D with Health start for breast f
 
 400 IU for women during pregnancy and lactation 
 
-<a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">2000 IU is an absolute minimum</a> some organizations recommend 6,000 IU during pregnancy and lactation
+[2000 IU is an absolute minimum](/posts/overview-pregnancy-and-vitamin-d) some organizations recommend 6,000 IU during pregnancy and lactation
 
 ### ZERO vitamin D for ages 5-65 unless pregnant or lactating or one of only 2 high risk categories
 
@@ -101,7 +101,7 @@ No place on the website for those few high risk conditions
 
 ### They suggest 400 IU for seniors - which is far too little
 
-Note: <a href="/posts/half-of-seniors-got-zero-response-to-1600-iu-daily-for-a-year" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2618">Half of seniors got ZERO response to 1600 IU daily for a year</a>
+Note: [Half of seniors got ZERO response to 1600 IU daily for a year](/tags/half-of-seniors-got-zero-response-to-1600-iu-daily-for-a-year.html)
 
 I will guess that 80% of UK seniors will get ZERO response to 400 IU
 
@@ -135,7 +135,7 @@ Then a Bio-Tech bottle would last only 1300 person days = 3.5 person years
 
 ### See also VitaminDWiki
 
-* <a href="/posts/healthy-start-vitamin-d-supplementation-in-uk-is-a-farce" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy Start vitamin D supplementation in UK is a farce - Nov 2010">Healthy Start vitamin D supplementation in UK is a farce - Nov 2010</a>
+* [Healthy Start vitamin D supplementation in UK is a farce - Nov 2010](/posts/healthy-start-vitamin-d-supplementation-in-uk-is-a-farce)
 
 * [UK people and doctors still clueless about vitamin D – Survey Oct 2014](/posts/uk-people-and-doctors-still-clueless-about-vitamin-d-survey)
 

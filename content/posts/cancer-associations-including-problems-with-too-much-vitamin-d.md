@@ -58,4 +58,4 @@ Received November 30, 2012;     Revision received January 22, 2013;     Accepted
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)

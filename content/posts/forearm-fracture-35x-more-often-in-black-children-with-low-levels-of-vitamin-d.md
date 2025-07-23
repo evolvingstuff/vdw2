@@ -65,8 +65,8 @@ PMID: 22926174
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/children-with-forearm-fractures-have-lower-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children with forearm fractures have lower levels of vitamin D – June 2017">Children with forearm fractures have lower levels of vitamin D – June 2017</a>
+* [Children with forearm fractures have lower levels of vitamin D – June 2017](/posts/children-with-forearm-fractures-have-lower-levels-of-vitamin-d)

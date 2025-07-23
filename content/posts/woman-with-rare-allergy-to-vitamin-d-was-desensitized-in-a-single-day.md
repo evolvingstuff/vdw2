@@ -37,11 +37,11 @@ Unal D1, Coskun R1, Demir D1, Gelincik A1, Colakoglu B1, Buyukozturk S1.
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a> which has the following section
+* [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d) which has the following section
 
    * Perspective: 3X more likely to be allergic to Aspirin than to Vitamin D
 
-* <a href="/posts/some-people-have-problems-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some people have problems with vitamin D">Some people have problems with vitamin D</a>
+* [Some people have problems with vitamin D](/posts/some-people-have-problems-with-vitamin-d)
 
 </div>
 

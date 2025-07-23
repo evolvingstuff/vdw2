@@ -73,11 +73,11 @@ Examples which start with the letter S: sun, sugar, salt, salmon, sex, spinach, 
 
 * [On-job UV associated with LESS, not more, skin cancer - April 2013](/posts/on-job-uv-associated-with-less-not-more-skin-cancer) similar conclusion to the study on this page
 
-* <a href="/posts/perhaps-not-burn-from-the-sun-if-have-enough-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps not burn from the sun if have enough vitamin D">Perhaps not burn from the sun if have enough vitamin D</a> many hints that stocking up on vitamin D before going out in the sun helps.
+* [Perhaps not burn from the sun if have enough vitamin D](/posts/perhaps-not-burn-from-the-sun-if-have-enough-vitamin-d) many hints that stocking up on vitamin D before going out in the sun helps.
 
 * [Sunlight, Vitamin D and Skin Cancer – 2nd edition Aug 2013 ](/posts/sunlight-vitamin-d-and-skin-cancer-2nd-edition)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [UV, sunshine, and vitamin D (87 charts) - Holick March 2013](/posts/uv-sunshine-and-vitamin-d-87-charts-holick)
 
@@ -91,7 +91,7 @@ Examples which start with the letter S: sun, sugar, salt, salmon, sex, spinach, 
 
 * [UV Radiation and the Skin June 2013](/posts/uv-radiation-and-the-skin) states that 5 sunburns doubles the risk of skin cancer
 
-* <a href="/posts/native-american-indians-mostly-died-of-skin-cancer-nope" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Native American Indians mostly died of skin cancer (nope">Native American Indians mostly died of skin cancer (nope</a>  not!
+* [Native American Indians mostly died of skin cancer (nope](/posts/native-american-indians-mostly-died-of-skin-cancer-nope)  not!
 
 ## See also web
 

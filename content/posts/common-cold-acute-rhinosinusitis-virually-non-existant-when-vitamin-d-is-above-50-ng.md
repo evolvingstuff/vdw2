@@ -84,7 +84,7 @@ Our analyses suggest that 25OHD levels are inversely associated with ARS. Random
 
 * [Immune response to respiratory viruses – vitamin D connection – review May 2015](/posts/immune-response-to-respiratory-viruses-vitamin-d-connection-review)
 
-* <a href="/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018">Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018</a>
+* [Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018](/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review)
 
 * [Respiratory infections (RTI) cut in half by 20,000 IU weekly vitamin D if initially deficient – RCT March 2015](/posts/respiratory-infections-rti-cut-in-half-by-20000-iu-weekly-vitamin-d-if-initially-deficient-rct)
 
@@ -92,9 +92,9 @@ Our analyses suggest that 25OHD levels are inversely associated with ARS. Random
 
 * [Colds not decreased if people already vitamin D sufficient – RCT Oct 2012](/posts/colds-not-decreased-if-people-already-vitamin-d-sufficient-rct)
 
-* <a href="/posts/review-of-common-cold-42-billion-dollars-prevention-and-treatment-zinc-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of common cold (42 billion dollars) prevention and treatment - Zinc works – Feb 2014">Review of common cold (42 billion dollars) prevention and treatment - Zinc works – Feb 2014</a>
+* [Review of common cold (42 billion dollars) prevention and treatment - Zinc works – Feb 2014](/posts/review-of-common-cold-42-billion-dollars-prevention-and-treatment-zinc-works)
 
-* <a href="/posts/overview-colds-and-flu-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Colds and flu and Vitamin D">Overview Colds and flu and Vitamin D</a> includes information on Vitamin C and Zinc
+* [Overview Colds and flu and Vitamin D](/posts/overview-colds-and-flu-and-vitamin-d) includes information on Vitamin C and Zinc
 
 * [Reduction in Cold and Flu with Vitamin D](/posts/reduction-in-cold-and-flu-with-vitamin-d) which has the following
 

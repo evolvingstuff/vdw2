@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Myocarditis, Pericarditis 2X more likely if had COVID vaccination in previous 30 days - meta-analysis</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Myocarditis, Pericarditis 2X more likely if had COVID vaccination in previous 30 days - meta-analysis</h1><time>August 25, 2023</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#risk-of-myocarditis-and-pericarditis-in-mrna-covid-19-vaccinated-and-unvaccinated-populations-a-systematic-review-and-meta-analysis>Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis</a></li><li><a href=#see-also-in-vitamindwiki>See also in VitaminDWiki</a></li></ul></li></ul></li></ul></nav><hr><h4 id=risk-of-myocarditis-and-pericarditis-in-mrna-covid-19-vaccinated-and-unvaccinated-populations-a-systematic-review-and-meta-analysis>Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis</h4><p>BMJ Open 2023;13:e065687. <a href=https://doi.org/10.1136/bmjopen-2022-065687>doi: 10.1136/bmjopen-2022-065687</a></p><p>Abdallah Alami1, Daniel Krewski2,3, Nawal Farhat1, Donald Mattison2,3,4, Kumanan Wilson5,6, Christopher A Gravel2,7,8, Patrick J Farrell1, James A G Crispo9,10, Nisrine Haddad2, Santiago Perez-Lloret11,12,13, Paul J Villeneuve14 Correspondence to Abdallah Alami; <a href=mailto:abdallahalami@cmail.carleton.ca>abdallahalami@cmail.carleton.ca</a></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/myo-table.jpg alt=image width=500>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/myo-rr.jpg alt=image width=600><p>Objective To summarise the available evidence on the risk of myocarditis and/or pericarditis following mRNA COVID-19 vaccination, compared with the risk among unvaccinated individuals in the absence of COVID-19 infection.</p><p>Design Systematic review and meta-analysis.</p><p>Data sources Electronic databases (Medline, Embase, Web of Science and WHO Global Literature on Coronavirus Disease), preprint repositories (medRxiv and bioRxiv), reference lists and grey literature were searched from 1 December 2020 until 31 October 2022.</p><p>Study selection Epidemiological studies of individuals of any age who received at least one dose of an mRNA COVID-19 vaccine, reported a risk of myo/pericarditis and compared the risk of myo/pericarditis to individuals who did not receive any dose of an mRNA COVID-19 vaccine.</p><p>Data extraction and synthesis Two reviewers independently conducted screening and data extraction. The rate of myo/pericarditis among vaccinated and unvaccinated groups was recorded, and the rate ratios were calculated. Additionally, the total number of individuals, case ascertainment criteria, percentage of males and history of SARS-CoV-2 infection were extracted for each study. Meta-analysis was done using a random-effects model.</p><p>Results Seven studies met the inclusion criteria, of which <strong>six were included in the quantitative synthesis</strong> . Our meta-analysis indicates that within 30-day follow-up period, vaccinated individuals were twice as likely to develop myo/pericarditis in the absence of SARS-CoV-2 infection compared to unvaccinated individuals, with a rate ratio of 2.05 (95% CI 1.49–2.82).</p><p>Conclusion Although the absolute number of observed myo/pericarditis cases remains quite low, a higher risk was detected in those who received mRNA COVID-19 vaccinations compared with unvaccinated individuals in the absence of SARS-CoV-2 infection. Given the effectiveness of mRNA COVID-19 vaccines in preventing severe illnesses, hospitalisations and deaths, future research should focus on accurately determining the rates of myo/pericarditis linked to mRNA COVID-19 vaccines, understanding the biological mechanisms behind these rare cardiac events and identifying those most at risk.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/risk-of-myocarditis-and-pericarditis-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=see-also-in-vitamindwiki>See also in VitaminDWiki</h4><ul><li><p><a href=/posts/vaccination-pages-in-vitamindwiki>Vaccination pages in VitaminDWiki</a></p></li><li><p><a href=/posts/excess-deaths-5-possible-reasons-many-studies>Excess deaths - 5 possible reasons - many studies</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/cardiovascular.html><span class=tag>Cardiovascular</span></a>
+<a href=/tags/excess-deaths.html><span class=tag>excess deaths</span></a>
+<a href=/tags/vaccination.html><span class=tag>vaccination</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a></div><div data-pagefind-meta=tags hidden>Cardiovascular, excess deaths, vaccination, virus, Virus</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

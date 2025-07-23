@@ -118,7 +118,7 @@ Okay. How about (recommendations) for calcium?  Is there a difference between me
 
 There’s no way to assess calcium by a simple test. Vitamin D is really a wonderful nutrient in that regard as it permits measurement the status, and of the compound that the body is actually looking at and needs and uses. But we don’t have that for calcium as you correctly point out. Actually, this is a bit of a digression, but in all of these nutrient controversial areas, I take as my benchmark ancestral intake; that is, what did humans take before the agricultural revolution, surely before the Industrial Revolution, but before the agricultural revolution which was a giant change in the kinds of foods we ate. The natural vitamin D level under  **ancestral conditions would’ve been between 40 and 60 ng/ml** . We know that because it is been measured in East African tribes that are following ancestral lifestyle, so I take as my benchmark, well I’m back in my blood level up to where it would have been had I been living under the more primitive circumstances.
 
-Note by VitaminDWiki: <a href="/posts/many-studies-have-indicated-that-dark-skined-bodies-have-adapated-to-need-less-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1099">Many studies have indicated that dark skined bodies have adapated to need less vitamin D</a>. Just because 40 to 60 ng/ml is appropriate for dark skinned bodies does not mean that that level is appropriate for white skinned bodies
+Note by VitaminDWiki: [Many studies have indicated that dark skined bodies have adapated to need less vitamin D](/tags/many-studies-have-indicated-that-dark-skined-bodies-have-adapated-to-need-less-vitamin-d.html). Just because 40 to 60 ng/ml is appropriate for dark skinned bodies does not mean that that level is appropriate for white skinned bodies
 
 ### Todd Whitthorne
 
@@ -160,11 +160,11 @@ Dr. Robert Heaney our guest today on our healthy living podcast.  As always you 
 
 * [Should people at high risk for vitamin D deficiency wait 5 years -Feb 2013](/posts/should-people-at-high-risk-for-vitamin-d-deficiency-wait-5-years)
 
-* <a href="/posts/must-balance-co-factors-when-increasing-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1936">Must balance co-factors when increasing vitamin D</a> 500 Ca, 500 Mg - which has the following concept graph
+* [Must balance co-factors when increasing vitamin D](/tags/must-balance-co-factors-when-increasing-vitamin-d.html) 500 Ca, 500 Mg - which has the following concept graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-* <a href="/posts/iom-again-fails-to-look-at-interactions" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">IoM again fails to look at interactions - Nov 2010</a>
+* [IoM again fails to look at interactions - Nov 2010](/posts/iom-again-fails-to-look-at-interactions)
 
 > has the graph:  **dangerous to have too much Calcium while having lots of vitamin D** 
 

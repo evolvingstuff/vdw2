@@ -45,15 +45,15 @@ Then 50,000 IU every 2 weeks for 1 month
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/do-not-reduce-vitamin-k-if-taking-warfarin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do not reduce vitamin K if taking warfarin">Do not reduce vitamin K if taking warfarin</a>
+* [Do not reduce vitamin K if taking warfarin](/posts/do-not-reduce-vitamin-k-if-taking-warfarin)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Less blood clotting (venous thromboembolism) with higher levels of vitamin D – March 2013](/posts/less-blood-clotting-venous-thromboembolism-with-higher-levels-of-vitamin-d)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 </div>
 

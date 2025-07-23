@@ -192,7 +192,7 @@ provide enough vitamin D DURING pregnancy to greatly decrease the probabillity o
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
 
-* <a href="/posts/the-more-caffeine-while-pregnant-coffee-cola-the-more-bone-pain-in-premature-infants" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The more caffeine while pregnant (coffee, cola) the more bone pain in premature infants – Jan 2018">The more caffeine while pregnant (coffee, cola) the more bone pain in premature infants – Jan 2018</a>
+* [The more caffeine while pregnant (coffee, cola) the more bone pain in premature infants – Jan 2018](/posts/the-more-caffeine-while-pregnant-coffee-cola-the-more-bone-pain-in-premature-infants)
 
 * [Vitamin D deficiency diseases in dark skinned people living far from equator – Meta-analysis Oct 2013](/posts/vitamin-d-deficiency-diseases-in-dark-skinned-people-living-far-from-equator-meta-analysis)
 

@@ -112,7 +112,7 @@ Muscle fiber area |-7%|+11%||
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Frailty Call to Action: Vitamin D is one of the action items – June 2013](/posts/frailty-call-to-action-vitamin-d-is-one-of-the-action-items)
 
@@ -132,6 +132,6 @@ Muscle fiber area |-7%|+11%||
 
 * [Elderly lower limb muscle strength improved with Vitamin D supplementation - Meta-analysis Oct 2013](/posts/elderly-lower-limb-muscle-strength-improved-with-vitamin-d-supplementation-meta-analysis)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> the study on this page is one of the proofs that vitamin D works
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) the study on this page is one of the proofs that vitamin D works
 
 * [Elderly lost extra half pound of leg and arm muscle mass if low vitamin D (6 years) – Oct 2014](/posts/elderly-lost-extra-half-pound-of-leg-and-arm-muscle-mass-if-low-vitamin-d-6-years)

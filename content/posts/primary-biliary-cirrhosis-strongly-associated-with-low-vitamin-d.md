@@ -174,7 +174,7 @@ In conclusion, low vitamin D levels are common among patients with PBC and corre
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 * [Important interactions between the liver and vitamin D – May 2013](/posts/important-interactions-between-the-liver-and-vitamin-d)
 

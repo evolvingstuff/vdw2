@@ -202,4 +202,4 @@ In conclusion, the diagnosis of vitamin D deficiency rickets (VDDR) without chec
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a>
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)

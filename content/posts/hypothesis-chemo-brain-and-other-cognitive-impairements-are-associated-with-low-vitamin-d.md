@@ -33,7 +33,7 @@
 
 [Deep sedation in ICU reduced cognition even a year later (needed more vitamin D) – Oct 2013](/posts/deep-sedation-in-icu-reduced-cognition-even-a-year-later-needed-more-vitamin-d)
 
-<a href="/posts/senior-moment-25x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Senior moment" 25X more likely with low vitamin D - Feb 2012">"Senior moment" 25X more likely with low vitamin D - Feb 2012</a>
+["Senior moment" 25X more likely with low vitamin D - Feb 2012](/posts/senior-moment-25x-more-likely-with-low-vitamin-d)
 
 [Dementia associated with low vitamin D in two thirds of studies – systematic review May 2013](/posts/dementia-associated-with-low-vitamin-d-in-two-thirds-of-studies-systematic-review)
 
@@ -51,9 +51,9 @@ Live far from equator
 
 ## See also VitaminDWiki
 
-* <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy and vitamin D - many studies</a>
+* [Chemotherapy and vitamin D - many studies](/posts/chemotherapy-and-vitamin-d-many-studies)
 
-* <a href="/posts/breast-cancer-chemotherapy-initially-decreases-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer Chemotherapy initially decreases vitamin D levels – May 2012">Breast Cancer Chemotherapy initially decreases vitamin D levels – May 2012</a>
+* [Breast Cancer Chemotherapy initially decreases vitamin D levels – May 2012](/posts/breast-cancer-chemotherapy-initially-decreases-vitamin-d-levels)
 
 * [Cognition and vitamin D – summary of expert opinions – July 2014](/posts/cognition-and-vitamin-d-summary-of-expert-opinions)
 

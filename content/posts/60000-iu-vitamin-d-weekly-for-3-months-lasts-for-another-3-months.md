@@ -29,4 +29,4 @@ Note: Elsewhere it appears that HIV consumes vitamin D
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)

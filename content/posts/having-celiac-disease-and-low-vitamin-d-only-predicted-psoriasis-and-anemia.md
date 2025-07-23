@@ -49,6 +49,6 @@ Conclusions: Vitamin D deficiency in CD is common but does not predict AD. The r
 
 * [Overview Gut and vitamin D](/posts/overview-gut-and-vitamin-d)
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> which has the following chart
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

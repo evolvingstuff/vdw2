@@ -74,8 +74,8 @@ This finding suggested a significant non-antibiotic complimentary role for 25-hy
 
 * [Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013](/posts/antibiotic-use-cut-in-half-by-elderly-over-70-after-monthly-60000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
 * [Cows are routinely given 30 IU per kilogram](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=60) ( **<span style="color:#693;">which would be 10,000 IU for a 150 lb person</span>** )
 
-* <a href="/posts/no-tuberculosis-if-more-than-80-ng-of-vitamin-d-cattle" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No tuberculosis if more than 80 ng of vitamin D (cattle) - Jan 2022">No tuberculosis if more than 80 ng of vitamin D (cattle) - Jan 2022</a>
+* [No tuberculosis if more than 80 ng of vitamin D (cattle) - Jan 2022](/posts/no-tuberculosis-if-more-than-80-ng-of-vitamin-d-cattle)

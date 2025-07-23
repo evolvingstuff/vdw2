@@ -63,7 +63,7 @@ CONCLUSIONS: Our study shows a high degree of variability in cholecalciferol con
 
 * [Why India's vitamin D deficiency is grim - 40 pages Feb 2014](/posts/why-indias-vitamin-d-deficiency-is-grim-40-pages)
 
-* <a href="/posts/vitamin-d-level-of-outdoor-workers-in-india-was-only-18-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D level of outdoor workers in India was only 18 ng– May 2019">Vitamin D level of outdoor workers in India was only 18 ng– May 2019</a>
+* [Vitamin D level of outdoor workers in India was only 18 ng– May 2019](/posts/vitamin-d-level-of-outdoor-workers-in-india-was-only-18-ng)
 
 ## See also web
 

@@ -82,7 +82,7 @@ Create Anchor {ANAME()}Repel{ANAME} invisible – can be placed anywhere
 
 </div>
 
-&nbsp; &nbsp; &nbsp;<a href="/posts/zika-en-espanol" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7335">Zika en Espanol</a>&nbsp; &nbsp; &nbsp; <a href="/posts/zika-em-portugues" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7362">Zika em português</a>
+&nbsp; &nbsp; &nbsp;[Zika en Espanol](/tags/zika-en-espanol.html)&nbsp; &nbsp; &nbsp; [Zika em português](/tags/zika-em-português.html)
 
 ---
 

@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>54 genes significantly affected by Vitamin D (50,000 IU weekly for 12 weeks)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303879"><link rel=stylesheet href="/css/pagination.css?v=1753303879"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303879"></script><script src="/js/search.js?v=1753303879"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>54 genes significantly affected by Vitamin D (50,000 IU weekly for 12 weeks)</h1><time>May 10, 2021</time><div data-pagefind-body><h4 id=immunomodulatory-effects-of-vitamin-d-supplementation-in-a-deficient-population>Immunomodulatory Effects of Vitamin D Supplementation in a Deficient Population</h4><p>Int. J. Mol. Sci. 2021, 22(9), 5041; <a href=https://doi.org/10.3390/ijms22095041>https://doi.org/10.3390/ijms22095041</a></p><p>Mathieu Garand 1,<em>OrcID,Mohammed Toufiq 1OrcID,Parul Singh 1OrcID,Susie Shih Yin Huang 1,Sara Tomei 1OrcID,Rebecca Mathew 1,Valentina Mattei 1OrcID,Mariam Al Wakeel 2,Elham Sharif 2,</em>,†OrcID andSouhaila Al Khodor 1,*,†OrcID</p><p>1 Research Department, Sidra Medicine, Doha 26999, Qatar</p><p>2 Dept. of Biomedical Sciences, College of Health Sciences, Qatar Univ., Doha 26999, Qatar</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/50k-weekly.jpg alt=image width=900><p><strong>Note: 9.6% used vitamin D2 - which is known to have a very poor response to non-daily dosing</strong></p><p><strong>Note: 34% had high BMI - so would would have needed more than 50,000 IU</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/genes-50k.jpg alt=image width=1000><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:850px"><ul><li><p><a href=/posts/1289-genes-changed-with-higher-doses-of-vitamin-d-rct>1289 genes changed with higher doses of Vitamin D - RCT Dec 2019</a></p></li><li><p><a href=/posts/291-genes-improved-expression-by-2000-iu-of-vitamin-d-rct>291 genes improved expression by 2000 IU of vitamin D – RCT March 2013</a></p><ul><li>trial lasted only 2 months - not nearly long enough to reach Vitamin D plateau</li></ul></li><li><p><a href=/posts/vitamin-d-deficiency-is-associated-with-35-genes-only-7-of-are-commercially-tested>Vitamin D deficiency is associated with 35 genes, only 7 of are commercially tested – Nov 2019</a></p></li><li><p><a href=/posts/430-genes-changed-when-3800-iu-vitamin-d-added-in-late-second-trimester-rct>430 genes changed when 3,800 IU Vitamin D added in late second trimester – RCT May 2018</a></p></li><li><p><a href=/posts/5839-genes-changed-during-pregnancy-many-genes-were-related-to-vitamin-d>5839 genes changed during pregnancy (many genes were related to Vitamin D) – Oct 2016</a></p></li><li><p><a href=/posts/covid-virus-alters-the-activation-of-100-vitamin-d-related-genes-in-the-lung>COVID virus alters the activation of 100 vitamin D related genes in the lung – April 2021</a></p></li><li><p><a href=/posts/vitamin-d-effects-on-over-300-genes-varies-with-genetics-and-levels>Vitamin D effects on over 300 genes varies with genetics and levels – Dec 2020</a></p></li></ul><hr><ul><li><p><strong><a href=/tags/10-problems-proven-by-randomized-controlled-trials-to-be-fought-by-weekly-50000-iu-of-vitamin-d.html>10 problems proven by randomized controlled trials to be fought by weekly 50,000 IU of vitamin D</a></strong></p><ul><li>in addition, another 22 health problems fought by 50,000 IU once every 2 weeks</li></ul></li><li><p><strong><a href=/posts/reduce-covid-19-risks-with-50000-iu-vitamin-d-doses>Reduce COVID-19 risks with 50,000 IU Vitamin D doses</a></strong></p><ul><li>Note Need to iniitally start with 4 doses to restore levels within 10 days instead of 90 days</li></ul></li></ul><hr><p><strong>Note: The study on this page started with women with very low levels of vitamin D<br>On average they achieved 34 ng in 12 weeks<br>Starting with more tipical levels of vitamin most would have achieved at least 40 ng during the trial<br>Starting with a loading dose would have resulted in most getting to 40 ng in less two weeks</strong></p></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/immunomodulatory-effects-of-vitamin-d-compressed.pdf>Download the PDF from VitaminDWiki</a></strong></p><p>In addition to its canonical functions, vitamin D has been proposed to be an important mediator of the immune system. Despite ample sunshine, vitamin D deficiency is prevalent (>80%) in the Middle East, resulting in a high rate of supplementation. However, the underlying molecular mechanisms of the specific regimen prescribed and the potential factors affecting an individual’s response to vitamin D supplementation are not well characterized. Our objective is to describe the changes in the blood transcriptome and explore the potential mechanisms associated with vitamin D3 supplementation in one hundred vitamin D-deficient women who were given a weekly oral dose (50,000 IU) of vitamin D3 for three months. A high-throughput targeted PCR, composed of 264 genes representing the important blood transcriptomic fingerprints of health and disease states, was performed on pre and post-supplementation blood samples to profile the molecular response to vitamin D3.</p><p>We identified 54 differentially expressed genes that were strongly modulated by vitamin D3 supplementation. Network analyses showed significant changes in the immune-related pathways such as TLR4/CD14 and IFN receptors, and catabolic processes related to NF-kB, which were subsequently confirmed by gene ontology enrichment analyses. We proposed a model for vitamin D3 response based on the expression changes of molecules involved in the receptor-mediated intra-cellular signaling pathways and the ensuing predicted effects on cytokine production. Overall, vitamin D3 has a strong effect on the immune system, G-coupled protein receptor signaling, and the ubiquitin system. We highlighted the major molecular changes and biological processes induced by vitamin D3, which will help to further investigate the effectiveness of vitamin D3 supplementation among individuals in the Middle East as well as other regions.</p><hr><h4 id=clipped-from-pdf__>Clipped from PDF__</h4><p><strong>"&mldr;observed a downregulation trend that was consistently more pronounced in the NR group</strong></p><p>Wonder what implies</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/intervention.html><span class=tag>Intervention</span></a>
+<a href=/tags/intervention-non-daily.html><span class=tag>Intervention - non daily</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/viruses-and-pregnancy.html><span class=tag>viruses and pregnancy</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a></div><div data-pagefind-meta=tags hidden>dosage, high dose, immunity, Intervention, Intervention - non daily, pregnancy, therapeutic intervention, virus, viruses and pregnancy, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303879"></script><script src="/js/tiki-redirects.js?v=1753303879"></script><script src="/js/lightspa.js?v=1753303879"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303879",indexUrl:"/search/search_index.json.gz?v=1753303879"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303879"></script></body></html>

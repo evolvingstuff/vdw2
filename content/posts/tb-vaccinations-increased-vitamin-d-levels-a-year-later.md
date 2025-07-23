@@ -58,9 +58,9 @@ Conclusions: Vitamin D may play an immuno-regulatory role following BCG vaccinat
 
 ##### See also VitaminDWiki
 
-* <a href="/posts/overview-tb-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1421">Overview TB and Vitamin D</a>
+* [Overview TB and Vitamin D](/tags/overview-tb-and-vitamin-d.html)
 
-* <a href="/posts/vaccination-publications-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaccination publications in VitaminDWiki">Vaccination publications in VitaminDWiki</a> 93 as of Oct 2021
+* [Vaccination publications in VitaminDWiki](/posts/vaccination-publications-in-vitamindwiki) 93 as of Oct 2021
 
 <!-- ~tc~ (alias(Children with TB vaccinations became 6X more likely to have vitamin D gt than 30 ng – Jan 2012)) ~/tc~ -->
 

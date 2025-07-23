@@ -33,7 +33,7 @@
 }
 
 
-### The <a href="/posts/web-version" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3246">web version</a> of this page has graphics and provides translation to 64 other languages with 1 click
+### The [web version](/tags/web-version.html) of this page has graphics and provides translation to 64 other languages with 1 click
 
 ## Top Vitamin D News at VitaminDWiki
 
@@ -41,17 +41,17 @@
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-<a href="/posts/more-vitamin-invervention-trials-for-d-than-for-the-total-of-vitamins-a-c-e-and-k" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">More Vitamin Invervention trials for  **D**  than for the total of Vitamins A, C, E, and K</a>
+[More Vitamin Invervention trials for  **D**  than for the total of Vitamins A, C, E, and K](/tags/more-vitamin-invervention-trials-for-d-than-for-the-total-of-vitamins-a-c-e-and-k.html)
 
 Vitamin D 915 vs 798 = "Vitamin A" 188 + "Vitamin C" 269 + "Vitamin E"  236 + "Vitamin K" 105
 
-<a href="/posts/span-stylecolor090tbspan-treatment-helped-with-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3217"> **<span style="color:#090;">TB</span>**  treatment helped with Vitamin D – RCT Sept 2012</a> 
+[ **<span style="color:#090;">TB</span>**  treatment helped with Vitamin D – RCT Sept 2012](/tags/span-stylecolor090tbspan-treatment-helped-with-vitamin-d-rct-sept-2012.html) 
 
 Note: There were 14 TB and Vitamin D Invervention Clinical Trials as of Sept 2012
 
-<a href="/posts/multidrug-resistant-span-stylecolor090tbspan-may-be-reduced-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3222">Multidrug-resistant  **<span style="color:#090;">TB</span>**  may be reduced with vitamin D – Sept 2012</a>
+[Multidrug-resistant  **<span style="color:#090;">TB</span>**  may be reduced with vitamin D – Sept 2012](/tags/multidrug-resistant-span-stylecolor090tbspan-may-be-reduced-with-vitamin-d-sept-2012.html)
 
-<a href="/posts/vitamin-d-probably-can-prevent-and-treat-span-stylecolor090tbspan-and-infectious-diseases-2012" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3242">Vitamin D probably can prevent and treat  **<span style="color:#090;">TB</span>**  and infectious diseases – 2012</a>
+[Vitamin D probably can prevent and treat  **<span style="color:#090;">TB</span>**  and infectious diseases – 2012](/tags/vitamin-d-probably-can-prevent-and-treat-span-stylecolor090tbspan-and-infectious-diseases-2012.html)
 
 [Overweight women lost fat in 12 weeks with just 1000 IU vitamin D daily – Sept 2012](/posts/overweight-women-lost-fat-in-12-weeks-with-just-1000-iu-vitamin-d-daily) Random Controlled Trial
 
@@ -87,7 +87,7 @@ Has links to many similar results
 
 Time delay from taking till maximum result in body: 6-12 hours vs 1 hour for calcitriol
 
-<a href="/posts/colds-not-stopped-in-people-who-were-vitamin-d-sufficient-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3253">Colds not stopped in people who were vitamin D sufficient – RCT Oct 2012</a> which has the following graph
+[Colds not stopped in people who were vitamin D sufficient – RCT Oct 2012](/tags/colds-not-stopped-in-people-who-were-vitamin-d-sufficient-rct-oct-2012.html) which has the following graph
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/colds-30-ng.jpg" alt="image" style="max-width: 400px;">
 
@@ -101,7 +101,7 @@ Time delay from taking till maximum result in body: 6-12 hours vs 1 hour for cal
 
 * Vitamin D does NOT continue to accumulate in the body: even toxic amounts dissipate without any intervention in 6 months
 
-* <a href="/posts/baldness-reduced-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3049">Baldness reduced with Vitamin D</a> (<a href="/posts/and-scalp-vibration" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1561">and scalp vibration?</a>)
+* [Baldness reduced with Vitamin D](/tags/baldness-reduced-with-vitamin-d.html) ([and scalp vibration?](/tags/and-scalp-vibration.html))
 
 * Does skin have to be warm to make vitamin D?
 
@@ -111,7 +111,7 @@ Time delay from taking till maximum result in body: 6-12 hours vs 1 hour for cal
 
 > – at an average cost of less than 2 cents per day.
 
-### Previous <a href="/posts/vitamin-d-news" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3192">Vitamin D News - Aug 2012</a>
+### Previous [Vitamin D News - Aug 2012](/posts/vitamin-d-news)
 
 ### Next  [Vitamin D News Oct 2012 email](/posts/vitamin-d-news-oct-2012-email)
 
@@ -119,7 +119,7 @@ Time delay from taking till maximum result in body: 6-12 hours vs 1 hour for cal
 
 * [All new web pages](https://www.VitaminDWiki.com/tiki-index.php?page=vdwnews)
 
-* <a href="/posts/all-recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">All recently changed web pages</a>
+* [All recently changed web pages](/tags/all-recently-changed-web-pages.html)
 
 * [Top Vitamin D News](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc) - the most recent news is above
 

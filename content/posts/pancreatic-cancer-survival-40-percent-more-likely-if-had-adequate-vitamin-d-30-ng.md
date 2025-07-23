@@ -39,9 +39,9 @@ Yuan C1, Qian ZR1, Babic A1, Morales-Oyarvide V1, Rubinson DA1, Kraft P1, Ng K1,
 
 * [Pancreatic cancer 30 percent less likely in Australians who got lots of UVB (vitamin D) – Dec 2013](/posts/pancreatic-cancer-30-percent-less-likely-in-australians-who-got-lots-of-uvb-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-pancreatic-cancer-risk-no-u-shaped-curve" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Pancreatic Cancer Risk - No U-Shaped Curve - Mar 2012">Vitamin D and Pancreatic Cancer Risk - No U-Shaped Curve - Mar 2012</a>
+* [Vitamin D and Pancreatic Cancer Risk - No U-Shaped Curve - Mar 2012](/posts/vitamin-d-and-pancreatic-cancer-risk-no-u-shaped-curve)
 
-* <a href="/posts/people-with-high-level-of-vit-d-in-blood-significantly-less-likely-to-get-pancreatic-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with high level of Vit D in blood significantly less likely to get pancreatic cancer – April 2010">People with high level of Vit D in blood significantly less likely to get pancreatic cancer – April 2010</a>
+* [People with high level of Vit D in blood significantly less likely to get pancreatic cancer – April 2010](/posts/people-with-high-level-of-vit-d-in-blood-significantly-less-likely-to-get-pancreatic-cancer)
 
 </div>
 

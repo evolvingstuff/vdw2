@@ -95,13 +95,13 @@ Conclusions: We find cosinor models suitable and flexible for analysing and adju
 
 * [Crohn’s Disease – strange things such as no change of vitamin D levels with season – Dec 2014](/posts/crohns-disease-strange-things-such-as-no-change-of-vitamin-d-levels-with-season)
 
-* <a href="/posts/not-all-vitamin-d-levels-follow-the-season-asthma-rhinitis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not all Vitamin D levels follow the season – Asthma, Rhinitis, … – March 2019">Not all Vitamin D levels follow the season – Asthma, Rhinitis, … – March 2019</a>
+* [Not all Vitamin D levels follow the season – Asthma, Rhinitis, … – March 2019](/posts/not-all-vitamin-d-levels-follow-the-season-asthma-rhinitis)
 
  **Elderly** 
 
-* <a href="/posts/vitamin-d-in-elderly-irish-with-800-iu-did-not-vary-with-season" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D in elderly Irish with 800 IU did not vary with season – Nov 2010">Vitamin D in elderly Irish with 800 IU did not vary with season – Nov 2010</a>
+* [Vitamin D in elderly Irish with 800 IU did not vary with season – Nov 2010](/posts/vitamin-d-in-elderly-irish-with-800-iu-did-not-vary-with-season)
 
-* <a href="/posts/vitamin-d-deficiency-varies-widely-with-season-in-young-women-but-not-in-old" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018">Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018</a>
+* [Vitamin D Deficiency varies widely with season in young women, but not in old - April 2018](/posts/vitamin-d-deficiency-varies-widely-with-season-in-young-women-but-not-in-old)
 
 ---
 

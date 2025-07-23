@@ -102,7 +102,7 @@ Would most likely have reduced inflammation markers if any of the following:
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Many healthy African Americans got above 33 ng with 4,000 IU of vitamin D – RCT March 2014](/posts/many-healthy-african-americans-got-above-33-ng-with-4000-iu-of-vitamin-d-rct) another publication based on this same study
 

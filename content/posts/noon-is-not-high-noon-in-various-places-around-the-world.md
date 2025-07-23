@@ -37,10 +37,10 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/sun-how-to-maximize" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1051">Sun - how to maximize</a>  **14 ways to maximize the sun (as of Feb 2014)** 
+* [Sun - how to maximize](/tags/sun-how-to-maximize.html)  **14 ways to maximize the sun (as of Feb 2014)** 
 
-* <a href="/posts/sun-not-just-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3642">Sun - not just vitamin D</a>
+* [Sun - not just vitamin D](/tags/sun-not-just-vitamin-d.html)
 
-* <a href="/posts/vitamin-d-from-the-sun-vs-time-of-day" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3152">Vitamin D from the sun vs time of day</a> which has the following graphic	 
+* [Vitamin D from the sun vs time of day](/tags/vitamin-d-from-the-sun-vs-time-of-day.html) which has the following graphic	 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">

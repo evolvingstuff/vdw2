@@ -79,19 +79,19 @@
 
 ## See also VitaminDWiki
 
-<a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+[Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-<a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
+[Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies)
 
-<a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+[Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-<a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+[Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-<a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+[Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
-<a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+[Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
-<a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> which has the following charts
+[Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) which has the following charts
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 

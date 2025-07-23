@@ -86,6 +86,6 @@ Attachment at the bottom of this page indicates that they are probably geriatric
 
 * [Stayed 3 days longer in geriatric acute care unit if low vitamin D – 2013](/posts/stayed-3-days-longer-in-geriatric-acute-care-unit-if-low-vitamin-d-2013)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)

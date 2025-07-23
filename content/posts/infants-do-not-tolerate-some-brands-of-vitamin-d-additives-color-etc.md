@@ -49,6 +49,6 @@ DDrops, VitaCost, Carlson get high recommendations and are tasteless.
 
 * [96 percent of ear, nose, throat children had less than 30 ng of vitamin D – Jan 2013](/posts/96-percent-of-ear-nose-throat-children-had-less-than-30-ng-of-vitamin-d)
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a> which has a sections on vitamin D for infants, preterm, etc.
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d) which has a sections on vitamin D for infants, preterm, etc.
 
-* <a href="/posts/french-society-of-paediatics-vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2359">French Society of Paediatics Vitamin D recommendations – Jan 2012</a> breastfed infants:  **<span style="color:#090;">1000 to 1200 IU</span>**
+* [French Society of Paediatics Vitamin D recommendations – Jan 2012](/posts/french-society-of-paediatics-vitamin-d-recommendations) breastfed infants:  **<span style="color:#090;">1000 to 1200 IU</span>**

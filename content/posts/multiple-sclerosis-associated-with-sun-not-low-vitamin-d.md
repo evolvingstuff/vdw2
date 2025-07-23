@@ -89,17 +89,17 @@ Rather inprecise
 
 * [Clinical trials for MS and Vitamin D  **<span style="color:#00F;">INTERVENTION</span>** ](http://clinicaltrials.gov/ct2/results?term=%22multiple+sclerosis%22+&recr=&rslt=&type=&cond=&intr=%22vitamin+d%22&outc=&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&rcv_s=&rcv_e=&lup_s=&lup_e=) 21 as of March 2013
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a> - which had the following
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d) - which had the following
 
  **&nbsp; &nbsp; &nbsp;Controversy: Which is better: UV or Vitamin D** 
 
-* Sources of UV, in addition to the sun, include your <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D bulb for use in the home - or perhaps office">own UV bulb</a>
+* Sources of UV, in addition to the sun, include your [own UV bulb](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office)
 
-* <a href="/posts/ms-20x-more-correlated-to-uv-than-other-variables" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1267">MS 20X more correlated to UV than other variables – Jan 2011</a>
+* [MS 20X more correlated to UV than other variables – Jan 2011](/tags/ms-20x-more-correlated-to-uv-than-other-variables-jan-2011.html)
 
-* <a href="/posts/lack-of-uv-increased-offspring-ms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lack of UV increased offspring MS – April 2010">Lack of UV increased offspring MS – April 2010</a>
+* [Lack of UV increased offspring MS – April 2010](/posts/lack-of-uv-increased-offspring-ms)
 
-* <a href="/posts/increased-sun-and-vitamin-d-both-reduced-ms-risk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased sun and vitamin D both reduced MS risk – March 2011">Increased sun and vitamin D both reduced MS risk – March 2011</a>
+* [Increased sun and vitamin D both reduced MS risk – March 2011](/posts/increased-sun-and-vitamin-d-both-reduced-ms-risk)
 
    * 30% less likely to get MS for UV increase of 1000 kJ/m2
 
@@ -111,7 +111,7 @@ Rather inprecise
 
    * 7% less likely to get MS for each 4 ng increase in vitamin D level in blood 
 
-* <a href="/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012">MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012</a>
+* [MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012](/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels)
 
 * [Did sunshine help Ann Romney’s multiple sclerosis?](http://blog.vitamindcouncil.org/2012/08/27/did-sunshine-help-ann-romneys-multiple-sclerosis/#comment-1688) Vitamin D Council Aug 2012  
 

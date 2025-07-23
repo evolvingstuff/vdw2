@@ -1,0 +1,74 @@
+<!doctype html><html><head><meta charset=utf-8><title>Iodine deficiency might cause obesity</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Iodine deficiency might cause obesity</h1><time>July 17, 2010</time><div data-pagefind-body><p><a href=http://pandemicsurvivor.wordpress.com/2010/07/17/solving-obesity-iodine/>Solving Obesity – Iodine</a>Posted:17 Jul 2010   by  <a href=http://pandemicsurvivor.wordpress.com/>Vitamin D Deficiency Survivor</a></p><p>Of the several nutrients in which we are deficient, iodine should be high your list as one to be concerned with.  When consuming large amounts of vitamin A your serum vitamin D reduces as the body uses it with vitamin A.  A similar thing happens with iodine and vitamin D levels.  Here is an interesting article to give you pause: <a href=http://findarticles.com/p/articles/mi_m0FDL/is_1_15/ai_n25152241/pg_5/><strong>Vitamin D / Iodine</strong></a></p><p>There are number of great articles on iodine and I would suggest that you read all three of these articles:</p><p>Michael B Schachter MD  – <a href=http://www.mbschachter.com/iodine.htm>http://www.mbschachter.com/iodine.htm</a></p><p>Donald W. Miller, Jr. MD – <a href=http://www.lewrockwell.com/miller/miller20.html>http://www.lewrockwell.com/miller/miller20.html</a></p><p>William Davis MD – <a href=http://www.lef.org/magazine/mag2009/oct2009_Halt-on-Salt-Sparks-Iodine-Deficiency_01.htm>http://www.lef.org/magazine/mag2009/oct2009_Halt-on-Salt-Sparks-Iodine-Deficiency_01.htm</a></p><p>The path of iodine has gone a similar way as the path of vitamin D.  There is no profit in a very inexpensive nutrient and analogs are not easy to develop.  However, with iodine, the use of meds to control the thyroid has been reasonably successful, certainly for profit.</p><p>The reason that the amount of daily iodine requirement is so low as specified by the government is because of concern of shutting down the thyroid.  I believe this response in the thyroid is because the iodine depletes the levels of vitamin D and this causes the thyroid to shut down.</p><p>The balance of iodine, magnesium, vitamin D, calcium, potassium, sodium, vitamin B, vitamin C, and vitamin A is a magical dance that occurs in the body and when you get it right your body celebrates.</p><p>Iodine is necessary to make the hormones in the thyroid that control your body temperature and energy production.  Not only are these hormones essential for energy, they are also powerful neurotransmitters and help you from getting depressed or becoming manic.</p><p>I will not even comment on how much iodine that you should take as this is really yet to be determined.  I do believe that about 35 to 40 IU per pound of body weight for vitamin D is correct.  I am sure there is a correct level for iodine but it has been difficult to determine what that level is.  One hundred fifty micrograms is too low as a total intake.  <strong>I suspect that twenty five milligrams is too high as a total intake.</strong>   The Japanese on average get around 12 mg per day of iodine because of the amount of seafood and kelp that they eat.</p><p>Dr. Davis has reported that two of his patients has toxicity issues when taking 12.5 milligrams iodine per day.  <a href=http://heartscanblog.blogspot.com/2010/07/iodine-update.html>http://heartscanblog.blogspot.com/2010/07/iodine-update.html</a></p><p>I will simply tell you what I have done and then you will have to make your own decisions.  I tried to build my iodine stores to reasonable levels by taking two milligrams everyday for a year.  I was not replete until I took 50 mg a day of Iodoral for two weeks and then to taking one of the 12.5 mg tablets per day.  Please note that I am a large guy at 228 pounds. Yes, that is right if you have been following my weight loss – down twelve pounds.</p><p>As the halides that were improper in my body started to resolve, I did note some reddish sores develop on my shoulders and back.  This is from the fluorine, chlorine, and bromine that the body has used because I was not getting enough iodine.  These eruptions disappeared after several days.  I also noticed that some fatty lumps that I had under my skin have also disappeared.  I would suppose this is because iodine is significant in promoting cellular apoptosis or cellular death when a particular cell is no longer required by the body.  Not giving iodine to cancer patients is outrageous as it is significant in stopping tumor growth.</p><p>If you currently have thyroid issues that you are controlling with meds then be very careful in supplementing with iodine.  The thyroid hormones are so powerful in their effects on the brain and mind, that it will literally drive you crazy if you get the balance wrong.  Work very closely with your endocrinologist as you try to reduce your meds with iodine, magnesium, and vitamin D supplementation.  The thyroid meds will have to be adjusted to keep a proper balance.  If your doctor does not want to work with you and just keep you on the meds then find another doctor.</p><p>Death is an essential part of life when cells have reached their end.   – Pandemic Survivor</p><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/obesity-pandemic-since-1975-is-it-due-to-vitamin-d-magnesium-iodine-adenovirus-or-what>Obesity pandemic since 1975 - is it due to Vitamin D, Magnesium, Iodine, adenovirus, or what</a></p></li><li><p><a href=/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health>Vitamin D and Iodine are similar, and both are deficient and important to health</a></p></li><li><p><span>[tiki-download_file.php?fileId=2061]</span></p></li><li><p><span>[tiki-download_file.php?fileId=2062]</span> update by same authore: has the following charts</p></li></ul><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/iodine-defiency-map-2006.jpg alt=image>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/iodine-deficiency-chart-2003-and-2006.jpg alt=image><h3 id=30-of-the-globe-has-less-than-100-micrograms-of-iodine>30% of the globe has less than 100 micrograms of Iodine</h3></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/brain.html><span class=tag>brain</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/iodine.html><span class=tag>iodine</span></a>
+<a href=/tags/iodine.html><span class=tag>Iodine</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/magnesium-and-cancer.html><span class=tag>magnesium and cancer</span></a>
+<a href=/tags/magnesium-and-pregnancy.html><span class=tag>magnesium and pregnancy</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/obesity-and-cancer.html><span class=tag>obesity and cancer</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/thyroid-and-parathyroid.html><span class=tag>Thyroid and parathyroid</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/weight-loss.html><span class=tag>weight loss</span></a></div><div data-pagefind-meta=tags hidden>brain, cancer, cognitive, dosage, health risk, iodine, Iodine, magnesium, magnesium and cancer, magnesium and pregnancy, obesity, obesity and cancer, pregnancy, Thyroid and parathyroid, vitamin d, weight loss</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

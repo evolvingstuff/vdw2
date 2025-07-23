@@ -60,4 +60,4 @@ Iimprovement in breathing vs vitamin D levels
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1433">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)

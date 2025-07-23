@@ -29,6 +29,6 @@ Salvatore Minisola, Elisabetta Romagnoli, Alfredo Scillitani, Sudhakar D. Rao
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hyperparathyroidism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hyperparathyroidism and vitamin D">Overview Hyperparathyroidism and vitamin D</a>
+* [Overview Hyperparathyroidism and vitamin D](/posts/overview-hyperparathyroidism-and-vitamin-d)
 
 * [Graves Disease is 2.2X more likely with low vitamin D – meta-analysis May 2015](/posts/graves-disease-is-22x-more-likely-with-low-vitamin-d-meta-analysis)

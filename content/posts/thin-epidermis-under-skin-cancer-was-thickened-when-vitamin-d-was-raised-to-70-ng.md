@@ -67,7 +67,7 @@ Conclusion: The study showed that following effective oral supplementation based
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [Molecular Link between Vitamin D and Cancer Prevention – Oct 2013](/posts/molecular-link-between-vitamin-d-and-cancer-prevention)
 

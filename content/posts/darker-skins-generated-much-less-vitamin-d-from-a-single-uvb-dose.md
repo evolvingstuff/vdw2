@@ -51,8 +51,8 @@ CONCLUSION: This study suggests that skin pigmentation negatively influences vit
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Little variation in vitamin D levels with skin color in Brazil – July 2014](/posts/little-variation-in-vitamin-d-levels-with-skin-color-in-brazil)  for very intense UVB
 
-* <a href="/posts/response-to-uv-varies-more-with-pigment-genes-and-age-than-skin-color" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to UV varies more with pigment genes and age than skin color – Jan 2019">Response to UV varies more with pigment genes and age than skin color – Jan 2019</a>
+* [Response to UV varies more with pigment genes and age than skin color – Jan 2019](/posts/response-to-uv-varies-more-with-pigment-genes-and-age-than-skin-color)

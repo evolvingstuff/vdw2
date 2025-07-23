@@ -66,16 +66,16 @@ Poster presented at [Vitamin D conference in England - April 23-25 2014](/posts/
 
 * [Cancer Chemotherapy and vitamin D – Review March 2013](/posts/cancer-chemotherapy-and-vitamin-d-review)
 
-* <a href="/posts/2000-iu-of-vitamin-d-reduced-fatigue-of-advanced-cancer-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2000 IU of vitamin D reduced fatigue of advanced cancer – RCT May 2012">2000 IU of vitamin D reduced fatigue of advanced cancer – RCT May 2012</a>  which is 14,000 IU/week, vs 20,000 IU per week in the study on this page
+* [2000 IU of vitamin D reduced fatigue of advanced cancer – RCT May 2012](/posts/2000-iu-of-vitamin-d-reduced-fatigue-of-advanced-cancer-rct)  which is 14,000 IU/week, vs 20,000 IU per week in the study on this page
 
-* <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy and vitamin D - many studies</a> must be sure the the Dr. prescribing the Chemo is aware of vitamin D supplementation
+* [Chemotherapy and vitamin D - many studies](/posts/chemotherapy-and-vitamin-d-many-studies) must be sure the the Dr. prescribing the Chemo is aware of vitamin D supplementation
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a> vitamin D supplements reduces many types of pain
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d) vitamin D supplements reduces many types of pain
 
-* [Quality of Life](/categories/quality-of-life)
+* [Quality of Life](/posts/quality-of-life)
 
-* <a href="/posts/7-improvements-in-lives-of-veterans-with-chronic-pain-with-50000-iu-vitamin-d-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012">7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012</a>
+* [7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012](/posts/7-improvements-in-lives-of-veterans-with-chronic-pain-with-50000-iu-vitamin-d-weekly)
 
 * [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need) 50,000 IU once every 2 weeks - for those who are healthy, not those with cancer

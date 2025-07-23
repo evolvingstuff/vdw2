@@ -49,4 +49,4 @@ PDF is behind a paywall
 
 ### PMID = 21572875 Grant 2009
 
-<a href="/posts/increasing-german-levels-of-vitamin-d-to-30-ng-could-save-18300-lives-annually" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009">Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009</a> on VitaminDWiki
+[Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009](/posts/increasing-german-levels-of-vitamin-d-to-30-ng-could-save-18300-lives-annually) on VitaminDWiki

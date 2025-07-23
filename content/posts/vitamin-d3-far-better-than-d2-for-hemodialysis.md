@@ -72,9 +72,9 @@ PMID:22641581
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
 * [Dialysis patients need real vitamin D – Editorial July 2013](/posts/dialysis-patients-need-real-vitamin-d-editorial) not analogs
 

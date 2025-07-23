@@ -109,7 +109,7 @@ Previous evidence suggests that variants in the fat mass and obesity-associated 
 
 ### See also	VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Search PubMed for Obesity and “vitamin d”](http://www.ncbi.nlm.nih.gov/pubmed/?term=obesity+%22vitamin+d%22) 1120 items Jan 2014
 

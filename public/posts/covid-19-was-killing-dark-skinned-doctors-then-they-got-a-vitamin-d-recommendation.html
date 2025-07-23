@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>COVID-19 was killing dark-skinned doctors, then they got a Vitamin D recommendation</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>COVID-19 was killing dark-skinned doctors, then they got a Vitamin D recommendation</h1><time>October 27, 2020</time><div data-pagefind-body><p><a href=https://www.theguardian.com/world/2020/apr/18/failure-to-record-ethnicity-of-covid-19-victims-a-scandal-says-bma-chief><strong>All 14 of the UK doctors who died of COVID-19 had dark skins</strong> </a>The Guardian April 18</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/14-dead---dark-skin.jpg alt=image width=600><p><strong>Then they got the letter on this page recommending that they take 100,000 IU of VItamin D</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/bame-uk-doctor-death.jpg alt=image width=600><p><strong>Note:</strong></p><ul><li><p>BAPIO = British Association of Physicians of Indian Origin</p></li><li><p>BAME = Black, Asian and minority ethnic, a UK demographic</p><ul><li><strong>Do not know if the doctors embraced the Vitamin D recommendation</strong></li></ul></li></ul><p>Letter sent April 27, 2020 <i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/2020-bapio-pg-da-bami-vit-d-recommendation.pdf>PDF</a></p><p>The following is the text in the letter</p><h4 id=recommendation-on-vit-d-supplements-to-boost-immunity-against-covid-19>Recommendation on Vit D supplements to boost Immunity against COVID-19</h4><p>Dear BAPIO member,</p><p>Both Professor David Anderson and I are accredited endocrinologists. We are extremely concerned at the apparent lack of effective protection of medical, nursing and other health care workers (HCW) against coronavirus. We also have major worries about the disproportionate coronavirus mortality among BAME HCWs. We believe that Vitamin D3 deficiency is a major risk factor for severe coronavirus infection, for which there is accumulating evidence.</p><p>People born with darker skin receive less UV light in the deeper layers where D3 is made and so, are prone to more severe D-deficiency at the end of winter in northern latitudes than their fairerskinned counterparts.</p><p>Prof David Anderson is retired, lives in Italy, and has access to vials of D3, 2.5 mg (100,000 IU) which is appropriate amount of Vitamin D3 as a booster dose for Vit D deficient individual. The contents of one vial taken by mouth should raise levels of 25(OH)D3 for 2 to 3 months, to the minimum that the immune system needs to provide the first line of defence against this new virus. It will not prevent infection itself, but by providing front-line resistance, it is likely to reduce it to the level of a severe cold. In the presence of inadequate levels of 25(OH)D3 the virus can get past this vitamin D-dependent first line of defence and cause severe lung disease that carries a high risk of death.</p><p>We recommend that ideally the BAME population, especially front-line staff, should get their Vitamin D3 levels checked and get appropriate replacement as required. In the absence of the test and if one is not on regular Vit D3 supplement, a booster dose of Vit D3 100,000 units has been suggested.</p><p>Since in UK, 100,000 I.U. preparation is prescription only, one can get it directly from Prof Anderson. Alternative is a UK preparation, HUXD3 20,000 IU which can be bought over the counter. If not available locally, Milton Pharmacy, Weston super Mare would be happy to supply a pack of 10 tablets at cost price of £2. We advise that, if you are not already taking Vit D supplementation, you can take 100,000 IU. This is safe ⑴ and will address Vitamin D deficiency quickly.</p><p>With best wishes for your personal safety in this difficult time, Prof Parag Singhal, Consultant Endocrinologist Weston General Hospital and Prof David C Anderson (former Professor of Medicine, University of Manchester and the Chinese University of Hong Kong)</p><p>PS: The above advice is our joint recommendation and not BAPIO Policy</p><p>(1) LARGE, SINGLE-DOSE, ORAL VITAMIN D SUPPLEMENTATION IN ADULT POPULATIONS: A SYSTEMATIC REVIEW</p><p><a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128480/>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128480/</a></p><p>In VitaminDWiki as <a href=/posts/large-single-dose-of-more-than-300000-iu-of-vitamin-d-works-well-for-3-months-review>Large single dose of more than 300,000 IU of vitamin D works well for 3 months – Review Nov 2013</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/darker-skin.html><span class=tag>Darker Skin</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/mortality.html><span class=tag>Mortality</span></a>
+<a href=/tags/ultraviolet-light.html><span class=tag>ultraviolet light</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a></div><div data-pagefind-meta=tags hidden>Darker Skin, dosage, immunity, life span, mortality, Mortality, ultraviolet light, virus, Virus, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

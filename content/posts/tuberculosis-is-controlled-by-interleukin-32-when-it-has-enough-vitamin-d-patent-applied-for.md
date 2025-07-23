@@ -42,10 +42,10 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Tuberculosis, Genes, Vitamin D Binding Protein, and RCT – Review Aug 2014](/posts/tuberculosis-genes-vitamin-d-binding-protein-and-rct-review)
 
 * [How UVB reduces autoimmune diseases such as Multiple Sclerosis – April 2014](/posts/how-uvb-reduces-autoimmune-diseases-such-as-multiple-sclerosis)
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Who said vitamin D could not be patented">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)

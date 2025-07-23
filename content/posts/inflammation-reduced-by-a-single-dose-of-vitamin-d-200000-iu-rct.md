@@ -67,7 +67,7 @@ PMID: 25827670
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-reduces-inflammation-in-critically-ill-patients" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces inflammation in critically ill patients – Sept 2020">Vitamin D reduces inflammation in critically ill patients – Sept 2020</a>
+* [Vitamin D reduces inflammation in critically ill patients – Sept 2020](/posts/vitamin-d-reduces-inflammation-in-critically-ill-patients)
 
 * [4000 IU vitamin D daily for just 5 days reduced inflammation after heart attack – RCT Jan 2013](/posts/4000-iu-vitamin-d-daily-for-just-5-days-reduced-inflammation-after-heart-attack-rct)
 
@@ -75,4 +75,4 @@ PMID: 25827670
 
 * [Metabolism and Inflammation are also regulated by Vitamin D – 2014](/posts/metabolism-and-inflammation-are-also-regulated-by-vitamin-d-2014)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)

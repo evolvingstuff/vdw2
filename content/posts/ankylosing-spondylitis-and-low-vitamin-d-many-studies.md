@@ -197,7 +197,7 @@ Clin Chim Acta. 2014 Sep 5. pii: S0009-8981(14)00392-1. [doi: 10.1016/j.cca.2014
 
 Cai G1, Wang L1, Fan D1, Xin L1, Liu L1, Hu Y1, Ding N1, Xu S2, Xia G1, Jin X3, Xu J2, Zou Y1, Pan F4.
 
-&nbsp; &nbsp; PDF is available at <span>[deepdyve.com]</span> and  **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1016/j.cca.2014.08.040** 
+&nbsp; &nbsp; PDF is available at <span>[deepdyve.com]</span> and  **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1016/j.cca.2014.08.040** 
 
 BACKGROUND:
 
@@ -287,7 +287,7 @@ Results. Fifteen original articles and five conference abstracts met the criteri
 
 Conclusion. Cross-sectional studies using appropriate statistical analyses have highlighted that AS is associated with lower vitamin D concentrations. Within groups of AS patients there is some evidence that low vitamin D concentrations are associated with higher disease activity. However, there are insufficient published data to support an immunomodulatory role for vitamin D in AS. Further study with a longitudinal design is required to understand whether optimizing vitamin D in AS has potential as a disease-modifying intervention.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1093/rheumatology/keu042** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1093/rheumatology/keu042** 
 
 ---
 
@@ -321,7 +321,7 @@ Ankylosing spondylitis (AS) is an inflammatory disorder that presents with arthr
 
 * [Smoking can increase x-ray damage in people with ankylosing spondylitis by as much as five times](http://www.sciencedaily.com/releases/2013/10/131027122913.htm) Oct 2013
 
-   * Note: <a href="/posts/smoking" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 341">smoking</a> has been known to decrease vitamin D levels, so it is not surprising that smoking would increase AS
+   * Note: [smoking](/tags/smoking.html) has been known to decrease vitamin D levels, so it is not surprising that smoking would increase AS
 
 * [Seasonal disease activity and serum vitamin D levels in rheumatoid arthritis, ankylosing spondylitis and osteoarthritis](http://www.ncbi.nlm.nih.gov/pubmed/23658567%20) March 2013
 
@@ -341,7 +341,7 @@ Ankylosing spondylitis (AS) is an inflammatory disorder that presents with arthr
 
 > Describes many ways to decrease gut inflammation
 
-   * VitaminDWiki: A <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">gut-friendly form of vitamin D</a> should be used whenever there is gut inflammation
+   * VitaminDWiki: A [gut-friendly form of vitamin D](/posts/gut-friendly-vitamin-d) should be used whenever there is gut inflammation
 
    * Note - In May 2015 a person mentioned to VitaminDWiki the gut problems with Ankylosing Spondylitis
 

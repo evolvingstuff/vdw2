@@ -46,4 +46,4 @@ PMID: 22481708
 
 ## Follow-up Random Controlled Trial by same authors
 
-* <a href="/posts/venous-ulcers-became-much-smaller-with-weekly-50000-iu-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3462">Venous ulcers became much smaller with weekly 50000 IU vitamin D – RCT Oct 2012</a>
+* [Venous ulcers became much smaller with weekly 50000 IU vitamin D – RCT Oct 2012](/tags/venous-ulcers-became-much-smaller-with-weekly-50000-iu-vitamin-d-rct-oct-2012.html)

@@ -82,7 +82,7 @@ PMID: 26165222
 ---
 
  **Wonder how many years it will take for researchers to consider adding Vitamin D to increase human spinal fusion?    
-Wonder also if they will try adding <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Vitamin K2</a> - which helps build bones.  Henry Lahore, Oct 2015** 
+Wonder also if they will try adding [Vitamin K2](/posts/overview-vitamin-k-and-vitamin-d) - which helps build bones.  Henry Lahore, Oct 2015** 
 
 Note: [Spinal fusion was increased in rats given vitamin D](http://www.ncbi.nlm.nih.gov/pubmed/25627287) - Spine April 2015
 
@@ -90,8 +90,8 @@ Note: [Spinal fusion was increased in rats given vitamin D](http://www.ncbi.nlm.
 
 ## See also VitaminDWiki
 
-*  **<a href="/posts/spinal-fusion-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spinal fusion and Vitamin D - several studies">Spinal fusion and Vitamin D - several studies</a>** 
+*  **[Spinal fusion and Vitamin D - several studies](/posts/spinal-fusion-and-vitamin-d-several-studies)** 
 
-* <a href="/posts/spinal-fusion-patients-often-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spinal fusion patients often low on vitamin D - Nov 2011">Spinal fusion patients often low on vitamin D - Nov 2011</a>
+* [Spinal fusion patients often low on vitamin D - Nov 2011](/posts/spinal-fusion-patients-often-low-on-vitamin-d)
 
-* <a href="/posts/nonunion-after-elective-foot-or-ankle-reconstruction-8-times-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nonunion after elective foot or ankle reconstruction 8 times more likely if low vitamin D – May 2017">Nonunion after elective foot or ankle reconstruction 8 times more likely if low vitamin D – May 2017</a>
+* [Nonunion after elective foot or ankle reconstruction 8 times more likely if low vitamin D – May 2017](/posts/nonunion-after-elective-foot-or-ankle-reconstruction-8-times-more-likely-if-low-vitamin-d)

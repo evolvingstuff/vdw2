@@ -58,11 +58,11 @@ Skaaby T1, Husemoen LL, Thuesen BH, Pisinger C, Hannemann A, Jørgensen T, Linne
 
  **See also VitaminDWiki** 
 
-<a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+[Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-<a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a>
+[Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)
 
-<a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+[Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 </div>
 
@@ -114,7 +114,7 @@ PMID: 26024976
 
 1. Brock, K, Huang, WY, Fraser, DR, Ke, L, Tseng, M, Stolzenberg-Solomon, R (2010)
 
-> Low vitamin D status is associated with physical inactivity, obesity and low vitamin D intake in a large US sample of healthy middle-aged men and women. J. Steroid Biochem. Mol. Biol. 121: pp. 462-466 CrossRef <a href="/posts/79-percent-of-middle-aged-americans-had-less-than-32-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 79 percent of middle aged Americans had less than 32 ng of vitamin D – July 2010">__~~#00F:VitaminDWiki~~__</a>
+> Low vitamin D status is associated with physical inactivity, obesity and low vitamin D intake in a large US sample of healthy middle-aged men and women. J. Steroid Biochem. Mol. Biol. 121: pp. 462-466 CrossRef [__~~#00F:VitaminDWiki~~__](/posts/79-percent-of-middle-aged-americans-had-less-than-32-ng-of-vitamin-d)
 
 1. Greene-Finestone, LS, Berger, C, Groh, M, Hanley, DA, Hidiroglou, N, Sarafin, K (2011)
 

@@ -133,7 +133,7 @@ However, our gut bacteria do have this pathway, so it can affect the gut microbi
 
 > Which includes a PDF summary of scientific studies
 
-* <a href="/posts/monsanto-banned-from-eu-parliament-they-refused-to-respond-to-glosophate-safety-questions" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monsanto banned from EU parliament (they refused to respond to Glosophate safety questions) – Oct 2017">Monsanto banned from EU parliament (they refused to respond to Glosophate safety questions) – Oct 2017</a>
+* [Monsanto banned from EU parliament (they refused to respond to Glosophate safety questions) – Oct 2017](/posts/monsanto-banned-from-eu-parliament-they-refused-to-respond-to-glosophate-safety-questions)
 
 * [Off topic: Roundup may be source of many medical problem increases - April 2013](/posts/off-topic-roundup-may-be-source-of-many-medical-problem-increases)
 
@@ -171,7 +171,7 @@ However, our gut bacteria do have this pathway, so it can affect the gut microbi
 
 * [20 X more Parkinson's and 100X more Autism with GMO soy in China](/posts/20-x-more-parkinsons-and-100x-more-autism-with-gmo-soy-in-china)  over a 20 year time period
 
-* <a href="/posts/off-topic-13-x-increase-of-glyphosate-in-urine-in-23-years-jama" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic: 13 X increase of Glyphosate in urine in 23 years – JAMA Oct 2017">Off topic: 13 X increase of Glyphosate in urine in 23 years – JAMA Oct 2017</a>
+* [Off topic: 13 X increase of Glyphosate in urine in 23 years – JAMA Oct 2017](/posts/off-topic-13-x-increase-of-glyphosate-in-urine-in-23-years-jama)
 
 </div>
 
@@ -420,4 +420,4 @@ https://doi.org/10.1093/humrep/dey303 free PDF
 
 Glyphosate depletes glutathione, and anti-oxidants like Vitamin C restore glutathione.
 
-* Note <a href="/posts/vitamin-d-increases-glutathione-a-great-antioxidant-which-fights-covid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D increases Glutathione (a great antioxidant) which fights COVID">Vitamin D increases Glutathione (a great antioxidant) which fights COVID</a>
+* Note [Vitamin D increases Glutathione (a great antioxidant) which fights COVID](/posts/vitamin-d-increases-glutathione-a-great-antioxidant-which-fights-covid)

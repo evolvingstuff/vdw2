@@ -45,4 +45,4 @@ PMID: 24772087
 
 * [Comparing Vitamin D and analogs for kidney patients – May 2013](/posts/comparing-vitamin-d-and-analogs-for-kidney-patients)
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Who said vitamin D could not be patented">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)

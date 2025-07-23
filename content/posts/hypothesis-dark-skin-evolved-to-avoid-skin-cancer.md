@@ -172,9 +172,9 @@ Electronic supplementary material is available at http://dx.doi.org/10.1098/rspb
 
 ### See also VitaminDWiki
 
-* <a href="/posts/evolution-and-vitamin-d-omega-3-obesity-mitochondria-dna-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Evolution and Vitamin D, Omega-3, obesity, mitochondria, DNA, etc. – Feb 2019">Evolution and Vitamin D, Omega-3, obesity, mitochondria, DNA, etc. – Feb 2019</a>
+* [Evolution and Vitamin D, Omega-3, obesity, mitochondria, DNA, etc. – Feb 2019](/posts/evolution-and-vitamin-d-omega-3-obesity-mitochondria-dna-etc)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [Cancer - Skin](/posts/cancer-skin) Category listing with associated searches
 
@@ -182,14 +182,14 @@ Electronic supplementary material is available at http://dx.doi.org/10.1098/rspb
 
 * [Hypothesis: vitamin D suppresses skin cancer – Sept 2012](/posts/hypothesis-vitamin-d-suppresses-skin-cancer)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/skin-color-may-not-be-entirely-related-to-amount-of-sunshine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin color may not be entirely related to amount of sunshine">Skin color may not be entirely related to amount of sunshine</a> blog posts from 2008
+* [Skin color may not be entirely related to amount of sunshine](/posts/skin-color-may-not-be-entirely-related-to-amount-of-sunshine) blog posts from 2008
 
 * [Vitamin D, Sunlight and Cancer Connection – Holick Jan 2013](/posts/vitamin-d-sunlight-and-cancer-connection-holick)
 
-* <a href="/posts/human-skin-pigmentation-migration-and-disease-susceptibility" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Human skin pigmentation, migration and disease susceptibility – Mar 2012">Human skin pigmentation, migration and disease susceptibility – Mar 2012</a>  Jablonski
+* [Human skin pigmentation, migration and disease susceptibility – Mar 2012](/posts/human-skin-pigmentation-migration-and-disease-susceptibility)  Jablonski
 
-* <a href="/posts/skin-color-and-vitamin-d-jablonski-spring-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin color and vitamin D – Jablonski – Spring 2012">Skin color and vitamin D – Jablonski – Spring 2012</a> which has the following map
+* [Skin color and vitamin D – Jablonski – Spring 2012](/posts/skin-color-and-vitamin-d-jablonski-spring-2012) which has the following map
 
 <img src="/attachments/d3.mock.jpg" alt="image">

@@ -45,6 +45,6 @@ Milovanovic OZ, Milovanovic JR, Djukic A, Matovic M, Lucic AT, Glumbic N, Radova
 
 > Study a lot + lots of air polution +want lighter skin ==> very llow levels of vitamin D
 
-* <a href="/posts/ultra-orthodox-jews-also-suffer-from-10-ng-vitamin-d-levels-cloth" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultra-orthodox Jews also suffer from 10 ng vitamin D levels (cloth) – Nov 2010">Ultra-orthodox Jews also suffer from 10 ng vitamin D levels (cloth) – Nov 2010</a>
+* [Ultra-orthodox Jews also suffer from 10 ng vitamin D levels (cloth) – Nov 2010](/posts/ultra-orthodox-jews-also-suffer-from-10-ng-vitamin-d-levels-cloth)
 
 > Study at lot + lots of heavy clothing

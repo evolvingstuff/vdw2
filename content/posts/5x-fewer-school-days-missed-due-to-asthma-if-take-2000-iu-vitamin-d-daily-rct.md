@@ -35,7 +35,7 @@ Conor P. Kerley1,2,4,*, Katrina Hutchinson3, Liam Cormican4, John Faul4, Peter G
 
 * [Asthma in 3 year olds decreased somewhat with 4,000 IU during pregnancy – RCT Jan 2016](/posts/asthma-in-3-year-olds-decreased-somewhat-with-4000-iu-during-pregnancy-rct)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Vitamin D Deficiency is a Strong Predictor (4X) of Asthma in Children – Oct 2012](/posts/vitamin-d-deficiency-is-a-strong-predictor-4x-of-asthma-in-children)
 

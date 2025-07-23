@@ -60,7 +60,7 @@ In conclusion, the present study evaluated the vitamin D status using a reliable
 
 #### See also VitaminDWiki
 
-* <a href="/posts/most-chinese-have-less-than-20-ng-level-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Most Chinese have less than 20 ng level of Vitamin D - meta-analysis Aug 2021">Most Chinese have less than 20 ng level of Vitamin D - meta-analysis Aug 2021</a>
+* [Most Chinese have less than 20 ng level of Vitamin D - meta-analysis Aug 2021](/posts/most-chinese-have-less-than-20-ng-level-of-vitamin-d-meta-analysis)
 
 * [2000 IU vitamin D not enough to get most Chinese to 20 ng level – RCT Feb 2015](/posts/2000-iu-vitamin-d-not-enough-to-get-most-chinese-to-20-ng-level-rct)
 

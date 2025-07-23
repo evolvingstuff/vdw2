@@ -106,7 +106,7 @@ Conclusion: The incidence of 25(OH)D values above 50 ng/mL increased significant
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Is too much vitamin D bad – possible causes and cures](/posts/is-too-much-vitamin-d-bad-possible-causes-and-cures)
 
@@ -118,9 +118,9 @@ Conclusion: The incidence of 25(OH)D values above 50 ng/mL increased significant
 
 > Australians are also increasing vitamin D - thus ignoring the recommendations of their government. as well
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a> - all govt recommendations are ridiculously low
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng) - all govt recommendations are ridiculously low
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a>
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)
 
 </div>
 

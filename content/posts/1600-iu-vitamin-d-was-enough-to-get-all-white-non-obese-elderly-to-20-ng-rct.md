@@ -58,6 +58,6 @@ Highest| | 50 ng||
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
-* <a href="/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some seniors do not repond to 1600 IU of vitamin D">Some seniors do not repond to 1600 IU of vitamin D</a>
+* [Some seniors do not repond to 1600 IU of vitamin D](/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d)

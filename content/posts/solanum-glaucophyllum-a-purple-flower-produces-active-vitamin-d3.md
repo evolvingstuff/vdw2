@@ -146,8 +146,8 @@ Reducing cation-anion difference of diets (DCAD) fed just before parturition can
 
 * [Pre-cursor of active vitamin D made from plants is better than calcitriol – Sept 2012](/posts/pre-cursor-of-active-vitamin-d-made-from-plants-is-better-than-calcitriol) many of the same authors as Dec 2013 publication
 
-* <a href="/posts/plants-and-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plants and UVB">Plants and UVB</a>
+* [Plants and UVB](/posts/plants-and-uvb)
 
 * [Get active vitamin D by eating Solanum Glaucophyllum leaves – Sept 2013](/posts/get-active-vitamin-d-by-eating-solanum-glaucophyllum-leaves)
 
-* <a href="/posts/some-plants-accumulate-vitamin-d3-or-active-vitamin-d3-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018">Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018</a>
+* [Some plants accumulate Vitamin D3 or active Vitamin D3 (calcitriol) – Dec 2018](/posts/some-plants-accumulate-vitamin-d3-or-active-vitamin-d3-calcitriol)

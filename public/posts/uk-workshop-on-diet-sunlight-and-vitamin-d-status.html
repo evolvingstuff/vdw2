@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>UK workshop on diet, sunlight, and vitamin D status</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>UK workshop on diet, sunlight, and vitamin D status</h1><time>June 9, 2010</time><div data-pagefind-body><p> </p><h1 id=uk-food-standards-agency-workshop-report-an-investigation-of-the-relative-contributions-of-diet-and-sunlight-to-vitamin-d-status>UK Food Standards Agency Workshop Report: an investigation of the relative contributions of diet and sunlight to vitamin D status.</h1><p>Br J Nutr. 2010 Jun 4:1-9.</p><p>Ashwell M, Stone EM, Stolte H, Cashman KD, Macdonald H, Lanham-New S, Hiom S, Webb A, Fraser D.</p><p>Ashwell Associates Limited, Ashwell Street, Ashwell, Hertfordshire SG7 5PZ, UK.</p><p>The UK Food Standards Agency (FSA) convened an international group of scientific experts to review three Agency-funded projects commissioned to provide evidence for the relative contributions of two sources, dietary vitamin D intake and skin exposure to UVB rays from sunlight, to vitamin D status.</p><p>This review and other emerging evidence are intended to inform any future risk assessment undertaken by the Scientific Advisory Committee on Nutrition. Evidence was presented from randomised controlled trials to quantify the amount of vitamin D required to maintain a serum 25-hydroxy vitamin D (25OHD) concentration >25 nmol/l, a threshold that is regarded internationally as defining the risk of rickets and osteomalacia.</p><p>Longitudinal evidence was also provided on summer sunlight exposure required to maintain 25OHD levels above this threshold in people living in the British Isles (latitude 51 degrees -57 degrees N).</p><p>Data obtained from multi-level modelling of these longitudinal datasets showed that UVB exposure (i.e. season) was the major contributor to changes in 25OHD levels; this was a consistent finding in two Caucasian groups in the north and south of the UK, but was less apparent in the one group of British women of South Asian origin living in the south of the UK.</p><p>The FSA-funded research suggested that the typical daily intake of vitamin D from food contributed less than UVB exposure to average year-round 25OHD levels in both Caucasian and Asian women.</p><p>The low vitamin D status of Asian women has been acknowledged for some time, but the <strong>limited seasonal variation in Asian women is a novel finding</strong> .</p><p>The Workshop also considered the dilemma of balancing the risks of vitamin D deficiency (from lack of skin exposure to sunlight in summer) and skin cancer (from excessive exposure to sunlight with concomitant sunburn and erythema).</p><p>Cancer Research UK advises that individuals should stay below their personal sunburn threshold to minimise their skin cancer risk. The evidence suggests that vitamin D can be produced in summer at the latitude of the UK, with minimal risk of erythema and cell damage, by exposing the skin to sunlight for a short period at midday, when the intensity of UVB is at its daily peak.</p><p>The implications of the new data were discussed in the context of dietary reference values for vitamin D for the general population aged 4-64 years. Future research suggestions included further analysis of the three FSA-funded studies as well as new research. PMID: 20522274</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&amp;sort_mode=created_desc">All items in Far From Equator</a> 83 items as of July 2011</p></li><li><p><a href=/tags/vitamin-d-in-the-uk.html>Vitamin D in the UK</a> = VitaminDAsssociation</p></li><li><p><a href=/posts/vitamin-d-uk-45-year-olds>Vitamin D UK 45 year olds</a> by Hyppönen</p></li><li><p><a href=/tags/sunlight-robbery-gilles-nov-2010.html>Sunlight Robbery - Gilles Nov 2010</a> full text</p></li><li><p><a href=/posts/uk-elderly-need-vitamin-d-86-percent-less-than-30-ng>UK elderly need vitamin D – 86 percent less than 30 ng - Jan 2010</a></p></li><li><p><a href=/posts/uk-summers-are-not-long-enough-to-re-stock-vitamin-d>UK summers are not long enough to re-stock vitamin D – Aug 2010</a></p></li><li><p><a href=/tags/scotland-and-vitamin-d.html>Scotland and Vitamin D</a></p></li><li><p><a href=/posts/overview-deficiency-of-vitamin-d>Overview Deficiency of vitamin D</a></p></li><li><p><a href=/posts/uk-survey-of-vitamin-d-knowledge-of-midwives-2011>UK survey of vitamin D knowledge of midwives - 2011</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/far-from-equator.html><span class=tag>Far from equator</span></a>
+<a href=/tags/rickets.html><span class=tag>rickets</span></a>
+<a href=/tags/skin-cancer.html><span class=tag>skin cancer</span></a>
+<a href=/tags/sun.html><span class=tag>Sun</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>blood levels, bone, bone cancer, cancer, Far from equator, rickets, skin cancer, Sun, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

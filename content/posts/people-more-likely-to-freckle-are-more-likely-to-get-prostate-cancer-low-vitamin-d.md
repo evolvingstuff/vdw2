@@ -81,10 +81,10 @@ necessary before we can be certain of their importance.
 
 * [Search VitaminDWiki for Proxy](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=proxy&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 160 items as of Jan 2015
 
-* <a href="/posts/skin-fairness-red-hair-both-associated-with-poor-health-perhaps-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019">Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019</a>
+* [Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019](/posts/skin-fairness-red-hair-both-associated-with-poor-health-perhaps-low-vitamin-d)
 
 * [Fewer heart attacks, hip fractures and deaths if more skin cancer – Sept 2013](/posts/fewer-heart-attacks-hip-fractures-and-deaths-if-more-skin-cancer)
 
 * [Search VitaminDWiki for Freckle](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=freckle&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 58 items as of Jan 2015
 
-* <a href="/posts/redhead-red-hair-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Redhead – Red hair - vitamin D">Redhead – Red hair - vitamin D</a>
+* [Redhead – Red hair - vitamin D](/posts/redhead-red-hair-vitamin-d)

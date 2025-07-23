@@ -64,25 +64,25 @@ Capsules are available commercially in both 20,000 and 50,000 amounts
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 691">Overview MS and Vitamin D</a>
+* [Overview MS and Vitamin D](/posts/overview-ms-and-vitamin-d)
 
 > Most agree that > 20 ng is needed to reduce MS relapses
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">Overview How Much vitamin D</a>
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d)
 
-* <a href="/posts/pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Pregnancy and Vitamin D</a>
+* [Pregnancy and Vitamin D](/tags/pregnancy-and-vitamin-d.html)
 
 > needed 6400 IU daily to get mothers to 50 nanograms
 
-* <a href="/posts/lost-cost-in-many-forms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">Lost cost in many forms</a> including 20,000 and 50,000
+* [Lost cost in many forms](/tags/lost-cost-in-many-forms.html) including 20,000 and 50,000
 
-* <a href="/posts/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough</a>
+* [Is  **<span style="color:#690;">50 ng</span>**  too high, just right, or not enough](/tags/is-span-stylecolor69050-ngspan-too-high-just-right-or-not-enough.html)
 
-* <a href="/posts/published-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations</a> which has the following recommendation ranges
+* [Published Recommendations](/tags/published-recommendations.html) which has the following recommendation ranges
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 400px;">
 
-<a href="/posts/span-stylecolor093click-here-for-detailsspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1225"><span style="color:#093;">CLICK HERE for details</span></a>
+[<span style="color:#093;">CLICK HERE for details</span>](/tags/span-stylecolor093click-here-for-detailsspan.html)
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 

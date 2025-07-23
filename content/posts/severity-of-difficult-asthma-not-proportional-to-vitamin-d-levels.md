@@ -99,6 +99,6 @@ Conclusion Vitamin D deficiency is highly prevalent in the Difficult Asthma grou
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1433">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* <a href="/posts/no-association-between-low-level-of-vitamin-d-and-severity-of-asthma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1163">No association between low level of vitamin D and severity of Asthma – Nov 2010</a> similar conclusion from same Journal 2 years earlier
+* [No association between low level of vitamin D and severity of Asthma – Nov 2010](/posts/no-association-between-low-level-of-vitamin-d-and-severity-of-asthma) similar conclusion from same Journal 2 years earlier

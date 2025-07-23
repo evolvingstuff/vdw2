@@ -136,17 +136,17 @@ Mark J Bolland, associate professor1, Alison Avenell, professor2, Andrew Grey, a
 
 * [Vitamin D prevents falls – majority of meta-analyses conclude – meta-meta analysis Feb 2015](/posts/vitamin-d-prevents-falls-majority-of-meta-analyses-conclude-meta-meta-analysis)
 
-* <a href="/posts/task-force-for-senior-fall-prevention-finally-recommends-800-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Task force for senior fall prevention finally recommends 800 IU of vitamin D – May 2012">Task force for senior fall prevention finally recommends 800 IU of vitamin D – May 2012</a>
+* [Task force for senior fall prevention finally recommends 800 IU of vitamin D – May 2012](/posts/task-force-for-senior-fall-prevention-finally-recommends-800-iu-of-vitamin-d)
 
  **A few other items of interest** 
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 71 as of Aug 2016
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 71 as of Aug 2016
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a> the 10th reason is my favorite
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d) the 10th reason is my favorite
 
 > <span style="color:#00F;">"It is difficult to get a man to understand something when his salary is dependent upon his not understanding it” </span> 
 
-* <a href="/posts/over-100-health-problems-preventedtreated-by-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3381">Over 100 health problems prevented/treated by vitamin D</a> List with links to all of the papers
+* [Over 100 health problems prevented/treated by vitamin D](/tags/over-100-health-problems-preventedtreated-by-vitamin-d.html) List with links to all of the papers
 
 * Huge decrease in many health problems as increase vitamin D 
 

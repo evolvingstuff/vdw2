@@ -43,7 +43,7 @@ There were simultaneous translations between Polish and English.
 
 <div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/review-of-vitamin-d-minimum-maximum-optimum-conference-of-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of “Vitamin D - Minimum, Maximum, Optimum” conference of 2017 – May 2019">Review of “Vitamin D - Minimum, Maximum, Optimum” conference of 2017 – May 2019</a>
+* [Review of “Vitamin D - Minimum, Maximum, Optimum” conference of 2017 – May 2019](/posts/review-of-vitamin-d-minimum-maximum-optimum-conference-of-2017)
 
 </div>
 

@@ -48,23 +48,23 @@ The rate of hip fracture has increased 5X for those of the same age.
 
 *  **Vitamin D3**  - which maintains 
 
-> <a href="/posts/bone-density" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2366">bone density</a>
+> [bone density](/tags/bone-density.html)
 
-> <a href="/posts/muscle-reaction-time" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 278">muscle reaction time</a>
+> [muscle reaction time](/tags/muscle-reaction-time.html)
 
-> <a href="/posts/muscle-strength" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1035">muscle strength</a>
+> [muscle strength](/tags/muscle-strength.html)
 
-> and thus reduces [Falls and fractures](/categories/falls-and-fractures) 
+> and thus reduces [Falls and fractures](/posts/falls-and-fractures) 
 
-* <a href="/posts/vitamin-k2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Vitamin K2</a> (which maintains bone density)
+* [Vitamin K2](/tags/vitamin-k2.html) (which maintains bone density)
 
-* [Magnesium](/categories/magnesium) (which maintains bone density)
+* [Magnesium](/tags/magnesium.html) (which maintains bone density)
 
 ## See also VitaminDWiki
 
 * [2X to 3X higher hip fracture rate in Asia in past 30 years – Aug 2012](/posts/2x-to-3x-higher-hip-fracture-rate-in-asia-in-past-30-years)
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
 - - - - - - - - - - - - - - - - - - - - - 
 

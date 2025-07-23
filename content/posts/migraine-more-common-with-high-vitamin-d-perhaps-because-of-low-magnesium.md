@@ -75,6 +75,6 @@ Accurate role of vitamin D deficiency in headache is unknown.[191 The main mecha
 
 ## See also VitaminDWiki
 
-* <a href="/posts/migraines-may-be-due-to-lack-of-lack-of-magnesium-in-half-of-sufferers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Migraines may be due to lack of lack of Magnesium in half of sufferers – May 2012">Migraines may be due to lack of lack of Magnesium in half of sufferers – May 2012</a>
+* [Migraines may be due to lack of lack of Magnesium in half of sufferers – May 2012](/posts/migraines-may-be-due-to-lack-of-lack-of-magnesium-in-half-of-sufferers)
 
-* <a href="/posts/headache-with-vitamin-d-may-mean-you-need-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Headache with vitamin D may mean you need Magnesium">Headache with vitamin D may mean you need Magnesium</a>
+* [Headache with vitamin D may mean you need Magnesium](/posts/headache-with-vitamin-d-may-mean-you-need-magnesium)

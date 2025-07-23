@@ -135,9 +135,9 @@ Randomised, double-blind, parallel, placebo-controlled study of oral glucosamine
 
 ## See also VitaminDWiki
 
-* <a href="/posts/primates-nutrient-requirements-2003" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Primates Nutrient Requirements – 2003">Primates Nutrient Requirements – 2003</a> includes Vitamin D, Vitamin K,  **Sulfur** , Iodine, Magnesium, and many others
+* [Primates Nutrient Requirements – 2003](/posts/primates-nutrient-requirements-2003) includes Vitamin D, Vitamin K,  **Sulfur** , Iodine, Magnesium, and many others
 
-* <a href="/posts/from-nutrient-requirements-of-dairy-cattle-seventh-2001" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2040">From Nutrient Requirements of Dairy Cattle: Seventh — 2001</a> Includes Vitamin D, Vitamin K,  **Sulfur** , Iodine, Magnesium, and many others
+* [From Nutrient Requirements of Dairy Cattle: Seventh — 2001](/tags/from-nutrient-requirements-of-dairy-cattle-seventh-2001.html) Includes Vitamin D, Vitamin K,  **Sulfur** , Iodine, Magnesium, and many others
 
 ## See also web
 

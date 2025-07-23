@@ -149,9 +149,9 @@ Which may provide as much response and as fast response as spray at much lower c
 
 #### See  also VitaminDWiki
 
-* <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D">Sublingual vitamin D</a>
+* [Sublingual vitamin D](/posts/sublingual-vitamin-d)
 
-* <a href="/posts/sublingual-vitamin-d-gave-similar-response-as-oral-for-most-and-better-for-some-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sublingual vitamin D gave similar response as oral for most, and better for some – RCT Sept 2019">Sublingual vitamin D gave similar response as oral for most, and better for some – RCT Sept 2019</a>
+* [Sublingual vitamin D gave similar response as oral for most, and better for some – RCT Sept 2019](/posts/sublingual-vitamin-d-gave-similar-response-as-oral-for-most-and-better-for-some-rct)
 
 * [Spray vitamin D inside cheek in case of emergency - Nov 2012](/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency)
 
@@ -161,9 +161,9 @@ Which may provide as much response and as fast response as spray at much lower c
 
 * [Topical vitamin D might be more bio-available than oral – Oct 2015](/posts/topical-vitamin-d-might-be-more-bio-available-than-oral)
 
-* <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a>
+* [Gut-Friendly Vitamin D](/posts/gut-friendly-vitamin-d)
 
-* <a href="/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alternatives if not swallow pills or not absorb vitamin D">Alternatives if not swallow pills or not absorb vitamin D</a>
+* [Alternatives if not swallow pills or not absorb vitamin D](/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d)
 
 * [Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014](/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct)
 
@@ -171,7 +171,7 @@ Which may provide as much response and as fast response as spray at much lower c
 
 * [Vitamin D bioavailability: State of the art – Oct 2014](/posts/vitamin-d-bioavailability-state-of-the-art)
 
-* <a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a>
+* [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
 * [Oil-based Vitamin D3 has the worst bioavailability – April 2014](/posts/oil-based-vitamin-d3-has-the-worst-bioavailability)
 

@@ -73,6 +73,6 @@ Wonder what the results would have been if the non-MS had 30, 40, or even 50 nan
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 720">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
-* <a href="/posts/novel-roles-of-vitamin-d-in-disease-what-is-new-in-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1893">Novel roles of vitamin D in disease: What is new in 2011</a> by lead author
+* [Novel roles of vitamin D in disease: What is new in 2011](/posts/novel-roles-of-vitamin-d-in-disease-what-is-new-in-2011) by lead author

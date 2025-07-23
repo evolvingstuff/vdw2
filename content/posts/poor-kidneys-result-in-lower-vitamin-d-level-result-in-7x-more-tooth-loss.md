@@ -50,8 +50,8 @@ This study indicates a relationship between serum cystatin C levels and number o
 
 ## See also VitaminDWiki
 
-* <a href="/posts/diseases-which-are-related-due-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1817">Diseases which are related due to vitamin D deficiency</a>
+* [Diseases which are related due to vitamin D deficiency](/tags/diseases-which-are-related-due-to-vitamin-d-deficiency.html)
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 There are many ways of maintining or increasing vitamin D levels in blood even when kidneys are not functioning well.

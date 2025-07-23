@@ -66,7 +66,7 @@ PMID: 25121616
 
 ## See also VitaminDWiki
 
-* [Trauma and surgery](/categories/trauma-and-surgery) category listing with associated searches
+* [Trauma and surgery](/posts/trauma-and-surgery) category listing with associated searches
 
 * [Almost 6X more likely to die after coronary bypass if vitamin D deficient – Dec 2012](/posts/almost-6x-more-likely-to-die-after-coronary-bypass-if-vitamin-d-deficient) 
 

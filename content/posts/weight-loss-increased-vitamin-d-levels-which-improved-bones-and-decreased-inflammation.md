@@ -39,11 +39,11 @@ Idoia Ibero-Baraibara, , Santiago Navas-Carreteroa, b, , Itziar Abetec, , J.A. M
 
 * [Dieters lost 5 more pounds if achieved more than 32 ng of vitamin D – RCT March 2014](/posts/dieters-lost-5-more-pounds-if-achieved-more-than-32-ng-of-vitamin-d-rct)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Inflammatory diseases: review of vitamin D, with many tables – May 2014](/posts/inflammatory-diseases-review-of-vitamin-d-with-many-tables)
 
-* <a href="/posts/inflammation-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inflammation and Vitamin D several studies">Inflammation and Vitamin D several studies</a>
+* [Inflammation and Vitamin D several studies](/tags/inflammation-and-vitamin-d-several-studies.html)
 
 </div>
 

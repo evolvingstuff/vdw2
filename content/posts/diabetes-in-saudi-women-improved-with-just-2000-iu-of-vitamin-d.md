@@ -76,6 +76,6 @@ Yet, this "suboptimal" supplementation significantly improved lipid profile with
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/can-vitamin-d-treat-diabetes-many-articles" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1294">Can Vitamin D TREAT Diabetes - many articles</a>  **<span style="color:#F00;">TREAT</span>** , not just prevent
+* [Can Vitamin D TREAT Diabetes - many articles](/posts/can-vitamin-d-treat-diabetes-many-articles)  **<span style="color:#F00;">TREAT</span>** , not just prevent

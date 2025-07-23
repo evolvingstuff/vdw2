@@ -53,13 +53,13 @@ Latitude had no effect on the vitamin D3 (P=0.21) or 25OHD3 (P=0.29) content of 
 
 * [Free-range bacon has 2800 IU of vitamin D per 100 grams](/posts/free-range-bacon-has-2800-iu-of-vitamin-d-per-100-grams)
 
-* <a href="/posts/free-range-eggs-have-4x-as-much-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Free range eggs have 4X as much vitamin D">Free range eggs have 4X as much vitamin D</a>
+* [Free range eggs have 4X as much vitamin D](/posts/free-range-eggs-have-4x-as-much-vitamin-d)
 
-* <a href="/posts/a-fish-a-day-keeps-the-doctor-away-japan-2002" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A fish a day keeps the doctor away – Japan 2002">A fish a day keeps the doctor away – Japan 2002</a>
+* [A fish a day keeps the doctor away – Japan 2002](/posts/a-fish-a-day-keeps-the-doctor-away-japan-2002)
 
-* <a href="/posts/free-range-lard-has-500-iu-vitamin-d-per-teaspoon" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Free range" lard has 500 IU vitamin D per teaspoon">"Free range" lard has 500 IU vitamin D per teaspoon</a>
+* ["Free range" lard has 500 IU vitamin D per teaspoon](/posts/free-range-lard-has-500-iu-vitamin-d-per-teaspoon)
 
-* <a href="/posts/eskimos-evolved-to-get-and-limit-vitamin-d-from-food" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Eskimos evolved to get and limit Vitamin D from food">Eskimos evolved to get and limit Vitamin D from food</a> 
+* [Eskimos evolved to get and limit Vitamin D from food](/posts/eskimos-evolved-to-get-and-limit-vitamin-d-from-food) 
 
 * [Vitamin D from animal products - July 2013](/posts/vitamin-d-from-animal-products)
 

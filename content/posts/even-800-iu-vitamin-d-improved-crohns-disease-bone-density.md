@@ -64,28 +64,28 @@ Higher age, male sex, low BMI, and a higher age at diagnosis of CD were associat
 
 * [All items in Gut and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=94&sort_mode=created_desc) 28 items as of July 2012
 
-* <a href="/posts/about-40-percent-more-likely-to-get-crohns-disease-or-uc-if-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2713">About 40 % more likely to get Crohn’s Disease or UC if have low vitamin D – March 2012</a>
+* [About 40 % more likely to get Crohn’s Disease or UC if have low vitamin D – March 2012](/posts/about-40-percent-more-likely-to-get-crohns-disease-or-uc-if-have-low-vitamin-d)
 
-* <a href="/posts/crohns-disease-kids-are-2x-more-likely-to-have-low-vitamin-d-intervention-helps" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2582">Crohn's disease kids are 2X more likely to have low vitamin D, intervention helps – April 2012</a>
+* [Crohn's disease kids are 2X more likely to have low vitamin D, intervention helps – April 2012](/posts/crohns-disease-kids-are-2x-more-likely-to-have-low-vitamin-d-intervention-helps)
 
-* <a href="/posts/crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1582">Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011</a>
+* [Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011](/posts/crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d)
 
-* <a href="/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2305">VA found less testing for vitamin D resulted in increased health costs – Jan 2012</a>
+* [VA found less testing for vitamin D resulted in increased health costs – Jan 2012](/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs)
 
-* <a href="/posts/ibd-and-crohn-but-not-colitis-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1621">IBD and Crohn but not Colitis associated with low vitamin D – May 2011</a>
+* [IBD and Crohn but not Colitis associated with low vitamin D – May 2011](/posts/ibd-and-crohn-but-not-colitis-associated-with-low-vitamin-d)
 
-* <a href="/posts/extra-vitamin-d-needed-for-crohns" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 80">Extra Vitamin D needed for Crohns</a>
+* [Extra Vitamin D needed for Crohns](/posts/extra-vitamin-d-needed-for-crohns)
 
 * [Vitamin D Fights Crohn's Disease Mercola Feb 2010](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=730) file
 
-* <a href="/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 305">Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010</a>
+* [Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010](/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3)
 
-* <a href="/posts/ibd-uc-and-cd-at-risk-of-being-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1684">IBD UC and CD at risk of being vitamin D deficient</a>
+* [IBD UC and CD at risk of being vitamin D deficient](/posts/ibd-uc-and-cd-at-risk-of-being-vitamin-d-deficient)
 
-* <a href="/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 305">Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010</a>
+* [Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010](/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3)
 
-* <a href="/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1681">Vitamin D might reduce military costs for UC and CD – June 2011</a>
+* [Vitamin D might reduce military costs for UC and CD – June 2011](/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd)
 
-* <a href="/posts/gut-doctors-becoming-aware-of-importance-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2779">Gut doctors becoming aware of importance of vitamin D – May 2012</a> which has the following chart
+* [Gut doctors becoming aware of importance of vitamin D – May 2012](/posts/gut-doctors-becoming-aware-of-importance-of-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Breast Cancer associated with low vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Breast Cancer associated with low vitamin D</h1><time>September 10, 2010</time><div data-pagefind-body><h1 id=serum-25oh-vitamin-d-and-risk-of-breast-cancer-a-nested-case-control-study-from-the-french-e3n-cohort>Serum 25(OH) Vitamin D and Risk of Breast Cancer: A Nested Case-Control Study from the French E3N Cohort</h1><p>Cancer Epidemiology, Biomarkers & Prevention September 2010, 19 (9)</p><ol><li><p>Pierre Engel1,2,</p></li><li><p>Guy Fagherazzi1,2,</p></li><li><p>Anne Boutten3,</p></li><li><p>Thierry Dupré3,</p></li><li><p>Sylvie Mesrine1,2,</p></li><li><p>Marie-Christine Boutron-Ruault1,2 and</p></li><li><p>Françoise Clavel-Chapelon1,2</p></li></ol><p>Authors&rsquo; Affiliations:1Institut National de la Santé et de la Recherche Médicale U1018, Center for Research in Epidemiology and Population Health; 2Université Paris-Sud, Villejuif Cedex, France; and 3Biochemistry Laboratory of Hospital Bichat, Assistance Publique des Hôpitaux de Paris, Paris, France</p><ol><li>Corresponding Author:</li></ol><p>Françoise Clavel-Chapelon, Team 9: Nutrition, Hormones, and Women&rsquo;s Health, Center for Research in Epidemiology and Population Health—Institut National de la Santé et de la Recherche Médicale U1018, Institut Gustave Roussy, 39 Rue Camille Desmoulins, 94805 Villejuif Cedex, France. Phone: 33-14211-4148; Fax: 33-14211-4000. E-mail: <a href=mailto:clavel@igr.fr>clavel@igr.fr</a></p><p>Note: P. Engel and G. Fagherazzi contributed equally to this work.</p><p>Background: High 25-hydroxyvitamin D <span>[25(OH)D]</span> serum concentrations have been found to be associated with reduced breast cancer risk. However, few studies have further investigated this relationship according to menopausal status, nor have they taken into account factors known to influence vitamin D status, such as dietary and serum calcium, parathyroid hormone, and estradiol serum levels.</p><p>Methods: We designed a nested case-control study within the French E3N cohort. Cases were women diagnosed with incident breast cancer (n = 636). Controls (n = 1,272) were matched with cases on age, menopausal status at blood collection, age at menopause, and center and year of blood collection. Multivariate logistic regression models were established.</p><p>Results: We found a decreased risk of breast cancer with increasing 25(OH) vitamin D3 serum concentrations (odds ratio, 0.73; 95% confidence interval, 0.55-0.96; P trend = 0.02) among women in the highest tertile. We also observed a significant inverse association restricted to women under 53 years of age at blood sampling <span>[odds ratio (T3 versus T1), 0.60; 95% confidence interval, 0.37-0.98; P trend = 0.04]</span>. In premenopausal women, the risk was also decreased, although not significantly.</p><p>Conclusion: Our findings support a decreased risk of breast cancer associated with high 25(OH) vitamin D3 serum concentrations, especially in younger women, although we were unable to confirm a direct influence of age or menopausal status.</p><p>Impact: Randomized intervention trials with vitamin D supplementation are required to confirm its benefits on breast cancer risk, but the maintenance of adequate vitamin D levels should be encouraged by public health policy. Cancer Epidemiol Biomarkers Prev; 19(9); 2341–50. ©2010 AACR.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>Breast Cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>breast cancer, Breast Cancer, cancer, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

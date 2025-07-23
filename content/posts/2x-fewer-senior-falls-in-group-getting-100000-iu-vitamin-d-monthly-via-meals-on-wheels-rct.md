@@ -92,13 +92,13 @@ The powder from the capsules can be easily added to food/drink, as it has no tas
 
 * [13 reasons why many seniors need more vitamin D (both dose and level) - July 2023](/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D ">Overview Fractures and Falls and Vitamin D </a>
+* [Overview Fractures and Falls and Vitamin D ](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Seniors need at least 4,000 IU vitamin D, no test needed – Consensus Jan 2014](/posts/seniors-need-at-least-4000-iu-vitamin-d-no-test-needed-consensus) which would be 120,000 IU/month
 
 * [Vitamin D may prevent falls and fractures without Calcium – an overview of 9 meta-analysis – Oct 2012](/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis)
 
-* <a href="/posts/39-percent-fewer-falls-with-2000-iu-than-800-iu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 39% fewer falls with 2000 IU than 800 IU – RCT June 2010">39% fewer falls with 2000 IU than 800 IU – RCT June 2010</a> 
+* [39% fewer falls with 2000 IU than 800 IU – RCT June 2010](/posts/39-percent-fewer-falls-with-2000-iu-than-800-iu-rct) 
 
 > 39% for 60,000 IU monthly, vs 50% for 100,000 IU monthly in current study 
 

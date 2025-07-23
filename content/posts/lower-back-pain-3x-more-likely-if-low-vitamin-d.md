@@ -38,7 +38,7 @@ Lecturest@yahoo.com (A. M. M. Elgaml), Ysalama2005@yahoo.com (A. R. Alzyat)
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:400px">
 
-[Back Pain](/categories/back-pain)
+[Back Pain](/posts/back-pain)
 
 [Back pain cured with vitamin D – Book May 2014](/posts/back-pain-cured-with-vitamin-d-book)
 

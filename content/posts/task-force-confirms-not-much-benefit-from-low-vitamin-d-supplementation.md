@@ -50,7 +50,7 @@
 
 *  **Also**  The few people who do get a test, supplement, then have no need to get another test
 
-* Some who supplement are <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">low or non-responders</a>  and will get another vitamin D test when they do not feel a benefit
+* Some who supplement are [low or non-responders](/posts/reasons-for-low-response-to-vitamin-d)  and will get another vitamin D test when they do not feel a benefit
 
 > - They become a biased data source  
 
@@ -58,7 +58,7 @@
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * [Vitamin D measurements vary with the same sample of blood – March 2014](/posts/vitamin-d-measurements-vary-with-the-same-sample-of-blood)
 
@@ -68,7 +68,7 @@
 
 * [No vitamin D test needed before supplementing (typically) – April 2014](/posts/no-vitamin-d-test-needed-before-supplementing-typically)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a> lots of excellent studies - when use > 2,000 IU of vitamin D
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d) lots of excellent studies - when use > 2,000 IU of vitamin D
 
 * [Virtually everyone needs more vitamin D](/posts/vitamin-d-update-40-60-ng-ideal-50k-biweekly-maintenance)
 
@@ -76,11 +76,11 @@
 
 > &nbsp; &nbsp; &nbsp; &nbsp;that rare individual can just stop taking it - with no long-term consequence
 
-* [Mortality](/categories/mortality) scores of studies have found strong association between low vitamin D and increased mortality
+* [Mortality](/tags/mortality.html) scores of studies have found strong association between low vitamin D and increased mortality
 
 > Mortality studies are typically very long term/expensive/ unethical? - so do not expect  to see them for a long time, if ever
 
-> Vitamin D INTERVENTION proven to reduce short-term mortality have come from [ICU studies](/categories/trauma-and-surgery) -published in JAMA, etc.
+> Vitamin D INTERVENTION proven to reduce short-term mortality have come from [ICU studies](/posts/trauma-and-surgery) -published in JAMA, etc.
 
 * [20X increase in vitamin D sold and 36 percent decrease in osteoporosis business in Australia – Nov 2013](/posts/20x-increase-in-vitamin-d-sold-and-36-percent-decrease-in-osteoporosis-business-in-australia)
 
@@ -88,7 +88,7 @@
 
 * [Vitamin D levels are dropping rapidly – what you need to do](/posts/vitamin-d-levels-are-dropping-rapidly-what-you-need-to-do)
 
-* <a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
+* [VA showed increased vitamin D associated with lower health costs - Lancet May 2012](/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet)
 
 * [Of the few who needed a second vitamin D test only 20 percent had became sufficient – Aug 2014](/posts/of-the-few-who-needed-a-second-vitamin-d-test-only-20-percent-had-became-sufficient)
 
@@ -98,7 +98,7 @@
 
 * [No longer debating vitamin D supplementation, now debating need for testing first – April 2013](/posts/no-longer-debating-vitamin-d-supplementation-now-debating-need-for-testing-first)
 
-* <a href="/posts/vitamin-d-testing-rarely-justified" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D testing rarely justified – Feb 2012">Vitamin D testing rarely justified – Feb 2012</a>
+* [Vitamin D testing rarely justified – Feb 2012](/posts/vitamin-d-testing-rarely-justified)
 
 * [Task Force issued idea earlier - requested comments](/posts/there-have-been-no-studies-of-vitamin-d-testing-resulting-in-less-disease-so-tas-e-be-no-testing)
 
@@ -136,7 +136,7 @@ Contact: Ana Fullmer at Newsroom@USPSTF.net / (202) 350-6668 www.uspreventiveser
 
 * [Benefits of regular vitamin D tests unproven](http://www.ctvnews.ca/health/benefits-of-regular-vitamin-d-tests-unproven-study-1.2117823)
 
-> VitaminDWiki would add to the title: - but <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Benefits of Vitamin D supplementation has been proven</a>
+> VitaminDWiki would add to the title: - but [Benefits of Vitamin D supplementation has been proven](/posts/proof-that-vitamin-d-works)
 
 ---
 

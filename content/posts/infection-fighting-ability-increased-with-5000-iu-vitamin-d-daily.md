@@ -52,4 +52,4 @@ PMID: 25861808
 
 * [Vitamin D can probably augment or replace many vaccines – March 2015](/posts/vitamin-d-can-probably-augment-or-replace-many-vaccines)
 
-* <a href="/posts/reducing-vitamin-d-reduces-cathelicidin-which-reduces-immunity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reducing vitamin D reduces cathelicidin which reduces immunity">Reducing vitamin D reduces cathelicidin which reduces immunity</a>
+* [Reducing vitamin D reduces cathelicidin which reduces immunity](/posts/reducing-vitamin-d-reduces-cathelicidin-which-reduces-immunity)

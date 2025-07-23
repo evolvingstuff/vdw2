@@ -30,7 +30,7 @@
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tasmania-uv-index-map.jpg" alt="image">
 
-### Tasmanis gets even <a href="/posts/less-uv-than-hawaii" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1853">less UV than Hawaii</a>
+### Tasmanis gets even [less UV than Hawaii](/tags/less-uv-than-hawaii.html)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/png/uv-index-hawaii.png" alt="image">
 

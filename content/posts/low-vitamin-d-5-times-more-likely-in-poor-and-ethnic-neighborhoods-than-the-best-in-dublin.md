@@ -35,13 +35,13 @@
 
 * [Why India's vitamin D deficiency is grim - 40 pages Feb 2014](/posts/why-indias-vitamin-d-deficiency-is-grim-40-pages)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Vitamin D deficiency diseases in dark skinned people living far from equator – Meta-analysis Oct 2013](/posts/vitamin-d-deficiency-diseases-in-dark-skinned-people-living-far-from-equator-meta-analysis)
 
 * [78 percent of pregnant immigrants in Sweden had less than 10 ng low vitamin D – Nov 2013](/posts/78-percent-of-pregnant-immigrants-in-sweden-had-less-than-10-ng-low-vitamin-d)
 
-* <a href="/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Do blacks have a 5 year life penalty due to low vitamin D">Do blacks have a 5 year life penalty due to low vitamin D</a>
+* [Do blacks have a 5 year life penalty due to low vitamin D](/posts/do-blacks-have-a-5-year-life-penalty-due-to-low-vitamin-d)
 
 * [Diabetes (Type 1) 14X more likely in dark skin children with low levels of vitamin D – May 2015](/posts/diabetes-type-1-14x-more-likely-in-dark-skin-children-with-low-levels-of-vitamin-d)
 
@@ -49,7 +49,7 @@
 
 * [Vitamin D supplementation in Ireland - big increase in people with 20-50 nanograms in 20 years – June 2015](/posts/vitamin-d-supplementation-in-ireland-big-increase-in-people-with-20-50-nanograms-in-20-years)
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a> dark skinned AND heavily clothed
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d) dark skinned AND heavily clothed
 
 </div>
 

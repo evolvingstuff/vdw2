@@ -49,17 +49,17 @@
 
 * 2) Suicide peaks in the Spring, when vitamin D values are lowest
 
-* 3) Suicide has increased while vitamin D has been <a href="/posts/crashing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 10189">crashing</a>
+* 3) Suicide has increased while vitamin D has been [crashing](/tags/crashing.html)
 
 * 4) Suicide higher in dark-skinned individuals (low vitamin D due to built-in sun protection)
 
 * 5) Suicide higher in prison (shut-ins have low levels of vitamin D)
 
-* 6) <a href="/posts/suicide-attempts-by-males-37-x-more-likely-if-poor-vitamin-d-gene-cyp24a1" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Suicide attempts by males 3.7 X more likely if poor Vitamin D gene (CYP24A1) – Oct 2021">Suicide attempts by males 3.7 X more likely if poor Vitamin D gene (CYP24A1) – Oct 2021</a>
+* 6) [Suicide attempts by males 3.7 X more likely if poor Vitamin D gene (CYP24A1) – Oct 2021](/posts/suicide-attempts-by-males-37-x-more-likely-if-poor-vitamin-d-gene-cyp24a1)
 
 * 7) Suicide rate is higher at high latitudes (where vitamin D is less available)
 
-> See <a href="/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Criteria to associate a health problem with low vitamin D">Criteria to associate a health problem with low vitamin D</a>
+> See [Criteria to associate a health problem with low vitamin D](/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d)
 
 <!-- ~tc~ end ~/tc~ -->
 

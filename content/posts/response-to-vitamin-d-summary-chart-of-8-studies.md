@@ -60,21 +60,21 @@ The Dr. Heaney has provided an excellent chart which was used in the publication
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a> which includes
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response) which includes
 
 > Need 14,100 IU/d to get 97.5% of the population above 50 ng/ml
 
 > Half of seniors did not respond to 1600 IU of vitamin D daily for a year 
 
-* <a href="/posts/is-span-stylecolorf0050-ngspan-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is  **<span style="color:#F00;">50 ng</span>**  of vitamin D too high, just right, or not enough</a> which includes the following notional graph
+* [Is  **<span style="color:#F00;">50 ng</span>**  of vitamin D too high, just right, or not enough](/tags/is-span-stylecolorf0050-ngspan-of-vitamin-d-too-high-just-right-or-not-enough.html) which includes the following notional graph
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
-* <a href="/posts/how-to-2x-the-response-to-vitamin-d-supplements" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">How to 2X the response to vitamin D supplements</a>
+* [How to 2X the response to vitamin D supplements](/tags/how-to-2x-the-response-to-vitamin-d-supplements.html)
 
-* <a href="/posts/dose-response-equation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 441">Dose response equation</a> square root of IU
+* [Dose response equation](/tags/dose-response-equation.html) square root of IU
 
-* <a href="/posts/vitamin-d-levels-vs-weight-rct" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3553">Vitamin D levels vs weight – RCT Dec 2012</a>
+* [Vitamin D levels vs weight – RCT Dec 2012](/tags/vitamin-d-levels-vs-weight-rct-dec-2012.html)
 
 * [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
 

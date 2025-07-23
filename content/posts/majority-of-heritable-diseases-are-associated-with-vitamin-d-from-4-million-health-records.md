@@ -90,7 +90,7 @@
 
 > Note: Association can be due to low blood levels and/or poor Vitamin D genes
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
 * [Autoimmune disease clusters run in families (polyautoimmunity) are associated with low vitamin D](/posts/autoimmune-disease-clusters-run-in-families-polyautoimmunity-are-associated-with-low-vitamin-d)
 

@@ -45,13 +45,13 @@
 
 #### Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019
 
- **see VitaminDWiki <a href="/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019">Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019</a>** 
+ **see VitaminDWiki [Preterm Births reduced by Omega-3, Zinc, and Vitamin D – Aug 2019](/posts/preterm-births-reduced-by-omega-3-zinc-and-vitamin-d)** 
 
 ---
 
 #### Preterm Births decreased by Omega-3 (analysis of 184 countries) – April 2019
 
- **see VitaminDWiki  <a href="/posts/preterm-births-decreased-by-omega-3-analysis-of-184-countries" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm Births decreased by Omega-3 (analysis of 184 countries) – April 2019">Preterm Births decreased by Omega-3 (analysis of 184 countries) – April 2019</a>** 
+ **see VitaminDWiki  [Preterm Births decreased by Omega-3 (analysis of 184 countries) – April 2019](/posts/preterm-births-decreased-by-omega-3-analysis-of-184-countries)** 
 
 ---
 

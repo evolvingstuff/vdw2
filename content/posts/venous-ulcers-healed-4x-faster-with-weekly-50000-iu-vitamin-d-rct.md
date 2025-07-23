@@ -87,9 +87,9 @@ Placebo: 1 - 24.5/27 = 9%
 
 Suspect that had the vitamin D deficiency been previously treated that there would have been fewer leg ulcers.
 
-Suspect that many of the leg ulcers were those of <a href="/posts/diabetics-who-typically-have-a-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">diabetics - who typically have a low level of vitamin D</a>
+Suspect that many of the leg ulcers were those of [diabetics - who typically have a low level of vitamin D](/tags/diabetics-who-typically-have-a-low-level-of-vitamin-d.html)
 
-## A <a href="/posts/previous-paper-on-same-study-by-the-same-authors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3130">previous paper on same study by the same authors</a>  had the following graphic and caption
+## A [previous paper on same study by the same authors](/tags/previous-paper-on-same-study-by-the-same-authors.html)  had the following graphic and caption
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/ulcers.jpg" alt="image">
 
@@ -107,11 +107,11 @@ They also use more clothes in order to avoid the unpleasant odor and bad aesthet
 
 #### See also VitaminDWiki
 
-* <a href="/posts/hard-to-heal-wounds-associated-with-low-vitamin-d-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hard-to-heal Wounds associated with low vitamin D – review June 2021">Hard-to-heal Wounds associated with low vitamin D – review June 2021</a>
+* [Hard-to-heal Wounds associated with low vitamin D – review June 2021](/posts/hard-to-heal-wounds-associated-with-low-vitamin-d-review)
 
-* <a href="/posts/70-percent-of-some-skin-problems-resolved-with-7100-iu-vitamin-d-50000-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1413">70 % of some skin problems resolved with 7100 IU vitamin D (50000 weekly) – Jan 2011</a>
+* [70 % of some skin problems resolved with 7100 IU vitamin D (50000 weekly) – Jan 2011](/posts/70-percent-of-some-skin-problems-resolved-with-7100-iu-vitamin-d-50000-weekly)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Proof that Vitamin D Works</a>
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
 * [Search VitaminDWiki for ulcers skin (both words)](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=ulcer+skin&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 164 items as of May 2017
 

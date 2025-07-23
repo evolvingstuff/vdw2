@@ -45,27 +45,27 @@
 
 * Many believe that the vitamin D dose should be proportional to weight, so even more would be needed as child gets older.
 
-> <a href="/posts/span-stylecolor00f100-iu-per-kg-of-infantspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1757"> **<span style="color:#00F;">100 IU per kg of infant</span>** </a> July 2011, Poland etc.
+> [ **<span style="color:#00F;">100 IU per kg of infant</span>** ](/tags/span-stylecolor00f100-iu-per-kg-of-infantspan.html) July 2011, Poland etc.
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
 * [Why are so many Victorian killer illnesses making a comeback - Nov 2012](/posts/why-are-so-many-victorian-killer-illnesses-making-a-comeback)
 
-* <a href="/posts/moved123" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: moved123">moved123</a>
+* [moved123](/tags/moved123.html)
 
-* <a href="/posts/uk-pediatricians-have-a-lot-to-learn-about-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UK pediatricians have a lot to learn about vitamin D – May 2012">UK pediatricians have a lot to learn about vitamin D – May 2012</a>
+* [UK pediatricians have a lot to learn about vitamin D – May 2012](/posts/uk-pediatricians-have-a-lot-to-learn-about-vitamin-d)
 
-* <a href="/posts/death-of-babies-in-uk-due-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death of Babies in UK due to vitamin D deficiency – Jan 2012">Death of Babies in UK due to vitamin D deficiency – Jan 2012</a>
+* [Death of Babies in UK due to vitamin D deficiency – Jan 2012](/posts/death-of-babies-in-uk-due-to-vitamin-d-deficiency)
 
-* <a href="/posts/nutritional-rickets-in-denmark-especially-among-immigrant-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nutritional Rickets in Denmark especially among immigrant children- Feb 2012">Nutritional Rickets in Denmark especially among immigrant children- Feb 2012</a>
+* [Nutritional Rickets in Denmark especially among immigrant children- Feb 2012](/posts/nutritional-rickets-in-denmark-especially-among-immigrant-children)
 
-* <a href="/posts/more-vitamin-d-more-height-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More vitamin D, more height - many studies">More vitamin D, more height - many studies</a>
+* [More vitamin D, more height - many studies](/posts/more-vitamin-d-more-height-many-studies)
 
-* <a href="/posts/chief-uk-medical-officer-recommends-only-280-iu-for-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chief UK Medical Officer recommends only 280 IU for children - Jan 2011">Chief UK Medical Officer recommends only 280 IU for children - Jan 2011</a>
+* [Chief UK Medical Officer recommends only 280 IU for children - Jan 2011](/posts/chief-uk-medical-officer-recommends-only-280-iu-for-children)
 
 * [93% of newborns of military in Hawaii had low vitamin D – March 2013](/posts/93-percent-of-newborns-of-military-in-hawaii-had-low-vitamin-d)  a very sunny climate
 
@@ -73,7 +73,7 @@
 
 * [Vitamin D3 far better than D2 at raising infant vitamin D blood levels – Dec 2012](/posts/vitamin-d3-far-better-than-d2-at-raising-infant-vitamin-d-blood-levels)
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a> **Liquid form is great for breastfeeding or bottle feeding** 
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk) **Liquid form is great for breastfeeding or bottle feeding** 
 
 * [Reminder – 400 IU is enough only when infant already had a good level of vitamin D – Nov 2012](/posts/reminder-400-iu-is-enough-only-when-infant-already-had-a-good-level-of-vitamin-d)
 

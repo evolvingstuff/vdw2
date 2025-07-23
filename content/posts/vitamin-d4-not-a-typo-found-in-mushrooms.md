@@ -36,4 +36,4 @@ PMID: 22870201
 
 ## Very little is known about vitamin D4 =22-dihydroergocalciferol
 
-* <a href="/posts/the-many-forms-of-vitamin-d-in-the-blood" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2356">The many forms of vitamin D in the blood</a>
+* [The many forms of vitamin D in the blood](/posts/the-many-forms-of-vitamin-d-in-the-blood)

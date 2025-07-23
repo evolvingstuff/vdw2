@@ -95,17 +95,17 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-and-light-conference" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and light conference – June 2019">Vitamin D and light conference – June 2019</a>
+* [Vitamin D and light conference – June 2019](/posts/vitamin-d-and-light-conference)
 
 * [Is this better than Vitamin D - sunlight (Wunsch, Mercola) - March 2015](/posts/is-this-better-than-vitamin-d-sunlight-wunsch-mercola)
 
-* <a href="/posts/exposing-some-blood-to-ultraviolet-light-has-treated-various-health-problems-the-tics-came-along" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Exposing some blood to Ultraviolet light has treated various health problems, then antibiotics came along – April 2016">Exposing some blood to Ultraviolet light has treated various health problems, then antibiotics came along – April 2016</a>
+* [Exposing some blood to Ultraviolet light has treated various health problems, then antibiotics came along – April 2016](/posts/exposing-some-blood-to-ultraviolet-light-has-treated-various-health-problems-the-tics-came-along)
 
-* <a href="/posts/uv-produces-more-than-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV produces more than vitamin D – Aug 2011">UV produces more than vitamin D – Aug 2011</a>
+* [UV produces more than vitamin D – Aug 2011](/posts/uv-produces-more-than-vitamin-d)
 
-* <a href="/posts/ultraviolet-light-in-human-health-diseases-and-environment-book-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultraviolet Light in Human Health, Diseases and Environment - book 2017">Ultraviolet Light in Human Health, Diseases and Environment - book 2017</a>
+* [Ultraviolet Light in Human Health, Diseases and Environment - book 2017](/posts/ultraviolet-light-in-human-health-diseases-and-environment-book-2017)
 
-* <a href="/posts/vitamin-d-and-sun-conference-germany" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Sun conference – Germany June 2017">Vitamin D and Sun conference – Germany June 2017</a>
+* [Vitamin D and Sun conference – Germany June 2017](/posts/vitamin-d-and-sun-conference-germany)
 
 * [Many wavelengths of light provide health benefits, not just UV – March 2016](/posts/many-wavelengths-of-light-provide-health-benefits-not-just-uv)
 

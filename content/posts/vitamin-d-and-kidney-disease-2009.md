@@ -39,4 +39,4 @@ PMID:    20077598
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a> Reminder: poor Kidney functioning can reduce activation of vitamin D
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d) Reminder: poor Kidney functioning can reduce activation of vitamin D

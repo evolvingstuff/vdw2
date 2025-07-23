@@ -350,72 +350,72 @@
 | | |
 | --- | --- |
 |  **Views**  |  **Title of page**  |
-| 226,787 | <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a> |
-| 190,867 | <a href="/posts/no-longer-easily-bruised-due-to-vitamins-probably-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No longer easily bruised: due to vitamins, probably vitamin D">No longer easily bruised: due to vitamins, probably vitamin D</a> |
+| 226,787 | [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d) |
+| 190,867 | [No longer easily bruised: due to vitamins, probably vitamin D](/posts/no-longer-easily-bruised-due-to-vitamins-probably-vitamin-d) |
 | 159,303 | [50,000 IU of Vitamin D every 2 weeks reduced gestational diabetes – RCT Feb 2015](/posts/50000-iu-of-vitamin-d-every-2-weeks-reduced-gestational-diabetes-rct) |
 | 155,713 | [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need) |
-| 128,682 | <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> |
-| 125,964 | <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D bulb for use in the home - or perhaps office">Vitamin D bulb for use in the home - or perhaps office</a> |
+| 128,682 | [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) |
+| 125,964 | [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office) |
 | 124,546 | [Does Less Sun mean More Disease](/posts/does-less-sun-mean-more-disease) |
-| 121,585 | <a href="/posts/vitamin-d-reduces-hair-loss-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces hair loss - many studies">Vitamin D reduces hair loss - many studies</a> |
-| 118,297 | <a href="/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hearing Loss appears to be prevented and treated with vitamin D">Hearing Loss appears to be prevented and treated with vitamin D</a> |
-| 113,924 | <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson's and Vitamin D</a> |
-| 111,331 | <a href="/posts/migraine-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Migraine and Vitamin D">Migraine and Vitamin D</a> |
-| 104,840 | <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a> |
+| 121,585 | [Vitamin D reduces hair loss - many studies](/posts/vitamin-d-reduces-hair-loss-many-studies) |
+| 118,297 | [Hearing Loss appears to be prevented and treated with vitamin D](/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d) |
+| 113,924 | [Overview Parkinson's and Vitamin D](/posts/overview-parkinsons-and-vitamin-d) |
+| 111,331 | [Migraine and Vitamin D](/posts/migraine-and-vitamin-d) |
+| 104,840 | [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency) |
 | 99,998 | [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d) |
-| 98,889 | <a href="/posts/overview-hyperparathyroidism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hyperparathyroidism and vitamin D">Overview Hyperparathyroidism and vitamin D</a> |
-| 97,080 | <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a> |
-| 91,532 | <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a> |
-| 90,766 | <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a> |
+| 98,889 | [Overview Hyperparathyroidism and vitamin D](/posts/overview-hyperparathyroidism-and-vitamin-d) |
+| 97,080 | [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d) |
+| 91,532 | [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies) |
+| 90,766 | [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) |
 | 89,800 | [Vitamin D content of over 400 types of food](/posts/vitamin-d-content-of-over-400-types-of-food) |
-| 88,612 | <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a> |
-| 84,777 | <a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">Overview Influenza and vitamin D</a> |
+| 88,612 | [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution) |
+| 84,777 | [Overview Influenza and vitamin D](/posts/overview-influenza-and-vitamin-d) |
 | 83,859 | [Gestational Diabetes reduced with 50,000 IU of vitamin D every 3 weeks and daily Calcium – RCT June 2014](/posts/gestational-diabetes-reduced-with-50000-iu-of-vitamin-d-every-3-weeks-and-daily-calcium-rct) |
-| 82,052 | <a href="/posts/shingles-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shingles and vitamin D">Shingles and vitamin D</a> |
-| 81,955 | <a href="/posts/mental-illness-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental Illness and Vitamin D">Mental Illness and Vitamin D</a> |
-| 81,311 | <a href="/posts/shin-splints-decrease-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shin splints decrease with vitamin D">Shin splints decrease with vitamin D</a> |
-| 81,048 | <a href="/posts/vitamin-d-cure-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Cure- book">Vitamin D Cure- book</a> |
-| 80,422 | <a href="/posts/als-fought-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALS fought by vitamin D - many studies">ALS fought by vitamin D - many studies</a> |
+| 82,052 | [Shingles and vitamin D](/posts/shingles-and-vitamin-d) |
+| 81,955 | [Mental Illness and Vitamin D](/posts/mental-illness-and-vitamin-d) |
+| 81,311 | [Shin splints decrease with vitamin D](/posts/shin-splints-decrease-with-vitamin-d) |
+| 81,048 | [Vitamin D Cure- book](/posts/vitamin-d-cure-book) |
+| 80,422 | [ALS fought by vitamin D - many studies](/posts/als-fought-by-vitamin-d-many-studies) |
 | 77,387 | [Chronic Hives treated by Vitamin D - many studies](/posts/chronic-hives-treated-by-vitamin-d-many-studies) |
-| 77,097 | <a href="/posts/some-people-have-problems-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some people have problems with vitamin D">Some people have problems with vitamin D</a> |
-| 75,650 | <a href="/posts/raynauds-pain-decreased-with-600000-iu-monthly-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Raynaud's pain decreased with 600,000 IU monthly vitamin D – RCT May 2012">Raynaud's pain decreased with 600,000 IU monthly vitamin D – RCT May 2012</a> |
+| 77,097 | [Some people have problems with vitamin D](/posts/some-people-have-problems-with-vitamin-d) |
+| 75,650 | [Raynaud's pain decreased with 600,000 IU monthly vitamin D – RCT May 2012](/posts/raynauds-pain-decreased-with-600000-iu-monthly-vitamin-d-rct) |
 | 74,882 | [Respiratory infections reduced by 63 percent with 4000 IU vitamin D daily - RCT Dec 2012](/posts/respiratory-infections-reduced-by-63-percent-with-4000-iu-vitamin-d-daily-rct) |
 | 74,526 | [Restless Legs Syndrome - Vitamin D, Iron, etc. - many studies](/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies) |
 | 74,473 | [Military and Vitamin D - many studies](/posts/military-and-vitamin-d-many-studies) |
-| 73,978 | <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a> |
-| 68,420 | <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a> |
-| 62,469 | <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a> |
-| 58,853 | <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a> |
-| 57,432 | <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> |
+| 73,978 | [Sepsis is both prevented and treated by Vitamin D - many studies](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies) |
+| 68,420 | [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d) |
+| 62,469 | [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d) |
+| 58,853 | [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests) |
+| 57,432 | [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) |
 | 55,042 | [60,000 IU vitamin D weekly with daily Calcium was safe but not enough in the winter – 2012](/posts/60000-iu-vitamin-d-weekly-with-daily-calcium-was-safe-but-not-enough-in-the-winter-2012) |
 | 54,881 | [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials) |
 | 53,352 | [Burns, ulcers, and wounds healed by Vitamin D - many studies](/posts/burns-ulcers-and-wounds-healed-by-vitamin-d-many-studies) |
-| 53,006 | <a href="/posts/hypothesis-fatigue-the-day-after-sex-is-due-to-deficiency-of-vitamin-d-magnesium-and-zinc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc">Hypothesis – Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc</a> |
-| 52,504 | <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D">Overview Cholesterol and vitamin D</a> |
-| 51,747 | <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a> |
-| 51,159 | <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a> |
-| 50,202 | <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a> |
+| 53,006 | [Hypothesis – Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc](/posts/hypothesis-fatigue-the-day-after-sex-is-due-to-deficiency-of-vitamin-d-magnesium-and-zinc) |
+| 52,504 | [Overview Cholesterol and vitamin D](/posts/overview-cholesterol-and-vitamin-d) |
+| 51,747 | [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d) |
+| 51,159 | [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d) |
+| 50,202 | [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d) |
 | 45,761 | [Cluster headaches virtually eliminated in 7,000 people with high-dose vitamin D and cofactors - Feb 2022](/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors) |
-| 43,637 | <a href="/posts/headache-with-vitamin-d-may-mean-you-need-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Headache with vitamin D may mean you need Magnesium">Headache with vitamin D may mean you need Magnesium</a> |
-| 43,625 | <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> |
+| 43,637 | [Headache with vitamin D may mean you need Magnesium](/posts/headache-with-vitamin-d-may-mean-you-need-magnesium) |
+| 43,625 | [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d) |
 | 42,258 | [Mental stress, physical stress associations with low vitamin D - many studies](/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies) |
-| 41,705 | <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> |
+| 41,705 | [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) |
 | 40,026 | [Video by Dr. Coimbra – 95 percent of auto-immune cured with vitamin D in high doses - April 2014](/posts/video-by-dr-coimbra-95-percent-of-auto-immune-cured-with-vitamin-d-in-high-doses) |
-| 39,915 | <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium hazards and bioavailability</a> |
-| 39,711 | <a href="/posts/sarcoidosis-rare-problems-when-taking-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sarcoidosis (rare) problems when taking vitamin D - many studies">Sarcoidosis (rare) problems when taking vitamin D - many studies</a> |
-| 39,423 | <a href="/posts/vitamins-to-speed-up-metabolism-and-aid-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamins To Speed Up Metabolism And Aid Weight Loss – May 2011">Vitamins To Speed Up Metabolism And Aid Weight Loss – May 2011</a> |
-| 38,965 | <a href="/posts/can-you-overdose-on-vitamin-d-its-harder-than-you-think" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can You Overdose on Vitamin D - It's Harder Than You Think">Can You Overdose on Vitamin D - It's Harder Than You Think</a> |
-| 38,749 | <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a> |
+| 39,915 | [Calcium hazards and bioavailability](/posts/calcium-hazards-and-bioavailability) |
+| 39,711 | [Sarcoidosis (rare) problems when taking vitamin D - many studies](/posts/sarcoidosis-rare-problems-when-taking-vitamin-d-many-studies) |
+| 39,423 | [Vitamins To Speed Up Metabolism And Aid Weight Loss – May 2011](/posts/vitamins-to-speed-up-metabolism-and-aid-weight-loss) |
+| 38,965 | [Can You Overdose on Vitamin D - It's Harder Than You Think](/posts/can-you-overdose-on-vitamin-d-its-harder-than-you-think) |
+| 38,749 | [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d) |
 | 38,361 | [Food Sources and Vitamin D](/posts/food-sources-and-vitamin-d) |
-| 36,824 | <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> |
-| 35,754 | <a href="/posts/gallbladder-removal-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency">Gallbladder removal and vitamin D deficiency</a> |
-| 34,630 | <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> |
-| 33,694 | <a href="/posts/photosensitivity-sun-allergy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Photosensitivity (sun allergy) and vitamin D">Photosensitivity (sun allergy) and vitamin D</a> |
-| 33,231 | <a href="/posts/vitamin-d-increased-absorption-of-phosphorus-and-calcium-in-steers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D increased absorption of Phosphorus and Calcium in steers – April 2012">Vitamin D increased absorption of Phosphorus and Calcium in steers – April 2012</a> |
+| 36,824 | [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) |
+| 35,754 | [Gallbladder removal and vitamin D deficiency](/posts/gallbladder-removal-and-vitamin-d-deficiency) |
+| 34,630 | [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) |
+| 33,694 | [Photosensitivity (sun allergy) and vitamin D](/posts/photosensitivity-sun-allergy-and-vitamin-d) |
+| 33,231 | [Vitamin D increased absorption of Phosphorus and Calcium in steers – April 2012](/posts/vitamin-d-increased-absorption-of-phosphorus-and-calcium-in-steers) |
 | 32,629 | [Autoimmune disorder patients in Brazil helped by vitamin D – video and Facebook – Nov 2012](/posts/autoimmune-disorder-patients-in-brazil-helped-by-vitamin-d-video-and-facebook) |
-| 32,527 | <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a> |
-| 32,413 | <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a> |
-| 32,208 | <a href="/posts/1500-iu-vitamin-d-minimum-10000-iu-is-safe-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 1500 IU vitamin D minimum - 10,000 IU is safe – review April 2012">1500 IU vitamin D minimum - 10,000 IU is safe – review April 2012</a> |
-| 31,694 | <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a> |
-| 31,287 | <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a> |
-| 30,892 | <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> |
+| 32,527 | [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d) |
+| 32,413 | [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d) |
+| 32,208 | [1500 IU vitamin D minimum - 10,000 IU is safe – review April 2012](/posts/1500-iu-vitamin-d-minimum-10000-iu-is-safe-review) |
+| 31,694 | [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d) |
+| 31,287 | [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d) |
+| 30,892 | [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) |

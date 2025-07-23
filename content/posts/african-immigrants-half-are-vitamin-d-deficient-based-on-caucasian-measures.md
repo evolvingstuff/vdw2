@@ -78,7 +78,7 @@ PMID: 26001560
 
 * [Depression in pregnant blacks strongly associated to vitamin D levels – Nov 2012](/posts/depression-in-pregnant-blacks-strongly-associated-to-vitamin-d-levels)
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies)
 
 * [Colon cancer more likely in blacks due to differences in Vitamin D genes (wonder if more Vitamin D would help) – May 2014](/posts/colon-cancer-more-likely-in-blacks-due-to-differences-in-vitamin-d-genes-wonder--in-d-would-help)
 

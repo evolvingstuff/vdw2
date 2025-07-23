@@ -111,7 +111,7 @@ The papers included should be important to the general population.
 
 They should also cover a range of topics related to vitamin D.
 
-## <a href="/posts/f00click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3667">__~~#F00:CLICK HERE</a> for the winners~~__
+## [__~~#F00:CLICK HERE](/tags/f00click-here.html) for the winners~~__
 
 ### Short list of papers - followed by abstracts
 

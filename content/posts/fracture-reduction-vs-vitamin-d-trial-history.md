@@ -53,4 +53,4 @@ Fig. 2. Dose–response curve, summarizing randomized-control clinical trials of
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)

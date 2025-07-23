@@ -55,12 +55,12 @@ PMID:     23751100
 
 * [Autoimmunity and vitamin D – review Jan 2013](/posts/autoimmunity-and-vitamin-d-review)
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
 * [Dermatologists still not convienced that Vitamin D reduces atopic dermatitis – Review Dec 2013](/posts/dermatologists-still-not-convienced-that-vitamin-d-reduces-atopic-dermatitis-review)
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a> UVA and UVB are often used, 
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d) UVA and UVB are often used, 
 
-> UV may be better than Vitamin D for some diseases, such as <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">MS</a>
+> UV may be better than Vitamin D for some diseases, such as [MS](/posts/overview-ms-and-vitamin-d)
 
-*  **<a href="/posts/atopic-dermatitis-and-eczema-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies">Atopic Dermatitis Overview in VitaminDWiki</a>**
+*  **[Atopic Dermatitis Overview in VitaminDWiki](/posts/atopic-dermatitis-and-eczema-many-studies)**

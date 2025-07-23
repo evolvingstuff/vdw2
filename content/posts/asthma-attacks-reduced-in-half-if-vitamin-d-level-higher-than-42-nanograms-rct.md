@@ -114,10 +114,10 @@ It is amazing that researchers oten still look only at the dose given, and not t
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Allergy to House dust mite greatly reduced by adding just 600 IU of vitamin D – RCT Nov 2014](/posts/allergy-to-house-dust-mite-greatly-reduced-by-adding-just-600-iu-of-vitamin-d-rct)
 
 * [US Clinical Trials](http://clinicaltrials.gov/ct2/results?term=asthma+&recr=&rslt=&type=&cond=&intr=%22vitamin+d%22&outc=&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&gndr=&rcv_s=&rcv_e=&lup_s=&lup_e=) 60 Vitamin D  **intervention trials**  for Asthma as of July 2017
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  **<span style="color:#00F;">Asthma has been proven to be treated by at least 3 Random Controlled trials with Vitamin D intervention</span>**
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  **<span style="color:#00F;">Asthma has been proven to be treated by at least 3 Random Controlled trials with Vitamin D intervention</span>**

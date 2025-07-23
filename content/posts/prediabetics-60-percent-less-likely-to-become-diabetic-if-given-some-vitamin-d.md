@@ -40,4 +40,4 @@ https://doi.org/10.1016/j.diabres.2013.12.044
 
 #### See also VitaminDWiki
 
-* <a href="/posts/prediabetes-both-prevented-and-treated-by-monthly-vitamin-d-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes both prevented and treated by monthly Vitamin D, etc.">Prediabetes both prevented and treated by monthly Vitamin D, etc.</a>
+* [Prediabetes both prevented and treated by monthly Vitamin D, etc.](/posts/prediabetes-both-prevented-and-treated-by-monthly-vitamin-d-etc)

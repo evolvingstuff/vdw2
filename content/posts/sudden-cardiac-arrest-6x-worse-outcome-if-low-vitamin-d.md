@@ -47,17 +47,17 @@ Perhaps the lowest in the world
 
 ### See also VitaminDWiki
 
-* <a href="/posts/cpr-with-low-vitamin-d-10x-more-likely-to-have-poor-outcome-within-3-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CPR with low vitamin D – 10X more likely to have poor outcome within 3 months – Jan 2022">CPR with low vitamin D – 10X more likely to have poor outcome within 3 months – Jan 2022</a>
+* [CPR with low vitamin D – 10X more likely to have poor outcome within 3 months – Jan 2022](/posts/cpr-with-low-vitamin-d-10x-more-likely-to-have-poor-outcome-within-3-months)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/sudden-cardiac-arrest-28-x-higher-risk-if-low-vitamin-d-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sudden Cardiac Arrest – 2.8 X higher risk if low vitamin D – 2019">Sudden Cardiac Arrest – 2.8 X higher risk if low vitamin D – 2019</a>
+* [Sudden Cardiac Arrest – 2.8 X higher risk if low vitamin D – 2019](/posts/sudden-cardiac-arrest-28-x-higher-risk-if-low-vitamin-d-2019)
 
 * [7X increased chance of death if coronary artery disease and low vitamin D – Oct 2013](/posts/7x-increased-chance-of-death-if-coronary-artery-disease-and-low-vitamin-d)
 
 * [Almost 6X more likely to die after coronary bypass if vitamin D deficient – Dec 2012](/posts/almost-6x-more-likely-to-die-after-coronary-bypass-if-vitamin-d-deficient)
 
-* <a href="/posts/far-better-to-take-vitamin-d-than-a-baby-aspirin-to-avoid-heart-problems" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2323">Far better to take Vitamin D than a baby aspirin to avoid heart problems</a>
+* [Far better to take Vitamin D than a baby aspirin to avoid heart problems](/tags/far-better-to-take-vitamin-d-than-a-baby-aspirin-to-avoid-heart-problems.html)
 
 >  **<span style="color:#F00;">baby aspirin reduction < 6% best, Vitamin D decreased death by aobut 100X more</span>** 
 

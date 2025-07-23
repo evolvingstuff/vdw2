@@ -34,10 +34,10 @@ Apparently [Italian pigs](http://www.ieo.it/bda2008/uk/Informativa.aspx) are gen
 
 ## See also VitaminDWiki
 
-* <a href="/posts/free-range-lard-has-500-iu-vitamin-d-per-teaspoon" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1414">Free range lard has 500 IU vitamin D per teaspoon</a>
+* [Free range lard has 500 IU vitamin D per teaspoon](/posts/free-range-lard-has-500-iu-vitamin-d-per-teaspoon)
 
-* <a href="/posts/swine-need-sunshine-or-500-2800-iu-vitamin-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1435">Swine need sunshine or 500-2800 IU vitamin D3</a>
+* [Swine need sunshine or 500-2800 IU vitamin D3](/posts/swine-need-sunshine-or-500-2800-iu-vitamin-d3)
 
-* <a href="/posts/free-range-eggs-have-4x-as-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1975">Free range eggs have 4X as much vitamin D</a>
+* [Free range eggs have 4X as much vitamin D](/posts/free-range-eggs-have-4x-as-much-vitamin-d)
 
 Summer sausage tastes good.  Wonder if it if made from "free range" pigs?

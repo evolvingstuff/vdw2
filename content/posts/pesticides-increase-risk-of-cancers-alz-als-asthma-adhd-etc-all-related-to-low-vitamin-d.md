@@ -60,9 +60,9 @@ Mostafalou S1, Abdollahi M2,3,4. (IRAN)
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/risk-of-severe-adhd-increased-2x-if-multiple-pesticides-in-urine-while-pregnant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of severe ADHD increased 2X if multiple pesticides in urine while pregnant – June 2019">Risk of severe ADHD increased 2X if multiple pesticides in urine while pregnant – June 2019</a>
+* [Risk of severe ADHD increased 2X if multiple pesticides in urine while pregnant – June 2019](/posts/risk-of-severe-adhd-increased-2x-if-multiple-pesticides-in-urine-while-pregnant)
 
-* <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
+* [DDT and other pesticides decrease vitamin D](/posts/ddt-and-other-pesticides-decrease-vitamin-d)
 
 > Interesting: DDT peak use is when the vitamin D deficiency epidemic started
 
@@ -70,11 +70,11 @@ Mostafalou S1, Abdollahi M2,3,4. (IRAN)
 
 * [DDT 3.8 X more prevalent with Alzheimer disease (no mention that DDT decreases vitamin D) – Jan 2014](/posts/ddt-38-x-more-prevalent-with-alzheimer-disease-no-mention-that-ddt-decreases-vitamin-d)
 
-* <a href="/posts/air-pollution-toxins-heavy-metals-and-smoking-each-result-in-lower-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution, toxins, heavy metals and smoking each result in lower Vitamin D levels – Nov 2018">Air pollution, toxins, heavy metals and smoking each result in lower Vitamin D levels – Nov 2018</a>
+* [Air pollution, toxins, heavy metals and smoking each result in lower Vitamin D levels – Nov 2018](/posts/air-pollution-toxins-heavy-metals-and-smoking-each-result-in-lower-vitamin-d-levels)
 
-* <a href="/posts/als-fought-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ALS fought by vitamin D - many studies">ALS fought by vitamin D - many studies</a> ALS 5 X more likely if exposed to pesticides - JAMA May 2016
+* [ALS fought by vitamin D - many studies](/posts/als-fought-by-vitamin-d-many-studies) ALS 5 X more likely if exposed to pesticides - JAMA May 2016
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
 * [If parents exposed to pesticides, genes changed. will need more vitamin D to avoid Prostate Cancer – July 2013](/posts/if-parents-exposed-to-pesticides-genes-changed-will-need-more-vitamin-d-to-avoid-prostate-cancer)
 

@@ -45,7 +45,7 @@ Xinqing Deng (xinqing.deng@vanderbilt.edu) Yiqing Song (ysong3@rics.bwh.harvard.
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> 
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) 
 
 * [Diabetics have problems with low Magnesium, especially if taking statins – Aug 2013](/posts/diabetics-have-problems-with-low-magnesium-especially-if-taking-statins)
 
@@ -55,11 +55,11 @@ Xinqing Deng (xinqing.deng@vanderbilt.edu) Yiqing Song (ysong3@rics.bwh.harvard.
 
 * [Hypothesis: Magnesium accounts for some of the variation in vitamin D response – Oct 2013](/posts/hypothesis-magnesium-accounts-for-some-of-the-variation-in-vitamin-d-response)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a>
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic)
 
 * [Magnesium is needed by Vitamin D in 8 places - 2013](/posts/magnesium-is-needed-by-vitamin-d-in-8-places-2013)
 
-* <a href="/posts/vitamin-d-supplementation-often-needs-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D supplementation often needs Magnesium – May 2017">Vitamin D supplementation often needs Magnesium – May 2017</a> has the following 
+* [Vitamin D supplementation often needs Magnesium – May 2017](/posts/vitamin-d-supplementation-often-needs-magnesium) has the following 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/reddy-t1.jpg" alt="image">
 

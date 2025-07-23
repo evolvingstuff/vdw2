@@ -55,7 +55,7 @@ Conclusions: Anterior tibial tenderness is a valid clinical diagnostic tool for 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a> many groups have associated shinbone tenderness with vitamin D deifciency
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency) many groups have associated shinbone tenderness with vitamin D deifciency
 
 > The study on this page was the first to show that tenderness decreased with vitamin D was restocked
 

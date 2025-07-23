@@ -54,6 +54,6 @@ These findings help to determine the profile of target populations that would mo
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
-* [Falls and Fractures](/categories/falls-and-fractures) category listing with associated searches
+* [Falls and Fractures](/posts/falls-and-fractures) category listing with associated searches

@@ -57,7 +57,7 @@
 
 * [Vitamin D and the anti-viral state – March 2010](/posts/vitamin-d-and-the-anti-viral-state)
 
-* <a href="/posts/influenza-of-1918-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influenza of 1918 and vitamin D - July 2010">Influenza of 1918 and vitamin D - July 2010</a>
+* [Influenza of 1918 and vitamin D - July 2010](/posts/influenza-of-1918-and-vitamin-d)
 
 * [Vitamin D can probably augment or replace many vaccines – March 2015](/posts/vitamin-d-can-probably-augment-or-replace-many-vaccines)
 
@@ -65,7 +65,7 @@
 
 * [Those with HIV who doubled their vitamin D levels reduced their chance of death by 47 percent – Oct 2013 ](/posts/those-with-hiv-who-doubled-their-vitamin-d-levels-reduced-their-chance-of-death-by-47-percent)
 
-* <a href="/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010">Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010</a>
+* [Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010](/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d)
 
 * [Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011](/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-bird-flu-epstein-hepatitis-rsv-etc)
 
@@ -103,8 +103,8 @@
 | First infected portion of body is<br>  Langerhans cells of skin  | YES | YES |
 | Virus is both [RNA and enveloped](https://en.wikipedia.org/wiki/Virus_classification) | YES | YES  |
 | [Vitamin D Receptor](/posts/vitamin-d-receptor) problem <br>2X more likely if get symptoms | ? | ((Dengue Fever associated with poor vitamin D receptor – July 2002  | YES)) |
-| Symptoms more likely if high  BMI <br>&nbsp; &nbsp;<a href="/posts/high-bmi-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7093">High BMI associated with low vitamin D</a> | ?  | [YES](http://www.nejm.org/doi/full/10.1056/NEJMra1110265%20) |
-| Outbreaks associated with rainy periods<br>&nbsp; &nbsp;<a href="/posts/less-sun-less-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 6275">less sun, less vitamin D</a> | ? | YES   |
+| Symptoms more likely if high  BMI <br>&nbsp; &nbsp;[High BMI associated with low vitamin D](/tags/high-bmi-associated-with-low-vitamin-d.html) | ?  | [YES](http://www.nejm.org/doi/full/10.1056/NEJMra1110265%20) |
+| Outbreaks associated with rainy periods<br>&nbsp; &nbsp;[less sun, less vitamin D](/tags/less-sun-less-vitamin-d.html) | ? | YES   |
 
  **? = Unknown: Zika disease is too new to have been studied** 
 
@@ -122,7 +122,7 @@
 
  **<span style="color:#00F;">SUSPECT: Asymptomatic people have  more vitamin D in the cells</span>** 
 
-* Note: Many [genes](/categories/genetics), such as [Vitamin D Receptor](/posts/vitamin-d-receptor) restrict vitamin D in blood from from being used
+* Note: Many [genes](/tags/genes.html), such as [Vitamin D Receptor](/posts/vitamin-d-receptor) restrict vitamin D in blood from from being used
 
 * Note: Taking more Vitamin D resuls in having more vitamin D in cells independant of genes
 

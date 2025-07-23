@@ -81,7 +81,7 @@ PMID: 27142413  **[Publisher wants $40 for the PDF](http://link.springer.com/art
 
 ### See also VitaminDWiki
 
-* <a href="/posts/health-problems-can-persist-through-many-generations-epigenetics-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health problems can persist through many generations – Epigenetics and Vitamin D">Health problems can persist through many generations – Epigenetics and Vitamin D</a>
+* [Health problems can persist through many generations – Epigenetics and Vitamin D](/posts/health-problems-can-persist-through-many-generations-epigenetics-and-vitamin-d)
 
 * [Vitamin D Receptor – environment, genetics and epigenetics – May 2015](/posts/vitamin-d-receptor-environment-genetics-and-epigenetics)
 
@@ -95,9 +95,9 @@ PMID: 27142413  **[Publisher wants $40 for the PDF](http://link.springer.com/art
 
 > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wired.com March 2015: Excerpt from new book "Evolving Ourselves" 
 
-* <a href="/posts/type-i-diabetes-2x-more-likely-if-mother-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type I diabetes 2X more likely if mother had low vitamin D – Jan 2012">Type I diabetes 2X more likely if mother had low vitamin D – Jan 2012</a>
+* [Type I diabetes 2X more likely if mother had low vitamin D – Jan 2012](/posts/type-i-diabetes-2x-more-likely-if-mother-had-low-vitamin-d)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> 
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d) 
 
 * [Epigenetics, vitamin D, and Multiple Sclerosis](/posts/epigenetics-vitamin-d-and-multiple-sclerosis)
 

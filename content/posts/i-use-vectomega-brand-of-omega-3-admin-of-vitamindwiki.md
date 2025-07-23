@@ -28,7 +28,7 @@ The good feeling has continued for years
 
  **Updates   
 2018 - The Vectomega tablet was the last tablet I had been taking  
- Now I grind the tablet up into a powder to take with all of <a href="/posts/my-other-powdered-supplements" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 9922">my other powdered supplements</a> on a daily basis  
+ Now I grind the tablet up into a powder to take with all of [my other powdered supplements](/tags/my-other-powdered-supplements.html) on a daily basis  
 2017: I have never noticed any fishy taste or smell, but a few people have  
  &nbsp; &nbsp;Simple solution - put tablet inside of a 00 size gell capsule  
  &nbsp; &nbsp; 1,000 of the empty gell capsules  cost about $10 on Amazon** 
@@ -65,7 +65,7 @@ The good feeling has continued for years
 
 * (EuroPharma offers Vectomega(R) in raw material or finished tablet form)
 
-<a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Vectomega costs more than all of the rest of my supplements combined</a> 56 cents per day
+[Vectomega costs more than all of the rest of my supplements combined](/posts/low-cost-cofactors-for-vitamin-d) 56 cents per day
 
 ### Personal history of use of Omega-3 by the founder of VitaminDWiki
 
@@ -114,7 +114,7 @@ Increased taking Vectomega to 3 days out of 4, no bleeding nose
 
 * [Vitamin D Cofactors in a nutshell](/posts/vitamin-d-cofactors-in-a-nutshell)
 
-* <a href="/posts/bioavailability-etc-of-omega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bioavailability etc. of Omega-3 – Nov 2018">Bioavailability etc. of Omega-3 – Nov 2018</a>
+* [Bioavailability etc. of Omega-3 – Nov 2018](/posts/bioavailability-etc-of-omega-3)
 
 #### See also web: Omega-3 and phospholipids - other suppliers as well
 

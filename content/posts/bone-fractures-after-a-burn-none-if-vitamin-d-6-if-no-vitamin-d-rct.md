@@ -54,7 +54,7 @@ Unfortunately abstract does not indicate dose size
 
 [Hypothesis: Extensive burns reduce vitamin D, which increase bone loss – Nov 2012](/posts/hypothesis-extensive-burns-reduce-vitamin-d-which-increase-bone-loss)
 
-<a href="/posts/burned-skin-produces-only-about-25-percent-as-much-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Burned skin produces only about 25 percent as much vitamin D – March 2012">Burned skin produces only about 25 percent as much vitamin D – March 2012</a>
+[Burned skin produces only about 25 percent as much vitamin D – March 2012](/posts/burned-skin-produces-only-about-25-percent-as-much-vitamin-d)
 
 </div>
 

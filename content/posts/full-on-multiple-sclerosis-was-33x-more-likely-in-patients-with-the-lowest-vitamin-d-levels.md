@@ -62,7 +62,7 @@ PMID:     23836877
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [Acute Multiple Sclerosis relapse associated with low bone mineral density (low vitamin D) – Oct 2013](/posts/acute-multiple-sclerosis-relapse-associated-with-low-bone-mineral-density-low-vitamin-d)
 

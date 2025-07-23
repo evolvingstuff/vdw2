@@ -71,10 +71,10 @@ Women receiving vitamin D experienced significant increases in serum 25(OH)D, bu
 
 * [Search VitaminDWiki for INFECTION](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=infection&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1080 results as of June 2014
 
-* <a href="/posts/yeast-infection-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Yeast Infection and Vitamin D - many studies">Yeast Infection and Vitamin D - many studies</a>
+* [Yeast Infection and Vitamin D - many studies](/posts/yeast-infection-and-vitamin-d-many-studies)
 
 * [The role of vitamin D in prevention and treatment of infection – Aug 2013](/posts/the-role-of-vitamin-d-in-prevention-and-treatment-of-infection)
 
 * [Vitamin D reduced bacterial infection in cows – RCT Sept 2013](/posts/vitamin-d-reduced-bacterial-infection-in-cows-rct)
 
-* <a href="/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011">Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011</a>
+* [Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection)

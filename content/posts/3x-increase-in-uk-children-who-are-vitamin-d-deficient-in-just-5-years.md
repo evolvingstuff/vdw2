@@ -44,4 +44,4 @@ PMID: 26530579
 
 * [Vitamin D is the only vitamin which is low in Europe – Jan 2013](/posts/vitamin-d-is-the-only-vitamin-which-is-low-in-europe)
 
-* <a href="/posts/vitamin-d-insufficiency-in-uk-youths-37x-more-likely-if-dark-skin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D insufficiency in UK youths – 37X more likely if dark skin – July 2011">Vitamin D insufficiency in UK youths – 37X more likely if dark skin – July 2011</a>
+* [Vitamin D insufficiency in UK youths – 37X more likely if dark skin – July 2011](/posts/vitamin-d-insufficiency-in-uk-youths-37x-more-likely-if-dark-skin)

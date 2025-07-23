@@ -415,7 +415,7 @@ Conclusion: We demonstrated that bioavailable 25(OH)D was associated with sarcop
 
 ---
 
-#### See also: <a href="/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab">Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab</a>
+#### See also: [Muscular Dystrophy probably treated by high-dose Vitamin D plus muscle rehab](/posts/muscular-dystrophy-probably-treated-by-high-dose-vitamin-d-plus-muscle-rehab)
 
 ---
 

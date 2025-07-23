@@ -86,7 +86,7 @@ VitaminDWiki guesses that future versions of this test will allow an estimation 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a> approx $50
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests) approx $50
 
 * [Vitamin D test: 20 dollars via some Walgreens Drug Stores – Oct 2013](/posts/vitamin-d-test-20-dollars-via-some-walgreens-drug-stores)
 

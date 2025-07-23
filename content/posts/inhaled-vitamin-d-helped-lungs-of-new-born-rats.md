@@ -33,9 +33,9 @@ Taylor SK1, Sakurai R1, Sakurai T1, Rehan VK2.
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* I had wondered if inhaled Vit. D would help some [breathing](/categories/breathing) problems
+* I had wondered if inhaled Vit. D would help some [breathing](/tags/breathing.html) problems
 
-> Examples: Asthma,  pneumonia, RTI, COPD, <a href="/posts/tuberculosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tuberculosis ">Tuberculosis </a> 
+> Examples: Asthma,  pneumonia, RTI, COPD, [Tuberculosis ](/tags/tuberculosis.html) 
 
 * Being able to apply any treatment locally is typically better than treating the entire body
 

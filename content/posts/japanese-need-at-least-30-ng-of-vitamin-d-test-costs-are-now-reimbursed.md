@@ -50,9 +50,9 @@ J Bone Miner Metab. 2016 Nov 23. <span>[Epub ahead of print]</span>
 
 * [80 X increase in Vitamin D testing in Australia in a decade - June 2013](/posts/80-x-increase-in-vitamin-d-testing-in-australia-in-a-decade)
 
-* <a href="/posts/canadians-losing-yet-another-free-medical-test-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Canadians losing yet another free medical test - vitamin D Nov 2010">Canadians losing yet another free medical test - vitamin D Nov 2010</a>
+* [Canadians losing yet another free medical test - vitamin D Nov 2010](/posts/canadians-losing-yet-another-free-medical-test-vitamin-d)
 
-* <a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
+* [VA showed increased vitamin D associated with lower health costs - Lancet May 2012](/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet)
 
 * [Vitamin D levels increasing 7 percent per year, bones denser in Japan (probably supplementation) - June 2015](/posts/vitamin-d-levels-increasing-7-percent-per-year-bones-denser-in-japan-probably-supplementation)
 

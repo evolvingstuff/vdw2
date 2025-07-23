@@ -36,13 +36,13 @@ Note - There are 50 million Koreans, so only .00004% are asking doctors for help
 
 * [Search VitaminDWiki for KOREA](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=korea&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 186 items as of Jan 2015
 
-* <a href="/posts/virtually-all-young-koreans-had-less-than-30-ng-of-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Virtually all young Koreans had less than 30 ng of vitamin D – 2012">Virtually all young Koreans had less than 30 ng of vitamin D – 2012</a>
+* [Virtually all young Koreans had less than 30 ng of vitamin D – 2012](/posts/virtually-all-young-koreans-had-less-than-30-ng-of-vitamin-d-2012)
 
 * [Korea proposes vitamin D of 20 ng, but notes 20ng increases osteo by 50 percent – Oct 2012](/posts/korea-proposes-vitamin-d-of-20-ng-but-notes-20ng-increases-osteo-by-50-percent)
 
-* <a href="/posts/vitamin-d-levels-continue-to-fall-in-korea" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels continue to fall in Korea– June 2018">Vitamin D levels continue to fall in Korea– June 2018</a>
+* [Vitamin D levels continue to fall in Korea– June 2018](/posts/vitamin-d-levels-continue-to-fall-in-korea)
 
-* <a href="/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: South Koreans - half take supplements, Vitamin D levels dropping, COVID-19">South Koreans - half take supplements, Vitamin D levels dropping, COVID-19</a>
+* [South Koreans - half take supplements, Vitamin D levels dropping, COVID-19](/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19)
 
 * [Senior Korean women have much less vitamin D than men (possible reasons) Jan 2014](/posts/senior-korean-women-have-much-less-vitamin-d-than-men-possible-reasons) - including parasols to keep skin white
 

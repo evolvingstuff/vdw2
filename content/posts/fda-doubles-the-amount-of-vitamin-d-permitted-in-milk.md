@@ -67,7 +67,7 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/review-of-vitamin-d-from-milk-products-is-unaware-that-skim-milk-provides-little-vitd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of vitamin D from milk products is unaware that skim milk provides little VitD – Aug 2018">Review of vitamin D from milk products is unaware that skim milk provides little VitD – Aug 2018</a>
+* [Review of vitamin D from milk products is unaware that skim milk provides little VitD – Aug 2018](/posts/review-of-vitamin-d-from-milk-products-is-unaware-that-skim-milk-provides-little-vitd)
 
    * Avoid low-fat milk if you are trying to get Vitamin D from milk
 
@@ -81,9 +81,9 @@
 
 * [Milk fortification of 1000 IU got most children above 20ng of vitamin D – March 2013](/posts/milk-fortification-of-1000-iu-got-most-children-above-20ng-of-vitamin-d)
 
-* <a href="/posts/off-topic-fda-does-change-after-lots-of-money-and-decades-of-pressure-amalgum-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: FDA does change after lots of money and decades of pressure (amalgum in this case) - Oct 2020">Off Topic: FDA does change after lots of money and decades of pressure (amalgum in this case) - Oct 2020</a>
+* [Off Topic: FDA does change after lots of money and decades of pressure (amalgum in this case) - Oct 2020](/posts/off-topic-fda-does-change-after-lots-of-money-and-decades-of-pressure-amalgum-in-this-case)
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
    * Sometimes D2 had been found to DECREASE blood levels of D3
 

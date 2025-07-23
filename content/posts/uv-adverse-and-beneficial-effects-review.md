@@ -77,7 +77,7 @@ PMID: 25383760
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
 * [UV, sunshine, and vitamin D (87 charts) - Holick March 2013](/posts/uv-sunshine-and-vitamin-d-87-charts-holick)
 
@@ -117,4 +117,4 @@ PMID: 25383760
 
 * [Sunscreen in a pill (with low SPF) ](/posts/sunscreen-in-a-pill-with-low-spf)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)

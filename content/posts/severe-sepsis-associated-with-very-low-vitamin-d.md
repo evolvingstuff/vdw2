@@ -58,7 +58,7 @@ Critical Care Medicine. AN: 00003246-900000000-96779. Ahead of Print, 14 Sept 20
 
 #### See also VitaminDWiki
 
-* <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a> collection of many studies
+* [Sepsis is both prevented and treated by Vitamin D - many studies](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies) collection of many studies
 
 * [Getting Vitamin D into your blood and cells](/posts/getting-vitamin-d-into-your-blood-and-cells) which before May 2017 did not include IP injection
 

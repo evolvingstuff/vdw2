@@ -33,7 +33,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Third study found that __Infants needed 1600 IU__ of vitamin D – JAMA RCT May 2013](/posts/third-study-found-that-infants-needed-1600-iu-of-vitamin-d-jama-rct)
 
@@ -41,4 +41,4 @@
 
 * [Asthma Solved Naturally (book) ](/posts/asthma-solved-naturally-book)
 
-* <a href="/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children with severe asthma had much lower levels of vitamin D – Dec 2011">Children with severe asthma had much lower levels of vitamin D – Dec 2011</a> so even more vitamin D is needed than for child without asthma
+* [Children with severe asthma had much lower levels of vitamin D – Dec 2011](/posts/children-with-severe-asthma-had-much-lower-levels-of-vitamin-d) so even more vitamin D is needed than for child without asthma

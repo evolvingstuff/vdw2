@@ -1,0 +1,61 @@
+<!doctype html><html><head><meta charset=utf-8><title>Familial Mediterranean Fever is associated with poor genes (and a poor vitamin D receptor)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Familial Mediterranean Fever is associated with poor genes (and a poor vitamin D receptor)</h1><time>June 20, 2024</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#serum-vitamin-d-levels-in-pediatric-patients-with-familial-mediterranean-fever>Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever</a></li><li><a href=#what-was-found-by-asking-perplexity-a-few-questions>What was found by asking Perplexity a few questions</a></li></ul></li></ul></li></ul></nav><hr><h4 id=serum-vitamin-d-levels-in-pediatric-patients-with-familial-mediterranean-fever>Serum Vitamin D Levels In Pediatric Patients With Familial Mediterranean Fever</h4><p>Journal of Clinical Pediatrics and Care. 3(1); DOI: 10.58489/2836-8630/011</p><p>Ahmet Ibrahim KURTOGLU MD, Phd1*, Bayram Ali DORUM MD, Associate Professor2, Vefik ARICA MD Professor3,</p><p>Utku OZER MD4, Murat TUTANC Professor 5</p><p>1 Adana City Hospital Neonatology Department ADANA/TURKEY.</p><p>2 Bursa City Hospital Neonatal Department BURSA/TURKEY.</p><p>3 University of Yalova Pediatrics Department YALOVA/TURKEY.</p><p>4 Adana City Hospital Pediatrics Emergency Department ADANA/TURKEY.</p><p>5 Bursa City Hospital Pediatrics Department BURSA/TURKEY.</p><p>Corresponding Author: Ahmet Ibrahim KURTOGLU, Adana City Hospital Neonatalogy Department ADANA/TURKEY.</p><p>Introduction: Familial Mediterranean Fever (FMF) is an autosomal recessive autoinflammatory disorder. Vitamin D deficiency is a common finding in patients with various chronic inflammatory diseases. Several studies have elucidated the correlation between serum vitamin D levels and disease activity in pediatric Familial Mediterranean Fever patients. In this study, we aimed to investigate the role of vitamin D in the development of Familial Mediterranean.</p><p>Method: This study includes 95 pediatric patients diagnosed with Familial Mediterranean Fever who were followed by the Department of Pediatrics at an Application and Research Hospital in Turkey and agreed to participate in the study. Additionally, 34 healthy children who consented to participate constituted the control group. The diagnosis of patients with FMF utilized the Tel-Hashomer criteria</p><p>Results: The hormone levels of FMF and control groups were compared. Vitamin D levels, calcium, phosphorus, Parathyroid Hormone and Alkaline Phosphatase levels were analyzed. In the FMF group, the Vitamin D level was found to be significantly lower, while the Ca and phosphorus levels were significantly higher compared to the control group (both with p&lt;0.01). Although the difference in Ca levels between the two groups was statistically significant, the mean Ca levels of both groups remained within the normal range.</p><p>Conclusion: In conclusion, the significant deficiency of serum vitamin D levels in pediatric FMF patients and its association with disease severity underscores the importance of regular monitoring and potential therapeutic intervention.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/familial-med-fever-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=what-was-found-by-asking-perplexity-a-few-questions>What was found by asking Perplexity a few questions</h4><ol><li>FMF is caused by mutations in the MEFV gene, inherited in an autosomal recessive pattern.</li></ol><p>$Periods between FMF attacks are symptom-free, ranging from days to years.</p><ol><li><p>Colchicine is the primary treatment for FMF</p></li><li><p>FMF incidence in Turkey is between 1 in 400 and 1 in 1,000 people</p></li></ol><blockquote></blockquote><ol><li><p>People with FMF who are resistant to Colchicine have low vitamin D levels</p></li><li><p>the AA genotype of the BsmI VDR polymorphism = 2.62-fold higher risk of FMF in males</p></li><li><p>Curcumin helps treat FMF</p></li></ol><blockquote><p>but, we also know that Curcumin activates the Vitamin D receptor</p></blockquote><blockquote><p>    So, for 2 reasons we suspect the FMF is related to the vitamin D receptor</p></blockquote><p><strong><a href=https://www.perplexity.ai/search/please-describe-Familial-zxsrW6CUSsyMkYagBGICPw>Perplexity conversation – June 2024</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a></div><div data-pagefind-meta=tags hidden>child, genetics, vitamin d, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

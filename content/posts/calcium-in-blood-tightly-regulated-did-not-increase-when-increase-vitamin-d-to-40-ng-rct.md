@@ -87,7 +87,7 @@ Vitamin D doses upto 2400 IU daily did not increase calcium absorption. No thres
 
 ## See also VitaminDWiki
 
-* <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium hazards and bioavailability</a>
+* [Calcium hazards and bioavailability](/posts/calcium-hazards-and-bioavailability)
 
 * [Calcium intestinal absorption increased with active, but not tested level of vitamin D – May 2014](/posts/calcium-intestinal-absorption-increased-with-active-but-not-tested-level-of-vitamin-d)
 
@@ -99,7 +99,7 @@ Vitamin D doses upto 2400 IU daily did not increase calcium absorption. No thres
 
 * [Children have better Calcium levels when vitamin D levels are higher than 30 ng – Nov 2013](/posts/children-have-better-calcium-levels-when-vitamin-d-levels-are-higher-than-30-ng)
 
-* <a href="/posts/must-balance-co-factors-when-increasing-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1936">Must balance co-factors when increasing vitamin D</a> 500 Ca, 500 Mg - which has the following concept graph
+* [Must balance co-factors when increasing vitamin D](/tags/must-balance-co-factors-when-increasing-vitamin-d.html) 500 Ca, 500 Mg - which has the following concept graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

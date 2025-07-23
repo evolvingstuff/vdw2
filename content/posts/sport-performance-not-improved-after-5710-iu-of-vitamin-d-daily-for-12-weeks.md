@@ -72,8 +72,8 @@ Conclusions Both 20 000 and 40 000 IU vitamin D3 supplementation over a 6-
 
 * [Muscle strength not increased by raising vitamin D to only 30 ng – RCT Aug 2012](/posts/muscle-strength-not-increased-by-raising-vitamin-d-to-only-30-ng-rct)
 
-* <a href="/posts/8500-iu-average-daily-helped-sports-performance" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 8500 IU average daily helped sports performance – Oct 2010">8500 IU average daily helped sports performance – Oct 2010</a>
+* [8500 IU average daily helped sports performance – Oct 2010](/posts/8500-iu-average-daily-helped-sports-performance)
 
-* <a href="/posts/professional-sports-team-takes-span-stylecolor00f5000-iuspan-vitamin-d-and-wins-championship" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 293">Professional sports team takes **<span style="color:#00F;">5000 IU</span>**  vitamin D and wins championship</a> Hockey
+* [Professional sports team takes **<span style="color:#00F;">5000 IU</span>**  vitamin D and wins championship](/tags/professional-sports-team-takes-span-stylecolor00f5000-iuspan-vitamin-d-and-wins-championship.html) Hockey
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Overview Sports and vitamin D</a>
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)

@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset=utf-8><title>Babies 3.6X more likely to go to hospital for asthma if asthmatic mother had low vitamin D while pregnant</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Babies 3.6X more likely to go to hospital for asthma if asthmatic mother had low vitamin D while pregnant</h1><time>June 22, 2019</time><div data-pagefind-body><h4 id=vitamin-d-status-in-pregnant-women-with-asthma-and-its-association-with-adverse-respiratory-outcomes-during-infancy>Vitamin D status in pregnant women with asthma and its association with adverse respiratory outcomes during infancy.</h4><p>J Matern Fetal Neonatal Med. 2019 Jun;32(11):1820-1825. <a href=https://doi.org/10.1080/14767058.2017.1419176.>doi: 10.1080/14767058.2017.1419176.</a></p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:800px"><ul><li><p><a href=/posts/overview-asthma-and-vitamin-d>Overview Asthma and Vitamin D</a></p></li><li><p><a href=/posts/childhood-asthma-somewhat-reduced-by-2400-iu-vitamin-d-late-in-pregnancy-need-more-earlier>Childhood Asthma somewhat reduced by 2400 IU vitamin D late in pregnancy (néed more, earlier) March 2019</a></p></li><li><p><a href=/posts/asthma-in-child-23-x-more-likely-if-both-parents-asthmatic-unless-add-vitamin-d-vdaart>Asthma in child 2.3 X more likely if both parents asthmatic (unless add Vitamin D) – VDAART Nov 2018</a></p></li><li><p><a href=/posts/risk-of-infant-asthma-cut-in-half-if-mother-supplemented-vitamin-d-to-get-more-than-30-ng-rct>Risk of infant Asthma cut in half if mother supplemented Vitamin D to get more than 30 ng – RCT Oct 2017</a></p></li><li><p><a href=/posts/asthma-in-3-year-olds-decreased-somewhat-with-4000-iu-during-pregnancy-rct>Asthma in 3 year olds decreased somewhat with 4,000 IU during pregnancy – RCT Jan 2016</a></p></li><li><p><a href=/posts/pregnant-women-with-low-vitamin-d-eg-asthmatics-were-more-likely-to-have-infants-lems-asthmatics>Pregnant women with low vitamin D (e.g. asthmatics) were more likely to have infants with vitamin D problems (asthmatics) – Jan 2018</a></p></li><li><p><a href=/posts/wheezing-reduced-35-percent-if-vitamin-d-added-during-pregnancy>Wheezing reduced 35 percent if vitamin D added during pregnancy – April 2015</a></p></li></ul></div><p>Jensen ME1, Murphy VE1, Gibson PG2,3, Mattes J1,4, Camargo CA Jr5.</p><p>1 Priority Research Centre Grow Up Well, University of Newcastle and Hunter Medical Research Institute , Newcastle , Australia.</p><p>2 Department of Respiratory and Sleep Medicine , John Hunter Hospital , Newcastle , Australia.</p><p>3 Priority Research Centre for Healthy Lungs, University of Newcastle and Hunter Medical Research Institute , Newcastle , Australia.</p><p>4 Respiratory Department , John Hunter Children&rsquo;s Hospital , Newcastle , Australia.</p><p>5 Dept. of Emergency Medicine , Mass. General Hospital, Harvard Medical School , Boston , MA , USA.</p><p>BACKGROUND:</p><p>Vitamin D may influence pregnancy and infant outcomes, especially infant respiratory health. This study aimed to examine vitamin D status in pregnant women with asthma, and whether higher vitamin D levels are associated with fewer adverse respiratory outcomes in their infants.</p><p>METHODS:</p><p>Pregnant women with asthma, recruited from John Hunter Hospital Newcastle Australia (latitude 33°S), had serum total 25-hydroxyvitamin-D (25(OH)D) measured at 16 and 35 weeks gestation. Infant respiratory outcomes were collected at 12 months by parent-report questionnaire. Mother-infant dyads were grouped by serum 25(OH)D during pregnancy: 25(OH)D &lt; 75 nmol/L (at both time-points) versus 25(OH)D ≥ 75 nmol/L (at one or both time-points).</p><p>RESULTS:</p><p>In 52 pregnant women with asthma, mean serum 25(OH)D levels were</p><ul><li><p>61 (range 26-110) nmol/L at 16 weeks, and</p></li><li><p>65 (range 32-116) nmol/L at 35 weeks, gestation.</p></li></ul><p>Thirty-one (60%) women had 25(OH)D &lt; 75 nmol/L at both time-points; 21 (40%) had 25(OH)D ≥ 75 nmol/L at one or both time-points.</p><p>Maternal 25(OH)D &lt; 75 nmol/L during pregnancy was associated with a higher proportion of infants with &ldquo;wheeze ever&rdquo; at 12 months, compared with 25(OH)D ≥ 75 nmol/L (71 versus 43%, p = .04).</p><p>Infant acute-care presentations (45% versus 13%, p = .02) and oral corticosteroid use (26 versus 4%, p = .03) due to &ldquo;asthma/wheezing&rdquo; were higher in the maternal group with 25(OH)D &lt; 75 nmol/L, versus ≥75 nmol/L.</p><p>CONCLUSIONS:</p><p>Most pregnant women with asthma had low vitamin D status, which persisted across gestation. Low maternal vitamin D status was associated with greater risk of adverse respiratory outcomes in their infants, a group at high risk of developing childhood asthma.</p><p>PMID: 29303025 DOI: 10.1080/14767058.2017.1419176</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/asthma.html><span class=tag>asthma</span></a>
+<a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/breathing.html><span class=tag>Breathing</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/infant-child.html><span class=tag>Infant-Child</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/pregnancy.html><span class=tag>Pregnancy</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>asthma, blood levels, breathing, Breathing, child, dosage, Infant-Child, pregnancy, Pregnancy, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

@@ -253,6 +253,6 @@ We thank the Fleury Laboratory for establishing Vitamin D levels, especially Pro
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-stones-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney Stones and vitamin D">Overview Kidney Stones and vitamin D</a>
+* [Overview Kidney Stones and vitamin D](/posts/overview-kidney-stones-and-vitamin-d)
 
 * [Vitamin D supplementation and fewer kidney stones – meta-analysis of RCT Sept 2016](/posts/vitamin-d-supplementation-and-fewer-kidney-stones-meta-analysis-of-rct)

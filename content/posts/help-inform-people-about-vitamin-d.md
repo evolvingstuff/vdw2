@@ -23,7 +23,7 @@
 
 #### VitaminDWiki needs money to:
 
-1. Make and distribute more <a href="/posts/vitamin-d-videos" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3914">vitamin D videos</a>
+1. Make and distribute more [vitamin D videos](/tags/vitamin-d-videos.html)
 
 1. Translate this video 
 
@@ -33,9 +33,9 @@
 
 > A donation of $0 - you can do it yourself - (if you mention your version to us, we will add it to your language to our launch page)
 
-1. Show <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HMOs will save millions of dollars with vitamin D">Health Maintenance Organizations</a> how much money they will save with Vitamin D
+1. Show [Health Maintenance Organizations](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d) how much money they will save with Vitamin D
 
-1. Provide seed money for a major trial of Vitamin D and <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Parkinson's Disease</a>
+1. Provide seed money for a major trial of Vitamin D and [Parkinson's Disease](/posts/overview-parkinsons-and-vitamin-d)
 
 1. Provide seed money to reduce rickets in countries such as [Mongolia](/posts/rickets-in-mongolia), (over 25% of the children in Mongolia get rickets)
 

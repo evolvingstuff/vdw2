@@ -76,13 +76,13 @@ Pierre Olivier Lang 1,2,* and Richard Aspinall 2
 
 [288 VitaminDWiki pages with VACCIN in title as of Sept 2024](https://VitaminDWiki.com/Vaccine+effectiveness+may+drop+to+only+16%25+in+6+months+if+time+between+jabs+was+only+3+weeks+%E2%80%93+July+2021#VitaminDWiki_titles_containing_VACCIN)
 
-<a href="/posts/10x-reactions-to-flu-vaccine-when-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10X reactions to flu vaccine when vitamin D deficient">10X reactions to flu vaccine when vitamin D deficient</a>
+[10X reactions to flu vaccine when vitamin D deficient](/posts/10x-reactions-to-flu-vaccine-when-vitamin-d-deficient)
 
-<a href="/posts/flu-vaccine-effectiveness-and-side-effects" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Flu vaccine effectiveness and side effects">Flu vaccine effectiveness and side effects</a>
+[Flu vaccine effectiveness and side effects](/posts/flu-vaccine-effectiveness-and-side-effects)
 
 [CDC: Influenza vaccinations not expected to work well this year (but vitamin D should) – Dec 2014](/posts/cdc-influenza-vaccinations-not-expected-to-work-well-this-year-but-vitamin-d-should)
 
-<a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">Overview Influenza and vitamin D</a>
+[Overview Influenza and vitamin D](/posts/overview-influenza-and-vitamin-d)
 
 </div>
 

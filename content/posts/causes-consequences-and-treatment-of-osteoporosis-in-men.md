@@ -81,7 +81,7 @@ PMID:     24009413
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
 * [Osteoporosis: Diagnosis and Management (professional book) – Oct 2013](/posts/osteoporosis-diagnosis-and-management-professional-book)
 
@@ -91,20 +91,20 @@ PMID:     24009413
 
 * [Low Vitamin D or Vitamin K2 may be a cause of Hypertension and Osteoporosis – Nov 2012](/posts/low-vitamin-d-or-vitamin-k2-may-be-a-cause-of-hypertension-and-osteoporosis)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Search VitaminDWiki for "Bone Strength"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22bone+strength%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 115 hits as of Sept 2013
 
 * [Belgian Bone Club](https://www.VitaminDWiki.com/dl1697) file
 
-* <a href="/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012">Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012</a>
+* [Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012](/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012)
 
 * [Vitamin K-2 (180 ug MK-7) helped both bone density and strength – RCT March 2013](/posts/vitamin-k-2-180-ug-mk-7-helped-both-bone-density-and-strength-rct)
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)

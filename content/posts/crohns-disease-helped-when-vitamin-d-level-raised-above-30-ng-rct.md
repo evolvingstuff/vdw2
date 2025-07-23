@@ -58,13 +58,13 @@ Maria O’Sullivan, Department of Clinical Medicine, Trinity Centre for Health S
 
 * Probably have gotten much better results if get > 40 ng by one or more of the following
 
-1. Used a form of <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">vitamin D designed for use with poor gut function</a>
+1. Used a form of [vitamin D designed for use with poor gut function](/posts/gut-friendly-vitamin-d)
 
 1. Used more IU/day - say >3,000 IU
 
-1. Used a <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">loading dose</a>
+1. Used a [loading dose](/posts/overview-loading-of-vitamin-d)
 
-1. Used <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">cofactors</a> – such as Vitamin K2
+1. Used [cofactors](/posts/low-cost-cofactors-for-vitamin-d) – such as Vitamin K2
 
 1. Trial lasting more than 3 months 
 
@@ -72,9 +72,9 @@ Maria O’Sullivan, Department of Clinical Medicine, Trinity Centre for Health S
 
 * [Crohn’s helped by 5000 IU vitamin D – April 2013](/posts/crohns-helped-by-5000-iu-vitamin-d)
 
-* <a href="/posts/crohns-disease-reduced-for-a-year-by-7-weeks-of-high-dose-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crohn’s Disease reduced for a year by 7 weeks of high dose Vitamin D – RCT March 2021">Crohn’s Disease reduced for a year by 7 weeks of high dose Vitamin D – RCT March 2021</a>
+* [Crohn’s Disease reduced for a year by 7 weeks of high dose Vitamin D – RCT March 2021](/posts/crohns-disease-reduced-for-a-year-by-7-weeks-of-high-dose-vitamin-d-rct)
 
-* <a href="/posts/crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1582">Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011</a>
+* [Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011](/posts/crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d)
 
 * [Overview Gut and vitamin D](/posts/overview-gut-and-vitamin-d)
 
@@ -82,7 +82,7 @@ Maria O’Sullivan, Department of Clinical Medicine, Trinity Centre for Health S
 
 * [Search VitaminDWiki for Martineau (one of the authors)](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Martineau&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 124 items as of Feb 2015
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> this study is the 51st proof
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) this study is the 51st proof
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/crohn-s-disease-rct.pdf">Download the PDF from VitaminDWiki.</a>** 
 

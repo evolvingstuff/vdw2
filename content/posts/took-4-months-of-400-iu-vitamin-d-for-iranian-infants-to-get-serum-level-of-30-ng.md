@@ -51,4 +51,4 @@ Figure I: Percentage of infants who reached levels>30ng/ml 25OHD by one to four 
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)

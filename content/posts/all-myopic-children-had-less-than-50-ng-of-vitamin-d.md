@@ -60,7 +60,7 @@ VitaminDWiki added a  **<span style="color:#00F;">blue line</span>**  for 50 nan
 
 [Vitamin D Council first reviewed this study](http://www.vitamindcouncil.org/blog/low-vitamin-d-status-linked-with-nearsighted-vision-in-young-children/)
 
-* <a href="/posts/myopia-may-be-related-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myopia may be related to low vitamin D">Myopia may be related to low vitamin D</a> Overview in VitaminDWiki
+* [Myopia may be related to low vitamin D](/posts/myopia-may-be-related-to-low-vitamin-d) Overview in VitaminDWiki
 
  **See also web** 
 

@@ -139,7 +139,7 @@ It is also proposed that deprivation of sunlight and vitamin D at higher latitud
 
 * [Sjögren’s syndrome (2nd most common rheumatic disease) and vitamin D - many studies](/posts/sjogrens-syndrome-2nd-most-common-rheumatic-disease-and-vitamin-d-many-studies)
 
-* <a href="/posts/hypothesisvitamin-d-epstein-barr-interaction-increases-ms-risk" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1950">Hypothesis:Vitamin D Epstein-Barr interaction increases MS risk – Sept 2011</a> which has the following chart
+* [Hypothesis:Vitamin D Epstein-Barr interaction increases MS risk – Sept 2011](/tags/hypothesisvitamin-d-epstein-barr-interaction-increases-ms-risk-sept-2011.html) which has the following chart
 
 > EBV and Vitamin D are both in 2 of the 4 pathways
 

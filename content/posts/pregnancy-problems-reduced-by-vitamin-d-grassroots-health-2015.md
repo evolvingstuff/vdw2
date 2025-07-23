@@ -18,7 +18,7 @@
 }
 
 
-#### <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a> includes the following images - with details
+#### [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d) includes the following images - with details
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

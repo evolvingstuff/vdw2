@@ -83,7 +83,7 @@ Estimated Study Completion Date:	September 2014
 
 ## A tiny number of people get even the "minimum wage" of vitamin D ( **<span style="color:#F93;">orange line</span>** )
 
-#### <a href="/posts/only-about-20-percent-of-kids-normally-get-600-iu-per-day" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Only about 20% of kids normally get 600 IU per day</a>
+#### [Only about 20% of kids normally get 600 IU per day](/tags/only-about-20-of-kids-normally-get-600-iu-per-day.html)
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -93,7 +93,7 @@ Anticipate great success from this Random Controlled Trial based on scores of pr
 
 ### See also VitaminDWiki
 
-* <a href="/posts/children-helped-by-2000-iu-of-vitamin-d-but-not-rda-amount-600-iu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children helped by __2,000 IU__ of vitamin D, but not RDA amount (600 IU) – RCT Sept 2017">Children helped by  **2,000 IU**  of vitamin D, but not RDA amount (600 IU) – RCT Sept 2017</a>
+* [Children helped by  **2,000 IU**  of vitamin D, but not RDA amount (600 IU) – RCT Sept 2017](/posts/children-helped-by-2000-iu-of-vitamin-d-but-not-rda-amount-600-iu-rct)
 
 * [Upper respiratory tract infection 2X more likely if vitamin D less than 30 ng – Aug 2013](/posts/upper-respiratory-tract-infection-2x-more-likely-if-vitamin-d-less-than-30-ng)
 
@@ -101,17 +101,17 @@ Anticipate great success from this Random Controlled Trial based on scores of pr
 
 * [Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013](/posts/vitamin-d-and-respiratory-tract-infections-meta-analysis-with-charts)
 
-* <a href="/posts/100-percent-of-acute-respiratory-failure-patients-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012">100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012</a>
+* [100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012](/posts/100-percent-of-acute-respiratory-failure-patients-had-low-vitamin-d)
 
 * [Acute respiratory infection treated by vitamin D in 6 of 12 clinical trials – review Nov 2012](/posts/acute-respiratory-infection-treated-by-vitamin-d-in-6-of-12-clinical-trials-review)
 
 * [Fewer respiratory infections if optimal level of vitamin D (more than 47 ng) – Sept 2013](/posts/fewer-respiratory-infections-if-optimal-level-of-vitamin-d-more-than-47-ng)
 
-* [Breathing](/categories/breathing) category listingm which includes searches such as the following
+* [Breathing](/tags/breathing.html) category listingm which includes searches such as the following
 
 > Search VitaminDWiki for [RTI OR "Respiratory Tract Infection"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=RTI+OR+%22respiratory+tract+infection%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a> there were 30 intervention trials for Vitamin D and Asthma as of Feb 2014, 
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d) there were 30 intervention trials for Vitamin D and Asthma as of Feb 2014, 
 
 > Overview of Asthma and Vitamin D includes the following chart
 

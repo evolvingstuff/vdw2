@@ -78,13 +78,13 @@ Obesity is known to influence the circulating 25(OH)D level but less is known ab
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a>
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response)
 
-* <a href="/posts/response-to-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D - many studies">Response to Vitamin D - many studies</a>
+* [Response to Vitamin D - many studies](/posts/response-to-vitamin-d-many-studies)
 
-* <a href="/posts/obese-responded-to-weekly-vitamin-d-better-than-non-obese-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese responded to weekly vitamin D better than non-obese – RCT March 2018">Obese responded to weekly vitamin D better than non-obese – RCT March 2018</a>
+* [Obese responded to weekly vitamin D better than non-obese – RCT March 2018](/posts/obese-responded-to-weekly-vitamin-d-better-than-non-obese-rct)
 
-* <a href="/posts/response-to-vitamin-d-sometimes-takes-a-year" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to Vitamin D sometimes takes a year">Response to Vitamin D sometimes takes a year</a>
+* [Response to Vitamin D sometimes takes a year](/tags/response-to-vitamin-d-sometimes-takes-a-year.html)
 
 * [4,000 IU of Vitamin D daily is safe, but takes a year to plateau (Best-D) – RCT Dec 2016](/posts/4000-iu-of-vitamin-d-daily-is-safe-but-takes-a-year-to-plateau-best-d-rct) 2,000 IU 1 year
 

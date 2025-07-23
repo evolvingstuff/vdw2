@@ -31,6 +31,6 @@
 
 * [Vitamin D Workshop Posters - June 2013](/posts/vitamin-d-workshop-posters)
 
-* <a href="/posts/vitamin-d-workshop-houston-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Workshop Houston 2012">Vitamin D Workshop Houston 2012</a>
+* [Vitamin D Workshop Houston 2012](/posts/vitamin-d-workshop-houston-2012)
 
-* <a href="/posts/international-congress-on-vitamin-d-vitamind-workshop-ny" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: International Congress on Vitamin D (VitaminD Workshop) – NY May 2019">International Congress on Vitamin D (VitaminD Workshop) – NY May 2019</a> has links to many previous workshops
+* [International Congress on Vitamin D (VitaminD Workshop) – NY May 2019](/posts/international-congress-on-vitamin-d-vitamind-workshop-ny) has links to many previous workshops

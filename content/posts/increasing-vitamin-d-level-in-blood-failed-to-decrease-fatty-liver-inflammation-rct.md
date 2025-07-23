@@ -49,11 +49,11 @@ CRP  (mg/dL) −0.11 : decrease was not quite statistically significant P =0.2
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 * [Fatty liver disease associated with low level of vitamin D – Oct 2013](/posts/fatty-liver-disease-associated-with-low-level-of-vitamin-d)
 
-* <a href="/posts/fatty-liver-disease-in-40-percent-of-seniors-seniors-often-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D">Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D</a>
+* [Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D](/tags/fatty-liver-disease-in-40-percent-of-seniors-seniors-often-have-low-vitamin-d.html)
 
 * [Search for Fatty Liver in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22fatty+liver%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 129 items Dec 2014
 

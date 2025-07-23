@@ -73,7 +73,7 @@ In conclusion, vitamin D deficiency is common among people with PAD encountered 
 
 ### VitaminDWiki comment
 
-Vitamin D deficiency in previous studies has been shown to be strongly associated with <a href="/posts/race" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">race</a>, [diabetes](/categories/diabetes) and <a href="/posts/high-bmi" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">high BMI</a>.
+Vitamin D deficiency in previous studies has been shown to be strongly associated with [race](/tags/race.html), [diabetes](/tags/diabetes.html) and [high BMI](/tags/high-bmi.html).
 
 So, it is no surprise that after  **‘’adjusting’’** for those factors that no other association of PAD to vitamin D remained.
 
@@ -87,7 +87,7 @@ If the nerves are either
 
 The person will be more likely to fall.
 
-Many studies have found that <a href="/posts/adequate-vitamin-d-reduces-falling" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">adequate vitamin D reduces falling</a>.
+Many studies have found that [adequate vitamin D reduces falling](/tags/adequate-vitamin-d-reduces-falling.html).
 
 * [Search VitaminDWiki for "Peripheral Artery Disease"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22+peripheral+artery+disease%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 60 items as of Jan 2014
 

@@ -73,12 +73,12 @@ The study will be published in the February 2014 print edition of Menopause.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Hip fracture 19 percent less likely with just 4 ng higher level of vitamin D – Dec 2012](/posts/hip-fracture-19-percent-less-likely-with-just-4-ng-higher-level-of-vitamin-d)
 
 * [Hip fractures greatly reduced by sunshine, vitamin D, and vitamin K – meta-analysis Sept 2012](/posts/hip-fractures-greatly-reduced-by-sunshine-vitamin-d-and-vitamin-k-meta-analysis)
 
-* <a href="/posts/decrease-calcium-and-increase-magnesium-when-increasing-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Decrease Calcium and Increase Magnesium when increasing vitamin D">Decrease Calcium and Increase Magnesium when increasing vitamin D</a> has the following conceptual chart
+* [Decrease Calcium and Increase Magnesium when increasing vitamin D](/posts/decrease-calcium-and-increase-magnesium-when-increasing-vitamin-d) has the following conceptual chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

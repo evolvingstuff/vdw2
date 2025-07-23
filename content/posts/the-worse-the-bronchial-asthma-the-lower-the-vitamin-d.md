@@ -42,11 +42,11 @@ a Clinical Pathology Department, Faculty of Medicine, AL-Azhar University, Egypt
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015](/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 76 health problems prevented/treated as of Dec 2016
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 76 health problems prevented/treated as of Dec 2016
 
 > <span style="color:#00F;">Asthma has been proven to be treated by Vitamin D in at least 4 random controlled trials</span>
 
@@ -70,4 +70,4 @@ Conclusion: There is an important association between adult bronchial asthma and
 
 ---
 
-#### See also: <a href="/posts/the-more-severe-the-asthma-the-lower-the-vitamin-d-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The more severe the Asthma, the lower the vitamin D level - Oct 2023">The more severe the Asthma, the lower the vitamin D level - Oct 2023</a>
+#### See also: [The more severe the Asthma, the lower the vitamin D level - Oct 2023](/posts/the-more-severe-the-asthma-the-lower-the-vitamin-d-level)

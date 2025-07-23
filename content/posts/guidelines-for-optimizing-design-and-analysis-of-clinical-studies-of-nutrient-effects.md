@@ -52,4 +52,4 @@ Presented here is a system to standardize clinical studies of nutrient effects, 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-clinical-trials-should-be-based-on-vitamin-d-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D clinical trials should be based on Vitamin D tests – Aug 2017">Vitamin D clinical trials should be based on Vitamin D tests – Aug 2017</a> co-authored by Henry Lahore
+* [Vitamin D clinical trials should be based on Vitamin D tests – Aug 2017](/posts/vitamin-d-clinical-trials-should-be-based-on-vitamin-d-tests) co-authored by Henry Lahore

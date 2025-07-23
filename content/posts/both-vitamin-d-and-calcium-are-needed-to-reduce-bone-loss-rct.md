@@ -75,7 +75,7 @@ full study is behind a paywall
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
 * [8X higher Osteoporosis risk if high level of vitamin A, vitamin D important too – Feb 2013](/posts/8x-higher-osteoporosis-risk-if-high-level-of-vitamin-a-vitamin-d-important-too)
 
@@ -85,13 +85,13 @@ full study is behind a paywall
 
 * [Korea proposes vitamin D of 20 ng, but notes 20ng increases osteo by 50 percent – Oct 2012](/posts/korea-proposes-vitamin-d-of-20-ng-but-notes-20ng-increases-osteo-by-50-percent)
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a> 
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together) 
 
-* <a href="/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010">National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010</a>
+* [National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010](/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010)
 
-* <a href="/posts/6500-iu-vitamin-d-not-improve-bone-density-without-co-factors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6500 IU vitamin D not improve bone density without co-factors – Jan 2012">6500 IU vitamin D not improve bone density without co-factors – Jan 2012</a>
+* [6500 IU vitamin D not improve bone density without co-factors – Jan 2012](/posts/6500-iu-vitamin-d-not-improve-bone-density-without-co-factors)
 
-* <a href="/posts/skeletal-health-needs-at-least-30-ng-of-vitamin-d-german-paper" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skeletal health needs at least 30 ng of vitamin D – German paper – March 2011">Skeletal health needs at least 30 ng of vitamin D – German paper – March 2011</a>
+* [Skeletal health needs at least 30 ng of vitamin D – German paper – March 2011](/posts/skeletal-health-needs-at-least-30-ng-of-vitamin-d-german-paper)
 
 ## See also web
 

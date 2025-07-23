@@ -57,9 +57,9 @@ Nicely summarized by Tom Weishaar at [Vitamin D Council](http://www.vitamindcoun
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
-* <a href="/posts/more-sun-skin-damage-if-vitamin-d-less-than-20-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3155">More sun skin damage if vitamin D less than 20 ng – Sept 2012</a>
+* [More sun skin damage if vitamin D less than 20 ng – Sept 2012](/tags/more-sun-skin-damage-if-vitamin-d-less-than-20-ng-sept-2012.html)
 
 * [People more likely to freckle are more likely to get prostate cancer (low vitamin D) – April 2013](/posts/people-more-likely-to-freckle-are-more-likely-to-get-prostate-cancer-low-vitamin-d)
 

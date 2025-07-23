@@ -56,11 +56,11 @@
 
 * [Majority of heritable diseases are associated with vitamin D (from 4 million health records) – July 2016](/posts/majority-of-heritable-diseases-are-associated-with-vitamin-d-from-4-million-health-records)
 
-* <a href="/posts/vitamin-d-insufficiency-in-child-15x-more-likely-if-father-is-vitamin-d-insufficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D insufficiency in child 15X more likely if father is Vitamin D insufficient – June 2021">Vitamin D insufficiency in child 15X more likely if father is Vitamin D insufficient – June 2021</a>
+* [Vitamin D insufficiency in child 15X more likely if father is Vitamin D insufficient – June 2021](/posts/vitamin-d-insufficiency-in-child-15x-more-likely-if-father-is-vitamin-d-insufficient)
 
-* <a href="/posts/vitamin-d-heritability-twin-studies-20-percent-to-85-percent-gwas-5-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Heritability: twin studies – 20 percent to 85 percent, GWAS 5 percent – Oct 2018">Vitamin D Heritability: twin studies – 20 percent to 85 percent, GWAS 5 percent – Oct 2018</a>
+* [Vitamin D Heritability: twin studies – 20 percent to 85 percent, GWAS 5 percent – Oct 2018](/posts/vitamin-d-heritability-twin-studies-20-percent-to-85-percent-gwas-5-percent)
 
-* <a href="/posts/does-survival-of-the-less-fit-mean-less-health-poor-genes-may-be-inherited" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does survival of the less fit mean less health (poor genes may be inherited) ">Does survival of the less fit mean less health (poor genes may be inherited) </a>
+* [Does survival of the less fit mean less health (poor genes may be inherited) ](/posts/does-survival-of-the-less-fit-mean-less-health-poor-genes-may-be-inherited)
 
 ---
 

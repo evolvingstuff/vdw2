@@ -99,6 +99,6 @@ Suspect  that stroke ==> reduced cognition is due to lowered vitamin D
 
 * [Low vitamin D associated with cognition in women who were 5 years older – Oct 2013](/posts/low-vitamin-d-associated-with-cognition-in-women-who-were-5-years-older) vs 8 years in the stroke article on this page
 
-* <a href="/posts/senior-moment-25x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Senior moment" 25X more likely with low vitamin D - Feb 2012">"Senior moment" 25X more likely with low vitamin D - Feb 2012</a>
+* ["Senior moment" 25X more likely with low vitamin D - Feb 2012](/posts/senior-moment-25x-more-likely-with-low-vitamin-d)
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)

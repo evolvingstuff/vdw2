@@ -83,13 +83,13 @@ Findings from cohort studies, randomized controlled trials, systematic reviews a
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
- **<a href="/posts/many-seniors-do-not-get-enough-protein-vitamin-d-mg-etc-needed-for-bones" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many seniors do not get enough protein, Vitamin D, Mg, etc. needed for bones – Feb 2019">Many seniors do not get enough protein, Vitamin D, Mg, etc. needed for bones – Feb 2019</a>** 
+ **[Many seniors do not get enough protein, Vitamin D, Mg, etc. needed for bones – Feb 2019](/posts/many-seniors-do-not-get-enough-protein-vitamin-d-mg-etc-needed-for-bones)** 
 
 ---
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Vitamin D Cofactors in a nutshell](/posts/vitamin-d-cofactors-in-a-nutshell)
 

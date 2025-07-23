@@ -232,7 +232,7 @@ Conclusions: Although in vitro and animal studies suggest regression of the endo
 
 #### Endometriosis treated by Vitamin D – RCT Jan 2021
 
-<a href="/posts/endometriosis-treated-by-vitamin-d-50000-iu-bi-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021">Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021</a>
+[Endometriosis treated by Vitamin D (50,000 IU bi-weekly) – RCT Jan 2021](/posts/endometriosis-treated-by-vitamin-d-50000-iu-bi-weekly-rct)
 
 ---
 
@@ -272,7 +272,7 @@ Conclusions: Although in vitro and animal studies suggest regression of the endo
 
 *  **Quercetin**  inhibits proliferation of endometriosis regulating cyclin D1 and its target microRNAs in vitro and in vivo [doi: 10.1016/j.jnutbio.2018.09.024](https://doi.org/10.1016/j.jnutbio.2018.09.024) Jan 2019
 
-<a href="/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curcumin may increase Vitamin D in tissues (activates Vitamin D Receptor) – Dec 2010">Curcumin in VitaminDWiki</a>
+[Curcumin in VitaminDWiki](/posts/curcumin-may-increase-vitamin-d-in-tissues-activates-vitamin-d-receptor)
 
 * [ **Turmeric (Curcumin)** : The Golden Spice in the fight against Endometriosis](https://www.preventmiscarriage.com/turmeric-spice-fights-endometriosis.html) Feb 2018, 15 references
 
@@ -286,7 +286,7 @@ Conclusions: Although in vitro and animal studies suggest regression of the endo
 
 * Decreased zinc and increased lead blood levels are associated with endometriosis in Asian Women Dec 2017 [doi: 10.1016/j.reprotox.2017.09.001.](https://doi.org/10.1016/j.reprotox.2017.09.001.)
 
-<a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium in VitaminDWiki</a>
+[Magnesium in VitaminDWiki](/posts/overview-magnesium-and-vitamin-d)
 
 * [Endometriosis Part 1: Nutrient deficiencies](https://www.wildnutrition.com/blogs/our-blog/endometriosis-part-1-nutrient-deficiencies)
 
@@ -302,7 +302,7 @@ Conclusions: Although in vitro and animal studies suggest regression of the endo
 
    * "Endometriosis grows in different places in different women. In can attach to the ovaries, the outside of the uterus, the pelvic wall, the appendix, the lungs, the brain, etc. "
 
-<a href="/posts/vitamin-d-and-omega-3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Omega-3">Omega-3 in VitaminDWiki</a>
+[Omega-3 in VitaminDWiki](/tags/omega-3-in-vitamindwiki.html)
 
 * Efficacies of vitamin D and **omega-3**  polyunsaturated fatty acids on experimental endometriosis - Dec 2016 10.1016/j.tjog.2015.06.018 FREE PDF
 
@@ -312,15 +312,15 @@ Ginger - many examples on the web, example
 
    * "Ginger root powder ... 500 mg 2-4 times/day has been shown to reduce pain equal to the effects of ibuprofen"
 
-* VitaminDWiki: <a href="/posts/dysmenorrhea-substantially-reduced-by-ginger-just-1000-iu-vitamin-d-also-helped-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dysmenorrhea substantially reduced by Ginger, just 1,000 IU Vitamin D also helped – RCT Nov 2019">Dysmenorrhea substantially reduced by Ginger, just 1,000 IU Vitamin D also helped – RCT Nov 2019</a>
+* VitaminDWiki: [Dysmenorrhea substantially reduced by Ginger, just 1,000 IU Vitamin D also helped – RCT Nov 2019](/posts/dysmenorrhea-substantially-reduced-by-ginger-just-1000-iu-vitamin-d-also-helped-rct)
 
    * Secondary Dysmenorrhea is ude to Endometriosis
 
-[Better than daily in VitaminDWiki](/categories/better-than-daily)
+[Better than daily in VitaminDWiki](/posts/better-than-daily)
 
 * Suspect that non-daily dosing of Vitamin D will be great for Endometriosis, as it is for scores of other health problems. 
 
-* A high <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">concentration gradient</a> appears to get over the Vitamin D Receptor barrier
+* A high [concentration gradient](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) appears to get over the Vitamin D Receptor barrier
 
 [Progesterone in VitaminDWiki](/posts/progesterone-activates-vitamin-d-receptor-many-studies) 
 

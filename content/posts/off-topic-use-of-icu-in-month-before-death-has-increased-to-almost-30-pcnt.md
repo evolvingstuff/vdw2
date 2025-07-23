@@ -59,9 +59,9 @@ Conclusion and Relevance  Among Medicare beneficiaries who died in 2009 and 2005
 
 * [2X more complications after heart surgery associated with high level of vitamin D – Jan 2013](/posts/2x-more-complications-after-heart-surgery-associated-with-high-level-of-vitamin-d)
 
-* <a href="/posts/critically-ill-70-percent-more-likely-to-die-if-vitamin-d-less-than-15ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Critically ill 70 percent more likely to die if vitamin D less than 15ng – Jan 2011">Critically ill 70 percent more likely to die if vitamin D less than 15ng – Jan 2011</a>
+* [Critically ill 70 percent more likely to die if vitamin D less than 15ng – Jan 2011](/posts/critically-ill-70-percent-more-likely-to-die-if-vitamin-d-less-than-15ng)
 
-* <a href="/posts/encourage-your-senior-parents-to-take-more-vitamin-d-you-will-get-more-inheritance" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Encourage your senior parents to take more vitamin D, you will get more inheritance">Encourage your senior parents to take more vitamin D, you will get more inheritance</a> which has the following graphic
+* [Encourage your senior parents to take more vitamin D, you will get more inheritance](/posts/encourage-your-senior-parents-to-take-more-vitamin-d-you-will-get-more-inheritance) which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

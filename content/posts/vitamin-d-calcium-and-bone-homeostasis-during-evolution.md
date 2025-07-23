@@ -419,10 +419,10 @@ We thank Erik Van Herck for technical assistance. We also appreciate the help of
 
 #### See related in VitaminDWiki
 
-* <a href="/posts/vitamin-d-in-the-context-of-evolution-400000000-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D in the Context of Evolution (400,000,000 years) – July 2022">Vitamin D in the Context of Evolution (400,000,000 years) – July 2022</a>
+* [Vitamin D in the Context of Evolution (400,000,000 years) – July 2022](/posts/vitamin-d-in-the-context-of-evolution-400000000-years)
 
-* <a href="/posts/evolution-and-vitamin-d-omega-3-obesity-mitochondria-dna-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Evolution and Vitamin D, Omega-3, obesity, mitochondria, DNA, etc. – Feb 2019">Evolution and Vitamin D, Omega-3, obesity, mitochondria, DNA, etc. – Feb 2019</a>
+* [Evolution and Vitamin D, Omega-3, obesity, mitochondria, DNA, etc. – Feb 2019](/posts/evolution-and-vitamin-d-omega-3-obesity-mitochondria-dna-etc)
 
-* <a href="/posts/vitamin-d-has-been-used-for-750-million-years-by-virually-all-forms-of-life" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D has been used for 750 million years by virually all forms of life">Vitamin D has been used for 750 million years by virually all forms of life</a>
+* [Vitamin D has been used for 750 million years by virually all forms of life](/posts/vitamin-d-has-been-used-for-750-million-years-by-virually-all-forms-of-life)
 
-* <a href="/posts/history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019">History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019</a>
+* [History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019](/posts/history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019)

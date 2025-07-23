@@ -67,7 +67,7 @@ Most studies use a much higher cutpoint of 30 ng
 
 ### See also VitaminDWiki
 
-* [Infant-Child](/categories/infant-child) catgory listing with assocated searches
+* [Infant-Child](/posts/infant-child) catgory listing with assocated searches
 
 * [Third study found that Infants needed 1600 IU of vitamin D – JAMA RCT May 2013](/posts/third-study-found-that-infants-needed-1600-iu-of-vitamin-d-jama-rct)
 

@@ -88,7 +88,7 @@ This is a rough draft. There will be extensive re-writing, deleting, re-arrangin
 
 He started a family practice which expanded to having 8,000 patients, most of whom now have vitamin D level 80 ng ± 10 ng. 
 
-<a href="/posts/grassrootshealth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3614">Grassrootshealth</a> provided him with the target of 80 ng of vitamin D
+[Grassrootshealth](/tags/grassrootshealth.html) provided him with the target of 80 ng of vitamin D
 
 He started with vitamin D in 2007 and wants to remain anonymous
 
@@ -212,7 +212,7 @@ Note: in 2013 [Quest](http://www.questdiagnostics.com/testcenter/BUOrderInfo.act
 
 ### Hyperperathryoidism
 
-He was careful with 1% of his patients who were determined to have <a href="/posts/hyperperathryoidism" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 956">hyperperathryoidism</a>.
+He was careful with 1% of his patients who were determined to have [hyperperathryoidism](/tags/hyperperathryoidism.html).
 
 <span style="color:#00F;">{There is a controversy that this disease causes Calcium levels in the urine to increase a lot with the addition of vitamin D.}.</span>
 

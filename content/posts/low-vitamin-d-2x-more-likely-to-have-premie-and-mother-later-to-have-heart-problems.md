@@ -50,11 +50,11 @@ PDF does NOT mention Vitamin D
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/pretern-cvd.jpg" alt="image" width="500">
 
-#### <a href="/posts/heart-failure-early-death-2x-more-likely-if-less-than-20-nanograms-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Heart Failure early death 2X more likely if less than 20 nanograms of vitamin D – June 2012">Heart Failure early death 2X more likely if less than 20 nanograms of vitamin D – June 2012</a>
+#### [Heart Failure early death 2X more likely if less than 20 nanograms of vitamin D – June 2012](/posts/heart-failure-early-death-2x-more-likely-if-less-than-20-nanograms-of-vitamin-d)
 
-#### <a href="/posts/pre-term-birth-3x-more-likely-if-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2679">Pre-term birth 3X more likely if less than 20 ng of vitamin D – May 2012</a>
+#### [Pre-term birth 3X more likely if less than 20 ng of vitamin D – May 2012](/tags/pre-term-birth-3x-more-likely-if-less-than-20-ng-of-vitamin-d-may-2012.html)
 
-#### <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> has the following graphic
+#### [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 
@@ -64,6 +64,6 @@ PDF does NOT mention Vitamin D
 
 * [Depression ==> premature birth](http://well.blogs.nytimes.com/2014/04/07/antidepressants-linked-to-premature-births/) 96% increase in premature birth if ani-depressants in late pregnancy; April 2014
 
-* <a href="/posts/asthma-heart-problems-and-death" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3361">Asthma ==> Heart Problems and death</a>
+* [Asthma ==> Heart Problems and death](/tags/asthma-heart-problems-and-death.html)
 
-* <a href="/posts/rheumatoid-arthritis-cardiovascular" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4515">Rheumatoid Arthritis ==> Cardiovascular</a>
+* [Rheumatoid Arthritis ==> Cardiovascular](/tags/rheumatoid-arthritis-cardiovascular.html)

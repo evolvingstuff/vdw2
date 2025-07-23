@@ -52,16 +52,16 @@ It takes several generations (epigenetics) for the skin and behaviour to adjust 
 
 ## See also VitaminDWiki
 
-* All items in category [Depression](/categories/depression)
+* All items in category [Depression](/tags/depression.html)
 
 * [Pregnant blacks 50 pcnt more likely to be depressed if 3 ng less vitamin D – July 2012 ](/posts/pregnant-blacks-50-pcnt-more-likely-to-be-depressed-if-3-ng-less-vitamin-d)
 
-* <a href="/posts/psychosis-in-dark-skinned-people-35-x-higher-if-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012 ">Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012 </a>
+* [Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012 ](/posts/psychosis-in-dark-skinned-people-35-x-higher-if-low-level-of-vitamin-d)
 
-* <a href="/posts/immigrant-vitamin-d-deficiency-in-europe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Immigrant vitamin D deficiency in Europe – May 2011">Immigrant vitamin D deficiency in Europe – May 2011</a>
+* [Immigrant vitamin D deficiency in Europe – May 2011](/posts/immigrant-vitamin-d-deficiency-in-europe)
 
-* <a href="/posts/nutritional-rickets-in-denmark-especially-among-immigrant-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nutritional Rickets in Denmark especially among immigrant children- Feb 2012">Nutritional Rickets in Denmark especially among immigrant children- Feb 2012</a>
+* [Nutritional Rickets in Denmark especially among immigrant children- Feb 2012](/posts/nutritional-rickets-in-denmark-especially-among-immigrant-children)
 
-* <a href="/posts/second-generation-dark-skinned-immigrants-live-shorter-lives" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Second generation dark skinned immigrants live shorter lives">Second generation dark skinned immigrants live shorter lives</a> video includes the following chart
+* [Second generation dark skinned immigrants live shorter lives](/posts/second-generation-dark-skinned-immigrants-live-shorter-lives) video includes the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/second-generation-dark-skin.gif" alt="image" style="max-width: 600px;">

@@ -77,6 +77,6 @@ Conclusions: Higher neonatal 25(OH)D3 was associated with higher fasting insulin
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Low vitamin D in pregnancy – epigenetic pancreas problems in offspring (mice) – May 2016](/posts/low-vitamin-d-in-pregnancy-epigenetic-pancreas-problems-in-offspring-mice)

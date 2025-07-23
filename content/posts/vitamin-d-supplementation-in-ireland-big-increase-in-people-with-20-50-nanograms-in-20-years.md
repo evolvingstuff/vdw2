@@ -71,7 +71,7 @@ Funding:	none
 
  **See also VitaminDWiki** 
 
-<a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+[Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 [Is too much vitamin D bad – possible causes and cures](/posts/is-too-much-vitamin-d-bad-possible-causes-and-cures)
 

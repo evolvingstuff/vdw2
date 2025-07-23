@@ -48,17 +48,17 @@
 
 ### VitainDWiki suggests that Calico should also invest in restoring Vitamin D levels
 
-* Strong indications that Vitamin D can prevent <a href="/posts/parkinsons-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 484">Parkinson’s Disease</a> ( **<span style="color:#F00;">Brin</span>** )
+* Strong indications that Vitamin D can prevent [Parkinson’s Disease](/tags/parkinsons-disease.html) ( **<span style="color:#F00;">Brin</span>** )
 
-* <a href="/posts/hashimotos-thyroiditis-span-stylecolorf00pagespan-does-decrease-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1843">Hashimoto's thyroiditis ( **<span style="color:#F00;">Page</span>** ) does decrease levels of vitamin D</a> 
+* [Hashimoto's thyroiditis ( **<span style="color:#F00;">Page</span>** ) does decrease levels of vitamin D](/tags/hashimotos-thyroiditis-span-stylecolorf00pagespan-does-decrease-levels-of-vitamin-d.html) 
 
    * Vitamin D might be able to treat Hashimoto's thyroiditis - research (funded by Page/Calico?) is needed
 
-* <a href="/posts/doubling-vitamin-d-levels-should-increase-lifespan-by-2-years" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1803">Doubling vitamin D levels should increase lifespan by 2 years</a>
+* [Doubling vitamin D levels should increase lifespan by 2 years](/tags/doubling-vitamin-d-levels-should-increase-lifespan-by-2-years.html)
 
    * which should also extend the quality of the life by perhaps 10 years
 
-* Improve productivity of Google employees  <a href="/posts/workplace-wellness-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4197">Workplace Wellness and Vitamin D</a>
+* Improve productivity of Google employees  [Workplace Wellness and Vitamin D](/tags/workplace-wellness-and-vitamin-d.html)
 
    * Fewer days of sick leave
 
@@ -80,9 +80,9 @@
 
 1. Trial of benefit of UVB lighting (which increases vitamin D levels) on health and productivity
 
-   * Note: <a href="/posts/uvb-lighting-experiment-in-a-grade-school-classroom" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3581">UVB lighting experiment in a grade school classroom</a> found better attendance, decreased increase in body fat, better test scores, and 5X fewer cavities
+   * Note: [UVB lighting experiment in a grade school classroom](/tags/uvb-lighting-experiment-in-a-grade-school-classroom.html) found better attendance, decreased increase in body fat, better test scores, and 5X fewer cavities
 
-1. Selectively install <a href="/posts/widow-panes-which-are-transparent-in-uvb" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3121">widow panes which are transparent in UVB</a> – which creates vitamin D
+1. Selectively install [widow panes which are transparent in UVB](/tags/widow-panes-which-are-transparent-in-uvb.html) – which creates vitamin D
 
    * Monitor sick leave of employees working near these special windows.
 
@@ -102,9 +102,9 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/propose-not-just-vitamin-d-monotherapy-will-also-use-magnesium-omega-3-and-other-cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Propose not just Vitamin D monotherapy, will also use Magnesium, Omega-3, and other cofactors</a>
+* [Propose not just Vitamin D monotherapy, will also use Magnesium, Omega-3, and other cofactors](/tags/propose-not-just-vitamin-d-monotherapy-will-also-use-magnesium-omega-3-and-other-cofactors.html)
 
-* <a href="/posts/2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2200X more problems from no UVB than too much UVB - WHO 2006">2200X more problems from no UVB than too much UVB - WHO 2006</a>
+* [2200X more problems from no UVB than too much UVB - WHO 2006](/posts/2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006)
 
 * [Death rate 2X higher if low vitamin D - 180,000 adults, not just elderly – May 2012](/posts/death-rate-2x-higher-if-low-vitamin-d-180000-adults-not-just-elderly) which has the following chart
 

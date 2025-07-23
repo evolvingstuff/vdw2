@@ -60,12 +60,12 @@ PMID: 25085713
 
 ## See also VitaminDWik
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
-* <a href="/posts/more-likely-to-have-chronic-widespread-pain-when-have-less-than-15-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More likely to have Chronic Widespread Pain when have less than 15 ng of vitamin D – May 2010">More likely to have Chronic Widespread Pain when have less than 15 ng of vitamin D – May 2010</a>
+* [More likely to have Chronic Widespread Pain when have less than 15 ng of vitamin D – May 2010](/posts/more-likely-to-have-chronic-widespread-pain-when-have-less-than-15-ng-of-vitamin-d)
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a> - the most-visited page on VitaminDWiki
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d) - the most-visited page on VitaminDWiki
 
 * [Pain - chronic](/posts/pain-chronic) category listing with associated searches
 
-* <a href="/posts/100-million-americans-have-chronic-pain-iom" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1777">100 Million Americans Have Chronic Pain – IoM June 2011</a>
+* [100 Million Americans Have Chronic Pain – IoM June 2011](/posts/100-million-americans-have-chronic-pain-iom)

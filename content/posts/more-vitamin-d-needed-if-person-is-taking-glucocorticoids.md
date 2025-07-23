@@ -118,4 +118,4 @@ Yes, can take active vitamin D, instead of standard vitamin D, but active vitami
 
 * [Extensive review of influence of drugs on vitamin D and Calcium – April 2012](/posts/extensive-review-of-influence-of-drugs-on-vitamin-d-and-calcium)
 
-* <a href="/posts/glucocorticoid-treatment-reduces-vitamin-d-getting-to-cells-via-3-or-4-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Glucocorticoid treatment reduces Vitamin D getting to cells via 3 or 4 genes">Glucocorticoid treatment reduces Vitamin D getting to cells via 3 or 4 genes</a>
+* [Glucocorticoid treatment reduces Vitamin D getting to cells via 3 or 4 genes](/posts/glucocorticoid-treatment-reduces-vitamin-d-getting-to-cells-via-3-or-4-genes)

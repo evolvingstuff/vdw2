@@ -35,7 +35,7 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011">Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011</a>
+* [Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011](/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011)
 
 ---
 

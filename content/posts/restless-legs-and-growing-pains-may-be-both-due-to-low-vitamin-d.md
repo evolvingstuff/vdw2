@@ -59,7 +59,7 @@ Vitamin D is said to be deficient in both disorders <sup>[37,38]</sup> and vitam
 
 ## See also VitaminDWiki
 
-* <a href="/posts/could-growing-pains-in-a-child-be-a-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Could growing pains in a child be a vitamin D deficiency – Sept 2010">Could growing pains in a child be a vitamin D deficiency – Sept 2010</a>
+* [Could growing pains in a child be a vitamin D deficiency – Sept 2010](/posts/could-growing-pains-in-a-child-be-a-vitamin-d-deficiency)
 
 * [Restless legs syndrome 5X more likely if low vitamin D – May 2014](/posts/restless-legs-syndrome-5x-more-likely-if-low-vitamin-d)
 

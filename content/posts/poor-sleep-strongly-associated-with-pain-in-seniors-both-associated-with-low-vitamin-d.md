@@ -64,9 +64,9 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
-* [Sleep](/categories/sleep) category listing with many associagted searches - such as Magnesum and sleep
+* [Sleep](/tags/sleep.html) category listing with many associagted searches - such as Magnesum and sleep
 
 * [Sleep disorders cured by 60-80 ng of vitamin D and some B vitamins – March 2013](/posts/sleep-disorders-cured-by-60-80-ng-of-vitamin-d-and-some-b-vitamins)
 
@@ -76,4 +76,4 @@
 
 > dark skin is associated with low vitamin D
 
-* <a href="/posts/severe-sleep-apnea-increased-chance-by-48-x-of-cancer-death-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Severe sleep apnea increased chance by 4.8 X of cancer death: low vitamin D – May 2012">Severe sleep apnea increased chance by 4.8 X of cancer death: low vitamin D – May 2012</a>
+* [Severe sleep apnea increased chance by 4.8 X of cancer death: low vitamin D – May 2012](/posts/severe-sleep-apnea-increased-chance-by-48-x-of-cancer-death-low-vitamin-d)

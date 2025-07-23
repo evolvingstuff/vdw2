@@ -74,7 +74,7 @@ See also [Preeclampsia changes to Vitamin D Binding Protein reduces Vitamin D in
 
 * [Chart of Vitamin D levels vs disease - Grassroots Health June 2013](/posts/chart-of-vitamin-d-levels-vs-disease-grassroots-health)
 
-* <a href="/posts/2-month-response-time-to-vitamin-d-grassroots-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2 month response time to Vitamin D (Grassroots Health) ">2 month response time to Vitamin D (Grassroots Health) </a>
+* [2 month response time to Vitamin D (Grassroots Health) ](/posts/2-month-response-time-to-vitamin-d-grassroots-health)
 
 ### Chart titles in the file which you can batch download
 

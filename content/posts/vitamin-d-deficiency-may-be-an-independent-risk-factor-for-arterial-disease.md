@@ -56,6 +56,6 @@ Copyright © 2012. Published by Elsevier Ltd, PMID: 22841360
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Female mortality predicted better by vitamin D than by C-Reactive Protein – Dec 2013](/posts/female-mortality-predicted-better-by-vitamin-d-than-by-c-reactive-protein)

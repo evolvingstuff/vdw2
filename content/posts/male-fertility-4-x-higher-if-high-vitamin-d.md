@@ -58,7 +58,7 @@ Delivery rate/cycle (%)| 7 %| 1 %| p < 0.01||
 
 * [Fertility in both women and men improves with more vitamin D (but less than 50 ng for men) – Dec 2013](/posts/fertility-in-both-women-and-men-improves-with-more-vitamin-d-but-less-than-50-ng-for-men)
 
-* <a href="/posts/women-with-more-than-minimum-vitamin-d-were-34-x-more-likely-to-achieve-pregnanc-ave-live-births" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Women with more than minimum vitamin D were 3.4 X more likely to achieve pregnancy and 1.6 X more likely to have live births – June 2017">Women with more than minimum vitamin D were 3.4 X more likely to achieve pregnancy and 1.6 X more likely to have live births – June 2017</a>
+* [Women with more than minimum vitamin D were 3.4 X more likely to achieve pregnancy and 1.6 X more likely to have live births – June 2017](/posts/women-with-more-than-minimum-vitamin-d-were-34-x-more-likely-to-achieve-pregnanc-ave-live-births)
 
 ---
 

@@ -1,0 +1,72 @@
+<!doctype html><html><head><meta charset=utf-8><title>Yet again - more than 10000 IU of vitamin D treats MS</title>
+<link rel=stylesheet href="/css/main.css?v=1753303883"><link rel=stylesheet href="/css/pagination.css?v=1753303883"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303883"></script><script src="/js/search.js?v=1753303883"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Yet again - more than 10000 IU of vitamin D treats MS</h1><time>July 12, 2011</time><div data-pagefind-body><h3 id=sunshine-vitamin-sheds-light-on-ms>Sunshine Vitamin Sheds Light on MS</h3><p><a href=http://sciencemedicine.org/content/3/90/90ec102.short%20>Science Translational Medicine Home > 6 July 2011</a></p><p>Vol. 3, Issue 90, p. 90ec102</p><p>Rebecca S. Boxer</p><p>Case Western Reserve University, School of Medicine, Cleveland, OH 44106, USA. E-mail: <a href=mailto:Rebecca.Boxer@UHhospitals.org>Rebecca.Boxer@UHhospitals.org</a></p><p>Mother’s advice to get out into the sunshine may be better advice then many realize. Vitamin D, the sunshine vitamin, which is produced in skin exposed to ultraviolet (UVB) light, may have important down-regulatory effects on the inflammatory response in patients.</p><p>Multiple sclerosis (MS) is believed to be an autoimmune disease in which the immune system damages the nervous system; thus, immune modulation is an attractive therapeutic goal for MS. In vitro and animal studies show that active vitamin D affects differentiation of immune cells and modulation of immune responses. Now, Kimball et al. study the peripheral blood mononuclear cells (PBMCs) from patients who were enrolled in an open-label, randomized controlled trial for 12 months.</p><p>The study by Kimball et al. was undertaken to demonstrate an in vivo mechanism for the clinical effects of vitamin D (cholecalciferol) in MS patients. The clinical results from this trial were previously published and demonstrated that the MS patients in the intervention group had fewer relapses and improved disability at 12 months as compared with controls. Those in the vitamin D group received a high dose of vitamin D, averaging 14,000 IU per day with calcium, whereas controls did not receive supplements.</p><p>This vitamin D dosing successfully elevated serum vitamin D concentrations from the normal range at baseline to a <strong>>50% increase</strong> in the intervention group compared with controls. No differences were observed between the T cell proliferative responses of the intervention and control groups at baseline.</p><p>After 12 months, the PBMCs proliferative responses to MS disease–associated antigens (including neuronal, milk, and islet antigens) were significantly reduced in the treated group, indicating a role for vitamin D in this immunomodulation. However, markers of generalized inflammation, central nervous system inflammation, and markers of bone formation were not different among groups. Nevertheless, the suppression of <strong>T cell reactivity</strong> by vitamin D in patients with MS in this exploratory study was impressive and warrants further investigation.</p><p>S. Kimball et al., Cholecalciferol plus calcium suppresses abnormal PBMC reactivity in patients with multiple sclerosis. J. Clin. Endocr. Metab. 22 June 2011 (jc.2011-0325). (see below)</p><p>Copyright © 2011, American Association for the Advancement of Science</p><hr><h3 id=cholecalciferol-plus-calcium-suppresses-abnormal-pbmc-reactivity-in-patients-with-multiple-sclerosis>Cholecalciferol Plus Calcium Suppresses Abnormal PBMC Reactivity in Patients with Multiple Sclerosis</h3><p>The Journal of Clinical Endocrinology & Metabolism June 22, 2011 jc.2011-0325</p><p>Samantha Kimball <a href=mailto:samantha.kimball@utoronto.ca>samantha.kimball@utoronto.ca</a> , Reinhold Vieth, Hans-Michael Dosch, Amit Bar-Or, Roy Cheung, Donald Gagne, Paul O&rsquo;Connor, Cheryl D&rsquo;Souza, Melanie Ursell and Jodie M. Burton</p><p>Departments of Nutritional Sciences (S.K., R.V.) and Laboratory Medicine and Pathology (R.V.), University of Toronto, and Department of Pathology and Laboratory Medicine (S.K., R.V.), Mount Sinai Hospital, Toronto, Ontario, Canada M5G 1X5; The Hospital for Sick Children (H.-M.D., R.C.), Research Institute, Toronto, Ontario, Canada M5G 1X8; Montreal Neurological Institute, Department of Neurology and Neurosurgery (A.B.-O., D.G.) and Experimental Therapeutics Program (A.B.-O.), McGill University, Montreal, Quebec, Canada H3A 2B4; Division of Neurology (P.O., J.M.B.), St. Michael&rsquo;s Hospital, and Department of Neurology, University of Toronto, Toronto, Ontario, Canada, M5B 1W8; Center for Research in Neurodegenerative Diseases (C.D.), University of Toronto, Ontario, Canada, M58 3H2; and Oshawa Clinic (M.U.), Oshawa, Ontario, Canada, L1H 1B9</p><p>Context: The active metabolite of vitamin D, 1,25-dihydroxyvitamin D <span>[1,25(OH)2D]</span>, is a potent modulator of immune cells in vitro.</p><p>Objective: Our objective was to determine whether the sun-dependent nutrient, cholecalciferol, can alter disease-associated cellular immune abnormalities in patients with multiple sclerosis (MS).</p><p>Design: This was an open-label, 12-month, randomized controlled trial.</p><p>Setting: Patients with MS were recruited from the MS Clinic at St. Michael&rsquo;s Hospital, Toronto.</p><p>Patients: Forty-nine patients were matched (for age, sex, disease duration, disease-modifying drug, and disability) and enrolled (treated n = 25; control n = 24). Four patients were lost to follow-up (n = 2 from each group).</p><p>Intervention: Treated patients received increasing doses of cholecalciferol <strong>(4,000–40,000 IU/d) plus calcium (1200 mg/d), followed by equilibration to a moderate, physiological intake (10,000 IU/d).</strong> Control patients did not receive supplements.</p><p>Main Outcome Measures: At enrollment and at 12 months, peripheral blood mononuclear cell (PBMC) proliferative responses to disease-associated, MS-relevant, and control antigens were measured, along with selected serum biochemical markers.</p><p>Results: At 12 months, mean serum 25-hydroxyvitamin D <span>[25(OH)D]</span> concentrations were 83 ± 35 nmol/liter and 179 ± 76 nmol/liter in control and treated participants, respectively (paired t, P &lt; 0.001). Serum 1,25(OH)2D did not differ between baseline and 1 yr. In treated patients, 12-month PBMC proliferative responses to neuron antigens myelin basic protein and exon-2 were suppressed (P = 0.002). In controls, there were no significant changes in disease-associated PBMC responsiveness. There were no significant differences between groups in levels of selected biomarkers.</p><p>Interpretation: MS-associated, abnormal <strong>T cell reactivities were suppressed</strong> in vivo by cholecalciferol at serum 25(OH)D concentrations higher than 100 nmol/liter.</p><p>Received February 4, 2011. Accepted June 6, 2011.</p><p>Copyright © 2011 by The Endocrine Society</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/immunity.html><span class=tag>Immunity</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/intervention.html><span class=tag>Intervention</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>Multiple Sclerosis</span></a>
+<a href=/tags/pediatric-autoimmune.html><span class=tag>pediatric autoimmune</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>autoimmune, blood levels, child, dosage, high dose, immunity, Immunity, intervention, Intervention, multiple sclerosis, Multiple Sclerosis, pediatric autoimmune, therapeutic intervention, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303883"></script><script src="/js/tiki-redirects.js?v=1753303883"></script><script src="/js/lightspa.js?v=1753303883"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303883",indexUrl:"/search/search_index.json.gz?v=1753303883"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303883"></script></body></html>

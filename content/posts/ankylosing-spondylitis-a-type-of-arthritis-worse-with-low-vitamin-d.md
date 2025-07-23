@@ -36,20 +36,20 @@ Bekir Durmus, Zuhal Altay, Ozlem Baysal and Yuksel Ersoy
 
 - - - - - - - 
 
-### There are many reasons to believe that the vitamin D <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a> which **benefit bone**  would be very helpful for AS
+### There are many reasons to believe that the vitamin D [cofactors](/tags/cofactors.html) which **benefit bone**  would be very helpful for AS
 
  **Here is portion of the summary table of the cofactor page as of July 2012** 
 
 | | | |
 | --- | --- | --- |
-| Cofactor | How Much | <a href="/posts/benefit-bone" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Benefit Bone</a> |
+| Cofactor | How Much | [Benefit Bone](/tags/benefit-bone.html) |
 | [Calcium](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=53&sort_mode=created_desc) | <750mg | Yes |
 | [Magnesium](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=54&sort_mode=created_desc) | 500mg | Yes |
-| <a href="/posts/vitamin-k2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Vitamin K2</a> |  | Yes   |
-| [Vitamin A](/categories/vitamin-a) |  | maybe |
-| [Boron](/categories/boron) | 5-10mg   | Yes |
-| <a href="/posts/silica" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1506">Silica</a> |  | Yes    |
-| <a href="/posts/strontium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1272">Strontium</a> |  | Yes  |
+| [Vitamin K2](/tags/vitamin-k2.html) |  | Yes   |
+| [Vitamin A](/tags/vitamin-a.html) |  | maybe |
+| [Boron](/tags/boron.html) | 5-10mg   | Yes |
+| [Silica](/tags/silica.html) |  | Yes    |
+| [Strontium](/tags/strontium.html) |  | Yes  |
 | Zinc  |  | Yes  |
 
 ## See also VitaminDWiki

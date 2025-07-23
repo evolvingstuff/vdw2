@@ -68,7 +68,7 @@ Conclusion: In this study, vitamin D level and age are independent predictors of
 
 ## See also VitaminDWiki
 
-* <a href="/posts/2x-more-likely-to-kill-superbug-in-1-month-with-adequate-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X more likely to kill superbug in 1 month with adequate level of vitamin D">2X more likely to kill superbug in 1 month with adequate level of vitamin D</a> 2010
+* [2X more likely to kill superbug in 1 month with adequate level of vitamin D](/posts/2x-more-likely-to-kill-superbug-in-1-month-with-adequate-level-of-vitamin-d) 2010
 
 * [Hypothesis: antibiotic resistant bacteria can be controlled with vitamin D](/posts/hypothesis-antibiotic-resistant-bacteria-can-be-controlled-with-vitamin-d)
 

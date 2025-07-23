@@ -53,11 +53,11 @@
 
  **See VitaminDWiki:** 
 
-* <a href="/posts/osteoporosis-and-low-grip-strength-both-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis and low grip strength both associated with low vitamin D – Feb 2018">Osteoporosis and low grip strength both associated with low vitamin D – Feb 2018</a>
+* [Osteoporosis and low grip strength both associated with low vitamin D – Feb 2018](/posts/osteoporosis-and-low-grip-strength-both-associated-with-low-vitamin-d)
 
-* <a href="/posts/poor-handgrip-strength-in-5-year-old-girls-3x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Poor handgrip strength in 5-year-old girls 3X more likely if low vitamin D – May 2018">Poor handgrip strength in 5-year-old girls 3X more likely if low vitamin D – May 2018</a>
+* [Poor handgrip strength in 5-year-old girls 3X more likely if low vitamin D – May 2018](/posts/poor-handgrip-strength-in-5-year-old-girls-3x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/weaker-hand-grip-if-poor-vitamin-d-receptor-15-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Weaker hand grip if poor Vitamin D Receptor (15 percent) – Nov 2016">Weaker hand grip if poor Vitamin D Receptor (15 percent) – Nov 2016</a>
+* [Weaker hand grip if poor Vitamin D Receptor (15 percent) – Nov 2016](/posts/weaker-hand-grip-if-poor-vitamin-d-receptor-15-percent)
 
 * [Muscle strength of senior women increased 25 percent with vitamin D, decreased 6 percent with placebo – Oct 2016](/posts/muscle-strength-of-senior-women-increased-25-percent-with-vitamin-d-decreased-6-percent-with-placebo)
 

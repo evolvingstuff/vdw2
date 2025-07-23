@@ -78,6 +78,6 @@ Copyright © 2013 by The Endocrine Society
 
 ## See also VitaminDWiki
 
-* <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium hazards and bioavailability</a> note - controversy: increase D:  0 to 3X increase in Calcium
+* [Calcium hazards and bioavailability](/posts/calcium-hazards-and-bioavailability) note - controversy: increase D:  0 to 3X increase in Calcium
 
 * [Review of Micronutrients such as vitamin D for women and childhood – Aug 2013](/posts/review-of-micronutrients-such-as-vitamin-d-for-women-and-childhood)

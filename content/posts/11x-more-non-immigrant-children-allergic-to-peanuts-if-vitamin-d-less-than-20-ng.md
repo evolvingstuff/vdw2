@@ -102,17 +102,17 @@ Fig E2. Distribution of vitamin D levels in HealthNuts serum samples by parents�
 
 #### See also VitaminDWiki
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* <a href="/posts/3x-more-allergy-to-peanuts-if-child-born-with-low-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X more allergy to peanuts if child born with low UV – Feb 2011">3X more allergy to peanuts if child born with low UV – Feb 2011</a>
+* [3X more allergy to peanuts if child born with low UV – Feb 2011](/posts/3x-more-allergy-to-peanuts-if-child-born-with-low-uv)
 
-* <a href="/posts/peanut-and-food-allergies-prevented-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Peanut and Food allergies prevented by Vitamin D">Peanut and Food allergies prevented by Vitamin D</a>
+* [Peanut and Food allergies prevented by Vitamin D](/posts/peanut-and-food-allergies-prevented-by-vitamin-d)
 
-* <a href="/posts/crescendo-of-papers-on-asthma-allergy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crescendo of papers on Asthma, Allergy, and Vitamin D – Sept 2011">Crescendo of papers on Asthma, Allergy, and Vitamin D – Sept 2011</a> which has the following graphic
+* [Crescendo of papers on Asthma, Allergy, and Vitamin D – Sept 2011](/posts/crescendo-of-papers-on-asthma-allergy-and-vitamin-d) which has the following graphic
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/png/vitamin-d-and-allergy-or-asthma-publications.png" alt="image" style="max-width: 600px;">
 
-* <a href="/posts/3x-more-allergy-to-peanuts-if-child-born-with-low-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X more allergy to peanuts if child born with low UV – Feb 2011">3X more allergy to peanuts if child born with low UV – Feb 2011</a>
+* [3X more allergy to peanuts if child born with low UV – Feb 2011](/posts/3x-more-allergy-to-peanuts-if-child-born-with-low-uv)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/australia-peanut.jpg" alt="image" width="600">
 

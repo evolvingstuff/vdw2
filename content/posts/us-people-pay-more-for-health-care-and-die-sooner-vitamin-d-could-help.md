@@ -50,7 +50,7 @@ details are at [Link between health spending and life expectancy: US is an outli
 
 * [Can Vitamin D be a Cure to Health Care Sustainability (question mark) – symposium May 2014](/posts/can-vitamin-d-be-a-cure-to-health-care-sustainability-question-mark-symposium)
 
-* <a href="/posts/hospital-stay-6-days-longer-for-nursing-home-residents-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hospital stay 6 days longer for nursing home residents with low vitamin D – Oct 2011">Hospital stay 6 days longer for nursing home residents with low vitamin D – Oct 2011</a>
+* [Hospital stay 6 days longer for nursing home residents with low vitamin D – Oct 2011](/posts/hospital-stay-6-days-longer-for-nursing-home-residents-with-low-vitamin-d)
 
 * [Dr. who got patients to vitamin D level of 80 ng](/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng) visits (by 2,000 patients in his clinic) dropped from 4 per year to 1 per year
 
@@ -60,6 +60,6 @@ details are at [Link between health spending and life expectancy: US is an outli
 
 ### Vitamin D can extend lifespan
 
-* <a href="/posts/increase-life-expectancy-by-2-years-if-double-vitamin-d-levels-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increase life expectancy by 2 years if double Vitamin D levels – Grant July 2011">Increase life expectancy by 2 years if double Vitamin D levels – Grant July 2011</a>
+* [Increase life expectancy by 2 years if double Vitamin D levels – Grant July 2011](/posts/increase-life-expectancy-by-2-years-if-double-vitamin-d-levels-grant)
 
 * [Less likely to die if have enough vitamin D - Meta-analysis June 2014](/posts/less-likely-to-die-if-have-enough-vitamin-d-meta-analysis)

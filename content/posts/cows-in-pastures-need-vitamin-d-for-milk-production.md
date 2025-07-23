@@ -43,6 +43,6 @@ This has particular relevance to cows that may not be able to replenish Ca reser
 
 * [Omega-3 added to cattle feed increases the level in milk – Nov 2012](/posts/omega-3-added-to-cattle-feed-increases-the-level-in-milk)
 
-* <a href="/posts/even-cows-need-more-than-90-minutes-in-the-sun-each-day" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Even cows need more than 90 minutes in the sun each day – Feb 2012">Even cows need more than 90 minutes in the sun each day – Feb 2012</a>
+* [Even cows need more than 90 minutes in the sun each day – Feb 2012](/posts/even-cows-need-more-than-90-minutes-in-the-sun-each-day)
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)

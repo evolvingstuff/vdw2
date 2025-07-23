@@ -1,0 +1,123 @@
+{
+    "title": "UV is one of the ways to increase Vitamin D levels, even with poor kidney",
+    "slug": "uv-is-one-of-the-ways-to-increase-vitamin-d-levels-even-with-poor-kidney",
+    "aliases": [
+        "/UV+is+one+of+the+ways+to+increase+Vitamin+D+levels+even+with+poor+kidney+\u2013+Jan+2018",
+        "/9323"
+    ],
+    "tiki_page_id": 9323,
+    "date": "2018-02-16",
+    "categories": [
+        "UV",
+        "Kidney",
+        "Forms"
+    ],
+    "tags": [
+        "CKD",
+        "CYPR",
+        "Forms",
+        "Kidney",
+        "UV",
+        "blood levels",
+        "dialysis",
+        "dosage",
+        "genetics",
+        "hemodialysis",
+        "immunity",
+        "kidney",
+        "metabolic",
+        "vitamin d",
+        "vitamin d receptor"
+    ]
+}
+
+
+#### Partial Body UV Exposure in Chronic Kidney Disease and Extrarenal Vitamin D Metabolism
+
+Anticancer Research 38: 1217-1219 (2018) [doi: 10.21873/anticanres.](https://doi.org/10.21873/anticanres.) 12342
+
+ROLFDIETER KRAUSE1’2’3, RAINER STANGE1’2, HEINZ JURGEN ROTH4, HEINRICH KAASE5, ANDREAS MICHALSEN1’2 and MICHAEL F. HOLICK6
+
+<div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:680px">
+
+* [UVB increases vitamin D even if poor kidney by changing CYP27B1 genes in skin – Dec 2013](/posts/uvb-increases-vitamin-d-even-if-poor-kidney-by-changing-cyp27b1-genes-in-skin)
+
+* [Inhaled vitamin D help lungs - many studies](/posts/inhaled-vitamin-d-help-lungs-many-studies)
+
+* [Topical vitamin D raised blood level to 38 ng (used Aloe Vera gel) – RCT March 2014](/posts/topical-vitamin-d-raised-blood-level-to-38-ng-used-aloe-vera-gel-rct)
+
+* [Natural Ways to Increase Calcitriol and Activate The Vitamin D Receptor Gene – Oct 2017](/posts/natural-ways-to-increase-calcitriol-and-activate-the-vitamin-d-receptor-gene)
+
+* [Kidney failure – still debating what form of vitamin D to use – April 2016](/posts/kidney-failure-still-debating-what-form-of-vitamin-d-to-use)
+
+* [Standard oral vitamin D is not a good way to supplement if have Chronic Kidney Disease – March 2016](/posts/standard-oral-vitamin-d-is-not-a-good-way-to-supplement-if-have-chronic-kidney-disease)
+
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
+
+ **[Getting Vitamin D into your blood and cells](/posts/getting-vitamin-d-into-your-blood-and-cells) has the following chart** 
+
+<img src="/attachments/d3.mock.jpg" alt="image">
+
+---
+
+#### Vitamin D is processed both by Kidney and by the cells (right hand column)
+
+<img src="/attachments/d3.mock.jpg" alt="image" width="300"> 
+
+click on image for details
+
+ **50% to 90% of the Vitamin D activation is done by the cells, not the Kidney** 
+
+</div>
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/uv-normalize-both-forms-of-vit-d.pdf">Download the PDF from VitaminDWiki</a>** 
+
+Background/Aim: Exposure of the skin to sunshine is the major natural source of vitamin D. In order to imitate this natural production of vitamin D for patients with chronic kidney disease, hemodialysis patients were exposed three times a week to radiation of the front part of both legs to normalize the vitamin D status. 
+
+Patients and Methods: Partial body UVB irradiation was performed during the routine dialysis session. Twenty-two patients took part, with a mean age of 61.7 (range=35-81) years. 
+
+Results: Serum levels of 25(OH)D3 and 1,25(OH)3D3 increased into the mid normal range. Intact parathyroid hormone decreased by 25% and osteocalcin by 45%. 24-Hour blood-pressure monitoring demonstrated decreases in systolic and diastolic blood pressure. 
+
+Conclusion: Partial body exposure to UVB radiation normalized not only the serum level of 25(OH)D3, but also that of 1,25(OH)2D3, which resulted in a significant decrease in parathyroid hormone, osteocalcin levels, and also in blood pressure. Sunshine imitating UVB exposure utilizes the capacity of the skin to convert extrarenally vitamin D3 to 25(OH)D3 and 1,25(OH)2D3.
+
+Exposure of the skin to sunshine is the natural process for producing vitamin D in humans. During exposure to sunlight, UVB radiation with wavelengths of 290-315 nm is absorbed by cutaneous 7-dehydrocholesterol (7-DHC) and is converted to previtamin D3. Once formed, thermally-labile pre-vitamin D3 isomerizes to vitamin D3 over several hours (1, 2). Once formed, vitamin D3 enters the circulation and is converted in the liver to 25-hydroxyvitamin D3 <span>[25(OH)D3]</span>. This major circulating metabolite is then converted in the kidneys to its active form 1,25-dihydroxyvitamin D3 <span>[1,25(OH)2D3]</span> (3,4).
+
+In patients with chronic kidney disease (CKD) with progressive loss of kidney function, the ability to convert 25(OH)D3 to 1,25(OH)2D3 also decreases, resulting in decreased intestinal absorption of calcium resulting in secondary hyperparathyroidism. Although it is possible to increase the blood level of 25(OH)D3 in patients with CKD by giving vitamin D3, this does not result in an increase in the level of circulating 1,25(OH)2D3 (5).
+
+In 1982 Lambert et al. demonstrated that patients with CKD were able to synthesize 1,25(OH)2D3 and the blood level of this hormone increased in patients who had undergone bilateral nephrectomy (6). Furthermore, it was reported that the production of vitamin D in the skin can result in its metabolism in the skin to 1,25(OH-D3 (7).
+
+In previous studies, our group demonstrated that whole-body suberythemal exposure to sun-simulated UVB radiation was able to normalize the serum levels of 25(OH)D3 and 1,25(OH)2D3 (8).
+
+When the face, forearms and lower legs are exposed to the sun, this is equivalent to approximately 14-20% of the total surface of the body. Therefore in order to have a comparable area of exposure to activate the skin for extra-renal metabolism of vitamin D, the anterior part of both legs of the hemodialysis patients were exposed to solar-simulated UVB radiation, which corresponded to approximately 18% of their body surface.
+
+#### Patients and Methods
+
+Twenty-two patients took part in this study, with a mean age of 61.7 (range=35-81) years, and mean time on dialysis of 3.6 (range=0.5- 6.0) years. UVB irradiation of the anterior legs was performed three times weekly over a period of 14 weeks during routine dialysis treatment. UVB-weighted irradiance <span>[effective, UVB dose (Euvb)]</span> was to be 1.49 W/m2, erythema-weighted irradiance (Eer) 0.21 W/m2, vitamin D-weighted irradiance (EvitD) 0.33 W/m2 for a distance of 0.24 m between the device and the patient; the duration of irradiance was calculated for skin type 2 of the irradiated parts of the legs. After 14 weeks, the mean vitamin D effective UV dose was 897.3 (range=314.8-2,212.7) mJ/cm2.
+
+Serum levels of 25(OH)D3 and 1,25(OH)2D3 were obtained at baseline before the start of the irradiance procedure and after 8 and 14 weeks of irradiation. In addition, the serum levels of intact parathyroid hormone (iPTH) and osteocalcin, a marker of bone turnover, were determined. at the same time (start, 8 and 14 weeks). Blood pressure monitoring on a 24-h basis was performed before the start and at the end of the study period.
+
+Statistics. The Medians and the ranges (lowest and highest of the individual data) are quoted. The Mann-Whitney U-test was used to test for differences in variables. A two-sided p<0.05 was considered significant.
+
+#### Results
+
+The vitamin D effective UVB dose after 8 weeks was 315.3 mJ/cm2, and after 14 weeks it was increased nearly threefold to 897.3 mJ/cm2. The serum level of 25(OH)D3 increased into the high normal range of between 70-78 ng/ml (median at week 8 and week 14 [range=53-78 ng/ml](range=53-78%20ng/ml). Serum levels of 1,25(OH)2D3 were also observed to increase into the normal range (median of 11 pg/ml after 4 weeks, and 19 pg/ml after 14 weeks [range=9-19 pg/ml](range=9-19%20pg/ml)). There was also a nonlinear relationship between the vitamin D effective UVB dose (Euvb) and the serum level of 25(OH)D3 (r=0.992), and a linear relationship between the serum levels of 25(OH)D3 and 1,25(OH)2D3 (r=0.48).
+
+The median iPTH level decreased by 25% from 12 to 9 (range=3-44) pmol/l. Osteocalcin decreased by 45% from 16 to 11 (range=7-25) |ig/l after 2 months and remained stable after 3 months during intermittent UVB irradiation. Serum calcium levels were stable (median 2.5 mmol) at start and after 4 weeks, and 2.4 mmol/l after 14 weeks (range=1.19- 2.66 mmol/l). Inorganic phosphate decreased from 1.83 mmol/l at the start to 1.78 mmol/l after 4 weeks and to 1.68 mmol/l after 14 weeks (range=0.97-2.16 mmol/l).
+
+Blood-pressure monitoring before the start of the study period and at the end showed significant decreases of 6% and 7% in systolic blood pressure during daytime (141 to 133 mmHg, range=102-176 and 104-155 mmHg, respectively) and night time (145 to 135 mmHg, range=104- 210 and 102-139 mmHg, respectively). Diastolic blood pressure also decreased by 7% during daytime (81 to 75 mmHg, range=58-111 and 51-81 mmHg, respectively) and 2% during the night time (71 to 70 mmHg, range=47-86 and 54-106 mmHg, respectively).
+
+#### Discussion
+
+Patients with CKD are unable to efficiently convert 25(OH)D3 to 1,25(OH)2D3 resulting in secondary hyperparathyroidism and renal osteodystrophy. Patients on hemodialysis are routinely treated with 1,25(OH)2D3 (calcitriol) or one of its active analogs. However, this treatment can result in hypercalcemia. Patients on hemodialysis are now routinely treated with 1,25(OH-D3 or one of its analogs along with the calcimimetic, to help control the rise in the PTH level that is associated with CKD. Based on previous observations that had suggested that the skin not only is responsible for producing vitamin D during sun exposure but also has the enzymatic machinery to produce 1,25(OH-D3, we initiated a study to evaluate the effect of whole-body irradiation with a sun-simulating UVB spectrum on the circulating levels of vitamin D and its metabolites. We observed remarkably that not only did this result in an increase in the serum levels of vitamin D and 25(OH)D3 but we also observed significant increases in that of 1,25(OH)2D3 (8). This treatment approach was more effective than after oral supplementation of a mean dose of 5,000 IU of vitamin D3 per day (9).
+
+We now report that partial body exposure to UVB irradiation has a similar effect to that of whole-body irradiation. After 2 months of regular UVB irradiation three times weekly of the front of the legs, 25(OH)D3 increased by 60% to 78 ng/ml and 1 month later, 1,25(OH)2D3 also increased by as much as 100% to 19 ng/l. This provides confirmation of our previous studies (8,9) and supports the observation of Lambert et al. (6). We found a strong relationship (r=0.48) for serum levels of 25(OH)D3 over 25 ng/ml to be associated with a significant increase in the level of circulating 1,25(OH)2D3.
+
+In addition to normalization of the blood level of vitamin D metabolites, partial body irradiation, similarly to whole-body irradiation, was also associated with significant decreases in serum iPTH level. In addition there was a significant decrease in bone remodeling as demonstrated by a decrease in serum osteocalcin levels into the normal range (10).
+
+We observed that partial body irradiation was effective in reducing blood pressure, similarly to what was observed with whole-body UVB irradiation (11). This observation is consistent with the data on geographical and seasonal variation of blood pressure i.e. lower latitudes and summer season was associated with decreased systolic and diastolic blood pressures (12, 13).
+
+Therefore partial body exposure to UVB sun-simulated radiation may be an effective treatment for normalizing Krause et al: Vitamin D and Partial Body UVB Irradiation – – – – blood pressure in patients with end-stage kidney disease. Because cardiovascular comorbidities and cardiac death are highly prevalent in patients with chronic or end-stage kidney disease, this is of great importance for the quality of life and life expectancy of such patients (14-16).
+
+In conclusion, as previously reported for sun-simulating whole-body irradiation, partial body (18% surface area) exposure to UVB radiation similar to an amount of body surface that would be exposed to sunlight during the summer (face, forearms and lower legs) can normalize the vitamin D status into the mid to high normal range. This resulted in a significant increase in the circulating level of 1,25(OH-D3, supporting the concept for the extra-renal production of 1,25(OH)2D3. The extra-renal production of 1,25(OH)2D3 in patients with CKD not only is important for their calcium and bone metabolism, but may also have important non- calcemic pleiotropic effects, including regulation of blood pressure and modulation of innate and adaptive immunity.
+
+ **However, in order to take advantage of the extra-renal production of 1,25(OH)2D3 and to raise the blood 1,25(OH)2D3 level into the normal range in patients with CKD, a 25(OH)D3 level in the range of 50-80 ng/ml may be required** . Therefore, these data support the recommendation of the U.S. Endocrine Society (17) and of the Kidney Disease: Improving Global Outcomes Guidelines (18) that the normal range of 25(OH)D3 should be a minimum of 30 ng/ml with a preferred range of 40-60 ng/ml for activating the extra-renal and autocrine conversion to 1,25(OH-D3.

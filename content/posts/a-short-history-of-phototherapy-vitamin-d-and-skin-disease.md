@@ -51,7 +51,7 @@ Jarrett P1, Scragg R2.
 
 * [Vitamin D from phototherapy lamps, tanning beds, and the sun – Jan 2012](/posts/vitamin-d-from-phototherapy-lamps-tanning-beds-and-the-sun)
 
-* <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D bulb for use in the home - or perhaps office">Vitamin D bulb for use in the home - or perhaps office</a>
+* [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office)
 
 * [Vitiligo (loss of skin pigment) treated by narrowband UVB](/posts/vitiligo-loss-of-skin-pigment-treated-by-narrowband-uvb)
 

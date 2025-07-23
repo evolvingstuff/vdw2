@@ -46,23 +46,23 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/about-7-percent-of-people-have-rare-diseases-vitamin-d-rarely-studied-for-rare-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: About 7% of people have rare diseases, Vitamin D rarely studied for rare diseases – Feb 2025">About 7% of people have rare diseases, Vitamin D rarely studied for rare diseases – Feb 2025</a>
+* [About 7% of people have rare diseases, Vitamin D rarely studied for rare diseases – Feb 2025](/posts/about-7-percent-of-people-have-rare-diseases-vitamin-d-rarely-studied-for-rare-diseases)
 
 * [Search VitaminDWiki for ("rare disease" OR orphan disease")](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%28%22rare+disease%22+OR+orphan+disease%22%29+%22vitamin+D%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 157 items as of Feb 2025
 
-* <a href="/posts/mastocytosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mastocytosis and Vitamin D">Mastocytosis and Vitamin D</a>
+* [Mastocytosis and Vitamin D](/posts/mastocytosis-and-vitamin-d)
 
 * [Huntington disease patients also have low levels of vitamin D - July 2013](/posts/huntington-disease-patients-also-have-low-levels-of-vitamin-d)
 
-* <a href="/posts/chronic-bronchitis-26-percent-less-likely-for-every-extra-ng-of-vitamin-d-cdc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic Bronchitis 2.6 percent less likely for every extra ng of vitamin D – CDC Sept 2011">Chronic Bronchitis 2.6 percent less likely for every extra ng of vitamin D – CDC Sept 2011</a>
+* [Chronic Bronchitis 2.6 percent less likely for every extra ng of vitamin D – CDC Sept 2011](/posts/chronic-bronchitis-26-percent-less-likely-for-every-extra-ng-of-vitamin-d-cdc)
 
 * [The lower the vitamin D level the more severe the rare bronchiectasis – Oct 2012](/posts/the-lower-the-vitamin-d-level-the-more-severe-the-rare-bronchiectasis)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a> even if it cannot prevent/treat the rare disease, vitamin D might be able to reduce the pain
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d) even if it cannot prevent/treat the rare disease, vitamin D might be able to reduce the pain
 
-* <a href="/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If you cannot readily get medical treatment, consider Alternative Med such as vitamin D">If you cannot readily get medical treatment, consider Alternative Med such as vitamin D</a>
+* [If you cannot readily get medical treatment, consider Alternative Med such as vitamin D](/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d)
 
-* <a href="/posts/discover-the-pain-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Discover the Pain of Vitamin D Deficiency">Discover the Pain of Vitamin D Deficiency</a>
+* [Discover the Pain of Vitamin D Deficiency](/posts/discover-the-pain-of-vitamin-d-deficiency)
 
 * [Williams-Beuren Syndrome (rare) and too much Vitamin D](/posts/williams-beuren-syndrome-rare-and-too-much-vitamin-d)
 

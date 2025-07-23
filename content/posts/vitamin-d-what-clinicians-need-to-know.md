@@ -123,7 +123,7 @@ Sri Lanka Journal of Diabetes, Endocrinology and Metabolism 2012; 2: 73-88
 
 ## Note by VitaminDWiki
 
-The following paper appears to be a very small condensation of the excellent book which he published in 2012 <a href="/posts/vitamin-d-everything-you-need-to-know" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2397"> **Vitamin D: Everything You Need to Know** </a>
+The following paper appears to be a very small condensation of the excellent book which he published in 2012 [ **Vitamin D: Everything You Need to Know** ](/tags/vitamin-d-everything-you-need-to-know.html)
 
  **<span style="color:#00F;">The figures are in the PDF of the paper is attached at the bottom of this page</span>** 
 
@@ -309,7 +309,7 @@ The guidelines recommend two- to three-fold higher doses of vitamin D for obese 
 
 * Obesity or rapid weight loss after diet/bariatric surgery
 
-&nbsp; &nbsp; &nbsp; **{See also VitaminDWiki <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Many reasons why vitamin D deficiency has become epidemic</a>}** 
+&nbsp; &nbsp; &nbsp; **{See also VitaminDWiki [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)}** 
 
 ## Risk factors for development of vitamin D deficiency
 
@@ -347,7 +347,7 @@ Improving vitamin D status is a highly cost-effective, modifiable risk factor fo
 
 * Farm-raised livestock have lower vitamin D content than does meat from open-range livestock
 
-&nbsp; &nbsp; &nbsp; **{See also VitaminDWiki <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Many reasons why vitamin D deficiency has become epidemic</a>}** 
+&nbsp; &nbsp; &nbsp; **{See also VitaminDWiki [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)}** 
 
 ## Vitamin D, muscle function, and falls
 

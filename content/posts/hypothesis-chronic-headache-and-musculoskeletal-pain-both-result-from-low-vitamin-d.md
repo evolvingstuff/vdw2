@@ -58,9 +58,9 @@ PMID:     24339599
 
 ## See also VitaminDWiki
 
-* <a href="/posts/migraine-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Migraine and Vitamin D">Migraine and Vitamin D</a> 
+* [Migraine and Vitamin D](/posts/migraine-and-vitamin-d) 
 
-* <a href="/posts/vitamin-d-and-migraine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Migraine – Nov 2010">Vitamin D and Migraine – Nov 2010</a>
+* [Vitamin D and Migraine – Nov 2010](/posts/vitamin-d-and-migraine)
 
 * [Search VitaminDWiki: headache muscular](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=headache+muscular&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 53 items Dec 2013
 

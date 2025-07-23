@@ -54,10 +54,10 @@ Abstract does not state: but they calculated the 25% number based on higher or l
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Severity of adult asthma associated with less vitamin D – Feb 2013](/posts/severity-of-adult-asthma-associated-with-less-vitamin-d)
 
 * [Asthma attacks reduced in half if Vitamin D level higher than 42 nanograms – RCT May 2014](/posts/asthma-attacks-reduced-in-half-if-vitamin-d-level-higher-than-42-nanograms-rct)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  **<span style="color:#00F;">Asthma has been proven to be treated by at least 3 Random Controlled trials with Vitamin D intervention</span>**
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  **<span style="color:#00F;">Asthma has been proven to be treated by at least 3 Random Controlled trials with Vitamin D intervention</span>**

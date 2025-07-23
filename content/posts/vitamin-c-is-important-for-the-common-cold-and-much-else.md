@@ -77,7 +77,7 @@ He found that some people need as much as 12 grams per day to get the right leve
 
 ## See also VitaminDWiki
 
-* <a href="/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018">Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018</a>
+* [Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018](/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review)
 
 * [Search VitaminDWiki for "VITAMIN C"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22VITAMIN+C%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 821 hits as of May 2018
 
@@ -259,7 +259,7 @@ Conclusions: In short-term trials, vitamin C supplementation reduced SBP and DBP
 
 Long-term trials on the effects of vitamin C supplementation on BP and clinical events are needed.
 
-{Note: this is very similar to the amount of <a href="/posts/reduction-of-hypertension-due-to-having-more-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2301">reduction of hypertension due to having more vitamin D</a>}
+{Note: this is very similar to the amount of [reduction of hypertension due to having more vitamin D](/tags/reduction-of-hypertension-due-to-having-more-vitamin-d.html)}
 
 ---
 

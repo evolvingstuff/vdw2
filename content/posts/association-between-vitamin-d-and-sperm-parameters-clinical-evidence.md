@@ -47,6 +47,6 @@ Giacomo Tirabassi, Melissa Cutini, Giovanna Muscogiuri, Nicola delli Muti, Giova
 
 * 17.E. Lerchbaum, B. Obermayer-Pietsch,  **Vitamin D and fertility: a systematic review** . Eur. J. Endocrinol. 166, 765–778 (2012)
 
-> See VitaminDWiki <a href="/posts/vitamin-d-and-fertility-a-systematic-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and fertility: a systematic review – May 2012">Vitamin D and fertility: a systematic review – May 2012</a>
+> See VitaminDWiki [Vitamin D and fertility: a systematic review – May 2012](/posts/vitamin-d-and-fertility-a-systematic-review)
 
 * 21. A.C. Heijboer, M. Oosterwerff, N.F. Schroten, E.M. Eekhoff, V.G. Chel, R.A. de Boer, M.A. Blankenstein, P. Lips, Vitamin D supplementation and testosterone concentrations in male human subjects. Clin. Endocrinol. 83, 105–110 (2015)

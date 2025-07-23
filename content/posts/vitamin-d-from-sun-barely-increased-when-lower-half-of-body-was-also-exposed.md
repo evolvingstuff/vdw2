@@ -99,9 +99,9 @@ The cholecalciferol increase was about 15 ng average for
 
 * [UV, sunshine, and vitamin D (87 charts) - Holick March 2013](/posts/uv-sunshine-and-vitamin-d-87-charts-holick)  Holick is one of the authors of the study on this page
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
-* <a href="/posts/for-small-amounts-of-sunshine-the-amount-of-skin-exposed-may-not-matter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011">For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011</a>
+* [For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011](/posts/for-small-amounts-of-sunshine-the-amount-of-skin-exposed-may-not-matter)
 
 * [Chicken legs have 190X more pre-vitamin D than other portions of the chicken](/posts/uvb-on-legs-of-chickens-resulted-in-70-iu-vitamin-d-per-egg-yoke)
 

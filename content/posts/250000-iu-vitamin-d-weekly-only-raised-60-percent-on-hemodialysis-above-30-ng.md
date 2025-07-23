@@ -40,13 +40,13 @@ Note: Publication did not appear until 5 years after the trial  had ended
 
 * [1700 IU of vitamin D not enough to help hemodialysis patients – March 2013](/posts/1700-iu-of-vitamin-d-not-enough-to-help-hemodialysis-patients)
 
-* <a href="/posts/hemodialysis-low-vitamin-d-status-was-normalized-with-28500-iu-avg-daily" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hemodialysis low vitamin D status was normalized with 28500 IU avg daily – Jan 2012">Hemodialysis low vitamin D status was normalized with 28500 IU avg daily – Jan 2012</a> 
+* [Hemodialysis low vitamin D status was normalized with 28500 IU avg daily – Jan 2012](/posts/hemodialysis-low-vitamin-d-status-was-normalized-with-28500-iu-avg-daily) 
 
 > about 7X as much as in study on this page
 
-* <a href="/posts/28x-more-likely-to-die-of-hemodialysis-if-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2.8X more likely to die of hemodialysis if low on vitamin D">2.8X more likely to die of hemodialysis if low on vitamin D</a>
+* [2.8X more likely to die of hemodialysis if low on vitamin D](/posts/28x-more-likely-to-die-of-hemodialysis-if-low-on-vitamin-d)
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 </div>
 

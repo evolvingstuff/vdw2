@@ -58,7 +58,7 @@ It could not have been from food.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
 * [More hijab clothing may have resulted in 6X increase in Multiple Sclerosis in Tehran – May 2013](/posts/more-hijab-clothing-may-have-resulted-in-6x-increase-in-multiple-sclerosis-in-tehran)
 

@@ -92,15 +92,15 @@
 
 * [Magnesium prevents cardiovascular events – Meta-analysis March 2013](/posts/magnesium-prevents-cardiovascular-events-meta-analysis) 
 
-* <a href="/posts/signs-of-low-magnesium-heart-problems-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Signs of low Magnesium (heart problems in this case) – Jan 2018">Signs of low Magnesium (heart problems in this case) – Jan 2018</a>
+* [Signs of low Magnesium (heart problems in this case) – Jan 2018](/posts/signs-of-low-magnesium-heart-problems-in-this-case)
 
-* <a href="/posts/magnesium-deficiency-increases-cardiovascular-disease-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium deficiency increases cardiovascular disease – 2018">Magnesium deficiency increases cardiovascular disease – 2018</a>
+* [Magnesium deficiency increases cardiovascular disease – 2018](/posts/magnesium-deficiency-increases-cardiovascular-disease-2018)
 
 * [(Arrhythmia OR “atrial fibrillation”)  AND Magnesium ](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%28Arrhythmia+OR+%E2%80%9Catrial+fibrillation%E2%80%9D%29++Magnesium&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 548 items as of Dec 2018
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
-* <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2005">CLICK HERE</a> for diseases which can be prevented/treated by <span style="color:#00F;">Magnesium</span>, <span style="color:#090;">Vitamin D</span>, or <span style="color:#00C;">BO</span><span style="color:#090;">TH</span>
+* [CLICK HERE](/tags/click-here.html) for diseases which can be prevented/treated by <span style="color:#00F;">Magnesium</span>, <span style="color:#090;">Vitamin D</span>, or <span style="color:#00C;">BO</span><span style="color:#090;">TH</span>
 
 > The following is a table from that page as of Oct 2011
 
@@ -140,7 +140,7 @@ Nystagmus, Psychiatric Disorders; Repetitive Strain Injury, Sickle Cell Disease,
 
 > "Within antiarrhythmic drug treatments,  **magnesium**  added onto ibutilide was shown to be more cost effective than ibutilide alone"
 
-* <a href="/posts/ablation-does-not-reduce-atrial-fibrillation-cabana-study-but-magnesium-does" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ablation does not reduce atrial fibrillation (CABANA study) but Magnesium does – June 2018">Ablation does not reduce atrial fibrillation (CABANA study) but Magnesium does – June 2018</a>
+* [Ablation does not reduce atrial fibrillation (CABANA study) but Magnesium does – June 2018](/posts/ablation-does-not-reduce-atrial-fibrillation-cabana-study-but-magnesium-does)
 
 * Treating arrhythmias with adjunctive magnesium: identifying future research directions - April 2017
 

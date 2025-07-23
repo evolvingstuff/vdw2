@@ -33,7 +33,7 @@ Faculty of Pharmacy, Specialisation Cosmetology, Poznan University of Medical Sc
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [Melanoma is 44 percent LESS LIKELY if get sun on the job – Nov 2013](/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job)
 
@@ -41,7 +41,7 @@ Faculty of Pharmacy, Specialisation Cosmetology, Poznan University of Medical Sc
 
 * [Melanoma huge increase - perhaps due to use of sunscreen or lower vitamin D - Aug 2014](/posts/melanoma-huge-increase-perhaps-due-to-use-of-sunscreen-or-lower-vitamin-d)
 
-* <a href="/posts/sunscreen-use-is-no-longer-associated-with-reduced-skin-cancer-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunscreen use is no longer associated with reduced skin cancer – meta-analysis April 2018">Sunscreen use is no longer associated with reduced skin cancer – meta-analysis April 2018</a>
+* [Sunscreen use is no longer associated with reduced skin cancer – meta-analysis April 2018](/posts/sunscreen-use-is-no-longer-associated-with-reduced-skin-cancer-meta-analysis)
 
 </div>
 

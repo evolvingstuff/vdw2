@@ -72,8 +72,8 @@ It is now very well established that low levels of blood vitamin D levels are as
 
 * [Vitamin D and bicarbonate perhaps synergistically reduce muscle loss – June 2013](/posts/vitamin-d-and-bicarbonate-perhaps-synergistically-reduce-muscle-loss)
 
-* <a href="/posts/extraskeletal-effects-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1654">Extraskeletal effects of vitamin D – May 2011</a> includes muscle loss
+* [Extraskeletal effects of vitamin D – May 2011](/posts/extraskeletal-effects-of-vitamin-d) includes muscle loss
 
-* <a href="/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1035">Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010</a>
+* [Vitamin D improves muscle strength if deficient – meta-analysis - Oct 2010](/posts/vitamin-d-improves-muscle-strength-if-deficient-meta-analysis)
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)

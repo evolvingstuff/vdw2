@@ -55,7 +55,7 @@ PMID: 25448738
 
 ## See also VitaminDWiki
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>  genes about 30% - some other causes are much more important
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)  genes about 30% - some other causes are much more important
 
 * [Vitamin D Binding Protein special Issue – June 2014](/posts/vitamin-d-binding-protein-special-issue)
 
@@ -69,7 +69,7 @@ PMID: 25448738
 
 * [24 ng lower response to Vitamin D due to obesity, low initial Vitamin D, and genetics – RCT Feb 2015](/posts/24-ng-lower-response-to-vitamin-d-due-to-obesity-low-initial-vitamin-d-and-genetics-rct)
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
  **Click on chart for details** 
 

@@ -41,9 +41,9 @@ CONCLUSION: Results suggest that vitD increases NO production and inducible NO s
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
-* <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
+* [Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.](/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies)
 
 * [Knee Osteoarthritis (Radiographic ) 3X less if have lots of Magnesium – May 2015](/posts/knee-osteoarthritis-radiographic-3x-less-if-have-lots-of-magnesium)
 

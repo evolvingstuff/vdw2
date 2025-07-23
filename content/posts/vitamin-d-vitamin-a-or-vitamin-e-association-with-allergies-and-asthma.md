@@ -44,8 +44,8 @@ PMID:     22114947
 
 ## See also VitaminDWiki
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [If you add Omega-3, also add Vitamin E to protect it – Aug 2015](/posts/if-you-add-omega-3-also-add-vitamin-e-to-protect-it)

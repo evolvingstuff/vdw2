@@ -49,9 +49,9 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/air-pollution-associated-with-poor-bone-density-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution associated with poor bone density (less vitamin D) – Nov 2017">Air pollution associated with poor bone density (less vitamin D) – Nov 2017</a>
+* [Air pollution associated with poor bone density (less vitamin D) – Nov 2017](/posts/air-pollution-associated-with-poor-bone-density-less-vitamin-d)
 
-* <a href="/posts/air-pollution-reduces-vitamin-d-production-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D production - many studies">Air Pollution reduces Vitamin D production - many studies</a>
+* [Air Pollution reduces Vitamin D production - many studies](/posts/air-pollution-reduces-vitamin-d-production-many-studies)
 
 * [Higher air pollution associated with 7 ng lower vitamin D levels – Aug 2013](/posts/higher-air-pollution-associated-with-7-ng-lower-vitamin-d-levels)
 

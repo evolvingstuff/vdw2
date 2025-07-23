@@ -56,13 +56,13 @@ Hobday also wrote  **The Light Revolution**  in 2006
 
 #### See also VitaminDWiki
 
-* <a href="/posts/the-sun-appears-to-generate-co-q10-in-our-bodies-when-we-eat-our-greens-greger" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The sun appears to generate Co-Q10 in our bodies when we eat our greens – Greger April 2016">The sun appears to generate Co-Q10 in our bodies when we eat our greens – Greger April 2016</a>
+* [The sun appears to generate Co-Q10 in our bodies when we eat our greens – Greger April 2016](/posts/the-sun-appears-to-generate-co-q10-in-our-bodies-when-we-eat-our-greens-greger)
 
 * [A short history of phototherapy, vitamin D and skin disease – Nov 2016](/posts/a-short-history-of-phototherapy-vitamin-d-and-skin-disease)
 
 * [Sun and UV](/posts/sun-and-uv)
 
-* <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
+* [Optimize vitamin D from the sun](/posts/optimize-vitamin-d-from-the-sun)
 
 * [Vitamin D from the sun during Northern winters – contrary to current belief – April 2015](/posts/vitamin-d-from-the-sun-during-northern-winters-contrary-to-current-belief)
 
@@ -76,9 +76,9 @@ Hobday also wrote  **The Light Revolution**  in 2006
 
 * [Vitamin D – millions of years more ancient than Calcium – Jan 2016](/posts/vitamin-d-millions-of-years-more-ancient-than-calcium)
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)
 
-* <a href="/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011">More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011</a>
+* [More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011](/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934)
 
 * [Sunshine is a cure for “weak and soft muscles” – 425 BC](/posts/sunshine-is-a-cure-for-weak-and-soft-muscles-425-bc)
 

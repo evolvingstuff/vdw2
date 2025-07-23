@@ -99,4 +99,4 @@ Programs aimed at achieving an optimum range of serum 25(OH)D at levels between 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)

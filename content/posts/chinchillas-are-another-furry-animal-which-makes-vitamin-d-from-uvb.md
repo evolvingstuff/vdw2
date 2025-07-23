@@ -57,4 +57,4 @@ This study found that exposing juvenile chinchillas to UVB radiation significant
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)

@@ -51,10 +51,10 @@ Dermal papilla cells (DPCs) have the potential to induce differentiation of epit
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-reduces-hair-loss" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1561">Vitamin D reduces hair loss</a>
+* [Vitamin D reduces hair loss](/tags/vitamin-d-reduces-hair-loss.html)
 
-* <a href="/posts/hypothesis-stem-cells-need-vitamin-d-too" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2345">Hypothesis: Stem cells need vitamin D too – Jan 2012</a>
+* [Hypothesis: Stem cells need vitamin D too – Jan 2012](/posts/hypothesis-stem-cells-need-vitamin-d-too)
 
-* <a href="/posts/stem-cell-transplants-consume-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1856">Stem Cell Transplants consume vitamin D – July 2011</a>
+* [Stem Cell Transplants consume vitamin D – July 2011](/posts/stem-cell-transplants-consume-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-hair-disorders" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2109">Vitamin D and Hair disorders – Feb 2010</a>
+* [Vitamin D and Hair disorders – Feb 2010](/posts/vitamin-d-and-hair-disorders)

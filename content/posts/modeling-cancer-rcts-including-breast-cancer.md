@@ -1,0 +1,279 @@
+{
+    "title": "Modeling Cancer RCTs \u2013 including Breast Cancer",
+    "slug": "modeling-cancer-rcts-including-breast-cancer",
+    "aliases": [
+        "/Modeling+Cancer+RCTs+\u2013+including+Breast+Cancer+\u2013+April+2017",
+        "/8410"
+    ],
+    "tiki_page_id": 8410,
+    "date": "2017-05-03",
+    "categories": [
+        "Breast Cancer",
+        "Cancer",
+        "Evidence"
+    ],
+    "tags": [
+        "Breast Cancer",
+        "CYPA",
+        "CYPB",
+        "Cancer",
+        "Evidence",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "breast cancer",
+        "breathing",
+        "cancer",
+        "colon cancer",
+        "cystic fibrosis",
+        "diabetes",
+        "dosage",
+        "endometrial cancer",
+        "genetics",
+        "high dose",
+        "intervention",
+        "life span",
+        "lymphoma",
+        "metabolic",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "osteoporosis",
+        "ovarian cancer",
+        "pancreatic cancer",
+        "preeclampsia",
+        "pregnancy",
+        "preterm",
+        "prostate cancer",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
+}
+
+
+{{< toc >}}
+
+### Randomized controlled trials of vitamin D and cancer incidence: A modeling study
+
+PLOS One
+
+William B. Grant1 *, Barbara J. Boucher2
+
+Sunlight, Nutrition, and Health Research Center, San Francisco, California, United States of America,
+
+Blizard Institute, Barts & The London School of Medicine & Dentistry, Queen Mary University of London, London, United Kingdom
+
+* wbgrant@infionline.net
+
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/grant-boucher-vitamin-d-clinical-trials-plos-one.pdf">Download the PDF from VitaminDWiki</a>** 
+
+#### Fig 1. Graph of odds ratio for breast cancer incidence vs. 25(OH)D concentration from 11 case-control studies.
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/cancerl-modeling---breast-f1.jpg" alt="image" width="600">
+
+Although geographic ecological studies and observational studies find that ultraviolet B exposure and 25-hydroxyvitamin D <span>[25(OH)D]</span> concentrations are inversely correlated with 15-20 types of cancer, few randomized controlled trials (RCTs) of vitamin D support those findings. The poor design of some RCTs may account for that lack of support. Most vitamin D RCTs to date have considered the vitamin D dose, rather than initial, final, or changes in, serum 25(OH)D concentrations. Here a model is developed for use in designing and analyzing vitamin D RCTs with application to cancer incidence. The input variables of the model are vitamin D dose, baseline and achieved 25(OH)D concentrations, known rates of cancer for the population, and numbers of participants for the treatment and placebo arms is estimated—vitamin D dosage and numbers of participants are varied to achieve desired hazard ratio significance, using information from two vitamin D RCTs on cancer incidence conducted in Nebraska with good agreement between the model estimates and reported hazard ratios. Further improvements to the conduct of vitamin D RCTs would be to start the trial with a moderate bolus dose to achieve the desired 25(OH)D concentrations, and bloodspot 25(OH)D assay use in summer and winter annually to monitor seasonal and long-term changes in 25(OH)D concentration and compliance, and to allow dosage adjustment for achievement of desired vitamin D status.
+
+#### Introduction
+
+Many important health benefits are known to be associated with higher 25-hydroxyvitamin D <span>[25(OH)D]</span> concentrations, including reduced risk of many cancers <span>[l]</span>,<span>[2j. The Garland brothers first proposed a role for vitamin D in reducing cancer risk on the basis of a geographical ecological study of colon cancer mortality rates and annual solar radiation doses [3]</span>. From the findings of single-country ecological studies, 15-20 cancers have incidence and/or mortality rates inversely correlated with solar UVB doses <sup>[1]</sup>. From observational studies, there are clear inverse correlations between serum 25(OH)D concentration and incidence of several cancers, including breast <sup>[4]</sup>, colorectal <sup>[4]</sup>, kidney <sup>[5]</sup>, lung <sup>[6]</sup>, pancreatic <sup>[7]</sup>, upper aerodigestive <sup>[8]</sup>, and total, cancer incidence <sup>[9]</sup>. The mechanisms through which vitamin D reduces risk of cancer incidence and increase survival are well known <sup>[1]</sup>,<sup>[10]</sup>.
+
+However, confirming causality of the link between vitamin D and cancer risk requires randomized controlled trials (RCTs) of vitamin D supplementation. Unfortunately, vitamin D RCTs, in general, do not support observational studies <sup>[11]</sup>,<sup>[12]</sup>. To date, vitamin D supplementation reduced cancer risk in only three RCTs: two studies involving postmenopausal women in Nebraska <sup>[13]</sup>,<sup>[14]</sup>, and the Women’s Health Initiative, when the analysis was restricted to participants who had not taken vitamin D or calcium supplements before entering the trial <sup>[15]</sup>.
+
+Robert Heaney pointed out that the improper design of vitamin D RCTs accounts leads to their predictable failure to confirm the results of observational studies, since their design was based on standard RCT models for pharmaceuticals rather than on guidelines appropriate for nutrients <sup>[16]</sup>, e.g., the drug model assumes that the only source of the agent is in the trial and that a linear dose-response relationship exists. However, vitamin D trials can satisfy neither assumption. Also, it is not vitamin D dose, per se, that affects health outcomes but rather vitamin D status over time <span>[serum concentrations of 25(OH)D]</span> and, to a lesser extent, serum 1,25-dihydroxyvitamin D.
+
+#### Heaney’s guidelines, as applied to vitamin D, include:
+
+* Ensure an understanding of the 25(OH)D concentration-health outcome relation of interest.
+
+* Measure 25(OH)D concentrations of prospective participants.
+
+* Aim to include only those with 25(OH)D concentrations near the low end of the relationship.
+
+* Supplement those in the treatment arm with enough vitamin D3 to increase 25(OH)D concentrations to the upper region of the relationship.
+
+* Measure achieved 25(OH)D concentrations.
+
+* Optimize conutrient status (such as calcium).
+
+We here expand upon Heaney’s guidelines for vitamin D RCTs for cancer, starting with a modeling study, followed by a comparison with results of two cancer vitamin D trials to date, and end by identifying appropriate ways to conduct such trials. The model developed uses existing data on baseline and achieved 25(OH)D concentrations, expected cancer incidence rates as a function of baseline and achieved 25(OH)D concentrations, and calculations of 95% confidence intervals (CIs) for various equal numbers of participant years in treatment and control arms.
+
+#### Materials and methods
+
+A model is developed based on the use of population distributions of baseline 25(OH)D concentrations, vitamin D3 dosage used, and achieved 25(OH)D concentrations post-supplementation; looking at expected cancer cases for the population as a function of 25(OH)D concentration, and the odds ratios for the effects of vitamin D3 supplementation as a function of the number of participant-years in treatment and control arms. This model is then evaluated by comparison of its predictions with findings from two RCTs showing benefits of vitamin D3 supplementation on cancer incidence.
+
+The 25(OH)D concentration-cancer incidence relation used is based on 11 breast cancer case-control studies from seven countries <sup>[4]</sup>, and the relationship is shown in Fig 1. The present model for that data finds an odds ratio (OR) = 18.3x<span>[25(OH)D]</span>-a833. This value differs slightly from that in Fig 2 in <sup>[4]</sup> since in that figure, one nested case-control study was inadvertently included.
+
+Many authors consider that case-control study findings may be confounded by reverse causation—i.e., low 25(OH)D concentration’s being a result of the life-style, or of physiological disturbances associated with the disease, rather than a cause of the disease <span>[Hj. However, the results from 11 studies agree well, and odds ratios for case-control studies for breast and colorectal cancer align with a linear fit to the results from prospective studies with results plotted as a function of follow-up time. Both those facts argue against that contention [4j. That the results for breast cancer can be used as a proxy for all-cancer incidence is supported by the finding that in ecological studies of cancer mortality rates in the U.S. for two periods, 19501969 and 1970-1994, the correlations with UVB doses are similar [17]</span>. Also, reductions in incidence of total, breast, colorectal, and invasive breast cancers in the Women’s Health Initiative study for women not taking vitamin D or calcium supplements prior to entry were similar <sup>[15]</sup>. However, should such differences emerge, this modeling study allows utilization of the available data.
+
+The population distributions of serum 25(OH)D concentrations were obtained from a cross-sectional study of Canadians <sup>[18]</sup>. The values for those aged 50-79 years are used in this paper as given in Table 3 of <sup>[19]</sup>. Although Canada is north of the U.S., the two countries have similar population means for serum 25(OH)D concentrations: ~24-25 ng/mL (for SI units, in nmol/L, multiply by 2.5) for the U.S. <sup>[20]</sup>, compared with ~24 ng/mL for Canada.
+
+The model developed uses data on baseline and achieved 25(OH)D concentrations, expected cancer incidence rates as a function of 25(OH)D concentration, and calculations of the 95% confidence intervals (CIs) for various equal numbers of participant years in the treatment and control arms.
+
+Achieved 25(OH)D concentrations were estimated using the data developed by Grassroot- sHealth from 25(OH)D measurements on 3667 community-based participants in their voluntary measurement program <sup>[21]</sup>, where participants who had not been supplementing with vitamin D prior to entry had a 25(OH)D concentration measurement made <span>[by blood-spot testing]</span>, before starting supplementation with vitamin D3 and had 25(OH)D concentration remeasured after six months. The best fit curve for their data is shown in their Fig 3 <sup>[21]</sup>. The rise in 25(OH)D per 1000 IU/d of daily oral vitamin D3 decreases from 13 ng/mL for a baseline 25(OH)D of zero, to 4 ng/mL for a baseline 25(OH)D of 28 ng/mL, and to 2 ng/mL at 140 ng/ mL. The reason that serum 25(OH)D concentration increases less on any specific dose, with higher basal 25(OH)D concentrations, is that expression and activity, of CYP24A1, the homeostatic enzyme that destroys 25(OH)D and calcitriol, increases with increases in serum 25(OH) D <sup>[22]</sup>.
+
+Table 1 presents the estimates of achieved 25(OH)D concentrations for each of the ten deciles of baseline 25(OH)D concentration found for Canadians aged 50-79 years, as predicted for supplementation with 400, 1000, 2000, or 4000 IU/d of vitamin D3, and Fig 2 shows those results graphically.
+
+All-cancer incidence rates reported for the U.S. population in 2005-2009 <sup>[23]</sup>, and all-cancer incidence rate for those aged 65-69 years, 1760/100,000/yr, were used, and those values, together with the 25(OH)D concentration-breast cancer incidence relationship given above, and the achieved 25(OH)D concentrations for various daily vitamin D3 doses, <sup>[21]</sup> allow calculation of the number of cancer cases expected for various 25(OH)D concentrations (see Table 2).
+
+In this model, the equation for the number of cases is: n = rxNixORi/S(ORi) where ni is the number of expected cancer cases for the n-th 25(OH)D concentration decile, r is the assumed population cancer incidence rate, Ni is the number of participant years in the n-th decile, ORi is odds ratio calculated from the 25(OH)D concentration-breast cancer incidence rate relationship (as shown in Fig 1), and S1-10(ORi) is the sum of the ORi for all ten deciles.
+
+One can calculate the OR for cancer incidence, and their 95% CIs, using an online tool [http://www.vassarstats.net/odds2x2.html](http://www.vassarstats.net/odds2x2.html). This tool uses as input variables the number of subjects found to develop the conditions of interest in the two arms of an RCT to calculate risk ratios and odds ratios along with their 95% confidence intervals. In our model, the condition is cancer incidence and the two groups in this case are the treatment and control arms.
+
+#### Results
+
+The number, N, of participant years in the treatment and control arms to achieve a statistically significant reduction in all-cancer incidence is calculated from baseline and achieved 25(OH)
+
+ **Fig 2** . Achieved 25-hydroxvitamin D <span>[25(OH)D]</span> concentration as a function of baseline 25(OH)D concentration, and vitamin D3 dosages, as shown in Table 4.
+
+D concentrations and expected cancer rates for these concentrations. The odds ratio is then calculated for a series of N values, and the results used to obtain a best-fit curve, in this case a smooth fit to the data—then, where the upper 95% CI value fit crosses the value 1.00 determines N. Thus, achieving a significant result for a baseline 25(OH)D concentration of 14 ng/ mL and treatment with 2000 IU/d, resulting in an achieved 25(OH)D concentration of 34 ng/ mL would take about 1000 participants each in the treatment and control arms (Fig3). Starting with a baseline concentration of 26 ng/mL and achieving 42 ng/mL would increase the numbers per RCT arm to 4000 each (Fig 4).
+
+ **Fig 3** . Odds ratio (OR) and 95% confidence interval (95% CI) as a function of the number of participants in the treatment and control arms, for vitamin D3 supplementation at 2000 IU/d for subjects with baseline 25-hydroxyvitamin D <span>[25(OH)D]</span> concentration of 14 ng/mL.
+
+The number of participant-years required <span>[power needed]</span> also varies depending on participant baseline vitamin D status <span>[by upper or lower five deciles of 25(OH)D concentration in the Canadian population]</span>. The approach described can be extended to calculate the number of participant years required for a range of baseline 25(OH)D concentrations by calculating the
+
+total number of cancer cases predicted for each pair of baseline and achieved concentration, for use in the odds ratio calculator. For example, ~1500 participant-years would be needed in each arm to achieve statistical significance for subjects in the lowest five deciles of baseline vitamin D status with 2000 IU/d vitamin D3 (Table 3), but ~10,000 participant-years in each arm for subjects with baseline status in the upper five deciles (Table 4). (Note that the calculations are based on the number of cancer cases per year; alternatively, the number of participants could be fixed and the number of cancer cases per year could be multiplied by the number of years.).
+
+ **Table 1** . Achieved 25(OH)D concentrations as a function of baseline 25(OH)D concentration and vitamin D supplementation for deciles of baseline 25(OH)D for Canadians aged 50-79 years, with increasing daily dose of vitamin D3.
+
+Two vitamin D RCTs report significant reductions in cancer incidence. The first was a 4-year trial involving postmenopausal women in Nebraska (Clinicaltrials.gov as NCT00352170) <sup>[13]</sup>.The trial had three arms: 1100 IU/d of vitamin D3 plus 1450 mg/d of calcium, 1450 mg/d of calcium, and placebo, [mean baseline 25(OH)D concentration = 29 ng/ mL](mean%20baseline%2025(OH)D%20concentration%20=%2029%20ng/%20mL). The researchers analyzed results for all 4 years, and for the last 3 years. The justification for the second analysis was that some participants entering the study may have had undiagnosed cancer that was discovered during the first year. For the full 4-year period, the number of cancer cases was 20 in the placebo arm (n = 228), 17 in the calcium only arm (n = 445) and 13 in the vitamin D plus calcium arm (n = 446). The resulting relative risk for developing cancer on calcium alone was 0.53 (0.27-1.03) and 0.40 (0.20-0.80) in the vitamin D plus calcium arm. The ratio, 0.40/0.53 = 0.75 gives an estimate of the effect of vitamin D alone. For the final 3-year period, the cancer incidence was 18 in the placebo arm (n = 226), 15 in the calcium only arm (n = 416), and 8 in the vitamin D plus calcium arm (n = 403), with relative risks for developing cancer in the calcium only arm of 0.59 (0.29-1.24), and of 0.23 (0.09-0.60) in the vitamin D+calcium arm.
+
+ **Table 2** . Number of cancer cases predicted by the current model for each baseline 25(OH)D concentration decile for those aged 50-79 years as a function of vitamin D supplementation dosage, assuming 4000 person-years (400 in each decile) in both treatment and control arms ratio (OR) = 18.3*<span>[25(OH)D]</span>-°.833.
+
+ **Fig 4.**  Odds ratio and 95% confidence interval (95% CI) as a function of the number of participants in the treatment and control arms for vitamin D3 supplementation at 2000 IU/d for subjects with baseline 25(OH)D concentration of 26 ng/mL.
+
+The ratio, 0.23/0.59 = 0.39 provides an estimate of the effect of vitamin D alone. Our modeled estimate is a RR = 0.70 (0.31-1.60, P = 0.40) for the 3-years case and 0.71 (0.35-1.43, P = 0.34) for the 4-years case. This modeling result agrees more closely with their 4-year result than with their 3-year result even though our model result is not significant.
+
+The second one was the Women’s Health Initiative trial (ClinicalTrials.gov number, NCT00000611), treatment arm used 400 IU/d of vitamin D3+1500 mg/d of calcium. No significant reduction in cancer incidence was apparent for the group overall. However, if analysis was restricted to participants who had not taken vitamin D or calcium supplements before entry, the hazard ratio was 0.86 (95% CI, 0.78-0.96), and significant <sup>[15]</sup>. Amongst those participants, 633 cancer cases occurred among the 7891 participant-years in the treatment arm and 715 cancer cases among the 7755 participant-years in the control arm. Comparing the model calculations with the results from that last trial is impossible because the distribution of 25(OH)D concentration among the participants is unknown. However, the finding is generally consistent with the model for the lower 25(OH)D deciles (Table 1).
+
+ **Table 3** . Results of a model calculation using numbers of cases of breast cancer predicted by the proposed model for the lowest 5 deciles of vitamin D status, with increasing numbers of participant-years of supplementation at 2000 IU/d.
+
+In a vitamin D RCT of postmenopausal women in Nebraska (ClinicalTrials.gov Identifier: NCT01052051), participants took 2000 IU/d of vitamin D+1500 mg/d of calcium in the treatment arm or placebo. The mean baseline 25(OH)D concentration was 33±10 ng/mL, and rose to 44 ng/mL in the treatment arm. A total of 2064 participants completed the 4-year trial, with 45 cancer cases emerging in the treatment arm and 64 in the control arm, giving a hazard ratio of 0.70 (95% CI, 0.47-1.02, P = 0.06) <sup>[14]</sup>. Thus, treatment and control arms each encompassed ~8000 participant-years. Assuming those subjects came mostly from the upper five deciles of baseline 25(OH)D concentrations found in the Canadian data, the 8000 participant- years completed would, the present model suggests, result in a hazard ratio of 0.73 (0.48-1.12) (Table 5). Including calcium in the treatment, but not in the control arm, may have contributed to the suggestive result (discussed later).
+
+#### Discussion
+
+The results of this modeling study, inspired by Heaney’s guidelines <sup>[16]</sup>, agree reasonably well with results from the Women’s Health Initiative trial and the recent Nebraskan trial <sup>[14]</sup>, giving added confidence to both the model and those two RCT results.
+
+Several observational studies and one RCT, suggest supplementation with vitamin D+calcium reduced cancer risk more than supplementation with vitamin D alone <sup>[24]</sup>,<sup>[13]</sup>,<sup>[25]</sup>,<sup>[26]</sup>. Thus, to determine the effect of vitamin D alone, either the effect of calcium supplementation alone has to be determined if calcium supplementation is given solely to the treatment arm, as was the case in the later Lappe study <sup>[13]</sup>, or both arms should receive calcium supplementation.
+
+ **Table 4** . As in Table 3 but using five 25(OH)D deciles centered at 29 ng/mL and doses of 1000 IU/d of vitamin D3 for comparison with the results from a 2007 vitamin D RCT <sup>[13]</sup>.
+
+ **Table 5** . As in Table 3 but using the highest 5 deciles of vitamin D3 status and comparing results with those of a vitamin D RCT <sup>[14]</sup>.
+
+The findings using the present modeling system should put to rest two ideas. One is that RCTs have not shown vitamin D supplementation to reduce cancer risk, as several earlier reviews have suggested <sup>[11]</sup>,<sup>[27]</sup>. The other is that vitamin D supplementation can yield no more than a 15% reduction in incidence of disease <sup>[28]</sup>.
+
+Ideally, vitamin D RCTs would start with a moderate loading dose, in deficiency, to ensure early rises in serum 25(OH)D concentrations, towards the planned target concentration <sup>[29]</sup>. The rationale for doing this, is that reaching the 25(OH)D plateau from supplementation with 1000 or 2000 IU/d of vitamin D3can take up to 4 months <sup>[30]</sup>. The ideal design would also allow for the fact that response to vitamin D supplementation is related not only to baseline 25 (OH)D, which varies with season <sup>[20]</sup>, but also to personal genetic factors <sup>[31]</sup>,<sup>[32]</sup>, body weight <sup>[33]</sup>, and natural history of disease development, e.g. from early life <sup>[34]</sup>. In addition, investigators should consider including several 25(OH)D measurements for participants during the trial, <span>[perhaps in late summer and late winter each year]</span> to monitor the range of 25 (OH)D achieved, together with compliance, and because, in long-term trials, 25(OH)D concentrations may vary with many other factors <sup>[35]</sup>,<sup>[4]</sup>. Blood spot assays are inexpensive and convenient because they can be organized by mail <span>[e.g. Heartland Assays LLC (Ames, IA) offers blood spot 25(OH)D assays using liquid chromatography-tandem mass spectrometry methodology- interassay coefficient of variation, 4.0% and intra-assay coefficient of variation<2.5%. [Andrew J. Makowski, Heartland Assays, LLC, personal communication, Jan. 30, 2017]</span>.
+
+Many vitamin D3 RCTs aim to answer the question, ‘Does supplementing the healthy population with a modest amount of vitamin D affect health outcomes?’Because many of the large- scale trials underway rely on volunteers, they are likely to include people more interested in their health than the average person. Thus, those trials run the risk of being biased by the health of participants, as happened in observational studies on estrogen plus progestin use by postmenopausal women for cardiovascular disease risk reduction which supported their use, but a large-scale RCT found adverse effects, such as increased risk of cancer, that countered the benefits <sup>[36]</sup>.
+
+Although the present modeling study was based on cancer outcomes, and the modeling findings agree reasonably well with the two positive vitamin D RCTs for cancer, it could also provide the basis for designing vitamin D RCTs for other health outcomes <span>[see Appendix]</span>. Many health outcomes have similar target 25(OH)D concentrations <sup>[37]</sup>, and we suggest that the goal of vitamin D RCTs should be to elucidate the relationship between baseline and achieved 25(OH)D concentrations, and health outcomes, using data from observational studies as a basis for RCT planning <sup>[38]</sup>,<sup>[4]</sup>.
+
+While the modeling suggested should contribute to designing, and analyzing, vitamin D RCT data for many health outcomes, this approach depends on reliable, accurate, reproducible and comparable 25(OH)D assays, with harmonization of findings where different assay systems are used, all of which are now achievable <sup>[39]</sup>,<sup>[40]</sup>,<sup>[41]</sup>.
+
+Several large-scale vitamin D RCTs underway will examine how vitamin D supplementation affects cancer incidence or progression (see, e.g., Table 3 in <sup>[42]</sup>). They may or may not have measured 25(OH)D concentration at enrollment, but if they did, they did not seek to enroll participants with low 25(OH)D concentrations. However, the approach used in this modeling study could prove useful in analyzing and interpreting the data those RCTs produce.
+
+One might argue that basing analyses on circulating 25(OH)D concentrations, rather than vitamin D dosing, changes RCTs into observational studies, but the use of the suggested modeling methodology allows the use of 25(OH)D concentrations to improve targeting of supplementation to baseline status, and to ensure achievement of target vitamin D status. Although this additional definition of RCT conditions would complicate the conduct and analysis of RCTs, it would in no way change the fact that RCTs organized with this additional methodology would be interventional, while adding considerably to the ability of vitamin D RCTs to be able to detect causality.
+
+#### Appendix
+
+Examples of conditions where data exist for use in management and analyses of RCTs of vitamin D for using the proposed modeling for chronic, non-cancerous conditions, and where ‘classic’ RCT analysis showed no benefits, include (1), insulin resistance, where earlier RCT data showed IR was reduced, but only reached significance with achieved serum 25(OH)D values >32 ng/mL after at least 6 months in deficient south Asians <sup>[43]</sup>; (2), preterm birth rate reductions were shown in South Carolina when data was examined by maternal vitamin D status within 6 weeks of birth, plateauing at ~40 ng/ml, though no benefits were found on analysis by vitamin D intakes <sup>[44]</sup>,<sup>[45]</sup>; (3), no reductions in pre-eclampsia were found in a RCT in 3 American centers giving 4400 IU/day vs. 400 IU/day of vitamin D3 (for reduction of offspring atopic disease) when analyzed by intention to treat. Low maternal vitamin D status was, however, a strong predictor of later pre-eclampsia, and pre-eclampsia risk was significantly reduced once achieved maternal serum 25(OH)D reached >70 ng/ml <sup>[46]</sup>.
+
+#### References
+
+1. Moukayed M, Grant WB. Molecular link between vitamin D and cancer prevention. Nutrients. 2013; 5 (10):3993-4021. Epub 2013/10/03. PubMed Central PMCID: PMC3820056. https://doi.org/10.3390/nu5103993 PMID: 24084056
+
+1. Grant WB. Roles of Solar UVB and Vitamin D in Reducing Cancer Risk and Increasing Survival. Anticancer research. 2016; 36(3):1357-70. Epub 2016/03/16. PMID: 26977037
+
+1. Garland CF, Garland FC. Do sunlight and vitamin D reduce the likelihood of colon cancer? International journal of epidemiology. 1980; 9(3):227-31. Epub 1980/09/01. PMID: 7440046
+
+1. Grant WB. 25-Hydroxyvitamin D and Breast Cancer, Colorectal Cancer, and Colorectal Adenomas: Case-Control versus Nested Case-Control Studies. Anticancer research. 2015; 35(2):1153-60. Epub 2015/02/11. PMID: 25667506
+
+1. Muller DC, Scelo G, Zaridze D, Janout V, Holcatova I, Navratilova M, et al. Circulating 25-hydroxyvita- min D3 and survival after diagnosis with kidney cancer. Cancer epidemiology, biomarkers & prevention: a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology. 2015; 24(8):1277-81. PubMed Central PMCID: PMC4526455.
+
+1. Afzal S, Bojesen SE, Nordestgaard BG. Low plasma 25-hydroxyvitamin D and risk of tobacco-related cancer. Clinical chemistry. 2013; 59(5):771-80. Epub 2013/03/19. https://doi.org/10.1373/clinchem. 2012.201939 PMID: 23503722
+
+1. Wolpin BM, Ng K, Bao Y, Kraft P, Stampfer MJ, Michaud DS, et al. Plasma 25-hydroxyvitamin D and risk of pancreatic cancer. Cancer epidemiology, biomarkers & prevention: a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology. 2012; 21(1):82-91. PubMed Central PMCID: PMC3253914.
+
+1. Fanidi A, Muller DC, Midttun O, Ueland PM, Vollset SE, Relton C, et al. Circulating vitamin D in relation to cancer incidence and survival of the head and neck and oesophagus in the EPIC cohort. Sci Rep. 2016; 6:36017. Epub 2016/11/05. PubMed Central PMCID: PMC5095706. https://doi.org/10.1038/srep36017 PMID: 27812016
+
+1. McDonnell SL, Baggerly C, French CB, Baggerly LL, Garland CF, Gorham ED, et al. Serum 25-Hydro- xyvitamin D Concentrations >/ = 40 ng/ml Are Associated with >65% Lower Cancer Risk: Pooled Analysis of Randomized Trial and Prospective Cohort Study. PloS one. 2016; 11(4):e0152441. Epub 2016/ 04/07. PubMed Central PMCID: PMC4822815. https://doi.orq/10.1371/iournal.pone.0152441 PMID: 27049526
+
+1. Moukayed M, Grant WB. The roles of UVB and vitamin D in reducing risk of cancer incidence and mortality: A review of the epidemiology, clinical trials, and mechanisms. Rev Endocr Metab Disord. 2017. Epub 2017/02/19.
+
+1. Autier P, Boniol M, Pizot C, Mullie P. Vitamin D status and ill health: a systematic review. The lancet Diabetes & endocrinology. 2014; 2(1):76-89. Epub 2014/03/14.
+
+1. Theodoratou E, Tzoulaki I, Zgaga L, Ioannidis JP. Vitamin D and multiple health outcomes: umbrella review of systematic reviews and meta-analyses of observational studies and randomised trials. BMJ. 2014; 348:g2035. Epub 2014/04/03. PubMed Central PMCID: PMC3972415. https://doi.org/10.1136/bmj.g2035 PMID: 24690624
+
+1. Lappe JM, Travers-Gustafson D, Davies KM, Recker RR, Heaney RP. Vitamin D and calcium supplementation reduces cancer risk: results of a randomized trial. The American journal of clinical nutrition. 2007; 85(6):1586-91. Epub 2007/06/09. PMID: 17556697
+
+1. Lappe J, Watson P, Travers-Gustafson D, Recker R, Garland C, Gorham E, et al. Effect of Vitamin D and Calcium Supplementation on Cancer Incidence in Older Women: A Randomized Clinical Trial. JAMA: the journal of the American Medical Association. 2017; 317(12):1234-43. Epub 2017/03/30. https://doi.org/10.1001/iama.2017.2115 PMID: 28350929
+
+1. Bolland MJ, Grey A, Gamble GD, Reid IR. Calcium and vitamin D supplements and health outcomes: a reanalysis of the Women’s Health Initiative (WHI) limited-access data set. The American journal of clinical nutrition. 2011; 94(4):1144-9. Epub 2011/09/02. PubMed Central PMCID: PMC3173029. https://doi.org/10.3945/aicn.111.015032 PMID: 21880848
+
+1. Heaney RP. Guidelines for optimizing design and analysis of clinical studies of nutrient effects. Nutrition reviews. 2014; 72(1):48-54. Epub 2013/12/18. https://doi.org/10.1111/nure.12090 PMID: 24330136
+
+1. Grant WB, Garland CF. The association of solar ultraviolet B (UVB) with reducing risk of cancer: multifactorial ecologic analysis of geographic variation in age-adjusted cancer mortality rates. Anticancer research. 2006; 26(4A):2687-99. Epub 2006/08/05. PMID: 16886679
+
+1. Canada S. Consumer Price Index, historical summary http://www.statcan.gc.ca/tables-tableaux/sum- som/l01/cst01/econ150a-eng.htm2016 <span>[cited 2016 September 20, 2016]</span>.
+
+1. Grant WB, Whiting SJ, Schwalfenberg GK, GenuisSJ, Kimball SM. Estimated economic benefit of increasing 25-hydroxyvitamin D concentrations of Canadians to or above 100 nmol/L. Dermato-endocri- nology. 2016; 8(1):e1248324. Epub 2016/12/13. PubMed Central PMCID: PMC5129897. 
+
+> https://doi.org/10.1080/19381980.2016.1248324 PMID: 27942348
+
+1. Kroll MH, Bi C, Garber CC, Kaufman HW, Liu D, Caston-Balderrama A, et al. Temporal relationship between vitamin D status and parathyroid hormone in the United States. PloS one. 2015; 10(3): e0118108. PubMed Central PMCID: PMC4349787. https://doi.orq/10.1371/iournal.pone.0118108 PMID: 25738588
+
+1. Garland CF, French CB, Baggerly LL, Heaney RP. Vitamin D supplement doses and serum 25-hydroxyvitamin D in the range associated with cancer prevention. Anticancer research. 2011; 31(2):607-11. Epub 2011/03/08. PMID: 21378345
+
+1. Engelman CD, Meyers KJ, Iyengar SK, Liu Z, Karki CK, Igo RP Jr., et al. Vitamin D intake and season modify the effects of the GC and CYP2R1 genes on 25-hydroxyvitamin D concentrations. The Journal of nutrition. 2013; 143(1):17-26. Epub 2012/11/30. PubMed Central PMCID: PMC3521459. 
+
+> https://doi.org/10.3945/in.112.169482 PMID: 23190755
+
+1. Thakkar JP, McCarthy BJ, Villano JL. Age-specific cancer incidence rates increase through the oldest age groups. The American journal of the medical sciences. 2014; 348(1):65-70. Epub 2014/05/09. PubMed Central PMCID: PMC4119927. https://doi.orq/10.1097/MAJ.0000000000000281 PMID: 24805784
+
+1. McCullough ML, Bandera EV, Moore DF, Kushi LH. Vitamin D and calcium intake in relation to risk of endometrial cancer: a systematic review of the literature. Preventive medicine. 2008; 46(4):298-302. Epub 2007/12/25. PubMed Central PMCID: PMC2442474. https://doi.org/10.1016/i.ypmed.2007.11. 010 PMID: 18155758
+
+1. Fedirko V, Torres-Mejia G, Ortega-Olvera C, Biessy C, Angeles-Llerenas A, Lazcano-Ponce E, et al. Serum 25-hydroxyvitamin D and risk of breast cancer: results of a large population-based case-control study in Mexican women. Cancer causes & control: CCC. 2012; 23(7):1149-62. Epub 2012/05/25.
+
+1. Qin B, Moorman PG, Alberg AJ, Barnholtz-Sloan JS, Bondy M, Cote ML, et al. Dairy, calcium, vitamin D and ovarian cancer risk in African-American women. British journal of cancer. 2016; 115(9):1122-30. Epub 2016/10/26. PubMed Central PMCID: PMC5117784. https://doi.org/10.1038/bic.2016.289 PMID: 27632371
+
+1. Bikle DD. Vitamin D and cancer: the promise not yet fulfilled. Endocrine. 2014; 46(1):29-38. PubMed Central PMCID: PMC3976762. https://doi.org/10.1007/s12020-013-0146-1 PMID: 24402695
+
+1. Bolland MJ, Grey A, Gamble GD, Reid IR. The effect of vitamin D supplementation on skeletal, vascular, or cancer outcomes: a trial sequential meta-analysis. The lancet Diabetes & endocrinology. 2014; 2 (4):307-20. Epub 2014/04/08.
+
+1. McNally JD, Iliriani K, Poisupap S, Sampson M, O’Hearn K, McIntyre L, et al. Rapid normalization of vitamin D levels: a meta-analysis. Pediatrics. 2015; 135(1):e152-66. https://doi.org/10.1542/peds. 2014-1703 PMID: 25511115
+
+1. Heaney RP, Davies KM, Chen TC, Holick MF, Barger-Lux MJ. Human serum 25-hydroxycholecalciferol response to extended oral dosing with cholecalciferol. The American iournal of clinical nutrition. 2003; 77(1):204-10. Epub 2002/12/25. PMID: 12499343
+
+1. Carlberg C, Haq A. The concept of the personal vitamin D response index. The Journal of steroid biochemistry and molecular biology. 2016. Epub 2016/12/31.
+
+1. Zhang M, Zhao LJ, Zhou Y, Badr R, Watson P, Ye A, et al. SNP rs11185644 of RXRA gene is identified for dose-response variability to vitamin D3 supplementation: a randomized clinical trial. Sci Rep. 2017; 7:40593. Epub 2017/01/13. PubMed Central PMCID: PMC5228186. https://doi.org/10.1038/srep40593 PMID: 28079136
+
+1. Zittermann A, Ernst JB, Gummert JF, Borgermann J. Vitamin D supplementation, body weight and human serum 25-hydroxyvitamin D response: a systematic review. European iournal of nutrition. 2014; 53(2):367-74. Epub 2013/12/03. https://doi.org/10.1007/s00394-013-0634-3 PMID: 24292820
+
+1. Kelly JL, Drake MT, Fredericksen ZS, Asmann YW, Liebow M, Shanafelt TD, et al. Early life sun exposure, vitamin D-related gene variants, and risk of non-Hodgkin lymphoma. Cancer causes & control: CCC. 2012; 23(7):1017-29. PubMed Central PMCID: PMC3589750.
+
+1. Grant WB. Effect of follow-up time on the relation between prediagnostic serum 25-hydroxyvitamin D and all-cause mortality rate. Dermato-endocrinology. 2012; 4(2):198-202. PubMed Central PMCID: PMC3427200. https://doi.org/10.4161/derm.20514 PMID: 22928077
+
+1. Rossouw JE, Anderson GL, Prentice RL, LaCroix AZ, Kooperberg C, Stefanick ML, et al. Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women’s Health Initiative randomized controlled trial. JAMA: the journal of the American Medical Association. 2002; 288(3):321-33. Epub 2002/07/19. PMID: 12117397
+
+1. Spedding S, Vanlint S, Morris H, Scragg R. Does vitamin D sufficiency equate to a single serum 25- hydroxyvitamin D level or are different levels required for non-skeletal diseases? Nutrients. 2013; 5 (12):5127-39. Epub 2013/12/20. PubMed Central PMCID: PMC3875927. https://doi.org/10.3390/ nu5125127 PMID: 24352091
+
+1. Grant WB. Vitamin D status: ready for guiding prostate cancer diagnosis and treatment? Clinical cancer research: an official journal of the American Association for Cancer Research. 2014; 20(9):2241-3. Epub 2014/05/03.
+
+1. Berry DJ, Dutton J, Fraser WD, Jarvelin MR, Hypponen E. Harmonization Study Between LC-MS/MS and Diasorin RIA for Measurement of 25-Hydroxyvitamin D Concentrations in a Large Population Survey. Journal of clinical laboratory analysis. 2016. Epub 2016/09/07.
+
+1. Nikooyeh B, Samiee SM, Farzami MR, Alavimajd H, Zahedirad M, Kalayi A, et al. Harmonization of serum 25-hydroxycalciferol assay results from high-performance liquid chromatography, enzyme immunoassay, radioimmunoassay, and immunochemiluminescence systems: A multicenter study. Journal of clinical laboratory analysis. 2017. Epub 2017/02/09.
+
+1. Kulcsar-Jakab E, Kalina E, Petho Z, Pap Z, Balogh A, Grant WB, et al. Standardizing 25-hydroxyvitamin D data from the HunMen cohort. Osteoporosis international: a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA. 2017.
+
+1. Marshall JE, Byrne SN. Does sunlight protect us from cancer? Photochemical & photobiological sciences: Official journal of the European Photochemistry Association and the European Society for Photobiology. 2017. Epub 2017/01/20.
+
+1. von Hurst PR, Stonehouse W, Coad J. Vitamin D supplementation reduces insulin resistance in South Asian women living in New Zealand who are insulin resistant and vitamin D deficient—a randomised, placebo-controlled trial. The British journal of nutrition. 2010; 103(4):549-55. Epub 2009/09/29. https:// doi.org/10.1017/S0007114509992017 PMID: 19781131
+
+1. Wagner CL, Baggerly C, McDonnell S, Baggerly KA, French CB, Baggerly L, et al. Post-hoc analysis of vitamin D status and reduced risk of preterm birth in two vitamin D pregnancy cohorts compared with South Carolina March of Dimes 2009-2011 rates. The Journal of steroid biochemistry and molecular biology. 2016; 155(Pt (:cool: ):245-51. Epub 2015/11/12. https://doi.org/10.1016/j.jsbmb.2015.10.022 PMID: 26554936
+
+1. Wagner CL, McNeil R, Hamilton SA, Winkler J, Rodriguez Cook C, Warner G, et al. A randomized trial of vitamin D supplementation in 2 community health center networks in South Carolina. American journal of obstetrics and gynecology. 2013; 208(2):137e1-13. Epub 2012/11/08. PubMed Central PMCID: PMC4365423.
+
+1. Mirzakhani H, Litonjua AA, McElrath TF, O’Connor G, Lee-Parritz A, Iverson R, et al. Early pregnancy vitamin D status and risk of preeclampsia. The Journal of clinical investigation. 2016; 126(12):4702-15. Epub 2016/11/15. PubMed Central PMCID: PMC5127689. https://doi.org/10.1172/JCI89031 PMID: 27841759

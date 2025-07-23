@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset=utf-8><title>Hepatitis normally rare in children: huge increase after lockdown (Adenovirus, low Vitamin D)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Hepatitis normally rare in children: huge increase after lockdown (Adenovirus, low Vitamin D)</h1><time>April 22, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#the-cause-of-a-new-type-of-hepatitis-in-children-is-found---1000-cases-july-27-2022>The cause of a new type of hepatitis in children is found - (1,000 cases) July 27, 2022</a></li><li><a href=#studies-probe-adenovirus-link-to-childhood-hepatitis-cases-920-so-far---nyt-july-13-2022>Studies Probe Adenovirus Link to Childhood Hepatitis Cases (920 so far) - NYT July 13, 2022</a></li><li><a href=#533-cases---may-18-2022>533 cases - May 18, 2022</a></li><li><a href=#348-cases-spread-across-20-countries--may-13-2022>348 cases spread across 20 countries- May 13, 2022</a></li><li><a href=#the-race-to-crack-the-surging-child-hepatitis-outbreak---april-22-2022>The race to crack the surging child hepatitis outbreak - April 22, 2022</a></li><li><a href=#hepatitis-eight-children-given-liver-transplants-as-108-mystery-cases-detected-in-uk---april-21>Hepatitis: Eight children given liver transplants as 108 mystery cases detected in UK - April 21</a></li></ul></li></ul></li></ul></nav><hr><h4 id=the-cause-of-a-new-type-of-hepatitis-in-children-is-found---1000-cases-july-27-2022>The cause of a new type of hepatitis in children is found - (1,000 cases) July 27, 2022</h4><p><strong><a href="https://www.economist.com/science-and-technology/2022/07/27/the-cause-of-a-new-type-of-hepatitis-in-children-is-found?utm_content=ed-picks-article-link-3&amp;etear=science_nl_3&amp;utm_campaign=r.science-newsletter&amp;utm_medium=email.internal-newsletter.np&amp;utm_source=salesforce-marketing-cloud&amp;utm_term=7/27/2022&amp;utm_id=1255320">The Economist</a></strong></p><ul><li><p>&ldquo;The World Health Organisation has reported more than 1,000 probable cases in 35 countries. Some children have required liver transplants and at least 22 have died. Researchers have been scrambling to find the cause.&rdquo;</p></li><li><p>&ldquo;Two studies posted this week on medRxiv, a preprint server&rdquo; no link provided</p></li><li><p>&ldquo;Collectively, the two studies found that 25 out of the 26 children with the mysterious hepatitis were also infected with adeno-associated virus 2 (aav2)&rdquo;</p></li></ul><hr><h4 id=studies-probe-adenovirus-link-to-childhood-hepatitis-cases-920-so-far---nyt-july-13-2022>Studies Probe Adenovirus Link to Childhood Hepatitis Cases (920 so far) - NYT July 13, 2022</h4><p><strong><a href=https://www.nytimes.com/2022/07/13/health/hepatitis-adenovirus-children.html>New York Times</a></strong></p><p><strong>&ldquo;At least 920 probable cases have been detected in 33 countries since October&mldr;&rdquo;</strong></p><p><strong>&ldquo;In both studies, adenovirus infections were detected in about 90 percent of children tested, &ldquo;</strong></p><p><strong>In the UK &ldquo;Of the 30 children tested for adenovirus, 27 were positive.&rdquo;</strong></p><hr><h4 id=533-cases---may-18-2022>533 cases - May 18, 2022</h4><p><strong><a href="https://childrenshealthdefense.org/defender/hepatitis-outbreak-kids/?utm_source=salsa&amp;eType=EmailBlastContent&amp;eId=ba38ae5c-0479-4419-8920-7c1b8198079b">What’s Behind the Outbreak of Sudden, Severe Hepatitis in Kids? The Defender</a></strong></p><ul><li><p>&ldquo;&mldr;two leading hypotheses have emerged linking the outbreak to adenovirus and coronavirus.&rdquo;</p></li><li><p>&ldquo;Affected children were between 1 month and 16 years old. More than three-fourths of the children in the U.K. were under 5, and those in the U.S. had a median age of 2 years, according to the WHO.&rdquo;</p></li><li><p>&ldquo;&mldr;hepatitis viruses A, B, C, D and E were not detected in any of the cases&mldr;&rdquo;</p></li></ul><hr><h4 id=348-cases-spread-across-20-countries--may-13-2022>348 cases spread across 20 countries- May 13, 2022</h4><p><strong><a href="https://www.theatlantic.com/health/archive/2022/05/hepatitis-kids-adenovirus-covid/629849/?utm_source=feed">Is a Common Virus Suddenly Causing Liver Failure in Kids?</a> The Atlantic</strong></p><ul><li><p>&ldquo;The early evidence continues to point to a link with adenovirus—an unexpected correlation that is too strong to dismiss and not strong enough to close the case. Seventy percent of the probable cases globally have tested positive for adenovirus&mldr;&rdquo;</p></li><li><p>&ldquo;The leading hypotheses now suggest an interaction between adenovirus and the pandemic—either because social distancing changed the patterns of adenovirus immunity, allowing for more severe or simply more adenovirus infections, or because previous infection or co-infection with the coronavirus triggers an unusual response to adenovirus.&rdquo;</p></li></ul><p><strong>Founder of VitaminDWiki suspects the children have had asymptomatic COVID, which shuts down the Vitamin D Receptor, which results in less Vitamin D in the cells, which allows the adenovirus to surface - making Hepatitis in Children and Long-Haul.</strong></p><hr><h4 id=the-race-to-crack-the-surging-child-hepatitis-outbreak---april-22-2022>The race to crack the surging child hepatitis outbreak - April 22, 2022</h4><p><strong><a href="https://www.telegraph.co.uk/health-fitness/body/mystery-surging-child-hepatitis-cases/?WT.mc_id=e_DM2373&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Tue&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Tue20220426&amp;utm_campaign=DM2373">The Telegraph</a></strong></p><ul><li><p>in Europe and US so far - typical age = 3</p></li><li><p>&ldquo;Hepatitis – a broad term used to describe liver inflammation – can be caused by a range of issues, including a virus, toxins, fungi or even damage caused by drinking alcohol. In up to 20 per cent of cases, no cause is identified.&rdquo;</p></li><li><p>&ldquo;None of the patients tested positive for hepatitis A, B, C, D or E, nor other likely culprits – such as cytomegalovirus (CMV), which causes cold sores and chickenpox, and Epstein-Barr virus, which causes glandular fever.&rdquo;</p></li><li><p>&ldquo;In 2018, we saw six such cases between January and April in Birmingham. This year we’ve had 40.”&rdquo;</p></li><li><p>&ldquo;. So far, 77 per cent of cases in the UK tested positive for an active adenovirus infection, plus five of the nine cases in Alabama.&rdquo;</p></li><li><p>&ldquo;In Denmark, where four cases have been confirmed, no children have tested positive, "</p></li></ul><hr><h4 id=hepatitis-eight-children-given-liver-transplants-as-108-mystery-cases-detected-in-uk---april-21>Hepatitis: Eight children given liver transplants as 108 mystery cases detected in UK - April 21</h4><p><strong><a href="https://www.telegraph.co.uk/global-health/science-and-disease/eight-children-given-liver-transplants-108-mystery-hepatitis/?WT.mc_id=e_DM2267&amp;WT.tsrc=email&amp;etype=Edi_GHS_New_Fri&amp;utmsource=email&amp;utm_medium=Edi_GHS_New_Fri20220422&amp;utm_campaign=DM2267">Telegraph</a></strong></p><ul><li><p>&ldquo;So far, 77 per cent of cases tested were positive for adenovirus&rdquo;</p></li><li><p>&ldquo;Children have also been diagnosed with the “hepatitis of unknown aetiology” in Israel, Denmark, Ireland, the Netherlands, Spain and the United States – where nine suspected cases have been recorded in Alabama, including two who required a liver transplant. "</p></li><li><p>&ldquo;Adenoviruses are a common viral infection in people, especially among children. They usually cause common cold symptoms and sometimes pneumonia. In rare cases in immunocompromised patients, they can cause hepatitis.&rdquo;</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/alcohol.html><span class=tag>alcohol</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-pneumonia.html><span class=tag>childhood pneumonia</span></a>
+<a href=/tags/childhood-viruses.html><span class=tag>childhood viruses</span></a>
+<a href=/tags/ebv.html><span class=tag>EBV</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/infant-child.html><span class=tag>Infant-Child</span></a>
+<a href=/tags/liver.html><span class=tag>Liver</span></a>
+<a href=/tags/pneumonia.html><span class=tag>pneumonia</span></a>
+<a href=/tags/transplant.html><span class=tag>transplant</span></a>
+<a href=/tags/trauma-surgery.html><span class=tag>trauma surgery</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a>
+<a href=/tags/viruses-and-vitamin-d-receptor.html><span class=tag>viruses and vitamin d receptor</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a></div><div data-pagefind-meta=tags hidden>alcohol, breathing, child, childhood pneumonia, childhood viruses, EBV, genetics, health risk, immunity, Infant-Child, Liver, pneumonia, transplant, trauma surgery, virus, Virus, viruses and vitamin d receptor, vitamin d, vitamin d and viruses, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

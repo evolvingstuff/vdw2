@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset=utf-8><title>Lung Cancer and Vitamin D – 2 studies</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Lung Cancer and Vitamin D – 2 studies</h1><time>June 30, 2011</time><div data-pagefind-body><h1 id=two-articles-this-month-one-yes-one-no>Two articles this month: one YES, one NO</h1><h1 id=vitamin-d-and-lung-cancer--expert-review---yes>Vitamin D and lung cancer – Expert Review YES</h1><p>Expert Rev Respir Med. 2011 Jun;5(3):305-9.</p><p>Ramnath N, Kim S, Christensen PJ.</p><p>Division of Medical Oncology Department of Medicine, University of Michigan Comprehensive Cancer Center, 1500 East Medical Center Dr, Ann Arbor, MI 48109, USA and Staff Physician, Veterans Administration Medical Center, 2215 Fuller Road, Ann Arbor, MI 48105, USA. <a href=mailto:nithyar@umich.edu>nithyar@umich.edu</a>.</p><p>PMID: 21702651 <a href=http://www.expert-reviews.com/doi/abs/10.1586/ers.11.31>CLICK HERE</a> for full text</p><p>– – – – – – – – – – – – –</p><h1 id=serum-25-hydroxyvitamin-d-and-risk-of-lung-cancer-in-male-smokers-a-nested-case-control-study>Serum 25-hydroxyvitamin d and risk of lung cancer in male smokers: a nested case-control study.</h1><p>PLoS One. 2011;6(6):e20796. Epub 2011 Jun 10.</p><p>Weinstein SJ, Yu K, Horst RL, Parisi D, Virtamo J, Albanes D.</p><p>Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America.</p><p>BACKGROUND:</p><p>A role for vitamin D in cancer risk reduction has been hypothesized, but few data exist for lung cancer. We investigated the relationship between vitamin D status, using circulating 25-hydroxyvitamin D <span>[25(OH)D]</span>, and lung cancer risk in a nested case-control study within the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study of Finnish male smokers.</p><p>METHODS:</p><p>Lung cancer cases (n?=?500) were randomly selected based on month of blood collection, and 500 controls were matched to them based on age and blood collection date. Odds ratios (ORs) and 95% confidence intervals (CIs) were calculated using multivariate-adjusted conditional logistic regression. To account for seasonal variation in 25(OH)D concentrations, season-specific and season-standardized quintiles of 25(OH)D were examined, and models were also stratified on season of blood collection (darker season?=?November-April and sunnier season?=?May-October). Pre-determined, clinically-defined cutpoints for 25(OH)D and 25(OH)D as a continuous measure were also examined.</p><p>RESULTS:</p><p>Overall, 25(OH)D was not associated with lung cancer. Risks were 1.08 (95% CI 0.67-1.75) and 0.83 (95% CI 0.53-1.31) in the highest vs. lowest season-specific and season-standardized quintiles of 25(OH)D, respectively, and 0.91 (95% CI 0.48-1.72) for the ?75 vs. &lt;25 nmol/L clinical categories. Inverse associations were, however, suggested for subjects with blood collections from November-April, with ORs of 0.77 (95% CI 0.41-1.45, p-trend?=?0.05) and 0.65 (95% CI 0.37-1.14, p-trend?=?0.07) in the highest vs. lowest season-specific and season-standardized quintiles of 25(OH)D, respectively, and 0.61 (95% CI 0.24-1.52, p-trend?=?0.01) for ?75 vs. &lt;25 nmol/L. We also found 11% lower risk for a 10 nmol/L increase in 25(OH)D in the darker season based on the continuous measure (OR?=?0.89, 95% CI 0.81-0.98, p?=?0.02).</p><p>CONCLUSION:</p><p>In this prospective study of male smokers, circulating 25(OH)D <strong>was not associated with lung cancer risk overall</strong> , although inverse associations were suggested among those whose blood was drawn during darker months.</p><p>PMID: 21695165 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3112221/?tool=pubmed%20">CLICK HERE</a> for full text</p><hr><h2 id=suspect-that-this-article-like-several-below-failed-to-find-subjects-with-40-ng-of-vitamin-d>Suspect that this article, like several below, failed to find subjects with >40 ng of vitamin D</h2><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/tags/lung-cancer-and-vitamin-d.html>Lung cancer and vitamin D</a></p></li><li><p><a href=/tags/how-vitamin-d-helps-the-lung-may-2010.html>How vitamin D helps the lung May 2010</a></p></li><li><p><a href=/posts/vitamin-d-might-not-treat-lung-cancer>Vitamin D might not TREAT lung cancer – Nov 2010</a> does PREVENT</p></li><li><p><a href=/tags/patent-for-vitamin-d-treating-lung-cancer-in-animals.html>Patent for vitamin D treating lung cancer - in animals</a></p></li><li><p><a href=/tags/need-more-than-40-ng-of-vitamin-d-to-treat-lung-cancer-june-2011.html>Need more than 40 ng of vitamin D to TREAT Lung cancer – June 2011</a></p></li><li><p><a href="http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&amp;ie=UTF-8&amp;q=%22lung+cancer%22&amp;sa=Search&amp;siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0%26nocache%3D0%26v%3Df661cdea8f1dc8bb%26source%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26parent%3Dhttp%253A%252F%252Fwww.VitaminDWiki.com%252Ftiki-index.php%253Fpage%253DVitaminDSearch%26libs%3Dcore%253Acore.io%253Arpc%23st%3D%2525st%2525%26rpctoken%3D1152530717">Use Google to search site for &ldquo;lung Cancer&rdquo;</a> 91 items as of June 2011</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer-lung.html><span class=tag>Cancer - Lung</span></a>
+<a href=/tags/lung-cancer.html><span class=tag>lung cancer</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, cancer, Cancer - Lung, lung cancer, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

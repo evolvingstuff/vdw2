@@ -68,12 +68,12 @@ The clinical trial also indicates that the people should have BMI > 35 kg/m2
 
 &nbsp; &nbsp; &nbsp;- which is enough weight that it takes more than 8 weeks time to replete vitamin D without loading doses.
 
-50,000 IU of vitamin D (7,000 IU daily) should not be used as a monotherapy - <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a> should be adjusted if > 4,000 IU
+50,000 IU of vitamin D (7,000 IU daily) should not be used as a monotherapy - [cofactors](/tags/cofactors.html) should be adjusted if > 4,000 IU
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 754">Overview Cholesterol and vitamin D</a>
+* [Overview Cholesterol and vitamin D](/posts/overview-cholesterol-and-vitamin-d)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Hypertension and Vitamin D</a>
+* [Hypertension and Vitamin D](/tags/hypertension-and-vitamin-d.html)

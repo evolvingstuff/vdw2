@@ -110,7 +110,7 @@ It appears that the people with low vitamin D levels were sicker
 
 * [372 types of vitamin D prescriptions in France, 200,000 IU was the most popular – Oct 2013](/posts/372-types-of-vitamin-d-prescriptions-in-france-200000-iu-was-the-most-popular)
 
-* <a href="/posts/more-likely-to-have-chronic-widespread-pain-when-have-less-than-15-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More likely to have Chronic Widespread Pain when have less than 15 ng of vitamin D – May 2010">More likely to have Chronic Widespread Pain when have less than 15 ng of vitamin D – May 2010</a>
+* [More likely to have Chronic Widespread Pain when have less than 15 ng of vitamin D – May 2010](/posts/more-likely-to-have-chronic-widespread-pain-when-have-less-than-15-ng-of-vitamin-d)
 
 </div>
 

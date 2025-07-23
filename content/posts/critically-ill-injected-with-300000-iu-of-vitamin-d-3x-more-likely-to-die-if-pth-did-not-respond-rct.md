@@ -31,13 +31,13 @@ Crit Care Med. 2015 Jul 16.<span>[Epub ahead of print]</span>
 *  **Note: 40% of the high-dose group was having Renal Replacement Therapy,   
 &nbsp; &nbsp; which indicates that 40% were probably not able to process Vitamin D  
 Vitamin D is not the appropriate form to give to those patients,   
- &nbsp; &nbsp; they needed [Calcitriol](/categories/calcitriol) injection - which does not require kidney processing** 
+ &nbsp; &nbsp; they needed [Calcitriol](/tags/calcitriol.html) injection - which does not require kidney processing** 
 
 *  **They did not check for adverse reaction to a small dose before giving 300,000 IU injection  
 Overall, there was no statistially significant difference in mortality between the 150,000 and 300,000 groups  
 Strangely. the PDF fails to say the number of people who did not change PTH, nor the number of deaths.** 
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
 </div>
 

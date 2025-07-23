@@ -103,13 +103,13 @@ Alternate hypothesis:  Severe Ritt ==> polytherapy &l low vitamin D**
 
 #### See also VitaminDWiki
 
-* <a href="/posts/epilepsy-seizures-reduced-by-40-percent-after-vitamin-d-levels-normalized" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epilepsy seizures reduced by 40 percent after vitamin D levels normalized – April 2012">Epilepsy seizures reduced by 40 percent after vitamin D levels normalized – April 2012</a>
+* [Epilepsy seizures reduced by 40 percent after vitamin D levels normalized – April 2012](/posts/epilepsy-seizures-reduced-by-40-percent-after-vitamin-d-levels-normalized)
 
 * [Epilepsy and deficiency of vitamin D and-or Magnesium – Feb 2013](/posts/epilepsy-and-deficiency-of-vitamin-d-and-or-magnesium)
 
 * [Children with epilepsy advised to take vitamin D – July 2013](/posts/children-with-epilepsy-advised-to-take-vitamin-d)
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
 * [Learning Disabilities, anti-epileptic drugs, and subsequent vitamin D deficiency - Oct 2014](/posts/learning-disabilities-anti-epileptic-drugs-and-subsequent-vitamin-d-deficiency)
 

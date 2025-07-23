@@ -139,17 +139,17 @@ Tools for Practice articles in Canadian Family Physician (CFP) are adapted from 
 
 *  **[No longer debating vitamin D supplementation, now debating need for testing first – April 2013](/posts/no-longer-debating-vitamin-d-supplementation-now-debating-need-for-testing-first)** 
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * [50,000 IU monthly safe to take without any vitamin D testing – RCT Dec 2013](/posts/50000-iu-monthly-safe-to-take-without-any-vitamin-d-testing-rct)
 
 * [80 X increase in Vitamin D testing in Australia in a decade - June 2013](/posts/80-x-increase-in-vitamin-d-testing-in-australia-in-a-decade)
 
-* <a href="/posts/vitamin-d-testing-typically-not-needed-but-in-9-cases-it-is" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D testing typically not needed, but in 9 cases it is – April 2012">Vitamin D testing typically not needed, but in 9 cases it is – April 2012</a>  probably the similar exclusions as listed in the article on this page
+* [Vitamin D testing typically not needed, but in 9 cases it is – April 2012](/posts/vitamin-d-testing-typically-not-needed-but-in-9-cases-it-is)  probably the similar exclusions as listed in the article on this page
 
-* <a href="/posts/vitamin-d-testing-rarely-justified" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D testing rarely justified – Feb 2012">Vitamin D testing rarely justified – Feb 2012</a>
+* [Vitamin D testing rarely justified – Feb 2012](/posts/vitamin-d-testing-rarely-justified)
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a>  approx < 15 ng
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency)  approx < 15 ng
 
 * [Active level of vitamin D are not indicated by standard blood tests - Sept 2012](/posts/active-level-of-vitamin-d-are-not-indicated-by-standard-blood-tests)
 

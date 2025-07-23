@@ -52,8 +52,8 @@ PMID: 25269374
 
 ## See also VitaminDWiki
 
-* <a href="/posts/2000000-iu-vitamin-d-daily-mistake-noticed-in-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2,000,000 IU vitamin D daily - mistake noticed in weeks - April 2010">2,000,000 IU vitamin D daily - mistake noticed in weeks - April 2010</a>
+* [2,000,000 IU vitamin D daily - mistake noticed in weeks - April 2010](/posts/2000000-iu-vitamin-d-daily-mistake-noticed-in-weeks)
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> has the following chart
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

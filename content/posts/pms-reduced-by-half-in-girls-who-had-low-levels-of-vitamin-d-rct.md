@@ -52,9 +52,9 @@ Reduced by about half: anxiety, irritability, Crying easily and sadness
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/pms-in-teens-reduced-3x-by-50000-iu-vitamin-d-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018">PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018</a>
+* [PMS in teens reduced 3X by 50,000 IU vitamin D weekly – Jan 2018](/posts/pms-in-teens-reduced-3x-by-50000-iu-vitamin-d-weekly)
 
-* <a href="/posts/menstrual-pain-pms-reduced-by-vitamin-d-rct-2012-2014-2016" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Menstrual Pain (PMS) reduced by vitamin D – RCT 2012, 2014, 2016">Menstrual Pain (PMS) reduced by vitamin D – RCT 2012, 2014, 2016</a> RCT
+* [Menstrual Pain (PMS) reduced by vitamin D – RCT 2012, 2014, 2016](/posts/menstrual-pain-pms-reduced-by-vitamin-d-rct-2012-2014-2016) RCT
 
 > Single dose of 300,000 IU of vitamin D
 
@@ -62,7 +62,7 @@ Reduced by about half: anxiety, irritability, Crying easily and sadness
 
 * [Search VitaminDWiki for "premenstrual syndrome" OR PMS](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22premenstrual+syndrome%22+OR+PMS&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 54 items as of Jan 2016
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 </div>
 

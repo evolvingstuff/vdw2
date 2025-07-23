@@ -40,12 +40,12 @@ Mushrooms exposed to sunlight or UV radiation are an excellent source of dietary
 
 ## See also 	VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
-* <a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies</a>
+* [Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies)
 
-* <a href="/posts/mushroom-vitamin-d2-update-200-to-1000-iu-per-100-gram" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mushroom vitamin D2 update – 200 to 1000 IU per 100 gram – June 2011">Mushroom vitamin D2 update – 200 to 1000 IU per 100 gram – June 2011</a>
+* [Mushroom vitamin D2 update – 200 to 1000 IU per 100 gram – June 2011](/posts/mushroom-vitamin-d2-update-200-to-1000-iu-per-100-gram)
 
-* <a href="/posts/soup-with-uvb-irradiated-mushrooms-added-8-ng-to-vitamin-d-blood-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Soup with UVB irradiated mushrooms added 8 ng to vitamin D blood levels – May 2011">Soup with UVB irradiated mushrooms added 8 ng to vitamin D blood levels – May 2011</a>
+* [Soup with UVB irradiated mushrooms added 8 ng to vitamin D blood levels – May 2011](/posts/soup-with-uvb-irradiated-mushrooms-added-8-ng-to-vitamin-d-blood-levels)
 
 * Statement: 1/3 of herbs from Far East were made with sun-dried mushrooms.  Now all the mushrooms in herbs are oven-dried (= no vitamin D)

@@ -96,9 +96,9 @@ http://www.vitamindsociety.org
 
 ## See also VitaminDWiki
 
-* <a href="/posts/optimal-level-of-vitamin-d-is-40-ng-93-percent-of-canadians-do-not-have-optimal-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimal level of vitamin D is 40 ng, 93 percent of Canadians do not have optimal levels – Oct 2017">Optimal level of vitamin D is 40 ng, 93 percent of Canadians do not have optimal levels – Oct 2017</a>
+* [Optimal level of vitamin D is 40 ng, 93 percent of Canadians do not have optimal levels – Oct 2017](/posts/optimal-level-of-vitamin-d-is-40-ng-93-percent-of-canadians-do-not-have-optimal-levels)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Children in Australian Northern Territory have 38 ng of vitamin D – Oct 2013](/posts/children-in-australian-northern-territory-have-38-ng-of-vitamin-d)
 
@@ -112,7 +112,7 @@ http://www.vitamindsociety.org
 
 * [2 out of 3 people think that they get enough vitamin D, but only 1 in 3 get even the absolute minimum – Oct 2013](/posts/2-out-of-3-people-think-that-they-get-enough-vitamin-d-but-only-1-in-3-get-even-the-absolute-minimum)
 
-* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012">40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012</a>
+* [40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)
 
 * [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)
 

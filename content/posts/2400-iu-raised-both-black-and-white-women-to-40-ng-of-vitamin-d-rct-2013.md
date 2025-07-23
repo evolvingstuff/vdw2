@@ -68,11 +68,11 @@ The increase in serum 25OHD after vitamin D supplementation is similar in young 
 
 * have a condition which Prevents Adsorption in the gut  
 
-> and more - details at <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>
+> and more - details at [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview How Much vitamin D">Overview How Much vitamin D</a>
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d)
 
 ### Some Dose/Response grafts on VitaminDWiki
 

@@ -52,10 +52,10 @@ Vitamin D deficiency is associated with increased severity of radiation-induced 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/radiation-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Radiation and Vitamin D - many studies">Radiation and Vitamin D - many studies</a> which includes
+* [Radiation and Vitamin D - many studies](/posts/radiation-and-vitamin-d-many-studies) which includes
 
-   * <a href="/posts/vitamin-d-and-breast-cancer-radiation" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and breast cancer radiation">Vitamin D and breast cancer radiation</a>
+   * [Vitamin D and breast cancer radiation](/posts/vitamin-d-and-breast-cancer-radiation)
 
    * [Less radiation therapy needed if have more vitamin D (lung cancer in lab) – March 2017](/posts/less-radiation-therapy-needed-if-have-more-vitamin-d-lung-cancer-in-lab)
 
-   * <a href="/posts/radiation-therapy-for-cancer-should-be-helped-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Radiation therapy for cancer should be helped by Vitamin D – April 2021">Radiation therapy for cancer should be helped by Vitamin D – April 2021</a>
+   * [Radiation therapy for cancer should be helped by Vitamin D – April 2021](/posts/radiation-therapy-for-cancer-should-be-helped-by-vitamin-d)

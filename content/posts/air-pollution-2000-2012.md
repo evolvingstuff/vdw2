@@ -43,18 +43,18 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/air-pollution-reduces-vitamin-d-production-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Pollution reduces Vitamin D production - many studies">Air Pollution reduces Vitamin D production - many studies</a>
+* [Air Pollution reduces Vitamin D production - many studies](/posts/air-pollution-reduces-vitamin-d-production-many-studies)
 
 * [Search VitaminDWiki for "air pollution"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22air+pollution%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 169 items as of June 2014
 
-* [Breathing](/categories/breathing) category listing
+* [Breathing](/tags/breathing.html) category listing
 
 * [Higher air pollution associated with 7 ng lower vitamin D levels – Aug 2013](/posts/higher-air-pollution-associated-with-7-ng-lower-vitamin-d-levels)
 
 * [Air pollution while pregnant reduced vitamin D level in infant – Aug 2012](/posts/air-pollution-while-pregnant-reduced-vitamin-d-level-in-infant)
 
-* <a href="/posts/air-pollution-reduces-uv-and-thus-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air pollution reduces UV and thus vitamin D - Aug 2010">Air pollution reduces UV and thus vitamin D - Aug 2010</a>
+* [Air pollution reduces UV and thus vitamin D - Aug 2010](/posts/air-pollution-reduces-uv-and-thus-vitamin-d)
 
 * [Fewer pre-term births after pollution reduction (vitamin D not mentioned) April 2014](/posts/fewer-pre-term-births-after-pollution-reduction-vitamin-d-not-mentioned)
 
-* <a href="/posts/4x-more-suburban-uv-than-urban-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4X more suburban UV than urban UV – Nov 2010">4X more suburban UV than urban UV – Nov 2010</a>
+* [4X more suburban UV than urban UV – Nov 2010](/posts/4x-more-suburban-uv-than-urban-uv)

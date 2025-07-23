@@ -31,7 +31,7 @@ Note: many vitamin D testers are not very accurate
 
 ## See also VitaminDWiki
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * [Vitamin D tester falsely said half of hemodialysis patients had less than 30 ng – Jan 2013](/posts/vitamin-d-tester-falsely-said-half-of-hemodialysis-patients-had-less-than-30-ng)
 

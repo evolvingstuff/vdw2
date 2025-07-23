@@ -48,7 +48,7 @@ Conclusion: Results suggest causal association between 25-OHD and colorectal can
 
 * [After 30 years it still appears that vitamin D deals with colorectal cancer – Oct 2012](/posts/after-30-years-it-still-appears-that-vitamin-d-deals-with-colorectal-cancer)
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a> which has the following chart
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

@@ -1,0 +1,69 @@
+<!doctype html><html><head><meta charset=utf-8><title>Melanoma might be suppressed by Vitamin D - many studies</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Melanoma might be suppressed by Vitamin D - many studies</h1><time>January 17, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#melanoma-thickness-is-inversely-associated-with-vitamin-d---meta-analysis-aug-2022>Melanoma thickness is inversely associated with Vitamin D - meta-analysis Aug 2022</a></li><li><a href=#pten-a-novel-target-for-vitamin-d-in-melanoma---aug-2022>PTEN: a novel target for vitamin D in melanoma - Aug 2022</a></li></ul></li></ul></li></ul></nav><hr><h4 id=melanoma-thickness-is-inversely-associated-with-vitamin-d---meta-analysis-aug-2022>Melanoma thickness is inversely associated with Vitamin D - meta-analysis Aug 2022</h4><p><strong>To identify the association between dietary vitamin D intake and serum levels and risk or prognostic factors for melanoma-systematic review and meta-analysis</strong></p><p>BMJ Open 2022;12:e052442. <a href=https://doi.org/10.1136/bmjopen-2021-052442>doi: 10.1136/bmjopen-2021-052442</a></p><p>Yadong Song1, Hongyan Lu2, Yan Cheng1 <a href=mailto:GROzdyfy@163.com>GROzdyfy@163.com</a></p><p>Objective To evaluate the association of serum vitamin D levels and dietary intake with melanoma risk and prognostic factors.</p><p>Methods Two independent investigators systematically searched PubMed, Embase and ISI Web of Knowledge (Thomson Scientific Technical Support, New York) databases for eligible studies published between January 1992 and September 2020 using the following combinations of search terms: (vitamin D, or 25-hydroxyvitamin D) AND (melanoma, malignant melanoma, cutaneous melanoma, or cutaneous malignant melanoma). Articles not written in English but with English titles and abstracts were also checked. We obtained the full text of all potentially eligible articles, and reference lists of all studies retrieved at the ﬁrst stage were also checked to identify other eligible papers. Review articles not reporting original data were excluded, but their reference lists were inspected.</p><p>Results Six studies including 212 723 cases reported the association between dietary intake of 25(OH) D serum levels and melanoma risk. The total relative risk for the comparison between the highest and lowest quantiles of the distribution of vitamin D intake was 1.10 (95% CI 0.96 to 1.26) with I2=56%. Another six studies including 12 297 cases evaluated the association between serum vitamin D levels and melanoma risk. The total relative risk for the comparison of serum vitamin D levels between the highest and lowest quantiles was 1.12 (95% CI 0.53 to 2.35) with I2=91%. Four studies with 2105 cases investigated the association between serum 25(OH)D (nmol/L) and Breslow thickness, three of which found an inverse association between serum 25(OH)D (nmol/L) and melanoma thickness.</p><p>Conclusions Vitamin D intake and serum 25(OH)D levels were not closely related with melanoma risk, but an inverse association between serum 25(OH)D levels with melanoma thickness was discovered. As the positive correlation between melanoma thickness and melanoma mortality has been recognised, hence it is concluded that a moderate dietary vitamin D supplement to avoid the serum 25(OH)D deficient might be beneficial to the long-term survival of patients with melanoma.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/melanoma-meta-compresspdf.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=pten-a-novel-target-for-vitamin-d-in-melanoma---aug-2022>PTEN: a novel target for vitamin D in melanoma - Aug 2022</h4><p>J Steroid Biochem Mol Biol. 2022 Jan 13;106059. <a href=https://doi.org/10.1016/j.jsbmb.2022.106059>doi: 10.1016/j.jsbmb.2022.106059</a></p><p>Artur Shariev 1, Nicole Painter 1, Vivienne E Reeve 2, Nikolas K Haass 3, Mark S Rybchyn 4, Furkan A Ince 1, Rebecca S Mason 5, Katie M Dixon 6</p><p>Melanoma is the most dangerous form of skin cancer, with poor prognosis in advanced stages. Vitamin D, also produced by ultraviolet radiation, is known for its anti-proliferative properties in some cancers including melanoma. While vitamin D deficiency has been associated with advanced melanoma stage and higher levels of vitamin D have been associated with better outcomes, the role for vitamin D in melanoma remains unclear. Vitamin D synthesis is initiated upon UVB exposure of skin cells and results in formation of the active metabolite 1,25-dihydroxyvitamin D3 (1,25D). We have previously demonstrated that 1,25D plays a role in protection against ultraviolet radiation-induced DNA damage, immune suppression, and skin carcinogenesis. In this study 1,25D significantly reduced cell viability and increased caspase levels in human melanoma cell lines. This effect was not present in cells that lacked both phosphatase and tensin homolog deleted on chromosome 10 (PTEN), a well-known tumour suppressor, and the vitamin D receptor (VDR). PTEN is frequently lost or mutated in melanoma. Incubation of selected melanoma cell lines with 1,25D resulted in significant increases in PTEN levels and downregulation of the AKT pathway and its downstream effectors. This suggests that 1,25D may act to reduce melanoma cell viability by targeting PTEN.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer-in-vdr.html><span class=tag>cancer in VDR</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/melanoma.html><span class=tag>melanoma</span></a>
+<a href=/tags/meta-analysis.html><span class=tag>Meta-analysis</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/skin-cancer.html><span class=tag>skin cancer</span></a>
+<a href=/tags/skin-cancer.html><span class=tag>Skin Cancer</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a></div><div data-pagefind-meta=tags hidden>cancer, cancer in VDR, genetics, life span, melanoma, Meta-analysis, mortality, skin cancer, Skin Cancer, vitamin d, vitamin d blood test, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

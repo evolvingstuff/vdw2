@@ -73,17 +73,17 @@ Note: this study identifies an association. It could easily be that the pathway 
 
 * [Vitamin D decrease during inflammation is probably due to interferons - Oct 2012](/posts/vitamin-d-decrease-during-inflammation-is-probably-due-to-interferons)
 
-* <a href="/posts/hypothesis-vitamin-d-will-decrease-chronic-inflammation-and-fatigue" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – vitamin D will decrease chronic inflammation and fatigue – Oct 2010">Hypothesis – vitamin D will decrease chronic inflammation and fatigue – Oct 2010</a>
+* [Hypothesis – vitamin D will decrease chronic inflammation and fatigue – Oct 2010](/posts/hypothesis-vitamin-d-will-decrease-chronic-inflammation-and-fatigue)
 
 * [Inflammatory bowel diseases are helped by vitamin D – commissioned review Nov 2013](/posts/inflammatory-bowel-diseases-are-helped-by-vitamin-d-commissioned-review)
 
-* <a href="/posts/gut-doctors-becoming-aware-of-importance-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut doctors becoming aware of importance of vitamin D – May 2012">Gut doctors becoming aware of importance of vitamin D – May 2012</a>
+* [Gut doctors becoming aware of importance of vitamin D – May 2012](/posts/gut-doctors-becoming-aware-of-importance-of-vitamin-d)
 
-* <a href="/posts/people-with-gut-problems-are-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with gut problems are low on vitamin D">People with gut problems are low on vitamin D</a>
+* [People with gut problems are low on vitamin D](/posts/people-with-gut-problems-are-low-on-vitamin-d)
 
 * [Overview Gut and vitamin D](/posts/overview-gut-and-vitamin-d) - has a section on gui-friendly forms Vitamin D
 
-* <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a> designed for people with poorly functioning guts
+* [Gut-Friendly Vitamin D](/posts/gut-friendly-vitamin-d) designed for people with poorly functioning guts
 
 > Other possibilities, which apparently do not need the gut, include vitamin D spray and sublingual vitamin D miro-tabs
 

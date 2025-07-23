@@ -41,7 +41,7 @@ C. Onwuneme, B. Diya, O. Uduma, R. A. McCarthy, N. Murphy, M. T. Kilbane, M. J. 
 
 * [UK program to increase Vitamin D (Healthy Start) continues to be a farce - Nov 2014](/posts/uk-program-to-increase-vitamin-d-healthy-start-continues-to-be-a-farce)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
 </div>
 

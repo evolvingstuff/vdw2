@@ -92,6 +92,6 @@ They got an association without even taking into account
 
 * [Vitamin D and Risk of Rarer Cancers – Jan 2013](/posts/vitamin-d-and-risk-of-rarer-cancers)
 
-* <a href="/posts/esophageal-cancer-clinical-trial-to-see-if-50000-iu-vitamin-d-weekly-well-help" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1069">Esophageal cancer clinical trial to see if 50000 IU vitamin D weekly well help – Oct 2010</a>
+* [Esophageal cancer clinical trial to see if 50000 IU vitamin D weekly well help – Oct 2010](/posts/esophageal-cancer-clinical-trial-to-see-if-50000-iu-vitamin-d-weekly-well-help)
 
 * [Vitamin D and Risk of Rarer Cancers – Jan 2013](/posts/vitamin-d-and-risk-of-rarer-cancers)

@@ -45,7 +45,7 @@ Infant vitamin D levels raised by 8 nanograms (after adjustment)
 
 * [VitaminDWiki pages containing BREASTFE in title (15 items as of July 2021)](https://VitaminDWiki.com/36X+more+likely+for+an+infant+to+be+low+vitamin+D+if+exclusively+breastfed+%28Hong+Kong%29+%E2%80%93+March+2021#VitaminDWiki_pages_containing_BREASTFE_in_title_15_items_as_of_July_2021_)
 
-* <a href="/posts/6400-iu-of-vitamin-d-is-safe-and-effective-during-breastfeeding-rct-dec-2020" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6,400 IU of Vitamin D is safe and effective during breastfeeding – RCT Dec, 2020">6,400 IU of Vitamin D is safe and effective during breastfeeding – RCT Dec, 2020</a>
+* [6,400 IU of Vitamin D is safe and effective during breastfeeding – RCT Dec, 2020](/posts/6400-iu-of-vitamin-d-is-safe-and-effective-during-breastfeeding-rct-dec-2020)
 
    * 6400 IU daily is about 192,000 IU monthly
 
@@ -55,7 +55,7 @@ Infant vitamin D levels raised by 8 nanograms (after adjustment)
 
 * [Vitamin D required for breastfed infants – daily or monthly, infant or mother – Jan 2017](/posts/vitamin-d-required-for-breastfed-infants-daily-or-monthly-infant-or-mother)
 
-* <a href="/posts/biochemical-rickets-non-existent-if-breastfeeding-mother-got-600000-iu-of-vitamin-d-3-dollars-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Biochemical rickets non-existent if breastfeeding mother got 600,000 IU of vitamin D (3 dollars) – RCT Dec 2017">Biochemical rickets non-existent if breastfeeding mother got 600,000 IU of vitamin D (3 dollars) – RCT Dec 2017</a>
+* [Biochemical rickets non-existent if breastfeeding mother got 600,000 IU of vitamin D (3 dollars) – RCT Dec 2017](/posts/biochemical-rickets-non-existent-if-breastfeeding-mother-got-600000-iu-of-vitamin-d-3-dollars-rct)
 
 * [Monthly 120,000 IU of Vitamin D during lactation worked well - May 2016](/posts/monthly-120000-iu-of-vitamin-d-during-lactation-worked-well)
 

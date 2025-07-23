@@ -73,7 +73,7 @@ Vitamin K-2 retains bone strength
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Male Hip fracture 1.65X more likely if low vitamin D – May 2013](/posts/male-hip-fracture-165x-more-likely-if-low-vitamin-d)
 

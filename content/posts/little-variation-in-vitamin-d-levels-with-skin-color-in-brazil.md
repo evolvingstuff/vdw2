@@ -243,12 +243,12 @@ On the other hand, in tropical regions in which extreme skin phototypes (type I 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Skin and vitamin D">Overview Skin and vitamin D</a> 
+* [Overview Skin and vitamin D](/posts/overview-skin-and-vitamin-d) 
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a> - has many charts showing large reduction of vitamin D levels with darker skin - in temporate regions!
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d) - has many charts showing large reduction of vitamin D levels with darker skin - in temporate regions!
 
 * [Darker skins generated much less vitamin D from a single UVB dose – Nov 2013](/posts/darker-skins-generated-much-less-vitamin-d-from-a-single-uvb-dose)
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a> has the following chart
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

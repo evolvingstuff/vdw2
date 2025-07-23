@@ -1,0 +1,94 @@
+<!doctype html><html><head><meta charset=utf-8><title>COVID US booster shot to cost 200 dollars (if uninsured)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>COVID US booster shot to cost 200 dollars (if uninsured)</h1><time>September 3, 2024</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#coronavirus-vaccines-once-free-are-now-pricey-for-uninsured-people>Coronavirus vaccines, once free, are now pricey for uninsured people</a></li><li><a href=#many-alternatives-to-boosters---such-as-20-of-vitamin-d-to-prevent-most-viral-infections-for-4-years>Many alternatives to boosters - such as $20 of vitamin D to prevent most viral infections for 4 years</a></li><li><a href=#virus-entries-in-vitamindwiki-as-of-aug-2024>VIRUS entries in VitaminDWiki as of Aug 2024</a></li></ul></li></ul></li></ul></nav><hr><h4 id=coronavirus-vaccines-once-free-are-now-pricey-for-uninsured-people>Coronavirus vaccines, once free, are now pricey for uninsured people</h4><p><strong><a href="https://www.washingtonpost.com/health/2024/09/03/covid-vaccine-bridge-access-program-expires-cdc/?utm_campaign=wp_the7&amp;utm_medium=email&amp;utm_source=newsletter&amp;wpisrc=nl_the7&amp;carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3ee8ca9%2F66d6e9ee97ff550effc39143%2F596bdb5f9bbc0f403f990f33%2F57%2F95%2F66d6e9ee97ff550effc39143">Washington Post - free</a></strong></p><ul><li><p>&ldquo;The program’s elimination marks the latest tear in a safety net that once ensured people could protect themselves against the coronavirus regardless of their financial situation. Health experts worry that the paltry 22 percent rate of adults staying up-to-date on vaccines will erode further. And they fear that the roughly 25 million people without health insurance in the nation will be especially vulnerable to covid because they tend to be in poorer health and avoid medical care when sick.&rdquo;</p></li><li><p>&ldquo;But it expired ahead of schedule because <strong>Congress rescinded $6.1 billion</strong> in coronavirus emergency spending authority as part of a deal to avert a government shutdown. Congress also declined to fund the Biden administration’s proposal for a Vaccines for Adults program that could provide routine immunizations, including for coronavirus, for free, similar to an existing Vaccines for Children program.&rdquo;</p></li><li><p>&ldquo;Private insurers, along with the Medicare and Medicaid government programs, are required to pay for coronavirus vaccines.&rdquo;</p></li></ul><hr><ul><li><p><strong>In 2023, the median annual deductible for private industry workers participating in high deductible health plans (HDHPs) was <span style=color:#f06>$2,500</span></strong></p></li><li><p><strong>&ldquo;well over 30-40% of health plans likely have deductibles exceeding $1,000 based on the 2023 data showing 47% of small firm plans and 25% of large firm plans have deductibles of $2,000 or more&rdquo;"</strong></p><ul><li>details at <a href=https://www.perplexity.ai/search/what-of-health-care-insurance-F0wfsZVOTbuQgSOZphKEYQ>Perplexity AI - Sept 2024</a></li></ul></li></ul><hr><h4 id=many-alternatives-to-boosters---such-as-20-of-vitamin-d-to-prevent-most-viral-infections-for-4-years>Many alternatives to boosters - such as $20 of vitamin D to prevent most viral infections for 4 years</h4><p>Start with 50,000 IU weekly for 8 weeks then continue with 50,000 IU bi-weekly</p><p>Need larger doses or more frequent if obese or <a href=/posts/high-risk>High Risk</a> of low vitamin D</p><hr><h4 id=virus-entries-in-vitamindwiki-as-of-aug-2024>VIRUS entries in VitaminDWiki as of Aug 2024</h4><p><a href=/tags/virus.html>Virus</a> <strong>(1377+)</strong></p><p>        <a href=/tags/air-pollution.html>Air pollution</a></p><p>        <a href=/tags/all-studies.html>All studies</a></p><p>        <a href=/tags/bird-flu.html>Bird Flu</a></p><p>        <a href=/tags/cardiovascular.html>Cardiovascular</a> (19+)</p><p>        <a href=/tags/cancers-after-vax.html>Cancers after VAX</a> (17+)</p><p>        <a href=/tags/child-years-after-vax.html>Child - years after VAX</a> (11+)</p><p>        <a href=/tags/cognitive.html>Cognitive</a> (10+)</p><p>        <a href=/tags/dengue.html>Dengue</a> (27+)</p><p>        <a href=/tags/epstein-barr-virus.html>Epstein-Barr Virus</a> (20+)</p><p>        <a href=/tags/excess-deaths.html>Excess Deaths</a> (23+)</p><p>        <a href=/tags/hepatitis.html>Hepatitis</a> (29+)</p><p>        <a href=/tags/herpes-or-shingles.html>Herpes or Shingles</a> (13+)</p><p>        <a href=/tags/ivermectin.html>Ivermectin</a> (35+)</p><p>        <a href=/tags/long-covid.html>Long-COVID</a> (72+)</p><p>        <a href=/tags/magnesium.html>Magnesium</a> (60+)</p><p>        <a href=/tags/masks.html>Masks</a> (11+)</p><p>        <a href=/tags/meta-analyses.html>Meta-analyses</a> (40+)</p><p>        <a href=/tags/mononucleosis.html>Mononucleosis</a></p><p>        <a href=/tags/omega-3.html>Omega-3</a> (14+)</p><p>        <a href=/tags/rsv.html>RSV</a> (12+)</p><p>        <a href=/tags/ultraviolet-light.html>Ultraviolet light</a> (16+)</p><p>        <a href=/tags/vaccination.html>Vaccination</a> (198+)</p><p>        <a href=/tags/vitamin-d.html><strong>Vitamin D</strong> </a>(650+)</p><p>        <a href=/posts/vitamin-d-receptor>Vitamin D Receptor</a> (31+)</p><p>        <a href=/tags/vitamin-k.html>Vitamin K</a></p><p>        <a href=/tags/zinc.html>Zinc</a> (32+)</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bird-flu.html><span class=tag>bird flu</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer-in-vdr.html><span class=tag>cancer in VDR</span></a>
+<a href=/tags/cancers-after-vaccination.html><span class=tag>cancers after vaccination</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-cancer.html><span class=tag>childhood cancer</span></a>
+<a href=/tags/childhood-vaccination.html><span class=tag>childhood vaccination</span></a>
+<a href=/tags/childhood-viruses.html><span class=tag>childhood viruses</span></a>
+<a href=/tags/dengue.html><span class=tag>dengue</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/ebv.html><span class=tag>EBV</span></a>
+<a href=/tags/excess-deaths.html><span class=tag>excess deaths</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/herpes-shingles.html><span class=tag>herpes shingles</span></a>
+<a href=/tags/influenza.html><span class=tag>influenza</span></a>
+<a href=/tags/ivermectin.html><span class=tag>ivermectin</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/magnesium-and-cancer.html><span class=tag>magnesium and cancer</span></a>
+<a href=/tags/magnesium-and-viruses.html><span class=tag>magnesium and viruses</span></a>
+<a href=/tags/masks.html><span class=tag>masks</span></a>
+<a href=/tags/mononucleosis.html><span class=tag>mononucleosis</span></a>
+<a href=/tags/omega-3.html><span class=tag>omega 3</span></a>
+<a href=/tags/omega-3-and-viruses.html><span class=tag>omega 3 and viruses</span></a>
+<a href=/tags/pollution.html><span class=tag>pollution</span></a>
+<a href=/tags/rsv.html><span class=tag>RSV</span></a>
+<a href=/tags/ultraviolet-light.html><span class=tag>ultraviolet light</span></a>
+<a href=/tags/vaccination.html><span class=tag>vaccination</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/viruses-and-vitamin-d-receptor.html><span class=tag>viruses and vitamin d receptor</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a>
+<a href=/tags/vitamin-k.html><span class=tag>vitamin k</span></a>
+<a href=/tags/vitamin-k-and-viruses.html><span class=tag>vitamin k and viruses</span></a>
+<a href=/tags/zinc.html><span class=tag>zinc</span></a>
+<a href=/tags/zinc-and-viruses.html><span class=tag>zinc and viruses</span></a></div><div data-pagefind-meta=tags hidden>bird flu, cancer, cancer in VDR, cancers after vaccination, child, childhood cancer, childhood vaccination, childhood viruses, dengue, dosage, EBV, excess deaths, genetics, health risk, herpes shingles, influenza, ivermectin, magnesium, magnesium and cancer, magnesium and viruses, masks, mononucleosis, omega 3, omega 3 and viruses, pollution, RSV, ultraviolet light, vaccination, virus, viruses and vitamin d receptor, vitamin d, vitamin d and viruses, vitamin d receptor, vitamin k, vitamin k and viruses, zinc, zinc and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

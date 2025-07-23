@@ -132,11 +132,11 @@ The attached paper does not even appear to mention the % of patients in that cat
 
 * [Respiratory infections reduced by 63 percent with 4000 IU vitamin D daily - RCT Dec 2012](/posts/respiratory-infections-reduced-by-63-percent-with-4000-iu-vitamin-d-daily-rct)
 
-* <a href="/posts/copd-and-vitamin-d-in-a-vicious-circle" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1563">COPD and vitamin D in a vicious circle – April 2011</a>
+* [COPD and vitamin D in a vicious circle – April 2011](/posts/copd-and-vitamin-d-in-a-vicious-circle)
 
 * [100000 IU vitamin D monthly helped COPD patients – 2011 and 2012](/posts/100000-iu-vitamin-d-monthly-helped-copd-patients-2011-and-2012)
 
-* <a href="/posts/less-copd-if-vitamin-d-more-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less COPD if vitamin D more than 30 ng – Nov 2011">Less COPD if vitamin D more than 30 ng – Nov 2011</a>
+* [Less COPD if vitamin D more than 30 ng – Nov 2011](/posts/less-copd-if-vitamin-d-more-than-30-ng)
 
 ## See also web
 

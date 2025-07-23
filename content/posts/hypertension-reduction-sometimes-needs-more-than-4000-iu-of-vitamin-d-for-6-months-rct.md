@@ -63,7 +63,7 @@ Pankaj Arora1; Yanna Song2; Jeffery Dusek3; Gregory Plotnikoff3; Marc Sabatine4;
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Blood pressure in diabetics reduced by 12 weekly doses of 50,000 IU vitamin D – RCT Jan 2014](/posts/blood-pressure-in-diabetics-reduced-by-12-weekly-doses-of-50000-iu-vitamin-d-rct)
 

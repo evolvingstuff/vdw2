@@ -56,7 +56,7 @@ PMID: 258671
 
 ### See also VitaminDWiki
 
-* <a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">ADHD and Vitamin D Deficiency</a>
+* [ADHD and Vitamin D Deficiency](/posts/adhd-and-vitamin-d-deficiency)
 
 ### See also web
 

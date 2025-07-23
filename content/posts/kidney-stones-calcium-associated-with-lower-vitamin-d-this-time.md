@@ -28,9 +28,9 @@ Int Urol Nephrol. 2016 Apr 19. <span>[Epub ahead of print]</span>
 
  **No consensus on this topic** 
 
-* <a href="/posts/overview-kidney-stones-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney Stones and vitamin D">Overview Kidney Stones and vitamin D</a>
+* [Overview Kidney Stones and vitamin D](/posts/overview-kidney-stones-and-vitamin-d)
 
-* <a href="/posts/kidney-stones-vitamin-d-myth-from-medical-book-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kidney stones Vitamin D myth from medical book - 2010">Kidney stones Vitamin D myth from medical book - 2010</a>
+* [Kidney stones Vitamin D myth from medical book - 2010](/posts/kidney-stones-vitamin-d-myth-from-medical-book-2010)
 
 * [Kidney stones associated with higher vitamin D (but not agree how much 20-100 ng) – meta-analysis March 2016](/posts/kidney-stones-associated-with-higher-vitamin-d-but-not-agree-how-much-20-100-ng-meta-analysis)
 

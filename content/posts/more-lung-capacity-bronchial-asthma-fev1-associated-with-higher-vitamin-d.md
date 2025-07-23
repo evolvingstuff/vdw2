@@ -75,11 +75,11 @@ Vitamin D deficiency was highly prevalent in asthmatic patients and it was assoc
 
 #### See also VitaminDWiki
 
-* <a href="/posts/each-ng-extra-vitamin-d-associated-with-better-breathing-and-2x-better-for-smokers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Each ng extra vitamin D associated with better breathing (and 2X better for smokers) – March 2018">Each ng extra vitamin D associated with better breathing (and 2X better for smokers) – March 2018</a>
+* [Each ng extra vitamin D associated with better breathing (and 2X better for smokers) – March 2018](/posts/each-ng-extra-vitamin-d-associated-with-better-breathing-and-2x-better-for-smokers)
 
-* <a href="/posts/worse-breathing-with-copd-is-related-to-lower-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Worse breathing with COPD is related to lower Vitamin D – June 2018">Worse breathing with COPD is related to lower Vitamin D – June 2018</a>
+* [Worse breathing with COPD is related to lower Vitamin D – June 2018](/posts/worse-breathing-with-copd-is-related-to-lower-vitamin-d)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Largest cause of infant deaths is respiratory infections, which is associated with low vitamin D – April 2011](/posts/largest-cause-of-infant-deaths-is-respiratory-infections-which-is-associated-with-low-vitamin-d)
 

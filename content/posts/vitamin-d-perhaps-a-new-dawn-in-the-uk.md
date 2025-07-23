@@ -77,7 +77,7 @@ Outside of the UK the debates typically range between 20ng and 50 ng
 
 * [Why the UK government ignores evidence for the benefits of Vitamin D - Nov 2013](/posts/why-the-uk-government-ignores-evidence-for-the-benefits-of-vitamin-d)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 </div>
 

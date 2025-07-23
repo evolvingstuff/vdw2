@@ -39,7 +39,7 @@ Laura A. Deinema, BOptom1, Algis J. Vingrys, PhD, BScOptom1, Chinn Yi Wong, BSc(
 | krill oil | -18.6 | -18 |
 | fish oil | -19.8 | -  |** 
 
-* <a href="/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dry Eyes treated by Omega-3 and Vitamin D – many studies">Dry Eyes treated by Omega-3 and Vitamin D – many studies</a>
+* [Dry Eyes treated by Omega-3 and Vitamin D – many studies](/posts/dry-eyes-treated-by-omega-3-and-vitamin-d-many-studies)
 
 </div>
 

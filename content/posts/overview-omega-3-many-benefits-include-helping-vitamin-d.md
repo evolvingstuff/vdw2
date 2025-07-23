@@ -194,7 +194,7 @@ In summary, emulsified omega-3 supplements are specifically formulated to improv
 
 * Should have a low ratio of Omega-6 to Omega 3: US has a high ratio of 10,  Sweden has 5, Japan has only 2
 
-> Japan has highest life expectancy AND highest Omega-3 consumption in the world (as well as a very high consumption of <a href="/posts/vitamin-k2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765">Vitamin K2</a>)
+> Japan has highest life expectancy AND highest Omega-3 consumption in the world (as well as a very high consumption of [Vitamin K2](/tags/vitamin-k2.html))
 
 *  **PUFA**  was the only way to describe all Omegas until 1964
 
@@ -224,7 +224,7 @@ In summary, emulsified omega-3 supplements are specifically formulated to improv
 
 * The goal of eating a balanced diet without supplements no longer makes sense when our food is no longer balanced
 
- **<a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Perspective of the importance of Vit D and co-factors to health</a>** 
+ **[Perspective of the importance of Vit D and co-factors to health](/posts/ways-to-improve-health)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -278,7 +278,7 @@ In summary, emulsified omega-3 supplements are specifically formulated to improv
 
 ---
 
-#### * <a href="/posts/omega-6-blocks-omega-3-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-6 blocks Omega-3 etc. -many studies">Omega-6 blocks Omega-3 etc. -many studies</a>
+#### * [Omega-6 blocks Omega-3 etc. -many studies](/posts/omega-6-blocks-omega-3-etc-many-studies)
 
 ---
 
@@ -318,7 +318,7 @@ In summary, emulsified omega-3 supplements are specifically formulated to improv
 
 *  **Lard from pigs which never get outdoors has very little vitamin D** 
 
-> <a href="/posts/free-range-lard-has-500-iu-vitamin-d-per-teaspoon" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1414">"Free range" lard has 500 IU vitamin D per teaspoon</a> rare, but you can get it on the internet, etc
+> ["Free range" lard has 500 IU vitamin D per teaspoon](/posts/free-range-lard-has-500-iu-vitamin-d-per-teaspoon) rare, but you can get it on the internet, etc
 
 * [Are Statin Drugs Killing The Health Benefits Of Omega-3 Fat?](http://www.greenmedinfo.com/blog/cholesterol-lowering-statins-may-kill-omega-3-heart-benefits) Green Info Jan 2013
 

@@ -94,16 +94,16 @@ Received November 14, 2011, Accepted March 16, 2012, First published online: Nov
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1433">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Search VitaminDWiki for corticosteroids](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=corticosteroids&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 417 items as of Jan 2017
 
-* <a href="/posts/side-effects-and-warning-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 498">Side Effects and Warning for vitamin D</a>
+* [Side Effects and Warning for vitamin D](/posts/side-effects-and-warning-for-vitamin-d)
 
 > Appears that corticosteroids reduce vitamin D levels - increasing the deficiency
 
-* <a href="/posts/diseases-which-become-related-due-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1817">Diseases which become related due to vitamin D deficiency</a>
+* [Diseases which become related due to vitamin D deficiency](/tags/diseases-which-become-related-due-to-vitamin-d-deficiency.html)
 
 > Such as: Prostate cancer, Breast cancer, Bladder cancer, Skin Cancer, Osteoporosis, Rickets, MS, Falls/fractures Diabetes, Influenza, Kidney, Depression, Chronic fatigue, Birth problems, SAD, Pancreas, Overweight,  **Heart disease** , Lupus, Chronic Pain, ALS, TB, IBD, COPD, Colds, Cognitive Decline, Psorasis, Bone density/fractures

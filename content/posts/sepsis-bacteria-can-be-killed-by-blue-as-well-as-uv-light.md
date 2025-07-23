@@ -61,9 +61,9 @@ Besides harming public health, antibiotic resistance boosts health care costs.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/sepsis-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis associated with low vitamin D - April 2012">Sepsis associated with low vitamin D - April 2012</a>
+* [Sepsis associated with low vitamin D - April 2012](/posts/sepsis-associated-with-low-vitamin-d)
 
-* <a href="/posts/icu-surgical-patients-with-low-vitamin-d-stayed-longer-and-had-more-sepsis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ICU surgical patients with low vitamin D stayed longer and had more sepsis – Dec 2011">ICU surgical patients with low vitamin D stayed longer and had more sepsis – Dec 2011</a>
+* [ICU surgical patients with low vitamin D stayed longer and had more sepsis – Dec 2011](/posts/icu-surgical-patients-with-low-vitamin-d-stayed-longer-and-had-more-sepsis)
 
 ## See also web
 

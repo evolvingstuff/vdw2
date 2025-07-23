@@ -46,7 +46,7 @@
 
 &nbsp; &nbsp; search keywords ==> advertisement ==> 70+ specific VitaminDWiki pages
 
- **3) Encourage <a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HMOs will save millions of dollars with vitamin D">Health Maintenance Organizations</a> (HMOs) to PROFIT from vitamin D supplementation** 
+ **3) Encourage [Health Maintenance Organizations](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d) (HMOs) to PROFIT from vitamin D supplementation** 
 
 (We expect that when 1+ HMOs embrace Vitamin D that momentum will be created for HMOs, hospitals, employers, etc)
 
@@ -64,7 +64,7 @@ Profit by reducing % of [preterm births](/posts/vitamin-d-webinar-cost-of-pre-te
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **$1 million savings**  resulting from fewer preterm births in 330 pregnancies
 
-Additional profit (to be computed) from reduction in <a href="/posts/caesarean-birth-much-more-likely-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Caesarean birth much more likely if low Vitamin D - many studies">C-section</a>
+Additional profit (to be computed) from reduction in [C-section](/posts/caesarean-birth-much-more-likely-if-low-vitamin-d-many-studies)
 
 Extremely low risk experment for an HMO. 
 

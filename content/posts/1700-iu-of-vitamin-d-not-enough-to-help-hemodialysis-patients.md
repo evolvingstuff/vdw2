@@ -52,21 +52,21 @@ PMID:     23493381
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
-* <a href="/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 becomes Calcidiol which becomes Calcitriol">Vitamin D3 becomes Calcidiol which becomes Calcitriol</a>
+* [Vitamin D3 becomes Calcidiol which becomes Calcitriol](/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol)
 
 * [2000 IU vitamin D3 was not enough for children with chronic kidney disease – Feb 2013](/posts/2000-iu-vitamin-d3-was-not-enough-for-children-with-chronic-kidney-disease)
 
-* <a href="/posts/kidney-conference-had-many-vitamin-d-papers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kidney Conference had many Vitamin D papers – May 2012">Kidney Conference had many Vitamin D papers – May 2012</a>
+* [Kidney Conference had many Vitamin D papers – May 2012](/posts/kidney-conference-had-many-vitamin-d-papers)
 
 * [7100 IU (50000 weekly) restored vitamin D levels for those with Chronic Kidney Disease – July 2012](/posts/7100-iu-50000-weekly-restored-vitamin-d-levels-for-those-with-chronic-kidney-disease)
 
 * [25,0000 IU vitamin D weekly only raised 60 percent on hemodialysis above 30 ng – Nov 2014](/posts/250000-iu-vitamin-d-weekly-only-raised-60-percent-on-hemodialysis-above-30-ng)
 
-* <a href="/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012">Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012</a>
+* [Need at least 80 ng of vitamin D if have chronic kidney disease – May 2012](/posts/need-at-least-80-ng-of-vitamin-d-if-have-chronic-kidney-disease)
 
-* <a href="/posts/kidney-failure-and-vitamin-d-deficiency-vicious-cycle" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kidney failure and vitamin D deficiency vicious cycle – Jan 2011">Kidney failure and vitamin D deficiency vicious cycle – Jan 2011</a>
+* [Kidney failure and vitamin D deficiency vicious cycle – Jan 2011](/posts/kidney-failure-and-vitamin-d-deficiency-vicious-cycle)
 
 * [Kidney disease requires magnesium - Jan 2013](/posts/kidney-disease-requires-magnesium)
 

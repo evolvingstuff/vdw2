@@ -40,7 +40,7 @@ Geriatr Psychol Neuropsychiatr Vieil. 2016 Nov 4. <span>[Epub ahead of print]</s
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
+* [VA showed increased vitamin D associated with lower health costs - Lancet May 2012](/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet)
 
 * [Vitamin D test costs reimbursed in Japan – Aug 2016](/posts/vitamin-d-test-costs-reimbursed-in-japan)
 

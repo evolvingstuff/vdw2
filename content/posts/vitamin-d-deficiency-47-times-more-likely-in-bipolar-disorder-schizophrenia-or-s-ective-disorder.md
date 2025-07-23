@@ -67,4 +67,4 @@ CONCLUSIONS:
 
 In this study,  **vitamin D deficiency was 4.7 times more common among outpatients with bipolar disorder, schizophrenia, or schizoaffective disorder than among the Dutch general population.**   Given the high prevalence of vitamin D deficiency, we believe that outpatients with bipolar disorder, schizophrenia, or schizoaffective disorder should be considered at risk of having low levels of vitamin D. Annual measurement of vitamin D levels in psychiatric outpatients with these disorders seems to be justified to maintain bone health, muscle strength, and to prevent osteoporosis.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1097/JCP.0000000000000580**
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1097/JCP.0000000000000580**

@@ -62,7 +62,7 @@ Conclusions. The 25OHD repletion rates were comparable between HIV+ adults on 
 
 > Note: 50,000 IU twice a week = 14,000 IU daily average
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 * [Blacks with HIV were 3.5X more likely to be vitamin D deficient than whites – May 2012](/posts/blacks-with-hiv-were-35x-more-likely-to-be-vitamin-d-deficient-than-whites)
 

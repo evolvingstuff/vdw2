@@ -48,6 +48,6 @@ Long-term vitamin D supplementation, which increased mean 25-hydroxyvitamin D3 c
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 4 RCT for Hypertension as of 2017
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 4 RCT for Hypertension as of 2017

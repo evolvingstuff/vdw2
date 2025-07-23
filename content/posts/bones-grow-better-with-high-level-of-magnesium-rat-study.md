@@ -143,11 +143,11 @@ Mg supplementation significantly increased the serum osteocalcin in the adequate
 
 * [Search VitaminDWiki for Magesium and Bone](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=magnesium+bone&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 446 items as of Nov 2013
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
 * [Magnesium may be more important to kids’ bone health than calcium – May 2013](/posts/magnesium-may-be-more-important-to-kids-bone-health-than-calcium)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> which has the following graph
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) which has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

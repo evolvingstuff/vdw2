@@ -360,9 +360,9 @@ CONCLUSION: It is of utmost clinical importance to assess vitamin D levels in ca
 
 #### See also VitaminDWiki
 
-* <a href="/posts/blood-cell-cancer-is-associated-with-a-3x-worse-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Blood cell cancer is associated with a 3X worse Vitamin D Receptor – June 2019">Blood cell cancer is associated with a 3X worse Vitamin D Receptor – June 2019</a>
+* [Blood cell cancer is associated with a 3X worse Vitamin D Receptor – June 2019](/posts/blood-cell-cancer-is-associated-with-a-3x-worse-vitamin-d-receptor)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> has the following chart
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

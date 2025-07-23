@@ -33,7 +33,7 @@ Hayes C1, Kearney M2, O'Carroll H3, Zgaga L4, Geary M5, Kelleher C6.
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
  **Smoking While Pregnant** 
 
@@ -41,7 +41,7 @@ Hayes C1, Kearney M2, O'Carroll H3, Zgaga L4, Geary M5, Kelleher C6.
 
 * [Pregnant women were 2.6 times more likely to stop smoking when given financial rewards – RCT Jan 2015](/posts/pregnant-women-were-26-times-more-likely-to-stop-smoking-when-given-financial-rewards-rct)
 
-* <a href="/posts/smoking-while-pregnant-lowers-vitamin-d-and-increases-child-asthma-by-36-x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1953">Smoking while pregnant lowers vitamin D and increases child asthma by 3.6 X – Aug 2011</a>
+* [Smoking while pregnant lowers vitamin D and increases child asthma by 3.6 X – Aug 2011](/posts/smoking-while-pregnant-lowers-vitamin-d-and-increases-child-asthma-by-36-x)
 
 * [Smoking while pregnant: are the problems due to low vitamin D – July 2013](/posts/smoking-while-pregnant-are-the-problems-due-to-low-vitamin-d)
 

@@ -21,7 +21,7 @@
 
 Got started on this when I realized that more data is not needed.
 
-Had made the following summary in the <a href="/posts/overview-of-breast-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4290">Overview of Breast Cancer and Vitamin D</a>
+Had made the following summary in the [Overview of Breast Cancer and Vitamin D](/tags/overview-of-breast-cancer-and-vitamin-d.html)
 
 There are over  **118 studies**  of vitamin D and the prevention/treatment of Breast Cancer
 

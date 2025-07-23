@@ -65,10 +65,10 @@ PMID: 25389018
 
 ## See also VitaminDWiki
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  **<span style="color:#00F;">Asthma has been proven to be treated by at least 4 Random Controlled trials with Vitamin D intervention</span>** 
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  **<span style="color:#00F;">Asthma has been proven to be treated by at least 4 Random Controlled trials with Vitamin D intervention</span>** 
 
-* <a href="/posts/milk-vitamin-d-deficiency-2x-more-likely-if-lactose-intolerant-milk-allergy-or-low-fat-milk-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017">Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017</a>
+* [Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017](/posts/milk-vitamin-d-deficiency-2x-more-likely-if-lactose-intolerant-milk-allergy-or-low-fat-milk-2017)

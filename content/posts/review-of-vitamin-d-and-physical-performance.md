@@ -113,19 +113,19 @@ The opinions or assertions contained herein are the private viewWs of the author
 
 ## See also VitaminDWiki
 
-<a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a> which had the following summary May 2013
+[Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d) which had the following summary May 2013
 
-1. <a href="/posts/faster-reaction-time" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 278">Faster reaction time</a>
+1. [Faster reaction time](/tags/faster-reaction-time.html)
 
-1. <a href="/posts/far-fewer-coldsflues-during-the-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 707">Far fewer colds/flues during the winter</a>
+1. [Far fewer colds/flues during the winter](/tags/far-fewer-coldsflues-during-the-winter.html)
 
 1. Less sore/tired after a workout
 
-1. <a href="/posts/fewer-micro-cracks-and-broken-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 974">Fewer micro-cracks and broken bones</a>
+1. [Fewer micro-cracks and broken bones](/tags/fewer-micro-cracks-and-broken-bones.html)
 
 1. Bones which do break heal much more quickly
 
-1. <a href="/posts/increased-vo2-and-exercise-endurance" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1724">Increased VO2 and exercise endurance</a> Feb 2011
+1. [Increased VO2 and exercise endurance](/tags/increased-vo2-and-exercise-endurance.html) Feb 2011
 
 1. Indoor athletes especially need vitamin D
 
@@ -135,7 +135,7 @@ The opinions or assertions contained herein are the private viewWs of the author
 
 1. The biggest gain from the use of vitamin D is by those who exercise less than 2 hours per day. 
 
-1. <a href="/posts/reduced-muscle-fatigue-with-10000-iu-vitamin-d-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3871">Reduced muscle fatigue with 10,000 IU vitamin D daily</a>
+1. [Reduced muscle fatigue with 10,000 IU vitamin D daily](/tags/reduced-muscle-fatigue-with-10000-iu-vitamin-d-daily.html)
 
 ---
 

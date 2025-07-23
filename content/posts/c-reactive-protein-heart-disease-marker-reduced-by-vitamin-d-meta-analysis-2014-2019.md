@@ -70,9 +70,9 @@ Presently available evidence are insufficient to ascertain the beneficial effect
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/inflammation-c-reactive-protein-associated-with-low-vitamin-d-in-22-diseases" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inflammation (C-reactive protein) associated with low vitamin D in 22 diseases – April 2020">Inflammation (C-reactive protein) associated with low vitamin D in 22 diseases – April 2020</a>
+* [Inflammation (C-reactive protein) associated with low vitamin D in 22 diseases – April 2020](/posts/inflammation-c-reactive-protein-associated-with-low-vitamin-d-in-22-diseases)
 
 * <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/c-reactive-association.jpg" alt="image" width="700">
 

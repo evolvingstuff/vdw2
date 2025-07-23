@@ -65,4 +65,4 @@ CONCLUSIONS: The majority of our patients had low VDL unrelated to race or seaso
 
 * [Search VitaminDWiki for Crohn's ](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=crohn%27s&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 319 items as of Dec 2014
 
-* [Gut](/categories/gut) category listing with associated searches
+* [Gut](/tags/gut.html) category listing with associated searches

@@ -56,7 +56,7 @@ PMID:     24130687
 
 ## See also VitaminDWiki
 
-* <a href="/posts/more-fat-in-liver-associated-with-lower-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More fat in liver associated with lower vitamin D – June 2016">More fat in liver associated with lower vitamin D – June 2016</a>
+* [More fat in liver associated with lower vitamin D – June 2016](/posts/more-fat-in-liver-associated-with-lower-vitamin-d)
 
 * [NAFLD weakly associated with low vitamin D – meta-analysis 2013](/posts/nafld-weakly-associated-with-low-vitamin-d-meta-analysis-2013)
 
@@ -66,7 +66,7 @@ PMID:     24130687
 
 * [Search for Fatty Liver in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22fatty+liver%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 316 items July 2017
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a>
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d)
 
 * [Non-alcoholic Fatty Liver Disease  (4 in 10 seniors) and Vitamin D ](/posts/non-alcoholic-fatty-liver-disease-4-in-10-seniors-and-vitamin-d)
 

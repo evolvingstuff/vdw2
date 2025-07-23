@@ -61,7 +61,7 @@ Does have nice appendix of Vitamin D pro and anti-inflammation and bibliography
 
 ## See also VitaminDWiki
 
-* <a href="/posts/5-traumatic-brain-injuries-resulted-in-28-x-increased-risk-of-dementia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5 Traumatic brain injuries resulted in 2.8 X increased risk of dementia – April 2018">5 Traumatic brain injuries resulted in 2.8 X increased risk of dementia – April 2018</a>
+* [5 Traumatic brain injuries resulted in 2.8 X increased risk of dementia – April 2018](/posts/5-traumatic-brain-injuries-resulted-in-28-x-increased-risk-of-dementia)
 
 * [Vitamin D and Glutamine reduced Trauma Center deaths by half – Matthews March 2017](/posts/vitamin-d-and-glutamine-reduced-trauma-center-deaths-by-half-matthews)
 
@@ -85,6 +85,6 @@ Does have nice appendix of Vitamin D pro and anti-inflammation and bibliography
 
 * [Search VitaminDWiki for TBI OR "Traumatic Brain Injury"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=TBI+OR+%22traumatic+Brain+Injury%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 303 items as of Aug 2017
 
-* <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a>
+* [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution)
 
 * [Omega-3 prevents PTSD and some mood disorders - Aug 2015](/posts/omega-3-prevents-ptsd-and-some-mood-disorders)

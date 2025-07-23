@@ -72,11 +72,11 @@ Two weeks is not enough time to "top off" Vitaminn D levels
 
 * [Allergic Rhinitis (hay fever) reduced by just 1,000 IU of vitamin D for 30 days – RCT Sept 2015](/posts/allergic-rhinitis-hay-fever-reduced-by-just-1000-iu-of-vitamin-d-for-30-days-rct)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 70 proofs as of Aug 2016
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 70 proofs as of Aug 2016
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Vitamin D supplementation improves muscle strength in healthy adults – meta-analysis of 6 RCT Aug 2014](/posts/vitamin-d-supplementation-improves-muscle-strength-in-healthy-adults-meta-analysis-of-6-rct)
 

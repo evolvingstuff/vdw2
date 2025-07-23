@@ -82,7 +82,7 @@ chart from http://www.nature.com/news/infectious-disease-blowing-in-the-wind-1.1
 
 1. KD has increased 2X in a decade - like 30 other diseases associated with low vitamin D
 
-See also <a href="/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Criteria to associate a health problem with low vitamin D">Criteria to associate a health problem with low vitamin D</a>
+See also [Criteria to associate a health problem with low vitamin D](/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d)
 
 ---
 

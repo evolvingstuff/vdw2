@@ -68,7 +68,7 @@ Active vitamin D may be better still – see below
 
  **See also VitaminDWiki: NEUROPATHY** 
 
-* <a href="/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019">Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019</a>
+* [Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019](/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct)
 
 * [Pain of Diabetic Neuropathy reduced with weekly 50,000 IU vitamin D– CT Feb 2015](/posts/pain-of-diabetic-neuropathy-reduced-with-weekly-50000-iu-vitamin-d-ct)
 
@@ -94,13 +94,13 @@ Active vitamin D may be better still – see below
 
  **See also VitaminDWiki: LOADING DOSE** 
 
-* <a href="/posts/300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011">300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011</a>
+* [300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011](/posts/300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 * [600,000 vitamin D loading doses – good response to both oral and muscular – Oct 2015](/posts/600000-vitamin-d-loading-doses-good-response-to-both-oral-and-muscular)
 
-* <a href="/posts/600000-iu-dose-raised-youth-vitamin-d-level-by-60-ng-in-3-days" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 600000 IU dose raised youth vitamin D level by 60 ng in 3 days – July 2010">600000 IU dose raised youth vitamin D level by 60 ng in 3 days – July 2010</a>
+* [600000 IU dose raised youth vitamin D level by 60 ng in 3 days – July 2010](/posts/600000-iu-dose-raised-youth-vitamin-d-level-by-60-ng-in-3-days)
 
 * [ICU survival increased with vitamin D single 540K IU loading dose - JAMA Sept 2014](/posts/icu-survival-increased-with-vitamin-d-single-540k-iu-loading-dose-jama) 540,000 IU
 

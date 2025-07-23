@@ -68,8 +68,8 @@ PMID: 26251704
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a>
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response)
 
 * [Vitamin D – monthly dosing was better than daily with Calcium – RCT Dec 2015](/posts/vitamin-d-monthly-dosing-was-better-than-daily-with-calcium-rct)
 
-* <a href="/posts/response-by-obese-to-weekly-50000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response by obese to weekly 50,000 IU of Vitamin D – May 2018">Response by obese to weekly 50,000 IU of Vitamin D – May 2018</a>
+* [Response by obese to weekly 50,000 IU of Vitamin D – May 2018](/posts/response-by-obese-to-weekly-50000-iu-of-vitamin-d)

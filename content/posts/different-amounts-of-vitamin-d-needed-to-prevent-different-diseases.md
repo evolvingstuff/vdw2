@@ -80,15 +80,15 @@ Conclusions: Evidence for the efficacy of vitamin D supplementation at serum 25-
 | | | | |
 | --- | --- | --- | --- |
 | [Premature mortality](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=30&sort_mode=created_desc) | Level 1 (Systematic Review) | 75 nmol | 30 ng |
-| <a href="/posts/falls-prevention" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Falls prevention</a>  | Level 1  (Systematic Review) | 95 nmol | 38 ng |
-| <a href="/posts/cancer-prevention" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Cancer prevention</a> | Level 2 (RCT) | 100 nmol | 40 ng |
+| [Falls prevention](/tags/falls-prevention.html)  | Level 1  (Systematic Review) | 95 nmol | 38 ng |
+| [Cancer prevention](/tags/cancer-prevention.html) | Level 2 (RCT) | 100 nmol | 40 ng |
 | ((Breathing | Respiratory infection prevention)) | Level 2  (RCT) | 95 nmol | 38 ng |
-| <a href="/posts/diabetes-prevention" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Diabetes prevention</a> | Level 2  (RCT) | 80 nmol | 32 ng |
+| [Diabetes prevention](/tags/diabetes-prevention.html) | Level 2  (RCT) | 80 nmol | 32 ng |
 | ((Depression | Depression treatment))  | Level 2  (RCT) | 75 nmol  | 30 ng |
-| <a href="/posts/musculoskeletal-pain-management" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2462">Musculoskeletal pain management </a>  | Level 2  (RCT) |  |
-| <a href="/posts/musculoskeletal-strength" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4274">Musculoskeletal strength</a>  | Level 3-1 (Pseudo RCT) |  |
+| [Musculoskeletal pain management ](/tags/musculoskeletal-pain-management.html)  | Level 2  (RCT) |  |
+| [Musculoskeletal strength](/tags/musculoskeletal-strength.html)  | Level 3-1 (Pseudo RCT) |  |
 | ((Dental | Dental disease)) | Level 3-2 (Study with Controls) | > 84nmol | > 37 ng |
-| <a href="/posts/cardiovascular-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">Cardiovascular disease</a>  | Level 3-2 (Study with Controls) | 80 nmol | 32 ng |
+| [Cardiovascular disease](/tags/cardiovascular-disease.html)  | Level 3-2 (Study with Controls) | 80 nmol | 32 ng |
 | Health service utilisation | Level 3-2 (Study with Controls)  |  |
 
 #### Australian National Health and Medical Research Council Evidence Hierarchy

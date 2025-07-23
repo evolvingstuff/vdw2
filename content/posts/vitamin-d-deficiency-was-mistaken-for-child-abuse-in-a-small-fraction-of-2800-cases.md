@@ -52,13 +52,13 @@ Conclusions A wide variety of mimics exist affecting most disease categories. Pa
 
 #### See also VitaminDWiki
 
-* <a href="/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019">Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019</a>
+* [Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019](/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc)
 
 * [The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014](/posts/the-vitamin-deficiency-signs-that-can-send-you-to-prison)
 
-* <a href="/posts/mother-and-father-on-trial-for-infant-death-set-free-death-was-due-to-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mother and father on trial for infant death – set free – death was due to rickets – Dec 2011">Mother and father on trial for infant death – set free – death was due to rickets – Dec 2011</a>
+* [Mother and father on trial for infant death – set free – death was due to rickets – Dec 2011](/posts/mother-and-father-on-trial-for-infant-death-set-free-death-was-due-to-rickets)
 
-* <a href="/posts/death-of-babies-in-uk-due-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death of Babies in UK due to vitamin D deficiency – Jan 2012">Death of Babies in UK due to vitamin D deficiency – Jan 2012</a>
+* [Death of Babies in UK due to vitamin D deficiency – Jan 2012](/posts/death-of-babies-in-uk-due-to-vitamin-d-deficiency)
 
 * [75 percent of unexplained sudden infant deaths had inadequate level of vitamin D – April 2013](/posts/75-percent-of-unexplained-sudden-infant-deaths-had-inadequate-level-of-vitamin-d)  note: Deaths, not abuse
 

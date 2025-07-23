@@ -58,10 +58,10 @@ Conclusions Activated T cells express CYP27B1 and can convert 25(OH)D3 to 1,25(O
 
 * [The vitamin D receptor and T cell function – June 2013](/posts/the-vitamin-d-receptor-and-t-cell-function)
 
-* <a href="/posts/fight-cancer-with-more-than-cut-burn-and-poison-nobel-prize-for-t-cell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018">Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018</a>
+* [Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018](/posts/fight-cancer-with-more-than-cut-burn-and-poison-nobel-prize-for-t-cell)
 
 * [T-cells increased with monthly doses of 140,000 IU vitamin D – April 2014](/posts/t-cells-increased-with-monthly-doses-of-140000-iu-vitamin-d)
 
-* <a href="/posts/vitamin-d-helps-t-cell-and-immune-system-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D helps T-cell and immune system – overview Aug 2011">Vitamin D helps T-cell and immune system – overview Aug 2011</a>
+* [Vitamin D helps T-cell and immune system – overview Aug 2011](/posts/vitamin-d-helps-t-cell-and-immune-system-overview)
 
 * [Progesterone activates vitamin D receptor - many studies](/posts/progesterone-activates-vitamin-d-receptor-many-studies)

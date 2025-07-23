@@ -46,7 +46,7 @@ PDF is online [http://www.mdpi.com/2072-6643/5/12/4966](http://www.mdpi.com/2072
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Hypertension once again proven to not be reduced by 1,000 IU of vitamin D – Aug 2013](/posts/hypertension-once-again-proven-to-not-be-reduced-by-1000-iu-of-vitamin-d)
 

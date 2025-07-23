@@ -17,7 +17,6 @@
         "child",
         "dosage",
         "pregnancy",
-        "preterm",
         "vitamin d"
     ]
 }
@@ -36,17 +35,11 @@ In this episode, Baggerly discusses the success of her vitamin D program for pre
 
 #### Notes by Henry Lahore of VitaminDWiki
 
-<a href="/posts/4000-iu-vitamin-d-safe-and-effective-for-healthy-pregnant-women-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4000 IU Vitamin D Safe and Effective For Healthy Pregnant Women – RCT June 2011">2012 study</a> looked only at treatment groups
+[2012 study](/posts/4000-iu-vitamin-d-safe-and-effective-for-healthy-pregnant-women-rct) looked only at treatment groups
 
 Baggerly re-analyzed to look at the vitamin D level actually achieved
 
-<a href="/posts/preterm-birth-rate-reduced-57-percent-by-vitamin-d-nov-2015-had-the-following-im-h-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth rate reduced 57 percent by Vitamin D – Nov 2015)) had the following
-{img attId="6147" width="600"}
-{img attId="6150"  width="600"}
-Most of the white women already had 30 ng of vitamin D, so not as much reduction in pre-term bith
-Study at 40 ng was confirmed 2 ways – the data and March of Dimes
-
-((Chance of preterm birth is strongly associated with low vitamin D – Feb 2015">Liza Bodnar also found same thing – 3,000 women   Feb 2015</a>
+[Liza Bodnar also found same thing – 3,000 women   Feb 2015](/tags/liza-bodnar-also-found-same-thing-3000-women-feb-2015.html)
 
 Starting year of organizations: Viamin D Council 2001,. Grassroots 2007,  VitaminDWiki 2009
 

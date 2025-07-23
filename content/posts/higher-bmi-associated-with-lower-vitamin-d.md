@@ -67,4 +67,4 @@ PDF was public domain in Dec 2012
 
 * [Male urinary tract infection 2.4X more likely if obese (low vitamin D) – Dec 2012](/posts/male-urinary-tract-infection-24x-more-likely-if-obese-low-vitamin-d) same authors
 
-* <a href="/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012">Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012</a> same authors
+* [Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012](/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel) same authors

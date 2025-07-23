@@ -51,8 +51,8 @@ PMID:     23422920
 
 * [Diabetes 6X more likely for those abdominal obese who have insufficient vitamin D – June 2012](/posts/diabetes-6x-more-likely-for-those-abdominal-obese-who-have-insufficient-vitamin-d)
 
-* <a href="/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011">Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011</a>
+* [Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011](/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)

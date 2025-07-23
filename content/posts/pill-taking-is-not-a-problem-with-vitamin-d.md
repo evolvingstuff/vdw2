@@ -29,7 +29,7 @@ Example [Bio-Tech Pharmacal](http://www.biotechpharmacal.com/) tiny 5,000 IU and
 
 #### Some vitamin D is available as liquid, spray, topical, injection (monthly), etc
 
-<a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a>
+[Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
 #### You do not even have to remember to take vitamin D on a regular basis
 
@@ -63,7 +63,7 @@ At the beginning of the month put enough vitamin D for the entire family into so
 
 * [Vitamin D home fortification- don't wait 100 years for your govt](/posts/vitamin-d-home-fortification-dont-wait-100-years-for-your-govt)
 
-* <a href="/posts/vitamin-d-can-fortify-a-variety-of-food-and-drinks-even-beer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D can fortify a variety of food and drinks – even beer – March 2012">Vitamin D can fortify a variety of food and drinks – even beer – March 2012</a>
+* [Vitamin D can fortify a variety of food and drinks – even beer – March 2012](/posts/vitamin-d-can-fortify-a-variety-of-food-and-drinks-even-beer)
 
 #### Food rarely has enough vitamin D to be useful
 

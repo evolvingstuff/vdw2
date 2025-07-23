@@ -85,6 +85,6 @@ Danish Heart Foundation, Copenhagen University Hospital.
 
 * [GC, CYP2R1 and DHCR7 genes associated with low vitamin D levels in China – 2012, 2013](/posts/gc-cyp2r1-and-dhcr7-genes-associated-with-low-vitamin-d-levels-in-china-2012-2013)
 
-* <a href="/posts/pharmacology-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2269">Pharmacology of vitamin D - April 2011</a> has the following graphic
+* [Pharmacology of vitamin D - April 2011](/posts/pharmacology-of-vitamin-d) has the following graphic
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/glossman-f1.jpg" alt="image" style="max-width: 400px;">

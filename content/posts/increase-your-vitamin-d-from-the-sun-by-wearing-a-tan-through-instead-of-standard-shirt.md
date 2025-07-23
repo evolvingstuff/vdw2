@@ -119,17 +119,17 @@ Perhaps I will get around to making a superman logo which I can occasionally att
 
 ### See also VitaminDWiki
 
-* <a href="/posts/minutes-in-the-sun-for-1000-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 39">Minutes in the Sun for 1000 IU</a> default 30 degrees North
+* [Minutes in the Sun for 1000 IU](/posts/minutes-in-the-sun-for-1000-iu) default 30 degrees North
 
    * Face 3.5%, neck 2%, trunk 26%, hands 6%, arms 14%, legs 14%, thighs 18%
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a> 
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) 
 
 * [Survey finds that Non-Caucasians do not feel that people need sun exposure – July 2012](/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure)
 
 * [Hypothesis: Sun provides more than vitamin D – June 2012](/posts/hypothesis-sun-provides-more-than-vitamin-d)
 
-* <a href="/posts/whites-were-2x-more-likely-to-be-vitamin-d-deficient-if-wear-long-sleeves" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012">Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012</a>
+* [Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012](/posts/whites-were-2x-more-likely-to-be-vitamin-d-deficient-if-wear-long-sleeves)
 
 * [Sunlight and Your Health: An EnLIGHTening Perspective - Holick Video Dec 2014](/posts/sunlight-and-your-health-an-enlightening-perspective-holick-video)
 
@@ -137,7 +137,7 @@ Perhaps I will get around to making a superman logo which I can occasionally att
 
 * [Business opportunity: you can now make stuff which only passes vitamin D wavelength](/posts/business-opportunity-you-can-now-make-stuff-which-only-passes-vitamin-d-wavelength) - not Cooltan
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a> 
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d) 
 
 > Cooltan type cloth would be great in Islamic areas which use concealing clothing
 

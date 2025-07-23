@@ -42,4 +42,4 @@ The cost of vitamin D to get a similar reduction appears to be $5/year
 
 * Great reduction in many other health problems
 
- **For detail: see <a href="/posts/overview-lung-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Lung cancer and vitamin D">Overview Lung cancer and vitamin D</a>**
+ **For detail: see [Overview Lung cancer and vitamin D](/posts/overview-lung-cancer-and-vitamin-d)**

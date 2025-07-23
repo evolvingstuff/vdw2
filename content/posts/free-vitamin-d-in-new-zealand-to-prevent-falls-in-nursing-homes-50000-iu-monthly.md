@@ -48,7 +48,7 @@ They (incorrectly) are afraid of having vitamin D levels higher than 40 nanogram
 
 * [2X fewer Senior falls in group getting 100,000 IU vitamin D monthly via Meals-on-Wheels – RCT Aug 2015](/posts/2x-fewer-senior-falls-in-group-getting-100000-iu-vitamin-d-monthly-via-meals-on-wheels-rct)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Seniors need at least 4,000 IU vitamin D, no test needed – Consensus Jan 2014](/posts/seniors-need-at-least-4000-iu-vitamin-d-no-test-needed-consensus) = 120,000 IU/month
 

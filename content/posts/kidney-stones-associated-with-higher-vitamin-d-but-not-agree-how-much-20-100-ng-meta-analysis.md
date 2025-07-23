@@ -37,11 +37,11 @@ Wang H1, Man L2, Li G2, Huang G2, Liu N2.
 
 * [Kidney stones independant of vitamin D levels in range 20-100 ng – Oct 2013](/posts/kidney-stones-independant-of-vitamin-d-levels-in-range-20-100-ng)
 
-* <a href="/posts/overview-kidney-stones-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney Stones and vitamin D">Overview Kidney Stones and vitamin D</a>
+* [Overview Kidney Stones and vitamin D](/posts/overview-kidney-stones-and-vitamin-d)
 
 > Rate of Kidney stones appears to increase with Calcium and decrease with Vitamin K2 and Magnesium
 
-* <a href="/posts/kidney-stones-vitamin-d-myth-from-medical-book-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kidney stones Vitamin D myth from medical book - 2010">Kidney stones Vitamin D myth from medical book - 2010</a>
+* [Kidney stones Vitamin D myth from medical book - 2010](/posts/kidney-stones-vitamin-d-myth-from-medical-book-2010)
 
 </div>
 

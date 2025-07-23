@@ -60,7 +60,7 @@ With 10,000 IU of vitamin D daily her ability to smell started to return after a
 
 * [Nasal polyposis greatly decreased by 4,000 IU of vitamin D for 4 weeks - 2014](/posts/nasal-polyposis-greatly-decreased-by-4000-iu-of-vitamin-d-for-4-weeks-2014)
 
-* <a href="/posts/off-topic-women-can-learn-a-smell-100000-x-better-then-men" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic: Women can learn a smell 100,000 X better then men – Aug 2017">Off topic: Women can learn a smell 100,000 X better then men – Aug 2017</a>
+* [Off topic: Women can learn a smell 100,000 X better then men – Aug 2017](/posts/off-topic-women-can-learn-a-smell-100000-x-better-then-men)
 
 #### See also web
 

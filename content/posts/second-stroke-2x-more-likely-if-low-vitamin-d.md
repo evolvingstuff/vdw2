@@ -42,7 +42,7 @@ Conclusions: Our results support the association between vitamin D deficiency an
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 * [Cerebrovascular disease 40 percent less likely if high level of vitamin D – meta-analysis Sept 2012](/posts/cerebrovascular-disease-40-percent-less-likely-if-high-level-of-vitamin-d-meta-analysis)
 

@@ -41,15 +41,15 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a> Most animal supplements are computed per pound of animal weight
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d) Most animal supplements are computed per pound of animal weight
 
 > A vet does not give a fixed amount to a cat, but rather bases the drug amount on weight of cat 
 
 * [Obese need more Vitamin D: Volume dilution, IU per pound, or BMI – RCT Dec 2012](/posts/obese-need-more-vitamin-d-volume-dilution-iu-per-pound-or-bmi-rct)
 
-* <a href="/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese need 2X as much vitamin D to get the same response – June 2012">Obese need 2X as much vitamin D to get the same response – June 2012</a>
+* [Obese need 2X as much vitamin D to get the same response – June 2012](/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response)
 
-* <a href="/posts/higher-bmi-need-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Higher BMI need more vitamin D – Oct 2010">Higher BMI need more vitamin D – Oct 2010</a>
+* [Higher BMI need more vitamin D – Oct 2010](/posts/higher-bmi-need-more-vitamin-d)
 
 ## See also web
 

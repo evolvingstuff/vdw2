@@ -41,7 +41,7 @@ PMID: 24844860
 
 * [Melanoma is 44 percent LESS LIKELY if get sun on the job – Nov 2013](/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job)
 
-* <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
+* [Optimize vitamin D from the sun](/posts/optimize-vitamin-d-from-the-sun)
 
 * [Fewer heart attacks, hip fractures and deaths if more skin cancer – Sept 2013](/posts/fewer-heart-attacks-hip-fractures-and-deaths-if-more-skin-cancer)
 

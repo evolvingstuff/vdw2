@@ -61,7 +61,7 @@ Conclusions: In our cohort of critically ill surgical patients, plasma 25-hydrox
 
 ## See also VitaminDWiki
 
-* <a href="/posts/5-days-longer-in-icu-if-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5 days longer in ICU if low on vitamin D - April 2012">5 days longer in ICU if low on vitamin D - April 2012</a>
+* [5 days longer in ICU if low on vitamin D - April 2012](/posts/5-days-longer-in-icu-if-low-on-vitamin-d)
 
 * [Critically ill need vitamin D – how much and which test to use is TBD – Nov 2014](/posts/critically-ill-need-vitamin-d-how-much-and-which-test-to-use-is-tbd)
 

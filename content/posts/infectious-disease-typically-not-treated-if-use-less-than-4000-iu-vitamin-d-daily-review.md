@@ -80,9 +80,9 @@ Although some prospective studies show positive results regarding vitamin D on i
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">Overview Influenza and vitamin D</a>
+* [Overview Influenza and vitamin D](/posts/overview-influenza-and-vitamin-d)
 
-* <a href="/posts/small-vitamin-d-doses-provide-small-benefits-for-acute-respiratory-infections-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Small vitamin D doses provide small benefits for acute respiratory infections – Meta-analysis March 2021">Small vitamin D doses provide small benefits for acute respiratory infections – Meta-analysis March 2021</a>
+* [Small vitamin D doses provide small benefits for acute respiratory infections – Meta-analysis March 2021](/posts/small-vitamin-d-doses-provide-small-benefits-for-acute-respiratory-infections-meta-analysis)
 
 * [Innate and adaptive immune systems probably helped by vitamin D – Oct 2014](/posts/innate-and-adaptive-immune-systems-probably-helped-by-vitamin-d)
 
@@ -94,12 +94,12 @@ Although some prospective studies show positive results regarding vitamin D on i
 
 * [Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013](/posts/vitamin-d-and-respiratory-tract-infections-meta-analysis-with-charts)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> has the following
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) has the following
 
-   * <a href="/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010">Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010</a>
+   * [Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010](/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d)
 
    * [Respiratory infections reduced by 63 percent with 4000 IU vitamin D daily - RCT Dec 2012](/posts/respiratory-infections-reduced-by-63-percent-with-4000-iu-vitamin-d-daily-rct) 
 
       * this is the one reviewed by the study on this page
 
-* [Breathing](/categories/breathing) category listing includes many custom searches asthma, pneunomia, RTI, TB, etc.
+* [Breathing](/tags/breathing.html) category listing includes many custom searches asthma, pneunomia, RTI, TB, etc.

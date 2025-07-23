@@ -41,11 +41,11 @@ Although recent data significantly improve our understanding of vitamin D intest
 
 * [Search VitaminDWiki for absorption](https://VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=absorption&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1530 items as of Oct 2014
 
-* <a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a> mono unsat. fats, Magnesium (20%? increase), excessive vitamin A, etc.
+* [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d) mono unsat. fats, Magnesium (20%? increase), excessive vitamin A, etc.
 
 * [Probiotics increased vitamin D levels 22 percent in those with excess cholesterol – April 2013](/posts/probiotics-increased-vitamin-d-levels-22-percent-in-those-with-excess-cholesterol)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> has the following chart - notice the details in the lower left
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) has the following chart - notice the details in the lower left
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

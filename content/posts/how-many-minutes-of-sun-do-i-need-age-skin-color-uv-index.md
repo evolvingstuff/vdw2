@@ -78,13 +78,13 @@ UV Index 3-6: About 3 hours (19 minute * 2 *5)
 
 ### See also VitaminDWiki
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a> has the following
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) has the following
 
 >  **Time in the sun to get 4000 IU** 
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 
-* <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun ">Optimize vitamin D from the sun </a>
+* [Optimize vitamin D from the sun ](/posts/optimize-vitamin-d-from-the-sun)
 
 * [20 cent vitamin D pill similar to 2 hours sunbathing at 60 degree latitude – RCT Aug 2013](/posts/20-cent-vitamin-d-pill-similar-to-2-hours-sunbathing-at-60-degree-latitude-rct)
 
@@ -96,7 +96,7 @@ UV Index 3-6: About 3 hours (19 minute * 2 *5)
 
 * [Survey finds that Non-Caucasians do not feel that people need sun exposure – July 2012](/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure)
 
-* <a href="/posts/whites-were-2x-more-likely-to-be-vitamin-d-deficient-if-wear-long-sleeves" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012">Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012</a>
+* [Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012](/posts/whites-were-2x-more-likely-to-be-vitamin-d-deficient-if-wear-long-sleeves)
 
 * [Getting Vitamin D into your blood and cells](/posts/getting-vitamin-d-into-your-blood-and-cells) The sun is one of about 20 ways in increase vitamin D levels
 
@@ -104,7 +104,7 @@ UV Index 3-6: About 3 hours (19 minute * 2 *5)
 
 > You can see from the current study (from Austrailia) that need more minutes if elderly, dark skin, obese, standing, etc
 
-* [Obesity](/categories/obesity) category listing with associated searches - click on chart for details
+* [Obesity](/tags/obesity.html) category listing with associated searches - click on chart for details
 
 >  **Obese need 2 - 3 X more vitamin D** 
 
@@ -114,7 +114,7 @@ UV Index 3-6: About 3 hours (19 minute * 2 *5)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tan-through-shirts.jpg" alt="image" width="500">
 
-* <a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Skin and vitamin D">Overview Skin and vitamin D</a> which has the following chart - UV while STANDING
+* [Overview Skin and vitamin D](/posts/overview-skin-and-vitamin-d) which has the following chart - UV while STANDING
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/uvb-and-uvb-vs-height-of-the-sun---from-creates-2009.gif" alt="image" style="max-width: 400px;">
 
@@ -122,6 +122,6 @@ UV Index 3-6: About 3 hours (19 minute * 2 *5)
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-* <a href="/posts/vitamin-d-from-the-sun-vs-time-of-day" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3152">Vitamin D from the sun vs time of day</a> which has the following graphic	 
+* [Vitamin D from the sun vs time of day](/tags/vitamin-d-from-the-sun-vs-time-of-day.html) which has the following graphic	 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="300">

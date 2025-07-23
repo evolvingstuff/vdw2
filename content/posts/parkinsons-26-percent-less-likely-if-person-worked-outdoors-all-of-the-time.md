@@ -49,4 +49,4 @@ Conclusion: Occupational sunlight exposure and other correlates of outdoor work 
 
 * [20 percent less chance of Parkinson’s disease if work outdoors some – Thesis Feb 2013](/posts/20-percent-less-chance-of-parkinsons-disease-if-work-outdoors-some-thesis)  very similar to the study on this page
 
-* <a href="/posts/outdoor-trades-much-less-likely-to-get-parkinson-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Outdoor trades much less likely to get Parkinson disease – Sept 2010">Outdoor trades much less likely to get Parkinson disease – Sept 2010</a>
+* [Outdoor trades much less likely to get Parkinson disease – Sept 2010](/posts/outdoor-trades-much-less-likely-to-get-parkinson-disease)

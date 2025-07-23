@@ -46,8 +46,8 @@ PMID: 20882333
 
 * [Vitamin D aids the aging skin – Sept 2012](/posts/vitamin-d-aids-the-aging-skin)
 
-* [Skin](/categories/skin) category listing with associated categories and searches
+* [Skin](/tags/skin.html) category listing with associated categories and searches
 
-* <a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Skin and vitamin D">Overview Skin and vitamin D</a>
+* [Overview Skin and vitamin D](/posts/overview-skin-and-vitamin-d)
 
 * [Some vitamin D remains in the skin to protect skin from the sun – March 2014](/posts/some-vitamin-d-remains-in-the-skin-to-protect-skin-from-the-sun)

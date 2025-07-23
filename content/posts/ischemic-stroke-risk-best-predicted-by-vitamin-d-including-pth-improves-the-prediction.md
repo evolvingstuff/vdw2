@@ -46,7 +46,7 @@ Dis Markers. 2017;2017:4343171. [doi: 10.1155/2017/4343171.](https://doi.org/10.
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 * [Vitamin D associated with 50 percent less ischemic stroke – meta-analysis Aug 2012](/posts/vitamin-d-associated-with-50-percent-less-ischemic-stroke-meta-analysis)
 
@@ -60,7 +60,7 @@ Dis Markers. 2017;2017:4343171. [doi: 10.1155/2017/4343171.](https://doi.org/10.
 
 * [3000 IU of vitamin D minimum to reduce parathyroid hormone (PTH) – meta-analysis Sept 2015](/posts/3000-iu-of-vitamin-d-minimum-to-reduce-parathyroid-hormone-pth-meta-analysis)
 
-* <a href="/posts/variations-in-parathyroid-hormone-concentrations-in-patients-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Variations in Parathyroid Hormone Concentrations in Patients with Low Vitamin D – June 2012">Variations in Parathyroid Hormone Concentrations in Patients with Low Vitamin D – June 2012</a>
+* [Variations in Parathyroid Hormone Concentrations in Patients with Low Vitamin D – June 2012](/posts/variations-in-parathyroid-hormone-concentrations-in-patients-with-low-vitamin-d)
 
 </div>
 

@@ -128,7 +128,7 @@ note: horses get 1600 mg/day Mg continuously in their feed
 
 > The company has a slow-release form of Magnesium (which should result in fewer gut problems)
 
-* See also VitaminDWiki <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* See also VitaminDWiki [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [RCT of Mg injection for lower back pain](http://www.ncbi.nlm.nih.gov/pubmed/23384256) March 2013 [PDF at bottom](/posts/back-pain-extremely-associated-with-low-level-of-vitamin-d)
 
@@ -176,7 +176,7 @@ Also: Relieve immediate back pain: MgCl mixed with DMSO and/or Arnica
 
 ---
 
-##### Update Jan 2023 <a href="/posts/off-topic-back-muscle-pain-quickly-treated-by-tens" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic: back muscle pain quickly treated by TENS - Jan 2023">TENS quickly treated my backpain</a>
+##### Update Jan 2023 [TENS quickly treated my backpain](/posts/off-topic-back-muscle-pain-quickly-treated-by-tens)
 
 Note: In [May 2023 the US FDA](https://www.mdedge.com/internalmedicine/article/262975/pain/fda-oks-spinal-cord-stimulation-devices-chronic-back-pain?ecd=WNL_EVE_230521_mdedge) approved implant nerve stimulation to relieve backpain
 

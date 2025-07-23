@@ -47,23 +47,23 @@
 
 * [Genes which regulate active vitamin D worsen with age – Oct 2016](/posts/genes-which-regulate-active-vitamin-d-worsen-with-age)
 
-* <a href="/posts/no-response-to-vitamin-d-7x-more-likely-if-poor-cyp24a1-or-vdbp-genes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No response to vitamin D 7X more likely if poor CYP24A1 or VDBP genes - Feb 2023">No response to vitamin D 7X more likely if poor CYP24A1 or VDBP genes - Feb 2023</a>
+* [No response to vitamin D 7X more likely if poor CYP24A1 or VDBP genes - Feb 2023](/posts/no-response-to-vitamin-d-7x-more-likely-if-poor-cyp24a1-or-vdbp-genes)
 
-* <a href="/posts/vitamin-d-non-responders-may-have-one-or-more-poor-genes-gc-lipc-cyp24a1-and-pde3b" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022">Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022</a>
+* [Vitamin D non-responders may have one or more poor genes: GC, LIPC, CYP24A1, and PDE3B – Oct 2022](/posts/vitamin-d-non-responders-may-have-one-or-more-poor-genes-gc-lipc-cyp24a1-and-pde3b)
 
-* <a href="/posts/3x-higher-risk-of-oral-cancer-if-cyp27b1-and-cyp24a1-genes-were-different" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X higher risk of oral cancer if CYP27B1 and CYP24A1 genes were different – May 2012">3X higher risk of oral cancer if CYP27B1 and CYP24A1 genes were different – May 2012</a>
+* [3X higher risk of oral cancer if CYP27B1 and CYP24A1 genes were different – May 2012](/posts/3x-higher-risk-of-oral-cancer-if-cyp27b1-and-cyp24a1-genes-were-different)
 
-* <a href="/posts/eye-vitamin-d-may-not-be-associated-with-blood-vitd-but-is-associated-with-cyp27b1-and-cyp24a1" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Eye vitamin D may not be associated with blood VitD, but is associated with CYP27B1 and CYP24A1 – Nov 2019">Eye vitamin D may not be associated with blood VitD, but is associated with CYP27B1 and CYP24A1 – Nov 2019</a>
+* [Eye vitamin D may not be associated with blood VitD, but is associated with CYP27B1 and CYP24A1 – Nov 2019](/posts/eye-vitamin-d-may-not-be-associated-with-blood-vitd-but-is-associated-with-cyp27b1-and-cyp24a1)
 
-* <a href="/posts/kidney-stones-are-related-to-poor-genes-example-of-cyp24a1-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kidney Stones are related to poor genes – example of CYP24A1 (Vitamin D) – Nov 2019">Kidney Stones are related to poor genes – example of CYP24A1 (Vitamin D) – Nov 2019</a>
+* [Kidney Stones are related to poor genes – example of CYP24A1 (Vitamin D) – Nov 2019](/posts/kidney-stones-are-related-to-poor-genes-example-of-cyp24a1-vitamin-d)
 
-* <a href="/posts/acute-coronary-syndrome-is-associated-with-poor-vitamin-d-genes-cyp27b1-cyp24a1" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Acute Coronary Syndrome is associated with poor Vitamin D genes (CYP27B1, CYP24A1) – Nov 2019">Acute Coronary Syndrome is associated with poor Vitamin D genes (CYP27B1, CYP24A1) – Nov 2019</a>
+* [Acute Coronary Syndrome is associated with poor Vitamin D genes (CYP27B1, CYP24A1) – Nov 2019](/posts/acute-coronary-syndrome-is-associated-with-poor-vitamin-d-genes-cyp27b1-cyp24a1)
 
 * [CYP24A1 gene in cancer cells may actually remove vitamin D from the blood – Oct 2012](/posts/cyp24a1-gene-in-cancer-cells-may-actually-remove-vitamin-d-from-the-blood)
 
 * [Colon cancer 30 percent more likely if problems with Vitamin D genes CYP24A1 or CYP27B1 – Nov 2015](/posts/colon-cancer-30-percent-more-likely-if-problems-with-vitamin-d-genes-cyp24a1-or-cyp27b1)
 
-* <a href="/posts/prostate-cancer-vitamin-d-cyp27b1-cyp24" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prostate Cancer – Vitamin D – CYP27B1 – CYP24 – June 2011">Prostate Cancer – Vitamin D – CYP27B1 – CYP24 – June 2011</a>
+* [Prostate Cancer – Vitamin D – CYP27B1 – CYP24 – June 2011](/posts/prostate-cancer-vitamin-d-cyp27b1-cyp24)
 
 ---
 
@@ -121,16 +121,16 @@ In summary, aging significantly impacts the body's ability to produce and metabo
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [20 reasons for not taking Vitamin D debunked](/posts/20-reasons-for-not-taking-vitamin-d-debunked)
 
 * [Many diseases of aging are associated with low vitamin D – Dec 2014](/posts/many-diseases-of-aging-are-associated-with-low-vitamin-d)
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> 40 reasons as of Feb 2024
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) 40 reasons as of Feb 2024
 
 * [Hypothesis: Sarcopenia and other senior problems are related to low gastric acid](/posts/hypothesis-sarcopenia-and-other-senior-problems-are-related-to-low-gastric-acid)
 
-* <a href="/posts/elderly-often-trapped-in-vitamin-d-vicious-circles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Elderly often trapped in vitamin D vicious circles">Elderly often trapped in vitamin D vicious circles</a>
+* [Elderly often trapped in vitamin D vicious circles](/posts/elderly-often-trapped-in-vitamin-d-vicious-circles)
 
 * [4700 IU of vitamin D needed by most seniors – an equation -July 2014](/posts/4700-iu-of-vitamin-d-needed-by-most-seniors-an-equation)

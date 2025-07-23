@@ -37,7 +37,7 @@ These increased vitamin D levels did not decrease the LDL levels.
 
 1. Have recovered from surgery
 
-1. Have recovered from <a href="/posts/trauma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2042">trauma</a>
+1. Have recovered from [trauma](/tags/trauma.html)
 
 1. Have recovered from a burn
 
@@ -45,17 +45,17 @@ These increased vitamin D levels did not decrease the LDL levels.
 
 1. Have recovered from pregnancy
 
-1. Have recovered from <a href="/posts/earthquake-trauma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1133">Earthquake trauma</a>
+1. Have recovered from [Earthquake trauma](/tags/earthquake-trauma.html)
 
 1. Had more sunshine (vacation, season, etc.)
 
-1. <a href="/posts/lost-weight" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1963">Lost weight</a>
+1. [Lost weight](/tags/lost-weight.html)
 
-1. Stopped <a href="/posts/medications" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 784">medications</a> which had reduced vitamin D levels
+1. Stopped [medications](/tags/medications.html) which had reduced vitamin D levels
 
-1. <a href="/posts/gut-absorption" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1521">Gut absorption</a> no longer a problem
+1. [Gut absorption](/tags/gut-absorption.html) no longer a problem
 
-1. <a href="/posts/kidney-operating-again" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Kidney operating again</a> perhaps transplant
+1. [Kidney operating again](/tags/kidney-operating-again.html) perhaps transplant
 
 1.  **Supplementation** 
 

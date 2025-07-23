@@ -68,7 +68,7 @@ These changes were more increased in 2h/day EMF exposed group.  **Vitamin D supp
 
 #### See also VitaminDWiki
 
-* <a href="/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010">Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010</a>
+* [Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010](/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d)
 
 * [Vitamin D improves a child’s immune system – can now be claimed in Europe – Sept 2016](/posts/vitamin-d-improves-a-childs-immune-system-can-now-be-claimed-in-europe)
 

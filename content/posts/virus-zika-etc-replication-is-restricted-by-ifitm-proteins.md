@@ -248,7 +248,7 @@ Since then it has been noted that increasing IFITM decreases viral infections fr
 
 Now you have noted that Zika is also decreased by IFITM
 
-There have been hints/studies that Vitamin D [prevents/treats many of those viruses](/categories/virus)
+There have been hints/studies that Vitamin D [prevents/treats many of those viruses](/tags/preventstreats-many-of-those-viruses.html)
 
 I speculate that IFITM may be the linkage between those viruses and Vitamin D.
 

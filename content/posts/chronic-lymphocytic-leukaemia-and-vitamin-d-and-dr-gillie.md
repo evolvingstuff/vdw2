@@ -61,4 +61,4 @@ I call this error of reasoning the “gold standard fallacy”. In backing this 
 
 * [Vitamin D – The Sunshine Vitamin Most Indoor Workers Are Lacking – Gillie May 2013](/posts/vitamin-d-the-sunshine-vitamin-most-indoor-workers-are-lacking-gillie)
 
-* <a href="/posts/chronic-lymphocytic-leukemia-slowed-by-vitamin-d-mayo" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic lymphocytic leukemia slowed by vitamin D - Mayo Nov 2010">Chronic lymphocytic leukemia slowed by vitamin D - Mayo Nov 2010</a>
+* [Chronic lymphocytic leukemia slowed by vitamin D - Mayo Nov 2010](/posts/chronic-lymphocytic-leukemia-slowed-by-vitamin-d-mayo)

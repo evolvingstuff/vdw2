@@ -27,6 +27,6 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
-* <a href="/posts/osteoporosis-treatment-vitamin-d-is-the-most-cost-effective" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporosis treatment – Vitamin D is the most cost-effective – April 2019">Osteoporosis treatment – Vitamin D is the most cost-effective – April 2019</a>
+* [Osteoporosis treatment – Vitamin D is the most cost-effective – April 2019](/posts/osteoporosis-treatment-vitamin-d-is-the-most-cost-effective)

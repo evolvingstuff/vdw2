@@ -62,9 +62,9 @@ Correspondence to Dr. Ripellino:pao.ripe@hotmail.it
 
 * [Frailty and Vitamin D - many studies](/posts/frailty-and-vitamin-d-many-studies)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
-* <a href="/posts/solar-and-nutritional-osteomalacia-soft-bones-at-all-stages-of-life" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Solar and nutritional Osteomalacia (soft bones at all stages of life) – Jan 2019">Solar and nutritional Osteomalacia (soft bones at all stages of life) – Jan 2019</a>
+* [Solar and nutritional Osteomalacia (soft bones at all stages of life) – Jan 2019](/posts/solar-and-nutritional-osteomalacia-soft-bones-at-all-stages-of-life)
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
 

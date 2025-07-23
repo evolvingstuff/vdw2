@@ -43,11 +43,11 @@ These prevalence estimates were much higher during winter time. While vitamin D 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-review-from-ireland" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2576">Vitamin D review from Ireland - April 2012</a>  another paper by Cashman   full text
+* [Vitamin D review from Ireland - April 2012](/posts/vitamin-d-review-from-ireland)  another paper by Cashman   full text
 
-* <a href="/posts/review-of-vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2670">Review of vitamin D recommendations – April 2012</a> another paper by Cashman
+* [Review of vitamin D recommendations – April 2012](/posts/review-of-vitamin-d-recommendations) another paper by Cashman
 
-* <a href="/posts/calcidiol-may-be-5x-more-effective-than-vitamin-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2677">Calcidiol may be 5X more effective than Vitamin D3 – June 2012</a> another paper by Cashman 
+* [Calcidiol may be 5X more effective than Vitamin D3 – June 2012](/posts/calcidiol-may-be-5x-more-effective-than-vitamin-d3) another paper by Cashman 
 
 * [Less than 18 percent of Irish take vitamin D, and 76 percent have less than 30 ng – April 2013](/posts/less-than-18-percent-of-irish-take-vitamin-d-and-76-percent-have-less-than-30-ng)  by Cashman
 

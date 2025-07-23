@@ -54,6 +54,6 @@ Taken together, these results suggest that supplementation with VitD3 during pre
 
 * [Neural tube defects associated with lower vitamin D levels – Dec 2014](/posts/neural-tube-defects-associated-with-lower-vitamin-d-levels)
 
-* <a href="/posts/vitamin-d-and-folate-fortification-of-foods" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Folate fortification of foods - April 2012">Vitamin D and Folate fortification of foods - April 2012</a>
+* [Vitamin D and Folate fortification of foods - April 2012](/posts/vitamin-d-and-folate-fortification-of-foods)
 
 * [Off topic: Folic Acid - the horror story (for a small percentage of people) - Sept 2013](/posts/off-topic-folic-acid-the-horror-story-for-a-small-percentage-of-people)

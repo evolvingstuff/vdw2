@@ -100,7 +100,7 @@
 
 * [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need) ~3700 IU average per day
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Can start benefitting from vitamin D in a week if use a loading dose</a>
+* [Can start benefitting from vitamin D in a week if use a loading dose](/posts/overview-loading-of-vitamin-d)
 
 > 2-3 months is a LONG time to wait for vitamin D repletion during 9 month pregnancy
 

@@ -73,7 +73,7 @@ During 2015 the magazine probably averaged 3 articles/mentions of vitamin D each
 
 I buy my vitamin D test via LEF - they have a very low price - but have to go to a lab for the blood draw
 
-I buy LEF Super K to get a variety of <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">vitamin K</a> types
+I buy LEF Super K to get a variety of [vitamin K](/posts/overview-vitamin-k-and-vitamin-d) types
 
 &nbsp; &nbsp; &nbsp; Henry Lahore, admin of VitaminDWiki
 

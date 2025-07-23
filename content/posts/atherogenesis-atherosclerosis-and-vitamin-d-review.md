@@ -469,8 +469,8 @@ Acknowledgment; This work was supported by the Swiss National Science Foundation
 
 * [Search VitaminDWiki for hardening arteries](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=hardening+arteries&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) (separate words) 18 items as of Feb 2014
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* [Cardiovascular](/categories/cardiovascular) catalog listing and related searches
+* [Cardiovascular](/tags/cardiovascular.html) catalog listing and related searches

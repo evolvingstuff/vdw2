@@ -101,7 +101,7 @@ by A. Rosanoff, PhD, Director of Research & Science Information Outr** each Cent
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Hypomagnesemia (low Magnesium) is very prevalent in ICU – 1999](/posts/hypomagnesemia-low-magnesium-is-very-prevalent-in-icu-1999)
 
@@ -113,13 +113,13 @@ by A. Rosanoff, PhD, Director of Research & Science Information Outr** each Cent
 
 * [Correcting magnesium deficiencies may prolong life – Space Station Feb 2012](/posts/correcting-magnesium-deficiencies-may-prolong-life-space-station)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a>
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic)
 
-* <a href="/posts/hypothesis-fluoridation-reduces-magnesium-in-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Fluoridation reduces magnesium in body">Hypothesis: Fluoridation reduces magnesium in body</a> 
+* [Hypothesis: Fluoridation reduces magnesium in body](/posts/hypothesis-fluoridation-reduces-magnesium-in-body) 
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Calcium 2X of Magnesium seems good – China Feb 2013](/posts/calcium-2x-of-magnesium-seems-good-china)
 

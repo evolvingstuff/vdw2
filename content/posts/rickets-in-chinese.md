@@ -23,7 +23,7 @@
 }
 
 
-### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4044">CLICK HERE</a> for the main web page for this article
+### [CLICK HERE](/tags/click-here.html) for the main web page for this article
 
 which has the PDF, image, and text in English
 

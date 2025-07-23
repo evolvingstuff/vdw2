@@ -47,7 +47,7 @@ Children and adults above 40 years showed the largest tissue-specific vitamin de
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Vascular calcification greatly reduced by  3 per week 1000 ug of Vitamin K2 MK-7 – Dec 2013](/posts/vascular-calcification-greatly-reduced-by-3-per-week-1000-ug-of-vitamin-k2-mk-7)
 

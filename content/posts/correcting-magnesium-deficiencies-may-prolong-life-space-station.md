@@ -249,13 +249,13 @@ This paper was presented in part at the 3rd International Cardiology Congress, B
 
 * [NASA thinks spacestation personnel only need 800 IU of vitamin D – Sept 2012](/posts/nasa-thinks-spacestation-personnel-only-need-800-iu-of-vitamin-d)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview Magnesium and vitamin D</a> very strong interplay between Mg and Vitamin D
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) very strong interplay between Mg and Vitamin D
 
-* <a href="/posts/20-year-review-concludes-that-vitamin-d-reduce-ageing" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 601">20 year review concludes that Vitamin D reduce ageing – July 2010</a>
+* [20 year review concludes that Vitamin D reduce ageing – July 2010](/posts/20-year-review-concludes-that-vitamin-d-reduce-ageing)
 
 * [Google site search of VitaminDWiki for Ageing and Magnesium](http://www.google.com/cse?cx=001215644404345293668%3A3di8vufs_m4&ie=UTF-8&q=ageing+magnseium&sa=Search&siteurl=www-open-opensocial.googleusercontent.com%2Fgadgets%2Fifr%3Furl%3Dhttp%253A%252F%252Fwww.google.com%252Fcse%252Fapi%252F001215644404345293668%252Fcse%252F3di8vufs_m4%252Fgadget%26container%3Dopen%26view%3Dhome%26lang%3Dall%26country%3DALL%26debug%3D0&ref=www.VitaminDWiki.com%2Ftiki-index.php%3Fpage%3DVitaminDSearch#gsc.tab=0&gsc.q=ageing%20magnesium) 254 hits as of March 2012
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2005">Magnesium and Vitamin D - similar, different and synergistic</a> which has the following table/Venn diagram
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic) which has the following table/Venn diagram
 
 | | | |
 | --- | --- | --- |

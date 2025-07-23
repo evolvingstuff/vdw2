@@ -62,7 +62,7 @@
 #### Preliminary Workshop Program as of Spring 2013  
 updated version is attached as PDF file at the bottom of this page
 
-See also <a href="/posts/international-congress-on-vitamin-d-vitamind-workshop-ny" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: International Congress on Vitamin D (VitaminD Workshop) – NY May 2019">International Congress on Vitamin D (VitaminD Workshop) – NY May 2019</a> has links to many previous workshops
+See also [International Congress on Vitamin D (VitaminD Workshop) – NY May 2019](/posts/international-congress-on-vitamin-d-vitamind-workshop-ny) has links to many previous workshops
 
 ##### [Vitamin D Workshop Slides - June 2013](/posts/vitamin-d-workshop-slides)
 

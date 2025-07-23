@@ -44,7 +44,7 @@ Approx $200 for entire book or you can buy individual chapters for about $20
 
 * [Skin Cancer (SCC) minimized if get sun time around noon – Nov 2015](/posts/skin-cancer-scc-minimized-if-get-sun-time-around-noon) some of the same authors
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 </div>
 

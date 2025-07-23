@@ -663,7 +663,7 @@ Thank you for visiting my blog. God bless you.
 
 > There have been many indications that those two cofactors significantly reduce vitamin D toxicity
 
-* <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">CLICK HERE</a> for details on Vitamin D toxicity
+* [CLICK HERE](/tags/click-here.html) for details on Vitamin D toxicity
 
 ---
 
@@ -813,7 +813,7 @@ Also Dr Kate says Vitamin A, D and K2 work together-are synergistic-sum is great
 
 Hello again from Idaho. Certainly not to speak English, but am Able to copy & paste into google translator-not perfect but the follow along. Am using high vitamin D for MS, but Also vitamin K2. Dr Kate says in her book K2 K2 is REQUIRED by body to build myelin. Also K2 directs calcium to bones where it belongs-Should NEVER have enough calcium problem with K2. I of cheese, fermented fish & dairy-all high in calcium. Even some supplements. Never worry about kidney stones. Eggs, meat, butter.
 
- **{Note by VitaminDWiki: there is a <a href="/posts/book-by-a-doctor-kate" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2908">book by a Doctor Kate. . . </a> concerning K2 and Vitamin D in English}** 
+ **{Note by VitaminDWiki: there is a [book by a Doctor Kate. . . ](/tags/book-by-a-doctor-kate.html) concerning K2 and Vitamin D in English}** 
 
 ### Daniel Cunha 1 month ago
 

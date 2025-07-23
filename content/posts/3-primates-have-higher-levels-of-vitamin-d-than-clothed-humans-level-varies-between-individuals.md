@@ -61,15 +61,15 @@ We suggest that these species can provide primate models for examining the facto
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a> Vets give 3X vitamin D than the US govt recommends for animal OR humans
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d) Vets give 3X vitamin D than the US govt recommends for animal OR humans
 
 * [Monkeys have high levels of Vitamin D – 82 ng young, 58 ng senior Sept 2012](/posts/monkeys-have-high-levels-of-vitamin-d-82-ng-young-58-ng-senior)
 
-* <a href="/posts/skin-color-and-clothing-but-not-sunscreens-reduce-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin color and clothing but not sunscreens reduce vitamin D – Oct 2010">Skin color and clothing but not sunscreens reduce vitamin D – Oct 2010</a>
+* [Skin color and clothing but not sunscreens reduce vitamin D – Oct 2010](/posts/skin-color-and-clothing-but-not-sunscreens-reduce-vitamin-d)
 
 * [Breast Cancer patients wearing concealing clothing were 13X more likely to be vitamin D deficient – March 2014](/posts/breast-cancer-patients-wearing-concealing-clothing-were-13x-more-likely-to-be-vitamin-d-deficient)
 
-* <a href="/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012">Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012</a>
+* [Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012](/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood)
 
  **Lightly clothed humans have similar vitamin D levels to primates - click on chart for details** 
 

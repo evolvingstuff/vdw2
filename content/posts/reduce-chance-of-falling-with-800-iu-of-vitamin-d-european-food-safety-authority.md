@@ -29,7 +29,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a> 800 IU is the very bare minimum amount
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d) 800 IU is the very bare minimum amount
 
 * [Seniors need at least 4,000 IU vitamin D, no test needed – Consensus Jan 2014](/posts/seniors-need-at-least-4000-iu-vitamin-d-no-test-needed-consensus)
 
@@ -41,4 +41,4 @@
 
 * [Seniors with adequate vitamin D could rebalance themselves 80% faster, and thus not fall as often – 2013](/posts/seniors-with-adequate-vitamin-d-could-rebalance-themselves-80-percent-faster-and-l-as-often-2013)
 
-* <a href="/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some seniors do not repond to 1600 IU of vitamin D">Half of seniors got NO response at all from 1600 IU of vitamin D</a>
+* [Half of seniors got NO response at all from 1600 IU of vitamin D](/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d)

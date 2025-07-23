@@ -37,18 +37,18 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - 
 
-## Wonder if the child is low on the <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a> essential for use of vitamin D
+## Wonder if the child is low on the [cofactors](/tags/cofactors.html) essential for use of vitamin D
 
 such as  **Magnesium** 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947">Overview  **Magnesium** and vitamin D</a>
+* [Overview  **Magnesium** and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
-* <a href="/posts/autism-has-different-causes-but-same-inflammation-in-brain-in-half-of-autistics" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1678">Autism has different causes but same inflammation in brain in half of autistics – May 2011</a>
+* [Autism has different causes but same inflammation in brain in half of autistics – May 2011](/posts/autism-has-different-causes-but-same-inflammation-in-brain-in-half-of-autistics)
 
-* <a href="/posts/autism-and-vitamin-d-cannell" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1651">Autism and vitamin D - Cannell May 2011</a>
+* [Autism and vitamin D - Cannell May 2011](/posts/autism-and-vitamin-d-cannell)
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 605">Overview Autism and vitamin D</a> which includes the following graph
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d) which includes the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">

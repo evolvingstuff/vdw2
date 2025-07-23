@@ -62,7 +62,7 @@ Our findings show a significant association of 25(OH)D with the degree of liver 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2177">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 * [Advanced liver cirrhosis death 6.3X more likely if extremely low vitamin D – Jan 2013](/posts/advanced-liver-cirrhosis-death-63x-more-likely-if-extremely-low-vitamin-d)
 

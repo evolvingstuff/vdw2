@@ -31,4 +31,4 @@
 
 * [20 percent of Critically ill in India had undetectable vitamin D, and 62 percent died – Jan 2013](/posts/20-percent-of-critically-ill-in-india-had-undetectable-vitamin-d-and-62-percent-died)
 
-* <a href="/posts/5-days-longer-in-icu-if-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5 days longer in ICU if low on vitamin D - April 2012">5 days longer in ICU if low on vitamin D - April 2012</a>
+* [5 days longer in ICU if low on vitamin D - April 2012](/posts/5-days-longer-in-icu-if-low-on-vitamin-d)

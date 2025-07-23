@@ -66,7 +66,7 @@ Conclusions: Higher plasma vitamin D is associated with better cognition and bet
 
 * [Parkinson’s Disease relationship to Vitamin D](/posts/parkinsons-disease-relationship-to-vitamin-d)
 
-* <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson's and Vitamin D</a>
+* [Overview Parkinson's and Vitamin D](/posts/overview-parkinsons-and-vitamin-d)
 
 ## See also web
 

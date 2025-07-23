@@ -48,6 +48,6 @@ Colorectal cancer (CRC) is one of most common causes of cancer-related death wor
 
 * [Colorectal Cancer and Vitamin D infographic](/posts/colorectal-cancer-and-vitamin-d-infographic)
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a> which contains the following chart
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d) which contains the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

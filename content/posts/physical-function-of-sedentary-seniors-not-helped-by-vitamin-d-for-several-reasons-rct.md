@@ -74,7 +74,7 @@ I paid the publisher $6 to rent the PDF to find out.
 
 > There had been 9 reasons - need to add a 10th - participant selection
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Search VitaminDWiki for FRAILITY](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=FRAILTY&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 142 items as of Nov 2016
 

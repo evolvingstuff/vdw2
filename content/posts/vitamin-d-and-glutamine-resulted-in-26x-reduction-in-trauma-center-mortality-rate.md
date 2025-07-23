@@ -56,7 +56,7 @@ Matthews, Leslie1; Ahmed, Yusuf2; Jones, Frank3; Thakkar, Pankti3; Wilson, Kenne
 
 Patients were given vitamin D to get their levels above 40 ng/ml.
 
-* <a href="/posts/vitamin-d-advocate-dr-matthews-is-now-in-whos-who-marquis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D advocate (Dr. Matthews) is now in Who’s Who Marquis – Feb 2018">Vitamin D advocate (Dr. Matthews) is now in Who’s Who Marquis – Feb 2018</a>
+* [Vitamin D advocate (Dr. Matthews) is now in Who’s Who Marquis – Feb 2018](/posts/vitamin-d-advocate-dr-matthews-is-now-in-whos-who-marquis)
 
 </div>
 

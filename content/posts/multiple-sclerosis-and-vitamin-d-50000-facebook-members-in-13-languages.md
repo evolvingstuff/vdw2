@@ -37,15 +37,15 @@
 
 * [Interview and transcript: Vitamin D protocol for Autoimmune diseases – Dr. Coimbra 2016](/posts/interview-and-transcript-vitamin-d-protocol-for-autoimmune-diseases-dr-coimbra-2016)
 
-* <a href="/posts/vitamin-d-is-the-real-multiple-sclerosis-therapy-not-an-alternative-therapy-coimbra" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is the real Multiple Sclerosis Therapy, not an alternative therapy – Coimbra July 2018">Vitamin D is the real Multiple Sclerosis Therapy, not an alternative therapy – Coimbra July 2018</a>
+* [Vitamin D is the real Multiple Sclerosis Therapy, not an alternative therapy – Coimbra July 2018](/posts/vitamin-d-is-the-real-multiple-sclerosis-therapy-not-an-alternative-therapy-coimbra)
 
-* <a href="/posts/guide-for-patients-on-high-doses-of-vitamin-d-coimbra-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Guide for patients on high doses of Vitamin D – Coimbra 2017">Guide for patients on high doses of Vitamin D – Coimbra 2017</a>
+* [Guide for patients on high doses of Vitamin D – Coimbra 2017](/posts/guide-for-patients-on-high-doses-of-vitamin-d-coimbra-2017)
 
-* <a href="/posts/how-to-get-lots-of-magnesium-especially-needed-for-coimbra-ms-and-autoimmune-protocol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How to get lots of Magnesium – especially needed for Coimbra MS and Autoimmune Protocol">How to get lots of Magnesium – especially needed for Coimbra MS and Autoimmune Protocol</a>
+* [How to get lots of Magnesium – especially needed for Coimbra MS and Autoimmune Protocol](/posts/how-to-get-lots-of-magnesium-especially-needed-for-coimbra-ms-and-autoimmune-protocol)
 
-* <a href="/posts/multiple-sclerosis-coimbra-protocol-with-vitamin-d-increased-walking" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis Coimbra Protocol with Vitamin D - increased walking - May 2018">Multiple Sclerosis Coimbra Protocol with Vitamin D - increased walking - May 2018</a>
+* [Multiple Sclerosis Coimbra Protocol with Vitamin D - increased walking - May 2018](/posts/multiple-sclerosis-coimbra-protocol-with-vitamin-d-increased-walking)
 
-* <a href="/posts/vitamin-d-has-treated-multiple-sclerosis-and-autoimmune-diseases-for-16-years-coimbra" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D has treated Multiple Sclerosis and autoimmune diseases for 16 years – Coimbra April 2018">Vitamin D has treated Multiple Sclerosis and autoimmune diseases for 16 years – Coimbra April 2018</a>
+* [Vitamin D has treated Multiple Sclerosis and autoimmune diseases for 16 years – Coimbra April 2018](/posts/vitamin-d-has-treated-multiple-sclerosis-and-autoimmune-diseases-for-16-years-coimbra)
 
 * [Doctor got multiple sclerosis, rejected then embraced Coimbra protocol for herself and patients – Jan 2017](/posts/doctor-got-multiple-sclerosis-rejected-then-embraced-coimbra-protocol-for-herself-and-patients)
 

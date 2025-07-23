@@ -74,4 +74,4 @@ Conclusion  Overall, omega-3 PUFA supplementation was not associated with a lowe
 
 # See also VitaminDWiki
 
-* <a href="/posts/omega-3-increased-by-60-percent-the-active-vitamin-d-in-the-blood" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3171">Omega-3 increased by 60 % the ACTIVE vitamin D in the blood – Aug 2012</a>
+* [Omega-3 increased by 60 % the ACTIVE vitamin D in the blood – Aug 2012](/tags/omega-3-increased-by-60-the-active-vitamin-d-in-the-blood-aug-2012.html)

@@ -59,6 +59,6 @@ Conclusion: In middle-aged men and (postmenopausal) women, a higher 25OHD level 
 
 * [Athletes need at least 40 ng of vitamin D – literature review Oct 2012](/posts/athletes-need-at-least-40-ng-of-vitamin-d-literature-review)
 
-* <a href="/posts/senior-women-more-physically-able-if-vitamin-d-higher-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Senior women more physically able if vitamin D higher than 30 ng – Sept 2011">Senior women more physically able if vitamin D higher than 30 ng – Sept 2011</a>
+* [Senior women more physically able if vitamin D higher than 30 ng – Sept 2011](/posts/senior-women-more-physically-able-if-vitamin-d-higher-than-30-ng)
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a>
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)

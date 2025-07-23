@@ -287,4 +287,4 @@ David J. Turnbull studied UV radiation physics at the University of Southern Que
 
 * [Search VitaminDWiki for SHADE](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=shade&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 83 items as of March 2014
 
-* <a href="/posts/shade-reduces-uv-by-3x-at-noon" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shade reduces UV by 3X at noon">Shade reduces UV by 3X at noon</a> same authors
+* [Shade reduces UV by 3X at noon](/posts/shade-reduces-uv-by-3x-at-noon) same authors

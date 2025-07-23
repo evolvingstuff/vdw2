@@ -72,9 +72,9 @@ Hypothesis: Until the obese can change their genes they will need more vitamin D
 
 * [Off topic: Can turn obesity on and off in mice with a gene – but not if obese for too long – Oct 2012](/posts/off-topic-can-turn-obesity-on-and-off-in-mice-with-a-gene-but-not-if-obese-for-too-long)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/rediscovering-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rediscovering vitamin D - Nov 2010">Rediscovering vitamin D - Nov 2010</a> Kidney is not the only part of the body which activates vitamin D - see following chart
+* [Rediscovering vitamin D - Nov 2010](/posts/rediscovering-vitamin-d) Kidney is not the only part of the body which activates vitamin D - see following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

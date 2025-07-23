@@ -37,7 +37,7 @@ To bring the page by to normal size press ctrl key and 0 (zero) key at the same 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/png/vitamin-d-infographic.png" alt="image" width="500">
 
-The author of this infographic has also made graphics on VitaminDWiki: <a href="/posts/vitamin-d-is-not-snake-oil" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is NOT snake oil">Vitamin D is NOT snake oil</a> in 2010 and [Benefits of supplements (vitamin D is not snake oil) - Aug 2013](/posts/benefits-of-supplements-vitamin-d-is-not-snake-oil)
+The author of this infographic has also made graphics on VitaminDWiki: [Vitamin D is NOT snake oil](/posts/vitamin-d-is-not-snake-oil) in 2010 and [Benefits of supplements (vitamin D is not snake oil) - Aug 2013](/posts/benefits-of-supplements-vitamin-d-is-not-snake-oil)
 
 ---
 
@@ -59,7 +59,7 @@ Here is the section which describes the sources of vitamin D
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-infographics-and-topics-at-grassrootshealth" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D infographics and topics at GrassrootsHealth">Vitamin D infographics and topics at GrassrootsHealth</a>
+* [Vitamin D infographics and topics at GrassrootsHealth](/posts/vitamin-d-infographics-and-topics-at-grassrootshealth)
 
 * [Vitamin D protects against many types of health problems – review May 2013](/posts/vitamin-d-protects-against-many-types-of-health-problems-review)
 
@@ -71,9 +71,9 @@ Here is the section which describes the sources of vitamin D
 
 * [Vitamin D seems to be living up to high expectations – April 2013](/posts/vitamin-d-seems-to-be-living-up-to-high-expectations)
 
-* <a href="/posts/vitamin-d-101-at-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1407">Vitamin D 101 at VitaminDWiki</a>
+* [Vitamin D 101 at VitaminDWiki](/tags/vitamin-d-101-at-vitamindwiki.html)
 
-* <a href="/posts/uv-infographic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1233">UV infographic</a>
+* [UV infographic](/tags/uv-infographic.html)
 
 * [Infographic of Vitamin D - FoundMyFitness](/posts/infographic-of-vitamin-d-foundmyfitness)
 

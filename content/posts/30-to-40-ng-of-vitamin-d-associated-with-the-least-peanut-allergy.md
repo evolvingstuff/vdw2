@@ -52,18 +52,18 @@ PMID: 23062387
 
 #### See also VitaminDWiki
 
-* <a href="/posts/peanut-and-food-allergies-prevented-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Peanut and Food allergies prevented by Vitamin D">Peanut and Food allergies prevented by Vitamin D</a>
+* [Peanut and Food allergies prevented by Vitamin D](/posts/peanut-and-food-allergies-prevented-by-vitamin-d)
 
-* <a href="/posts/adolescent-allergies-associated-with-low-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1604">Adolescent allergies associated with low vitamin D levels</a>
+* [Adolescent allergies associated with low vitamin D levels](/tags/adolescent-allergies-associated-with-low-vitamin-d-levels.html)
 
-* <a href="/posts/vitamin-d-and-allergy-to-common-mold" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 753">Vitamin D and allergy to common mold - Aug 2010</a>
+* [Vitamin D and allergy to common mold - Aug 2010](/tags/vitamin-d-and-allergy-to-common-mold-aug-2010.html)
 
    * Research concludes vitamin D may treat or prevent allergy to common mold
 
 * [Kids with more vitamin D less likely to get some allergies](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=995) file
 
-* <a href="/posts/many-new-reasons-why-vitamin-d-deficiency-is-becoming-epidemic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Many new reasons why vitamin D deficiency is becoming epidemic</a>
+* [Many new reasons why vitamin D deficiency is becoming epidemic](/tags/many-new-reasons-why-vitamin-d-deficiency-is-becoming-epidemic.html)
 
-* <a href="/posts/cresendo-of-papers-on-asthma-allergy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2032">Cresendo of papers on Asthma, Allergy, and Vitamin D – Sept 2011</a>
+* [Cresendo of papers on Asthma, Allergy, and Vitamin D – Sept 2011](/tags/cresendo-of-papers-on-asthma-allergy-and-vitamin-d-sept-2011.html)
 
-* <a href="/posts/high-level-of-maternal-vitamin-d-associated-with-infant-food-allergy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3562">High level of maternal vitamin D associated with infant food allergy – Dec 2012</a>
+* [High level of maternal vitamin D associated with infant food allergy – Dec 2012](/tags/high-level-of-maternal-vitamin-d-associated-with-infant-food-allergy-dec-2012.html)

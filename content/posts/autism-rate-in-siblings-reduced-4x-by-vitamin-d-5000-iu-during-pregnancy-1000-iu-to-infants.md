@@ -233,7 +233,7 @@ We would like to thank Autism Research Institute (ARI) for funding this project.
 
 * The Autism Spectrum Disorder and Its Possible Origins in Pregnancy - VitaminDWiki
 
-   * <a href="/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024">Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024</a>
+   * [Autism risk if toxins, heavy metals, microplastics, etc during pregnancy (unless add Vitamin D) – Feb 2024](/posts/autism-risk-if-toxins-heavy-metals-microplastics-etc-during-pregnancy-unless-add-vitamin-d)
 
 * Vitamin D: Before, during and after Pregnancy: Effect on Neonates and Children - May 2022 [FREE PDF](https://doi.org/10.3390/nu14091900)
 

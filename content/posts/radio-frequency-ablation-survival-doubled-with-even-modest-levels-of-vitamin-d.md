@@ -54,7 +54,7 @@ Facciorusso A1, Del Prete V1, Muscatiello N1, Crucinio N1, Barone M1.
 
 * [Breast cancer chemotherapy benefits from highest vitamin D levels – June 2014](/posts/breast-cancer-chemotherapy-benefits-from-highest-vitamin-d-levels)
 
-* <a href="/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies">Metastatic Cancer probably reduced by vitamin D - many studies</a>
+* [Metastatic Cancer probably reduced by vitamin D - many studies](/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies)
 
 * [Cancer Chemotherapy and vitamin D – Review March 2013](/posts/cancer-chemotherapy-and-vitamin-d-review)
 

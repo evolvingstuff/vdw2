@@ -48,7 +48,7 @@ PMID: 24694335
 
 ## See also VitaminDWiki
 
-* [Genetics](/categories/genetics) category listing with associated searches
+* [Genetics](/tags/genetics.html) category listing with associated searches
 
 *  **Search VitaminDWiki for [Cyp2R1](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=cyp2r1&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 210 hits June 2015,** 
 

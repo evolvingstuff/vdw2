@@ -130,13 +130,13 @@ Might reduce the importance, for some diseases, of
 
 ## See also VitaminDWiki
 
-* <a href="/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metastatic Cancer probably reduced by vitamin D - many studies">Metastatic Cancer probably reduced by vitamin D - many studies</a>
+* [Metastatic Cancer probably reduced by vitamin D - many studies](/posts/metastatic-cancer-probably-reduced-by-vitamin-d-many-studies)
 
 * (Overview MS and vitamin D))
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
-* <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a>
+* [Sepsis is both prevented and treated by Vitamin D - many studies](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies)
 
 * [Topical vitamin D might be more bio-available than oral – Oct 2015](/posts/topical-vitamin-d-might-be-more-bio-available-than-oral)
 

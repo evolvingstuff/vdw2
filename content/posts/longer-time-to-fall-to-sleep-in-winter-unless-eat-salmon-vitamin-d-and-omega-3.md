@@ -58,7 +58,7 @@ PMID: 24812543
 
 #### See also VitaminDWiki
 
-* [Sleep](/categories/sleep) category listing with associated searches
+* [Sleep](/tags/sleep.html) category listing with associated searches
 
 * [Sleep longer if have more vitamin D – many studies](/posts/sleep-longer-if-have-more-vitamin-d-many-studies)
 

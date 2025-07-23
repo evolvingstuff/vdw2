@@ -63,7 +63,7 @@ PMID: 26547141
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [Melanoma risk 2X to 4X higher if Vitamin D receptor genes had morphed – March 2014](/posts/melanoma-risk-2x-to-4x-higher-if-vitamin-d-receptor-genes-had-morphed)  Note: not SCC
 

@@ -60,7 +60,7 @@ The present review arguments these issues focusing on the opened questions that 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
 * [Dialysis patients need real vitamin D – Editorial July 2013](/posts/dialysis-patients-need-real-vitamin-d-editorial)
 

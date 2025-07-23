@@ -1,0 +1,162 @@
+{
+    "title": "Low cost cofactors for vitamin D",
+    "slug": "low-cost-cofactors-for-vitamin-d",
+    "aliases": [
+        "/Low+cost+cofactors+for+vitamin+D",
+        "/1270"
+    ],
+    "tiki_page_id": 1270,
+    "date": "2010-12-30",
+    "categories": [
+        "Calcium",
+        "Magnesium",
+        "Top news",
+        "Vitamin K",
+        "Vitamin A",
+        "Boron",
+        "Omega-3",
+        "Iron",
+        "Zinc"
+    ],
+    "tags": [
+        "Boron",
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Omega-3",
+        "Top news",
+        "Vitamin A",
+        "Vitamin K",
+        "Zinc",
+        "dosage",
+        "iodine",
+        "magnesium",
+        "magnesium and pregnancy",
+        "magnesium and viruses",
+        "mononucleosis",
+        "omega 3",
+        "omega 3 and pregnancy",
+        "omega 3 and viruses",
+        "pregnancy",
+        "virus",
+        "viruses and pregnancy",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin k",
+        "vitamin k and viruses",
+        "zinc",
+        "zinc and viruses"
+    ]
+}
+
+
+### It is IMPORTANT to have cofactors when taking more than 2000 IU vitamin D average
+
+*  **[Decrease Calcium and Increase Magnesium when increasing vitamin D](/posts/decrease-calcium-and-increase-magnesium-when-increasing-vitamin-d)** 
+
+* There is a lack of evidence of the interactions - the following are guesses based on incomplete information
+
+> Most studies are monotheraputic: e.g. supply Vitamin D, and rarely use any of the cofactors
+
+---
+
+### Update 2022 taking most of my supplements as pills - average of about 3/day
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/herny-s-weekly-pills.jpg" alt="image" width="800">
+
+Also take Magnesium Chloride as a liquid and Omega-3 as a cream
+
+ **Update 2018 - taking many supplements in ((Bulk supplementation of Vitamin D, Magnesium, Zinc, B-12, K2, Boron etc. - lower cost and 
+
+### Supplements which the Founder of VitaminWiki takes - as of Aug 2017
+
+<!-- ~tc~ start ~/tc~ -->
+
+||   Cofactor|   How Much| [Benefit Bone](/tags/benefit-bone.html)  
+ teeth, nails| Comments|Actual supplementation   
+by admin of VitaminDWiki |Cents   
+per day
+
+[Calcium](/tags/calcium.html)|   <750mg| Yes   | [Is excess calcium harmful to health - 2010](/posts/is-excess-calcium-harmful-to-health-2010)| ~~#009:** 0* = None: get from healthy food **~~  |0 ¢ 
+
+[Magnesium](/posts/overview-magnesium-and-vitamin-d)|   100mg (element)|   Yes|May increase response to Vitamin D by 30%   
+ Many other health benefits as well| 1/2 teaspoon of Magnesium Chloride ever 3 days  
+ Make it by adding hot water to bulk MgCl (1 to 1)  
+ also use topically on both knees nightly| ~2 ¢ 
+
+[Vitamin K2](/tags/vitamin-k2.html)|>100 ug| Yes  | perhaps 100 ug/1000 IU of vitamin D| [Super K](http://smile.amazon.com/dp/B004GW4S0G/ref=sr_ph?ie=UTF8&qid=1431297251&sr=1&keywords=super) - all three forms in 1 capsule|20 ¢ 
+
+[Vitamin A](/tags/vitamin-a.html)| ?  | maybe|need some, but too much is bad  |~~#009:** 0* **~~ |0
+
+[Boron](/posts/vitamin-d-and-boron)| 10 mg  |Yes  |[may increase D3 in blood by 25%](/tags/may-increase-d3-in-blood-by-25.html) |  Daily in granola in the morning |1 ¢ 
+
+[Silica](/tags/silica.html)| ?  |   Yes  |  | Daily - Horsetail - buy in bulk  
+Include in morning cereal |1 ¢ 
+
+[Omega-3](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)|1 g or   
+1 Vectomega tablet|By increasing   
+Vitamin D| [helps health A LOT](/tags/helps-health-a-lot.html)  
+[May increase active D](/tags/may-increase-active-d.html) |[1 Vectomega daily](/posts/i-use-vectomega-brand-of-omega-3-admin-of-vitamindwiki) - VERY bioavailable|75 ¢ 
+
+[Zinc](/posts/zinc-and-vitamin-d) | ?|?|Needed by [not seen](/tags/not-seen.html) in [Vitamin D tests](/posts/low-cost-vitamin-d-blood-tests)  | take 30 mg tablet or liquid weekly|3 ¢** Following are NOT cofactors **[Poly fats](/posts/increasing-the-ratio-of-mono-to-poly-fats-increased-vitamin-d-levels-by-6-ng-rct)|Ratio of types of fat |no  |Almonds have the best fat ratio  
+ and they have Magnesium| [daily mixed nuts](/posts/health-problems-prevented-by-eating-nuts-perhaps-due-to-magnesium-and-or-omega-3-meta-analysis)|5
+
+Water| 2.5 liters/quarts|No|[Help flush kidneys of any excess Calcium](/posts/video-by-dr-coimbra-95-percent-of-auto-immune-cured-with-vitamin-d-in-high-doses)   
+ Perhaps only need this much  
+Water if >10,000 IU| >1 quart per day, filtered|0
+
+[Iodine](/tags/iodine.html)| ?? micrograms|No| many people are deficient recently  
+I am currently researching the topic|~600 micrograms once a week | ~1¢ 
+
+[Sun](/tags/sun.html)| How much time varies with  
+ skin type, age, latitude,   
+clothing, stand/lie . . |Yes|Probably  better than vitamin D supplements|30 minutes sun-nap 80 days/year  
+[UVB lamp in the winter](/tags/uvb-lamp-in-the-winter.html)|0
+
+Vitamin D|2,000-15,000|Yes |[Proven to prevent/treat 76+ diseases](/tags/proven-to-preventtreat-76-diseases.html) |12,000 IU avg - Winter ([50,000 every 4 days](/tags/50000-every-4-days.html))  
+10,000 IU avg - Summer [50,000 every 5 days](/tags/50000-every-5-days.html)) |6   
+5 ||
+
+<!-- ~tc~ end ~/tc~ -->
+
+### Update 2015 - [Good Health is more than Vitamin D and cofactors – my view](/posts/good-health-is-more-than-vitamin-d-and-cofactors-my-view)
+
+---
+
+### Magnesium is probably the most important cofactor
+
+* Virtually everyone around the world has become [Magnesium deficient](/posts/overview-magnesium-and-vitamin-d) in the past 50 years
+
+> [Magnesium is second](/posts/far-less-magnesium-available-in-the-body-now) only to Vitamin D if the % of people who are deficient
+
+* What appears to be an [allergic reaction to vitamin D](/tags/allergic-reaction-to-vitamin-d.html) is often due to a lack of Magnesium
+
+* Having more Magnesium increases vitamin D bio-availability
+
+* Magnesium comes in many forms - with a wide range of bioavailablity - Magnesium Chloride form seems to have the best bioavailability
+
+* [Magnesium and vitamin D](/posts/magnesium-and-vitamin-d) - wide variety of information: test for Mg requires a $700 cell test
+
+* [Recommended levels of vitamins and minerals - history RDA DRI](/posts/recommended-levels-of-vitamins-and-minerals-history-rda-dri) how much Vitamin A, D, Calcium, Magnesium, Boron, etc.
+
+* [Vitamin D3 and many co-factors in one pill](/tags/vitamin-d3-and-many-co-factors-in-one-pill.html)
+
+## Notes as of April 2013
+
+* It is OK to take lots of vitamin D for a month or two (Even 50,000 IU daily for a month)
+
+* The first cofactor to consider to take would be Mg - as <1% of people get allergic reactions to vitamin D due to being very low on Mg
+
+* Cofactors in a nutshell: Calcium 500, Magnesium 500, Vitamin K-2 100 (or more)
+
+* Probably the milligrams of most cofactors, as well as IU Vitamin D, should vary with the weight
+
+---
+
+## Cofactors from a single source - $1.40/day - Found May 2015
+
+[Bone Renewal](http://smile.amazon.com/dp/B008HFUIAM/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=TWSQUSQJG97Y&coliid=I2C42QFAMDZTUO) Amazon
+
+$40 for 30 days os serviings (5)- 2 breakfast, 3 dinner
+
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/bone-renewal---synergy.jpg" alt="image">

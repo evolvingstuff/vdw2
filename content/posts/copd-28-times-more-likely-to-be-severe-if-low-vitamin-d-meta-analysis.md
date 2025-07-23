@@ -39,7 +39,7 @@ It agrees with many other COPD studies
 
 * [COPD fought by Vitamin D - many studies](/posts/copd-fought-by-vitamin-d-many-studies)
 
-* <a href="/posts/copd-with-obstruction-death-17-x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD with obstruction: Death 1.7 X more likely with low vitamin D – Sept 2018">COPD with obstruction: Death 1.7 X more likely with low vitamin D – Sept 2018</a>
+* [COPD with obstruction: Death 1.7 X more likely with low vitamin D – Sept 2018](/posts/copd-with-obstruction-death-17-x-more-likely-with-low-vitamin-d)
 
 </div>
 

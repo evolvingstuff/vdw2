@@ -48,7 +48,7 @@ Studies have shown that vitamin D treats both HIV and Malaira separately
 
 * [Malaria in mice brains, and associated inflammation, prevented by Vitamin D intervention – July 2014](/posts/malaria-in-mice-brains-and-associated-inflammation-prevented-by-vitamin-d-intervention)
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 * [Severe malaria 9 percent less likely with each extra 1 nanogram of vitamin D – 2014](/posts/severe-malaria-9-percent-less-likely-with-each-extra-1-nanogram-of-vitamin-d-2014)
 

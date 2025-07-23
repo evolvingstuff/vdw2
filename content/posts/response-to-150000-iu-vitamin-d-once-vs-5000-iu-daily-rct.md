@@ -61,11 +61,11 @@ Mayo, etc - see PDF
 
 * [Vitamin D – monthly dosing was better than daily with Calcium – RCT Dec 2015](/posts/vitamin-d-monthly-dosing-was-better-than-daily-with-calcium-rct)
 
-* <a href="/posts/monthly-100000-iu-of-vitamin-d-is-safe-and-may-be-better-than-daily-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monthly 100,000 IU of vitamin D is safe (and may be better than daily) – RCT Aug 2018">Monthly 100,000 IU of vitamin D is safe (and may be better than daily) – RCT Aug 2018</a>
+* [Monthly 100,000 IU of vitamin D is safe (and may be better than daily) – RCT Aug 2018](/posts/monthly-100000-iu-of-vitamin-d-is-safe-and-may-be-better-than-daily-rct)
 
-* <a href="/posts/monthly-vitamin-d-dosing-is-better-than-daily-dosing-for-children-and-elderly-mo-ely-to-be-taken" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017">Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017</a>
+* [Monthly vitamin D dosing is better than daily dosing for children and elderly (more likely to be taken) – June 2017](/posts/monthly-vitamin-d-dosing-is-better-than-daily-dosing-for-children-and-elderly-mo-ely-to-be-taken)
 
- **<a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has the following much longer response** 
+ **[Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) has the following much longer response** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 

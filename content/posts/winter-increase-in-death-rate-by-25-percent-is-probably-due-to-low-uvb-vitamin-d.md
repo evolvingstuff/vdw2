@@ -78,13 +78,13 @@ In the U.S., population mean 25(OH)D concentrations range from 21ng/mL in March 
 
 #### See also VitaminDWiki
 
- **<a href="/posts/vitamin-d-uk-45-year-olds" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D UK 45 year olds">Vitamin D UK 45 year olds</a> Average vitamin D levels in UK vary with season: 14 ng to 29 ng** 
+ **[Vitamin D UK 45 year olds](/posts/vitamin-d-uk-45-year-olds) Average vitamin D levels in UK vary with season: 14 ng to 29 ng** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/seasonal-uk.jpg" alt="image" style="max-width: 700px;">
 
 Dark gray = 45 year-old MEN, light gray = 45 year-old WOMEN
 
- **<a href="/posts/vitamin-d-and-obstetrics-improving-pregnancy-and-childbirth-presentations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Obstetrics Improving Pregnancy and Childbirth - presentations May 2011">UV varies a ot more with season at high latitudes</a>** 
+ **[UV varies a ot more with season at high latitudes](/posts/vitamin-d-and-obstetrics-improving-pregnancy-and-childbirth-presentations)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">  
 

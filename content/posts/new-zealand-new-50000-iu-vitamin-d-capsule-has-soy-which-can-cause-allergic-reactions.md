@@ -59,12 +59,12 @@ Buy an over-the-counter Vitamin D capsule which does not require a prescription 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/50000-iu-capsules-of-vitamin-d-can-be-obtained-everywhere" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU capsules of Vitamin D can be obtained everywhere - Jan 2022">50,000 IU capsules of Vitamin D can be obtained everywhere - Jan 2022</a>
+* [50,000 IU capsules of Vitamin D can be obtained everywhere - Jan 2022](/posts/50000-iu-capsules-of-vitamin-d-can-be-obtained-everywhere)
 
 * [Hypothesis – Australia has highest rate of food allergy due to avoiding the sun – Sept 2015](/posts/hypothesis-australia-has-highest-rate-of-food-allergy-due-to-avoiding-the-sun)
 
 > Probably NZ as well - similar avoidance of sunshine
 
-* <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a> gut friendly
+* [Gut-Friendly Vitamin D](/posts/gut-friendly-vitamin-d) gut friendly
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> 500,000 IU is typical
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) 500,000 IU is typical

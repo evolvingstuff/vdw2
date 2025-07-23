@@ -101,7 +101,7 @@ Chronic diseases are the primary cause of disability, morbidity, and death in We
 
 * [Unsaturated Fatty acids important for both MS and Vitamin D – Oct 2012](/posts/unsaturated-fatty-acids-important-for-both-ms-and-vitamin-d)
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> which has 3 more MS related diseases not mentioned in this editorial
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) which has 3 more MS related diseases not mentioned in this editorial
 
 > [Multiple Sclerosis ==> 2.6X increased Migrane Headache,  web, full text online](http://www.ncbi.nlm.nih.gov/pubmed/23024814)
 

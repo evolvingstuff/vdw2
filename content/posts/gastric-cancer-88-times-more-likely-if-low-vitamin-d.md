@@ -31,7 +31,7 @@ Vyas N1, Companioni RC1, Tiba M1, Alkhawam H1, Catalano C1, Sogomonian R1, Baum 
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/gastric-cancer-patients-with-more-vitamin-d-more-likely-to-live" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gastric Cancer patients with more vitamin D more likely to live– Feb 2012">Gastric Cancer patients with more vitamin D more likely to live– Feb 2012</a> has the following chart
+* [Gastric Cancer patients with more vitamin D more likely to live– Feb 2012](/posts/gastric-cancer-patients-with-more-vitamin-d-more-likely-to-live) has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/gastric-survival.jpg" alt="image">
 

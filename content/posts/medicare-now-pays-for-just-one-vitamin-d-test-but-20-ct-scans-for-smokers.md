@@ -39,13 +39,13 @@ For people, between the ages 55 and 77 years, who have a smoking history, Medica
 
 ### See also VitaminDWiki
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 * [Warning – Medicare will pay for just 1 vitamin D test PER LIFETIME (if not related to a few diseases) ](/posts/warning-medicare-will-pay-for-just-1-vitamin-d-test-per-lifetime-if-not-related-to-a-few-diseases)
 
 * [80 X increase in Vitamin D testing in Australia in a decade - June 2013](/posts/80-x-increase-in-vitamin-d-testing-in-australia-in-a-decade) - before they stopped paying for the tests
 
-* <a href="/posts/vitamin-d-testing-typically-not-needed-but-in-9-cases-it-is" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D testing typically not needed, but in 9 cases it is – April 2012">Vitamin D testing typically not needed, but in 9 cases it is – April 2012</a>
+* [Vitamin D testing typically not needed, but in 9 cases it is – April 2012](/posts/vitamin-d-testing-typically-not-needed-but-in-9-cases-it-is)
 
 * [Search VitaminDWiki for "VITAMIN C" (SMOKE OR SMOKING)](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22VITAMIN+C%22+%28SMOKE+OR+SMOKING%29&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 143 results as of Feb 2015
 

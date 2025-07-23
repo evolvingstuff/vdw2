@@ -112,23 +112,23 @@ The association between vitamin D and mortality is not solely dependent on the o
 
 #### See also VitaminDWiki
 
-* <a href="/posts/frailty-2x-less-likely-in-depressed-seniors-having-a-good-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty 2X less likely in depressed seniors having a good level of vitamin D – Nov 2018">Frailty 2X less likely in depressed seniors having a good level of vitamin D – Nov 2018</a>
+* [Frailty 2X less likely in depressed seniors having a good level of vitamin D – Nov 2018](/posts/frailty-2x-less-likely-in-depressed-seniors-having-a-good-level-of-vitamin-d)
 
-* <a href="/posts/frailty-risk-increases-12-percent-for-every-10-ng-less-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty risk increases 12 percent for every 10 ng less vitamin D – meta-analysis Sept 2018">Frailty risk increases 12 percent for every 10 ng less vitamin D – meta-analysis Sept 2018</a>
+* [Frailty risk increases 12 percent for every 10 ng less vitamin D – meta-analysis Sept 2018](/posts/frailty-risk-increases-12-percent-for-every-10-ng-less-vitamin-d-meta-analysis)
 
-* <a href="/posts/frailty-is-related-to-many-things-such-as-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty is related to many things, such as low vitamin D – Sept 2018">Frailty is related to many things, such as low vitamin D – Sept 2018</a>
+* [Frailty is related to many things, such as low vitamin D – Sept 2018](/posts/frailty-is-related-to-many-things-such-as-low-vitamin-d)
 
 * [Frailty and Vitamin D - many studies](/posts/frailty-and-vitamin-d-many-studies)
 
-* <a href="/posts/frailty-and-vitamin-d-with-influence-diagram-miller" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty and Vitamin D – with influence diagram Miller Oct 2010">Frailty and Vitamin D – with influence diagram Miller Oct 2010</a>
+* [Frailty and Vitamin D – with influence diagram Miller Oct 2010](/posts/frailty-and-vitamin-d-with-influence-diagram-miller)
 
-* <a href="/posts/frailty-can-be-avoided-vitamin-d-is-one-of-the-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty can be avoided – vitamin D is one of the ways – July 2017">Frailty can be avoided – vitamin D is one of the ways – July 2017</a>
+* [Frailty can be avoided – vitamin D is one of the ways – July 2017](/posts/frailty-can-be-avoided-vitamin-d-is-one-of-the-ways)
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Frailty Call to Action: Vitamin D is one of the action items – June 2013](/posts/frailty-call-to-action-vitamin-d-is-one-of-the-action-items)
 
-* <a href="/posts/vitamin-d-in-older-women-fractures-frailty-and-mortality-buchebner-thesis-2017" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D In Older Women - Fractures, Frailty and Mortality – Buchebner thesis 2017">Vitamin D In Older Women - Fractures, Frailty and Mortality – Buchebner thesis 2017</a>
+* [Vitamin D In Older Women - Fractures, Frailty and Mortality – Buchebner thesis 2017](/posts/vitamin-d-in-older-women-fractures-frailty-and-mortality-buchebner-thesis-2017)
 
 * [Added 1 lb of muscle to sarcopenia adults in 13 weeks with just 800 IU vitamin D and protein – RCT Jan 2017](/posts/added-1-lb-of-muscle-to-sarcopenia-adults-in-13-weeks-with-just-800-iu-vitamin-d-and-protein-rct)
 

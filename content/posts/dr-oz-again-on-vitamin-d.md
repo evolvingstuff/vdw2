@@ -54,13 +54,13 @@ Dr. Oz had the audience stand up if they had any of the following
 
 ## See also VitaminDWiki
 
-* <a href="/posts/excellent-short-vitamin-d-video-by-dr-oz-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excellent short Vitamin D video by Dr. Oz - 2011">Excellent short Vitamin D video by Dr. Oz - 2011</a> 50 ng 
+* [Excellent short Vitamin D video by Dr. Oz - 2011](/posts/excellent-short-vitamin-d-video-by-dr-oz-2011) 50 ng 
 
 * [Dr. Oz recommends at least 50 ng of vitamin D](/posts/dr-oz-recommends-at-least-50-ng-of-vitamin-d) 2011, 2013
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
-* <a href="/posts/dr-oz-recommends-50-ng-vitamin-d-blood-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr Oz recommends 50 ng vitamin D blood level">Dr Oz recommends 50 ng vitamin D blood level</a> AARP 2010
+* [Dr Oz recommends 50 ng vitamin D blood level](/posts/dr-oz-recommends-50-ng-vitamin-d-blood-level) AARP 2010
 
 ## See also web
 

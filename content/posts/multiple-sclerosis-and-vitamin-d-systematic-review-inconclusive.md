@@ -58,7 +58,7 @@ Received: September 7, 2012; Accepted: October 3, 2012; Published online: Decemb
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [Vitamin D looks promising to deal with MS – review 2013](/posts/vitamin-d-looks-promising-to-deal-with-ms-review-2013)
 

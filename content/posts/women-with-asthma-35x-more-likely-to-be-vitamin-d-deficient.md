@@ -60,11 +60,11 @@ PMID:    24154283
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Search VitaminDWiki for Asthma](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=asthma&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)  2180 items as of Oct 2013
 
-* <a href="/posts/1200-iu-d3-reduced-related-asthma-by-6x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 331">1200 IU D3 reduced related asthma by 6X – May 2010</a>
+* [1200 IU D3 reduced related asthma by 6X – May 2010](/tags/1200-iu-d3-reduced-related-asthma-by-6x-may-2010.html)
 
 * [Vitamin D might be able to deal with severe asthma – Sept 2013](/posts/vitamin-d-might-be-able-to-deal-with-severe-asthma)
 

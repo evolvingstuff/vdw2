@@ -95,7 +95,7 @@ We found that high magnesium intake was also associated with a reduced risk of v
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Hypothesis: Magnesium accounts for some of the variation in vitamin D response – Oct 2013](/posts/hypothesis-magnesium-accounts-for-some-of-the-variation-in-vitamin-d-response)  
 
@@ -109,7 +109,7 @@ We found that high magnesium intake was also associated with a reduced risk of v
 
 * [Magnesium – I used to believe that food had enough, now I supplement with 400 mg daily – Dr. Lundberg May 2015](/posts/magnesium-i-used-to-believe-that-food-had-enough-now-i-supplement-with-400-mg-daily-dr-lundberg)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a>
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic)
 
 ### Notice that Magnesium reduces Vitamin D getting to cells at several places in the following chart
 

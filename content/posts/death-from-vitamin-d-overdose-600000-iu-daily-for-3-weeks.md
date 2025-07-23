@@ -21,9 +21,9 @@
 
 ---
 
- **<a href="/posts/vitamin-d-lethal-dose-in-dogs-1934" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Lethal Dose in Dogs – 1934">Vitamin D Lethal Dose in Dogs – 1934</a>** 
+ **[Vitamin D Lethal Dose in Dogs – 1934](/posts/vitamin-d-lethal-dose-in-dogs-1934)** 
 
- **<a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> shows that that size of dose is very toxic** 
+ **[Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) shows that that size of dose is very toxic** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="450">
 

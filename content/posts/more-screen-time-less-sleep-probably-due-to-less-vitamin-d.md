@@ -78,7 +78,7 @@ Received 26 September 2014, Revised 28 November 2014, Accepted 2 December 2014, 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/video-games.jpg" alt="image" width="400">
 
-* <a href="/posts/dark-skinned-teens-use-media-much-more" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skinned teens use media much more - June 2011">Dark skinned teens use media much more - June 2011</a> has the following graphic
+* [Dark skinned teens use media much more - June 2011](/posts/dark-skinned-teens-use-media-much-more) has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400"> 
 

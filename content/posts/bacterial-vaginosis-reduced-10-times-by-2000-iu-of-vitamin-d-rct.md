@@ -61,12 +61,12 @@ Interpretation & conclusions: Among women in reproductive age group with vitamin
 
 * [ALL of the top 10 health problems of women are associated with low vitamin D](/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d)
 
-* <a href="/posts/vaginal-microbiome-varies-with-race-vitamin-d-level-preterm-birth-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaginal microbiome varies with race, vitamin D level, preterm birth, etc. - March 2019">Vaginal microbiome varies with race, vitamin D level, preterm birth, etc. - March 2019</a>
+* [Vaginal microbiome varies with race, vitamin D level, preterm birth, etc. - March 2019](/posts/vaginal-microbiome-varies-with-race-vitamin-d-level-preterm-birth-etc)
 
 * [Vaginosis not reduced by average of 2800 IU vitamin D daily – RCT Nov 2014](/posts/vaginosis-not-reduced-by-average-of-2800-iu-vitamin-d-daily-rct)
 
 * [Vaginal Vitamin D reduced vaginal infections - Jan 2014](/posts/vaginal-vitamin-d-reduced-vaginal-infections)
 
-* <a href="/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011">Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011</a>
+* [Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection)
 
 * [Search for VAGINOSIS](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Vaginosis&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 385 as of March 2019

@@ -56,12 +56,12 @@ PMID:     23595003
 
 * [Search VitaminDWiki for Zwart](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Zwart+&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 37 items Nov 2017
 
-* <a href="/posts/hypothesis-optimize-vitamin-d-at-home-by-measuring-excess-calcium-in-urine" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – Optimize vitamin D at home by measuring excess Calcium in urine">Hypothesis – Optimize vitamin D at home by measuring excess Calcium in urine</a>  $10 for 10 tests
+* [Hypothesis – Optimize vitamin D at home by measuring excess Calcium in urine](/posts/hypothesis-optimize-vitamin-d-at-home-by-measuring-excess-calcium-in-urine)  $10 for 10 tests
 
-* <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium hazards and bioavailability</a>
+* [Calcium hazards and bioavailability](/posts/calcium-hazards-and-bioavailability)
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials)
 
-* <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Low cost cofactors for vitamin D</a>
+* [Low cost cofactors for vitamin D](/posts/low-cost-cofactors-for-vitamin-d)
 
  **[Cited in Google Scholar by 11 studies as of Nov 2021](A%20250%20μg/week%20dose%20of%20vitamin%20D%20was%20as%20effective%20as%20a%2050%20μg/d%20dose%20in%20healthy%20adults)**

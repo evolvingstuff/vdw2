@@ -84,13 +84,13 @@ Stroke |16%||
 
 * [Low levels of vitamin D associated with all cause mortality – Oct 2012](/posts/low-levels-of-vitamin-d-associated-with-all-cause-mortality)
 
-* <a href="/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012">Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012</a>
+* [Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012](/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel)
 
 * [Sunny vacations are one of the ways to raise vitamin D levels – June 2013](/posts/sunny-vacations-are-one-of-the-ways-to-raise-vitamin-d-levels) the study on this page ignores vacations, moving around the us during the lifetime, etc.
 
 * [Sunny side of the hill is the healthiest – 400BC](/posts/sunny-side-of-the-hill-is-the-healthiest-400bc)
 
-* <a href="/posts/whites-were-2x-more-likely-to-be-vitamin-d-deficient-if-wear-long-sleeves" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012">Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012</a>
+* [Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012](/posts/whites-were-2x-more-likely-to-be-vitamin-d-deficient-if-wear-long-sleeves)
 
 * [Vitamin D produced by UVB – June 2013](/posts/vitamin-d-produced-by-uvb)
 
@@ -98,13 +98,13 @@ Stroke |16%||
 
 * [Tuberculosis varies with UVB in Australia - March 2013](/posts/tuberculosis-varies-with-uvb-in-australia)
 
-* <a href="/posts/more-uvb-is-associated-with-less-cancer-study-of-450000-people" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More UVB is associated with less cancer – study of 450,000 people – April 2012">More UVB is associated with less cancer – study of 450,000 people – April 2012</a>
+* [More UVB is associated with less cancer – study of 450,000 people – April 2012](/posts/more-uvb-is-associated-with-less-cancer-study-of-450000-people)
 
-* <a href="/posts/mortality-and-cancer-varies-with-latitude-in-france-too-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mortality and Cancer varies with latitude in France too – 2010">Mortality and Cancer varies with latitude in France too – 2010</a>
+* [Mortality and Cancer varies with latitude in France too – 2010](/posts/mortality-and-cancer-varies-with-latitude-in-france-too-2010)
 
 * [Mortality varies with latitude in the UK – Feb 2011](/posts/mortality-varies-with-latitude-in-the-uk)
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
 * [Perhaps Italians have air conditioning too: lower latitudes have less vitamin D – July 2013](/posts/perhaps-italians-have-air-conditioning-too-lower-latitudes-have-less-vitamin-d) which has the following
 

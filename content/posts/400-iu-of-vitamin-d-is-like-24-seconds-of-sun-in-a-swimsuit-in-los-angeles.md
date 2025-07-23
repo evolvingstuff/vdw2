@@ -30,7 +30,7 @@
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-of-time-in-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">Overview of Time in the Sun</a> Close!
+* [Overview of Time in the Sun](/tags/overview-of-time-in-the-sun.html) Close!
 
 > 4,000 IU in 7 minutes ==> 400 IU in 42 seconds in shorts
 

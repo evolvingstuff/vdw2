@@ -45,7 +45,7 @@ However, two recent randomized controlled trials (RCTs) both using annual high-d
 
 #### See also VitaminDWiki
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has the following notional chart
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) has the following notional chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

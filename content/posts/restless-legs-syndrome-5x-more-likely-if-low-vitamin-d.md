@@ -211,6 +211,6 @@ In conclusion, our findings may support an association between vitamin D deficie
 
 * [Search VitaminDWiki for "RESTLESS LEG"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22restless+leg%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1850 items as of June 2014
 
-* <a href="/posts/those-with-restless-leg-syndrome-had-40-percent-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Those with restless leg syndrome had 40 percent less vitamin D – June 2012">Those with restless leg syndrome had 40 percent less vitamin D – June 2012</a> which has the following chart
+* [Those with restless leg syndrome had 40 percent less vitamin D – June 2012](/posts/those-with-restless-leg-syndrome-had-40-percent-less-vitamin-d) which has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/rls.jpg" alt="image">

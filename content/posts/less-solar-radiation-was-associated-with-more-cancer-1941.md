@@ -72,21 +72,21 @@ Frank L. Apperly, M.D.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * [Solar UVB reduces Cancer Risk – Grant, Jan 2013](/posts/solar-uvb-reduces-cancer-risk-grant)
 
 * [Interview with transcript concerning UVA, UVB, and health – Grant Dec 2012](/posts/interview-with-transcript-concerning-uva-uvb-and-health-grant)
 
-* <a href="/posts/2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2200X more problems from no UVB than too much UVB - WHO 2006">2200X more problems from no UVB than too much UVB - WHO 2006</a>
+* [2200X more problems from no UVB than too much UVB - WHO 2006](/posts/2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006)
 
-* <a href="/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis of cause and effect of vitamin D deficiency">Hypothesis of cause and effect of vitamin D deficiency</a> which has the following chart
+* [Hypothesis of cause and effect of vitamin D deficiency](/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a> 
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d) 
 
  **Note how MS has increased in the South as there were fewer farmers and everyone could avoid the sun** 
 

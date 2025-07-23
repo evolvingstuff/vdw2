@@ -71,7 +71,7 @@ PMID:     23743453   **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"><
 
 * [Prevention of vitamin D deficiency in mothers and infants worldwide - a paradigm shift. – Feb 2012](/posts/prevention-of-vitamin-d-deficiency-in-mothers-and-infants-worldwide-a-paradigm-shift)
 
-* <a href="/posts/osteopenia-in-preterm-infants" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteopenia in preterm infants – May 2012">Osteopenia in preterm infants – May 2012</a>
+* [Osteopenia in preterm infants – May 2012](/posts/osteopenia-in-preterm-infants)
 
 * [Low vitamin D increased probability of low birth weight by 60 percent – meta-analysis June 2012](/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis)
 
@@ -79,17 +79,17 @@ PMID:     23743453   **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"><
 
 > VitaminDWiki suspects this is due to decreasing levels of vitamin D around the world
 
-* <a href="/posts/low-birth-weight-3x-more-likely-if-mother-had-less-than-25-nanograms-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low birth weight 3X more likely if mother had less than 25 nanograms of vitamin D – May 2012">Low birth weight 3X more likely if mother had less than 25 nanograms of vitamin D – May 2012</a> low birth weight is not mentioned in the main study on this page
+* [Low birth weight 3X more likely if mother had less than 25 nanograms of vitamin D – May 2012](/posts/low-birth-weight-3x-more-likely-if-mother-had-less-than-25-nanograms-of-vitamin-d) low birth weight is not mentioned in the main study on this page
 
-* <a href="/posts/in-defence-of-the-sun-reduce-400000-premature-deaths-2009" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: In Defence of the Sun – reduce 400000 premature deaths – 2009">In Defence of the Sun – reduce 400000 premature deaths – 2009</a> Dr. Grant
+* [In Defence of the Sun – reduce 400000 premature deaths – 2009](/posts/in-defence-of-the-sun-reduce-400000-premature-deaths-2009) Dr. Grant
 
-* <a href="/posts/why-higher-levels-of-vitamin-d-reduces-premature-birth" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Why higher levels of vitamin D reduces premature birth - April 2011">Why higher levels of vitamin D reduces premature birth - April 2011</a> Dr. Grant 
+* [Why higher levels of vitamin D reduces premature birth - April 2011](/posts/why-higher-levels-of-vitamin-d-reduces-premature-birth) Dr. Grant 
 
-* <a href="/posts/premature-or-low-birth-weight-resulted-in-children-3x-more-likely-to-be-anxious-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Premature or low birth weight resulted in children 3X more likely to be anxious – meta-analysis May 2011">Premature or low birth weight resulted in children 3X more likely to be anxious – meta-analysis May 2011</a>
+* [Premature or low birth weight resulted in children 3X more likely to be anxious – meta-analysis May 2011](/posts/premature-or-low-birth-weight-resulted-in-children-3x-more-likely-to-be-anxious-meta-analysis)
 
-* <a href="/posts/having-twins-takes-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Having twins takes more vitamin D - May 2011">Having twins takes more vitamin D - May 2011</a>
+* [Having twins takes more vitamin D - May 2011](/posts/having-twins-takes-more-vitamin-d)
 
-* <a href="/posts/premature-delivery-associated-with-low-vitamin-d-in-japanese-women" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Premature delivery associated with low vitamin D in Japanese women – Mar 2011">Premature delivery associated with low vitamin D in Japanese women – Mar 2011</a>
+* [Premature delivery associated with low vitamin D in Japanese women – Mar 2011](/posts/premature-delivery-associated-with-low-vitamin-d-in-japanese-women)
 
 * [Most European infants get vitamin D supplements, vs only 1 in 50 in US – June 2013](/posts/most-european-infants-get-vitamin-d-supplements-vs-only-1-in-50-in-us)
 
@@ -97,7 +97,7 @@ PMID:     23743453   **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"><
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a> which has the following graphics
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies) which has the following graphics
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/cdc-pregnant-less-than-20-ng.gif" alt="image" style="max-width: 300px;">
 

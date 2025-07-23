@@ -244,7 +244,7 @@ Due to the frequent intolerance of oral iron and the slow improvement, parentera
 
 ---
 
-#### <a href="/posts/090click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3770">__~~#090:Click here</a> for more on HIP Iron at VitaminDWiki~~__
+#### [__~~#090:Click here](/tags/090click-here.html) for more on HIP Iron at VitaminDWiki~~__
 
 ---
 

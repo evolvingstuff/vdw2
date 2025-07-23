@@ -52,4 +52,4 @@ Dermatoendocrinol. 2012;4(2): 203M11.
 
 * [Vitamin D and Cancer – Special issue Jan 2013](/posts/vitamin-d-and-cancer-special-issue)
 
-* <a href="/posts/indoor-workers-have-lower-vitamin-d-levels-than-outdoor-workers-unless-lead-smelter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Indoor workers have lower vitamin D levels than outdoor workers, unless lead smelter – June 2017">Indoor workers have lower vitamin D levels than outdoor workers, unless lead smelter – June 2017</a>
+* [Indoor workers have lower vitamin D levels than outdoor workers, unless lead smelter – June 2017](/posts/indoor-workers-have-lower-vitamin-d-levels-than-outdoor-workers-unless-lead-smelter)

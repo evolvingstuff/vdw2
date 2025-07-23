@@ -40,15 +40,15 @@ Korea and WHO, for example both recommend only 200 IU of vitamin D
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d) Disagreement in the rest of the world. Is > 20 ng enough to prevent rickets, or is > 30 ng needed.
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [South Asians in UK get little vitamin D from 45 minutes of daily summer sun – RCT April 2013](/posts/south-asians-in-uk-get-little-vitamin-d-from-45-minutes-of-daily-summer-sun-rct) The UK seems to also totally ignore the needs of dark skin residents
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a> has the following notional graph
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough) has the following notional graph
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
-* <a href="/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2533">Percent of population with less than 20 ng of vitamin D</a> has the following graph
+* [Percent of population with less than 20 ng of vitamin D](/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d) has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

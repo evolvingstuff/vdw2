@@ -48,7 +48,7 @@ Often, such as several times on the page, the two terms are incorrectly used int
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/vitamin-d-and-folate-fortification-of-foods" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Folate fortification of foods - April 2012">Vitamin D and Folate fortification of foods - April 2012</a>
+* [Vitamin D and Folate fortification of foods - April 2012](/posts/vitamin-d-and-folate-fortification-of-foods)
 
 * [Folic acid reduces both premature births and neural tube defects – March 2017](/posts/folic-acid-reduces-both-premature-births-and-neural-tube-defects)
 
@@ -56,7 +56,7 @@ Often, such as several times on the page, the two terms are incorrectly used int
 
 > " It seems that at least 10% of the population has the MTHFR polymorphism . . . "
 
-* <a href="/posts/off-topic-folate-can-be-produced-by-micro-organisms-can-avoid-synthetic-folic-acid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic – Folate can be produced by micro-organisms, can avoid synthetic Folic Acid – Aug 2018">Off topic – Folate can be produced by micro-organisms, can avoid synthetic Folic Acid – Aug 2018</a>
+* [Off topic – Folate can be produced by micro-organisms, can avoid synthetic Folic Acid – Aug 2018](/posts/off-topic-folate-can-be-produced-by-micro-organisms-can-avoid-synthetic-folic-acid)
 
 > "Fortification of our cereal with folic acid may have exacerbated the situation and is causing more chronic disease"
 
@@ -64,7 +64,7 @@ Often, such as several times on the page, the two terms are incorrectly used int
 
 * [Autism and vitamin D evidence - Cannell Feb 2016](/posts/autism-and-vitamin-d-evidence-cannell)
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
 </div>
 

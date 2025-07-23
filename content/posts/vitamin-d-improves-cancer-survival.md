@@ -57,10 +57,10 @@ PMID:     24202453
 
 ## See also VitaminDWiki
 
-* <a href="/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012">85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012</a>
+* [85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012](/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng)
 
-* <a href="/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011">Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011</a>
+* [Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011](/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d)
 
-* <a href="/posts/vitamin-d-appears-to-both-prevent-and-treat-various-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D appears to both prevent and treat various cancers – Mar 2011">Vitamin D appears to both prevent and treat various cancers – Mar 2011</a>
+* [Vitamin D appears to both prevent and treat various cancers – Mar 2011](/posts/vitamin-d-appears-to-both-prevent-and-treat-various-cancers)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)

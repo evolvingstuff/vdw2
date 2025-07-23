@@ -64,6 +64,6 @@ PMID:     23407306
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> 
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d) 
 
 * [Insulin resistance helped with 50000 IU of vitamin D weekly – Feb 2013](/posts/insulin-resistance-helped-with-50000-iu-of-vitamin-d-weekly)

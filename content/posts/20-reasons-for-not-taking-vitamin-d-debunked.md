@@ -34,11 +34,11 @@
 
 1.  **Think that a [doctor's approval](/posts/would-you-be-opposed-to-my-getting-more-vitamin-d) is required** 
 
-   * <a href="/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4,000 IU of Vitamin D is OK - 19 organizations agree - 2018">19 organizations agree 4,000 IU daily is OK</a> and 6 say up to 10,000 IU daily  is OK
+   * [19 organizations agree 4,000 IU daily is OK](/posts/4000-iu-of-vitamin-d-is-ok-19-organizations-agree-2018) and 6 say up to 10,000 IU daily  is OK
 
-   * <a href="/posts/50000-iu-vitamin-d-weekly-is-often-recommended" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50,000 IU Vitamin D weekly is often recommended">50,000 IU Vitamin D weekly is often recommended</a> 18+ sellers on Amazon recommend weekly
+   * [50,000 IU Vitamin D weekly is often recommended](/posts/50000-iu-vitamin-d-weekly-is-often-recommended) 18+ sellers on Amazon recommend weekly
 
-1.  **Need a <a href="/posts/tests-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tests for Vitamin D">Vitamin D test</a>**  (fear of needles, hassle, and cost) 
+1.  **Need a [Vitamin D test](/tags/vitamin-d-test.html)**  (fear of needles, hassle, and cost) 
 
    * Note: Testing is rarely needed,  but if you want it, an in-home test costs about $50
 
@@ -46,7 +46,7 @@
 
    * Incorrectly believe that >4,000 IU of Vitamin D is toxic
 
-   * Vitamin D has lower <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">toxicity</a> than water, ZERO deaths from Vitamin D supplementation in 10+ years
+   * Vitamin D has lower [toxicity](/posts/overview-toxicity-of-vitamin-d) than water, ZERO deaths from Vitamin D supplementation in 10+ years
 
 1.  **Fear long-term consequences**  - to self, fetus, child
 
@@ -58,7 +58,7 @@
 
    * Can break open a  capsule and add the powder to drink/food
 
-   * Can use liquid, [spray](/posts/vitamin-d-sprayed-inside-cheeks-buccal-spray-several-studies), <a href="/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Topical Vitamin D provides more benefits than oral sometimes - many studies">topical</a> forms
+   * Can use liquid, [spray](/posts/vitamin-d-sprayed-inside-cheeks-buccal-spray-several-studies), [topical](/posts/topical-vitamin-d-provides-more-benefits-than-oral-sometimes-many-studies) forms
 
 1.  **Worry about forgetting to take a pill** 
 
@@ -80,11 +80,11 @@
 
 1.  **Might have to modify current drugs/supplements**  typically none: possible exceptions:
 
-   * Reduce <a href="/posts/calcium-hazards-and-bioavailability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium hazards and bioavailability">Calcium</a> or take a Calcium made from algae, such as  [1](https://www.amazon.com/NOW-Red-Mineral-Algae-Capsules/dp/B001GZWHIQ/ref=sr_1_2?crid=3M9FBJ0J1ESG8&keywords=Red+Mineral+Algae&qid=1702480951&sprefix=red+mineral+algae%2Caps%2C166&sr=8-2) [2](https://www.amazon.com/Capsules-Vegetarian-Supplement-Non-GMO-Carlyle/dp/B09H654TDV/ref=sr_1_3?crid=3M9FBJ0J1ESG8&keywords=Red+Mineral+Algae&qid=1702480951&sprefix=red+mineral+algae%2Caps%2C166&sr=8-3) [3](https://www.amazon.com/Mineral-Vegetarian-Capsules-Piping-Rock/dp/B0B324K9KL/ref=sr_1_6?crid=3M9FBJ0J1ESG8&keywords=Red+Mineral+Algae&qid=1702480951&sprefix=red+mineral+algae%2Caps%2C166&sr=8-6) [4](https://www.amazon.com/Swanson-Aquamin-Sea-Minerals-Capsules/dp/B004Y46MVE/ref=sr_1_8?crid=3M9FBJ0J1ESG8&keywords=Red%2BMineral%2BAlgae&qid=1702480951&sprefix=red%2Bmineral%2Balgae%2Caps%2C166&sr=8-8&th=1)
+   * Reduce [Calcium](/posts/calcium-hazards-and-bioavailability) or take a Calcium made from algae, such as  [1](https://www.amazon.com/NOW-Red-Mineral-Algae-Capsules/dp/B001GZWHIQ/ref=sr_1_2?crid=3M9FBJ0J1ESG8&keywords=Red+Mineral+Algae&qid=1702480951&sprefix=red+mineral+algae%2Caps%2C166&sr=8-2) [2](https://www.amazon.com/Capsules-Vegetarian-Supplement-Non-GMO-Carlyle/dp/B09H654TDV/ref=sr_1_3?crid=3M9FBJ0J1ESG8&keywords=Red+Mineral+Algae&qid=1702480951&sprefix=red+mineral+algae%2Caps%2C166&sr=8-3) [3](https://www.amazon.com/Mineral-Vegetarian-Capsules-Piping-Rock/dp/B0B324K9KL/ref=sr_1_6?crid=3M9FBJ0J1ESG8&keywords=Red+Mineral+Algae&qid=1702480951&sprefix=red+mineral+algae%2Caps%2C166&sr=8-6) [4](https://www.amazon.com/Swanson-Aquamin-Sea-Minerals-Capsules/dp/B004Y46MVE/ref=sr_1_8?crid=3M9FBJ0J1ESG8&keywords=Red%2BMineral%2BAlgae&qid=1702480951&sprefix=red%2Bmineral%2Balgae%2Caps%2C166&sr=8-8&th=1)
 
-   * <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy</a> - enhances effects of some chemo drugs, so you MUST check with the doctor before taking Vitamin D
+   * [Chemotherapy](/posts/chemotherapy-and-vitamin-d-many-studies) - enhances effects of some chemo drugs, so you MUST check with the doctor before taking Vitamin D
 
-   * <a href="/posts/a-few-prescriptions-increase-in-potency-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 10084">A few prescriptions increase in potency with Vitamin D</a>
+   * [A few prescriptions increase in potency with Vitamin D](/tags/a-few-prescriptions-increase-in-potency-with-vitamin-d.html)
 
 1.  **Have to know enough about Vitamin D to be able to justify supplementation to family/friends**  
 
@@ -106,7 +106,7 @@
 
 1.  **Have an adverse reaction to Vitamin D** 
 
-   * <a href="/posts/rare-adverse-reaction-3-in-1000-to-lots-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 6281">Rare adverse reaction (3 in 1,000) to lots of Vitamin D</a> is often due to lack of magnesium
+   * [Rare adverse reaction (3 in 1,000) to lots of Vitamin D](/tags/rare-adverse-reaction-3-in-1000-to-lots-of-vitamin-d.html) is often due to lack of magnesium
 
    * Adverse reactions to D are far less common than reactions to gluten, lactose, peanut butter, iron  etc.
 
@@ -114,9 +114,9 @@
 
 1.  **Unsure if Vitamin D will help, and not want to wait for months to find out** 
 
-   * Take a <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">loading dose</a> and see results in as little as a week
+   * Take a [loading dose](/posts/overview-loading-of-vitamin-d) and see results in as little as a week
 
-   * <a href="/posts/treating-vitamin-d-deficiency-in-senior-women-such-as-50000-iu-daily-for-15-days--a-month-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Treating Vitamin D deficiency in senior women – such as 50,000 IU daily for 15 days then twice a month – Review April 2019">50,0000 IU daily</a> for a week is a typical loading dose
+   * [50,0000 IU daily](/posts/treating-vitamin-d-deficiency-in-senior-women-such-as-50000-iu-daily-for-15-days--a-month-review) for a week is a typical loading dose
 
 1.  **Believe that food (still) has the right nutrients needed for health** 
 

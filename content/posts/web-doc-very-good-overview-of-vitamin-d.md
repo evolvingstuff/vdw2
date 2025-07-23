@@ -1,0 +1,909 @@
+{
+    "title": "Web Doc - very good overview of Vitamin D",
+    "slug": "web-doc-very-good-overview-of-vitamin-d",
+    "aliases": [
+        "/Web+Doc+-+very+good+overview+of+Vitamin+D",
+        "/502"
+    ],
+    "tiki_page_id": 502,
+    "date": "2010-07-01",
+    "categories": [
+        "Overview for doctors"
+    ],
+    "tags": [
+        "CKD",
+        "IBD",
+        "Overview for doctors",
+        "SAD",
+        "antibiotics",
+        "autoimmune",
+        "autoimmune and pregnancy",
+        "bacteria",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "brain",
+        "breast cancer",
+        "breastfed",
+        "breathing",
+        "cancer",
+        "cancer in VDR",
+        "cardiovascular",
+        "child",
+        "childhood cancer",
+        "childhood obesity",
+        "childhood pneumonia",
+        "childhood viruses",
+        "cholesterol",
+        "chronic pain",
+        "cognitive",
+        "colon cancer",
+        "depression",
+        "depression and pregnancy",
+        "dermatology",
+        "diabetes",
+        "diabetes and vitamin d receptor",
+        "dialysis",
+        "dosage",
+        "falls fractures",
+        "genetics",
+        "gut",
+        "health risk",
+        "heart failure",
+        "hemodialysis",
+        "high dose",
+        "hypertension",
+        "immunity",
+        "influenza",
+        "intervention",
+        "kidney",
+        "leukemia",
+        "life span",
+        "lung cancer",
+        "lupus",
+        "melanoma",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "mood disorders",
+        "mortality",
+        "multiple sclerosis",
+        "multiple sclerosis and pregnancy",
+        "obesity",
+        "obesity and cancer",
+        "obesity and vitamin d receptor",
+        "osteoporosis",
+        "ovarian cancer",
+        "pain",
+        "pediatric autoimmune",
+        "pneumonia",
+        "pregnancy",
+        "prostate cancer",
+        "psoriasis",
+        "rheumatoid arthritis",
+        "rickets",
+        "skin cancer",
+        "smoking",
+        "stroke",
+        "stroke and depression",
+        "therapeutic intervention",
+        "transplant",
+        "trauma surgery",
+        "tuberculosis",
+        "ultraviolet light",
+        "virus",
+        "virus and cardiovascular",
+        "virus and cognitive",
+        "virus and obesity",
+        "viruses and pregnancy",
+        "viruses and vitamin d receptor",
+        "vitamin d",
+        "vitamin d and viruses",
+        "vitamin d binding",
+        "vitamin d blood test",
+        "vitamin d receptor"
+    ]
+}
+
+
+<h1 class="firstHeading"><a href="http://www.wikidoc.org/index.php/Vitamin_D">www.wikidoc.org/index.php/Vitamin_D</a>  July 2010<br />
+
+Vitamin D</h1>
+
+<h3>You don't need to be Editor-In-Chief to add or edit  content to WikiDoc. You can begin to add to or edit text on this WikiDoc  page by clicking on the edit button at the top of this page. Next enter  or edit the information that you would like to appear here. Once you  are done editing, scroll down and click the Save page button at the  bottom of the page.</h3>
+
+<div>Jump to: <a href="http://www.wikidoc.org/index.php/Vitamin_D#column-one">navigation</a>,  <a href="http://www.wikidoc.org/index.php/Vitamin_D#searchInput">search</a></div>
+
+<table class="infobox bordered" style="width:15em;text-align:left;font-size:90%;background:none repeat scroll 0% 0%;"><tbody><tr><td colspan="1" style="text-align:center;background:none repeat scroll 0% 0%;">
+
+<p><b>Wiki<i>Doc</i> Resources for</b></p>
+
+<p><b>Vitamin D</b></p>
+
+</td>
+
+</tr><tr><th>
+
+<p>Articles</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&db=pubmed&term=Vitamin+D" class="external text" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&db=pubmed&term=Vitamin+D">Most recent articles on Vitamin D</a> </small></p>
+
+<p><small><a href="http://scholar.google.com/scholar?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N&tab=ps" class="external text" title="http://scholar.google.com/scholar?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N&tab=ps">Most cited articles on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=Vitamin+D%20AND%20systematic%5Bsb%5D" class="external text" title="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=Vitamin+D%20AND%20systematic%5Bsb%5D">Review articles on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pubmed&term=Vitamin+D+AND+%28%28N+Engl+J+Med%5Bta%5D%29+OR+%28Lancet%5Bta%5D%29+OR+%28BMJ%5Bta%5D%29%29" class="external text" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pubmed&term=Vitamin+D+AND+%28%28N+Engl+J+Med%5Bta%5D%29+OR+%28Lancet%5Bta%5D%29+OR+%28BMJ%5Bta%5D%29%29">Articles on Vitamin D in N Eng J Med, Lancet, BMJ</a> </small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Media</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.google.com/search?q=Vitamin+D+ppt&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a" class="external text" title="http://www.google.com/search?q=Vitamin+D+ppt&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a">Powerpoint slides on Vitamin D</a> </small></p>
+
+<p><small><a href="http://images.google.com/images?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wi" class="external text" title="http://images.google.com/images?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wi">Images of Vitamin D</a> </small></p>
+
+<p><small><a href="http://picasaweb.google.com/lh/searchbrowse?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wq#2+1" class="external text" title="http://picasaweb.google.com/lh/searchbrowse?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wq#2+1">Photos of Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=hPo&q=Vitamin+D+podcasts+OR+MP3&btnG=Search" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=hPo&q=Vitamin+D+podcasts+OR+MP3&btnG=Search">Podcasts & MP3s on Vitamin D</a> </small></p>
+
+<p><small><a href="http://video.google.com/videosearch?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&um=1&sa=N&tab=fv#" class="external text" title="http://video.google.com/videosearch?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&um=1&sa=N&tab=fv#">Videos on Vitamin D</a></small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Evidence Based Medicine</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pubmed&term=%28Vitamin+D%29+AND+%28Cochrane+Database+Syst+Rev%5Bta%5D%29" class="external text" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pubmed&term=%28Vitamin+D%29+AND+%28Cochrane+Database+Syst+Rev%5Bta%5D%29">Cochrane Collaboration on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.jr2.ox.ac.uk/cgi-bin/htsearch?config=bando&restrict=&exclude=&method=and&format=builtin-long&sort=score&words=Vitamin+D" class="external text" title="http://www.jr2.ox.ac.uk/cgi-bin/htsearch?config=bando&restrict=&exclude=&method=and&format=builtin-long&sort=score&words=Vitamin+D">Bandolier on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.tripdatabase.com/SearchResults.html?s=1&criteria=Vitamin+D&btnG=Search" class="external text" title="http://www.tripdatabase.com/SearchResults.html?s=1&criteria=Vitamin+D&btnG=Search">TRIP on Vitamin D</a> </small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Clinical Trials</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://clinicaltrials.gov/search/open/condition=Vitamin+D" class="external text" title="http://clinicaltrials.gov/search/open/condition=Vitamin+D">Ongoing Trials on Vitamin D at Clinical Trials.gov</a> </small></p>
+
+<p><small><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pubmed&term=Vitamin+D+AND+%28randomized+controlled+trial%5BPublication+Type%5D+OR+%28randomized%5BTitle%2FAbstract%5D+AND+controlled%5BTitle%2FAbstract%5D+AND+trial%5BTitle%2FAbstract%5D%29%29" class="external text" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&db=pubmed&term=Vitamin+D+AND+%28randomized+controlled+trial%5BPublication+Type%5D+OR+%28randomized%5BTitle%2FAbstract%5D+AND+controlled%5BTitle%2FAbstract%5D+AND+trial%5BTitle%2FAbstract%5D%29%29">Trial results on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=9X6&q=Vitamin+D+more:clinical_trials&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col2&cd=3" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=9X6&q=Vitamin+D+more:clinical_trials&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col2&cd=3">Clinical Trials on Vitamin D at Google</a> </small></p>
+
+<p> </p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Guidelines / Policies / Govt</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.guideline.gov/search/searchresults.aspx?Type=3&txtSearch=Vitamin+D&num=20" class="external text" title="http://www.guideline.gov/search/searchresults.aspx?Type=3&txtSearch=Vitamin+D&num=20">US National Guidelines Clearinghouse on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.nice.org.uk/search/guidancesearchresults.jsp?keywords=Vitamin+D&searchType=guidance" class="external text" title="http://www.nice.org.uk/search/guidancesearchresults.jsp?keywords=Vitamin+D&searchType=guidance">NICE Guidance on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.prodigy.nhs.uk/search?&page=1&q=Vitamin+D&site=0" class="external text" title="http://www.prodigy.nhs.uk/search?&page=1&q=Vitamin+D&site=0">NHS PRODIGY Guidance</a> </small></p>
+
+<p><small><a href="http://google2.fda.gov/search?q=Vitamin+D&x=0&y=0&client=FDA&site=FDA&lr=&proxystylesheet=FDA&output=xml_no_dtd&getfields=*" class="external text" title="http://google2.fda.gov/search?q=Vitamin+D&x=0&y=0&client=FDA&site=FDA&lr=&proxystylesheet=FDA&output=xml_no_dtd&getfields=*">FDA on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.cdc.gov/search.do?queryText=Vitamin+D&searchButton.x=33&searchButton.y=6&action=search" class="external text" title="http://www.cdc.gov/search.do?queryText=Vitamin+D&searchButton.x=33&searchButton.y=6&action=search">CDC on Vitamin D</a> </small></p>
+
+<p> </p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Books</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://books.google.com/books?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N&tab=gp" class="external text" title="http://books.google.com/books?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N&tab=gp">Books on Vitamin D</a></small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>News</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://news.google.com/news?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wn" class="external text" title="http://news.google.com/news?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wn">Vitamin D in the news</a> </small></p>
+
+<p><small><a href="http://www.google.com/alerts/create?hl=en&gl=" class="external text" title="http://www.google.com/alerts/create?hl=en&gl=">Be alerted to news on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/trends?q=Vitamin+D" class="external text" title="http://www.google.com/trends?q=Vitamin+D">News trends on Vitamin D</a></small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Commentary</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://blogsearch.google.com/blogsearch?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wb" class="external text" title="http://blogsearch.google.com/blogsearch?q=Vitamin+D&ie=UTF-8&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&sa=N&tab=wb">Blogs on Vitamin D</a></small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Definitions</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.google.com/search?hl=en&q=define+Vitamin+D&btnG=Search" class="external text" title="http://www.google.com/search?hl=en&q=define+Vitamin+D&btnG=Search">Definitions of Vitamin D</a></small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Patient Resources / Community</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.google.com/search?hl=en&q=Vitamin+D+more:for_patients&cx=disease_for_patients&sa=N&oi=cooptsr&resnum=0&ct=col3&cd=1" class="external text" title="http://www.google.com/search?hl=en&q=Vitamin+D+more:for_patients&cx=disease_for_patients&sa=N&oi=cooptsr&resnum=0&ct=col3&cd=1">Patient resources on Vitamin D</a> </small></p>
+
+<p><small><a href="http://groups.google.com/groups/search?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search" class="external text" title="http://groups.google.com/groups/search?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search">Discussion groups on Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&q=Vitamin+D+more:patient_handouts&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col1&cd=3" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&q=Vitamin+D+more:patient_handouts&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col1&cd=3">Patient Handouts on Vitamin D</a> </small></p>
+
+<p><small><a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=Vitamin+D&sll=37.0625,-95.677068&sspn=65.008093,112.148438&ie=UTF8&ll=37.0625,-95.677068&spn=91.690419,149.414063&z=2&source=embed" class="external text" title="http://maps.google.com/maps?f=q&hl=en&geocode=&q=Vitamin+D&sll=37.0625,-95.677068&sspn=65.008093,112.148438&ie=UTF8&ll=37.0625,-95.677068&spn=91.690419,149.414063&z=2&source=embed">Directions to Hospitals Treating Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=QWo&q=Vitamin+D+AND+risk+score+OR+risk+calculator&btnG=Search" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=QWo&q=Vitamin+D+AND+risk+score+OR+risk+calculator&btnG=Search">Risk calculators and risk factors for Vitamin D</a> </small></p>
+
+<p> </p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Healthcare Provider Resources</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.google.com/search?hl=en&q=Vitamin+D+more:condition_symptoms&cx=disease_for_patients&sa=N&oi=coopctx&resnum=0&ct=col1&cd=2" class="external text" title="http://www.google.com/search?hl=en&q=Vitamin+D+more:condition_symptoms&cx=disease_for_patients&sa=N&oi=coopctx&resnum=0&ct=col1&cd=2">Symptoms of Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=qml&q=Vitamin+D+more:causes_risk_factors&cx=disease_for_patients&sa=N&oi=coopctx&resnum=0&ct=col2&cd=1" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=qml&q=Vitamin+D+more:causes_risk_factors&cx=disease_for_patients&sa=N&oi=coopctx&resnum=0&ct=col2&cd=1">Causes & Risk Factors for Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=R7Q&q=Vitamin+D+more:tests_diagnosis&cx=disease_for_patients&sa=N&oi=cooptsr&resnum=0&ct=col2&cd=1" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=R7Q&q=Vitamin+D+more:tests_diagnosis&cx=disease_for_patients&sa=N&oi=cooptsr&resnum=0&ct=col2&cd=1">Diagnostic studies for Vitamin D</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=XX6&q=Vitamin+D+more:condition_treatment&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col1&cd=1" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&hs=XX6&q=Vitamin+D+more:condition_treatment&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col1&cd=1">Treatment of Vitamin D</a> </small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Continuing Medical Education (CME)</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&q=Vitamin+D+more:health_continuing_education&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col3&cd=2" class="external text" title="http://www.google.com/search?hl=en&client=firefox-a&rls=org.mozilla:en-US:official&q=Vitamin+D+more:health_continuing_education&cx=disease_for_health_professionals&sa=N&oi=coopctx&resnum=0&ct=col3&cd=2">CME Programs on Vitamin D</a> </small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>International</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://www.google.com/search?q=Vitamin+D+en+espanol&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a" class="external text" title="http://www.google.com/search?q=Vitamin+D+en+espanol&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a">Vitamin D en Espanol</a> </small></p>
+
+<p><small><a href="http://www.google.com/search?q=Vitamin+D+en+francais&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a" class="external text" title="http://www.google.com/search?q=Vitamin+D+en+francais&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a">Vitamin D en Francais</a> </small></p>
+
+<p> </p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Business</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://finance.google.com/finance?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N&tab=te" class="external text" title="http://finance.google.com/finance?ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N&tab=te">Vitamin D in the Marketplace</a> </small></p>
+
+<p><small><a href="http://www.google.com/patents?tab=st&sa=N&ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N" class="external text" title="http://www.google.com/patents?tab=st&sa=N&ie=UTF-8&oe=utf-8&q=Vitamin+D&qt_s=Search&sa=N">Patents on Vitamin D</a></small></p>
+
+</th>
+
+</tr><tr><th>
+
+<p>Experimental / Informatics</p>
+
+</th>
+
+</tr><tr><th>
+
+<p><small> <a href="http://labs.google.com/sets?hl=en&q1=Vitamin+D&q2=&q3=&q4=&q5=&btn=Large+Set" class="external text" title="http://labs.google.com/sets?hl=en&q1=Vitamin+D&q2=&q3=&q4=&q5=&btn=Large+Set">List of terms related to Vitamin D</a> </small></p>
+
+</th>
+
+<td colspan="1" style="font-size:smaller;"> </td>
+
+</tr></tbody></table><p><b>Editor-In-Chief:</b> <a href="http://www.wikidoc.org/index.php/User:C_Michael_Gibson" title="User:C Michael Gibson">C. Michael Gibson, M.S., M.D.</a> <a href="mailto:mgibson@perfuse.org" class="external autonumber" title="mailto:mgibson@perfuse.org"><sup>[1]</sup></a>  Phone:617-632-7753</p>
+
+<p><b>Assistant Editor in Chief:</b> <a href="http://www.wikidoc.org/index.php/User:Hector_Tamez" title="User:Hector Tamez">Hector Tamez</a> <a href="mailto:tamez.hector@gmail.com" class="external autonumber" title="mailto:tamez.hector@gmail.com"><sup>[2]</sup></a></p>
+
+<p><b>Please Take Over This Page and Apply to be Editor-In-Chief for  this topic:</b>  <small>There can be one or more than one Editor-In-Chief. You may also  apply to be an Associate Editor-In-Chief of one of the subtopics below.  Please mail us <a href="mailto:mgibson@perfuse.org" class="external autonumber" title="mailto:mgibson@perfuse.org"><sup>[3]</sup></a> to  indicate your interest in serving either as an Editor-In-Chief of the  entire topic or as an Associate Editor-In-Chief for a subtopic. Please  be sure to attach your CV and or biographical sketch. </small></p>
+
+<a></a>
+
+<h2><span class="mw-headline">Overview</span></h2>
+
+<p><b>Vitamin D</b> is a group of fat-soluble <a href="http://www.wikidoc.org/index.php/Prohormones" class="mw-redirect" title="Prohormones">prohormones</a>, the two major forms of which are  vitamin D<sub>2</sub> (or <a href="http://www.wikidoc.org/index.php/Ergocalciferol" title="Ergocalciferol">ergocalciferol</a>) and vitamin D<sub>3</sub> (or  <a href="http://www.wikidoc.org/index.php/Cholecalciferol" title="Cholecalciferol">cholecalciferol</a>).<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-FactD" title=""><sup>[1]</sup></a></sup>  The term vitamin D also refers to <a href="http://www.wikidoc.org/index.php/Metabolite" title="Metabolite">metabolites</a>  and other analogues of these substances. Vitamin D<sub>3</sub> is  produced in skin exposed to sunlight, specifically <a href="http://www.wikidoc.org/index.php/Ultraviolet" title="Ultraviolet">ultraviolet</a>  B radiation.</p>
+
+<p>Vitamin D plays an important role in the maintenance of <a href="http://www.wikidoc.org/index.php/Organ_%28anatomy%29" title="Organ (anatomy)">organ</a> systems.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup></p>
+
+<ul><li>Vitamin D regulates the <a href="http://www.wikidoc.org/index.php/Calcium" title="Calcium">calcium</a>  and <a href="http://www.wikidoc.org/index.php/Phosphorus" title="Phosphorus">phosphorus</a> levels in the <a href="http://www.wikidoc.org/index.php/Blood" title="Blood">blood</a> by  promoting their absorption from food in the <a href="http://www.wikidoc.org/index.php/Intestines" class="mw-redirect" title="Intestines">intestines</a>, and by promoting re-absorption of  calcium in the <a href="http://www.wikidoc.org/index.php/Kidney" title="Kidney">kidneys</a>.</li>
+
+<li>It promotes <a href="http://www.wikidoc.org/index.php/Bone" title="Bone">bone</a> formation and <a href="http://www.wikidoc.org/index.php/Mineralization" class="mw-redirect" title="Mineralization">mineralization</a> and is  essential in the development of an intact and strong <a href="http://www.wikidoc.org/index.php/Skeleton" title="Skeleton">skeleton</a>.</li>
+
+<li>It inhibits <a href="http://www.wikidoc.org/index.php/Parathyroid_hormone" title="Parathyroid hormone">parathyroid hormone</a> secretion from the <a href="http://www.wikidoc.org/index.php/Parathyroid" class="mw-redirect" title="Parathyroid">parathyroid</a> gland.</li>
+
+<li>Vitamin D affects the <a href="http://www.wikidoc.org/index.php/Immune_system" title="Immune     system">immune system</a> by promoting <a href="http://www.wikidoc.org/index.php/Immunosuppression" title="Immunosuppression">immunosuppression</a>, <a href="http://www.wikidoc.org/index.php/Phagocytosis" title="Phagocytosis">phagocytosis</a>, and anti-tumor activity.</li>
+
+</ul><p>Vitamin D deficiency can result from inadequate intake coupled with  inadequate sunlight exposure, disorders that limit its absorption,  conditions that impair conversion of vitamin D into active <a href="http://www.wikidoc.org/index.php/Metabolite" title="Metabolite">metabolites</a>,  such as <a href="http://www.wikidoc.org/index.php/Liver" title="Liver">liver</a>  or kidney disorders, or, rarely, by a number of hereditary disorders.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup>  Deficiency results in impaired bone mineralization, and leads to bone  softening diseases, <a href="http://www.wikidoc.org/index.php/Rickets" title="Rickets">rickets</a> in children and <a href="http://www.wikidoc.org/index.php/Osteomalacia" title="Osteomalacia">osteomalacia</a> in adults, and possibly  contributes to <a href="http://www.wikidoc.org/index.php/Osteoporosis" title="Osteoporosis">osteoporosis</a>. Vitamin D deficiency may also be  linked to many forms of cancer.</p>
+
+<a></a>
+
+<h2><span class="mw-headline">Forms</span></h2>
+
+<p>Several forms of vitamin D have been described. The two major forms  are vitamin D<sub>2</sub> or <a href="http://www.wikidoc.org/index.php/Ergocalciferol" title="Ergocalciferol">ergocalciferol</a>, and vitamin D<sub>3</sub> or <a href="http://www.wikidoc.org/index.php/Cholecalciferol" title="Cholecalciferol">cholecalciferol</a>.</p>
+
+<ul><li><b>Vitamin D<sub>1</sub></b>: molecular compound of <a href="http://www.wikidoc.org/index.php/Ergocalciferol" title="Ergocalciferol">ergocalciferol</a> with <a href="http://www.wikidoc.org/index.php/Lumisterol" title="Lumisterol">lumisterol</a>,  1:1</li>
+
+<li><b>Vitamin D<sub>2</sub></b>: <a href="http://www.wikidoc.org/index.php/Ergocalciferol" title="Ergocalciferol">ergocalciferol</a> or <a href="http://www.wikidoc.org/index.php/Calciferol" class="mw-redirect" title="Calciferol">calciferol</a> (made from <a href="http://www.wikidoc.org/index.php/Ergosterol" title="Ergosterol">ergosterol</a>)</li>
+
+<li><b>Vitamin D<sub>3</sub></b>: <a href="http://www.wikidoc.org/index.php/Cholecalciferol" title="Cholecalciferol">cholecalciferol</a> (made from <a href="http://www.wikidoc.org/index.php/7-dehydrocholesterol" class="mw-redirect" title="7-dehydrocholesterol">7-dehydrocholesterol</a>  in the skin).</li>
+
+<li><b>Vitamin D<sub>4</sub></b>: 22-dihydroergocalciferol</li>
+
+<li><b>Vitamin D<sub>5</sub></b>: sitocalciferol (made from <a href="http://www.wikidoc.org/index.php/7-dehydrositosterol" class="mw-redirect" title="7-dehydrositosterol">7-dehydrositosterol</a>)</li>
+
+</ul><div class="center">
+
+<div class="thumb tnone">
+
+<div class="thumbinner" style="width:182px;"><a href="http://www.wikidoc.org/index.php/Image:Cholecalciferol.svg" class="image" title="Cholecalciferol (D3)"><img src="http://www.wikidoc.org/images/thumb/7/79/Cholecalciferol.svg/180px-Cholecalciferol.svg.png" alt="Cholecalciferol" width="180" height="193"></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="http://www.wikidoc.org/index.php/Image:Cholecalciferol.svg" class="internal" title="Enlarge"><img src="http://www.wikidoc.org/skins/common/images/magnify-clip.png" alt="image" width="15" height="11"></a></div>
+
+<a href="http://www.wikidoc.org/index.php/Cholecalciferol" title="Cholecalciferol">Cholecalciferol</a> (D<sub>3</sub>)</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p>Chemically, the various forms of vitamin D are <a href="http://www.wikidoc.org/index.php/Secosteroids" class="mw-redirect" title="Secosteroids">secosteroids</a>; i.e. broken-open <a href="http://www.wikidoc.org/index.php/Steroid" title="Steroid">steroids</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-River" title=""><sup>[3]</sup></a></sup>  The structural difference between vitamin D<sub>2</sub> and vitamin D<sub>3</sub>  is in their <a href="http://www.wikidoc.org/index.php/Side_chain" title="Side chain">side chains</a>. The side chain of D<sub>2</sub>  contains a double bond between carbons 22 and 23, and a methyl group on  carbon 24.</p>
+
+<div class="center">
+
+<div class="thumb tnone">
+
+<div class="thumbinner" style="width:182px;"><a href="http://www.wikidoc.org/index.php/Image:Ergocalciferol.svg" class="image" title="Ergocalciferol (D2). Note double bond at top center."><img src="http://www.wikidoc.org/images/thumb/5/5f/Ergocalciferol.svg/180px-Ergocalciferol.svg" alt="Ergocalciferol" width="180" height="193"></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="http://www.wikidoc.org/index.php/Image:Ergocalciferol.svg" class="internal" title="Enlarge"><img src="http://www.wikidoc.org/skins/common/images/magnify-clip.png" alt="image" width="15" height="11"></a></div>
+
+<a href="http://www.wikidoc.org/index.php/Ergocalciferol" title="Ergocalciferol">Ergocalciferol</a> (D<sub>2</sub>). Note <a href="http://www.wikidoc.org/index.php/Double_bond" class="mw-redirect" title="Double bond">double bond</a> at top center.</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p>Vitamin D<sub>2</sub> is derived from <a href="http://www.wikidoc.org/index.php/Fungal" class="mw-redirect" title="Fungal">fungal</a> and plant sources, and is not produced by the  human body. Vitamin D<sub>3</sub> is derived from animal sources and is  made in the skin when <a href="http://www.wikidoc.org/index.php/7-dehydrocholesterol" class="mw-redirect" title="7-dehydrocholesterol">7-dehydrocholesterol</a>  reacts with UVB <a href="http://www.wikidoc.org/index.php/Ultraviolet_light" class="mw-redirect" title="Ultraviolet light">ultraviolet light</a> at  wavelengths between 270–290 nm.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Norman" title=""><sup>[4]</sup></a></sup>  These wavelengths are present in sunlight at sea level when the sun is  more than 45° above the horizon, or when the <a href="http://www.wikidoc.org/index.php/UV_index" class="mw-redirect" title="UV index">UV index</a> is greater than 3.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-UVB" title=""><sup>[5]</sup></a></sup>   At this solar elevation, which occurs daily within the tropics, daily  during the spring and summer seasons in temperate regions, and almost  never within the arctic circles, adequate amounts of vitamin D<sub>3</sub>  can be made in the skin only after ten to fifteen minutes of sun  exposure at least two times per week to the face, arms, hands, or back  without sunscreen. With longer exposure to UVB rays, an equilibrium is  achieved in the skin, and the vitamin simply degrades as fast as it is  generated.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-FactD" title=""><sup>[1]</sup></a></sup></p>
+
+<div class="center">
+
+<div class="thumb tnone">
+
+<div class="thumbinner" style="width:302px;"><a href="http://www.wikidoc.org/index.php/Image:Cholecalciferol-3d.png" class="image" title="Cholecalciferol (D3)"><img src="http://www.wikidoc.org/images/thumb/3/3d/Cholecalciferol-3d.png/300px-Cholecalciferol-3d.png" alt="Cholecalciferol" width="300" height="342"></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="http://www.wikidoc.org/index.php/Image:Cholecalciferol-3d.png" class="internal" title="Enlarge"><img src="http://www.wikidoc.org/skins/common/images/magnify-clip.png" alt="image" width="15" height="11"></a></div>
+
+<a href="http://www.wikidoc.org/index.php/Cholecalciferol" title="Cholecalciferol">Cholecalciferol</a> (D<sub>3</sub>)</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p>In most mammals, including humans, D<sub>3</sub> is more effective  than D<sub>2</sub> at increasing the levels of vitamin D hormone in  circulation; D<sub>3</sub> is at least 3-fold, and likely closer to  10-fold, more potent than D<sub>2</sub>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-0" title=""><sup>[6]</sup></a></sup>  However, in some species, such as rats, vitamin D<sub>2</sub> is more  effective than D<sub>3</sub>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-1" title=""><sup>[7]</sup></a></sup>  Both vitamin D<sub>2</sub> and D<sub>3</sub> are used for human  nutritional supplementation, and <a href="http://www.wikidoc.org/index.php/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">pharmaceutical</a> forms  include <a href="http://www.wikidoc.org/index.php/Calcitriol" title="Calcitriol">calcitriol</a> (1alpha, 25-dihydroxycholecalciferol),  doxercalciferol and <a href="http://www.wikidoc.org/index.php/Calcipotriene" class="mw-redirect" title="Calcipotriene">calcipotriene</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PDR" title=""><sup>[8]</sup></a></sup></p>
+
+<div class="center">
+
+<div class="thumb tnone">
+
+<div class="thumbinner" style="width:302px;"><a href="http://www.wikidoc.org/index.php/Image:Calcitriol.png" class="image" title="Calcitriol (1,25-dihydroxycholecalciferol). Active form. Note extra OH groups at upper right and lower left."><img src="http://www.wikidoc.org/images/thumb/9/92/Calcitriol.png/300px-Calcitriol.png" alt="Calcitriol" width="300" height="239"></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="http://www.wikidoc.org/index.php/Image:Calcitriol.png" class="internal" title="Enlarge"><img src="http://www.wikidoc.org/skins/common/images/magnify-clip.png" alt="image" width="15" height="11"></a></div>
+
+<a href="http://www.wikidoc.org/index.php/Calcitriol" title="Calcitriol">Calcitriol</a>  (1,25-dihydroxycholecalciferol). Active form. Note extra OH groups at  upper right and lower left.</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p>Some forms of activated vitamin D like calcitriol, that are commonly  used in the chronic kidney disease population, can cause increase  absorption of calcium and phosphorus in the gut leading to high serum  levels. Some companies modified the structures of the side-chain  decreasing the gut effect and maintaining the effect in the parathyroid  gland.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid10633464" title=""><sup>[9]</sup></a></sup> These group of compounds includes paricalcitol  and the one named after Hector DeLuca, hectorol.</p>
+
+<a></a>
+
+<h2><span class="mw-headline">Biochemistry</span></h2>
+
+<p>Vitamin D is a prohormone, that is, it has no hormone activity  itself, but is converted to a hormone 1,25-D which does, through a  tightly regulated synthesis mechanism.</p>
+
+<a></a>
+
+<h3><span class="mw-headline">Production  in the skin</span></h3>
+
+<div class="thumb tleft">
+
+<div class="thumbinner" style="width:252px;"><a href="http://www.wikidoc.org/index.php/Image:Skinlayers.png" class="image" title="The epidermal strata of the skin. Production is greatest in the stratum basale (colored red in the illustration) and stratum spinosum (colored orange)."><img src="http://www.wikidoc.org/images/thumb/2/20/Skinlayers.png/250px-Skinlayers.png" alt="The" width="250" height="248"></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="http://www.wikidoc.org/index.php/Image:Skinlayers.png" class="internal" title="Enlarge"><img src="http://www.wikidoc.org/skins/common/images/magnify-clip.png" alt="image" width="15" height="11"></a></div>
+
+The epidermal strata of the skin.  Production is greatest in the stratum basale (colored red in the  illustration) and stratum spinosum (colored orange).</div>
+
+</div>
+
+</div>
+
+<p>The skin consists of two primary layers: the inner layer called the <a href="http://www.wikidoc.org/index.php/Dermis" title="Dermis">dermis</a>,  composed largely of <a href="http://www.wikidoc.org/index.php/Connective_tissue" title="Connective tissue">connective tissue</a>, and the outer thinner <a href="http://www.wikidoc.org/index.php/Epidermis" class="mw-redirect" title="Epidermis">epidermis</a>. The epidermis consists of five <i>strata</i>;  from outer to inner they are: the <a href="http://www.wikidoc.org/index.php/Stratum_corneum" title="Stratum corneum">stratum corneum</a>, <a href="http://www.wikidoc.org/index.php/Stratum_lucidum" title="Stratum lucidum">stratum lucidum</a>, <a href="http://www.wikidoc.org/index.php/Stratum_granulosum" title="Stratum granulosum">stratum granulosum</a>, <a href="http://www.wikidoc.org/index.php/Stratum_spinosum" title="Stratum spinosum">stratum spinosum</a>, and <a href="http://www.wikidoc.org/index.php/Stratum_basale" class="mw-redirect" title="Stratum basale">stratum basale</a>.</p>
+
+<p>Vitamin D<sub>3</sub> is produced photochemically in the <a href="http://www.wikidoc.org/index.php/Skin" title="Skin">skin</a> from <a href="http://www.wikidoc.org/index.php/7-dehydrocholesterol" class="mw-redirect" title="7-dehydrocholesterol">7-dehydrocholesterol</a>.   The highest concentrations of 7-dehydrocholesterol are found in the  epidermal layer of skin, specifically in the stratum basale and stratum  spinosum.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Norman" title=""><sup>[4]</sup></a></sup>  The production of pre-vitamin D<sub>3</sub> is therefore greatest in  these two layers, whereas production in the other layers is reduced.</p>
+
+<p>Synthesis in the skin involves <a href="http://www.wikidoc.org/index.php/UVB_radiation" class="mw-redirect" title="UVB radiation">UVB radiation</a> which  effectively penetrates only the epidermal layers of skin.  7-Dehydrocholesterol absorbs UV light most effectively at wavelengths  between 270–290 <a href="http://www.wikidoc.org/index.php/Nanometer" class="mw-redirect" title="Nanometer">nm</a> and thus the production of  vitamin D<sub>3</sub> will only occur at those wavelengths. The two most  important factors that govern the generation of pre-vitamin D<sub>3</sub>  are the quantity (intensity) and quality (appropriate wavelength) of  the UVB irradiation reaching the 7-dehydrocholesterol deep in the  stratum basale and stratum spinosum.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Norman" title=""><sup>[4]</sup></a></sup></p>
+
+<p>A critical determinant of vitamin D<sub>3</sub> production in the  skin is the presence and concentration of <a href="http://www.wikidoc.org/index.php/Melanin" title="Melanin">melanin</a>.  Melanin functions as a light filter in the skin, and therefore the  concentration of melanin in the skin is related to the ability of UVB  light to penetrate the epidermal strata and reach the  7-dehydrocholesterol-containing stratum basale and stratum spinosum.  Under normal circumstances, ample quantities of 7-dehydrocholesterol  (about 25-50 <a href="http://www.wikidoc.org/index.php/Milligram" class="mw-redirect" title="Milligram">mg</a>/<a href="http://www.wikidoc.org/index.php/Centimetre" title="Centimetre">cm</a>²  of skin) are available in the stratum spinosum and stratum basale of  human skin to meet the body's vitamin D requirements,<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Norman" title=""><sup>[4]</sup></a></sup>  and melanin content does not alter the amount of vitamin D that can be  produced.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-2" title=""><sup>[10]</sup></a></sup>  Thus, individuals with higher skin melanin content will simply require  more time in sunlight to produce the same amount of vitamin D as  individuals with lower melanin content.</p>
+
+<a></a>
+
+<h4><span class="mw-headline">Synthesis mechanism (form 3)</span></h4>
+
+<table border="1"><tbody><tr><td>1. Vitamin D<sub>3</sub> is synthesized  from <a href="http://www.wikidoc.org/index.php/7-dehydrocholesterol" class="mw-redirect" title="7-dehydrocholesterol">7-dehydrocholesterol</a>,  a derivative of <a href="http://www.wikidoc.org/index.php/Cholesterol" title="Cholesterol">cholesterol</a>, which is then <a href="http://www.wikidoc.org/index.php/Photochemistry" title="Photochemistry">photolyzed</a> by ultraviolet light in 6-electron  <a href="http://www.wikidoc.org/index.php/Conrotatory" title="Conrotatory">conrotatory</a> <a href="http://www.wikidoc.org/index.php/Electrocyclic_reaction" title="Electrocyclic reaction">electrocyclic reaction</a>. The product  is <i><a href="http://www.wikidoc.org/index.php/Previtamin_D3" title="Previtamin D3">pre-vitamin D<sub>3</sub></a></i>.</td>
+
+<td><a href="http://www.wikidoc.org/index.php/Image:Reaction-Dehydrocholesterol-PrevitaminD3.png" class="image" title="Reaction-Dehydrocholesterol-PrevitaminD3.png"><img src="http://www.wikidoc.org/images/thumb/0/0f/Reaction-Dehydrocholesterol-PrevitaminD3.png/500px-Reaction-Dehydrocholesterol-PrevitaminD3.png" alt="image" width="500" height="110"></a></td>
+
+</tr><tr><td>2. Pre-vitamin D<sub>3</sub> then spontaneously isomerizes to  Vitamin D<sub>3</sub> in a <a href="http://www.wikidoc.org/index.php/Antarafacial" class="mw-redirect" title="Antarafacial">antarafacial</a> hydride <sup>[1,7]</sup><a href="http://www.wikidoc.org/index.php/Sigmatropic_shift" class="mw-redirect" title="Sigmatropic shift">Sigmatropic shift</a>.</td>
+
+<td><a href="http://www.wikidoc.org/index.php/Image:Reaction-PrevitaminD3-VitaminD3.png" class="image" title="Reaction-PrevitaminD3-VitaminD3.png"><img src="http://www.wikidoc.org/images/thumb/e/ec/Reaction-PrevitaminD3-VitaminD3.png/500px-Reaction-PrevitaminD3-VitaminD3.png" alt="image" width="500" height="181"></a></td>
+
+</tr><tr><td>3. Whether it is made in the skin or ingested, vitamin D<sub>3</sub>  (cholecalciferol) is then <a href="http://www.wikidoc.org/index.php/Hydroxylated" class="mw-redirect" title="Hydroxylated">hydroxylated</a> in the <a href="http://www.wikidoc.org/index.php/Liver" title="Liver">liver</a> to  25-hydroxycholecalciferol (25(OH)D<sub>3</sub> or <a href="http://www.wikidoc.org/index.php/Calcidiol" title="Calcidiol">calcidiol</a>)  by the enzyme <a href="http://www.wikidoc.org/index.php/25-hydroxylase" class="mw-redirect" title="25-hydroxylase">25-hydroxylase</a> produced  by <a href="http://www.wikidoc.org/index.php/Hepatocytes" class="mw-redirect" title="Hepatocytes">hepatocytes</a>, and stored  until it is needed.<br /><br />
+
+25-hydroxycholecalciferol is further  hydroxylated in the <a href="http://www.wikidoc.org/index.php/Kidneys" class="mw-redirect" title="Kidneys">kidneys</a> by the enzyme <a href="http://www.wikidoc.org/index.php/1%CE%B1-hydroxylase" class="mw-redirect" title="1?-hydroxylase">1?-hydroxylase</a>, into two  dihydroxylated metabolites, the main biologically active hormone  1,25-dihydroxycholecalciferol (1,25(OH)2D<sub>3</sub> or calcitriol) and  24R,25(OH)2D<sub>3</sub>. This conversion occurs in a tightly regulated  fashion.<br /><br />
+
+Calcitriol is represented below right (hydroxylated  Carbon 1 is on the lower ring at right, hydroxylated Carbon 25 is at the  upper right end).</td>
+
+<td><a href="http://www.wikidoc.org/index.php/Image:Reaction-VitaminiD3-Calcitriol.png" class="image" title="Reaction-VitaminiD3-Calcitriol.png"><img src="http://www.wikidoc.org/images/thumb/8/81/Reaction-VitaminiD3-Calcitriol.png/500px-Reaction-VitaminiD3-Calcitriol.png" alt="image" width="500" height="193"></a></td>
+
+</tr></tbody></table><a></a>
+
+<h3><span class="mw-headline">Mechanism  of action</span></h3>
+
+<p>Once vitamin D is produced in the skin or consumed in food, it is  converted in the <a href="http://www.wikidoc.org/index.php/Liver" title="Liver">liver</a> and <a href="http://www.wikidoc.org/index.php/Kidney" title="Kidney">kidney</a>  to form 1,25 dihydroxyvitamin D, (1,25(OH)<sub>2</sub>D) the  physiologically active form of vitamin D (when "D" is used without a  subscript it refers to either D<sub>2</sub> or D<sub>3</sub>). Following  this conversion, the hormonally active form of vitamin D is released  into the circulation, and by binding to a carrier protein in the <a href="http://www.wikidoc.org/index.php/Blood_plasma" title="Blood plasma">plasma</a>, vitamin D binding protein (VDBP), it is transported  to various target organs.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-River" title=""><sup>[3]</sup></a></sup></p>
+
+<p>The hormonally active form of vitamin D mediates its biological  effects by binding to the <a href="http://www.wikidoc.org/index.php/Vitamin_D_receptor" class="mw-redirect" title="Vitamin D receptor">vitamin D receptor</a>  (VDR), which is principally located in the <a href="http://www.wikidoc.org/index.php/Cell_nucleus" title="Cell nucleus">nuclei</a> of target cells.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-River" title=""><sup>[3]</sup></a></sup>  The binding of calcitriol to the VDR allows the VDR to act as a <a href="http://www.wikidoc.org/index.php/Transcription_factor" title="Transcription factor">transcription factor</a> that modulates the  <a href="http://www.wikidoc.org/index.php/Gene_expression" title="Gene expression">gene expression</a> of transport proteins (such as <a href="http://www.wikidoc.org/index.php/TRPV6" title="TRPV6">TRPV6</a>  and <a href="http://www.wikidoc.org/index.php/Calbindin" title="Calbindin">calbindin</a>), which are involved in calcium  absorption in the intestine.</p>
+
+<p>The Vitamin D receptor belongs to the <a href="http://www.wikidoc.org/index.php/Nuclear_receptor" title="Nuclear receptor">nuclear receptor</a> superfamily of <a href="http://www.wikidoc.org/index.php/Steroid_hormone_receptor" title="Steroid hormone receptor">steroid/thyroid hormone receptors</a>,  and VDR are expressed by cells in most <a href="http://www.wikidoc.org/index.php/Organ_%28biology%29" class="mw-redirect" title="Organ (biology)">organs</a>, including the <a href="http://www.wikidoc.org/index.php/Brain" title="Brain">brain</a>, <a href="http://www.wikidoc.org/index.php/Heart" title="Heart">heart</a>, <a href="http://www.wikidoc.org/index.php/Skin" title="Skin">skin</a>, <a href="http://www.wikidoc.org/index.php/Gonads" class="mw-redirect" title="Gonads">gonads</a>, <a href="http://www.wikidoc.org/index.php/Prostate" title="Prostate">prostate</a>,  and <a href="http://www.wikidoc.org/index.php/Breast" title="Breast">breast</a>.  VDR activation in the intestine, bone, kidney, and parathyroid gland  cells leads to the maintenance of <a href="http://www.wikidoc.org/index.php/Calcium" title="Calcium">calcium</a>  and <a href="http://www.wikidoc.org/index.php/Phosphorus" title="Phosphorus">phosphorus</a> levels in the <a href="http://www.wikidoc.org/index.php/Blood" title="Blood">blood</a>  (with the assistance of <a href="http://www.wikidoc.org/index.php/Parathyroid_hormone" title="Parathyroid hormone">parathyroid hormone</a> and <a href="http://www.wikidoc.org/index.php/Calcitonin" title="Calcitonin">calcitonin</a>)  and to the maintenance of <a href="http://www.wikidoc.org/index.php/Bone" title="Bone">bone</a>  content.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Sun" title=""><sup>[11]</sup></a></sup></p>
+
+<p>The VDR is known to be involved in <a href="http://www.wikidoc.org/index.php/Cell_proliferation" class="mw-redirect" title="Cell proliferation">cell proliferation</a>, <a href="http://www.wikidoc.org/index.php/Cellular_differentiation" title="Cellular differentiation">differentiation</a>. Vitamin D also <a href="http://www.wikidoc.org/index.php/Vitamin_D#Role_in_immunomodulation" title="">affects the immune system</a>, and VDR are expressed in  several <a href="http://www.wikidoc.org/index.php/White_blood_cell" class="mw-redirect" title="White blood cell">white blood cells</a>  including <a href="http://www.wikidoc.org/index.php/Monocyte" title="Monocyte">monocytes</a> and activated <a href="http://www.wikidoc.org/index.php/T_cell" title="T cell">T</a> and <a href="http://www.wikidoc.org/index.php/B_cell" title="B cell">B cells</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PDR" title=""><sup>[8]</sup></a></sup></p>
+
+<a></a>
+
+<h2><span class="mw-headline">Nutrition</span></h2>
+
+<p>Very few foods are naturally rich in vitamin D, and most vitamin D  intake is in the form of fortified products including milk, soy milk and  cereal grains.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-FactD" title=""><sup>[1]</sup></a></sup></p>
+
+<p>A blood calcidiol (25-hydroxy-vitamin D) level is the accepted  way to determine vitamin D nutritional status. The optimal level of  serum 25-hydroxyvitamin D remains a point for debate among medical  scientists.</p>
+
+<p>The U.S. <a href="http://www.wikidoc.org/index.php/Dietary_Reference_Intake" class="mw-redirect" title="Dietary Reference Intake">Dietary Reference  Intake</a> for Adequate Intake (AI) of vitamin D for infants, children  and men and women aged 19–50 is 5 micrograms/day (200 <a href="http://www.wikidoc.org/index.php/International_unit" title="International unit">IU</a>/day).<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-3" title=""><sup>[12]</sup></a></sup>  Adequate intake increases to 10 micrograms/day (400 IU/day) for men and  women aged 51–70 and to 15 micrograms/day (600 IU/day) past the age of  70.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-FactD" title=""><sup>[1]</sup></a></sup></p>
+
+<a></a>
+
+<h3><span class="mw-headline">In food</span></h3>
+
+<p>Season, geographic latitude, time of day, cloud cover, smog, and <a href="http://www.wikidoc.org/index.php/Sunscreen" title="Sunscreen">sunscreen</a>  affect UV ray exposure and vitamin D synthesis in the skin, and it is  important for individuals with limited sun exposure to include good  sources of vitamin D in their diet.</p>
+
+<p>In some countries, foods such as milk, yogurt, margarine, oil  spreads, breakfast cereal, pastries, and bread are fortified with  vitamin D<sub>2</sub> and/or vitamin D<sub>3</sub>, to minimize the risk  of vitamin D deficiency.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Nowson" title=""><sup>[13]</sup></a></sup>  In the United States and Canada, for example, fortified milk typically  provides 100 IU per glass, or one quarter of the estimated adequate  intake for adults over the age of 50.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-FactD" title=""><sup>[1]</sup></a></sup></p>
+
+<p>Fortified foods represent the major dietary sources of vitamin D,  as very few foods naturally contain significant amounts of vitamin D.</p>
+
+<p>Natural sources of vitamin D include:<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-FactD" title=""><sup>[1]</sup></a></sup></p>
+
+<ul><li>Fish liver oils, such as cod liver oil, 1 <a href="http://www.wikidoc.org/index.php/Tablespoon" title="Tablespoon">Tbs.</a>  (15 mL) provides 1,360 IU</li>
+
+<li>Fatty fish species, such as:
+
+<ul><li>Catfish, 3 <a href="http://www.wikidoc.org/index.php/Ounce" title="Ounce">oz</a> provides 425 IU</li>
+
+<li>Salmon, cooked, 3.5 <a href="http://www.wikidoc.org/index.php/Ounce" title="Ounce">oz</a>  provides 360 IU</li>
+
+<li>Mackerel, cooked, 3.5 oz, 345 IU</li>
+
+<li>Sardines, canned in oil, drained, 1.75 oz, 250 IU</li>
+
+<li>Tuna, canned in oil, 3 oz, 200 IU</li>
+
+<li>Eel, cooked, 3.5 oz, 200 IU</li>
+
+</ul></li>
+
+<li>Mushrooms provide over 2700 IU per serving (approx. 3 <a href="http://www.wikidoc.org/index.php/Ounce" title="Ounce">oz</a> or  1/2 cup) of <a href="http://www.wikidoc.org/index.php/Ergosterol" title="Ergosterol">vitamin D<sub>2</sub></a>, if exposed to just 5  minutes of UV light after being harvested;<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-4" title=""><sup>[14]</sup></a></sup>  this is one of a few natural sources of vitamin D for vegans.</li>
+
+<li>One whole egg, 20 IU</li>
+
+<li>Yeast</li>
+
+</ul><a></a>
+
+<h2><span class="mw-headline">Deficiency</span></h2>
+
+<p>There is no consensus on the serum 25-hydroxyvitamin D levels  considered "normal". However, most experts would agree that a value  equal or less than 20 ng per milliliter (50 nmol per liter) is  in the  deficient range.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid9504937" title=""><sup>[15]</sup></a></sup><sup>,</sup><sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid16529140" title=""><sup>[16]</sup></a></sup><sup>,</sup><sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid16825677" title=""><sup>[17]</sup></a></sup><sup>,</sup><sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid9519960" title=""><sup>[18]</sup></a></sup>  Other people consider the point at which the  parathyroid hormone (PTH) levels off as the cutoff point, which is close  to 30 ng per milliliter (75  nmol per liter). <sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid15776217" title=""><sup>[19]</sup></a></sup> Vitamin D deficiency can result from: inadequate  intake coupled with inadequate sunlight exposure, disorders that limit  its absorption, conditions that impair conversion of vitamin D into  active <a href="http://www.wikidoc.org/index.php/Metabolite" title="Metabolite">metabolites</a>, such as <a href="http://www.wikidoc.org/index.php/Liver" title="Liver">liver</a> or  kidney disorders, or, rarely, by a number of hereditary disorders.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup>  Deficiency results in impaired bone mineralization, and leads to bone  softening diseases, <a href="http://www.wikidoc.org/index.php/Rickets" title="Rickets">rickets</a> in children and <a href="http://www.wikidoc.org/index.php/Osteomalacia" title="Osteomalacia">osteomalacia</a> in adults, and possibly  contributes to <a href="http://www.wikidoc.org/index.php/Osteoporosis" title="Osteoporosis">osteoporosis</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup></p>
+
+<a></a>
+
+<h3><span class="mw-headline">Diseases caused by deficiency</span></h3>
+
+<p>The role of diet in the development of <a href="http://www.wikidoc.org/index.php/Rickets" title="Rickets">rickets</a>  was determined by <a href="http://www.wikidoc.org/index.php/Edward_Mellanby" title="Edward Mellanby">Edward Mellanby</a> between 1918–1920.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-History" title=""><sup>[20]</sup></a></sup>  In 1921 Elmer McCollum identified an anti-rachitic substance found in  certain fats could prevent rickets. Because the newly discovered  substance was the fourth vitamin identified, it was called vitamin D.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-History" title=""><sup>[20]</sup></a></sup>  The 1928 Nobel Prize in Chemistry was awarded to <a href="http://www.wikidoc.org/index.php/Adolf_Windaus" class="mw-redirect" title="Adolf Windaus">Adolf Windaus</a>, who  discovered the steroid, 7-dehydrocholesterol, the precursor of vitamin  D.</p>
+
+<p>Vitamin D deficiency is known to cause several bone diseases<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-5" title=""><sup>[21]</sup></a></sup>  including:</p>
+
+<ul><li><a href="http://www.wikidoc.org/index.php/Rickets" title="Rickets">Rickets</a>, a childhood disease characterized by  impeded growth, and deformity, of the <a href="http://www.wikidoc.org/index.php/Long_bones" class="mw-redirect" title="Long bones">long bones</a>.</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Osteomalacia" title="Osteomalacia">Osteomalacia</a>, a bone-thinning disorder that  occurs exclusively in adults and is characterised by <a href="http://www.wikidoc.org/index.php/Proximal" class="mw-redirect" title="Proximal">proximal</a> muscle weakness and bone fragility.</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Osteoporosis" title="Osteoporosis">Osteoporosis</a>, a condition characterized by  reduced <a href="http://www.wikidoc.org/index.php/Bone_mineral_density" title="Bone mineral density">bone mineral density</a> and increased bone  fragility.</li>
+
+</ul><p>Prior to the fortification of milk products with vitamin D, rickets  was a major public health problem. In the United States, milk has been  fortified with 10 micrograms (400 <a href="http://www.wikidoc.org/index.php/International_unit" title="International unit">IU</a>) of vitamin D per quart since the  1930s, leading to a dramatic decline in the number of rickets cases.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Sun" title=""><sup>[11]</sup></a></sup></p>
+
+<p>Vitamin D malnutrition may also be linked to an increased  susceptibility to several chronic diseases such as <a href="http://www.wikidoc.org/index.php/Hypertension" title="Hypertension">high blood pressure</a>, <a href="http://www.wikidoc.org/index.php/Tuberculosis" title="Tuberculosis">tuberculosis</a>, <a href="http://www.wikidoc.org/index.php/Cancer" title="Cancer">cancer</a>,  <a href="http://www.wikidoc.org/index.php/Periodontal_disease" class="mw-redirect" title="Periodontal disease">periodontal disease</a>,  <a href="http://www.wikidoc.org/index.php/Multiple_sclerosis" title="Multiple sclerosis">multiple sclerosis</a>, chronic pain, <a href="http://www.wikidoc.org/index.php/Clinical_depression" title="Clinical depression">depression</a>, <a href="http://www.wikidoc.org/index.php/Schizophrenia" title="Schizophrenia">schizophrenia</a>, <a href="http://www.wikidoc.org/index.php/Seasonal_affective_disorder" title="Seasonal affective disorder">seasonal affective disorder</a> and  several <a href="http://www.wikidoc.org/index.php/Autoimmune_disease" title="Autoimmune disease">autoimmune diseases</a> (see <a href="http://www.wikidoc.org/index.php/Vitamin_D#Role_in_immunomodulation" title="">role in immunomodulation</a>).<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Sun" title=""><sup>[11]</sup></a></sup></p>
+
+<a></a>
+
+<h3><span class="mw-headline">Groups at greater risk of deficiency</span></h3>
+
+<p>Vitamin D requirements increase with age, while the ability of skin  to convert 7-dehydrocholesterol to pre-vitamin D<sub>3</sub> decreases.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-6" title=""><sup>[22]</sup></a></sup>  In addition the ability of the <a href="http://www.wikidoc.org/index.php/Kidney" title="Kidney">kidneys</a>  to convert calcidiol to its active form also decreases with age,  prompting the need for increased vitamin D supplementation in elderly  individuals. One consensus concluded that for optimal prevention of  osteoporotic fracture the blood calcidiol concentration should be higher  than 30 ng/mL, which is equal to 75 nmol/L.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Heaney_2004" title=""><sup>[23]</sup></a></sup></p>
+
+<p>The American Pediatric Associations advises vitamin D  supplementation of 200 IU/day (5?g/d) from birth onwards.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-FactD" title=""><sup>[1]</sup></a></sup>  Health Canada recommends 400IU/day (10?g/d).<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Canada" title=""><sup>[24]</sup></a></sup>  While <a href="http://www.wikidoc.org/index.php/Infant_formula" title="Infant formula">infant formula</a> is generally fortified with  vitamin D, <a href="http://www.wikidoc.org/index.php/Breast_milk" title="Breast milk">breast milk</a> does not contain significant levels  of vitamin D, and parents are usually advised to avoid exposing babies  to prolonged sunlight.  Therefore, infants who are exclusively <a href="http://www.wikidoc.org/index.php/Breastfeeding" title="Breastfeeding">breastfed</a> are likely to require vitamin D  supplementation beyond early infancy, especially at northern latitudes.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Canada" title=""><sup>[24]</sup></a></sup>   Liquid "drops" of vitamin D, as a single nutrient or combined with  other vitamins, are available in water based or oil-based preparations  ("Baby Drops" in North America, or "Vigantol oil" in Europe). However,  babies may be safely exposed to sunlight for short periods; as little as  10 minutes a day without a hat can suffice, depending on location and  season. The vitamin D found in supplements and infant formula is less  easily absorbed than that produced by the body naturally and carries a  risk of overdose that is not present with natural exposure to sunlight.</p>
+
+<p><a href="http://www.wikidoc.org/index.php/Obese" class="mw-redirect" title="Obese">Obese</a> individuals may have lower  levels of the circulating form of vitamin D, probably because of reduced  <a href="http://www.wikidoc.org/index.php/Bioavailable" class="mw-redirect" title="Bioavailable">bioavailability</a>, and are at  higher risk of deficiency. To maintain blood levels of calcium,  therapeutic vitamin D doses are sometimes administered (up to 100,000 IU  or 2.5 mg daily) to patients who have had their parathyroid glands  removed (most commonly <a href="http://www.wikidoc.org/index.php/Renal_dialysis" class="mw-redirect" title="Renal dialysis">renal dialysis</a> patients  who have had <a href="http://www.wikidoc.org/index.php/Tertiary_hyperparathyroidism" title="Tertiary hyperparathyroidism">tertiary hyperparathyroidism</a>,  but also to patients with <a href="http://www.wikidoc.org/index.php/Primary_hyperparathyroidism" title="Primary hyperparathyroidism">primary hyperparathyroidism</a>) or  with <a href="http://www.wikidoc.org/index.php/Hypoparathyroidism" title="Hypoparathyroidism">hypoparathyroidism</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-7" title=""><sup>[25]</sup></a></sup>  Patients with chronic <a href="http://www.wikidoc.org/index.php/Liver_disease" class="mw-redirect" title="Liver disease">liver disease</a> or <a href="http://www.wikidoc.org/index.php/Intestinal_malabsorption" class="mw-redirect" title="Intestinal malabsorption">intestinal  malabsorption</a> disorders may also require larger doses of vitamin D  (up to 40,000 IU or 1 mg (1000 micrograms) daily).</p>
+
+<p>The use of <a href="http://www.wikidoc.org/index.php/Sunscreen" title="Sunscreen">sunscreen</a> with a <a href="http://www.wikidoc.org/index.php/Sun_protection_factor" class="mw-redirect" title="Sun protection factor">sun protection factor</a>  (SPF) of 8 inhibits more than 95% of vitamin D production in the skin.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Sun" title=""><sup>[11]</sup></a></sup><sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-8" title=""><sup>[26]</sup></a></sup>  Recent studies showed that, following the successful "Slip-Slop-Slap"  health campaign encouraging Australians to cover up when exposed to  sunlight to prevent <a href="http://www.wikidoc.org/index.php/Skin_cancer" title="Skin cancer">skin  cancer</a>, an increased number of Australians and New Zealanders  became vitamin D deficient.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Nowson" title=""><sup>[13]</sup></a></sup>  Ironically, there are indications that vitamin D deficiency may lead to  skin cancer.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-9" title=""><sup>[27]</sup></a></sup>  To avoid vitamin D deficiency dermatologists recommend supplementation  along with sunscreen use.</p>
+
+<p>The reduced <a href="http://www.wikidoc.org/index.php/Pigmentation" class="mw-redirect" title="Pigmentation">pigmentation</a> of light-skinned individuals  tends to allow more sunlight to be absorbed even at higher latitudes,  thereby reducing the risk of vitamin D deficiency.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Heaney_2004" title=""><sup>[23]</sup></a></sup> However, at higher latitudes (above 30°) during  the winter months, the decreased angle of the sun's rays, reduced  daylight hours, protective clothing during cold weather, and fewer hours  of outside activity, diminish absorption of sunlight and the production  of vitamin D. Because <a href="http://www.wikidoc.org/index.php/Melanin" title="Melanin">melanin</a>  acts like a sun-block, prolonging the time required to generate vitamin  D, dark-<a href="http://www.wikidoc.org/index.php/Human_skin_color" title="Human skin color">skinned</a> individuals, in particular, may  require extra vitamin D to avoid deficiency at higher latitudes.  At  latitudes below 30° where sunlight and day-length are more consistent,  vitamin D supplementation may not be required.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-UVB" title=""><sup>[5]</sup></a></sup>  Individuals clad in full body coverings during all their outdoor  activity, most notably women wearing burquas in daylight, are at risk of  vitamin D deficiency. This poses a lifestyle-related health risk mostly  for female residents of conservative Muslim nations in the Middle East,  but also for strict adherents in other parts of the world.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-burquas" title=""><sup>[28]</sup></a></sup></p>
+
+<a></a>
+
+<h2><span class="mw-headline">Overdose</span></h2>
+
+<dl><dd>
+
+<div class="boilerplate seealso"><i>For more details on this  topic, see <a href="http://www.wikidoc.org/index.php/Hypervitaminosis_D" title="Hypervitaminosis D">hypervitaminosis D</a>.</i></div>
+
+</dd>
+
+</dl><p>Vitamin D stored in the human body as calcidiol (25-hydroxy-vitamin  D) has a large volume of distribution and a long <a href="http://www.wikidoc.org/index.php/Half-life" title="Half-life">half-life</a>  (about 20 to 29 days).<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PDR" title=""><sup>[8]</sup></a></sup>  However, the synthesis of bioactive vitamin D hormone is tightly  regulated and vitamin D toxicity usually occurs only if excessive doses  (prescription or <a href="http://www.wikidoc.org/index.php/Megavitamin" class="mw-redirect" title="Megavitamin">megavitamin</a>) are taken.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-homestead" title=""><sup>[29]</sup></a></sup> Although normal food and pill vitamin D  concentration levels are too low to be toxic in adults, because of the  high <a href="http://www.wikidoc.org/index.php/Vitamin_A" title="Vitamin A">vitamin A</a> content in codliver oil it is possible to reach  poisonous levels of vitamin A,<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-10" title=""><sup>[30]</sup></a></sup>  if taken in multiples of the normal dose in an attempt to increase the  intake of vitamin D.  Most cases of vitamin D overdose have occurred due  to manufacturing and industrial accidents.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Vieth" title=""><sup>[31]</sup></a></sup></p>
+
+<p>Exposure to sunlight for extended periods of time does not cause  Vitamin D toxicity.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Vieth" title=""><sup>[31]</sup></a></sup>  This is because within about 20 minutes of ultraviolet exposure in  light skinned individuals (3–6 times longer for pigmented skin) the  concentration of vitamin D precursors produced in the skin reach an  equilibrium, and any further vitamin D that is produced is degraded.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-11" title=""><sup>[32]</sup></a></sup>  Maximum endogenous production with full body exposure to sunlight is  250 µg (10,000 IU) per day.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Vieth" title=""><sup>[31]</sup></a></sup></p>
+
+<p>The exact long-term safe dose of vitamin D is not entirely known,  but dosages up to 60 micrograms (2,400 IU) /day in healthy adults are  believed to be safe.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PDR" title=""><sup>[8]</sup></a></sup>,  and all known cases of vitamin D toxicity with hypercalcemia involve  intake of or over 1,000 micrograms (40,000 IU)/day<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Vieth" title=""><sup>[31]</sup></a></sup>.  The U.S. <a href="http://www.wikidoc.org/index.php/Dietary_Reference_Intake" class="mw-redirect" title="Dietary Reference Intake">Dietary Reference  Intake</a> Tolerable Upper Intake Level (UL) of vitamin D for children  and adults is 50 micrograms/day (2,000 IU/day). In adults, sustained  intake of 2500 ?g/day (100,000 IU) can produce toxicity within a few  months.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup>  For infants (birth to 12 months) the tolerable UL is set at 25  micrograms/day (1000 IU/day), and vitamin D concentrations of 1000  micrograms/day (40,000 IU) in infants has been shown to produce toxicity  within 1 to 4 months. In the United States, overdose exposure of  vitamin D was reported by 284 individuals in 2004, leading to 1 death.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-12" title=""><sup>[33]</sup></a></sup></p>
+
+<p>Serum levels of calcidiol (25-hydroxy-vitamin D) are typically  used to diagnose vitamin D overdose. In healthy individuals, calcidiol  levels are normally between 25 to 40 ng/mL (60 to 100 nmol/L), but these  levels may be as much as 15-fold greater in cases of vitamin D  toxicity. Serum levels of bioactive vitamin D hormone (1,25(OH2)D) are  usually normal in cases of vitamin D overdose.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup></p>
+
+<p>The symptoms of vitamin D toxicity are a result of <a href="http://www.wikidoc.org/index.php/Hypercalcemia" title="Hypercalcemia">hypercalcemia</a> (an elevated level of calcium in  the blood) caused by increased intestinal calcium absorption.  <a href="http://www.wikidoc.org/index.php/Gastrointestinal" class="mw-redirect" title="Gastrointestinal">Gastrointestinal</a>  symptoms of vitamin D toxicity can develop including <a href="http://www.wikidoc.org/index.php/Anorexia_%28symptom%29" title="Anorexia (symptom)">anorexia</a>, <a href="http://www.wikidoc.org/index.php/Nausea" class="mw-redirect" title="Nausea">nausea</a>, and vomiting. These symptoms are often  followed by <a href="http://www.wikidoc.org/index.php/Polyuria" title="Polyuria">polyuria</a> (excessive production of <a href="http://www.wikidoc.org/index.php/Urine" title="Urine">urine</a>), <a href="http://www.wikidoc.org/index.php/Polydipsia" title="Polydipsia">polydipsia</a>  (increased thirst), weakness, nervousness, <a href="http://www.wikidoc.org/index.php/Pruritus" class="mw-redirect" title="Pruritus">pruritus</a> (itch), and eventually <a href="http://www.wikidoc.org/index.php/Renal_failure" class="mw-redirect" title="Renal failure">renal failure</a>. Other  signals of kidney disease including elevated protein levels in the  urine, <a href="http://www.wikidoc.org/index.php/Urinary_casts" title="Urinary casts">urinary casts</a>, and a build up of wastes in the  blood stream can also develop.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup>  In one study, hypercalciuria and bone loss occurred in four patients  with documented vitamin D toxicity.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-13" title=""><sup>[34]</sup></a></sup>  Another study showed elevated risk of <a href="http://www.wikidoc.org/index.php/Ischaemic_heart_disease" class="mw-redirect" title="Ischaemic heart disease">ischaemic heart  disease</a> when 25D was above 89 ng/mL.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-14" title=""><sup>[35]</sup></a></sup></p>
+
+<p>Vitamin D toxicity is treated by discontinuing vitamin D  supplementation, and restricting calcium intake. If the toxicity is  severe blood calcium levels can be further reduced with <a href="http://www.wikidoc.org/index.php/Corticosteroid" title="Corticosteroid">corticosteroids</a> or <a href="http://www.wikidoc.org/index.php/Bisphosphonate" title="Bisphosphonate">bisphosphonates</a>. In some cases kidney damage  may be irreversible.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Merck" title=""><sup>[2]</sup></a></sup></p>
+
+<a></a>
+
+<h2><span class="mw-headline">Role  in immunomodulation</span></h2>
+
+<p>The hormonally active form of vitamin D  mediates <a href="http://www.wikidoc.org/index.php/Immune_system" title="Immune system">immunological</a> effects by binding to nuclear vitamin D  receptors (VDR) which are present in most immune cell types including  both <a href="http://www.wikidoc.org/index.php/Innate_immune_system" title="Innate immune system">innate</a> and <a href="http://www.wikidoc.org/index.php/Adaptive_immune_system" title="Adaptive immune system">adaptive</a> <a href="http://www.wikidoc.org/index.php/Immune_cells" class="mw-redirect" title="Immune cells">immune cells</a>. The VDR is expressed  constitutively in <a href="http://www.wikidoc.org/index.php/Monocyte" title="Monocyte">monocytes</a> and in activated <a href="http://www.wikidoc.org/index.php/Macrophage" title="Macrophage">macrophages</a>,  <a href="http://www.wikidoc.org/index.php/Dendritic_cells" class="mw-redirect" title="Dendritic cells">dendritic cells</a>, <a href="http://www.wikidoc.org/index.php/NK_cells" class="mw-redirect" title="NK cells">NK cells</a>, <a href="http://www.wikidoc.org/index.php/T_cell" title="T cell">T</a> and <a href="http://www.wikidoc.org/index.php/B_cell" title="B cell">B cells</a>.  In line with this observation, activation of the VDR has potent anti-<a href="http://www.wikidoc.org/index.php/Cell_growth" title="Cell growth">proliferative</a>,  pro-<a href="http://www.wikidoc.org/index.php/Cellular_differentiation" title="Cellular differentiation">differentiative</a>, and <a href="http://www.wikidoc.org/index.php/Immunomodulator" title="Immunomodulator">immunomodulatory</a> functions including both <a href="http://www.wikidoc.org/index.php/Immunostimulator" title="Immunostimulator">immune-enhancing</a> and <a href="http://www.wikidoc.org/index.php/Immunosuppressive" class="mw-redirect" title="Immunosuppressive">immunosuppressive</a>  effects.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Endo" title=""><sup>[36]</sup></a></sup></p>
+
+<p>Effects of VDR-<a href="http://www.wikidoc.org/index.php/Ligand_%28biochemistry%29" title="Ligand (biochemistry)">ligands</a>, such as vitamin D hormone, on  T-cells include suppression of <a href="http://www.wikidoc.org/index.php/Effector_cell" title="Effector cell">T cell activation</a> and induction of <a href="http://www.wikidoc.org/index.php/Regulatory_T_cell" title="Regulatory T cell">regulatory T cells</a>, as well as effects on <a href="http://www.wikidoc.org/index.php/Cytokine" title="Cytokine">cytokine</a>  secretion patterns.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-15" title=""><sup>[37]</sup></a></sup>  VDR-ligands have also been shown to affect maturation, differentiation,  and migration of dendritic cells, and inhibits DC-dependent T cell  activation, resulting in an overall state of immunosuppression.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-16" title=""><sup>[38]</sup></a></sup></p>
+
+<p>VDR ligands have also been shown to increase the activity of  natural killer cells, and enhance the <a href="http://www.wikidoc.org/index.php/Phagocytic" class="mw-redirect" title="Phagocytic">phagocytic</a> activity of <a href="http://www.wikidoc.org/index.php/Macrophage" title="Macrophage">macrophages</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PDR" title=""><sup>[8]</sup></a></sup>  Active vitamin D hormone also increases the production of <a href="http://www.wikidoc.org/index.php/Cathelicidin" title="Cathelicidin">cathelicidin</a>, an <a href="http://www.wikidoc.org/index.php/Antimicrobial_peptide" class="mw-redirect" title="Antimicrobial peptide">antimicrobial peptide</a>  that is produced in macrophages triggered by bacteria, viruses, and <a href="http://www.wikidoc.org/index.php/Fungi" class="mw-redirect" title="Fungi">fungi</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-17" title=""><sup>[39]</sup></a></sup>  Vitamin D deficiency tends to increase the risk of infections, such as <a href="http://www.wikidoc.org/index.php/Influenza" title="Influenza">influenza</a>  and <a href="http://www.wikidoc.org/index.php/Tuberculosis" title="Tuberculosis">tuberculosis</a>.  In a 1997 study, Ethiopian  children with rickets were 13 times more likely to get <a href="http://www.wikidoc.org/index.php/Pneumonia" title="Pneumonia">pneumonia</a>  than children without rickets.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-18" title=""><sup>[40]</sup></a></sup></p>
+
+<p>These immunoregulatory properties indicate that ligands with the  potential to activate the VDR, including supplementation with calcitriol  (as well as a number of synthetic modulators), may have therapeutic  clinical applications in the treatment of; <a href="http://www.wikidoc.org/index.php/Inflammation" title="Inflammation">inflammatory</a> diseases (<a href="http://www.wikidoc.org/index.php/Rheumatoid_arthritis" title="Rheumatoid arthritis">rheumatoid arthritis</a>, <a href="http://www.wikidoc.org/index.php/Psoriatic_arthritis" title="Psoriatic arthritis">psoriatic arthritis</a>), <a href="http://www.wikidoc.org/index.php/Dermatology" title="Dermatology">dermatological</a>  conditions (<a href="http://www.wikidoc.org/index.php/Psoriasis" title="Psoriasis">psoriasis</a>, <a href="http://www.wikidoc.org/index.php/Actinic_keratosis" title="Actinic keratosis">actinic keratosis</a>), osteoporosis, <a href="http://www.wikidoc.org/index.php/Cancer" title="Cancer">cancers</a>  (prostate, colon, breast, myelodysplasia, leukemia, head and neck  squamous cell carcinoma, and basal cell carcinoma), and <a href="http://www.wikidoc.org/index.php/Autoimmune_disease" title="Autoimmune disease">autoimmune diseases</a> (<a href="http://www.wikidoc.org/index.php/Systemic_lupus_erythematosus" title="Systemic lupus erythematosus">systemic lupus erythematosus</a>, <a href="http://www.wikidoc.org/index.php/Type_I_diabetes" class="mw-redirect" title="Type I diabetes">type I diabetes</a>, <a href="http://www.wikidoc.org/index.php/Multiple_sclerosis" title="Multiple sclerosis">multiple sclerosis</a>) and in preventing <a href="http://www.wikidoc.org/index.php/Organ_%28anatomy%29" title="Organ (anatomy)">organ</a> <a href="http://www.wikidoc.org/index.php/Transplant_rejection" title="Transplant rejection">transplant rejection</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Endo" title=""><sup>[36]</sup></a></sup>  However the effects of supplementation with vitamin D, as yet, remain  unclear, and supplementation may be inadvisable for individuals with <a href="http://www.wikidoc.org/index.php/Sarcoidosis" title="Sarcoidosis">sarcoidosis</a>  and other diseases involving vitamin D hypersensitivity.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-19" title=""><sup>[41]</sup></a></sup><sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Vieth" title=""><sup>[31]</sup></a></sup><sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-Abreu" title=""><sup>[42]</sup></a></sup></p>
+
+<p>A 2006 study published in the <a href="http://www.wikidoc.org/index.php/Journal_of_the_American_Medical_Association" title="Journal of the American Medical Association">Journal of the  American Medical Association</a>, reported evidence of a link between  Vitamin D deficiency and the onset of <a href="http://www.wikidoc.org/index.php/Multiple_Sclerosis" class="mw-redirect" title="Multiple Sclerosis">Multiple Sclerosis</a>;  the authors posit that this is due to the immune-response suppression  properties of Vitamin D.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-20" title=""><sup>[43]</sup></a></sup></p>
+
+<a></a>
+
+<h2><span class="mw-headline">Role in cancer prevention and recovery</span></h2>
+
+<p>The vitamin D hormone, calcitriol, has been found to induce death of <a href="http://www.wikidoc.org/index.php/Cancer" title="Cancer">cancer</a>  cells <i><a href="http://www.wikidoc.org/index.php/In_vitro" title="In vitro">in vitro</a></i> and <i><a href="http://www.wikidoc.org/index.php/In_vivo" title="In vivo">in vivo</a></i>.  Although the anti-cancer activity of vitamin D is not fully understood,  it is thought that these effects are mediated through vitamin D  receptors expressed in cancer cells, and may be related to its  immunomodulatory abilities. The anti-cancer activity of vitamin D  observed in the laboratory has prompted some to propose that vitamin D  supplementation might be beneficial in the treatment or prevention of  some types of cancer.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PDR" title=""><sup>[8]</sup></a></sup></p>
+
+<p>In 2005, scientists released a <a href="http://www.wikidoc.org/index.php/Meta-analysis" title="Meta-analysis">metastudy</a> which demonstrated a beneficial  correlation between vitamin D intake and prevention of cancer. Drawing  from a <a href="http://www.wikidoc.org/index.php/Meta-analysis" title="Meta-analysis">meta-analysis</a> of 63 published reports, the  authors showed that intake of an additional 1,000 international units  (IU) (or 25 micrograms) of vitamin D daily reduced an individual's <a href="http://www.wikidoc.org/index.php/Colon_cancer" class="mw-redirect" title="Colon cancer">colon cancer</a> risk by 50%, and <a href="http://www.wikidoc.org/index.php/Breast_cancer" title="Breast cancer">breast</a> and <a href="http://www.wikidoc.org/index.php/Ovarian_cancer" title="Ovarian cancer">ovarian cancer</a> risks by 30%.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-21" title=""><sup>[44]</sup></a></sup>  Research has also shown a beneficial effect of high levels of  calcitriol on patients with advanced <a href="http://www.wikidoc.org/index.php/Prostate_cancer" title="Prostate cancer">prostate cancer</a>.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-22" title=""><sup>[45]</sup></a></sup>  A randomised intervention study involving 1,200 women, published in  June 2007, reports that vitamin D supplementation (1,100 international  units (IU) / day) resulted in a 60% reduction in cancer incidence,  during a four-year clinical trial, rising to a 77% reduction if cancers  diagnosed in the first year (and therefore more likely to have  originated prior to the intervention) were excluded.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-GlobeAndMail" title=""><sup>[46]</sup></a></sup><sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PubMed" title=""><sup>[47]</sup></a></sup>  A recent study using data on over 4 million cancer patients from 13  different countries showed a marked difference in cancer risk between  countries classified as sunny and countries classified as less–sunny for  a number of different cancers.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PubMed2" title=""><sup>[48]</sup></a></sup></p>
+
+<p>In June 2007, The Canadian Cancer Society began recommending that  all adult Canadians consider taking 1000 IU of vitamin D during the  fall and winter months (when typically the country's northern latitude  prevents sufficient sun-stimulated production of vitamin D). This kind  of recommendation is a first for cancer agencies.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-23" title=""><sup>[49]</sup></a></sup></p>
+
+<p>Research has also suggested that cancer patients who have surgery  or treatment in the summer — and therefore make more endogenous vitamin  D — have a better chance of surviving their cancer than those who  undergo treatment in the winter when they are exposed to less sunlight.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-24" title=""><sup>[50]</sup></a></sup></p>
+
+<a></a>
+
+<h2><span class="mw-headline">Role in cardiovascular diseases</span></h2>
+
+<a></a>
+
+<h3><span class="mw-headline">History</span></h3>
+
+<p>One of the very first indications of the association between  cardiovascular diseases and vitamin D was in the most severe form of the  vitamin deficiency, Rickets, in which  patients had cardiomyopathy.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-25" title=""><sup>[51]</sup></a></sup>  Evidence of an intracellular vitamin D receptor in rat cardiomyocytes  was described in the early 1980's<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-26" title=""><sup>[52]</sup></a></sup>  and in human heart tissue in the mid 1990s.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-27" title=""><sup>[53]</sup></a></sup>   Xiang W. et al. provided further evidence of the relationship between  vitamin D and cardiovascular diseases in his VDR knockout mouse model,  in which the mice had severe cardiac hypertrophy.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-28" title=""><sup>[54]</sup></a></sup>  VDR knockout mice also under-express tissue inhibitors of  metalloproteinases (TIMP-1 & TIMP-3) in comparison to the wild-type,  which may contribute to increased oxidation of the extracellular matrix  proteins and perivascular tissues.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-29" title=""><sup>[55]</sup></a></sup>  Interestingly, spontaneous hypertensive rats (SHR) were found to be  more vitamin D deficient as measures of blood pressure increased.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid2375387" title=""><sup>[56]</sup></a></sup>  Contrary to data in the vitamin D receptor  knockout mice model, the wild-type had higher blood pressures compared  to the knockout.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-30" title=""><sup>[57]</sup></a></sup></p>
+
+<a></a>
+
+<h3><span class="mw-headline">In  vitro and animal studies</span></h3>
+
+<p>In vitro data showed that 1,25-hydroxyvitamin D has a regulatory  effect on  myoblast proliferation as well as some rapid genomic effect,  suggesting some action independent of transcription.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-31" title=""><sup>[58]</sup></a></sup>  To further explore possible non-genomic effects, Tishkoff et al.  explored the location of the VDR intracellularly and found signaling in  the T-tubules, close to the sarcoendoplasmic reticulum Ca++- ATPase  (SERCA).<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-32" title=""><sup>[59]</sup></a></sup>  They also reported accelerated rates of myocyte contraction and  relaxation in VDR knockout mice cells as compared to the wild-type.</p>
+
+<p>Dahl salt-sensitive rats (DSS) are an interesting animal model to  study direct cardiac vitamin D effects on the heart since the DSS rats  become vitamin D deficient, hypertensive and develop increased heart  mass if fed with high-salt diet. Bodyak et al. showed decreased heart  size and improved contraction by m-mode echocardiography in rats treated  with paricalcitol versus rats treated with placebo.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-33" title=""><sup>[60]</sup></a></sup>  Atrial natriuretic factor (ANP) was lower in the treated group,  findings which are similar to those previously described in  cardiomyocyte cell cultures.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-34" title=""><sup>[61]</sup></a></sup>  There were differences shown in the gene expression profiles between  DSS treated with paricalcitol versus vehicle.</p>
+
+<a></a>
+
+<h3><span class="mw-headline">Observational  studies</span></h3>
+
+<p>Multiple epidemiologic studies have shown improved in cardiovascular  morbidity and mortality in several populations. One of the earliest  associations was shown by Teng et al. in the New England Journal of  Medicine in 2003, where they showed a benefit in survival independent of  calcium, phosphorus and PTH for patients treated with activated vitamin  D.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-35" title=""><sup>[62]</sup></a></sup>  There was controversy regarding the activated vitamin D effects in  mortality, because of higher risk of hypercalcemia, hyperposphatemia and  their effect in the cardiovascular system. Patients treated with  Paricalcitol, an activated vitamin D analogue with less effect on  calcium and phosphorus, had improved survival compared to those treated  with calcitriol.  In further studies in the chronic kidney disease  population, the vitamin D level was shown to be predictive of 90-day  all-cause and cardiovascular mortality<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-36" title=""><sup>[63]</sup></a></sup>  and the administration of activated form of vitamin D was shown to  improve survival.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-37" title=""><sup>[64]</sup></a></sup>  Recently, in the New England Journal of Medicine Dr. Lee et al.  described how the sicker patients in multiple intesive care units have  lower levels of vitamin D.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid19403914" title=""><sup>[65]</sup></a></sup></p>
+
+<p>There is discrepancy in the prevalence and in the response to  treatment of cardiovascular diseases among different races and  ethnicities. In the third National Health and Nutrition Examination  Survey (NHANES) black people, who have higher cardiovascular risk  compared to whites, had lower levels of 25-hydroxyvitamin D.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-38" title=""><sup>[66]</sup></a></sup>  Moreover, multiple risk factors such as obesity, hypertension and  diabetes mellitus were associated with lower 25-hydroxyvitamin D levels.  In other studies 25-hydroxyvitamin D levels were inversely correlated  with the prevalence of metabolic syndrome,<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-39" title=""><sup>[67]</sup></a></sup>  type 2 diabetes mellitus<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-40" title=""><sup>[68]</sup></a></sup>  and hypertension.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-41" title=""><sup>[69]</sup></a></sup>  In a cohort study with more than five thousand participants that were  followed for twenty years the cumulative incidence of heart failure in  black woman was 1.1% and in black men 0.9% compared to 0.8% and 0% in  white women and men respectively.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid19297571" title=""><sup>[70]</sup></a></sup> Interestingly, paradoxically to other scenarios,  the african-american population has a survival advantage compared to  whites in hemodialysis. Wolf et al. showed that they are more likely to  be treated with activated vitamin D.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-42" title=""><sup>[71]</sup></a></sup>  Therefore, if you compare african-american versus whites in the  non-treated population their survival advantage is lost.</p>
+
+<p>Zittermann et al. demonstrated that geographic factors such as  latitude, altitude, season and place of residency were associated with  different cardiovascular risk, mostly for ischemic heart disease.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-43" title=""><sup>[72]</sup></a></sup>  Interestingly, those factors were also associated with  25-hydroxyvitamin D levels. Cardiovascular disease rates were at their  zenith in the winter, when the vitamin D levels were at their nadir.  Based on studies done by Holick, PhD, MD, we know that the prevalence of  vitamin D deficiency is close to somewhere between 40-100% in healthy  individuals at the end of the winter in the New England area.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-44" title=""><sup>[73]</sup></a></sup>  Similar seasonal variations have also been shown for heart failure  hospitalization rates<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-45" title=""><sup>[74]</sup></a></sup>  and in cerebrovascular disease.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-46" title=""><sup>[75]</sup></a></sup></p>
+
+<p>The  Ludwigshafen Risk and Cardiovascular Health Study (LURIC), a  prospective cohort design to genetic polymorphisms and biomarkers  associated with cardiovascular risks, showed a correlation between  25-hydroxyvitamin D and C-reactive protein (CRP) and interleukin 6  levels (IL-6), serum phospholipid and gluthatione levels and vascular  cell adhesion molecule 1 (VCAM1) and intracellular adhesion molecule 1  (ICAM1).<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-47" title=""><sup>[76]</sup></a></sup>  Dobnig et al. showed that 25-hydroxyvitamin D levels had a significant  hazard ratio of 2.08 for cardiovascular mortality comparing the lowest  versus the highest quartiles with a follow up close to eight years, and  1.61 for 1,25-hydroxyvitamin D. Results suggest independent predictive  value of 25-hydroxyvitamin D and 1,25-hydroxyvitamin D. The results were  independent of coronary artery disease, physical activity level,  Charlson Comorbidity Index, variables of mineral metabolism and New York  Heart Association functional class. The hazard ratios  increased  progressively  per lower vitamin D level, suggesting a dose-dependent  effect and strengthening the association. However, the study assumed  that the patients with non-cardiac death had the same probability of  dying of cardiac etiologies than the rest of the population, which may  not necessarily be true and may bias the estimates.</p>
+
+<p>Research indicates that vitamin D plays a role in preventing or  reversing <a href="http://www.wikidoc.org/index.php/Coronary_disease" class="mw-redirect" title="Coronary disease">coronary disease</a>.  As  with cancer incidence, the same qualitative inverse correlations exist  between coronary disease incidence and serum vitamin D levels,<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PubMedScragg" title=""><sup>[77]</sup></a></sup> seasonal solar exposure,<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PubMedGrimes" title=""><sup>[78]</sup></a></sup> in temperate latitudes<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PubMedSpencer" title=""><sup>[79]</sup></a></sup> but not tropical latitudes.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-PubMedKu" title=""><sup>[80]</sup></a></sup></p>
+
+<p>A nested case-control study with 18,225 men in the Health  Professionals Follow-up Study showed that vitamin D deficient people had  a relative risk of 2.09 of developing myocardial infarction.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid18541825" title=""><sup>[81]</sup></a></sup> Similar findings were also shown in the  researchers from the Framingham Offspring study prospectively collected  25-OH D levels in 1739 white individuals without cardiovascular disease  or renal disease. For the primary analysis, vitamin D levels were a  categorical variable, with cut-offs chosen a priori based on previously  published studies. Participants were classified as deficient (<15  ng/ml) or sufficient (>15 ng/ml). Mean level was 19.7 ng/ml among all  participants. Low 25-OH D levels were associated with obesity,  cigarette smoking, higher systolic blood pressure, diabetes, higher  ratio of total to HDL cholesterol, and lower intake of vitamin D or  vitamins. Interesting, there was no correlation with physical activity.</p>
+
+<p>Over a mean of 7.6 years follow up there were 120 cardiovascular  events. A multivariate model was used to correlate 25-OH D status with  cardiovascular risk, adjusting for age, sex, blood pressure,  medications, diabetes, cigarette smoking, cholesterol, body mass index,  and renal function. After adjustment, a 25-OH D level less than 15 ng/ml  was independently associated with risk of a cardiovascular event (HR  1.62, CI 1.11 to 2.35, P=0.01). In a three-category model, where  participants were classified as sufficient, deficient (10 to 15 ng/ml)  or severely deficient (<10 ng/ml), severe deficiency was associated  with even greater risk (HR 1.80, CI 1.05 to 3.08, P=0.01).</p>
+
+<p>The mechanism by which vitamin D deficiency might increase risk  of vascular disease is not entirely known. The authors cite data  demonstrating that 1,25-OH D is important for suppression of the  renin-angiotensin axis, and possible effects of hyperparathyroidism on  myocyte function and vascular inflammation. The possibility always  exists that an unmeasured confounder might explain the correlation seen  in this study. Nonetheless, it is telling that the majority of  participants in this study would qualify as vitamin-D deficient if a  cut-off of 20 ng/ml were used, and the body of evidence linking  vitamin-D deficiency with chronic illness is impressive.</p>
+
+<p>Observational data has shown similar associations of vitamin D  not only with coronary artery disease, but with equivalents such as  peripheral vascular disease.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid18417640" title=""><sup>[82]</sup></a></sup> Differences by race in PVD have also been  reported.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid19064505" title=""><sup>[83]</sup></a></sup></p>
+
+<p>A retrospective pilot study of hemodialysis patients demonstrated  improved diastolic function evaluated with lower E/A ratios on  echocardiogram in patients treated with paricalcitol as compared to  untreated patients.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid17942703" title=""><sup>[84]</sup></a></sup> A cohort of 51 patients was enrolled and  followed for 12 months. Treatment was left at discretion of  nephrologists. Baseline and 12-month echocardiograms were compared.</p>
+
+<a></a>
+
+<h3><span class="mw-headline">Randomized  clinical trials</span></h3>
+
+<p>In a very small and limited clinical trial in Korea, 25 patients with  end-stage renal disease on hemodialysis and secondary  hyperparathyroidism received either received calcitriol or nothing.<sup class="reference"><a href="http://www.wikidoc.org/index.php/Vitamin_D#_note-pmid9915270" title=""><sup>[85]</sup></a></sup> The treatment group M-mode echocardiography  showed pronounced reductions in inverventricular wall thickness, left  ventricular posterior wall thickness and left ventricle mass index.  There were no differences in blood pressure control, and blood pressure  medications were not changed. Data regarding distribution of angiotensin  converting enzyme inhibitors and angiotensin receptor blockers between  groups is not shown. Plasma renin, angiotensin II and atrial natriuretic  peptide decreased over time in the calcitriol group. The study is  limited due to its sample size, because it does not specify why some  patients received treatment and why some did not, and it does not show  the hormonal change in the control group.</p>
+
+<p>There are two large randomized double-blind placebo-controlled  trials in chronic kidney disease assessing the effect of paricalcitol  treatment on diastolic dysfunction, left ventricular mass as well as  biomarkers and genetic expression (<a href="http://clinicaltrials.gov/ct2/show/NCT00497146" class="external free" title="http://clinicaltrials.gov/ct2/show/NCT00497146">http://clinicaltrials.gov/ct2/show/NCT00497146</a> and <a href="http://clinicaltrials.gov/ct2/show/NCT00616902" class="external free" title="http://clinicaltrials.gov/ct2/show/NCT00616902">http://clinicaltrials.gov/ct2/show/NCT00616902</a> ).  These trials promise rigorous data to further characterize the effect,  and possible mechanisms of the effect, of activated vitamin D in the  heart.</p>
+
+<a></a>
+
+<h2><span class="mw-headline">Notes  and references</span></h2>
+
+<ol class="references"><li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-FactD_0" title="">1.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-FactD_1" title="">1.1</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-FactD_2" title="">1.2</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-FactD_3" title="">1.3</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-FactD_4" title="">1.4</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-FactD_5" title="">1.5</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-FactD_6" title="">1.6</a></sup><a href="http://www.webcitation.org/5Rl5u0LB5" class="external text" title="http://www.webcitation.org/5Rl5u0LB5">Dietary  Supplement Fact Sheet: Vitamin D</a>. National Institutes of Health.  Archived from <a href="http://dietary-supplements.info.nih.gov/factsheets/vitamind.asp" class="external text" title="http://dietary-supplements.info.nih.gov/factsheets/vitamind.asp">the original</a> on <a href="http://www.wikidoc.org/index.php?title=2007-09-10&action=edit&redlink=1" class="new" title="2007-09-10 (not yet written)">2007-09-10</a>.  Retrieved on <a href="http://www.wikidoc.org/index.php?title=2007-09-10&action=edit&redlink=1" class="new" title="2007-09-10 (not yet written)">2007-09-10</a>.</li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_0" title="">2.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_1" title="">2.1</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_2" title="">2.2</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_3" title="">2.3</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_4" title="">2.4</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_5" title="">2.5</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_6" title="">2.6</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Merck_7" title="">2.7</a></sup><a href="http://www.merck.com/mmpe/sec01/ch004/ch004l.html#BABBBEAE" class="external text" title="http://www.merck.com/mmpe/sec01/ch004/ch004l.html#BABBBEAE">Vitamin D</a> The Merck Manual of Diagnosis and Therapy.  Last modified November 2005</li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-River_0" title="">3.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-River_1" title="">3.1</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-River_2" title="">3.2</a></sup><a href="http://vitamind.ucr.edu/about.html" class="external text" title="http://vitamind.ucr.edu/about.html">About Vitamin D</a>  Including Sections: History, Nutrition, Chemistry, Biochemistry, and  Diseases. University of California Riverside</li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Norman_0" title="">4.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Norman_1" title="">4.1</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Norman_2" title="">4.2</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Norman_3" title="">4.3</a></sup>  Norman, Anthony W. (1998) <a href="http://www.ajcn.org/cgi/reprint/67/6/1108.pdf" class="external text" title="http://www.ajcn.org/cgi/reprint/67/6/1108.pdf">Sunlight, season, skin pigmentation, vitamin D, and  25-hydroxyvitamin D:integral components of the vitamin D endocrine  system.</a> Am J Clin Nutr;67:1108–10.</li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-UVB_0" title="">5.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-UVB_1" title="">5.1</a></sup><a href="http://amateurastronomy.org/Events/EH473.html" class="external text" title="http://amateurastronomy.org/Events/EH473.html">Fun with UVB</a> Includes calculations and measurements  of UVB levels at various angles of solar rays.</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-0" title="">?</a> <cite style="font-style:normal;">Laura A. G. Armas, Bruce W. Hollis and  Robert P. Heaney (2004). "<a href="http://jcem.endojournals.org/cgi/content/full/89/11/5387" class="external text" title="http://jcem.endojournals.org/cgi/content/full/89/11/5387">Vitamin D2 Is Much Less Effective than Vitamin D3 in  Humans <b>Full Text</b></a>". <i>The Journal of Clinical Endocrinology  & Metabolism</i> <b>89</b> (11): 5387–5391.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-1" title="">?</a>   <cite style="font-style:normal;">Coates, M. E. (1968). "<a href="http://docstore.ingenta.com/cgi-bin/ds_deliver/1/u/d/ISIS/33840020.1/cabi/pns/1968/00000027/00000002/art00019/89A25EAB89BAB011116525855554705D47CC65A51B.pdf?link=http://www.ingentaconnect.com/error/delivery&format=pdf" class="external text" title="http://docstore.ingenta.com/cgi-bin/ds_deliver/1/u/d/ISIS/33840020.1/cabi/pns/1968/00000027/00000002/art00019/89A25EAB89BAB011116525855554705D47CC65A51B.pdf?link=http://www.ingentaconnect.com/error/delivery&format=pdf">Requirements of different species for vitamins <b>Full  Text-pdf</b></a>". <i>Proceedings of the Nutrition Society</i> <b>27</b>  (2): 143–148. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=5755261" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=5755261">PMID  5755261</a>.</cite></li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PDR_0" title="">8.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PDR_1" title="">8.1</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PDR_2" title="">8.2</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PDR_3" title="">8.3</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PDR_4" title="">8.4</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PDR_5" title="">8.5</a></sup><a href="http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/vit_0265.shtml" class="external text" title="http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/vit_0265.shtml">Vitamin D</a> The Physicians Desk Reference. 2006  Thompson Healthcare.</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid10633464_0" title="">?</a> <cite style="font-style:normal;">Slatopolsky E, Dusso A,  Brown A (December 1999). "New analogs of vitamin D3". <i>Kidney Int.  Suppl.</i> <b>73</b>: S46–51. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10633464" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10633464">PMID  10633464</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-2" title="">?</a>  Matsuoka LY, Wortsman J, Haddad JG, Kolm P, Hollis BW. Racial  pigmentation and the cutaneous synthesis of vitamin D. Arch Dermatol  1991;127:536–8.</li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Sun_0" title="">11.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Sun_1" title="">11.1</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Sun_2" title="">11.2</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Sun_3" title="">11.3</a></sup><cite style="font-style:normal;">Holick MF  (2004). "<a href="http://www.ajcn.org/cgi/content/full/80/6/1678S?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=1&author1=holick+mf&andorexacttitle=and&andorexacttitleabs=and&andorexactfulltext=and&searchid=1&FIRSTINDEX=0&sortspec=relevance&fdate=1/1/2004&tdate=12/31/2004&resourcetype=HWCIT" class="external text" title="http://www.ajcn.org/cgi/content/full/80/6/1678S?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=1&author1=holick+mf&andorexacttitle=and&andorexacttitleabs=and&andorexactfulltext=and&searchid=1&FIRSTINDEX=0&sortspec=relevance&fdate=1/1/2004&tdate=12/31/2004&resourcetype=HWCIT">Sunlight and vitamin D for bone health and prevention of  autoimmune diseases, cancers, and cardiovascular disease</a>". <i>American  Journal of Clinical Nutrition <b>Full Text</b></i> <b>80</b> (6):  1678S-1688S.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-3" title="">?</a>  In scientific literature, vitamin D dosage in usually reported in <a href="http://www.wikidoc.org/index.php/Microgram" title="Microgram">micrograms</a>,  whereas food and supplement regulations typically require dosages on  labels to be in <a href="http://www.wikidoc.org/index.php/International_unit" title="International unit">International Units</a> (IU). 1 microgram  vitamin D equals 40 IU vitamin D.</li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Nowson_0" title="">13.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Nowson_1" title="">13.1</a></sup><cite style="font-style:normal;">Nowson C,  Margerison C (2002). "<a href="http://www.mja.com.au/public/issues/177_03_050802/now10763_fm.html" class="external text" title="http://www.mja.com.au/public/issues/177_03_050802/now10763_fm.html">Vitamin D intake and vitamin D status of Australians</a>".  <i>Med J Aust</i> <b>177</b> (3): 149-52. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12149085" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12149085">PMID  12149085</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-4" title="">?</a> "<a href="http://www.msnbc.msn.com/id/12370708" class="external text" title="http://www.msnbc.msn.com/id/12370708">Bringing  Mushrooms Out of the Dark</a>", <i>MSNBC</i>, April 18 2006. Retrieved  on <a href="http://www.wikidoc.org/index.php?title=2007-08-06&action=edit&redlink=1" class="new" title="2007-08-06 (not yet written)">2007-08-06</a>.<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.type=newspaperArticle&rft.subject=News&rft.title=Bringing+Mushrooms+Out+of+the+Dark&rft.identifier=http%3A%2F%2Fwww.msnbc.msn.com%2Fid%2F12370708&rft.source=MSNBC&rft.date=April+18+2006"> </span></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid9504937_0" title="">?</a> <cite style="font-style:normal;">Thomas MK, Lloyd-Jones  DM, Thadhani RI, <i>et al</i> (March 1998). "<a href="http://content.nejm.org/cgi/pmidlookup?view=short&pmid=9504937&promo=ONFLNS19" class="external text" title="http://content.nejm.org/cgi/pmidlookup?view=short&pmid=9504937&promo=ONFLNS19">Hypovitaminosis D in medical inpatients</a>". <i>N.  Engl. J. Med.</i> <b>338</b> (12): 777–83. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9504937" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9504937">PMID  9504937</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid16529140_0" title="">?</a> <cite style="font-style:normal;">Holick MF (March 2006).  "<a href="http://www.mayoclinicproceedings.com/cgi/pmidlookup?view=long&pmid=16529140" class="external text" title="http://www.mayoclinicproceedings.com/cgi/pmidlookup?view=long&pmid=16529140">High prevalence of vitamin D inadequacy and implications  for health</a>". <i>Mayo Clin. Proc.</i> <b>81</b> (3): 353–73. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16529140" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16529140">PMID  16529140</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid16825677_0" title="">?</a> <cite style="font-style:normal;">Bischoff-Ferrari HA,  Giovannucci E, Willett WC, Dietrich T, Dawson-Hughes B (July 2006). "<a href="http://www.ajcn.org/cgi/pmidlookup?view=long&pmid=16825677" class="external text" title="http://www.ajcn.org/cgi/pmidlookup?view=long&pmid=16825677">Estimation of optimal serum concentrations of  25-hydroxyvitamin D for multiple health outcomes</a>". <i>Am. J. Clin.  Nutr.</i> <b>84</b> (1): 18–28. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16825677" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16825677">PMID  16825677</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid9519960_0" title="">?</a> <cite style="font-style:normal;">Malabanan A, Veronikis  IE, Holick MF (March 1998). "Redefining vitamin D insufficiency". <i>Lancet</i>  <b>351</b> (9105): 805–6. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9519960" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9519960">PMID  9519960</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid15776217_0" title="">?</a> <cite style="font-style:normal;">Dawson-Hughes B, Heaney  RP, Holick MF, Lips P, Meunier PJ, Vieth R (July 2005). "Estimates of  optimal vitamin D status". <i>Osteoporos Int</i> <b>16</b> (7): 713–6. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1007/s00198-005-1867-7" class="external text" title="http://dx.doi.org/10.1007/s00198-005-1867-7">10.1007/s00198-005-1867-7</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15776217" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15776217">PMID  15776217</a>.</cite></li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-History_0" title="">20.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-History_1" title="">20.1</a></sup><cite style="font-style:normal;">Rajakumar K  (2003). "<a href="http://pediatrics.aappublications.org/cgi/content/full/112/2/e132" class="external text" title="http://pediatrics.aappublications.org/cgi/content/full/112/2/e132">Vitamin D, cod-liver oil, sunlight, and rickets: a  historical perspective</a>". <i>Pediatrics</i> <b>112</b> (2): e132-5. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12897318" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12897318">PMID  12897318</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-5" title="">?</a> <cite style="font-style:normal;">Grant WB, Holick MF (2005). "Benefits and  requirements of vitamin D for optimal health: a review". <i>Altern Med  Rev</i> <b>10</b> (2): 94-111. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15989379" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15989379">PMID  15989379</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-6" title="">?</a> "<a href="http://www.eurekalert.org/pub_releases/2007-04/wfub-lvd041807.php" class="external text" title="http://www.eurekalert.org/pub_releases/2007-04/wfub-lvd041807.php">Low vitamin D levels linked to poor physical performance  in older adults</a>", <i>EurekAlert</i>, April 23 2007. Retrieved on <a href="http://www.wikidoc.org/index.php?title=2007-04-24&action=edit&redlink=1" class="new" title="2007-04-24 (not yet written)">2007-04-24</a>.<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.type=newspaperArticle&rft.subject=News&rft.title=Low+vitamin+D+levels+linked+to+poor+physical+performance+in+older+adults&rft.identifier=http%3A%2F%2Fwww.eurekalert.org%2Fpub_releases%2F2007-04%2Fwfub-lvd041807.php&rft.source=EurekAlert&rft.date=April+23+2007"> </span></li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Heaney_2004_0" title="">23.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Heaney_2004_1" title="">23.1</a></sup><cite style="font-style:normal;">Heaney RP  (2004). "<a href="http://www.ajcn.org/cgi/content/full/80/6/1706S" class="external text" title="http://www.ajcn.org/cgi/content/full/80/6/1706S">Functional  indices of vitamin D status and ramifications of vitamin D deficiency <b>Full  Text</b></a>". <i>Am J Clin Nutr</i> <b>80</b> (6 Suppl): 1706S-9S.</cite></li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Canada_0" title="">24.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Canada_1" title="">24.1</a></sup><a href="http://www.hc-sc.gc.ca/fn-an/nutrition/child-enfant/infant-nourisson/vita_d_supp_e.html" class="external text" title="http://www.hc-sc.gc.ca/fn-an/nutrition/child-enfant/infant-nourisson/vita_d_supp_e.html">Vitamin D Supplementation for Breastfed Infants</a> -  2004 Health Canada Recommendation</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-7" title="">?</a> <cite style="font-style:normal;">Holick MF (2005). "<a href="http://jn.nutrition.org/cgi/content/full/135/11/2739S" class="external text" title="http://jn.nutrition.org/cgi/content/full/135/11/2739S">The vitamin D epidemic and its health consequences <b>Full  Text</b></a>". <i>J Nutr</i> <b>135</b> (11): 2739S-48S.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-8" title="">?</a> <cite style="font-style:normal;">Sayre, Robert M.; John C. Dowdy (2007). "<a href="http://www.blackwell-synergy.com/doi/abs/10.1562/2006-06-29-RC-956" class="external text" title="http://www.blackwell-synergy.com/doi/abs/10.1562/2006-06-29-RC-956">Darkness at Noon: Sunscreens and Vitamin D<sub>3</sub></a>".  <i>Photochemistry and Photobiology</i> <b>83</b> (2): 459. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1562/2006-06-29-RC-956" class="external text" title="http://dx.doi.org/10.1562/2006-06-29-RC-956">10.1562/2006-06-29-RC-956</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-9" title="">?</a> <cite style="font-style:normal;">Grant WB (2002). "An estimate of premature  cancer mortality in the U.S. due to inadequate doses of solar  ultraviolet-B radiation". <i>Cancer</i> <b>94</b> (6): 1867-75. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11920550" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11920550">PMID  11920550</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-burquas_0" title="">?</a> <cite style="font-style:normal;">Saadi HF, Dawodu A,  Afandi BO, Zayed R, Benedict S, Nagelkerke N (2007). "Efficacy of daily  and monthly high-dose calciferol in vitamin D-deficient nulliparous and  lactating women". <i>Am. J. Clin. Nutr.</i> <b>85</b> (6): 1565-71. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17556694" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17556694">PMID  17556694</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-homestead_0" title="">?</a> <a href="http://www.homestead.com/ipmofalaska/files/rodenticides.html" class="external text" title="http://www.homestead.com/ipmofalaska/files/rodenticides.html">RODENTICIDES, source: Journal of Veterinary Medicine,  archives, vol. 27, May, 1998</a>. IPM Of Alaska, Solving Pest Problems  Sensibly. Retrieved on <a href="http://www.wikidoc.org/index.php?title=2006-07-07&action=edit&redlink=1" class="new" title="2006-07-07 (not yet written)">2006-07-07</a>.</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-10" title="">?</a>  <cite style="font-style:normal;">Bendich A, Langseth L (1989). "<a href="http://www.ajcn.org/cgi/content/full/83/2/191journal=Am" class="external text" title="http://www.ajcn.org/cgi/content/full/83/2/191journal=Am">J Clin Nutr Safety of vitamin A</a>" <b>49</b> (2):  358-71. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2492745" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2492745">PMID  2492745</a>.</cite></li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Vieth_0" title="">31.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Vieth_1" title="">31.1</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Vieth_2" title="">31.2</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Vieth_3" title="">31.3</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Vieth_4" title="">31.4</a></sup><cite style="font-style:normal;">Vieth R (1999). "<a href="http://www.ajcn.org/cgi/content/full/69/5/842" class="external text" title="http://www.ajcn.org/cgi/content/full/69/5/842">Vitamin D supplementation, 25-hydroxyvitamin D  concentrations, and safety</a>". <i>Am J Clin Nutr</i> <b>69</b> (5):  842-56. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10232622" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10232622">PMID  10232622</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-11" title="">?</a>  <cite style="font-style:normal;">Holick M (1995). "Environmental  factors that influence the cutaneous production of vitamin D". <i>Am J  Clin Nutr</i> <b>61</b> (3 Suppl): 638S-645S. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=7879731" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=7879731">PMID  7879731</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-12" title="">?</a>  <a href="http://www.poison.org/prevent/documents/TESS%20Annual%20Report%202004.pdf" class="external text" title="http://www.poison.org/prevent/documents/TESS%20Annual%20Report%202004.pdf">2004 Annual Report</a> of the American Association of  Poison Control Centers Toxic Exposure Surveillance System.</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-13" title="">?</a>  <cite style="font-style:normal;">Adams JS, Lee G (1997). "<a href="http://www.annals.org/cgi/content/full/127/3/203" class="external text" title="http://www.annals.org/cgi/content/full/127/3/203">Gains in bone mineral density with resolution of vitamin D  intoxication</a>". <i>Ann Intern Med</i> <b>127</b> (3): 203-206. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9245225" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9245225">PMID  9245225</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-14" title="">?</a>  <cite style="font-style:normal;">Rajasree S, Rajpal K, Kartha CC,  Sarma PS, Kutty VR, Iyer CS, Girija G (2001). "Serum 25-hydroxyvitamin  D3 levels are elevated in South Indian patients with ischemic heart  disease <b>Full Text</b>". <i>Eur J Epidemiol</i> <b>17</b> (6): 567-71.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11949730" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11949730">PMID  11949730</a>.</cite></li>
+
+<li>? <sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Endo_0" title="">36.0</a></sup><sup><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Endo_1" title="">36.1</a></sup> Nagpal, Sunil, Songqing Naand and Radhakrishnan  Rathnachalam (2005) <a href="http://edrv.endojournals.org/cgi/content/full/26/5/662" class="external text" title="http://edrv.endojournals.org/cgi/content/full/26/5/662">Noncalcemic Actions of Vitamin D Receptor Ligands <b>Full  Text</b></a> Endocrine Reviews 26 (5): 662-687.</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-15" title="">?</a>  <cite style="font-style:normal;">Yee YK, Chintalacharuvu SR, Lu J,  Nagpal S. (2005). "Vitamin D receptor modulators for inflammation and  cancer.". <i>Mini Rev Med Chem.</i> <b>5</b> (8): 761–78. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16101412" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16101412">PMID  16101412</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-16" title="">?</a>  <cite style="font-style:normal;">van Etten E, Mathieu C. (2005).  "Immunoregulation by 1,25-dihydroxyvitamin D3: basic concepts.". <i>J  Steroid Biochem Mol Biol.</i> <b>97</b> (1-2): 93–101. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16046118" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16046118">PMID  16046118</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-17" title="">?</a>  Janet Raloff, <a href="http://www.sciencenews.org/articles/20061111/bob9.asp" class="external text" title="http://www.sciencenews.org/articles/20061111/bob9.asp"><i>The Antibiotic Vitamin</i></a> Science News, Vol 170,  November 11, 2006, pages 312-317</li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-18" title="">?</a>  Muhe, L., et al., Case-control study of the role of nutritional rickets  in the risk of developing pneumonia in Ethiopian children. <i>Lancet</i>  (June 21, 1997) 349, 1801-1804. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9269215" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9269215">PMID  9269215</a></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-19" title="">?</a>  United Kingdom Food Standards Agency; Expert Group on Vitamins and  Minerals; Professor Michael Langdon, Chairman. (2003 May). Safe Upper  Levels for Vitamins and Minerals. Retrieved Aug. 12, 2006 from <a href="http://www.food.gov.uk/multimedia/pdfs/vitmin2003.pdf" class="external free" title="http://www.food.gov.uk/multimedia/pdfs/vitmin2003.pdf">http://www.food.gov.uk/multimedia/pdfs/vitmin2003.pdf</a></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-Abreu_0" title="">?</a>  <cite style="font-style:normal;">Abreu MT, et al. (2004). "Measurement  of vitamin D levels in inflammatory bowel disease patients reveals a  subset of Crohn’s disease patients with elevated 1,25-dihydroxyvitamin D  and low bone mineral density". <i>Gut</i> <b>53</b> (8): 1129-1136. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15247180" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15247180">PMID  15247180</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-20" title="">?</a>  <cite style="font-style:normal;">Munger KL. , Levin, LI,Hollis BW ,  Howard, NS , Ascherio A (2006). "Serum 25-hydroxyvitamin D levels and  risk of multiple sclerosis.". <i>Journal of the American Medical  Association</i> <b>296</b> (23): 2832-2838. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17179460" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17179460">PMID  17179460</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-21" title="">?</a>  "<a href="http://news.bbc.co.uk/2/hi/health/4563336.stm" class="external text" title="http://news.bbc.co.uk/2/hi/health/4563336.stm">Vitamin  D 'can lower cancer risk'</a>", <i>BBC News</i>, 28 December 2005.  Retrieved on <a href="http://www.wikidoc.org/index.php?title=2006-03-23&action=edit&redlink=1" class="new" title="2006-03-23 (not yet written)">2006-03-23</a>.<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.type=newspaperArticle&rft.subject=News&rft.title=Vitamin+D+%27can+lower+cancer+risk%27&rft.identifier=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fhealth%2F4563336.stm&rft.source=BBC+News&rft.date=28+December+2005"> </span></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-22" title="">?</a>  <cite style="font-style:normal;">Beer T, Myrthue A (2006). "Calcitriol  in the treatment of prostate cancer". <i>Anticancer Res</i> <b>26</b>  (4A): 2647-51. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16886675" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16886675">PMID  16886675</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-GlobeAndMail_0" title="">?</a> Martin Mittelstaedt. "<a href="http://www.theglobeandmail.com/servlet/story/RTGAM.20070428.wxvitamin28/BNStory/specialScienceandHealth/home" class="external text" title="http://www.theglobeandmail.com/servlet/story/RTGAM.20070428.wxvitamin28/BNStory/specialScienceandHealth/home">Vitamin D casts cancer prevention in new light</a>", <i>Global  and Mail</i>, 28 April 2007. Retrieved on <a href="http://www.wikidoc.org/index.php?title=2007-04-28&action=edit&redlink=1" class="new" title="2007-04-28 (not yet written)">2007-04-28</a>.<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.type=newspaperArticle&rft.subject=News&rft.au=Martin+Mittelstaedt&rft.title=Vitamin+D+casts+cancer+prevention+in+new+light&rft.identifier=http%3A%2F%2Fwww.theglobeandmail.com%2Fservlet%2Fstory%2FRTGAM.20070428.wxvitamin28%2FBNStory%2FspecialScienceandHealth%2Fhome&rft.source=Global+and+Mail&rft.date=28+April+2007"> </span></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PubMed_0" title="">?</a>  <cite style="font-style:normal;">Lappe JM, Travers-Gustafson D, Davies  KM, Recker RR, Heaney RP. (2007). "Vitamin D and calcium  supplementation reduces cancer risk: results of a randomized trial.". <i>Am  J Clin Nutr.</i> <b>85</b> (6): 1586-91. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17556697" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17556697">PMID  17556697</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PubMed2_0" title="">?</a> <cite style="font-style:normal;">Tuohimaaa and others.  "Does solar exposure, as indicated by the non-melanoma skin cancers,  protect from solid cancers: Vitamin D as a possible explanation.". <i>European  Journal of Cancer</i>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17540555" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17540555">PMID  17540555</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-23" title="">?</a>  "<a href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070608/cancer_recommendations_070608/20070608?hub=Health" class="external text" title="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070608/cancer_recommendations_070608/20070608?hub=Health">Canadian Cancer Society Recommends Vitamin D</a>", <i>CTV  News</i>, 8 June 2007. Retrieved on <a href="http://www.wikidoc.org/index.php?title=2007-06-09&action=edit&redlink=1" class="new" title="2007-06-09 (not yet written)">2007-06-09</a>.<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.type=newspaperArticle&rft.subject=News&rft.title=Canadian+Cancer+Society+Recommends+Vitamin+D&rft.identifier=http%3A%2F%2Fwww.ctv.ca%2Fservlet%2FArticleNews%2Fstory%2FCTVNews%2F20070608%2Fcancer_recommendations_070608%2F20070608%3Fhub%3DHealth&rft.source=CTV+News&rft.date=8+June+2007"> </span></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-24" title="">?</a>  "<a href="http://news.bbc.co.uk/2/hi/health/4458085.stm" class="external text" title="http://news.bbc.co.uk/2/hi/health/4458085.stm">Vitamin  D 'aids lung cancer ops'</a>", <i>BBC News</i>, 22 April 2005.  Retrieved on <a href="http://www.wikidoc.org/index.php?title=2006-03-23&action=edit&redlink=1" class="new" title="2006-03-23 (not yet written)">2006-03-23</a>.<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.type=newspaperArticle&rft.subject=News&rft.title=Vitamin+D+%27aids+lung+cancer+ops%27&rft.identifier=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fhealth%2F4458085.stm&rft.source=BBC+News&rft.date=22+April+2005"> </span></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-25" title="">?</a>  <cite style="font-style:normal;">Cramm KJ, Cattaneo RA, Schremmer RD  (November 2006). "An infant with tachypnea". <i>Pediatr Emerg Care</i> <b>22</b>  (11): 728–31. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1097/01.pec.0000238746.81358.ae" class="external text" title="http://dx.doi.org/10.1097/01.pec.0000238746.81358.ae">10.1097/01.pec.0000238746.81358.ae</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17110866" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17110866">PMID  17110866</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-26" title="">?</a>  <cite style="font-style:normal;">Walters MR, Wicker DC, Riggle PC  (January 1986). "<a href="http://linkinghub.elsevier.com/retrieve/pii/S0022-2828%2886%2980983-X" class="external text" title="http://linkinghub.elsevier.com/retrieve/pii/S0022-2828(86)80983-X">1,25-Dihydroxyvitamin D3 receptors identified in the rat  heart</a>". <i>J. Mol. Cell. Cardiol.</i> <b>18</b> (1): 67–72. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=3005597" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=3005597">PMID  3005597</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-27" title="">?</a>  <cite style="font-style:normal;">O'Connell TD, Simpson RU (September  1996). "Immunochemical identification of the 1,25-dihydroxyvitamin D3  receptor protein in human heart". <i>Cell Biol. Int.</i> <b>20</b> (9):  621–4. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1006/cbir.1996.0081" class="external text" title="http://dx.doi.org/10.1006/cbir.1996.0081">10.1006/cbir.1996.0081</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=8948124" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=8948124">PMID  8948124</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-28" title="">?</a>  <cite style="font-style:normal;">Xiang W, Kong J, Chen S, <i>et al</i>  (January 2005). "Cardiac hypertrophy in vitamin D receptor knockout  mice: role of the systemic and cardiac renin-angiotensin systems". <i>Am.  J. Physiol. Endocrinol. Metab.</i> <b>288</b> (1): E125–32. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1152/ajpendo.00224.2004" class="external text" title="http://dx.doi.org/10.1152/ajpendo.00224.2004">10.1152/ajpendo.00224.2004</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15367398" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15367398">PMID  15367398</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-29" title="">?</a>  <cite style="font-style:normal;">Rahman A, Hershey S, Ahmed S,  Nibbelink K, Simpson RU (March 2007). "Heart extracellular matrix gene  expression profile in the vitamin D receptor knockout mice". <i>J.  Steroid Biochem. Mol. Biol.</i> <b>103</b> (3-5): 416–9. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1016/j.jsbmb.2006.12.081" class="external text" title="http://dx.doi.org/10.1016/j.jsbmb.2006.12.081">10.1016/j.jsbmb.2006.12.081</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17275288" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17275288">PMID  17275288</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid2375387_0" title="">?</a> <cite style="font-style:normal;">Bourgouin P, Lucas P,  Roullet C, <i>et al</i> (July 1990). "<a href="http://ajprenal.physiology.org/cgi/pmidlookup?view=reprint&pmid=2375387" class="external text" title="http://ajprenal.physiology.org/cgi/pmidlookup?view=reprint&pmid=2375387">Developmental changes of Ca2+, PO4, and calcitriol  metabolism in spontaneously hypertensive rats</a>". <i>Am. J. Physiol.</i>  <b>259</b> (1 Pt 2): F104–10. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2375387" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2375387">PMID  2375387</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-30" title="">?</a>  <cite style="font-style:normal;">Simpson RU, Hershey SH, Nibbelink KA  (March 2007). "Characterization of heart size and blood pressure in the  vitamin D receptor knockout mouse". <i>J. Steroid Biochem. Mol. Biol.</i>  <b>103</b> (3-5): 521–4. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1016/j.jsbmb.2006.12.098" class="external text" title="http://dx.doi.org/10.1016/j.jsbmb.2006.12.098">10.1016/j.jsbmb.2006.12.098</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17275289" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17275289">PMID  17275289</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-31" title="">?</a>  <cite style="font-style:normal;">Simpson RU, Thomas GA, Arnold AJ  (July 1985). "<a href="http://www.jbc.org/cgi/pmidlookup?view=long&pmid=2991224" class="external text" title="http://www.jbc.org/cgi/pmidlookup?view=long&pmid=2991224">Identification of 1,25-dihydroxyvitamin D3 receptors and  activities in muscle</a>". <i>J. Biol. Chem.</i> <b>260</b> (15):  8882–91. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2991224" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2991224">PMID  2991224</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-32" title="">?</a>  <cite style="font-style:normal;">Tishkoff DX, Nibbelink KA, Holmberg  KH, Dandu L, Simpson RU (February 2008). "Functional vitamin D receptor  (VDR) in the t-tubules of cardiac myocytes: VDR knockout cardiomyocyte  contractility". <i>Endocrinology</i> <b>149</b> (2): 558–64. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1210/en.2007-0805" class="external text" title="http://dx.doi.org/10.1210/en.2007-0805">10.1210/en.2007-0805</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17974622" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17974622">PMID  17974622</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-33" title="">?</a>  <cite style="font-style:normal;">Bodyak N, Ayus JC, Achinger S, <i>et  al</i> (October 2007). "Activated vitamin D attenuates left ventricular  abnormalities induced by dietary sodium in Dahl salt-sensitive animals".  <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>104</b> (43): 16810–5. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1073/pnas.0611202104" class="external text" title="http://dx.doi.org/10.1073/pnas.0611202104">10.1073/pnas.0611202104</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17942703" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17942703">PMID  17942703</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-34" title="">?</a>  <cite style="font-style:normal;">Wu J, Garami M, Cheng T, Gardner DG  (April 1996). "1,25(OH)2 vitamin D3, and retinoic acid antagonize  endothelin-stimulated hypertrophy of neonatal rat cardiac myocytes". <i>J.  Clin. Invest.</i> <b>97</b> (7): 1577–88. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1172/JCI118582" class="external text" title="http://dx.doi.org/10.1172/JCI118582">10.1172/JCI118582</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=8601621" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=8601621">PMID  8601621</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-35" title="">?</a>  <cite style="font-style:normal;">Teng M, Wolf M, Lowrie E, Ofsthun N,  Lazarus JM, Thadhani R (July 2003). "Survival of patients undergoing  hemodialysis with paricalcitol or calcitriol therapy". <i>N. Engl. J.  Med.</i> <b>349</b> (5): 446–56. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1056/NEJMoa022536" class="external text" title="http://dx.doi.org/10.1056/NEJMoa022536">10.1056/NEJMoa022536</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12890843" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12890843">PMID  12890843</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-36" title="">?</a>  <cite style="font-style:normal;">Wolf M, Shah A, Gutierrez O, <i>et al</i>  (October 2007). "Vitamin D levels and early mortality among incident  hemodialysis patients". <i>Kidney Int.</i> <b>72</b> (8): 1004–13. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1038/sj.ki.5002451" class="external text" title="http://dx.doi.org/10.1038/sj.ki.5002451">10.1038/sj.ki.5002451</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17687259" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17687259">PMID  17687259</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-37" title="">?</a>  <cite style="font-style:normal;">Teng M, Wolf M, Ofsthun MN, <i>et al</i>  (April 2005). "Activated injectable vitamin D and hemodialysis  survival: a historical cohort study". <i>J. Am. Soc. Nephrol.</i> <b>16</b>  (4): 1115–25. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1681/ASN.2004070573" class="external text" title="http://dx.doi.org/10.1681/ASN.2004070573">10.1681/ASN.2004070573</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15728786" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15728786">PMID  15728786</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid19403914_0" title="">?</a> <cite style="font-style:normal;">Lee P, Eisman JA,  Center JR (April 2009). "Vitamin D deficiency in critically ill  patients". <i>N. Engl. J. Med.</i> <b>360</b> (18): 1912–4. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1056/NEJMc0809996" class="external text" title="http://dx.doi.org/10.1056/NEJMc0809996">10.1056/NEJMc0809996</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19403914" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19403914">PMID  19403914</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-38" title="">?</a>  <cite style="font-style:normal;">Martins D, Wolf M, Pan D, <i>et al</i>  (June 2007). "Prevalence of cardiovascular risk factors and the serum  levels of 25-hydroxyvitamin D in the United States: data from the Third  National Health and Nutrition Examination Survey". <i>Arch. Intern. Med.</i>  <b>167</b> (11): 1159–65. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1001/archinte.167.11.1159" class="external text" title="http://dx.doi.org/10.1001/archinte.167.11.1159">10.1001/archinte.167.11.1159</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17563024" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17563024">PMID  17563024</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-39" title="">?</a>  <cite style="font-style:normal;">Ford ES, Ajani UA, McGuire LC, Liu S  (May 2005). "<a href="http://care.diabetesjournals.org/cgi/pmidlookup?view=long&pmid=15855599" class="external text" title="http://care.diabetesjournals.org/cgi/pmidlookup?view=long&pmid=15855599">Concentrations of serum vitamin D and the metabolic  syndrome among U.S. adults</a>". <i>Diabetes Care</i> <b>28</b> (5):  1228–30. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15855599" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15855599">PMID  15855599</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-40" title="">?</a>  <cite style="font-style:normal;">Knekt P, Laaksonen M, Mattila C, <i>et  al</i> (September 2008). "Serum vitamin D and subsequent occurrence of  type 2 diabetes". <i>Epidemiology</i> <b>19</b> (5): 666–71. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1097/EDE.0b013e318176b8ad" class="external text" title="http://dx.doi.org/10.1097/EDE.0b013e318176b8ad">10.1097/EDE.0b013e318176b8ad</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18496468" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18496468">PMID  18496468</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-41" title="">?</a>  <cite style="font-style:normal;">Forman JP, Giovannucci E, Holmes MD, <i>et  al</i> (May 2007). "Plasma 25-hydroxyvitamin D levels and risk of  incident hypertension". <i>Hypertension</i> <b>49</b> (5): 1063–9. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1161/HYPERTENSIONAHA.107.087288" class="external text" title="http://dx.doi.org/10.1161/HYPERTENSIONAHA.107.087288">10.1161/HYPERTENSIONAHA.107.087288</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17372031" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17372031">PMID  17372031</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid19297571_0" title="">?</a> <cite style="font-style:normal;">Bibbins-Domingo K,  Pletcher MJ, Lin F, <i>et al</i> (March 2009). "Racial differences in  incident heart failure among young adults". <i>N. Engl. J. Med.</i> <b>360</b>  (12): 1179–90. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1056/NEJMoa0807265" class="external text" title="http://dx.doi.org/10.1056/NEJMoa0807265">10.1056/NEJMoa0807265</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19297571" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19297571">PMID  19297571</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-42" title="">?</a>  <cite style="font-style:normal;">Wolf M, Betancourt J, Chang Y, <i>et  al</i> (July 2008). "Impact of activated vitamin D and race on survival  among hemodialysis patients". <i>J. Am. Soc. Nephrol.</i> <b>19</b> (7):  1379–88. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1681/ASN.2007091002" class="external text" title="http://dx.doi.org/10.1681/ASN.2007091002">10.1681/ASN.2007091002</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18400938" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18400938">PMID  18400938</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-43" title="">?</a>  <cite style="font-style:normal;">Zittermann A, Schleithoff SS, Koerfer  R (October 2005). "<a href="http://journals.cambridge.org/abstract_S0007114505002060" class="external text" title="http://journals.cambridge.org/abstract_S0007114505002060">Putting cardiovascular disease and vitamin D  insufficiency into perspective</a>". <i>Br. J. Nutr.</i> <b>94</b> (4):  483–92. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16197570" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16197570">PMID  16197570</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-44" title="">?</a>  <cite style="font-style:normal;">Holick MF (July 2007). "Vitamin D  deficiency". <i>N. Engl. J. Med.</i> <b>357</b> (3): 266–81. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1056/NEJMra070553" class="external text" title="http://dx.doi.org/10.1056/NEJMra070553">10.1056/NEJMra070553</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17634462" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17634462">PMID  17634462</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-45" title="">?</a>  <cite style="font-style:normal;">Boulay F, Berthier F, Sisteron O,  Gendreike Y, Gibelin P (July 1999). "<a href="http://circ.ahajournals.org/cgi/pmidlookup?view=long&pmid=10411853" class="external text" title="http://circ.ahajournals.org/cgi/pmidlookup?view=long&pmid=10411853">Seasonal variation in chronic heart failure  hospitalizations and mortality in France</a>". <i>Circulation</i> <b>100</b>  (3): 280–6. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10411853" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10411853">PMID  10411853</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-46" title="">?</a>  <cite style="font-style:normal;">Poole KE, Loveridge N, Barker PJ, <i>et  al</i> (January 2006). "Reduced vitamin D in acute stroke". <i>Stroke</i>  <b>37</b> (1): 243–5. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1161/01.STR.0000195184.24297.c1" class="external text" title="http://dx.doi.org/10.1161/01.STR.0000195184.24297.c1">10.1161/01.STR.0000195184.24297.c1</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16322500" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16322500">PMID  16322500</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-47" title="">?</a>  <cite style="font-style:normal;">Dobnig H, Pilz S, Scharnagl H, <i>et  al</i> (June 2008). "Independent association of low serum  25-hydroxyvitamin d and 1,25-dihydroxyvitamin d levels with all-cause  and cardiovascular mortality". <i>Arch. Intern. Med.</i> <b>168</b>  (12): 1340–9. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1001/archinte.168.12.1340" class="external text" title="http://dx.doi.org/10.1001/archinte.168.12.1340">10.1001/archinte.168.12.1340</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18574092" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18574092">PMID  18574092</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PubMedScragg_0" title="">?</a> <cite style="font-style:normal;">Scragg R, Jackson R,  Holdaway IM, Lim T, Beaglehole R. (1990). "Myocardial infarction is  inversely associated with plasma 25-hydroxyvitamin D3 levels: a  community-based study.". <i>Int J Epidemiol.</i> <b>19</b> (3): 559-563.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2262248" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2262248">PMID  2262248</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PubMedGrimes_0" title="">?</a> <cite style="font-style:normal;">Grimes DS, Hindle E,  Dyer T. (1996). "Sunlight cholesterol and coronary heart disease.". <i>Quarterly  Journal of Medicine</i> <b>89</b> (8): 579-589. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=8935479" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=8935479">PMID  8935479</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PubMedSpencer_0" title="">?</a> <cite style="font-style:normal;">Spencer FA, Goldberg  RJ, Becker RC, Gore JM. (1998). "Seasonal distribution of acute  myocardial infarction in the second National Registry of Myocardial  Infarction.". <i>J Am Coll Cardiol.</i> <b>31</b> (6): 1226-33. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9581712" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9581712">PMID  9581712</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-PubMedKu_0" title="">?</a> <cite style="font-style:normal;">Ku CS, Yang CY, Lee WJ,  Chiang HT, Liu CP, Lin SL. (1998). "Absence of a seasonal variation in  myocardial infarction onset in a region without temperature extremes.". <i>Cardiology.</i>  <b>89</b> (4): 277-82. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9643275" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9643275">PMID  9643275</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid18541825_0" title="">?</a> <cite style="font-style:normal;">Giovannucci E, Liu Y,  Hollis BW, Rimm EB (June 2008). "25-hydroxyvitamin D and risk of  myocardial infarction in men: a prospective study". <i>Arch. Intern.  Med.</i> <b>168</b> (11): 1174–80. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1001/archinte.168.11.1174" class="external text" title="http://dx.doi.org/10.1001/archinte.168.11.1174">10.1001/archinte.168.11.1174</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18541825" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18541825">PMID  18541825</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid18417640_0" title="">?</a> <cite style="font-style:normal;">Melamed ML, Muntner P,  Michos ED, <i>et al</i> (June 2008). "Serum 25-hydroxyvitamin D levels  and the prevalence of peripheral arterial disease: results from NHANES  2001 to 2004". <i>Arterioscler. Thromb. Vasc. Biol.</i> <b>28</b> (6):  1179–85. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1161/ATVBAHA.108.165886" class="external text" title="http://dx.doi.org/10.1161/ATVBAHA.108.165886">10.1161/ATVBAHA.108.165886</a>. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18417640" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=18417640">PMID  18417640</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid19064505_0" title="">?</a> <cite style="font-style:normal;">Reis JP, Michos ED, von  Mühlen D, Miller ER (December 2008). "Differences in vitamin D status  as a possible contributor to the racial disparity in peripheral arterial  disease". <i>Am. J. Clin. Nutr.</i> <b>88</b> (6): 1469–77. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.3945/ajcn.2008.26447" class="external text" title="http://dx.doi.org/10.3945/ajcn.2008.26447">10.3945/ajcn.2008.26447</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19064505" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19064505">PMID  19064505</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid17942703_0" title="">?</a> <cite style="font-style:normal;">Bodyak N, Ayus JC,  Achinger S, <i>et al</i> (October 2007). "Activated vitamin D attenuates  left ventricular abnormalities induced by dietary sodium in Dahl  salt-sensitive animals". <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>104</b>  (43): 16810–5. <a href="http://www.wikidoc.org/index.php/Digital_object_identifier" title="Digital object identifier">doi</a>:<a href="http://dx.doi.org/10.1073/pnas.0611202104" class="external text" title="http://dx.doi.org/10.1073/pnas.0611202104">10.1073/pnas.0611202104</a>.  <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17942703" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17942703">PMID  17942703</a>.</cite></li>
+
+<li><a href="http://www.wikidoc.org/index.php/Vitamin_D#_ref-pmid9915270_0" title="">?</a> <cite style="font-style:normal;">Park CW, Oh YS, Shin  YS, <i>et al</i> (January 1999). "<a href="http://linkinghub.elsevier.com/retrieve/pii/S0272638699000098" class="external text" title="http://linkinghub.elsevier.com/retrieve/pii/S0272638699000098">Intravenous calcitriol regresses myocardial hypertrophy  in hemodialysis patients with secondary hyperparathyroidism</a>". <i>Am.  J. Kidney Dis.</i> <b>33</b> (1): 73–81. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9915270" class="external" title="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9915270">PMID  9915270</a>.</cite></li>
+
+</ol>

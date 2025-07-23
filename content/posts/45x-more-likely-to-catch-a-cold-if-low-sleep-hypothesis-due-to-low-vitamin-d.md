@@ -21,10 +21,8 @@
         "hypertension",
         "immunity",
         "influenza",
-        "life span",
         "metabolic",
         "mood disorders",
-        "mortality",
         "obesity",
         "stroke",
         "stroke and depression",
@@ -53,13 +51,13 @@ Suspect: Less Sleep ==> catch more Flu
 
 * [Severe Sleep Loss Reduced Immune System – wonder about vitamin D reduction – July 2012](/posts/severe-sleep-loss-reduced-immune-system-wonder-about-vitamin-d-reduction)
 
-* <a href="/posts/overview-colds-and-flu-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Colds and flu and Vitamin D">Overview Colds and flu and Vitamin D</a>
+* [Overview Colds and flu and Vitamin D](/posts/overview-colds-and-flu-and-vitamin-d)
 
-* <a href="/posts/reduce-probability-of-getting-the-flu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduce probability of getting the Flu">Reduce probability of getting the Flu</a>
+* [Reduce probability of getting the Flu](/posts/reduce-probability-of-getting-the-flu)
 
 * [Immune response to respiratory viruses – vitamin D connection – review May 2015](/posts/immune-response-to-respiratory-viruses-vitamin-d-connection-review)
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> 54 associations in Sept 2015
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) 54 associations in Sept 2015
 
 * [Common cold (Acute Rhinosinusitis) virually non-existant when Vitamin D is above 50 ng – Oct 2015](/posts/common-cold-acute-rhinosinusitis-virually-non-existant-when-vitamin-d-is-above-50-ng)
 
@@ -71,23 +69,23 @@ June 2015 American Academy of Sleep Medicine
 
 < 7 hours a night results in the following 
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">weight gain</a>, 
+* [weight gain](/posts/overview-obesity-and-vitamin-d), 
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">diabetes</a>,
+* [diabetes](/posts/overview-diabetes-and-vitamin-d),
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">hypertension</a>, 
+* [hypertension](/posts/overview-hypertension-and-vitamin-d), 
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">heart disease</a> and 
+* [heart disease](/posts/overview-cardiovascular-and-vitamin-d) and 
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">stroke</a>, 
+* [stroke](/posts/overview-stroke-and-vitamin-d), 
 
-* [depression](/categories/depression) and 
+* [depression](/tags/depression.html) and 
 
-* [premature death](/categories/mortality), as well as “
+* [premature death](/tags/premature-death.html), as well as “
 
-* [impaired immune function](/categories/immunity), 
+* [impaired immune function](/tags/impaired-immune-function.html), 
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">increased pain</a>, 
+* [increased pain](/posts/overview-pain-and-vitamin-d), 
 
 * impaired performance, 
 

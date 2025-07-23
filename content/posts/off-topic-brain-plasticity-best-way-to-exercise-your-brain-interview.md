@@ -28,7 +28,7 @@
 }
 
 
-#### <span style="color:#00F;">Update:</span> <a href="/posts/dementia-risk-reduced-29-percent-by-just-10-hours-of-computer-brain-plasticity-training-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia risk reduced 29 percent by just 10 hours of computer brain plasticity training – RCT Dec 2017">Dementia risk reduced 29 percent by just 10 hours of computer brain plasticity training – RCT Dec 2017</a>
+#### <span style="color:#00F;">Update:</span> [Dementia risk reduced 29 percent by just 10 hours of computer brain plasticity training – RCT Dec 2017](/posts/dementia-risk-reduced-29-percent-by-just-10-hours-of-computer-brain-plasticity-training-rct)
 
 <div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 

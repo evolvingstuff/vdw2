@@ -23,7 +23,7 @@
 
 UVB Is primarily absorbed in front part of your eye (the cornea and the lens) 
 
-See also <a href="/posts/cataracts-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cataracts and Vitamin D - many studies">Cataracts and Vitamin D - many studies</a> 12 as of April 2023
+See also [Cataracts and Vitamin D - many studies](/posts/cataracts-and-vitamin-d-many-studies) 12 as of April 2023
 
 ---
 

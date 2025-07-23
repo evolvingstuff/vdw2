@@ -57,7 +57,7 @@ Vitamin D deficiency in the Unites States has become more prevalent in recent ye
 
 ## See also VitaminDWiki
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> 
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) 
 
 > reasons focus on results of vitamin D tests, which are not changed by flame retardants
 

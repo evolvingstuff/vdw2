@@ -46,13 +46,13 @@ Even far better benefits expected if had used any/all of the following
 
 * [Skin physiology, pathology and vitamin D - review Jan 2016](/posts/skin-physiology-pathology-and-vitamin-d-review) 90% of Atopic Dermatitis have staph infection
 
-* <a href="/posts/staph-infection-reduced-50-percent-when-have-more-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Staph infection reduced 50 percent when have more than 30 ng of vitamin D – Aug 2011">Staph infection reduced 50 percent when have more than 30 ng of vitamin D – Aug 2011</a>
+* [Staph infection reduced 50 percent when have more than 30 ng of vitamin D – Aug 2011](/posts/staph-infection-reduced-50-percent-when-have-more-than-30-ng-of-vitamin-d)
 
-* <a href="/posts/mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1753">MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011</a>
+* [MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011](/posts/mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d)
 
 > MRSA = Methicillin Resistant Staphylococcus Aureus
 
-* <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a>
+* [Sepsis is both prevented and treated by Vitamin D - many studies](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies)
 
 </div>
 

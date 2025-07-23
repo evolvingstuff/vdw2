@@ -49,6 +49,6 @@ It could easily be that the monnucleosis inflammation consumed vitamin D.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/inflammation-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inflammation and Vitamin D several studies">Inflammation and Vitamin D several studies</a>
+* [Inflammation and Vitamin D several studies](/tags/inflammation-and-vitamin-d-several-studies.html)
 
 * [96 percent of ear, nose, throat children had less than 30 ng of vitamin D – Jan 2013](/posts/96-percent-of-ear-nose-throat-children-had-less-than-30-ng-of-vitamin-d)

@@ -54,6 +54,6 @@
 
 * [Multiple Sclerosis has strong associations with Vitamin D – London April 2014](/posts/multiple-sclerosis-has-strong-associations-with-vitamin-d-london) by Gavin Giovannoni
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a> Vitamin D improves muscle control
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d) Vitamin D improves muscle control
 
 * [Muscle inflammation 17X more probable if vitamin D deficient – Feb 2013](/posts/muscle-inflammation-17x-more-probable-if-vitamin-d-deficient)

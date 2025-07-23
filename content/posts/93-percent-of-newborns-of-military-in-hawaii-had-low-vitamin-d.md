@@ -157,7 +157,7 @@ Melissa M. Tyree MD; Tripler Army Medical Center, Department of Pediatrics, 1 Ja
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [Breastfed without vitamin D supplements – a problem for NZ infants Jan 2013](/posts/breastfed-without-vitamin-d-supplements-a-problem-for-nz-infants)
 

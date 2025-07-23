@@ -53,7 +53,7 @@ LAY SUMMARY: Vitamin D deficiency and Vitamin D receptor (VDR) polymorphisms are
 
 #### Autism 2X more likely if poor Vitamin D Receptor (yet again) – meta-analysis Jan 2020
 
- **<a href="/posts/autism-2x-more-likely-if-poor-vitamin-d-receptor-yet-again-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism 2X more likely if poor Vitamin D Receptor (yet again) – meta-analysis Jan 2020">Autism 2X more likely if poor Vitamin D Receptor (yet again) – meta-analysis Jan 2020</a>** 
+ **[Autism 2X more likely if poor Vitamin D Receptor (yet again) – meta-analysis Jan 2020](/posts/autism-2x-more-likely-if-poor-vitamin-d-receptor-yet-again-meta-analysis)** 
 
 ---
 

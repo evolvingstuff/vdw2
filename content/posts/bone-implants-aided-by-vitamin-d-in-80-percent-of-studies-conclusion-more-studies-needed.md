@@ -43,4 +43,4 @@ Efficacy of VD3 supplementation on osseointegration of implants remains controve
 
 ---
 
-#### See also - <a href="/posts/dental-implants-helped-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dental Implants helped by Vitamin D - many studies">Dental Implants helped by Vitamin D - many studies</a>
+#### See also - [Dental Implants helped by Vitamin D - many studies](/posts/dental-implants-helped-by-vitamin-d-many-studies)

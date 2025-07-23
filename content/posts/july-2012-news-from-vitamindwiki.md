@@ -43,9 +43,9 @@
 }
 
 
-The <a href="/posts/web-version" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3061">web version</a> of this page provides translation with 1 click
+The [web version](/tags/web-version.html) of this page provides translation with 1 click
 
-## <a href="/posts/strong-proof-that-taking-vitamin-d-reduces-diseases" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Strong proof that TAKING vitamin D reduces diseases</a>
+## [Strong proof that TAKING vitamin D reduces diseases](/tags/strong-proof-that-taking-vitamin-d-reduces-diseases.html)
 
 Added proof in July for **<span style="color:#F00;">Low Birth Weight, TB, Breast Cancer, Rheumatoid Arthritis, and Cystic Fibrosis</span>** 
 
@@ -55,7 +55,7 @@ Added proof in July for **<span style="color:#F00;">Low Birth Weight, TB, Breast
 
 &nbsp; &nbsp; &nbsp;to be updated monthly
 
-## <a href="/posts/great-vitamin-d-articles-in-dermato-endocrinology-journal" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2930">Great vitamin D articles in Dermato-Endocrinology Journal</a>
+## [Great vitamin D articles in Dermato-Endocrinology Journal](/tags/great-vitamin-d-articles-in-dermato-endocrinology-journal.html)
 
 #### New articles added to VitaminDWiki in July 2012
 
@@ -101,13 +101,13 @@ Extra 4,000 IU daily raised the vitamin D levels of blacks to that of whites –
 
 Low vitamin D increased probability of low birth weight by 60 percent – meta-analysis June 2012
 
-### <a href="/posts/official-european-vitamin-d-upper-levels-4000-adult" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3057">Official European vitamin D upper levels: 4000 adult</a> – July 2012
+### [Official European vitamin D upper levels: 4000 adult](/tags/official-european-vitamin-d-upper-levels-4000-adult.html) – July 2012
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="350">
 
  **<span style="color:#00F;">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</span>** 
 
-### <a href="/posts/death-due-to-cystic-fibrosis-reduced-about-4x-due-to-250000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3055">Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D</a> – RCT June 2012
+### [Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D](/tags/death-due-to-cystic-fibrosis-reduced-about-4x-due-to-250000-iu-of-vitamin-d.html) – RCT June 2012
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/cf-pilot-study.jpg" alt="image" width="350">
 
@@ -127,4 +127,4 @@ Low vitamin D increased probability of low birth weight by 60 percent – meta-a
 
  **<span style="color:#00F;">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</span>** 
 
-## <a href="/posts/old-news" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2786">Old News - June 2012</a>
+## [Old News - June 2012](/tags/old-news-june-2012.html)

@@ -42,7 +42,7 @@ N. Binkley D nbinkley@wisc.edu. Coursin D. Krueger P. Iglar J. Heiner R. Illgen 
 
 * [4 fewer days in hospital after hip or knee replacement if good level of vitamin D – June 2016](/posts/4-fewer-days-in-hospital-after-hip-or-knee-replacement-if-good-level-of-vitamin-d)
 
-* <a href="/posts/20-percent-change-in-vitamin-d-levels-of-critically-ill-during-a-24-hour-period" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 20 percent change in vitamin D levels of critically ill during a 24 hour period – Oct 2011">20 percent change in vitamin D levels of critically ill during a 24 hour period – Oct 2011</a>
+* [20 percent change in vitamin D levels of critically ill during a 24 hour period – Oct 2011](/posts/20-percent-change-in-vitamin-d-levels-of-critically-ill-during-a-24-hour-period)
 
 * [Guideline following hip fracture – 50000 IU vitamin D daily for 7 days – Jan 2013](/posts/guideline-following-hip-fracture-50000-iu-vitamin-d-daily-for-7-days)
 

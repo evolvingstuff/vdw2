@@ -44,4 +44,4 @@ PDF is [on-line](http://www.doaj.org/doaj?func=abstract&id=1103845)
 
 ---
 
- **<a href="/posts/preeclampsia-reduced-by-33-percent-if-high-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced by 33 percent if high vitamin D – meta-analysis Feb 2023">Preeclampsia reduced by 33 percent if high vitamin D – meta-analysis Feb 2023</a>**
+ **[Preeclampsia reduced by 33 percent if high vitamin D – meta-analysis Feb 2023](/posts/preeclampsia-reduced-by-33-percent-if-high-vitamin-d-meta-analysis)**

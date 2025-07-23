@@ -75,7 +75,7 @@ Accepted for publication April 9, 2013.
 
 * [Search VitaminDWiki for Race OR Ethnic](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=race+OR+ethnic&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 993 hits as of Aug 2013
 
-* <a href="/posts/race-vs-vitamin-d-level-veith" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Race vs vitamin D level - Veith May 2011">Race vs vitamin D level - Veith May 2011</a>
+* [Race vs vitamin D level - Veith May 2011](/posts/race-vs-vitamin-d-level-veith)
 
 * [Tuberculosis, ethnic differences, and vitamin D – July 2013](/posts/tuberculosis-ethnic-differences-and-vitamin-d) 
 

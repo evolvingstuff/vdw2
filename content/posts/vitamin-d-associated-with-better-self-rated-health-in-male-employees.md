@@ -52,13 +52,13 @@ Department of Endocrinology & Diabetes, Elisha Medical Center, Haifa 3463626, Is
 
  **See also VitaminDWiki** 
 
-* [Quality of Life](/categories/quality-of-life)
+* [Quality of Life](/posts/quality-of-life)
 
 * [Opportunity: Enhance Workplace Wellness programs with Vitamin D](/posts/opportunity-enhance-workplace-wellness-programs-with-vitamin-d)
 
-* <a href="/posts/more-likely-to-report-that-productvitiy-was-effected-by-health-problems-if-low-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More likely to report that productvitiy was effected by health problems if low vitamin D - 2012">More likely to report that productvitiy was effected by health problems if low vitamin D - 2012</a>
+* [More likely to report that productvitiy was effected by health problems if low vitamin D - 2012](/posts/more-likely-to-report-that-productvitiy-was-effected-by-health-problems-if-low-vitamin-d-2012)
 
-* <a href="/posts/7-improvements-in-lives-of-veterans-with-chronic-pain-with-50000-iu-vitamin-d-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012">7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012</a> 
+* [7 improvements in lives of veterans with chronic pain with 50,000 IU vitamin D weekly – June 2012](/posts/7-improvements-in-lives-of-veterans-with-chronic-pain-with-50000-iu-vitamin-d-weekly) 
 
    * pain score, sleep latency, sleep duration, bodily pain, general health, vitality, and social functioning 
 

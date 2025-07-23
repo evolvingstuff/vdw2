@@ -39,6 +39,6 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/uvb-annual-us-1978-2014" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UVB annual US - 1978-2014">UVB annual US - 1978-2014</a>
+* [UVB annual US - 1978-2014](/posts/uvb-annual-us-1978-2014)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">

@@ -40,7 +40,7 @@ Similar reduction in back pain for VitD and placebo
 
 VitaminDWiki expects that vitamin D levels would have gotten much higher and back pain would have been relieved if trial had been 12 weeks instead of just 8 weeks
 
-Alternatively, expect a good response in just 3 weeks if had started with a <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">loading dose of vitamin D</a>: 50,000 IU daily for 7 days.
+Alternatively, expect a good response in just 3 weeks if had started with a [loading dose of vitamin D](/posts/overview-loading-of-vitamin-d): 50,000 IU daily for 7 days.
 
  **See also VitaminDWiki** 
 

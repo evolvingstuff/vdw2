@@ -45,19 +45,19 @@
 
 * Lack consensus - so far
 
-1. <a href="/posts/there-is-a-vitamin-d-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 9">There is a vitamin D winter</a> &nbsp; &nbsp; &nbsp; (Lack Concensus. 
+1. [There is a vitamin D winter](/tags/there-is-a-vitamin-d-winter.html) &nbsp; &nbsp; &nbsp; (Lack Concensus. 
 
 > A clinical trial made an error 30 years ago - decreasing tanning bed intensity until it stopped generating vitamin D in those who had enough
 
 > Should have very different results if increase UVB intensity for people who are vitamin D deficient (the Spring affect)
 
-1. <a href="/posts/10-minutes-of-sun-every-other-day-provides-enough-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">10 minutes of sun every other day provides enough vitamin D</a> &nbsp; &nbsp; &nbsp;(MYTH
+1. [10 minutes of sun every other day provides enough vitamin D](/tags/10-minutes-of-sun-every-other-day-provides-enough-vitamin-d.html) &nbsp; &nbsp; &nbsp;(MYTH
 
-1. RDA of 600 IU is enough for everyone under age 70? &nbsp; &nbsp; &nbsp;(FALSE - it is more like <a href="/posts/3000-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5217">3,000 IU</a>
+1. RDA of 600 IU is enough for everyone under age 70? &nbsp; &nbsp; &nbsp;(FALSE - it is more like [3,000 IU](/tags/3000-iu.html)
 
 1. Like other pills, the amount taken does not need to change with my body weight&nbsp; &nbsp; &nbsp; (same amount for a 10 lb child as for a 300 lb adult?) (FALSE
 
-1. 20 ng is enough &nbsp; &nbsp; &nbsp;(FALSE - <a href="/posts/optimal-amount-is-40-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4530">optimal amount is >40 ng</a>
+1. 20 ng is enough &nbsp; &nbsp; &nbsp;(FALSE - [optimal amount is >40 ng](/tags/optimal-amount-is-40-ng.html)
 
 1. Vitamin D should be taken with an evening meal&nbsp; &nbsp; &nbsp;(TRUE, but it does not matter very much, 
 
@@ -71,25 +71,25 @@
 
 1. Pet cats, dogs and birds do not need any time in the sun&nbsp; &nbsp; &nbsp; (FALSE
 
-1. <a href="/posts/vets-give-3x-as-much-vitamin-d-to-animals-than-what-the-govt-says-is-needed-for-humans" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17">Vets give 3X as much vitamin D to animals than what the govt says is needed for humans</a>&nbsp; &nbsp; &nbsp; (TRUE
+1. [Vets give 3X as much vitamin D to animals than what the govt says is needed for humans](/tags/vets-give-3x-as-much-vitamin-d-to-animals-than-what-the-govt-says-is-needed-for-humans.html)&nbsp; &nbsp; &nbsp; (TRUE
 
 1. Vitamin D is a hormone, not a vitamin &nbsp; &nbsp; &nbsp; (TRUE
 
 1. Vitamin D is more powerful than all other hormones&nbsp; &nbsp; &nbsp; ( TRUE based on the # of genes controlled)
 
-1. Doctors have a lot to gain by improving the vitamin D levels of their patients  see <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>
+1. Doctors have a lot to gain by improving the vitamin D levels of their patients  see [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)
 
 1. There have not been enough RCT to prove that vitamin D works &nbsp; &nbsp; &nbsp;( FALSE - more Intervention trials than 5 other vitamins combined)
 
-> See also <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> > 40 proofs as of April 2014
+> See also [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) > 40 proofs as of April 2014
 
 1. Salmon have a lot of vitamin D &nbsp; &nbsp; &nbsp;(True for wild salmon, False for farmed salmon, which has only 1/4 as much)
 
-1. 10,000 IU of vitamin D is toxic &nbsp; &nbsp; &nbsp;(MYTH - <a href="/posts/as-a-monotherapy-12000-iu-of-vitamin-d-can-be-taken-for-1-year" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">as a monotherapy, 12,000 IU of vitamin D can be taken for > 1 year</a>. Far more if the cofactors are balanced 
+1. 10,000 IU of vitamin D is toxic &nbsp; &nbsp; &nbsp;(MYTH - [as a monotherapy, 12,000 IU of vitamin D can be taken for > 1 year](/tags/as-a-monotherapy-12000-iu-of-vitamin-d-can-be-taken-for-1-year.html). Far more if the cofactors are balanced 
 
-1. 30,000 IU of vitamin D is toxic &nbsp; &nbsp; &nbsp;(FALSE - <a href="/posts/adverse-reaction-only-it-taken-for-more-than-30-days-without-balancing-cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">adverse reaction only it taken for more than 30 days without balancing cofactors</a>)
+1. 30,000 IU of vitamin D is toxic &nbsp; &nbsp; &nbsp;(FALSE - [adverse reaction only it taken for more than 30 days without balancing cofactors](/tags/adverse-reaction-only-it-taken-for-more-than-30-days-without-balancing-cofactors.html))
 
-1. 100,000 IU of vitamin D is toxic&nbsp; &nbsp; &nbsp; ( FALSE - <a href="/posts/toxic-only-if-taken-for-more-than-20-days-without-adjusting-cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">toxic only if taken for more than 20 days without adjusting cofactors</a>
+1. 100,000 IU of vitamin D is toxic&nbsp; &nbsp; &nbsp; ( FALSE - [toxic only if taken for more than 20 days without adjusting cofactors](/tags/toxic-only-if-taken-for-more-than-20-days-without-adjusting-cofactors.html)
 
 1. I need to have a test after taking vitamin D for several months to make sure I am not getting a toxic amount &nbsp; &nbsp; &nbsp;(FALSE: Extremely hard to get a toxic amount
 
@@ -99,15 +99,15 @@
 
 > (FALSE: it is far more cost effective to prescribe then perhaps test to see that enough was give - very little concern about giving too much)
 
-1. There is no risk to my starting to take 5,000 IU of vitamin D&nbsp; &nbsp; &nbsp; (FALSE - About 1 in 300 people have an allergic reaction, probably due to low Magnesium or <a href="/posts/allergy-to-wool" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5264">allergy to wool</a>)
+1. There is no risk to my starting to take 5,000 IU of vitamin D&nbsp; &nbsp; &nbsp; (FALSE - About 1 in 300 people have an allergic reaction, probably due to low Magnesium or [allergy to wool](/tags/allergy-to-wool.html))
 
-1. <a href="/posts/vitamin-d2-is-almost-as-good-as-vitamin-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">Vitamin D2 is almost as good as vitamin D3</a>
+1. [Vitamin D2 is almost as good as vitamin D3](/tags/vitamin-d2-is-almost-as-good-as-vitamin-d3.html)
 
 > (FALSE many studies have shown that taking D2 actually decreases the D3 level in the blood, unfortunately many doctors around the world still prescribe vitamin D2)
 
-1. <a href="/posts/omega-3-does-not-interact-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3467">Omega-3 does not interact with Vitamin D</a>&nbsp; &nbsp; &nbsp; (Lack consensus: 
+1. [Omega-3 does not interact with Vitamin D](/tags/omega-3-does-not-interact-with-vitamin-d.html)&nbsp; &nbsp; &nbsp; (Lack consensus: 
 
-1. <a href="/posts/when-i-increase-my-vitamin-d-i-do-not-need-to-change-my-magnesium-calcium-nor-vitamin-k-2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">When I increase my vitamin D I do not need to change my Magnesium, Calcium, nor Vitamin K-2</a>&nbsp; &nbsp; &nbsp;(FALSE
+1. [When I increase my vitamin D I do not need to change my Magnesium, Calcium, nor Vitamin K-2](/tags/when-i-increase-my-vitamin-d-i-do-not-need-to-change-my-magnesium-calcium-nor-vitamin-k-2.html)&nbsp; &nbsp; &nbsp;(FALSE
 
 1. Eat fish three times a week and your vitamin D will be adequate &nbsp; &nbsp; &nbsp;(FALSE - Would just be OK if you only needed 600 IU of vitamin D average
 
@@ -121,13 +121,13 @@
 
 1. You do not develop vitamin D deficiency if you live in a warm, sunny place &nbsp; &nbsp; &nbsp;(FALSE - people stay out of the hot sun n the middle of the day
 
-> In the [Middle East](/categories/middle-east) they get health problems in the summer that others get in the winter - they avoid the sun that much
+> In the [Middle East](/tags/middle-east.html) they get health problems in the summer that others get in the winter - they avoid the sun that much
 
 1. Eating a healthy diet will take care of your vitamin D needs 
 
 > (FALSE: far less vitamin D (as well as Magnesium) in our current food, and many things in food can actually block the Vitamin D which you do get)
 
-1. <a href="/posts/more-kidney-stones-if-take-more-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 623">More Kidney stones if take more vitamin D</a> &nbsp; &nbsp; &nbsp;(MYTH
+1. [More Kidney stones if take more vitamin D](/tags/more-kidney-stones-if-take-more-vitamin-d.html) &nbsp; &nbsp; &nbsp;(MYTH
 
 1. Need lots of Calcium while getting lots of vitamin D&nbsp; &nbsp; &nbsp; (FALSE: just the opposite actually, should decrease Calcium)
 
@@ -159,7 +159,7 @@
 
 > (FALSE: older skin produces about 1/3 as much vitamin D and older guts absorb less vitamin D, older livers are less able to put the vitamin D into the blood)
 
-1. <a href="/posts/lard-has-lots-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1414">Lard has lots of vitamin D</a>&nbsp; &nbsp; &nbsp;(FALSE used to, but now rarely have 'free range' pigs)
+1. [Lard has lots of vitamin D](/tags/lard-has-lots-of-vitamin-d.html)&nbsp; &nbsp; &nbsp;(FALSE used to, but now rarely have 'free range' pigs)
 
 1. Vitamin D is the most toxic vitamin &nbsp; &nbsp; &nbsp;(MYTH - started from the fact that 2,000 IU PER KG of body mass is toxic, which it is
 
@@ -207,6 +207,6 @@
 
 1. Oil-based vitamin D is best, since vitamin D disolves in fat (Controversy  - see [Oil-based Vitamin D3 has the worst bioavailability – April 2014](/posts/oil-based-vitamin-d3-has-the-worst-bioavailability)
 
-1. Meat has little vitamin D (FALSE as of 2014 - there is a <a href="/posts/form-of-vitamin-d-in-many-meats" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5173">form of vitamin D in many meats</a> which has been processed by a liver, and works just fine for humans
+1. Meat has little vitamin D (FALSE as of 2014 - there is a [form of vitamin D in many meats](/tags/form-of-vitamin-d-in-many-meats.html) which has been processed by a liver, and works just fine for humans
 
 ### This list served as inspiration for [VitaminDWiki provides answers to Vitamin D questions](/posts/vitamindwiki-provides-answers-to-vitamin-d-questions)

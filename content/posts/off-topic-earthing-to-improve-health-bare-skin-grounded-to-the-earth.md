@@ -56,7 +56,7 @@ When I reduce my grounding to 9 hours a day I notice my vitality and robustness 
 
 I am still on vacation but will post more upon my return. Wishing everyone a peaceful day ! Michael".
 
-* <a href="/posts/personalized-vitamin-d-treatment-of-multiple-sclerosis-michael-cawley" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Personalized Vitamin D treatment of Multiple Sclerosis - Michael Cawley">Personalized Vitamin D treatment of Multiple Sclerosis - Michael Cawley</a>
+* [Personalized Vitamin D treatment of Multiple Sclerosis - Michael Cawley](/posts/personalized-vitamin-d-treatment-of-multiple-sclerosis-michael-cawley)
 
 ---
 

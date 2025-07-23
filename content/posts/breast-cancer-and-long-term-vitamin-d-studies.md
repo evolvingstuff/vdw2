@@ -61,7 +61,7 @@ One other caveat is that sometimes women  **start taking vitamin D supplements l
 
 2. Grant WB. Effect of interval between serum draw and follow-up period on relative risk of cancer incidence with respect to 25-hydroxyvitamin D level; implications for meta-analyses and setting vitamin D guidelines. Dermatoendocrinol. 2011, 3:199-204.
 
-<a href="/posts/all-cause-mortality-does-not-relate-to-vitamin-d-tests-years-earlier" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: All-cause mortality does not relate to vitamin D tests years earlier - April 2012">All-cause mortality does not relate to vitamin D tests years earlier - April 2012</a> in VitaminDWiki
+[All-cause mortality does not relate to vitamin D tests years earlier - April 2012](/posts/all-cause-mortality-does-not-relate-to-vitamin-d-tests-years-earlier) in VitaminDWiki
 
 3. Grant WB. Effect of follow-up time on the relation between prediagnostic serum 25-hydroxyitamin D and all-cause mortality rate. Dermatoendocrinol. 2012, 4:198-202.
 
@@ -69,7 +69,7 @@ One other caveat is that sometimes women  **start taking vitamin D supplements l
 
 5. Grant WB. Relation between prediagnostic serum 25-hydroxyvitamin D level and incidence of breast, colorectal, and other cancers. J Photochem Photobiol B, 2010, 101:130-136.
 
-6. Grant WB. A review of the evidence regarding the solar ultraviolet-B-vitamin D-cancer hypothesis. Standardy Medyczne/Pediatria. 2012, 9:610-619. <a href="/posts/in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3307">in VitaminDWiki</a>
+6. Grant WB. A review of the evidence regarding the solar ultraviolet-B-vitamin D-cancer hypothesis. Standardy Medyczne/Pediatria. 2012, 9:610-619. [in VitaminDWiki](/tags/in-vitamindwiki.html)
 
 7. Hill AB. The environment and disease: Association or causation? Proc R Soc Med. 1965, 58:295-300.
 

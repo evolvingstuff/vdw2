@@ -74,6 +74,6 @@ Abstract: The metabolite of vitamin D, 1α,25-dihydroxyvitamin D3 (also known as
 
 * [Vitamin D and Cancer – Special issue Jan 2013](/posts/vitamin-d-and-cancer-special-issue)
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
  **Short url =** http://is.gd/grantcancer1013

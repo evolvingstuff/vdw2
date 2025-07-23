@@ -57,7 +57,7 @@ PMID:    24169384
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013](/posts/every-tb-patient-benefited-from-2-doses-of-600000-iu-of-vitamin-d-rct)
 

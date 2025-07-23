@@ -31,7 +31,7 @@
  **Do genetic polymorphisms of the vitamin D receptor contribute to breast/ovarian cancer?   
 A systematic review and network meta-analysis - Nov 2018** 
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1016/j.gene.2018.07.070** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1016/j.gene.2018.07.070** 
 
 </div>
 

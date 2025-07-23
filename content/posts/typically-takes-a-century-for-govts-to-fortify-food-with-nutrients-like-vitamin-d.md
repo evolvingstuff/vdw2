@@ -67,15 +67,15 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)
 
 * [Vitamin D important papers from 1645 to 2013 – Nov 2013](/posts/vitamin-d-important-papers-from-1645-to-2013)
 
-* <a href="/posts/vitamin-d-fortification-of-food-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D fortification of food - review Dec 2011">Vitamin D fortification of food - review Dec 2011</a>
+* [Vitamin D fortification of food - review Dec 2011](/posts/vitamin-d-fortification-of-food-review)
 
-* <a href="/posts/vitamin-d-can-fortify-a-variety-of-food-and-drinks-even-beer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D can fortify a variety of food and drinks – even beer – March 2012">Vitamin D can fortify a variety of food and drinks – even beer – March 2012</a>
+* [Vitamin D can fortify a variety of food and drinks – even beer – March 2012](/posts/vitamin-d-can-fortify-a-variety-of-food-and-drinks-even-beer)
 
-* <a href="/posts/vitamin-d-and-folate-fortification-of-foods" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Folate fortification of foods - April 2012">Vitamin D and Folate fortification of foods - April 2012</a>
+* [Vitamin D and Folate fortification of foods - April 2012](/posts/vitamin-d-and-folate-fortification-of-foods)
 
 * [Thoughts on improving vitamin D policies - Vieth Nov 2013](/posts/thoughts-on-improving-vitamin-d-policies-vieth) Iodine example
 
@@ -83,17 +83,17 @@
 
 * [Milk fortification of 1000 IU got most children above 20ng of vitamin D – March 2013](/posts/milk-fortification-of-1000-iu-got-most-children-above-20ng-of-vitamin-d)
 
-* <a href="/posts/improved-health-due-to-vitamin-d-fortification-in-finland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Improved health due to vitamin D fortification in Finland">Improved health due to vitamin D fortification in Finland</a>
+* [Improved health due to vitamin D fortification in Finland](/posts/improved-health-due-to-vitamin-d-fortification-in-finland)
 
 * [Can fortify food with 1000 IU of vitamin D - Italy, March 2013](/posts/can-fortify-food-with-1000-iu-of-vitamin-d-italy)
 
-* <a href="/posts/a-plea-for-vitamin-d-food-fortification-in-india" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: A plea for vitamin D food fortification in India - May 2010">A plea for vitamin D food fortification in India - May 2010</a>
+* [A plea for vitamin D food fortification in India - May 2010](/posts/a-plea-for-vitamin-d-food-fortification-in-india)
 
 * [A balanced diet is no longer enough – supplements needed - VitaminDWiki Oct 2012](/posts/a-balanced-diet-is-no-longer-enough-supplements-needed-vitamindwiki)
 
 * [VITAMIN D: Public Shouldn’t Wait For Doctors To Usher In New “Golden Era” Of Preventive Medicine](/posts/vitamin-d-public-shouldnt-wait-for-doctors-to-usher-in-new-golden-era-of-preventive-medicine)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Germany does not fortify ANY food with vitamin D, is considering 1000 IU from bread – Nov 2013](/posts/germany-does-not-fortify-any-food-with-vitamin-d-is-considering-1000-iu-from-bread)
 
@@ -103,11 +103,11 @@
 
 * [ODIN: Europeans study vitamin D fortification and testing](/posts/odin-europeans-study-vitamin-d-fortification-and-testing) with some suggestions by VitaminDWiki
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> has the following graphic
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 300px;">
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> big decline in past 100 years
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) big decline in past 100 years
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

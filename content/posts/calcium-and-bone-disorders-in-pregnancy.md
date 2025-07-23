@@ -88,15 +88,15 @@ This is an open-access article distributed under the terms of the Creative Commo
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/overview-hyperparathyroidism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 956">Overview Hyperparathyroidism and vitamin D</a>
+* [Overview Hyperparathyroidism and vitamin D](/posts/overview-hyperparathyroidism-and-vitamin-d)
 
-* <a href="/posts/calcium-bioavailability-and-how-much-to-take" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1446">Calcium bioavailability and how much to take</a>
+* [Calcium bioavailability and how much to take](/tags/calcium-bioavailability-and-how-much-to-take.html)
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1328">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2143">Overview Women and Vitamin D</a>
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d)
 
 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
 

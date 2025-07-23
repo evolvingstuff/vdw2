@@ -124,11 +124,11 @@ IicB-a: the inhibitor of NF-kB; TLR: Toll-like receptors; PTH: parathyroid hormo
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Overview Cognition and vitamin D</a>
+* [Overview Cognition and vitamin D](/tags/overview-cognition-and-vitamin-d.html)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/how-vitamin-d-prevents-insulin-resistance" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How Vitamin D prevents Insulin Resistance – Sept 2020">How Vitamin D prevents Insulin Resistance – Sept 2020</a>
+* [How Vitamin D prevents Insulin Resistance – Sept 2020](/posts/how-vitamin-d-prevents-insulin-resistance)
 
 * [Scientific explanation of vitamin D relationship to insulin resistance– Dec 2012](/posts/scientific-explanation-of-vitamin-d-relationship-to-insulin-resistance)
 

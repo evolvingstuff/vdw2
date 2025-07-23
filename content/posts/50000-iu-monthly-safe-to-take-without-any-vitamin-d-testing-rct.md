@@ -20,18 +20,18 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/50000-iu-monthly-helped-those-lacking-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2290">50,000 IU monthly helped those lacking sun – Jan 2012</a>
+* [50,000 IU monthly helped those lacking sun – Jan 2012](/tags/50000-iu-monthly-helped-those-lacking-sun-jan-2012.html)
 
-* <a href="/posts/half-of-the-seniors-needed-more-than-50000-iu-vitamin-d3-monthly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1740">Half of the seniors needed more than 50,000 IU vitamin D3 monthly – April 2011</a>
+* [Half of the seniors needed more than 50,000 IU vitamin D3 monthly – April 2011](/tags/half-of-the-seniors-needed-more-than-50000-iu-vitamin-d3-monthly-april-2011.html)
 
-* <a href="/posts/1700-iu-vitamin-d-50000-monthly-helped-antarctic-explorers-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012">1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012</a>
+* [1700 IU vitamin D (50000 monthly) helped antarctic explorers – RCT Jan 2012](/posts/1700-iu-vitamin-d-50000-monthly-helped-antarctic-explorers-rct)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Overview of Vitamin D Blood Tests</a>
+* [Overview of Vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * [No longer debating vitamin D supplementation, now debating need for testing first – April 2013](/posts/no-longer-debating-vitamin-d-supplementation-now-debating-need-for-testing-first)
 
-* <a href="/posts/vitamin-d-testing-rarely-justified" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D testing rarely justified – Feb 2012">Vitamin D testing rarely justified – Feb 2012</a>
+* [Vitamin D testing rarely justified – Feb 2012](/posts/vitamin-d-testing-rarely-justified)
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has the following notional chart
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) has the following notional chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

@@ -67,7 +67,7 @@ Also, expect that there would have been a higher ejection fraction increase if t
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Fewer heart attacks, hip fractures and deaths if more skin cancer – Sept 2013](/posts/fewer-heart-attacks-hip-fractures-and-deaths-if-more-skin-cancer) UV provides benefits, but skin cancer if too much all at one time
 
@@ -77,7 +77,7 @@ Also, expect that there would have been a higher ejection fraction increase if t
 
 * [Search VitaminDWiki for "Ejection Fraction"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22ejection+fraction%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 70 items as of March 2015
 
-* <a href="/posts/heart-pumped-more-blood-after-heart-failure-if-more-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Heart pumped more blood after heart failure if more vitamin D – Nov 2010">Heart pumped more blood after heart failure if more vitamin D – Nov 2010</a> which asked for a RCT to be held
+* [Heart pumped more blood after heart failure if more vitamin D – Nov 2010](/posts/heart-pumped-more-blood-after-heart-failure-if-more-vitamin-d) which asked for a RCT to be held
 
 ## See also web
 

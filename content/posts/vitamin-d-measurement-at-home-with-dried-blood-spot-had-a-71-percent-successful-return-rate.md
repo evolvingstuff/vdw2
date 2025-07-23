@@ -79,6 +79,6 @@ Interesting that they included drying agents - unaware of drying agents in other
 
 * [Warning – Medicare will pay for just 1 vitamin D test PER LIFETIME (if not related to a few diseases) ](/posts/warning-medicare-will-pay-for-just-1-vitamin-d-test-per-lifetime-if-not-related-to-a-few-diseases)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a> includes several companies offering dried blood spot testing services
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests) includes several companies offering dried blood spot testing services
 
 * [Instant vitamin D Yes-No test now available](/posts/instant-vitamin-d-yes-no-test-now-available) - home testing, not dried blood spot, perhaps lower cost

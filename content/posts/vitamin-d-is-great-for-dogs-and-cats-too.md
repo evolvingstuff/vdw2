@@ -253,7 +253,7 @@ Vitamin D overdose . . “is rare and we have  **never heard of it happening in 
 
 > 2 squirts daily for dogs up to 5 kg
 
-> <a href="/posts/senior-pets-rejuvenated-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Senior pets rejuvenated with vitamin D">Senior pets rejuvenated with vitamin D</a> He had such success that he is now making PetLife
+> [Senior pets rejuvenated with vitamin D](/posts/senior-pets-rejuvenated-with-vitamin-d) He had such success that he is now making PetLife
 
 * [Miracle Coat Miracle Mist Skin Treatment Spray](http://smile.amazon.com/Miracle-Coat-Treatment-Spray-12-Ounce/dp/B0002YFPL8/ref=sr_1_12?ie=UTF8&qid=1445113648&sr=8-12&keywords="vitamin%20d"%20dogs)
 

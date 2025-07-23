@@ -31,13 +31,13 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/half-of-the-women-who-are-fat-do-not-have-a-high-bmi" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Half of the women who are fat do not have a high BMI – March 2012">Half of the women who are fat do not have a high BMI – March 2012</a> has the following
+* [Half of the women who are fat do not have a high BMI – March 2012](/posts/half-of-the-women-who-are-fat-do-not-have-a-high-bmi) has the following
 
  **<span style="color:#F06;">Women</span> who were actually fat (40% to 50% fat), but had low BMI are the <span style="color:#F06;">red dots</span> in the <span style="color:#F0F;">pink region</span>** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/bmi-f1-women.jpg" alt="image" style="max-width: 500px;">
 
-<a href="/posts/senior-korean-women-have-much-less-vitamin-d-than-men-possible-reasons-jan-2014h-icient-than-men" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Senior Korean women have much less vitamin D than men (possible reasons) Jan 2014}Higher % of Senior Korean women are deficient than men">Senior Korean women have much less vitamin D than men (possible reasons) Jan 2014}Higher % of Senior Korean women are deficient than men</a>
+[Senior Korean women have much less vitamin D than men (possible reasons) Jan 2014}Higher % of Senior Korean women are deficient than men](/tags/senior-korean-women-have-much-less-vitamin-d-than-men-possible-reasons-jan-2014higher-of-senior-korean-women-are-deficient-than-men.html)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/korea-vs-age.jpg" alt="image" width="500">
 

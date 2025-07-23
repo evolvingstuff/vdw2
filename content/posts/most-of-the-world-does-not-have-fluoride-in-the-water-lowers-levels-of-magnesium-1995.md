@@ -37,13 +37,13 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/hypothesis-fluoridation-reduces-magnesium-in-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Fluoridation reduces magnesium in body">Hypothesis: Fluoridation reduces magnesium in body</a>
+* [Hypothesis: Fluoridation reduces magnesium in body](/posts/hypothesis-fluoridation-reduces-magnesium-in-body)
 
 * [Off topic: Little water fluoridation in Europe - which is good for Mg and Vitamin D – April 2013](/posts/off-topic-little-water-fluoridation-in-europe-which-is-good-for-mg-and-vitamin-d)
 
-* <a href="/posts/fluoride-caused-bone-problems-in-80-percent-of-vitamin-d-deficient-rats-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fluoride caused bone problems in 80 percent of Vitamin D deficient rats – RCT Nov 2017">Fluoride caused bone problems in 80 percent of Vitamin D deficient rats – RCT Nov 2017</a>
+* [Fluoride caused bone problems in 80 percent of Vitamin D deficient rats – RCT Nov 2017](/posts/fluoride-caused-bone-problems-in-80-percent-of-vitamin-d-deficient-rats-rct)
 
-* <a href="/posts/iq-4-points-lower-in-male-children-if-fluoridated-water-while-pregnant-perhaps-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: IQ 4 points lower in male children if fluoridated water while pregnant (perhaps Magnesium) – Aug 2019">IQ 4 points lower in male children if fluoridated water while pregnant (perhaps Magnesium) – Aug 2019</a>
+* [IQ 4 points lower in male children if fluoridated water while pregnant (perhaps Magnesium) – Aug 2019](/posts/iq-4-points-lower-in-male-children-if-fluoridated-water-while-pregnant-perhaps-magnesium)
 
 #### See also Mercola
 

@@ -291,7 +291,7 @@ PMID: 19851861
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> has the following chart
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

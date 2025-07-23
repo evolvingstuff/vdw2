@@ -335,7 +335,7 @@ Traditional risk groups for vitamin D deficiency include pregnant women, childre
 
 Reported incidence of vitamin D deficiency defined as a 25-hydroxyvitamin D (25<span>[OH]</span>D) levelbelow 20 ng/mL around the globe in pregnant women and the generalpopulation. To convert 25(OH)D values to nmol/L, multiply by 2.496. Copyright Holick 2013, reproduced with permission.
 
- **See also in VitaminDWiki <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>** 
+ **See also in VitaminDWiki [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)** 
 
 The Maasai and Hadzabe tribes in Tanzania (East Africa) with traditional lifestyles, living in the presumed cradle of humankind, who are exposed daily to tropical sunlight had a mean circulating 25(OH)D level of 46 ng/mL.140
 

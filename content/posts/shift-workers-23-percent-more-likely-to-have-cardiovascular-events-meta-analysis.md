@@ -85,7 +85,7 @@ Correspondence to: D Hackam, Stroke Prevention and Atherosclerosis Research Cent
 
 * [Allergies and low vitamin D strongly associated with night shift bakers– Sept 2014](/posts/allergies-and-low-vitamin-d-strongly-associated-with-night-shift-bakers)
 
-* <a href="/posts/perhaps-shiftwork-diseases-are-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1800">Perhaps shiftwork diseases are due to lack of vitamin D</a> which has the following graphic
+* [Perhaps shiftwork diseases are due to lack of vitamin D](/tags/perhaps-shiftwork-diseases-are-due-to-lack-of-vitamin-d.html) which has the following graphic
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/shiftwork-disease.gif" alt="image" style="max-width: 600px;">
 

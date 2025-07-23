@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D prevents smoke lung damage in mice (If you must smoke, take vitamin D)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D prevents smoke lung damage in mice (If you must smoke, take vitamin D)</h1><time>November 23, 2019</time><div data-pagefind-body><h4 id=effect-of-vitamin-d3-on-lung-damage-induced-by-cigarette-smoke-in-mice>Effect of Vitamin D3 on Lung Damage Induced by Cigarette Smoke in Mice</h4><p>Open Med (Wars). 2019; 14: 827–832, . <a href=https://doi.org/10.1515/med-2019-0096>doi: 10.1515/med-2019-0096</a></p><p>Xin Zheng,*,1 Nini Qu,1 Lina Wang,1 Guoli Wang,1 Rui Jiao,1 Hu Deng,1 Sijia Li,2 and Yibing Qin2</p><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:800px"><p>1 hour of smoke per day, 6 days a week, for 16 weeks</p><p>21 gram mice, 1,000 IU Vitamin D (daily?) (study also tried 2,000 and 3,000 IU)</p><p>A human weighs about 3,800 X more than a 21 gram mouse</p><p>Vitamin D equiv. for human would thus be 3.8 million IU – which seems very unlikely</p><hr><h4 id=references>References</h4><ol><li><p>Spira, A., Beane, J., Shah, V., et al., Effects of cigarette smoke on the human airway epithelial cell transcriptome. Proc. Natl. Acad. Sci. US A 2004, 101(27) :10143-10148. doi:10.1073/ pnas.0401422101</p></li><li><p>Talukder, M.A., Johnson, W.M., Varadharaj, S., et al., Chronic cigarette smoking causes hypertension, increased oxidative stress, impaired NO bioavailability, endothelial dysfunction, and cardiac remodeling in mice. Am. J. Physiol. Heart Circ. Physiol. 2011,300 :388-396. doi:10.1152/ ajpheart.00868.2010</p></li><li><p>D’Hulst, A.I., Vermaelen, K.Y., Brusselle, G.G., Joos, G.F., Pauwels, R.A., Time course of cigarette smoke-induced pulmonary inflammation in mice. Eur. Respir. J., 26:204-213. doi:10.1183/09031936.05.00095204</p></li><li><p>Sopori, M. Cigarette smoke on immune system. Nature, 2: 372-377.</p></li><li><p>R.Stampfli, M., P.Anderson, G. Cigarette smoke lung desease and cancer. Nature, 2009, 9:377-384.</p></li><li><p>Wang, J.M., Liu, W., Marion, C., et al., Interleukin-15 regulates retinoic acid beta in the lung during cigarette smoking and influenza virus infection. Am. J. Respire. Cell Mol. Boil.,2015, 53(6) :822-823. <a href=https://doi.org/10.1165/rcmb.2014-0448OC>doi: 10.1165/rcmb.2014-0448OC</a></p></li><li><p>Weigt, S.S., Derhovanessian, A., Liao, E., et al., CXCR3 chemokine ligands during respiratory viral infections predict lung allograft dysfunction. Am. J. Transplant, 2012,12:477-484. <a href=https://doi.org/10.1111/j.1600-6143.2011.03859.x>doi: 10.1111/j.1600-6143.2011.03859.x</a></p></li><li><p>Shen, D.Q., Cao, X.X., Potential role of CXCR3 in proliferation and invasion of prostate cancer cells. Int. J. Clin. Exp. Pathol., 2015,8(7): 8091-8098.</p></li><li><p>Wijtmans, M., Scholten, D., Mooij, W., et al., Exploring the CXCR3 Chemokine Receptor with Small-Molecule Antagonists and Agonists. Top. Med. Chem., 2014,14:119-185. doi:10.1007/7355_2014_75</p></li><li><p>Li, Y., Reader, J.C., Ma, X., Kundu, N., Kochel, T., Fulton, A.M.,Divergent roles of CXCR3 isoforms in promoting cancer stem-like cell survival and metastasis. Breast Cancer Res. Treat., 2015,149: 403-415. doi:10.1007/s10549-014-3229-7</p></li><li><p>Dong, S., Zhang, X., He, Y., et al., Synergy of IL-27 and TNF-alpha in regulating CXCL10 expression in lung fibroblasts. Am. J. Respir. Cell Mol. Biol., 2013. 48(4): 518-530. doi:10.1165/rcmb.2012-0340OC</p></li><li><p>Groom, J.R., Luster, A.D., CXCR3 in T cell function. Exp. Cell Res., 2011, 317(5): 620-631. doi:10.1016/j.yexcr.2010.12.017</p></li><li><p>Giovannucci, E.,The epidemiology of vitamin D and cancer incidence and mortality: a review. Cancer Cause Control, 2005,16:83-95.</p></li><li><p>Robsahm, T.D., Tretli, S., Dahlback, A., Moan, J., Vitamin D3 from sunlight may improve the prognosis of breast-, colon- and prostate cancer. Cancer Cause Control, 2004.,15:149-158.</p></li><li><p>Armas, L.A., Hollis, B.W., Heaney, R.P.,Vitamin D2 is much less effective than vitamin D3 in humans. J. Clin. Endocrinol. Metab., 2004,89(11): 5387-5391. doi:10.1210/jc.2004-0360</p></li><li><p>De, Cunto, G., Cardini, S., Cirino, G., Geppetti, P., Lungarella, G., Lucattelli, M., Pulmonary hypertension in smoking mice over-expressing protease-activated receptor-2. Eur. Respir. J., 2011,37: 823-834. doi:10.1183/09031936.00060210</p></li><li><p>van der Vaart, H., Postma, D.S., Timens, W. ten Hacken, N.H.,Acute effects of cigarette smoke on inflammation and oxidative stress: a review. Thorax., 2004,59:713-21.</p></li><li><p>Piemonti, L.,Vitamin D3 Affects Differentiation, Maturation, and Function of Human Monocyte-Derived Dendritic Cells. J. Immunol., 2000,164:4443-4451. doi:10.4049/ jimmunol.164.9.4443</p></li><li><p>Pu, Y., Li, S., Zhang, C., Bao, Z., Yang, Z., Sun, L.,High expression of CXCR3 is an independent prognostic factor in glioblastoma patients that promotes an invasive phenotype. J. Neurooncol., 2015,122:43-51. doi:10.1007/s11060- 014-1692-y</p></li><li><p>McPhee, C.G., Increased expression of Cxcr3 and its ligands, Cxcl9 and Cxcl10, during the development of alopecia areata in the mouse. J. Invest. Dermatol., 2012,132(6):1736-1738. doi:10.1038/jid.2012.17</p></li><li><p>Romagnani, P., Crescioli, C., CXCL10: a candidate biomarker in transplantation. Clin. Chim. Acta., 2012,413:1364-1373. doi:10.1016/j.cca.2012.02.009</p></li><li><p>Jiang, D., Long-term exposure of chemokine CXCL10 causes bronchiolitis-like inflammation. Am. J. Respir. Cell Mol. Biol.,2012,46(5):592-598. doi:10.1165/rcmb.2011-0116OC</p></li><li><p>Liu, M., CXCL10 in infectious diseases pathogenesis and potential therapeutic implications. Cytokine Growth Factor Rev.,2011,22(3):121-130. doi:10.1016/j.cytogfr.2011.06.001</p></li><li><p>Ostvik, A.E., Enhanced expression of CXCL10 in inflammatory bowel disease: potential role of mucosal Toll-like receptor 3 stimulation. Inflamm. Bowel. Dis., 2013,19: 265-274. doi:10.1002/ibd.23034</p></li></ol></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/dermatology.html><span class=tag>dermatology</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/gut.html><span class=tag>gut</span></a>
+<a href=/tags/hair.html><span class=tag>hair</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/ibd.html><span class=tag>IBD</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/influenza.html><span class=tag>influenza</span></a>
+<a href=/tags/life-span.html><span class=tag>life span</span></a>
+<a href=/tags/mortality.html><span class=tag>mortality</span></a>
+<a href=/tags/prostate-cancer.html><span class=tag>prostate cancer</span></a>
+<a href=/tags/smoking.html><span class=tag>smoking</span></a>
+<a href=/tags/transplant.html><span class=tag>transplant</span></a>
+<a href=/tags/trauma-surgery.html><span class=tag>trauma surgery</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a></div><div data-pagefind-meta=tags hidden>breast cancer, cancer, dermatology, dosage, gut, hair, health risk, hypertension, IBD, immunity, influenza, life span, mortality, prostate cancer, smoking, transplant, trauma surgery, virus, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

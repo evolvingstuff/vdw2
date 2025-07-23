@@ -23,15 +23,15 @@
 
 ### [Sara Klein](http://www.huffingtonpost.com/2014/04/29/vitamin-d-deficiency-signs-symptoms_n_5200408.html) Huffpost
 
-1.  **Bones ache** - see VitaminDWiki &nbsp; &nbsp; &nbsp;<a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a>
+1.  **Bones ache** - see VitaminDWiki &nbsp; &nbsp; &nbsp;[Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency)
 
-1.  **You've got the blues**  - see VitaminDWiki &nbsp; &nbsp; &nbsp;[Depression](/categories/depression)
+1.  **You've got the blues**  - see VitaminDWiki &nbsp; &nbsp; &nbsp;[Depression](/tags/depression.html)
 
-1.  **You're 50 or older** - see VitaminDWiki &nbsp; &nbsp; &nbsp;<a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+1.  **You're 50 or older** - see VitaminDWiki &nbsp; &nbsp; &nbsp;[Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
-1.  **You're overweight or obese** .- see VitaminDWiki &nbsp; &nbsp; &nbsp;<a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+1.  **You're overweight or obese** .- see VitaminDWiki &nbsp; &nbsp; &nbsp;[Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-1.  **You have darker skin** - see VitaminDWiki &nbsp; &nbsp; &nbsp;<a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+1.  **You have darker skin** - see VitaminDWiki &nbsp; &nbsp; &nbsp;[Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 1.  **You're a big-time head sweater.** 
 

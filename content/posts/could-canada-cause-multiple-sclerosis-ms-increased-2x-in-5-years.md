@@ -58,7 +58,7 @@ Vitamin D is barely mentioned, but just two clicks deep finds finds a [90 second
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a> which starts with the following as of April 2015
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d) which starts with the following as of April 2015
 
 > Clinical interventions have shown that Vitamin D can prevent, treat, and even cure Multiple Sclerosis, at a small fraction (1/1000th) of the cost of the drugs now used to treat it, and with no side effects.
 
@@ -74,9 +74,9 @@ Vitamin D is barely mentioned, but just two clicks deep finds finds a [90 second
 
 * [What does it mean to CURE, not just treat a disease like Multiple Sclerosis – June 2014](/posts/what-does-it-mean-to-cure-not-just-treat-a-disease-like-multiple-sclerosis)
 
-* <a href="/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012">MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012</a>
+* [MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012](/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels)
 
-* <a href="/posts/on-the-aetiology-of-autism-cannell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: On the aetiology of autism - Cannell May 2010">There is not word for Autism in Somali language - but they had to make a word for it when they move to Canada</a>
+* [There is not word for Autism in Somali language - but they had to make a word for it when they move to Canada](/posts/on-the-aetiology-of-autism-cannell)
 
 ## See also MS Atlas
 

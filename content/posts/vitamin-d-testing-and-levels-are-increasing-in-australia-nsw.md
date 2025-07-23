@@ -103,7 +103,7 @@ Australia is the only country which has shown a recent  INCREASE in vitamin D le
 
 ## See also VitaminDWiki
 
-* <a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
+* [VA showed increased vitamin D associated with lower health costs - Lancet May 2012](/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet)
 
 * [Vitamin D testing in Australia before they shut it down – 42 percent retested – 2013](/posts/vitamin-d-testing-in-australia-before-they-shut-it-down-42-percent-retested-2013)
 

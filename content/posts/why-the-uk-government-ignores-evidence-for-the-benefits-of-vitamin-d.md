@@ -191,7 +191,7 @@ Estimations of dietary requirements for vitamin D: impact of season
 
 * [Low vitamin D associated with poor regions in the UK, median was 10 ng – Nov 2012](/posts/low-vitamin-d-associated-with-poor-regions-in-the-uk-median-was-10-ng)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
 * [Video presentation including proof of vitamin D - Nov 2012](/posts/video-presentation-including-proof-of-vitamin-d) by Greenbaum -who wrote the above letter
 
@@ -199,17 +199,17 @@ Estimations of dietary requirements for vitamin D: impact of season
 
 * [Let 1000 die from vitamin D deficiency rather than incur 1 lawsuit](/posts/let-1000-die-from-vitamin-d-deficiency-rather-than-incur-1-lawsuit)
 
-* Reminder: <a href="/posts/doctors-have-at-least-10-reasons-to-be-reluctant-to-increase-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2617">Doctors have at least 10 reasons to be reluctant to increase vitamin D</a>: which has the following quote
+* Reminder: [Doctors have at least 10 reasons to be reluctant to increase vitamin D](/tags/doctors-have-at-least-10-reasons-to-be-reluctant-to-increase-vitamin-d.html): which has the following quote
 
 >  **<span style="color:#00F;">It is difficult to get a man to understand something when his salary is dependent upon his not understanding it</span>**   Upton Sinclair 
 
 * [Only 1 in 3 in Scotland is vitamin D deficient ( less than 10 ng) - Nov 2013](/posts/only-1-in-3-in-scotland-is-vitamin-d-deficient-less-than-10-ng)
 
-* <a href="/posts/quick-self-test-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2095">Quick self test of vitamin D deficiency</a> not quantitative, but FREE
+* [Quick self test of vitamin D deficiency](/tags/quick-self-test-of-vitamin-d-deficiency.html) not quantitative, but FREE
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sternum.jpg" alt="image" style="max-width: 200px;"> <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tibia.jpg" alt="image" style="max-width: 200px;">  
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> has the following chart for Europe
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) has the following chart for Europe
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

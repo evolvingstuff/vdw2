@@ -75,9 +75,9 @@ Test patient's blood level and adjust dosage with a minimum goal of 40 ng/ml bef
 
 * [Suncation adds 12 ng of vitamin D to Sweden women – Sept 2013](/posts/suncation-adds-12-ng-of-vitamin-d-to-sweden-women)  Note: people with dark skins would not get as much
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a> which has the following two items
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d) which has the following two items
 
->  **<a href="/posts/span-stylecolorf00vitamin-d-council-filed-a-complaint-with-the-fda-about-vitamin-y-in-blacksspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1772"><span style="color:#F00;">Vitamin D Council filed a complaint with the FDA about vitamin D deficiency in blacks</span></a>** 
+>  **[<span style="color:#F00;">Vitamin D Council filed a complaint with the FDA about vitamin D deficiency in blacks</span>](/tags/span-stylecolorf00vitamin-d-council-filed-a-complaint-with-the-fda-about-vitamin-d-deficiency-in-blacksspan.html)** 
 
 > &nbsp; &nbsp; &nbsp;2X more likely to have underweight babies
 

@@ -48,11 +48,11 @@ Suspect that researchers would find benefit for women achieving > 40ng/ml level 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Women and Vitamin D">Overview Women and Vitamin D</a>
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d)
 
 * [Vaginal Vitamin D reduced vaginal infections - Jan 2014](/posts/vaginal-vitamin-d-reduced-vaginal-infections)
 
-* <a href="/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011">Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011</a> previous report by Jan 2014 authors
+* [Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection) previous report by Jan 2014 authors
 
 * [ALL of the top 10 health problems of women are associated with low vitamin D](/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d)
 

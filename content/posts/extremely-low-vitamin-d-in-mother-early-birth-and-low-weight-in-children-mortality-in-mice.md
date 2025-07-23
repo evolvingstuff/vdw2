@@ -81,7 +81,7 @@ Conclusions: Our study demonstrates an association between maternal 25OHD and of
 
 * [(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 376 items as of Aug 2014
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a> has a section on preterm and low birth weight 
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d) has a section on preterm and low birth weight 
 
 * [WHO still says mistakenly says NO vitamin D during pregnancy, and only 200 IU after](/posts/who-still-says-mistakenly-says-no-vitamin-d-during-pregnancy-and-only-200-iu-after)
 

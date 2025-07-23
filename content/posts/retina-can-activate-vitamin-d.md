@@ -49,4 +49,4 @@ PMID: 24576880
 
 ## See also VitaminDWiki
 
-* <a href="/posts/autocrine-and-paracrine-actions-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autocrine and Paracrine Actions of Vitamin D - Nov 2010">Autocrine and Paracrine Actions of Vitamin D - Nov 2010</a>
+* [Autocrine and Paracrine Actions of Vitamin D - Nov 2010](/tags/autocrine-and-paracrine-actions-of-vitamin-d-nov-2010.html)

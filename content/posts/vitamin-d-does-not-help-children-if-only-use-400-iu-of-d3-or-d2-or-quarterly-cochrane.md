@@ -56,9 +56,9 @@
 
 > &nbsp; &nbsp; This Cochrane report fails for all 9 reasons listed
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a> includes many reasons to never use Vitamin D2
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2) includes many reasons to never use Vitamin D2
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> NOT quarterly!
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) NOT quarterly!
 
 * [Quarterly vitamin D3 is too infrequent – it increases the occurrence of pneumonia – June 2012](/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia)
 

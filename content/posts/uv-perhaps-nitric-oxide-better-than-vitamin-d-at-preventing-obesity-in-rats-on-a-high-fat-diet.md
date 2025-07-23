@@ -102,7 +102,7 @@ These studies suggest that UVR (sunlight exposure) may be an effective means of 
 
 * [Nitric oxide (from Sun, UVA, Vitamin D) reduces cardiovascular problems](/posts/nitric-oxide-from-sun-uva-vitamin-d-reduces-cardiovascular-problems) also by Dr. Richard Weller
 
-* <a href="/posts/metabolic-syndrome-reduced-2x-after-one-year-of-more-sunlight" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metabolic Syndrome reduced 2X after one year of more sunlight - Nov 2011">Metabolic Syndrome reduced 2X after one year of more sunlight - Nov 2011</a>
+* [Metabolic Syndrome reduced 2X after one year of more sunlight - Nov 2011](/posts/metabolic-syndrome-reduced-2x-after-one-year-of-more-sunlight)
 
 * [Metabolic Syndrome 3X less likely in college students with enough vitamin D – June 2014](/posts/metabolic-syndrome-3x-less-likely-in-college-students-with-enough-vitamin-d)
 
@@ -110,9 +110,9 @@ These studies suggest that UVR (sunlight exposure) may be an effective means of 
 
 * [40 percent less likely to gain weight if live at high altitude (no mention of UVB nor vitamin D) – April 2014](/posts/40-percent-less-likely-to-gain-weight-if-live-at-high-altitude-no-mention-of-uvb-nor-vitamin-d)
 
-* <a href="/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.">Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.</a>
+* [Nitric oxide (from sun, Mg, Vit D, etc) reduces some health problems - many studies.](/posts/nitric-oxide-from-sun-mg-vit-d-etc-reduces-some-health-problems-many-studies)
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Beneficial effects of UV radiation other than via vitamin D production – June 2012">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
 * [5 Amazing Properties of Sunlight You've Never Heard About](/posts/5-amazing-properties-of-sunlight-youve-never-heard-about)
 

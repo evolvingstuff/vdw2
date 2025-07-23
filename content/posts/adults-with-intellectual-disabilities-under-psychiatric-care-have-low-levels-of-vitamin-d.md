@@ -115,7 +115,7 @@ PMID: 25257061  **[Publisher wants $30 for the PDF](http://bjp.rcpsych.org/conte
 
 * [Dementia risk increases 60 percent if have low vitamin D – Nov 2012](/posts/dementia-risk-increases-60-percent-if-have-low-vitamin-d)
 
-* <a href="/posts/psychosis-in-dark-skinned-people-35-x-higher-if-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012">Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012</a>
+* [Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012](/posts/psychosis-in-dark-skinned-people-35-x-higher-if-low-level-of-vitamin-d)
 
 * [99 percent of psychiatric population had less than 30 ng of vitamin D – June 2013](/posts/99-percent-of-psychiatric-population-had-less-than-30-ng-of-vitamin-d)
 

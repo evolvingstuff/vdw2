@@ -58,7 +58,7 @@ Conclusion: The prevalence of hypomagnesaemia in internal medicine is very high.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Magnesium and Vitamin D very synergistic – Aug 2013](/posts/magnesium-and-vitamin-d-very-synergistic)
 

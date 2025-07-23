@@ -35,7 +35,7 @@ efficiency of the language development: 95% vs 74%
 
 Abstract does not indicate dose size
 
-* <a href="/posts/cerebral-palsy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cerebral Palsy and Vitamin D - many studies">Cerebral Palsy and Vitamin D - many studies</a>
+* [Cerebral Palsy and Vitamin D - many studies](/posts/cerebral-palsy-and-vitamin-d-many-studies)
 
 * [Most of the 267 Cerebral Palsy articles in VitaminDWiki concern Magnesium](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22Cerebral+palsy+%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20)
 

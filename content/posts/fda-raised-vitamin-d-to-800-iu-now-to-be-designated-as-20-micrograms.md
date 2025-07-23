@@ -38,7 +38,7 @@
 
 * [Third study found that Infants needed 1600 IU of vitamin D – JAMA RCT May 2013](/posts/third-study-found-that-infants-needed-1600-iu-of-vitamin-d-jama-rct)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/fda-july-2016.compressed.pdf">Download the FDA  PDF (259 pages) from VitaminDWiki</a>** 
 

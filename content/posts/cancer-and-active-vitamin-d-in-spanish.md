@@ -36,7 +36,7 @@ PMID: 22522858
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * [Vitamin D in 5 minutes in Spanish voice-over of video: La vitamina D en 5 minutos](https://www.youtube.com/watch?v=G7IkYQKd6FIcc=on)
 

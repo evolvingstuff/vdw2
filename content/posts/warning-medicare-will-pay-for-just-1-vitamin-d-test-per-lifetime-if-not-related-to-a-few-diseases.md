@@ -104,7 +104,7 @@
 
  **<span style="color:#00F;">Table is from the PDF attached at the bottom of this page</span>** 
 
-### Health Problems which have been <a href="/posts/proven-to-be-prevented-or-treated-by-vitamin-d-supplementation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">proven to be prevented or treated by vitamin D supplementation</a>, but which are not covered by Medicare include
+### Health Problems which have been [proven to be prevented or treated by vitamin D supplementation](/tags/proven-to-be-prevented-or-treated-by-vitamin-d-supplementation.html), but which are not covered by Medicare include
 
  **<span style="color:#00F;">Cardiovascular, Back Pain, Diabetes, Influenza, Falls, Hip Fractures, Breast Cancer, Multiple Sclerosis, Raynaud's pain, Menstrual Pain, C-section and pregnancy risks, Low Birth Weight, Chronic Kidney Disease, Cystic Fibrosis, Rheumatoid Arthritis, TB, Rickets, Respiratory Tract Infection, Lupus, Sickle Cell pain, leg ulcers, traumatic brain injury. Parkinson's Disease, Multiple Sclerosis, Congestive Heart Failure (Infants), Middle Ear Infection (Infants), Gingivitis, muscles in seniors, antibiotic use in seniors, Infants taller, Gestational Diabetes, heart pump better after attack, Prostate Cancer, Asthma, Depression, Vitamin D in Breastmilk, Fibromyalgia, Hives (as of Feb 2014)</span>** 
 
@@ -124,7 +124,7 @@
 
 US is foolishly joining countries such as Canada and Australia in limiting  short-term health costs by restricting vitamin D tests
 
-<a href="/posts/vitamin-d-tests-have-been-proven-to-lower-not-raise-health-care-costs" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2694">Vitamin D tests have been proven to lower, not raise health care costs</a> (Lancet 2012)
+[Vitamin D tests have been proven to lower, not raise health care costs](/tags/vitamin-d-tests-have-been-proven-to-lower-not-raise-health-care-costs.html) (Lancet 2012)
 
 A person will typically just need a single vitamin D test 4 months after having a loading dose followed by a maintenance dose
 
@@ -152,15 +152,15 @@ If your vitamin D level is not high enough and the govt does not pay for additio
 
 * [Virtually all vitamin D testing not associated with a symptom, but 10 percent had osteoporosis – April 2014](/posts/virtually-all-vitamin-d-testing-not-associated-with-a-symptom-but-10-percent-had-osteoporosis)
 
-* <a href="/posts/australia-is-considering-cutting-vitamin-d-testing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Australia is considering cutting vitamin D testing – March 2011">Australia is considering cutting vitamin D testing – March 2011</a> 100X increase in a decade
+* [Australia is considering cutting vitamin D testing – March 2011](/posts/australia-is-considering-cutting-vitamin-d-testing) 100X increase in a decade
 
 * [No longer debating vitamin D supplementation, now debating need for testing first – April 2013](/posts/no-longer-debating-vitamin-d-supplementation-now-debating-need-for-testing-first)
 
 * [Vitamin D testing using smartphone camera: Prototype – Dec 2013](/posts/vitamin-d-testing-using-smartphone-camera-prototype)  very low cost vitamin D tests are in the pipline
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a> FREE
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency) FREE
 
 * [Vitamin D test: 20 dollars via some Walgreens Drug Stores – Oct 2013](/posts/vitamin-d-test-20-dollars-via-some-walgreens-drug-stores)  very low cost vitamin D tests are in the pipline
 
@@ -172,7 +172,7 @@ If your vitamin D level is not high enough and the govt does not pay for additio
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">   	<img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
-*  **<a href="/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis of cause and effect of vitamin D deficiency">Hypothesis of cause and effect of vitamin D deficiency</a>**  which has the following chart
+*  **[Hypothesis of cause and effect of vitamin D deficiency](/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency)**  which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

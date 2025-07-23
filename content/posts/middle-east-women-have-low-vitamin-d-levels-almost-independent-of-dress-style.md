@@ -65,13 +65,13 @@ Osteoporosis (not statistically significant) | 25 %| 23 %| 15%||
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
 * [More hijab clothing may have resulted in 6X increase in Multiple Sclerosis in Tehran – May 2013](/posts/more-hijab-clothing-may-have-resulted-in-6x-increase-in-multiple-sclerosis-in-tehran) 
 
-* <a href="/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012">Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012</a>
+* [Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012](/posts/concealing-clothing-in-canada-half-the-level-of-vitamin-d-in-blood)
 
-* <a href="/posts/70-pcnt-of-saudi-women-were-extremely-vitamin-d-deficient-but-only-40-pcnt-of-men" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 70 pcnt of Saudi women were extremely vitamin D deficient, but only 40 pcnt of men – March 2012">70 pcnt of Saudi women were extremely vitamin D deficient, but only 40 pcnt of men – March 2012</a>
+* [70 pcnt of Saudi women were extremely vitamin D deficient, but only 40 pcnt of men – March 2012](/posts/70-pcnt-of-saudi-women-were-extremely-vitamin-d-deficient-but-only-40-pcnt-of-men)
 
 * [If heavily clothed, very little vitamin D – Dec 2012](/posts/if-heavily-clothed-very-little-vitamin-d)  which has the following photos
 

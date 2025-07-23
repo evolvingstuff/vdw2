@@ -55,17 +55,17 @@ CONCLUSION: The meta-analysis suggests a moderate inverse association of 25(OH)D
 
 * [Vitamin D still appears to reduce Cancer Mortality – Systematic Review Oct 2012](/posts/vitamin-d-still-appears-to-reduce-cancer-mortality-systematic-review)
 
-* <a href="/posts/not-enough-women-willing-to-stop-taking-vitamin-d-to-permit-breast-cancer-clinical-trial" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not enough women willing to stop taking vitamin D to permit breast cancer clinical trial – June 2012">Not enough women willing to stop taking vitamin D to permit breast cancer clinical trial – June 2012</a>
+* [Not enough women willing to stop taking vitamin D to permit breast cancer clinical trial – June 2012](/posts/not-enough-women-willing-to-stop-taking-vitamin-d-to-permit-breast-cancer-clinical-trial)
 
 * [Vitamin D and Cancer Mortality – review Jan 2013](/posts/vitamin-d-and-cancer-mortality-review)
 
 * [More US deaths due to cancer than heart if dark skinned – Sept 2012](/posts/more-us-deaths-due-to-cancer-than-heart-if-dark-skinned)
 
-* <a href="/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012">Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012</a>
+* [Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012](/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis)
 
-* <a href="/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012">85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012</a>
+* [85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012](/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng)
 
-* <a href="/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011">Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011</a>
+* [Cancer patients 64% less likely to die if have high level of vitamin D – Dec 2011](/posts/cancer-patients-64-percent-less-likely-to-die-if-have-high-level-of-vitamin-d)
 
 * [Cancer survival 4 percent more likely with just a little more vitamin D (4 ng) - meta-analysis July 2014](/posts/cancer-survival-4-percent-more-likely-with-just-a-little-more-vitamin-d-4-ng-meta-analysis) very similar to 24% reduction with 20 ng
 

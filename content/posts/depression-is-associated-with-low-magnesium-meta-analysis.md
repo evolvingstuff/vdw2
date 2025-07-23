@@ -46,7 +46,7 @@ Six observational studies (three cohort studies, two cross-sectional studies and
 
 CONCLUSION: Our study demonstrates a potential association between hypomagnesaemia and depression. Further studies assessing the benefits of treatment of hypomagnesaemia in patients with depression are needed.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1111/imj.12682** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1111/imj.12682** 
 
 ---
 

@@ -55,15 +55,15 @@ VitaminDWiki comments:
 
 [Respiratory Tract Infection visits 2.5 less likely with vitamin D: Pregnancy 2000 IU, Infant 800 IU – RCT Oct 2014](/posts/respiratory-tract-infection-visits-25-less-likely-with-vitamin-d-pregnancy-2000-iu-infant-800-iu-rct)
 
-<a href="/posts/800-iu-vitamin-d-while-pregnant-decrease-child-asthma-by-2x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 800 IU Vitamin D while pregnant decrease child asthma by 2X- Sept 2010">800 IU Vitamin D while pregnant decrease child asthma by 2X- Sept 2010</a>
+[800 IU Vitamin D while pregnant decrease child asthma by 2X- Sept 2010](/posts/800-iu-vitamin-d-while-pregnant-decrease-child-asthma-by-2x)
 
-<a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+[Allergy - Overview](/posts/allergy-overview)
 
 [Search VitaminDWiki for "allergic rhinitis" or "hay fever"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22allergic+rhinitis%22+or+%22hay+fever%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 128 items as of June 2019
 
-<a href="/posts/huge-increase-in-food-allergies-in-australia-may-be-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Huge increase in food allergies in Australia may be due to low vitamin D">Huge increase in food allergies in Australia may be due to low vitamin D</a>
+[Huge increase in food allergies in Australia may be due to low vitamin D](/posts/huge-increase-in-food-allergies-in-australia-may-be-due-to-low-vitamin-d)
 
-<a href="/posts/best-supplements-for-hay-fever-quercetin-which-activates-the-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Best supplements for hay fever (Quercetin, which activates the Vitamin D receptor) - June 2019">Best supplements for hay fever (Quercetin, which activates the Vitamin D receptor) - June 2019</a>
+[Best supplements for hay fever (Quercetin, which activates the Vitamin D receptor) - June 2019](/posts/best-supplements-for-hay-fever-quercetin-which-activates-the-vitamin-d-receptor)
 
 </div>
 

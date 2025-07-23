@@ -37,16 +37,16 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a> scores of reasons for low vitamin D not mention in the simple Council questions
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d) scores of reasons for low vitamin D not mention in the simple Council questions
 
 * [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need)
 
 * [Ask yourself if you have these symptoms of low vitamin D](/posts/ask-yourself-if-you-have-these-symptoms-of-low-vitamin-d) - from Germany
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> 35 reasons as of 2015
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) 35 reasons as of 2015
 
 * Reasons for not getting benefits - <span style="color:#F00;">even if blood tests are OK</span>
 
-<a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Kidney</a>&nbsp; &nbsp; <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Low Magnesium</a>, [Low Omega](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d),&nbsp; &nbsp; &nbsp;[Vitamin D Receptor](/posts/vitamin-d-receptor) &nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=143&deep=off&type=]</span>.
+[Kidney](/posts/overview-kidney-and-vitamin-d)&nbsp; &nbsp; [Low Magnesium](/posts/overview-magnesium-and-vitamin-d), [Low Omega](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d),&nbsp; &nbsp; &nbsp;[Vitamin D Receptor](/posts/vitamin-d-receptor) &nbsp; &nbsp; &nbsp;<span>[tiki-browse_categories.php?parentId=143&deep=off&type=]</span>.
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="800">

@@ -69,9 +69,9 @@ On entire body (not just upper or lower)
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D bulb for use in the home - or perhaps office">Vitamin D bulb for use in the home - or perhaps office</a>
+* [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office)
 
 * [UVA decreased serum levels of vitamin D - RCT Oct 2012](/posts/uva-decreased-serum-levels-of-vitamin-d-rct)
 
@@ -85,9 +85,9 @@ On entire body (not just upper or lower)
 
 * [3X more vitamin D from the sun if take MS drug Interferon-β – July 2012](/posts/3x-more-vitamin-d-from-the-sun-if-take-ms-drug-interferon)
 
-* <a href="/posts/tanning-beds-uvb-vary-by-4x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tanning beds UVB vary by 4X">Tanning beds UVB vary by 4X</a>
+* [Tanning beds UVB vary by 4X](/posts/tanning-beds-uvb-vary-by-4x)
 
-* <a href="/posts/use-of-tanning-beds-would-reduce-associated-deaths-by-10x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Use of tanning beds would reduce associated deaths by 10X – Oct 2011">Use of tanning beds would reduce associated deaths by 10X – Oct 2011</a>
+* [Use of tanning beds would reduce associated deaths by 10X – Oct 2011](/posts/use-of-tanning-beds-would-reduce-associated-deaths-by-10x)
 
 3 tanning sessions raised vitamin D levels about 4 nanograms for about 4 weeks – July 2016
 

@@ -54,8 +54,8 @@ PMID: 16218085
 
 ## See also VitaminDWiki
 
-* <a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">ADHD and Vitamin D Deficiency</a>
+* [ADHD and Vitamin D Deficiency](/posts/adhd-and-vitamin-d-deficiency)
 
 * [Restless Legs Syndrome - Vitamin D, Iron, etc. - many studies](/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies)
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)

@@ -93,7 +93,7 @@ The association with episodic memory remains uncertain.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Alzheimer’s and Vitamins D, B, C, E, as well as Omega-3, metals, etc. – June 2013](/posts/alzheimers-and-vitamins-d-b-c-e-as-well-as-omega-3-metals-etc)
 

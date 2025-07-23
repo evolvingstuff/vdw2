@@ -59,10 +59,10 @@ By the way.  Vets decided years ago that D2 should not be used on any mammals - 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/veterinary-and-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Veterinary and D">Veterinary and D</a> category listing with associated searches
+* [Veterinary and D](/tags/veterinary-and-d.html) category listing with associated searches
 
-* <a href="/posts/10-million-iu-of-vitamin-d3-for-cows-was-great-unless-had-vitamin-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10 million IU of vitamin D3 for cows was great unless had vitamin D2 – July 2011">10 million IU of vitamin D3 for cows was great unless had vitamin D2 – July 2011</a>
+* [10 million IU of vitamin D3 for cows was great unless had vitamin D2 – July 2011](/posts/10-million-iu-of-vitamin-d3-for-cows-was-great-unless-had-vitamin-d2)
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)

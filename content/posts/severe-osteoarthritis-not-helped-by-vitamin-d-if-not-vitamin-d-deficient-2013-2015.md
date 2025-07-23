@@ -17,7 +17,7 @@
 }
 
 
-#### <a href="/posts/effect-of-vitamin-d-supplementation-on-progression-of-knee-pain-and-cartilage-vo-ontrolled-trial" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3620">Effect of Vitamin D Supplementation on Progression of Knee Pain and Cartilage Volume Loss in Patients With Symptomatic Osteoarthritis - A Randomized Controlled Trial</a> 2013
+#### [Effect of Vitamin D Supplementation on Progression of Knee Pain and Cartilage Volume Loss in Patients With Symptomatic Osteoarthritis - A Randomized Controlled Trial](/tags/effect-of-vitamin-d-supplementation-on-progression-of-knee-pain-and-cartilage-volume-loss-in-patients-with-symptomatic-osteoarthritis-a-randomized-controlled-trial.html) 2013
 
 * In 2013 I could not understand why the study did not find a benefit
 

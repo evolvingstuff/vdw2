@@ -70,7 +70,7 @@ The pill is available for $30 and $4 shipping in the US. By the middle of 2012 t
 
 ## Would have been nice to have had a sunscreen which blocked just UVA,
 
-Unfortunately, most <a href="/posts/suncreens-block-both-uva-and-uvb" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1075">suncreens block both UVA and UVB</a>
+Unfortunately, most [suncreens block both UVA and UVB](/tags/suncreens-block-both-uva-and-uvb.html)
 
 Some sunscreens block UVB more than UVA - the exact opposite of what is  **<span style="color:#F00;">wanted (dashed line)</span>** 
 

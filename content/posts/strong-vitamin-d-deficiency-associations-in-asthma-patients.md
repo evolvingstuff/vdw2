@@ -90,9 +90,9 @@ Conclusions Over half of participating asthma patients were vitamin D deficient.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* [Genetics](/categories/genetics) category listing with related searches
+* [Genetics](/tags/genetics.html) category listing with related searches
 
 * Search VitaminDWiki for [GG  and GENE but not Schartz](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=gg+gene+-schwartz&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 95 hits as of Nov 2014
 

@@ -26,7 +26,7 @@
 
 #### Update 2015 [Ensure a healthy pregnancy and infant with as little as $20 of Vitamin D](/posts/ensure-a-healthy-pregnancy-and-infant-with-as-little-as-20-of-vitamin-d) anywhere around the world
 
-#### Update 2017 <a href="/posts/preterm-birth-rate-reduced-by-vitamin-d-78-percent-if-non-white-39-percent-if-white" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017">Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017</a>
+#### Update 2017 [Preterm birth rate reduced by vitamin D – 78 percent if non-white, 39 percent if white – July 2017](/posts/preterm-birth-rate-reduced-by-vitamin-d-78-percent-if-non-white-39-percent-if-white)
 
 #### GrassrootsHealth Newsletter of March 25, 2015
 

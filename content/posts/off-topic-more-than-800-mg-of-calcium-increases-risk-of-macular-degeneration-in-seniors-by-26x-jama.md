@@ -57,7 +57,7 @@ A clear dose-response association between the quintiles of self-reported supplem
 
 Conclusions and Relevance  Self-reported supplementary calcium consumption is associated with increased prevalence of AMD, with the findings suggesting a threshold rather than a dose-response relationship. The stronger association in older individuals may be due to relatively longer duration of calcium supplementation in older individuals.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1001/jamaophthalmol.2015.0514** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1001/jamaophthalmol.2015.0514** 
 
 ---
 
@@ -91,7 +91,7 @@ P value = .004 = unlikely to be a result of chance)
 
 * [Increasing bone mineral density increases breast cancer by at least 2X – Aug 2012](/posts/increasing-bone-mineral-density-increases-breast-cancer-by-at-least-2x) another problem of too much Calcium
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
 ## See also web
 

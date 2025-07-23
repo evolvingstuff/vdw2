@@ -61,7 +61,7 @@ Note: Most people have both low Vitamin D and low Magnesium
 
 [1.9 X more likely to die if very low vitamin D – June 2014](/posts/19-x-more-likely-to-die-if-very-low-vitamin-d)
 
-<a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+[Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
 </div>
 

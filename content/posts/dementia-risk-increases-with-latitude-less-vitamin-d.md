@@ -60,4 +60,4 @@
 
 * [Chance of Dementia increased 3 percent for every 1 ng less of vitamin D – Feb 2015](/posts/chance-of-dementia-increased-3-percent-for-every-1-ng-less-of-vitamin-d)
 
-* [Cognitive](/categories/cognitive) category overview with associated searches
+* [Cognitive](/tags/cognitive.html) category overview with associated searches

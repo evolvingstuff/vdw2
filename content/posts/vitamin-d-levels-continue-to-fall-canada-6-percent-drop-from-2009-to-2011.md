@@ -38,15 +38,15 @@
 
 * 63.5 nmol/L = 25.4 ng in 2011
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a> many recommend 30, 40, 50, 60 ng
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng) many recommend 30, 40, 50, 60 ng
 
-* <a href="/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Percent of population with less than 20 ng of vitamin D">Percent of population with less than 20 ng of vitamin D</a> has the following graph 
+* [Percent of population with less than 20 ng of vitamin D](/posts/percent-of-population-with-less-than-20-ng-of-vitamin-d) has the following graph 
 
 > Notice that 61% of Canadians had less than even 20 ng.
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> 
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) 
 
 > has a chart showing number of US residents with >30 ng dropped by 50% in 16 years
 

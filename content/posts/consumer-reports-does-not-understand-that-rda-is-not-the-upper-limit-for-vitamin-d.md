@@ -34,11 +34,11 @@ RDA = 600 IU
 
 Upper Limit = 4,000 IU, which is  **<span style="color:#F00;">6X</span>**  larger than the RDA
 
-## <a href="/posts/a-summary-of-many-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">A summary of many recommendations</a>
+## [A summary of many recommendations](/tags/a-summary-of-many-recommendations.html)
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-## <a href="/posts/factoids" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 649">Factoids</a>
+## [Factoids](/tags/factoids.html)
 
 There has not been a death due to vitamin D in over 5 years
 
@@ -48,10 +48,10 @@ Medical studies have only documented problems with 20,000 IU of vitamin D ( **<s
 
 # See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations</a>
+* [Vitamin D Recommendations](/tags/vitamin-d-recommendations.html)
 
 * [Annual cost of 1000 IU of Vitamin D daily - Consumer Reports May 2013](/posts/annual-cost-of-1000-iu-of-vitamin-d-daily-consumer-reports)
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">Overview Toxicity of vitamin D</a> which has the following chart
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

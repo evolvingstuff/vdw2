@@ -33,6 +33,6 @@
 
 * [Vitamin D Conference – Abu Dhabi – March 2013](/posts/vitamin-d-conference-abu-dhabi)
 
-* <a href="/posts/international-symposium-on-vitamin-d-deficiency-abu-dhabi" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: International Symposium on Vitamin D Deficiency - Abu Dhabi March 2012">International Symposium on Vitamin D Deficiency - Abu Dhabi March 2012</a>
+* [International Symposium on Vitamin D Deficiency - Abu Dhabi March 2012](/posts/international-symposium-on-vitamin-d-deficiency-abu-dhabi)
 
-* <a href="/posts/international-congress-on-vitamin-d-vitamind-workshop-ny" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: International Congress on Vitamin D (VitaminD Workshop) – NY May 2019">International Congress on Vitamin D (VitaminD Workshop) – NY May 2019</a> has links to many previous workshops
+* [International Congress on Vitamin D (VitaminD Workshop) – NY May 2019](/posts/international-congress-on-vitamin-d-vitamind-workshop-ny) has links to many previous workshops

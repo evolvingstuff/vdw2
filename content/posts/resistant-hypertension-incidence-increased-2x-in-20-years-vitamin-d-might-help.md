@@ -84,9 +84,9 @@ Note by VitaminDWiki: RH was more frequent in exactly those groups which are at 
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
-* [Sleep](/categories/sleep) category, with searches for COPD and Sleep Apnea
+* [Sleep](/tags/sleep.html) category, with searches for COPD and Sleep Apnea
 
 * [Sleep disorders cured by 60-80 ng of vitamin D and some B vitamins – March 2013](/posts/sleep-disorders-cured-by-60-80-ng-of-vitamin-d-and-some-b-vitamins)
 

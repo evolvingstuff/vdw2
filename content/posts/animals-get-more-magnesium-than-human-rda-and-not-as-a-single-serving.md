@@ -68,6 +68,6 @@ Assuming a human eats 1 kg of food per day 0.1% would be 1000 mg of Magnesium el
 
 ## See also VitaminDWiki
 
-* <a href="/posts/primates-nutrient-requirements-2003" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Primates Nutrient Requirements – 2003">Primates Nutrient Requirements – 2003</a>
+* [Primates Nutrient Requirements – 2003](/posts/primates-nutrient-requirements-2003)
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)

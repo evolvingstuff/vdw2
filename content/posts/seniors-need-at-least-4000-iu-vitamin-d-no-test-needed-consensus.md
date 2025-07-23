@@ -75,6 +75,6 @@ PMID: 24350602
 
 * [Vitamin D may prevent falls and fractures without Calcium – an overview of 9 meta-analysis – Oct 2012](/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis)
 
-* <a href="/posts/published-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations</a> has the following summary chart
+* [Published Recommendations](/tags/published-recommendations.html) has the following summary chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

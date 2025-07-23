@@ -41,7 +41,7 @@ Women in Turkey have low levels of vitamin D
 
 [Turkey has yet not learned to GIVE vitamin D DURING pregnancy (5 ng average) – May 2014](/posts/turkey-has-yet-not-learned-to-give-vitamin-d-during-pregnancy-5-ng-average)
 
-<a href="/posts/33-percent-of-pregnant-women-in-turkey-had-undetectable-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 33 percent of pregnant women in Turkey had undetectable vitamin D levels – May 2011">33 percent of pregnant women in Turkey had undetectable vitamin D levels – May 2011</a>
+[33 percent of pregnant women in Turkey had undetectable vitamin D levels – May 2011](/posts/33-percent-of-pregnant-women-in-turkey-had-undetectable-vitamin-d-levels)
 
 [Neural tube defects of pregnant mice reduced by Vitamin D (perhaps less Folate needed) – April 2015](/posts/neural-tube-defects-of-pregnant-mice-reduced-by-vitamin-d-perhaps-less-folate-needed)
 

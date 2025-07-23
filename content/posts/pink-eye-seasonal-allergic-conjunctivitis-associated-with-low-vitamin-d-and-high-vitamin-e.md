@@ -74,8 +74,8 @@ We found lower plasma vitamin D levels and higher serum total IgE levels in pati
 
 #### See also VitaminDWiki
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* [Autoimmune](/categories/autoimmune) category listing and associated search results
+* [Autoimmune](/tags/autoimmune.html) category listing and associated search results
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sac.jpg" alt="image" width="250">

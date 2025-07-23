@@ -51,6 +51,6 @@ Available data indicates that lower vitamin D status may be associated with incr
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 ## [Vitamin D Council review of the study](http://www.vitamindcouncil.org/blog/meta-analysis-suggests-vitamin-d-deficiency-may-increase-the-risk-of-developing-alzheimers-disease-and-dementia-08-2015/#)

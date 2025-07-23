@@ -51,7 +51,7 @@ Neuroleptic and anti-epileptic medication, inadequate vitamin D intake and limit
 
 * [Learning Disabilities, anti-epileptic drugs, and subsequent vitamin D deficiency - Oct 2014](/posts/learning-disabilities-anti-epileptic-drugs-and-subsequent-vitamin-d-deficiency)
 
-* <a href="/posts/prisoners-have-very-low-vitamin-d-and-get-tb-influenza-and-depression" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 537">Prisoners have very low vitamin D and get TB, influenza, and depression</a>
+* [Prisoners have very low vitamin D and get TB, influenza, and depression](/posts/prisoners-have-very-low-vitamin-d-and-get-tb-influenza-and-depression)
 
 > This includes the story of how Dr. Cannell of Vitamin D Council first got interested in Vitamin D
 
@@ -61,7 +61,7 @@ Neuroleptic and anti-epileptic medication, inadequate vitamin D intake and limit
 
 * [Hypothesis: Some Mental Illness could be treated or prevented with vitamin D](/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d)
 
-* <a href="/posts/psychosis-in-dark-skinned-people-35-x-higher-if-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012">Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012</a>
+* [Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012](/posts/psychosis-in-dark-skinned-people-35-x-higher-if-low-level-of-vitamin-d)
 
 * [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d)
 

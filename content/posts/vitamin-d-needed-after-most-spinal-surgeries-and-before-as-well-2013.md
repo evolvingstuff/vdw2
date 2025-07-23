@@ -44,7 +44,7 @@ Nola Physical Therapy, 2 West 45th Street, Suite 208, New York, NY 10036, USA Co
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/give-vitamin-d-before-all-spinal-surgeries-no-testing-needed" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Give Vitamin D before all spinal surgeries – no testing needed – June 2020">Give Vitamin D before all spinal surgeries – no testing needed – June 2020</a>
+* [Give Vitamin D before all spinal surgeries – no testing needed – June 2020](/posts/give-vitamin-d-before-all-spinal-surgeries-no-testing-needed)
 
 * [Search VitaminDWiki for backpain OR "back pain"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=backpain+OR+%22back+pain%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 79 as of Nov 2013
 
@@ -54,7 +54,7 @@ Nola Physical Therapy, 2 West 45th Street, Suite 208, New York, NY 10036, USA Co
 
 * [Daily headaches and musculoskeletal pain may be due to low vitamin D – Oct 2013](/posts/daily-headaches-and-musculoskeletal-pain-may-be-due-to-low-vitamin-d)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [Back pain reduced for 95 percent of those who took vitamin D - 2003](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1348) PDF file
 
@@ -62,7 +62,7 @@ Nola Physical Therapy, 2 West 45th Street, Suite 208, New York, NY 10036, USA Co
 
 * [Spinal fusion improved by vitamin D (no amounts stated in abstract) – Jan 2015](/posts/spinal-fusion-improved-by-vitamin-d-no-amounts-stated-in-abstract)
 
-* [Back Pain](/categories/back-pain) 
+* [Back Pain](/posts/back-pain) 
 
 </div>
 

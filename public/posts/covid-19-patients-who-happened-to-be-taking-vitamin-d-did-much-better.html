@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>COVID-19 patients who happened to be taking Vitamin D did much better</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>COVID-19 patients who happened to be taking Vitamin D did much better</h1><time>October 27, 2020</time><div data-pagefind-body><h4 id=00funfortunately-the-spanish-study-did-not-report-how-much-vitamin-d-some-covid-19-patients-had-been-taking>~~#00F:Unfortunately, the Spanish study did not report how much Vitamin D some COVID-19 patients had been taking</h4><p><strong>Those taking Vitamin D had fewer health problems</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/covid-19-supplement-spain.jpg alt=image width=500><p><strong>Those taking Vitamin D had much better outcomes</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/outcomes-spain.jpg alt=image width=500><p><strong>Those with Vitamin D had much higher levels of vitamin D</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/covid-19-hospital-spain-d-levels.jpg alt=image width=500><p><strong>Comment by VitaminDWiki</strong></p><ol><li><p>Many people taking a lot of Vitamin D did not get any COVID-19 infection</p></li><li><p>People taking less Vitamin D got COVID-19, but did not have to go to the hospital</p></li><li><p>People taking a small amount of Vitamin D entered the hospital, and were reported in this study</p></li></ol><hr><h4 id=this-paper-was-also-reported-elsewhere>This paper was also reported elsewhere</h4><ul><li><p><a href=https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency>Study finds over 80 percent of COVID-19 patients have vitamin D deficiency</a> Endocrine Society</p></li><li><p><a href=https://www.dailymail.co.uk/news/article-8884139/Eight-10-Covid-19-hospital-patients-vitamin-D-deficient-study.html>More proof vitamin D cuts your risk of getting severely ill from Covid? Study finds deficiencies in the sunshine nutrient are four times more common in infected hospital patients</a> DailyMall Oct 28</p><ul><li>Also summarizes results from about 9 previous studies</li></ul></li></ul><hr><h4 id=vitamin-d-status-in-hospitalized-patients-with-sars-cov-2-infection>VITAMIN D STATUS IN HOSPITALIZED PATIENTS WITH SARS-CoV-2 INFECTION</h4><p>The Journal of Clinical Endocrinology & Metabolism, dgaa733, <a href=https://doi.org/10.1210/clinem/dgaa733>https://doi.org/10.1210/clinem/dgaa733</a></p><p>Jose L. Hernandez1'10, Daniel Nan1,10, Marta Fernandez-Ayala1, Mayte Garcfa-Unzueta2, Miguel A. Hernandez-Hernandez3, Marcos Lopez-Hoyos4, Pedro Munoz Cacho5, Jose M. Oimos1-10, Manuel Gutierrez-Cuadra6, Juan J. Ruiz-Cubillan7, Javier Crespo8,10, Victor M. Martfnez-Taboada9,10</p><p>Background: The role of vitamin D status in COVID-19 patients is a matter of debate.</p><p>Objectives: To assess serum 25-hydroxyvitamin D (25OHD) levels in hospitalized patients with COVID-19 and to analyze the possible influence of vitamin D status on disease severity.</p><p>Methods: Retrospective case-control study of 216 COVID-19 patients and 197 population-based controls.</p><p>Serum 25OHD levels were measured in both groups. Besi COVID-19 severity (admission to the Intensive Care Unit, re was also evaluated.</p><p>Results: Of the 216 patients, 19 were on vitamin D s patients, mean±SD25〇Hd levels were 13.8±7.2ng/ml，compared to 20.9±7.4ng/ml in controls (p&lt;0.0001). 25OHD values were lower in men than in women. Vitamin D deficiency was found in 82.2% of COVID-19 cases and 47.2% of population-based controls (p&lt;0.0001). 25OHD inversely correlate to serum ferritin (p=0.013) and D-dimer levels (p=0.027). Vitamin D-deficient COVID-19 patients had a greater prevalence of hypertension and cardiovascular diseases, raised serum ferritin and troponin levels, as well as a longer length of hospital stay than those with serum 25OHD levels >20 ng/ml. No causal relationship was found between vitamin D deficiency and COVID-19 severity as a combined endpoint or as its separate components.</p><p>Conclusions: 25OHD levels are lower in hospitalized COVID-19 patients compared to population-based controls and these patients had a higher prevalence of deficiency. We did not find any relationship between vitamin D concentrations or vitamin deficiency and the severity of the disease.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/vitamin-d-status-in-hospitalized-patients-with-sars-cov-2-infection.pdf>Download the PDF from VitaminDWiki</a></strong></p><hr><h4 id=many-clinical-trials-are-underway-which-are-testing-vitamin-d-to-fight-covid-19>Many clinical trials are underway which are testing Vitamin D to fight COVID-19</h4><img src=/attachments/d3.mock.jpg alt=image width=1000></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, hypertension, Virus, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

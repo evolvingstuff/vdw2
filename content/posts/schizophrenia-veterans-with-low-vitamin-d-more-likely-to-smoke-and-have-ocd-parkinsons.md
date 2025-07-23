@@ -210,9 +210,9 @@ The authors have no conflicts of interest to disclose, regarding, but not limite
 
 * [Overview Schizophrenia and Vitamin D](/posts/overview-schizophrenia-and-vitamin-d)
 
-* [Cognitive](/categories/cognitive) category listing with associated searches
+* [Cognitive](/tags/cognitive.html) category listing with associated searches
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 * [Hypothesis: Some Mental Illness could be treated or prevented with vitamin D](/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d) including OCD ( Obsessive-Compulsive Disorder)
 

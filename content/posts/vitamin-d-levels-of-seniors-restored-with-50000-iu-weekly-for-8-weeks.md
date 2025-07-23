@@ -88,7 +88,7 @@ hypovitaminosis D is an important public health problem. We believe it is import
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 * [400,000 IU of vitamin D reduced adult pain and improved quality of life – March 2014](/posts/400000-iu-of-vitamin-d-reduced-adult-pain-and-improved-quality-of-life)
 
@@ -98,11 +98,11 @@ hypovitaminosis D is an important public health problem. We believe it is import
 
 * [Large single dose of more than 300,000 IU of vitamin D works well for 3 months – Review Nov 2013](/posts/large-single-dose-of-more-than-300000-iu-of-vitamin-d-works-well-for-3-months-review)
 
-* <a href="/posts/600000-iu-vitamin-d-normalized-virtually-all-seniors-in-3-months-injection-better-than-oral" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012">600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012</a>
+* [600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012](/posts/600000-iu-vitamin-d-normalized-virtually-all-seniors-in-3-months-injection-better-than-oral)
 
-* <a href="/posts/loading-dose-of-300000-iu-vitamin-d-every-6-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Loading dose of 300,000 IU vitamin D every 6 months – Dec 2011">Loading dose of 300,000 IU vitamin D every 6 months – Dec 2011</a>
+* [Loading dose of 300,000 IU vitamin D every 6 months – Dec 2011](/posts/loading-dose-of-300000-iu-vitamin-d-every-6-months)
 
-* <a href="/posts/300000-iu-vitamin-d-helped-seniors-in-many-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 300,000 IU vitamin D helped seniors in many ways – May 2011">300,000 IU vitamin D helped seniors in many ways – May 2011</a>
+* [300,000 IU vitamin D helped seniors in many ways – May 2011](/posts/300000-iu-vitamin-d-helped-seniors-in-many-ways)
 
 * [Healthy in Seven Days - Loading dose of Vitamin D – book 2014](/posts/healthy-in-seven-days-loading-dose-of-vitamin-d-book-2014) has the following chart: 
 

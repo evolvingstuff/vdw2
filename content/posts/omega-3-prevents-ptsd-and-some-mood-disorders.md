@@ -59,7 +59,7 @@ PMID: 26243838
 
 ## See also VitaminDWiki
 
-* <a href="/posts/omega-3-reduces-depression-anxiety-stress-ptsd-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 reduces Depression. Anxiety, Stress, PTSD, etc. – Aug 2018">Omega-3 reduces Depression. Anxiety, Stress, PTSD, etc. – Aug 2018</a>
+* [Omega-3 reduces Depression. Anxiety, Stress, PTSD, etc. – Aug 2018](/posts/omega-3-reduces-depression-anxiety-stress-ptsd-etc)
 
 * [I use Vectomega brand of Omega-3 – Admin of VitaminDWiki, May 2014](/posts/i-use-vectomega-brand-of-omega-3-admin-of-vitamindwiki)
 
@@ -69,7 +69,7 @@ PMID: 26243838
 
 * [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a>
+* [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution)
 
 * [Omega-3, Vitamin D, and other nutrients decrease mental health problems – March 2015](/posts/omega-3-vitamin-d-and-other-nutrients-decrease-mental-health-problems)
 

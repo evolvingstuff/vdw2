@@ -58,4 +58,4 @@ PDF is attached at the bottom of this page
 
 * [Hypothesis: Some Mental Illness could be treated or prevented with vitamin D](/posts/hypothesis-some-mental-illness-could-be-treated-or-prevented-with-vitamin-d)
 
-* <a href="/posts/overview-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Overview Cognition and vitamin D</a>
+* [Overview Cognition and vitamin D](/tags/overview-cognition-and-vitamin-d.html)

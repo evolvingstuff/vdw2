@@ -166,9 +166,9 @@ Sunlight plays a critical role in the decreased  **serotonin**  activity, increa
 
 * [Battling the winter blues with vitamin D (4000 IU) Dec 2015](/posts/battling-the-winter-blues-with-vitamin-d-4000-iu)
 
-* <a href="/posts/boost-your-winter-mood-and-productivity-with-vitamin-d-or-morning-light" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boost Your Winter Mood and Productivity with vitamin D or morning light">Boost Your Winter Mood and Productivity with vitamin D or morning light</a>
+* [Boost Your Winter Mood and Productivity with vitamin D or morning light](/posts/boost-your-winter-mood-and-productivity-with-vitamin-d-or-morning-light)
 
-*  **<a href="/posts/depression-treatments-diet-exercise-bright-light-vitamin-d-b12-omega-3-zinc-music-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Depression treatments: diet, exercise, bright light, Vitamin D, B12, Omega-3, Zinc, Music, etc. – May 2019">Depression treatments: diet, exercise, bright light, Vitamin D, B12, Omega-3, Zinc, Music, etc. – May 2019</a>** 
+*  **[Depression treatments: diet, exercise, bright light, Vitamin D, B12, Omega-3, Zinc, Music, etc. – May 2019](/posts/depression-treatments-diet-exercise-bright-light-vitamin-d-b12-omega-3-zinc-music-etc)** 
 
 * [Anti-depression medication about as good as big increase in vitamin D – meta-analysis of flawless data April 2014](/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data)
 

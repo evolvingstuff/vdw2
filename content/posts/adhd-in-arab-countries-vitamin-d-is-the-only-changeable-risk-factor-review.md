@@ -89,8 +89,8 @@ non ADHD children 24 ng
 
 ## See also VitaminDWiki
 
-* <a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">ADHD and Vitamin D Deficiency</a>
+* [ADHD and Vitamin D Deficiency](/posts/adhd-and-vitamin-d-deficiency)
 
-* <a href="/posts/vitamin-d-levels-in-the-middle-east-very-low-especially-in-summer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels in the Middle East: very low, especially in summer – June 2012">Vitamin D levels in the Middle East: very low, especially in summer – June 2012</a>
+* [Vitamin D levels in the Middle East: very low, especially in summer – June 2012](/posts/vitamin-d-levels-in-the-middle-east-very-low-especially-in-summer)
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)

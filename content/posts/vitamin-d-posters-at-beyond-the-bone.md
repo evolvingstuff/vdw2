@@ -64,7 +64,7 @@
 }
 
 
-## <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3457">CLICK HERE</a> for entire Beyond the Bone conference
+## [CLICK HERE](/tags/click-here.html) for entire Beyond the Bone conference
 
  **<span style="color:#F00;">The following is extracted from PDF at the bottom of this page</span>** 
 
@@ -170,7 +170,7 @@ Three "parallel" lines of research intersect: (1) cardiovascular research into a
 
 <span style="color:#00F;">Does antibiotic use with humans and food animals exacerbate widespread K2 deficiency?</span> Adequate coagulation can mask deficient calcification control by K2.
 
-### <a href="/posts/f00-click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3459">~~#F00: **CLICK HERE** </a> to see this in another page - along with more content~~
+### [~~#F00: **CLICK HERE** ](/tags/f00-click-here.html) to see this in another page - along with more content~~
 
 ## 7.        IMPACT OF CHOLECALCIFEROL REPLETION ON ERYTHROPOIETIN REQUIREMENTS IN VITAMIN D—DEFICIENT HEMODIALYSIS PATIENTS: PILOT DATA FROM A RANDOMIZED CONTROLLED TRIAL
 

@@ -87,7 +87,7 @@ Bulent Ecevit University Medical School, Division of Nephrology, Department of I
 
  **<span style="color:#00F;">PDF is attached at the bottom of this page</span>** 
 
- **See also <a href="/posts/kidney-inflammation-not-reduced-by-30-ng-vitamin-d-many-health-problems-need-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Kidney Inflammation not reduced by 30 ng Vitamin D (many health problems need 50 ng) – Nov 2022">Kidney Inflammation not reduced by 30 ng Vitamin D (many health problems need 50 ng) – Nov 2022</a>** 
+ **See also [Kidney Inflammation not reduced by 30 ng Vitamin D (many health problems need 50 ng) – Nov 2022](/posts/kidney-inflammation-not-reduced-by-30-ng-vitamin-d-many-health-problems-need-50-ng)** 
 
 Vitamin D is essential for the organism and it interacts with a lot of systems in mammalians. Vitamin D deficiency is common in the world. Many studies have shown that chronic vitamin D deficiency may have serious adverse consequences such as increased risk of hypertension, multiple sclerosis, rheumatoid arthritis, infections and malignancy, autoimmune diseases. New ones have been added on these adverse consequences nowadays.
 

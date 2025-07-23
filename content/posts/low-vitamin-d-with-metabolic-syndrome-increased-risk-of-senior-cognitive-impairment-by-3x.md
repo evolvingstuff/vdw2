@@ -48,4 +48,4 @@ Conclusions: Metabolic syndrome was associated with cognitive impairment, and th
 
 ## See also VitaminDWiki
 
-* <a href="/posts/metabolic-syndrome-19-x-more-likely-if-senior-women-had-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metabolic syndrome 1.9 X more likely if senior women had less than 30 ng of Vitamin D – Oct 2017">Metabolic syndrome 1.9 X more likely if senior women had less than 30 ng of Vitamin D – Oct 2017</a>
+* [Metabolic syndrome 1.9 X more likely if senior women had less than 30 ng of Vitamin D – Oct 2017](/posts/metabolic-syndrome-19-x-more-likely-if-senior-women-had-less-than-30-ng-of-vitamin-d)

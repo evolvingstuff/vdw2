@@ -56,15 +56,15 @@ Wonder why they used 3 monthly dosing. every 20 days is far better
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/1-in-3-died-after-hip-fracture-but-only-1-in-14-if-add-vitamin-d-and-exercise-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 1 in 3 died after hip fracture but only 1 in 14 if add Vitamin D and exercise – RCT April 2017">1 in 3 died after hip fracture but only 1 in 14 if add Vitamin D and exercise – RCT April 2017</a>
+* [1 in 3 died after hip fracture but only 1 in 14 if add Vitamin D and exercise – RCT April 2017](/posts/1-in-3-died-after-hip-fracture-but-only-1-in-14-if-add-vitamin-d-and-exercise-rct)
 
 > Same study as on this page
 
-* <a href="/posts/resistance-exercise-combined-with-vitamin-d-is-great-for-seniors-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resistance exercise combined with Vitamin D is great for seniors – meta-analysis July 2017">Resistance exercise combined with Vitamin D is great for seniors – meta-analysis July 2017</a>
+* [Resistance exercise combined with Vitamin D is great for seniors – meta-analysis July 2017](/posts/resistance-exercise-combined-with-vitamin-d-is-great-for-seniors-meta-analysis)
 
-* <a href="/posts/calcium-and-vitamin-d-supplements-after-hip-fracture-reduced-death-rate-by-25-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcium and vitamin D supplements after hip fracture reduced death rate by 25% – Feb 2011">Calcium and vitamin D supplements after hip fracture reduced death rate by 25% – Feb 2011</a>
+* [Calcium and vitamin D supplements after hip fracture reduced death rate by 25% – Feb 2011](/posts/calcium-and-vitamin-d-supplements-after-hip-fracture-reduced-death-rate-by-25-percent)
 
-* [68+ pages with hip tracture in title as of Dec 2022](/categories/falls-and-fractures)
+* [68+ pages with hip tracture in title as of Dec 2022](/posts/falls-and-fractures)
 
 * [20 percent fewer male hip fractures if more Magnesium in the water – July 2013](/posts/20-percent-fewer-male-hip-fractures-if-more-magnesium-in-the-water)
 
@@ -74,7 +74,7 @@ Wonder why they used 3 monthly dosing. every 20 days is far better
 
 > Many surgery outcomes are better with higher levels of vitamin D
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
 </div>
 

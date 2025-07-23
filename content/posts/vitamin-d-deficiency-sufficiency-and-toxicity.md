@@ -312,8 +312,8 @@ The authors declare no conflict of interest.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a>
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)
 
-* <a href="/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 becomes Calcidiol which becomes Calcitriol">Vitamin D3 becomes Calcidiol which becomes Calcitriol</a>
+* [Vitamin D3 becomes Calcidiol which becomes Calcitriol](/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol)
 
-* <a href="/posts/calcidiol-may-be-5x-more-effective-than-vitamin-d3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcidiol may be 5X more effective than Vitamin D3 – June 2012">Calcidiol may be 5X more effective than Vitamin D3 – June 2012</a>
+* [Calcidiol may be 5X more effective than Vitamin D3 – June 2012](/posts/calcidiol-may-be-5x-more-effective-than-vitamin-d3)

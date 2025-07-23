@@ -49,11 +49,11 @@
 
 #### Low response to Vitamin D can be improved in many ways
 
-* <a href="/posts/no-response-to-vitamin-d-was-11-x-more-likely-to-have-if-poor-binding-gene" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No response to Vitamin D was 11 X more likely to have if poor Binding gene – Sept 2022">No response to Vitamin D was __11 X more likely to have if poor Binding gene__ – Sept 2022</a>
+* [No response to Vitamin D was __11 X more likely to have if poor Binding gene__ – Sept 2022](/posts/no-response-to-vitamin-d-was-11-x-more-likely-to-have-if-poor-binding-gene)
 
-* <a href="/posts/non-oral-vitamin-d-should-be-a-better-form-for-ms-food-allergy-ptsd-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Non-oral Vitamin D should be a better form for MS, food allergy, PTSD, etc. – many studies">Non-oral Vitamin D should be a better form for MS, food allergy, PTSD, etc. – many studies</a>
+* [Non-oral Vitamin D should be a better form for MS, food allergy, PTSD, etc. – many studies](/posts/non-oral-vitamin-d-should-be-a-better-form-for-ms-food-allergy-ptsd-etc-many-studies)
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
 ---
 

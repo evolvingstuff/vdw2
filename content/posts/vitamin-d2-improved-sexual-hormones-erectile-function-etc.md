@@ -74,21 +74,21 @@ They reduced the dose to bimonthly 600,000 IU of Vitamin D2 when > 30 ng
 
 * [Male infertility associated with low vitamin D levels – Dec 2012](/posts/male-infertility-associated-with-low-vitamin-d-levels)
 
-* <a href="/posts/better-sperm-if-have-higher-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better sperm if have higher level of vitamin D">Better sperm if have higher level of vitamin D</a>  not mentioned in the study on this page
+* [Better sperm if have higher level of vitamin D](/posts/better-sperm-if-have-higher-level-of-vitamin-d)  not mentioned in the study on this page
 
 * [Male fertility 4 X higher if high Vitamin D – Nov 2015](/posts/male-fertility-4-x-higher-if-high-vitamin-d)
 
 * [Testosterone levels increased after vitamin D supplementation (342 from 320) – June 2015](/posts/testosterone-levels-increased-after-vitamin-d-supplementation-342-from-320)
 
-* <a href="/posts/vitamin-d-associations-with-erectile-dysfunction" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D associations with erectile dysfunction - April 2012">Vitamin D associations with erectile dysfunction - April 2012</a>
+* [Vitamin D associations with erectile dysfunction - April 2012](/posts/vitamin-d-associations-with-erectile-dysfunction)
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
 * [Male fertility 4 X higher if high Vitamin D – Nov 2015](/posts/male-fertility-4-x-higher-if-high-vitamin-d)
 
 * [Erectile Dysfunction and vitamin D - many studies](/posts/erectile-dysfunction-and-vitamin-d-many-studies)
 
-* <a href="/posts/better-sperm-if-have-higher-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better sperm if have higher level of vitamin D">Better sperm if have higher level of vitamin D</a>
+* [Better sperm if have higher level of vitamin D](/posts/better-sperm-if-have-higher-level-of-vitamin-d)
 
 </div>
 

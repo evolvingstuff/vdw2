@@ -43,10 +43,10 @@ The relationship between serum 25-hydroxyvitamin D and quantitative ultrasound b
 
 * [Vitamin D3, not D2 helps childhood bone development – Dec 2012](/posts/vitamin-d3-not-d2-helps-childhood-bone-development)
 
-* <a href="/posts/6500-iu-vitamin-d-not-improve-bone-density-without-co-factors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 6500 IU vitamin D not improve bone density without co-factors – Jan 2012">6500 IU vitamin D not improve bone density without co-factors – Jan 2012</a>
+* [6500 IU vitamin D not improve bone density without co-factors – Jan 2012](/posts/6500-iu-vitamin-d-not-improve-bone-density-without-co-factors)
 
 * [Child bone conference: many vitamin D and ricket abstracts – June 2013](/posts/child-bone-conference-many-vitamin-d-and-ricket-abstracts)
 
 * [2,000 IU vitamin D recommended for pediatric rheumatology – May 2015](/posts/2000-iu-vitamin-d-recommended-for-pediatric-rheumatology)
 
-* <a href="/posts/vitamin-d-levels-increased-bone-density-loss-decreased-tasmania" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels increased, Bone Density Loss decreased (Tasmania) – March 2021">Vitamin D levels increased, Bone Density Loss decreased (Tasmania) – March 2021</a>
+* [Vitamin D levels increased, Bone Density Loss decreased (Tasmania) – March 2021](/posts/vitamin-d-levels-increased-bone-density-loss-decreased-tasmania)

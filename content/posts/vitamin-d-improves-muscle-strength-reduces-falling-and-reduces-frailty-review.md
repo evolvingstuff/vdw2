@@ -47,6 +47,6 @@ Vitamin D is the main hormone of bone metabolism. However, the ubiquitary nature
 
 * [Added 1 lb of muscle to sarcopenia adults in 13 weeks with just 800 IU vitamin D and protein – RCT Jan 2017](/posts/added-1-lb-of-muscle-to-sarcopenia-adults-in-13-weeks-with-just-800-iu-vitamin-d-and-protein-rct)
 
-* <a href="/posts/frailty-can-be-avoided-vitamin-d-is-one-of-the-ways" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty can be avoided – vitamin D is one of the ways – July 2017">Frailty can be avoided – vitamin D is one of the ways – July 2017</a>
+* [Frailty can be avoided – vitamin D is one of the ways – July 2017](/posts/frailty-can-be-avoided-vitamin-d-is-one-of-the-ways)
 
-* <a href="/posts/frailty-is-related-to-many-things-such-as-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Frailty is related to many things, such as low vitamin D – Sept 2018">Frailty is related to many things, such as low vitamin D – Sept 2018</a>
+* [Frailty is related to many things, such as low vitamin D – Sept 2018](/posts/frailty-is-related-to-many-things-such-as-low-vitamin-d)

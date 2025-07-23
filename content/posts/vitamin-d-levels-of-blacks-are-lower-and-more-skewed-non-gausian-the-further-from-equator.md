@@ -48,7 +48,7 @@ Conclusions: It is widely assumed that lighter skin color in populations outside
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Chart of Vitamin D levels vs race - April 2013](/posts/chart-of-vitamin-d-levels-vs-race) has the following - which shows skewedness (without having to pay publisher on PDF on this page)
 

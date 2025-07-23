@@ -53,7 +53,7 @@
 
 * [Do not expect a doctor to recommend a pill which will eliminate his job (vitamin D) ](/posts/do-not-expect-a-doctor-to-recommend-a-pill-which-will-eliminate-his-job-vitamin-d)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 86 PROOFS as of April 2018
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 86 PROOFS as of April 2018
 
 * [Save 2 billion dollars annually in fractures if take Vitamin D and Calcium – Frost and Sullivan Sept 2013](/posts/save-2-billion-dollars-annually-in-fractures-if-take-vitamin-d-and-calcium-frost-and-sullivan)
 
@@ -67,7 +67,7 @@
 
 * [Heart Attack ICU costs reduced $37,000 by $20 of Vitamin D – Nov 2015](/posts/heart-attack-icu-costs-reduced-37000-by-20-of-vitamin-d)
 
-* <a href="/posts/more-likely-to-report-that-productvitiy-was-effected-by-health-problems-if-low-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More likely to report that productvitiy was effected by health problems if low vitamin D - 2012">More likely to report that productvitiy was effected by health problems if low vitamin D - 2012</a>
+* [More likely to report that productvitiy was effected by health problems if low vitamin D - 2012](/posts/more-likely-to-report-that-productvitiy-was-effected-by-health-problems-if-low-vitamin-d-2012)
 
 * [Dr. who got patients to vitamin D level of 80 ng](/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng) patient visits dropped from 4 per year to 1 per year
 

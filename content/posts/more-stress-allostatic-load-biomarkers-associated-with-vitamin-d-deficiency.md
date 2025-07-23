@@ -98,10 +98,10 @@ Increased vitamin D "might" prevent stress and "might" reduce stress,
 
 BUT restoring vitamin D levels should most certainly reduce other health problems assocaiaed with low vitamin D
 
-see <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>
+see [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)
 
 ### See also VitaminDWiki
 
-* <a href="/posts/post-birth-stress-index-allostatic-load-propose-adding-low-vitamin-d-as-11th-item" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Post-birth stress index (allostatic load) – propose adding low Vitamin D as 11th item – April 2018">Post-birth stress index (allostatic load) – propose adding low Vitamin D as 11th item – April 2018</a>
+* [Post-birth stress index (allostatic load) – propose adding low Vitamin D as 11th item – April 2018](/posts/post-birth-stress-index-allostatic-load-propose-adding-low-vitamin-d-as-11th-item)
 
 * [Mental stress, physical stress associations with low vitamin D - many studies](/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies)

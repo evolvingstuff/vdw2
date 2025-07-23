@@ -185,7 +185,7 @@ PMID: 20068444
 
 * [Search VitaminDWiki forhypercalcemia](https://VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=+hypercalcemia+&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1460 items Oct 2019
 
-* <a href="/posts/no-risk-of-hypercalcemia-with-prolonged-10000-iu-of-vitamin-d3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No risk of hypercalcemia with prolonged 10000 IU of vitamin D3 – July 2010">No risk of hypercalcemia with prolonged 10000 IU of vitamin D3 – July 2010</a>
+* [No risk of hypercalcemia with prolonged 10000 IU of vitamin D3 – July 2010](/posts/no-risk-of-hypercalcemia-with-prolonged-10000-iu-of-vitamin-d3)
 
 * [Calcium levels can be measured with ionized calcium tests – Aug 2012](/posts/calcium-levels-can-be-measured-with-ionized-calcium-tests)
 

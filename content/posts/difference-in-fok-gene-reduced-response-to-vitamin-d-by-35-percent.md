@@ -102,17 +102,17 @@ Average vitamin D 12 ng response
 
 * [Multidrug-resistant tuberculosis may be reduced with vitamin D – Sept 2012](/posts/multidrug-resistant-tuberculosis-may-be-reduced-with-vitamin-d)
 
-* <a href="/posts/3x-higher-risk-of-one-cancer-if-cyp27b1-and-cyp24a1-genes-were-different" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2759">3X higher risk of one cancer if CYP27B1 and CYP24A1 genes were different – May 2012</a>
+* [3X higher risk of one cancer if CYP27B1 and CYP24A1 genes were different – May 2012](/tags/3x-higher-risk-of-one-cancer-if-cyp27b1-and-cyp24a1-genes-were-different-may-2012.html)
 
 * [Vitamin D levels are strongly associated with genes: overview of twin studies – Nov 2012](/posts/vitamin-d-levels-are-strongly-associated-with-genes-overview-of-twin-studies)
 
-* <a href="/posts/people-with-tb-and-one-geneotype-benefited-more-from-10000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1426">People with TB and one geneotype benefited more from 10000 IU of vitamin D - Jan 2011</a>
+* [People with TB and one geneotype benefited more from 10000 IU of vitamin D - Jan 2011](/posts/people-with-tb-and-one-geneotype-benefited-more-from-10000-iu-of-vitamin-d)
 
 > Fok gene had virtually no affect
 
-* <a href="/posts/diabetes-and-gene-clinical-trial-with-1000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1884">Diabetes and gene clinical trial with 1000 IU of vitamin D</a> discription of this trial
+* [Diabetes and gene clinical trial with 1000 IU of vitamin D](/posts/diabetes-and-gene-clinical-trial-with-1000-iu-of-vitamin-d) discription of this trial
 
-* <a href="/posts/type-1-diabetes-genes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1523">Type 1 diabetes, genes and vitamin D</a>  2 sbstracts
+* [Type 1 diabetes, genes and vitamin D](/posts/type-1-diabetes-genes-and-vitamin-d)  2 sbstracts
 
 # See also web
 

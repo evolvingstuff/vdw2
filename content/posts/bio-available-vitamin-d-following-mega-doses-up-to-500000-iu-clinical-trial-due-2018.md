@@ -279,4 +279,4 @@ ClinicalTrials.gov processed this record on September 17, 2015
 
 #### See also VitaminDWiki
 
-* <a href="/posts/ulcerative-colitis-new-associated-with-lower-free-and-bioavailable-vitamin-d-but-not-total" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ulcerative Colitis (new) associated with lower free and bioavailable Vitamin D, but not total – Feb 2019">Ulcerative Colitis (new) associated with lower free and bioavailable Vitamin D, but not total – Feb 2019</a>
+* [Ulcerative Colitis (new) associated with lower free and bioavailable Vitamin D, but not total – Feb 2019](/posts/ulcerative-colitis-new-associated-with-lower-free-and-bioavailable-vitamin-d-but-not-total)

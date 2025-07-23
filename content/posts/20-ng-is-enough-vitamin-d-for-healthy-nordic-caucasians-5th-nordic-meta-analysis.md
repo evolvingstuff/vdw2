@@ -119,7 +119,7 @@ Department of Food and Environmental Sciences, University of Helsinki, Helsinki,
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
  **Comment by Dr. Grant** 
 
@@ -129,7 +129,7 @@ They did not look carefully at the many observational studies reporting serum 25
 
 They also, of course, totally ignored ecological studies.
 
-#### Most of the excellent <a href="/posts/intervention-trials-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Intervention trials of vitamin D</a> were published AFTER the Nordic report looked at data
+#### Most of the excellent [Intervention trials of vitamin D](/tags/intervention-trials-of-vitamin-d.html) were published AFTER the Nordic report looked at data
 
 | | |
 | --- | --- |

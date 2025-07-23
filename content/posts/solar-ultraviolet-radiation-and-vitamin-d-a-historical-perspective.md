@@ -36,7 +36,7 @@ PMID:     17761571
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
 * [UV, sunshine, and vitamin D (87 charts) - Holick March 2013](/posts/uv-sunshine-and-vitamin-d-87-charts-holick) 6 years later, also by Holick
 
@@ -46,6 +46,6 @@ PMID:     17761571
 
 * [History of vitamin D – Nov 2012](/posts/history-of-vitamin-d)
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)
 
-* <a href="/posts/history-of-rickets-and-sunshine-in-a-bottle-then-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: History of rickets and sunshine in a bottle then vitamin D – Jan 2012">History of rickets and sunshine in a bottle then vitamin D – Jan 2012</a>
+* [History of rickets and sunshine in a bottle then vitamin D – Jan 2012](/posts/history-of-rickets-and-sunshine-in-a-bottle-then-vitamin-d)

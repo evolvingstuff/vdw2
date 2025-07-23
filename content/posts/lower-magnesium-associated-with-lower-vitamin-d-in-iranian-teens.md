@@ -56,10 +56,10 @@ Normal vitamin D (avg 40 ng), Magnesium = 0.9 mg
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Hypothesis: Magnesium accounts for some of the variation in vitamin D response – Oct 2013](/posts/hypothesis-magnesium-accounts-for-some-of-the-variation-in-vitamin-d-response)
 
 * [If at high risk of vitamin D deficiency, get a higher response if take more Magnesium – Sept 2013](/posts/if-at-high-risk-of-vitamin-d-deficiency-get-a-higher-response-if-take-more-magnesium)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a>
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic)

@@ -77,7 +77,7 @@ Demonstration of a causal role of hypovitaminosis D in NAFLD development in futu
 
 * [Non-alcoholic Fatty Liver Disease (4 in 10 seniors) and Vitamin D](/posts/non-alcoholic-fatty-liver-disease-4-in-10-seniors-and-vitamin-d)
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a>
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d)
 
 * [Non-alcoholic fatty liver disease (NAFLD) reduced somewhat by 50,000 IU vitamin D every 2 weeks – RCT Sept 2014](/posts/non-alcoholic-fatty-liver-disease-nafld-reduced-somewhat-by-50000-iu-vitamin-d-every-2-weeks-rct)
 

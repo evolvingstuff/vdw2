@@ -39,7 +39,7 @@ Jan-Dec 2011
 
 * [Search VitaminDWiki for INDIA](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=india&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 681 items as of Dec 2014
 
-* <a href="/posts/rickets-in-30-percent-of-infants-in-india-who-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets in 30 percent of infants in India who had low vitamin D – March 2011">Rickets in 30 percent of infants in India who had low vitamin D – March 2011</a>
+* [Rickets in 30 percent of infants in India who had low vitamin D – March 2011](/posts/rickets-in-30-percent-of-infants-in-india-who-had-low-vitamin-d)
 
 * [Vitamin D sachets in India – fewer than a third had the stated amount – Nov 2013](/posts/vitamin-d-sachets-in-india-fewer-than-a-third-had-the-stated-amount)
 

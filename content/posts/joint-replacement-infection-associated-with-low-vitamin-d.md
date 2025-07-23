@@ -120,10 +120,10 @@ For those who needed a second surgery
 
 * [Search VitaminDWiki for replacement (hip OR joint OR knee)](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=replacement+%28hip+OR+joint+OR+knee%29&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 263 items May 2014
 
-* <a href="/posts/knee-surgery-reduced-vitamin-d-by-40-percent-in-2-days" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Knee surgery reduced vitamin D by 40 percent in 2 days – May 2011">Knee surgery reduced vitamin D by 40 percent in 2 days – May 2011</a>
+* [Knee surgery reduced vitamin D by 40 percent in 2 days – May 2011](/posts/knee-surgery-reduced-vitamin-d-by-40-percent-in-2-days)
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/better-total-hip-replacement-if-have-high-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better total hip replacement if have high vitamin D">Better total hip replacement if have high vitamin D</a>
+* [Better total hip replacement if have high vitamin D](/posts/better-total-hip-replacement-if-have-high-vitamin-d)
 
 * [Inflammation markers associated with less than 10 ng of Vitamin D – Feb 2014](/posts/inflammation-markers-associated-with-less-than-10-ng-of-vitamin-d)

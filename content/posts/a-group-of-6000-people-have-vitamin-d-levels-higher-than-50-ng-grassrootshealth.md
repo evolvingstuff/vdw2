@@ -39,7 +39,7 @@ Dr.  Mercola joined the D*action project in early 2013
 <img src="/attachments/d3.mock.jpg" alt="image">
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-#### <a href="/posts/data-from-grassrootshealth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4210">Data from GrassrootsHealth</a> was reformated by VitaminDWiki to make the following
+#### [Data from GrassrootsHealth](/tags/data-from-grassrootshealth.html) was reformated by VitaminDWiki to make the following
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 
@@ -73,15 +73,15 @@ Here is a Grassroots Chart as of April 2012
 
 ## See also VitaminDWiki
 
-* <a href="/posts/they-run-an-excellent-set-of-vitamin-d-webinars" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3643">They run an excellent set of Vitamin D webinars</a>
+* [They run an excellent set of Vitamin D webinars](/tags/they-run-an-excellent-set-of-vitamin-d-webinars.html)
 
 * [How the Baggerlys got interested in Vitamin D and then started GrassRootsHealth – April 2013](/posts/how-the-baggerlys-got-interested-in-vitamin-d-and-then-started-grassrootshealth)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * [Vitamin D Might Be Able to Slash Your Breast Cancer Risk by 90 Percent - Baggerly, Mercola: May 2013](/posts/vitamin-d-might-be-able-to-slash-your-breast-cancer-risk-by-90-percent-baggerly-mercola)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [GrassrootsHealth.net](http://www.grassrootshealth.net/recommendation)  41 experts   **<span style="color:#690;">40-60 ng/ml</span>**  after IoM report
 

@@ -42,7 +42,7 @@ Appears to have used dose up to 4400 IU of vitamin D
 
 His back pain did not significantly reduce until about a year. 
 
-Suspect would have been much faster if he had used a <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">loading dose</a>. Graphic description of intense pain and his techniques to minimize it.
+Suspect would have been much faster if he had used a [loading dose](/posts/overview-loading-of-vitamin-d). Graphic description of intense pain and his techniques to minimize it.
 
 Professionally edited edition became available July 2014. First edition has minor errors in English usage, but did not notice any technical errors.
 

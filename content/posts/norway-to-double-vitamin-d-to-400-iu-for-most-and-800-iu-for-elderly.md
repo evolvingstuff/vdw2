@@ -40,6 +40,6 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a> which contains the following graphic
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng) which contains the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">

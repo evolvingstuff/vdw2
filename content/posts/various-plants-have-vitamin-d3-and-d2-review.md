@@ -51,6 +51,6 @@ PMID:     23717318
 
 * [Solanum glaucophyllum (a purple flower) produces active vitamin D3](/posts/solanum-glaucophyllum-a-purple-flower-produces-active-vitamin-d3)  same authors as Sept 2012 paper
 
-* <a href="/posts/plants-and-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Plants and UVB">Plants and UVB</a>
+* [Plants and UVB](/posts/plants-and-uvb)
 
-* <a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies</a>
+* [Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies)

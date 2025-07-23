@@ -47,13 +47,13 @@ The trial is designed to test if vitamin D supplementation will reduce loss of k
 
 ## See also VitaminDWiki
 
-* <a href="/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2151">Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011</a>
+* [Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011](/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d)
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1423">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
-* <a href="/posts/knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010">Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010</a>
+* [Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010](/posts/knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55)
 
-* <a href="/posts/osteoarthritis-twice-as-prevalent-if-vitamin-d-level-less-than-15-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoarthritis twice as prevalent if vitamin D level less than 15 ng – Feb 2010">Osteoarthritis twice as prevalent if vitamin D level less than 15 ng – Feb 2010</a>
+* [Osteoarthritis twice as prevalent if vitamin D level less than 15 ng – Feb 2010](/posts/osteoarthritis-twice-as-prevalent-if-vitamin-d-level-less-than-15-ng)
 
 * [Knee osteoarthritis reduced somewhat by 50,000 IU vitamin D monthly (need more) – RCT Aug 2015](/posts/knee-osteoarthritis-reduced-somewhat-by-50000-iu-vitamin-d-monthly-need-more-rct)  
 

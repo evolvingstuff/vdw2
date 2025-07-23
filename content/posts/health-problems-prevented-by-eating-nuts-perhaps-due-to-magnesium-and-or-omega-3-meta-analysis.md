@@ -111,7 +111,7 @@ Sorry that I have not completed this webpage - too busy with other topics
 
 * [Vitamin D Cofactors in a nutshell](/posts/vitamin-d-cofactors-in-a-nutshell)
 
-* <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Low cost cofactors for vitamin D</a>
+* [Low cost cofactors for vitamin D](/posts/low-cost-cofactors-for-vitamin-d)
 
  **Magnesium** 
 

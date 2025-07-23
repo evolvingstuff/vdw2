@@ -66,21 +66,21 @@ CONCLUSIONS: We found a significant relationship between vitamin D and white mat
 
 -  **Fact:**  Hypertensities predict Dimentia, Mortality, and Stroke (BMJ 2010, below)
 
--  **Fact:**  Vitamin D prevents <a href="/posts/dimentia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">dimentia</a>, [mortality](/categories/mortality), and [stroke](/categories/stroke)
+-  **Fact:**  Vitamin D prevents [dimentia](/tags/dimentia.html), [mortality](/tags/mortality.html), and [stroke](/tags/stroke.html)
 
  **<span style="color:#F00;">Hypothesis: Will be able look at brain scans, and not wait for dimentia, mortality, or stoke to determin how much vitamin D is needed.</span>** 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/white-matter-hyperintensities-brain-18x-more-likely-if-10-ng-less-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: White Matter Hyperintensities (brain) 1.8X more likely if 10 ng less vitamin D - meta-analysis Jan 2022">White Matter Hyperintensities (brain) 1.8X more likely if 10 ng less vitamin D - meta-analysis Jan 2022</a>
+* [White Matter Hyperintensities (brain) 1.8X more likely if 10 ng less vitamin D - meta-analysis Jan 2022](/posts/white-matter-hyperintensities-brain-18x-more-likely-if-10-ng-less-vitamin-d-meta-analysis)
 
-* <a href="/posts/vitamin-d-remyelinates-rats-perhaps-remyelinates-human-ms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D remyelinates rats (perhaps remyelinates human MS) – Dec 2019">Vitamin D remyelinates rats (perhaps remyelinates human MS) – Dec 2019</a>
+* [Vitamin D remyelinates rats (perhaps remyelinates human MS) – Dec 2019](/posts/vitamin-d-remyelinates-rats-perhaps-remyelinates-human-ms)
 
 * [Multiple Sclerosis – more gray matter and fewer relapses if 10 ng more vitamin D – Oct 2015](/posts/multiple-sclerosis-more-gray-matter-and-fewer-relapses-if-10-ng-more-vitamin-d)
 
 * [Multiple Sclerosis: number needed to treat with vitamin D may be as low as 1.3 – Meta-analysis Oct 2013](/posts/multiple-sclerosis-number-needed-to-treat-with-vitamin-d-may-be-as-low-as-13-meta-analysis)
 
-* <a href="/posts/brain-lesions-might-be-associated-with-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain lesions might be associated with vitamin D deficiency – March 2012">Brain lesions might be associated with vitamin D deficiency – March 2012</a> 
+* [Brain lesions might be associated with vitamin D deficiency – March 2012](/posts/brain-lesions-might-be-associated-with-vitamin-d-deficiency) 
 
 * [Stroke – many MRI measures are strongly associated with low vitamin D – Jan 2015](/posts/stroke-many-mri-measures-are-strongly-associated-with-low-vitamin-d) discusses lesions
 
@@ -90,7 +90,7 @@ CONCLUSIONS: We found a significant relationship between vitamin D and white mat
 
 * [Parkinsons' disease and MRI white matter in brain](/posts/parkinsons-disease-and-mri-white-matter-in-brain)
 
-* <a href="/posts/following-strokes-brain-scans-mri-3x-worse-in-those-having-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Following strokes, brain scans (MRI) 3X worse in those having low vitamin D – July 2018">Following strokes, brain scans (MRI) 3X worse in those having low vitamin D – July 2018</a>
+* [Following strokes, brain scans (MRI) 3X worse in those having low vitamin D – July 2018](/posts/following-strokes-brain-scans-mri-3x-worse-in-those-having-low-vitamin-d)
 
 * [Appears that Vitamin D can induce remission in recent Multiple Sclerosis](/posts/appears-that-vitamin-d-can-induce-remission-in-recent-multiple-sclerosis) Less hyperintense areas on MRI after LOTS of vitamin D
 

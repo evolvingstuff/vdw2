@@ -62,9 +62,9 @@ Biersack MG1, Hajdukiewicz M1, Uebelhack R2, Franke L2, Piazena H3, Klaus P1, HÃ
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D bulb for use in the home - or perhaps office">Vitamin D bulb for use in the home - or perhaps office</a>
+* [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office)
 
 * [Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps)
 
@@ -74,7 +74,7 @@ Biersack MG1, Hajdukiewicz M1, Uebelhack R2, Franke L2, Piazena H3, Klaus P1, HÃ
 
 * [Heliotherapy treated children â€“ 1926](/posts/heliotherapy-treated-children-1926)
 
-* <a href="/posts/tanning-beds-uvb-vary-by-4x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tanning beds UVB vary by 4X">Tanning beds UVB vary by 4X</a> - and % of UVA varies a lot as well
+* [Tanning beds UVB vary by 4X](/posts/tanning-beds-uvb-vary-by-4x) - and % of UVA varies a lot as well
 
 * [68 percent got vitamin D above 40 ng by regular use of tanning bed - July 2013](/posts/68-percent-got-vitamin-d-above-40-ng-by-regular-use-of-tanning-bed)
 

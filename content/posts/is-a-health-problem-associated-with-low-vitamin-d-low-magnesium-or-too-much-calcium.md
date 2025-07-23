@@ -116,11 +116,11 @@ I tried ~ 5 types and use Magnesium Chloride - Henry Lahore, admin of VitaminDWi
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> 
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) 
 
 * [Vitamin D Cofactors in a nutshell](/posts/vitamin-d-cofactors-in-a-nutshell)  Magnesium is #1 cofactor
 
-* <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Low cost cofactors for vitamin D</a> - includes listing of what admin of VitaminDWiki actually takes
+* [Low cost cofactors for vitamin D](/posts/low-cost-cofactors-for-vitamin-d) - includes listing of what admin of VitaminDWiki actually takes
 
 * [Pregnancy helped by Magnesium - many studies](/posts/pregnancy-helped-by-magnesium-many-studies)
 
@@ -150,7 +150,7 @@ I tried ~ 5 types and use Magnesium Chloride - Henry Lahore, admin of VitaminDWi
 
 * [Far less Magnesium available in the body now](/posts/far-less-magnesium-available-in-the-body-now)
 
-* <a href="/posts/magnesium-and-vitamin-d-similar-different-and-synergistic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and Vitamin D - similar, different and synergistic">Magnesium and Vitamin D - similar, different and synergistic</a> has the following proposed Venn diagram
+* [Magnesium and Vitamin D - similar, different and synergistic](/posts/magnesium-and-vitamin-d-similar-different-and-synergistic) has the following proposed Venn diagram
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/venn-diagram-vit-d-and-mag.gif" alt="image">
 

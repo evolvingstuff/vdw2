@@ -58,13 +58,13 @@ The MenaQ7 supplementation group significantly increased the circulating active 
 
 ## See also VitmainDWiki
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Soft Bones, Hard Arteries, Vitamin D, Vitamin K2 and antibiotics – Sept 2012](/posts/soft-bones-hard-arteries-vitamin-d-vitamin-k2-and-antibiotics)
 
 * [Hip fractures greatly reduced by sunshine, vitamin D, and vitamin K – meta-analysis Sept 2012](/posts/hip-fractures-greatly-reduced-by-sunshine-vitamin-d-and-vitamin-k-meta-analysis)
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
 * [Interview of Vitamin K2 and Calcium Paradox author by Dr. Mercola – Dec 2012](/posts/interview-of-vitamin-k2-and-calcium-paradox-author-by-dr-mercola)
 
@@ -74,9 +74,9 @@ The MenaQ7 supplementation group significantly increased the circulating active 
 
 > Vermeer recommends 300 micrograms, Cannell recommends 1,000 micrograms
 
-* <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Low cost cofactors for vitamin D</a> includes K2, Mg 
+* [Low cost cofactors for vitamin D](/posts/low-cost-cofactors-for-vitamin-d) includes K2, Mg 
 
-* <a href="/posts/osteocalcin-overview-of-the-hormone-needed-to-build-bones-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteocalcin – overview of the hormone needed to build bones, etc. Jan 2018">Osteocalcin – overview of the hormone needed to build bones, etc. Jan 2018</a>
+* [Osteocalcin – overview of the hormone needed to build bones, etc. Jan 2018](/posts/osteocalcin-overview-of-the-hormone-needed-to-build-bones-etc)
 
 ---
 

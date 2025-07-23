@@ -58,7 +58,7 @@ After 12 months, patients in the treatment group had a significantly lower incid
 
 * 3 books with sections on MS and vitamin D
 
-* Vitamin D found to be <a href="/posts/far-better-than-fda-drug-for-ms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 976">far better than FDA drug for MS</a>
+* Vitamin D found to be [far better than FDA drug for MS](/tags/far-better-than-fda-drug-for-ms.html)
 
 * Many MS websites are very pro vitamin D
 

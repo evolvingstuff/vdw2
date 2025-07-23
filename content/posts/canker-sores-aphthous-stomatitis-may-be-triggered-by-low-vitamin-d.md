@@ -56,7 +56,7 @@ Keywords: Recurrent aphthous stomatitis; Oral aphthous ulcer; 25-Hydroxy vitamin
 
 #### See also VitaminDWiki
 
-* <a href="/posts/canker-sores-aphthous-stomatitis-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Canker sores (Aphthous Stomatitis) associated with low vitamin D – Oct 2019">Canker sores (Aphthous Stomatitis) associated with low vitamin D – Oct 2019</a>
+* [Canker sores (Aphthous Stomatitis) associated with low vitamin D – Oct 2019](/posts/canker-sores-aphthous-stomatitis-associated-with-low-vitamin-d)
 
 #### See also web
 

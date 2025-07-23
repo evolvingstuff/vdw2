@@ -50,6 +50,6 @@ Conclusions: Definitive studies are warranted to elucidate the effects of vitami
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>  many articles
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)  many articles
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)

@@ -51,4 +51,4 @@ The terminal slope of 25(OH)D2 disappearance was identified to commence from day
 
 * [Half-life of vitamin D varies](/posts/half-life-of-vitamin-d-varies)
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)

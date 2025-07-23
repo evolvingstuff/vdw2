@@ -42,16 +42,16 @@ Generally the prevention drugs – including vitamin D – would provide little 
 
 * [Molecular Link between Vitamin D and Cancer Prevention – Oct 2013](/posts/molecular-link-between-vitamin-d-and-cancer-prevention)
 
-* <a href="/posts/breast-and-other-cancer-prevention-dr-wascher-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast and other Cancer prevention - Dr. Wascher 2011">Breast and other Cancer prevention - Dr. Wascher 2011</a> book
+* [Breast and other Cancer prevention - Dr. Wascher 2011](/posts/breast-and-other-cancer-prevention-dr-wascher-2011) book
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a> General Cancers and specifics - including Breast
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) General Cancers and specifics - including Breast
 
 * [Vitamin D, Sunlight and Cancer Connection – Holick Jan 2013](/posts/vitamin-d-sunlight-and-cancer-connection-holick)
 
-* <a href="/posts/vitamin-d-appears-to-both-prevent-and-treat-various-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D appears to both prevent and treat various cancers – Mar 2011">Vitamin D appears to both prevent and treat various cancers – Mar 2011</a>
+* [Vitamin D appears to both prevent and treat various cancers – Mar 2011](/posts/vitamin-d-appears-to-both-prevent-and-treat-various-cancers)
 
-* <a href="/posts/vitamin-d-and-cancer-treatment-and-prevention-presentations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Cancer Treatment and Prevention – presentations May 2011">Vitamin D and Cancer Treatment and Prevention – presentations May 2011</a>
+* [Vitamin D and Cancer Treatment and Prevention – presentations May 2011](/posts/vitamin-d-and-cancer-treatment-and-prevention-presentations)
 
-* <a href="/posts/vitamin-d-and-prevention-of-cancer-is-it-ready-for-prime-time" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Prevention of Cancer — Is it ready for Prime Time – March 2011">Vitamin D and Prevention of Cancer — Is it ready for Prime Time – March 2011</a>
+* [Vitamin D and Prevention of Cancer — Is it ready for Prime Time – March 2011](/posts/vitamin-d-and-prevention-of-cancer-is-it-ready-for-prime-time)
 
-* <a href="/posts/curing-patients-is-not-a-sustainable-business-model-goldman-sachs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Curing patients is not a sustainable business model – Goldman Sachs – April 2018">Curing patients is not a sustainable business model – Goldman Sachs – April 2018</a>
+* [Curing patients is not a sustainable business model – Goldman Sachs – April 2018](/posts/curing-patients-is-not-a-sustainable-business-model-goldman-sachs)

@@ -1,0 +1,76 @@
+<!doctype html><html><head><meta charset=utf-8><title>Why Medicine Doesn't Understand the true health value of Vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753303883"><link rel=stylesheet href="/css/pagination.css?v=1753303883"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303883"></script><script src="/js/search.js?v=1753303883"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Why Medicine Doesn't Understand the true health value of Vitamin D</h1><time>March 13, 2018</time><div data-pagefind-body><h4 id=my-vitamin-d-journey-in-medicine-by-thomas-a-braun-rph---n2efor-lifehttpn2enet>My Vitamin D Journey in Medicine. by Thomas A. Braun RPh <a href=http://n2e.net/>N2E+for Life</a></h4><p>It has been 10 years since I first had my blood tested for Vitamin D. The test results showed I had a blood value of 50 ng’s. My wife who had been battling NHL (Lymphoma) for more than a decade came back at 9 ng’s.</p><p>We spent almost 50 years together and ate the same food, traveled together, slept together except she had been told since childhood to stay out of the sun because she was a blue eyed blond and her Aunt died of sunstroke. Unfortunately, she acquired two viruses that impacted her weak immune system and caused health issues. Ultimately, NHL won with the help of the Green monkey virus from Salk’s live polio vaccine and Herpes Zoster from Chicken Pox.</p><p>So, for ten years since, I have been researching and learning all about Vitamin D, our “bloated” healthcare system and listening to the many voices who have views on how the American public should be cared for in the name of good health. Considering we will shortly reach a bench mark by 2020 where over 50% of the population will be diagnosed with a disease state means we are failing miserably in solving the health issues confronting the American public. Why?</p><p>Before, during and for a short while after WWII, we had a healthy society because we ate from Victory gardens during the war and the farmers were local and our food arrived fresh in most cases. Back then, only 1 in 22 women acquired breast cancer. Even McDonalds who had their first fast food restaurant in my home town was serving locally grown foods.</p><p>As we moved forward into the 1960’s, the need to produce more food at less cost, we moved into factory farming methods that changed the way we grew and processed our food. As we moved thru the rest of that century we continually added more chemicals and trace toxins to our foods and increased crop yield on nutrient depleted soil. The result as announced by USDA in 2009 was that nutrient deficiencies abound in the average American. At the same time, NIH has continually stated that all we need to do is eat a good diet. Unfortunately, that is not is being delivered to the average American. Since then there has been little governmental action taken except for a minority of informed Americans rejecting factory processed food and going organic.</p><p>The result is that now Medical costs are approaching 20% of GDP and food costs are at 10% of GDP. Just the reverse of what it was in 1955.</p><p>Vitamin D in my view is the Canary in the coal mine that is signally that medicine doesn’t understand the true role of nutrient rich food void of toxins that is required to stay healthy.</p><p>What if we had a valid test for Vitamin D in 1955? What would it tell us? In my opinion, it would have told us that 50 ng’s was the norm for Americans. This was before sunscreens, sun avoidance, eggs with little or no Vitamin D, over medicating, fast foods, drinking 200 liters/capita per year of pop containing phosphoric acid and other lifestyle habits that are detrimental to good health.</p><p>Instead, the blood test was not common until 15 to 20 years ago, when the average American was now deficient due to the “modern” life style that has been adopted. So now, the new norm is a sub-normal blood value for Vitamin D and is embraced by medicine as being the gold standard.</p><p>An important study was initiated by Harvard’s Dr. Manson in 2010 to put the issue to rest once and for all. It was called Vital and had four arms to it and over 100,000 people enlisted in the study. I was asked to join, but I didn’t want to be one of the unlucky people who would receive a Vitamin D placebo for 5 years.</p><p>Those that were lucky enough to get the Vitamin D3, received 2,000 iu’s daily. This June (2018) the Vital study will be concluded, and the results will be published (2019?). Considering the lifestyle that is embraced by most Americans, I believe the results will be inconclusive. The fact that 2,000 iu’s “2 ½ times” more than IOM/NAS said was necessary for the average daily adult dose will be meaningless due to the current American lifestyle. IOM also said that pregnant mothers need no more Vitamin D than the average adult. Shocking that there is a lack of understanding that pregnancy requires ample nutrient intake during pregnancy to avoid delivering an infant with health issues.</p><p>The GrassrootsHealth initiative called “Protect our Kids NOW!’ has demonstrated that preemie rates will drop 60% if the mother has adequate Vitamin D intake during pregnancy. I would expect that Harvard’s Women’s Hospital would embrace this study whole heartily and implement this program.</p><p>The other grassroots program has determined that women’s chance of acquiring breast cancer would drop by 80% if the blood value of Vitamin D was above 50 ng’s. Today, 1 in 8 women will experience breast cancer. Shameful.</p><p>IOM’s pronouncement in 2011 on the new Vitamin D guidelines was totally flawed and Dr. Baggerly who is a biostatistician has informed NIH of the error which indicates that Vitamin D is ten times safer than what I as well as over several million medical students have been taught for the last 60 years.</p><p>I was taught that more than 1,000 iu’s taken daily was poisonous. In 2003, when my cousin called, and he told me for the last 10 years he was in a self-help Prostate Cancer group and was taking 10,000 units of Vitamin D3 daily I was shocked. George! You are Poisoning yourself! I forgot to tell you that 10 years prior he was told he had 3 months to live.</p><p>If IOM/NAS continues to believe as well as the medical establishment that only 20 ng’s of Vitamin D are required to turn 3000 plus genes on in the human body and the detrimental American lifestyle continues to be in vogue, I don’t believe medicine will ever embrace the fact that cellular heath starts with rich nutrient intake void of trace toxins to live a full and vibrant life.</p><p>Our extended family in 2017 were blessed with two newborns who came into this world healthy, happy and calm and are bright eyed and are enjoying their infancy without ills. Their mothers rejected factory foods and supplemented amply with Vitamin D and other nutrients and the infants are enjoying breast feeding which was denied my children because of the Vitamin D nutrient deficiency of their mother through no fault of her own.</p><p>What will it take to fix the national Vitamin D deficiency epidemic that exists in not only the USA, but is a global problem for over 1 Billion people? The sun gives the planet earth life and all it’s inhabitants both animal and vegetable. Will we continue to study the issue to death or will there be medical leadership that will embrace the true value and the need for increasing the blood value of vitamin D to 50 ng’s for optimum health?</p><p>Permission granted to reproduce this article in it’s entirety provided the author is informed of the publication that will reproduce the article.</p><p>Copyrighted 2018. Thomas A Braun RPh <a href=mailto:tbran10@hotmail.com>tbran10@hotmail.com</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-cancer.html><span class=tag>childhood cancer</span></a>
+<a href=/tags/childhood-viruses.html><span class=tag>childhood viruses</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/herpes-shingles.html><span class=tag>herpes shingles</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/lymphoma.html><span class=tag>lymphoma</span></a>
+<a href=/tags/omega-3.html><span class=tag>omega 3</span></a>
+<a href=/tags/omega-3-and-pregnancy.html><span class=tag>omega 3 and pregnancy</span></a>
+<a href=/tags/omega-3-and-viruses.html><span class=tag>omega 3 and viruses</span></a>
+<a href=/tags/preemie.html><span class=tag>preemie</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/prostate-cancer.html><span class=tag>prostate cancer</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/viruses-and-pregnancy.html><span class=tag>viruses and pregnancy</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a></div><div data-pagefind-meta=tags hidden>breast cancer, cancer, child, childhood cancer, childhood viruses, dosage, herpes shingles, immunity, lymphoma, omega 3, omega 3 and pregnancy, omega 3 and viruses, preemie, pregnancy, prostate cancer, virus, viruses and pregnancy, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303883"></script><script src="/js/tiki-redirects.js?v=1753303883"></script><script src="/js/lightspa.js?v=1753303883"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303883",indexUrl:"/search/search_index.json.gz?v=1753303883"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303883"></script></body></html>

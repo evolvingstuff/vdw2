@@ -80,7 +80,7 @@
 
 > Now you can browse AND search without English
 
- **<a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3960">CLICK HERE</a>** ] to see this news update on the web, in 60+ languages
+ **[CLICK HERE](/tags/click-here.html)** ] to see this news update on the web, in 60+ languages
 
  **Genes and vitamin D receptors appear to play a strong role in vitamin D related diseases** 
 
@@ -90,9 +90,9 @@
 
 * [Genes indicate that Obesity causes vitamin D deficiency – Feb 2013](/posts/genes-indicate-that-obesity-causes-vitamin-d-deficiency)&nbsp; &nbsp;
 
-* [Genetics](/categories/genetics)&nbsp;category has 82 items
+* [Genetics](/tags/genetics.html)&nbsp;category has 82 items
 
-* <a href="/posts/hypothesis-receptor-activation-more-important-than-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – Receptor activation more important than vitamin D levels – June 2011">Hypothesis – Receptor activation more important than vitamin D levels – June 2011</a>&nbsp; &nbsp;
+* [Hypothesis – Receptor activation more important than vitamin D levels – June 2011](/posts/hypothesis-receptor-activation-more-important-than-vitamin-d-levels)&nbsp; &nbsp;
 
 * [Calcium and vitamin D receptors are important to many health conditions – Jan 2013](/posts/calcium-and-vitamin-d-receptors-are-important-to-many-health-conditions)&nbsp; &nbsp;
 
@@ -102,7 +102,7 @@
 
  **Magnesium appears to be the most important thing to take with vitamin D** 
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>&nbsp; &nbsp;
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)&nbsp; &nbsp;
 
 * [Magnesium sources: Oxide thru Pico - March 2013](/posts/magnesium-sources-oxide-thru-pico)&nbsp; &nbsp;
 
@@ -132,7 +132,7 @@
 
  **Proof that Vitamin D works keeps on coming it 27 health problems so far** 
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>&nbsp; &nbsp;
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)&nbsp; &nbsp;
 
  **Vitamin D protects skin** 
 
@@ -142,9 +142,9 @@
 
  **Sports people around the world are starting to benefit from vitamin D** 
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a>&nbsp; &nbsp;
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d)&nbsp; &nbsp;
 
-* <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a>&nbsp; &nbsp;Magnesium as well
+* [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution)&nbsp; &nbsp;Magnesium as well
 
 * [5,000 IU daily was just enough vitamin D for Irish athletes in the winter – March 2013](/posts/5000-iu-daily-was-just-enough-vitamin-d-for-irish-athletes-in-the-winter)&nbsp; &nbsp;
 
@@ -190,13 +190,13 @@
 
 * [8X higher Osteoporosis risk if high level of vitamin A, vitamin D important too – Feb 2013](/posts/8x-higher-osteoporosis-risk-if-high-level-of-vitamin-a-vitamin-d-important-too)&nbsp; &nbsp;
 
-* <a href="/posts/50-percent-fewer-strokes-with-vitamin-d-even-though-ignored-dose-size-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012">50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012</a>&nbsp; &nbsp;
+* [50 percent fewer strokes with vitamin D, even though ignored dose size – meta-analysis March 2012](/posts/50-percent-fewer-strokes-with-vitamin-d-even-though-ignored-dose-size-meta-analysis)&nbsp; &nbsp;
 
-* <a href="/posts/knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010">Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010</a>&nbsp; &nbsp;
+* [Knee osteoarthritis associated with low vitamin D for those under age 55 – Dec 2010](/posts/knee-osteoarthritis-associated-with-low-vitamin-d-for-those-under-age-55)&nbsp; &nbsp;
 
 * [Severity of adult asthma associated with less vitamin D – Feb 2013](/posts/severity-of-adult-asthma-associated-with-less-vitamin-d)&nbsp; &nbsp;
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>&nbsp; &nbsp;
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)&nbsp; &nbsp;
 
 * [Overview Gut and vitamin D](/posts/overview-gut-and-vitamin-d)&nbsp; &nbsp;
 
@@ -208,23 +208,23 @@
 
 * [Rare Nutritional Rickets increased 10X in 20 years – Feb 2013](/posts/rare-nutritional-rickets-increased-10x-in-20-years)&nbsp; &nbsp;
 
-* <a href="/posts/fatty-liver-disease-in-40-percent-of-seniors-seniors-often-have-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D">Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D</a>&nbsp; &nbsp; very associated with low vitamin D
+* [Fatty Liver Disease in 40 percent of seniors (seniors often have low vitamin D](/tags/fatty-liver-disease-in-40-percent-of-seniors-seniors-often-have-low-vitamin-d.html)&nbsp; &nbsp; very associated with low vitamin D
 
 * [Mental health problems cut in half when have adequate level of vitamin D – Jan 2013](/posts/mental-health-problems-cut-in-half-when-have-adequate-level-of-vitamin-d)&nbsp; &nbsp;
 
  **Minor Health Problems with low vitamin D** 
 
-* <a href="/posts/vitamin-d-reduces-hair-loss-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces hair loss - many studies">Vitamin D reduces hair loss - many studies</a>&nbsp; &nbsp;
+* [Vitamin D reduces hair loss - many studies](/posts/vitamin-d-reduces-hair-loss-many-studies)&nbsp; &nbsp;
 
-* <a href="/posts/no-longer-easily-bruised-due-to-vitamins-probably-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No longer easily bruised: due to vitamins, probably vitamin D">No longer easily bruised: due to vitamins, probably vitamin D</a>&nbsp; &nbsp;
+* [No longer easily bruised: due to vitamins, probably vitamin D](/posts/no-longer-easily-bruised-due-to-vitamins-probably-vitamin-d)&nbsp; &nbsp;
 
-* <a href="/posts/hypothesis-bags-under-eyes-are-due-to-lack-of-vitamin-d-and-vitamin-k" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: bags under eyes are due to lack of vitamin D and vitamin K- Dec 2011">Hypothesis: bags under eyes are due to lack of vitamin D and vitamin K- Dec 2011</a>&nbsp; &nbsp;
+* [Hypothesis: bags under eyes are due to lack of vitamin D and vitamin K- Dec 2011](/posts/hypothesis-bags-under-eyes-are-due-to-lack-of-vitamin-d-and-vitamin-k)&nbsp; &nbsp;
 
  **Medical Organizations are very very slowly accepting vitamin D** 
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>&nbsp; &nbsp;10 reasons
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)&nbsp; &nbsp;10 reasons
 
-* <a href="/posts/myth-for-50-years-2000-iu-of-vitamin-d-is-toxic-still-taught-as-fact-in-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010">Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010</a>&nbsp; &nbsp;
+* [Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010](/posts/myth-for-50-years-2000-iu-of-vitamin-d-is-toxic-still-taught-as-fact-in-2010)&nbsp; &nbsp;
 
 * [Let 1000 die from vitamin D deficiency rather than incur 1 lawsuit](/posts/let-1000-die-from-vitamin-d-deficiency-rather-than-incur-1-lawsuit)&nbsp; &nbsp;
 
@@ -236,7 +236,7 @@
 
 * [Vitamin D Intervention Clinical Trials - Feb 2013](/posts/vitamin-d-intervention-clinical-trials)&nbsp; &nbsp; about 1,000 clinical trials with vitamin D INTERVENTION
 
-* <a href="/posts/improved-health-due-to-vitamin-d-fortification-in-finland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Improved health due to vitamin D fortification in Finland">Improved health due to vitamin D fortification in Finland</a>&nbsp; &nbsp; some learning, recommendations not yet changed
+* [Improved health due to vitamin D fortification in Finland](/posts/improved-health-due-to-vitamin-d-fortification-in-finland)&nbsp; &nbsp; some learning, recommendations not yet changed
 
 * [Vitamin D – Continuing Medical Education – 2013](/posts/vitamin-d-continuing-medical-education-2013)&nbsp; &nbsp;
 
@@ -264,9 +264,9 @@
 
  **How much vitamin D** 
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>&nbsp; &nbsp;
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)&nbsp; &nbsp;
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>&nbsp; &nbsp;
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)&nbsp; &nbsp;
 
  **Important Vitamin D news which did not seem to fit in a category** 
 
@@ -292,13 +292,13 @@
 
 ## Also at VitaminDWiki
 
-* Previous news: <a href="/posts/dec-2012-and" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3734">Dec 2012 and Jan 2013</a>
+* Previous news: [Dec 2012 and Jan 2013](/tags/dec-2012-and-jan-2013.html)
 
-* <a href="/posts/april-2013-newsletter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4065">April 2013 newsletter</a>
+* [April 2013 newsletter](/tags/april-2013-newsletter.html)
 
 * [New web pages](https://www.VitaminDWiki.com/tiki-index.php?page=vdwnews)
 
-* <a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>
+* [Recently changed web pages](/tags/recently-changed-web-pages.html)
 
 * [Best/Top Vitamin D News](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc) continuously updated
 

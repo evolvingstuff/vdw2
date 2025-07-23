@@ -64,12 +64,12 @@ Note: 200 ml is a little less than a cup (= 236 ml)
 
 #### See also VitaminDWiki
 
-* <a href="/posts/us-children-not-getting-enough-vitamin-d-recommends-free-milks-and-perhaps-3x-in-d-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US children not getting enough vitamin D, recommends free milks and perhaps 3X increased fortification – Sept 2022">US children not getting enough vitamin D, recommends free milks and perhaps 3X increased fortification – Sept 2022</a>
+* [US children not getting enough vitamin D, recommends free milks and perhaps 3X increased fortification – Sept 2022](/posts/us-children-not-getting-enough-vitamin-d-recommends-free-milks-and-perhaps-3x-in-d-fortification)
 
 * [Vitamin D home fortification- don't wait 100 years for your govt](/posts/vitamin-d-home-fortification-dont-wait-100-years-for-your-govt)
 
 * [Most people have major problems of milk as a source of vitamin D](/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d)
 
-* <a href="/posts/food-fortified-by-440-iu-increased-vitamin-d-levels-by-8-ng-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis June 2012">Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis June 2012</a>
+* [Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis June 2012](/posts/food-fortified-by-440-iu-increased-vitamin-d-levels-by-8-ng-meta-analysis)
 
 * [Little vitamin D in various types of milk – Oct 2012](/posts/little-vitamin-d-in-various-types-of-milk)

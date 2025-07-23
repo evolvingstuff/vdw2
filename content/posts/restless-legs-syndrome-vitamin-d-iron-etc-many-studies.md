@@ -143,7 +143,7 @@ Restless legs syndrome (RLS) affects up to 10% of older adults. Their healthcare
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/rls-meta-compresspdf.pdf">Download the PDF from VitaminDWiki </a>** 
 
- **See also: <a href="/posts/anti-oxidants-and-long-covid-mg-glutamate-butyrate-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Anti-oxidants and Long-Covid (Mg, Glutamate, Butyrate, etc) – Sept 2022">Anti-oxidants and Long-Covid (Mg, Glutamate, Butyrate, etc) – Sept 2022</a>** 
+ **See also: [Anti-oxidants and Long-Covid (Mg, Glutamate, Butyrate, etc) – Sept 2022](/posts/anti-oxidants-and-long-covid-mg-glutamate-butyrate-etc)** 
 
 ---
 
@@ -389,7 +389,7 @@ The present study demonstrated a possible association between vitamin D deficien
 
 #### Sleep Apnea solutions may apply also to RLS (Vitamins D and B, good gut)
 
- **<a href="/posts/sleep-apnea-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sleep Apnea and Vitamin D - many studies">Sleep Apnea and Vitamin D - many studies</a>** 
+ **[Sleep Apnea and Vitamin D - many studies](/posts/sleep-apnea-and-vitamin-d-many-studies)** 
 
 ---
 
@@ -465,4 +465,4 @@ Strangely, RLS decreased in the placebo group but NOT in the Vitamin D group
 
 https://alzres.biomedcentral.com/articles/10.1186/s13195-023-01191-z FREE PDF
 
- **See also <a href="/posts/dementia-is-associated-with-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia is associated with low vitamin D - many studies">Dementia is associated with low vitamin D - many studies</a>**
+ **See also [Dementia is associated with low vitamin D - many studies](/posts/dementia-is-associated-with-low-vitamin-d-many-studies)**

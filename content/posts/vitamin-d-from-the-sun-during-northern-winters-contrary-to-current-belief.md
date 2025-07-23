@@ -78,13 +78,13 @@ Fall|+3.6 mg||
 
 * [UV, sunshine, and vitamin D (87 charts) - Holick March 2013](/posts/uv-sunshine-and-vitamin-d-87-charts-holick)
 
-* <a href="/posts/even-small-amounts-of-uvb-result-in-increased-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Even small amounts of UVB result in increased vitamin D levels – March 2012">Small amounts of UV result in increased vitamin D levels – March 2012</a>
+* [Small amounts of UV result in increased vitamin D levels – March 2012](/posts/even-small-amounts-of-uvb-result-in-increased-vitamin-d-levels)
 
-* <a href="/posts/is-there-really-a-uv-winter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is there really a UV winter">Is there really a UV winter</a>
+* [Is there really a UV winter](/posts/is-there-really-a-uv-winter)
 
 * [Vitamin D - Facts and Myths](/posts/vitamin-d-facts-and-myths)   **Vitamin D Winter**  is myth #1
 
-* <a href="/posts/lack-of-health-insurance-varies-with-latitude-inversely-with-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lack of health insurance varies with latitude - inversely with UV">Map of Jan minutes to get same amount of vitamin D</a>
+* [Map of Jan minutes to get same amount of vitamin D](/posts/lack-of-health-insurance-varies-with-latitude-inversely-with-uv)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 

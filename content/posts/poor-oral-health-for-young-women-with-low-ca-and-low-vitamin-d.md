@@ -85,7 +85,7 @@ PMID: 25359326
 
 * [Dental caries cut in half by vitamin D, review of 24 old clinical trials – Nov 2012](/posts/dental-caries-cut-in-half-by-vitamin-d-review-of-24-old-clinical-trials)
 
-* <a href="/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011">More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011</a>
+* [More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011](/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934)
 
 * [Calcium and Vitamin D](/posts/calcium-and-vitamin-d) category overv iew with associated searches
 

@@ -65,9 +65,9 @@ This study agrees with previous studies: High Vitamin A somewhat blocks Vitamin 
 
 * [Vitamin D Cofactors in a nutshell](/posts/vitamin-d-cofactors-in-a-nutshell)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
-* <a href="/posts/should-increase-vitamin-k-when-increasing-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Should increase Vitamin K when increasing Vitamin D – RCT Jan 2019">Should increase Vitamin K when increasing Vitamin D – RCT Jan 2019</a>
+* [Should increase Vitamin K when increasing Vitamin D – RCT Jan 2019](/posts/should-increase-vitamin-k-when-increasing-vitamin-d-rct)
 
 </div>
 
@@ -109,4 +109,4 @@ The interactions occurring at the intestinal level between the fat-soluble vitam
 
 * Use of Lipid Nanocarriers to Improve Oral Delivery of Vitamins - 2019
 
-* Vitamin D microencapsulation and fortification: Trends and technologies - 2020 &nbsp;In VitaminDWiki: <a href="/posts/fortification-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fortification with Vitamin D">Fortification with Vitamin D</a>
+* Vitamin D microencapsulation and fortification: Trends and technologies - 2020 &nbsp;In VitaminDWiki: [Fortification with Vitamin D](/tags/fortification-with-vitamin-d.html)

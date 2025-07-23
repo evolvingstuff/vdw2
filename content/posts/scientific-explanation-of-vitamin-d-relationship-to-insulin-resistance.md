@@ -53,6 +53,6 @@ Received August 3, 2012. Revision received October 12, 2012.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Role of vitamin D in insulin resistance – Sept 2012](/posts/role-of-vitamin-d-in-insulin-resistance)

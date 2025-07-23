@@ -48,7 +48,7 @@ AND only allowing a test once every 3 months
 
 * [No vitamin D test needed before supplementing (typically) – April 2014](/posts/no-vitamin-d-test-needed-before-supplementing-typically)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a> 
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests) 
 
 > buy your own test if your govt does not pay for an expensive test
 

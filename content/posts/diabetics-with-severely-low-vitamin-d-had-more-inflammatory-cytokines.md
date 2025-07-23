@@ -56,7 +56,7 @@ PMID: 25331710
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Inflammatory diseases: review of vitamin D, with many tables – May 2014](/posts/inflammatory-diseases-review-of-vitamin-d-with-many-tables)
 

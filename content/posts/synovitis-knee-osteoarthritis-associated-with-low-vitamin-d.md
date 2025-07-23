@@ -42,7 +42,7 @@ Wallace G1, Cro S2, Doré C2, King L3, Kluzek S1, Price A1, Roemer F4, Guermazi 
 
  **Vitamin D and other supplements greatly reduce knee osteoarthritis** 
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
 * [Knee osteoarthritis strongly associated with low Boron – 2015](/posts/knee-osteoarthritis-strongly-associated-with-low-boron-2015)
 

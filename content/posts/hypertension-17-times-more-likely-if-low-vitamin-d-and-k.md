@@ -37,11 +37,11 @@ Van Ballegooijen A1, Van Schoor N, Brouwer I, Visser M, Beulens J.
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Low Vitamin D or Vitamin K2 may be a cause of Hypertension and Osteoporosis – Nov 2012](/posts/low-vitamin-d-or-vitamin-k2-may-be-a-cause-of-hypertension-and-osteoporosis)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Vitamin K2-7 decreases arterial stiffness (cleans arteries) – RCT Feb 2015](/posts/vitamin-k2-7-decreases-arterial-stiffness-cleans-arteries-rct)
 

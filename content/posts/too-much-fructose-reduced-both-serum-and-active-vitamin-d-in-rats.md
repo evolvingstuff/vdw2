@@ -62,9 +62,9 @@ Now it appears that fructose decreases the Calcium in two ways
 
 #### See also VitaminDWiki
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> sugary drinks was the 9th of 27 reasons
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) sugary drinks was the 9th of 27 reasons
 
-* <a href="/posts/fructose-reduces-blood-levels-of-active-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fructose reduces blood levels of active vitamin D">Fructose reduces blood levels of active vitamin D</a>
+* [Fructose reduces blood levels of active vitamin D](/posts/fructose-reduces-blood-levels-of-active-vitamin-d)
 
 * [Search VitaminDWiki for FRUCTOSE](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=fructose&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 338 items March 2019
 
@@ -74,6 +74,6 @@ Now it appears that fructose decreases the Calcium in two ways
 
 * [Fructose (High Fructose Corn Syrup) consumes 2X more Magnesium than sugar – May 2014](/posts/fructose-high-fructose-corn-syrup-consumes-2x-more-magnesium-than-sugar)
 
-* <a href="/posts/sugary-drinks-associated-with-5x-worse-multiple-sclerosis-reduces-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sugary drinks associated with 5X worse Multiple Sclerosis (reduces vitamin D levels)– March 2019">Sugary drinks associated with 5X worse Multiple Sclerosis (reduces vitamin D levels)– March 2019</a>
+* [Sugary drinks associated with 5X worse Multiple Sclerosis (reduces vitamin D levels)– March 2019](/posts/sugary-drinks-associated-with-5x-worse-multiple-sclerosis-reduces-vitamin-d-levels)
 
-* <a href="/posts/bad-effects-of-fructose-diet-offset-by-vitamin-d-supplementation-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bad effects of fructose diet offset by Vitamin D supplementation (mice) - June 2019">Bad effects of fructose diet offset by Vitamin D supplementation (mice) - June 2019</a>
+* [Bad effects of fructose diet offset by Vitamin D supplementation (mice) - June 2019](/posts/bad-effects-of-fructose-diet-offset-by-vitamin-d-supplementation-mice)

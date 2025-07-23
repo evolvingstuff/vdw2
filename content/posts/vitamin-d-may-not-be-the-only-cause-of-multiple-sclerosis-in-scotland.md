@@ -68,7 +68,7 @@ To find out more about the Orkney and Shetland MS Research Project contact Tom o
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [Multiple Sclerosis: number needed to treat with vitamin D may be as low as 1.3 – Meta-analysis Oct 2013](/posts/multiple-sclerosis-number-needed-to-treat-with-vitamin-d-may-be-as-low-as-13-meta-analysis)
 

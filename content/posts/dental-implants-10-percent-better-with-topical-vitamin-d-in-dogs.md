@@ -55,7 +55,7 @@ With the limitation of animal studies, topical application of vitamin D on denta
 
 * [Bone implants aided by Vitamin D in 80 percent of studies, conclusion – more studies needed – Feb 2016](/posts/bone-implants-aided-by-vitamin-d-in-80-percent-of-studies-conclusion-more-studies-needed)
 
-* <a href="/posts/more-dental-implant-bone-growth-if-high-vitamin-d-natural-or-supplement-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More dental implant bone growth if high vitamin D (natural or supplement) – RCT Feb 2021">More dental implant bone growth if high vitamin D (natural or supplement) – RCT Feb 2021</a>
+* [More dental implant bone growth if high vitamin D (natural or supplement) – RCT Feb 2021](/posts/more-dental-implant-bone-growth-if-high-vitamin-d-natural-or-supplement-rct)
 
 ---
 

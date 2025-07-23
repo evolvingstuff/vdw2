@@ -54,8 +54,8 @@ Importance: far fewer dieases during life if born with a adequate level of vitam
 
 * [All pages with GRIMES in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=grimes&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 47 pages as of May 2013
 
-* <a href="/posts/graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011">Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011</a>
+* [Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011](/posts/graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2)
 
-* <a href="/posts/second-generation-dark-skinned-immigrants-live-shorter-lives" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Second generation dark skinned immigrants live shorter lives">Second generation dark skinned immigrants live shorter lives</a> image from a July 2011 video by Dr. Grimes
+* [Second generation dark skinned immigrants live shorter lives](/posts/second-generation-dark-skinned-immigrants-live-shorter-lives) image from a July 2011 video by Dr. Grimes
 
-* <a href="/posts/cholesterol-and-vitamin-d-book-2009" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cholesterol and vitamin D book - 2009">Cholesterol and vitamin D book - 2009</a>
+* [Cholesterol and vitamin D book - 2009](/posts/cholesterol-and-vitamin-d-book-2009)

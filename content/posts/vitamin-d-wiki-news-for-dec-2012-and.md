@@ -139,7 +139,7 @@ Lots of great vitamin D news - here are some news clusters.
 
 * [Suicide 2X more likely with low vitamin D (in military) – Jan 2013](/posts/suicide-2x-more-likely-with-low-vitamin-d-in-military)
 
-* <a href="/posts/psychiatric-disorders-4x-more-likely-in-teens-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Psychiatric disorders 4X more likely in teens if low vitamin D - Nov 2011">Psychiatric disorders 4X more likely in teens if low vitamin D - Nov 2011</a>
+* [Psychiatric disorders 4X more likely in teens if low vitamin D - Nov 2011](/posts/psychiatric-disorders-4x-more-likely-in-teens-if-low-vitamin-d)
 
  **Association between skin damage and low vitamin D** 
 
@@ -151,17 +151,17 @@ Lots of great vitamin D news - here are some news clusters.
 
 * [5 Amazing Properties of Sunlight You've Never Heard About](/posts/5-amazing-properties-of-sunlight-youve-never-heard-about)
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Beneficial effects of UV radiation other than via vitamin D production – June 2012">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
  **Vitamin D3 now available:**  
 
-* <a href="/posts/many-forms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">many forms</a>: capsule, pill, drops, spray, gummy bear, sublingual, vegan, Kosher, chewable, bulk
+* [many forms](/tags/many-forms.html): capsule, pill, drops, spray, gummy bear, sublingual, vegan, Kosher, chewable, bulk
 
-* many sizes: largest is <a href="/posts/50000-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3188">50,000 IU</a> - just determin how many days between taking the 21 cent capsule
+* many sizes: largest is [50,000 IU](/tags/50000-iu.html) - just determin how many days between taking the 21 cent capsule
 
 * [30 percent of vitamin D sold now has more than 2000 IU - Dec 2012](/posts/30-percent-of-vitamin-d-sold-now-has-more-than-2000-iu)
 
-* <a href="/posts/more-bio-available-form-for-those-with-gut-problems" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1252">More bio-available form for those with gut problems</a>
+* [More bio-available form for those with gut problems](/tags/more-bio-available-form-for-those-with-gut-problems.html)
 
 * [Spray vitamin D inside cheek in case of emergency - Nov 2012](/posts/spray-vitamin-d-inside-cheek-in-case-of-emergency)
 
@@ -193,9 +193,9 @@ Lots of great vitamin D news - here are some news clusters.
 
 * [UVB added in classroom reduced cavities, increased height, increased academics. etc](/posts/uvb-added-in-classroom-reduced-cavities-increased-height-increased-academics-etc) 
 
-> <a href="/posts/very-low-cost-to-add-safe-uvb" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3154">very low cost to add safe UVB</a> in classroom, home, office
+> [very low cost to add safe UVB](/tags/very-low-cost-to-add-safe-uvb.html) in classroom, home, office
 
-* <a href="/posts/14-medical-conferences-will-have-vitamin-d-sessions-before" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3213">14 medical conferences will have Vitamin D sessions before July 2013</a>
+* [14 medical conferences will have Vitamin D sessions before July 2013](/tags/14-medical-conferences-will-have-vitamin-d-sessions-before-july-2013.html)
 
  **<span style="color:#F00;">24th disease</span> proven to be helped with vitamin D** 
 
@@ -205,13 +205,13 @@ Lots of great vitamin D news - here are some news clusters.
 
 > Chronic Kidney Disease, Cystic Fibrosis,  Rheumatoid Arthritis,  TB,  Rickets,  Respiratory Tract Infection
 
-> Lupus, Sickle Cell pain, leg ulcers, <a href="/posts/traumatic-brain-injury" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3640">traumatic brain injury</a>    Proof details are at [http://is.gd/proofvitd](http://is.gd/proofvitd) 
+> Lupus, Sickle Cell pain, leg ulcers, [traumatic brain injury](/tags/traumatic-brain-injury.html)    Proof details are at [http://is.gd/proofvitd](http://is.gd/proofvitd) 
 
  **How much vitamin D to take, an on-going question** 
 
 * [How much vitamin D and other nutrients do I take](/posts/how-much-vitamin-d-and-other-nutrients-do-i-take)
 
-* <a href="/posts/many-sleep-disorders-cured-with-vitamin-d-levels-of-60-to-80-nanograms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many sleep disorders cured with vitamin D levels of 60 to 80 nanograms – May 2012">Many sleep disorders cured with vitamin D levels of 60 to 80 nanograms – May 2012</a>
+* [Many sleep disorders cured with vitamin D levels of 60 to 80 nanograms – May 2012](/posts/many-sleep-disorders-cured-with-vitamin-d-levels-of-60-to-80-nanograms)
 
 * [Evidence that the minimum vitamin D blood level is 30 ng – Grant Nov 2012](/posts/evidence-that-the-minimum-vitamin-d-blood-level-is-30-ng-grant)
 
@@ -233,13 +233,13 @@ Lots of great vitamin D news - here are some news clusters.
 
  **Vitamin D testing - fast and low cost**  soon < $20?
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">A new vitamin D tester expected to be approved in 2013 – fast, desktop</a>
+* [A new vitamin D tester expected to be approved in 2013 – fast, desktop](/posts/low-cost-vitamin-d-blood-tests)
 
  **Off topic (but very good for your health)** 
 
 * [Off topic: Sulfur and Human Health](/posts/off-topic-sulfur-and-human-health)
 
-* <a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Vitamin D and Iodine are similar, and both are deficient and important to health</a>
+* [Vitamin D and Iodine are similar, and both are deficient and important to health](/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health)
 
 * [Off Topic: Cataracts can be dissolved away in 6 months](/posts/off-topic-cataracts-can-be-dissolved-away-in-6-months)
 
@@ -257,7 +257,7 @@ Significantly reduced relapse rates when serum levels >110 nmol/L
 
 * A study which has this chart: [Vitamin D prevents multiple sclerosis through multiple mechanisms – Jan 2013](/posts/vitamin-d-prevents-multiple-sclerosis-through-multiple-mechanisms)
 
-* see also <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* see also [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
  **////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////** 
 
@@ -265,7 +265,7 @@ Significantly reduced relapse rates when serum levels >110 nmol/L
 
 ###  **Many minutes to get Vitamin D from noon sun in January** 
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a>
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)
 
  **////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////** 
 
@@ -275,9 +275,9 @@ Significantly reduced relapse rates when serum levels >110 nmol/L
 
 * A page has this chart: [How much vitamin D and other nutrients do I take](/posts/how-much-vitamin-d-and-other-nutrients-do-i-take)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
  **////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////** 
 
@@ -293,7 +293,7 @@ Significantly reduced relapse rates when serum levels >110 nmol/L
 
 ###  **How many years do you want to wait for additional confirmation of vitamin D?** 
 
-* <a href="/posts/summary-of-vitamin-d-trials-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Summary of Vitamin D trials - Grant Nov 2012">Summary of Vitamin D trials - Grant Nov 2012</a>
+* [Summary of Vitamin D trials - Grant Nov 2012](/posts/summary-of-vitamin-d-trials-grant)
 
 * [95 new vitamin D INTERVENTION trials added during 2012](/posts/95-new-vitamin-d-intervention-trials-added-during-2012)
 
@@ -335,13 +335,13 @@ Compared to early morning or late afternoon.
 
 ## Also at VitaminDWiki
 
-* Previous monthly news: <a href="/posts/" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3485">Nov 2012</a>
+* Previous monthly news: [Nov 2012](/tags/nov-2012.html)
 
 * [VitaminDWiki News for Feb and March 2013](/posts/vitamindwiki-news-for-feb-and)
 
 * [New web pages](https://www.VitaminDWiki.com/tiki-index.php?page=vdwnews)
 
-* <a href="/posts/recently-changed-web-pages" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2536">Recently changed web pages</a>
+* [Recently changed web pages](/tags/recently-changed-web-pages.html)
 
 * [Best/Top Vitamin D News](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=98%2098&sort_mode=created_desc) continuously updated
 

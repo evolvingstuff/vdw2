@@ -66,4 +66,4 @@ the benefits would have been much greater - perhaps 3X less pneumonia rather tha
 
 * [Pneumonia 2.6X more likely if low vitamin D – April 2013](/posts/pneumonia-26x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/pneumonia-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pneumonia and low vitamin D - many studies">Pneumonia and low vitamin D - many studies</a> OVERVIEW @ VitaminDWiki
+* [Pneumonia and low vitamin D - many studies](/posts/pneumonia-and-low-vitamin-d-many-studies) OVERVIEW @ VitaminDWiki

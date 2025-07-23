@@ -52,7 +52,7 @@ A pig ready for market weighs about 115 kg (250 lbs)
 
 4.6 kg * 800 = 3,680 IU of vitamin D daily for 250 lb pig
 
- **= 2,200 IU  for a 150 lb pig/human,**  vs <a href="/posts/600-iu-specified-by-insititue-of-medicine" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">600 IU specified by Insititue of Medicine</a>
+ **= 2,200 IU  for a 150 lb pig/human,**  vs [600 IU specified by Insititue of Medicine](/tags/600-iu-specified-by-insititue-of-medicine.html)
 
  **Approx 3.6 X more Vitamin D for pig than for human** 
 
@@ -60,10 +60,10 @@ A pig ready for market weighs about 115 kg (250 lbs)
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a> 
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d) 
 
 * [Vets getting excited about vitamin D - Oct 2012](/posts/vets-getting-excited-about-vitamin-d)
 
 * [Veterinarians often giving more vitamin D than govt upper limit - 2012](/posts/veterinarians-often-giving-more-vitamin-d-than-govt-upper-limit-2012)
 
-* <a href="/posts/swine-need-sunshine-or-500-2800-iu-vitamin-d3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Swine need sunshine or 500-2800 IU vitamin D3">Swine need sunshine or 500-2800 IU vitamin D3</a>
+* [Swine need sunshine or 500-2800 IU vitamin D3](/posts/swine-need-sunshine-or-500-2800-iu-vitamin-d3)

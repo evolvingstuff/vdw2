@@ -45,7 +45,7 @@ Am J Epidemiol (2017) 1-12. DOI: https://doi.org/10.1093/aje/kww172,  03 Februar
 
 * Note: Most of the references for Attention Deficit Disorder in VitaminDWiki concern low Magnesium
 
-* <a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">ADHD and Vitamin D Deficiency</a>
+* [ADHD and Vitamin D Deficiency](/posts/adhd-and-vitamin-d-deficiency)
 
 #### See also web
 

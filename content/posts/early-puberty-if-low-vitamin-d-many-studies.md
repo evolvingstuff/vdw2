@@ -45,7 +45,7 @@
 }
 
 
-**Note:  Vitamin D levels have been <a href="/posts/4-reasons-why-vitamin-d-levels-are-crashing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing">crashing</a> in the past 40 years AND the age of puberty has also been dropping around the world** 
+**Note:  Vitamin D levels have been [crashing](/posts/4-reasons-why-vitamin-d-levels-are-crashing) in the past 40 years AND the age of puberty has also been dropping around the world** 
 
 {{< toc >}} 
 
@@ -161,13 +161,13 @@ Thus, we found that lifestyle changes caused due to the COVID-19 pandemic led to
 
 #### Early puberty during pandemic (perhaps just low vitamin D) - Sept 2022
 
-* <a href="/posts/early-puberty-during-pandemic-low-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early puberty during pandemic (low vitamin D) - several studies">Early puberty during pandemic (low vitamin D) - several studies</a>
+* [Early puberty during pandemic (low vitamin D) - several studies](/posts/early-puberty-during-pandemic-low-vitamin-d-several-studies)
 
 ---
 
 #### NYT article wondering why earlier and earlier puberty over the past 50 years - May 2022
 
-<a href="/posts/puberty-starts-earlier-than-it-used-to-unaware-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Puberty Starts Earlier Than It Used To (unaware of Vitamin D) - May 2022">Puberty Starts Earlier Than It Used To (unaware of Vitamin D) - May 2022</a>
+[Puberty Starts Earlier Than It Used To (unaware of Vitamin D) - May 2022](/posts/puberty-starts-earlier-than-it-used-to-unaware-of-vitamin-d)
 
 #### NYT: Girls of Color Are Getting Their Periods Earlier. No One Quite Knows Why. June 2024
 
@@ -333,11 +333,11 @@ Further studies are required to establish the potential effect of vitamin D stat
 
 #### See also VitaminDWiki
 
-* <a href="/posts/early-menarche-miscarriage-and-stillbirth-are-associated-with-heart-disease-all--h-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early menarche, miscarriage and stillbirth are associated with heart disease (all are associated with low Vitamin D) – Jan 2018">Early menarche, miscarriage and stillbirth are associated with heart disease (all are associated with low Vitamin D) – Jan 2018</a>
+* [Early menarche, miscarriage and stillbirth are associated with heart disease (all are associated with low Vitamin D) – Jan 2018](/posts/early-menarche-miscarriage-and-stillbirth-are-associated-with-heart-disease-all--h-low-vitamin-d)
 
-* <a href="/posts/vitamin-d-deficiency-and-pregnancy-from-preconception-to-birth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1009">Vitamin D deficiency and pregnancy - from preconception to birth Aug 2010</a>
+* [Vitamin D deficiency and pregnancy - from preconception to birth Aug 2010](/posts/vitamin-d-deficiency-and-pregnancy-from-preconception-to-birth)
 
-* <a href="/posts/early-puberty-in-girls-60-percent-more-likely-if-less-than-32-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Early puberty in girls 60 percent more likely if less than 32 ng of vitamin D – Aug 2017">Early puberty in girls 60 percent more likely if less than 32 ng of vitamin D – Aug 2017</a>
+* [Early puberty in girls 60 percent more likely if less than 32 ng of vitamin D – Aug 2017](/posts/early-puberty-in-girls-60-percent-more-likely-if-less-than-32-ng-of-vitamin-d)
 
 * [International Variability of Ages at Menarche and Menopause](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1772) April 2001. file - not web page
 
@@ -349,7 +349,7 @@ Further studies are required to establish the potential effect of vitamin D stat
 
 * [Age of Menarche and menopause - 2001](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1772)
 
-* <a href="/posts/menstruation-10-months-earlier-if-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Menstruation 10 months earlier if low on vitamin D – Aug 2011">Menstruation 10 months earlier if low on vitamin D – Aug 2011</a>
+* [Menstruation 10 months earlier if low on vitamin D – Aug 2011](/posts/menstruation-10-months-earlier-if-low-on-vitamin-d)
 
 #### See also web
 
@@ -357,11 +357,11 @@ Further studies are required to establish the potential effect of vitamin D stat
 
    * New York Times Oct 2012, no mention of vitamin D
 
-* Age is now 6 to 24 months earlier than 40 years ago (<a href="/posts/12-reasons-for-decrease-in-vitamin-d-in-the-past-40-years" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">12+ reasons for decrease in vitamin D in the past 40 years</a>)
+* Age is now 6 to 24 months earlier than 40 years ago ([12+ reasons for decrease in vitamin D in the past 40 years](/tags/12-reasons-for-decrease-in-vitamin-d-in-the-past-40-years.html))
 
-* African American boys age 9,  Hispanic boys age 10, white boys age 10.5 ? (<a href="/posts/having-dark-skin-reduces-the-vitamin-d-levels-from-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Having dark skin reduces the vitamin D levels from the sun</a>) 
+* African American boys age 9,  Hispanic boys age 10, white boys age 10.5 ? ([Having dark skin reduces the vitamin D levels from the sun](/tags/having-dark-skin-reduces-the-vitamin-d-levels-from-the-sun.html)) 
 
-* Heaviest boys reached puberty sooner (<a href="/posts/being-overweight-reduces-the-vitamin-d-level-in-the-body" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2946">being overweight reduces the vitamin D level in the body</a>)
+* Heaviest boys reached puberty sooner ([being overweight reduces the vitamin D level in the body](/tags/being-overweight-reduces-the-vitamin-d-level-in-the-body.html))
 
 * [Does vitamin D affect timing of menarche?](http://onlinelibrary.wiley.com/doi/10.1111/nure.12015/abstract;jsessionid=AA31921FED17C7C01376D9F3372C4CE8.d04t02) Jan 2013 - rebuttal paper
 

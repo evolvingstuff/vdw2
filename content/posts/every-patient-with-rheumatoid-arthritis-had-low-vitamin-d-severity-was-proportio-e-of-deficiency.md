@@ -76,7 +76,7 @@ PMID: 24924607
 
 * [100 percent of rheumatoid arthritis patients with very low vitamin D had very severe RA – Jan 2013](/posts/100-percent-of-rheumatoid-arthritis-patients-with-very-low-vitamin-d-had-very-severe-ra)
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Overview Rheumatoid Arthritis and vitamin D</a> which has the following quote from several years ago
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d) which has the following quote from several years ago
 
 > From my perspective, it is now  **<span style="color:#F00;">virtually criminal negligent malpractice</span>**  to treat a person with RA and not aggressively monitor their vitamin D levels to confirm that they are in a therapeutic range of  **<span style="color:#00F;">50-70 ng/ml</span>** .  
 

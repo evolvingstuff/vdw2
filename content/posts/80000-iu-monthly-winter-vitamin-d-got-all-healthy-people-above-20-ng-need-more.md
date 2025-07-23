@@ -46,7 +46,7 @@ VitaminDWiki recommends a minimum of 50,000 IU once every two weeks**
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has the following
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) has the following
 
 >  **Notional chart for Vitamin D supplementation for levels < 30 nanograms** 
 

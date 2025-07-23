@@ -69,8 +69,8 @@ Received June 25, 2012; Accepted August 9, 2012; Copyright © 2012 by The Endocr
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1078">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766">Overview How Much vitamin D</a> many people believe that vitamin D levels should be > 30 nanograms
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d) many people believe that vitamin D levels should be > 30 nanograms
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif" alt="image" style="max-width: 400px;">

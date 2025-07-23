@@ -60,15 +60,15 @@ Note: my father-in-law:
 
 #### See also VitaminDWiki
 
-* <a href="/posts/baby-aspirin-reduces-heart-problems-vitamin-d-much-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Baby aspirin reduces heart problems - Vitamin D much better– Jan 2012">Baby aspirin reduces heart problems - Vitamin D much better– Jan 2012</a>
+* [Baby aspirin reduces heart problems - Vitamin D much better– Jan 2012](/posts/baby-aspirin-reduces-heart-problems-vitamin-d-much-better)
 
-* <a href="/posts/vitamin-d-reduces-medical-problems-better-than-aspirin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Reduces Medical Problems better than aspirin">Vitamin D Reduces Medical Problems better than aspirin</a>
+* [Vitamin D Reduces Medical Problems better than aspirin](/posts/vitamin-d-reduces-medical-problems-better-than-aspirin)
 
-* <a href="/posts/daily-aspirin-reduced-chance-of-heart-problems-by-04-percent-but-50x-more-reduct-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Daily aspirin reduced chance of heart problems by 0.4 percent (but 50X more reduction if Vitamin D) – Meta-analysis Jan 2019">Daily aspirin reduced chance of heart problems by 0.4 percent (but 50X more reduction if Vitamin D) – Meta-analysis Jan 2019</a>
+* [Daily aspirin reduced chance of heart problems by 0.4 percent (but 50X more reduction if Vitamin D) – Meta-analysis Jan 2019](/posts/daily-aspirin-reduced-chance-of-heart-problems-by-04-percent-but-50x-more-reduct-d-meta-analysis)
 
-* <a href="/posts/cardiovascular-problems-reduced-by-low-dose-aspirin-and-perhaps-omega-3-also-vit-k" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular problems reduced by low dose aspirin and perhaps Omega-3 (also Vit K) – Sept 2017">Cardiovascular problems reduced by low dose aspirin and perhaps Omega-3 (also Vit K) – Sept 2017</a>
+* [Cardiovascular problems reduced by low dose aspirin and perhaps Omega-3 (also Vit K) – Sept 2017](/posts/cardiovascular-problems-reduced-by-low-dose-aspirin-and-perhaps-omega-3-also-vit-k)
 
-* <a href="/posts/preeclampsia-reduced-17-x-by-aspirin-but-reduced-7-x-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preeclampsia reduced 1.7 X by aspirin (but reduced 7 X by Vitamin D) – Feb 2018">Preeclampsia reduced 1.7 X by aspirin (but reduced 7 X by Vitamin D) – Feb 2018</a>
+* [Preeclampsia reduced 1.7 X by aspirin (but reduced 7 X by Vitamin D) – Feb 2018](/posts/preeclampsia-reduced-17-x-by-aspirin-but-reduced-7-x-by-vitamin-d)
 
 #### 19,000 people in a 5 year RCT with 100 mg Aspirin vs placebo (worse cancers) - Aug 2020
 

@@ -1,0 +1,81 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D reporting – scientists take 2000 and 3000 IU</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D reporting – scientists take 2000 and 3000 IU</h1><time>June 9, 2010</time><div data-pagefind-body><h1 id=the-it-vitamin>The &lsquo;it&rsquo; vitamin?</h1><p>It comes from the sun and it might fight disease, but how much of it do you need? New studies will hopefully shed some light.</p><p>By Kay Lazar May 31, 2010</p><p><a href="http://www.boston.com/news/health/articles/2010/05/31/the_high_hopes_for_vitamin_d_against_a_range_illnesses_and_diseases_are_still_unclear/?page=full">http://www.boston.com/news/health/articles/2010/05/31/the_high_hopes_for_vitamin_d_against_a_range_illnesses_and_diseases_are_still_unclear/?page=full</a></p><p><strong>Everybody, it seems, is looking for hope in a pill</strong></p><p>Like vitamins E, C, and others before it, vitamin D — the sunshine vitamin — has come under the spotlight as a possible weapon against some of the most common dreaded illnesses.</p><p>One by one, various supplements that were once proposed as holding the key failed to live up to expectations in carefully controlled studies. But a growing body of evidence suggests that substantially boosting a person’s intake of vitamin D, which is not naturally present in many foods and is thought to be deficient in many people, may offer protection against heart attacks, high blood pressure, various cancers, falls and fractures in elders, and even depression.</p><p>Among the studies, Nebraska researchers found that healthy postmenopausal woman given 1,000 International Units daily of vitamin D plus calcium appeared to have a substantially lower risk of getting breast cancer, compared with women who did not get the supplements. A small study of men and women found that those with high D levels were less likely to be diagnosed with high blood pressure. Other studies have suggested vitamin D may help keep blood sugar levels in check, potentially lowering a person’s risk of developing diabetes.</p><p>But just as scientists are finding things to like in what some see as the new “it’’ vitamin, a new study suggests that too much vitamin D may be too much of a good thing. And the study focused on the area in which many trials had indicated vitamin D held great promise: reducing falls and fractures in elders.</p><p>Australian researchers found that a large, single annual dose of vitamin D, given in roughly 1 1/2 times the amount an adult would typically take during an entire year, actually increased the number of falls and fractures among older women, especially in the first three months after the dosing.</p><p>“We cannot be certain whether the adverse effect was due to the total yearly dose or the fact that it was given once a year,’’ said lead researcher Kerrie Sanders, of the University of Melbourne, in an e-mail.</p><p>Sanders’s team tracked 2,200 women over age 70 for up to five years. Once a year, the women were each given 10 tablets, with half the women randomly chosen to get a placebo that contained no vitamin D, and the other half receiving tablets that contained a total of 500,000 IU. (By comparison, an adult ingesting the typically recommended 800-1,000 IU daily, would consume up to 365,000 IU over the course of a year.)</p><p>The researchers theorized that a single annual dose, if found to be beneficial, would be an easier way to get the bone-building vitamin into elders, who can have trouble sticking to a confusing cocktail of medications for other chronic illnesses.</p><p>Earlier studies found that somewhat smaller doses of vitamin D did reduce the risk of falls and fractures, including a small study by British researchers that found that 300,000 IU of vitamin D reduced the risk of fractures in adults over 65. In that study, the 300,000 IU were split into three doses, with 100,000 given every four months.</p><p>The latest study from the Australian team, published in the May 12 edition of the Journal of the American Medical Association, has renewed the debate among the country’s top vitamin D gurus about how much of it people should be ingesting, leaving consumers with a dilemma.</p><p>“Many people are leaping ahead of the science and taking high doses of vitamin D, very much believing that it will confer major health benefits, even in the absence of strong evidence,’’ said Dr. JoAnn Manson, professor at Harvard Medical School and chief of preventative medicine at Brigham and Women’s Hospital.</p><p>Hoping to provide clear answers for consumers, Manson is launching the largest nationwide study of its kind — 20,000 participants in a five-year trial — to test whether vitamin D can reduce the risk of cancer, heart attacks, and strokes. The study will also measure the effects of fish oil, known as omega-3s, on these chronic diseases.</p><p>“I do think vitamin D is one of the most promising nutrients for prevention of cardiac disease and cancer, and I believe in it strongly,’’ Manson said. “But the evidence is far from conclusive.’’</p><p>How much D does Manson take?</p><p>“I try to take whatever I am testing to see if there <span>[are]</span> side effects and to see if it’s well tolerated,’’ said Manson. Her new study is <strong>testing a level of 2,000 IU daily</strong> .</p><p>Many studies suggest vitamin D deficiency is widespread. Researchers at Massachusetts General Hospital earlier this month found that 7 out of 10 pregnant women in the United States are not getting enough D, even though many are taking prenatal vitamins. Deficiency in vitamin D early in life has been linked to an increased risk of respiratory infection.</p><p>Part of the confusion for consumers about how much is enough is that the daily recommended amount of vitamin D from the federal government has not been updated since 1997, and most specialists agree that those levels are far too low: 200 IU for adults under age 50; 400 IU between ages 51 and 70; and 600 IU for those over 70.</p><p>An Institute of Medicine panel that advises the government is expected to release updated recommendations later this year, and Manson serves on that panel.</p><p>But even that long-awaited report is unlikely to quell the clamor about optimal levels. Our bodies manufacture vitamin D after being exposed, without sunscreen, to sunlight. Some guidelines suggest that 10 to 15 minutes of sunshine three times weekly is enough to produce the body’s requirement of vitamin D, though calculating that timeframe can be tricky.</p><p>“It depends on the time of day, the latitude, the season, and your skin pigment,’’ said Dr. Michael F. Holick, Director of the Vitamin D, Skin, and Bone Research Laboratory at Boston University Medical Center.</p><p>For instance, Holick said, people in northern climates, such as New England, have trouble getting the needed sunshine during most of the year because they typically spend a lot of time bundled up or indoors.</p><p>Holick, who has been at the forefront of vitamin D research for more than three decades, has drawn the ire of dermatologists for advocating that people get sunshine in short measured doses on their arms, legs, and backs before applying their sunscreen. Holick also has raised eyebrows in science circles for his advocacy of big doses of vitamin D. For years, he has treated patients who are vitamin D deficient with large doses: 50,000 IU once a week for eight weeks, and then 50,000 IU every two weeks indefinitely.</p><p>Some specialists worry that patients taking too much vitamin D may end up with kidney stones, a painful build-up usually made of calcium in the kidneys.</p><p>“I have treated hundreds of patients for more than a decade and have not had one kidney stone,’’ said Holick, who details his sunshine, supplement, and food strategy to combat important health problems in a new book, “The Vitamin D Solution.’’</p><p>“Your body uses 3,000 to 5,000 units of vitamin D a day,’’ said <strong>Holick, who takes 3,000 IU a day</strong> , through his diet and supplementation. “For whatever reasons, and we don’t understand this, you don’t build it up over time.’’</p><p>Kay Lazar can be reached at <a href=mailto:klazar@globe.com>klazar@globe.com</a>.</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cardiovascular.html><span class=tag>cardiovascular</span></a>
+<a href=/tags/depression.html><span class=tag>depression</span></a>
+<a href=/tags/depression-and-pregnancy.html><span class=tag>depression and pregnancy</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/how-much.html><span class=tag>How much</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/mood-disorders.html><span class=tag>mood disorders</span></a>
+<a href=/tags/omega-3.html><span class=tag>omega 3</span></a>
+<a href=/tags/omega-3-and-pregnancy.html><span class=tag>omega 3 and pregnancy</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/respiratory.html><span class=tag>respiratory</span></a>
+<a href=/tags/stroke.html><span class=tag>stroke</span></a>
+<a href=/tags/stroke-and-depression.html><span class=tag>stroke and depression</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>bone, bone cancer, breast cancer, breathing, cancer, cardiovascular, depression, depression and pregnancy, diabetes, dosage, falls fractures, high dose, How much, hypertension, metabolic, mood disorders, omega 3, omega 3 and pregnancy, pregnancy, respiratory, stroke, stroke and depression, therapeutic intervention, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

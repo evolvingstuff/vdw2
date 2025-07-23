@@ -74,7 +74,7 @@ Prof Evelyn Bromet from State University of New York at Stony Brook said, "This 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/yld-heat-map-60-years-top-2.jpg" alt="image">
 
- **<a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3552">CLICK HERE</a> for more information** 
+ **[CLICK HERE](/tags/click-here.html) for more information** 
 
 ---
 

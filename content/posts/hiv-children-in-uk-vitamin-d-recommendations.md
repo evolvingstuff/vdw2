@@ -41,9 +41,9 @@ Followed by a maintenace  dose of ab least 2,000 IU daily (average)
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 * [7000 IU of vitamin D restored most HIV youths to above 32 ng - RCT March 2014](/posts/7000-iu-of-vitamin-d-restored-most-hiv-youths-to-above-32-ng-rct)
 

@@ -31,11 +31,11 @@ Please see our January 2010 magazine article "Startling Findings About Vitamin D
 
 ## See also VitaminDWiki
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [How much vitamin D and other nutrients do I take](/posts/how-much-vitamin-d-and-other-nutrients-do-i-take)
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview How Much vitamin D">Overview How Much vitamin D</a>
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d)
 
 ### Grassroots
 
@@ -53,7 +53,7 @@ Please see our January 2010 magazine article "Startling Findings About Vitamin D
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-### Be sure to adjust <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a> when having an optimum level of vitamin D
+### Be sure to adjust [cofactors](/tags/cofactors.html) when having an optimum level of vitamin D
 
 At a minimum: Reduce Calcium to 500 and increase Magnesum to 500
 

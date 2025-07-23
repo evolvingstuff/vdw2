@@ -77,11 +77,11 @@ Note Rank: appears to be just a sorting #, and has no significance about the imp
 
 ### <span style="color:#F00;">Unaware of a single trial which</span>
 
-* Includes vital <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">cofactors</a> (Magnesium, Vitamin K2, etc)
+* Includes vital [cofactors](/posts/low-cost-cofactors-for-vitamin-d) (Magnesium, Vitamin K2, etc)
 
 * Test people first to see if they are allergic to vitamin D 
 
-* Consider any of the <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">20+ reasons</a> for a low-response to vitamin D
+* Consider any of the [20+ reasons](/posts/reasons-for-low-response-to-vitamin-d) for a low-response to vitamin D
 
 * Vary the dose with the weight of the person
 
@@ -89,8 +89,8 @@ Note Rank: appears to be just a sorting #, and has no significance about the imp
 
 * [Vitamin D intervention – 1204 clinical trials – May 2014](/posts/vitamin-d-intervention-1204-clinical-trials)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> overview of results of some previous clinical trials
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) overview of results of some previous clinical trials
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-* <a href="/posts/vitamin-d-intervention-100-active-clinical-trials-as-of" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D intervention -100 active clinical trials as of May 2018">Vitamin D intervention -100 active clinical trials as of May 2018</a>
+* [Vitamin D intervention -100 active clinical trials as of May 2018](/posts/vitamin-d-intervention-100-active-clinical-trials-as-of)

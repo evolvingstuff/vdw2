@@ -36,7 +36,7 @@ Koçyiğit C, Çatlı G, İnce G, Özkan EB, Dündar BN.
 
 * [Pediatric trials of high dose vitamin D -163 are in a single online database – Feb 2016](/posts/pediatric-trials-of-high-dose-vitamin-d-163-are-in-a-single-online-database)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 * [Children in Intensive Care need Vitamin D loading dose of 10000 IU per kg (nearing a consensus) - Oct 2016](/posts/children-in-intensive-care-need-vitamin-d-loading-dose-of-10000-iu-per-kg-nearing-a-consensus)
 

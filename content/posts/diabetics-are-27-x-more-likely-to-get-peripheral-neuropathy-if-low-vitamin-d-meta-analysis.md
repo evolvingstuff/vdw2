@@ -56,13 +56,13 @@ W. S. Lv, W. J. Zhao, S. L. Gong, D. D. Fang, B. Wang, Z. J. Fu, S. L. Yan, Y. G
 
 * [ALL autoimmune peripheral neuropathy patients had low vitamin D levels – Oct 2014](/posts/all-autoimmune-peripheral-neuropathy-patients-had-low-vitamin-d-levels)
 
-* <a href="/posts/diabetic-neuropathy-and-low-vitamin-d-especially-in-blacks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic neuropathy and low vitamin D, especially in blacks - July 2011">Diabetic neuropathy and low vitamin D, especially in blacks - July 2011</a>
+* [Diabetic neuropathy and low vitamin D, especially in blacks - July 2011](/posts/diabetic-neuropathy-and-low-vitamin-d-especially-in-blacks)
 
 * [Diabetic neuropathy least likely if have 30-40 ng of vitamin D – Oct 2015](/posts/diabetic-neuropathy-least-likely-if-have-30-40-ng-of-vitamin-d)
 
 * [Diabetic Neuropathy sometimes can be reversed by vitamin D](/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d)
 
-* <a href="/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019">Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019</a>
+* [Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019](/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct)
 
 </div>
 

@@ -44,7 +44,7 @@ Department of Oral Health Sciences, School of Dentistry, Department of Epidemiol
 
 Vitamin D has been used to prevent and treat dental caries. The objective of this study was to conduct a systematic review of controlled clinical trials (CCTs) assessing the impact of vitamin D on dental caries prevention. Random-effects and meta-regression models were used to evaluate overall and subgroup-specific relative-rate estimates. Twenty-four CCTs encompassing 2,827 children met the inclusion criteria. Twenty-two of the 24 CCTs predated modern clinical trial design, some of which nonetheless reported characteristics such as pseudo-randomization (n = 2), blinding (n = 4), or use of placebos (n = 8). The relative-rate estimates of the 24 CCTs exhibited significant heterogeneity (P < 0.0001), and there was evidence of significant publication bias (P < 0.001). The pooled relative-rate estimate of supplemental vitamin D was 0.53 (95% CI, 0.43–0.65). No robust differences were identified between the caries-preventive effects of vitamin D2, vitamin D3, and ultraviolet radiation (Prob > F = 0.22). The analysis of CCT data identified vitamin D as a promising caries-preventive agent, leading to a low-certainty conclusion that vitamin D may reduce the incidence of caries.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1111/j.1753-4887.2012.00544.x** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1111/j.1753-4887.2012.00544.x** 
 
 ---
 

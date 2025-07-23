@@ -24,10 +24,8 @@
         "breathing",
         "child",
         "childhood pneumonia",
-        "childhood respiratory",
         "childhood viruses",
         "cognitive",
-        "cystic fibrosis",
         "dosage",
         "genetics",
         "hay fever",
@@ -38,7 +36,6 @@
         "multiple sclerosis",
         "pediatric autoimmune",
         "pneumonia",
-        "respiratory",
         "therapeutic intervention",
         "tuberculosis",
         "virus",
@@ -55,7 +52,7 @@
 
 * It might also help with other breathing problems proven to be helped by oral Vitamin D: 
 
-> <a href="/posts/pneumonia-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pneumonia and low vitamin D - many studies">pneumonia</a>, <a href="/posts/respiratory-infection-children-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory infection, children and Vitamin D - many studies">RTI</a>, <a href="/posts/cystic-fibrosis-hay-fever-allergic-rhinitis-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cystic Fibrosis)), ((Hay fever (Allergic Rhinitis) and Vitamin D - many studies">Hay Fever</a>, <a href="/posts/recurrent-wheezing-in-children-is-associated-with-low-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Recurrent Wheezing in children is associated with low Vitamin D – several studies">Wheezing</a>, <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">TB</a>, <a href="/posts/overview-colds-and-flu-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Colds and flu and Vitamin D">Respiratory Virus</a>, and [COPD](/posts/copd-fought-by-vitamin-d-many-studies).
+> [pneumonia](/posts/pneumonia-and-low-vitamin-d-many-studies), [RTI](/posts/respiratory-infection-children-and-vitamin-d-many-studies), [Hay Fever](/tags/hay-fever.html), [Wheezing](/posts/recurrent-wheezing-in-children-is-associated-with-low-vitamin-d-several-studies), [TB](/posts/overview-tuberculosis-and-vitamin-d), [Respiratory Virus](/posts/overview-colds-and-flu-and-vitamin-d), and [COPD](/posts/copd-fought-by-vitamin-d-many-studies).
 
 * The benefits of 5 seconds of inhaled vitamin D are felt in less than 2 minutes. 
 
@@ -147,13 +144,13 @@ This study was aimed to explore whether the 1,25D3 counteracted the CSE effects 
 
 In conclusion, the present study provides compelling evidences that the 1,25D3 may be considered a possible valid therapeutic option in controlling the cigarette smoke-induced epithelial barrier disruption.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1016/j.cellimm.2015.03.004** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1016/j.cellimm.2015.03.004** 
 
 ---
 
 #### Intranasal emulsions (Vitamin D in the future?)
 
-* in VitaminDWiki <a href="/posts/nasal-vitamin-b12-treatment-for-children-perhaps-nasal-vitamin-d-too" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nasal Vitamin B12 treatment for children (perhaps nasal Vitamin D too) – Nov 2019">Nasal Vitamin B12 treatment for children (perhaps nasal Vitamin D too) – Nov 2019</a>
+* in VitaminDWiki [Nasal Vitamin B12 treatment for children (perhaps nasal Vitamin D too) – Nov 2019](/posts/nasal-vitamin-b12-treatment-for-children-perhaps-nasal-vitamin-d-too)
 
 * C. V. Pardeshi and V. S. Belgamwar, “Direct nose to brain drug delivery via integrated nerve pathways bypassing the blood-brain barrier: An excellent platform for brain targeting,” Expert Opinion on Drug Delivery, vol. 10, no. 7, pp. 957–972, 2013. 
 

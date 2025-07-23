@@ -26,19 +26,19 @@ Mustafa Kemal Kilic, , , Muhammet Cemal Kizilarslanoglu, Ozgur Kara, Gunes Arik,
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/urgency-urinary-incontinence-in-senior-black-women-decreased-40-percent-by-weekl-u-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Urgency Urinary Incontinence in senior black women decreased 40 percent by weekly 50,000 IU vitamin D – RCT Dec 2018">Urgency Urinary Incontinence in senior black women decreased 40 percent by weekly 50,000 IU vitamin D – RCT Dec 2018</a>
+* [Urgency Urinary Incontinence in senior black women decreased 40 percent by weekly 50,000 IU vitamin D – RCT Dec 2018](/posts/urgency-urinary-incontinence-in-senior-black-women-decreased-40-percent-by-weekl-u-vitamin-d-rct)
 
 * [Search VitaminDWiki for INCONTINENCE](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=incontenance&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 78 items as of April 2016
 
-* <a href="/posts/pelvic-floor-disorder-strongly-associated-with-lower-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pelvic floor disorder strongly associated with lower vitamin D – March 2012">Pelvic floor disorder strongly associated with lower vitamin D – March 2012</a>
+* [Pelvic floor disorder strongly associated with lower vitamin D – March 2012](/posts/pelvic-floor-disorder-strongly-associated-with-lower-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-urinary-incontinence-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and urinary incontinence - many studies">Vitamin D and urinary incontinence - many studies</a>
+* [Vitamin D and urinary incontinence - many studies](/posts/vitamin-d-and-urinary-incontinence-many-studies)
 
-* <a href="/posts/2x-less-urinary-incontinence-in-senior-women-when-vitamin-d-greater-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X less urinary incontinence in senior women when vitamin D greater than 30 ng– April 2010">2X less urinary incontinence in senior women when vitamin D greater than 30 ng– April 2010</a>
+* [2X less urinary incontinence in senior women when vitamin D greater than 30 ng– April 2010](/posts/2x-less-urinary-incontinence-in-senior-women-when-vitamin-d-greater-than-30-ng)
 
-* <a href="/posts/prostate-and-urinary-systems-much-better-with-higher-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prostate and Urinary systems much better with higher vitamin D – many studies">Prostate and Urinary systems much better with higher vitamin D – many studies</a>
+* [Prostate and Urinary systems much better with higher vitamin D – many studies](/posts/prostate-and-urinary-systems-much-better-with-higher-vitamin-d-many-studies)
 
-* <a href="/posts/overactive-bladder-32-x-more-likely-if-very-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overactive bladder 32 X more likely if very low vitamin D – April 2019">Overactive bladder 32 X more likely if very low vitamin D – April 2019</a>
+* [Overactive bladder 32 X more likely if very low vitamin D – April 2019](/posts/overactive-bladder-32-x-more-likely-if-very-low-vitamin-d)
 
 </div>
 

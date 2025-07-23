@@ -58,15 +58,15 @@ PMID:     24324493
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamindwiki-pages-containing-50000-in-title" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5217">VitaminDWiki pages containing "50,000" in title</a> 163 as of Dec 2021
+* [VitaminDWiki pages containing "50,000" in title](/tags/vitamindwiki-pages-containing-50000-in-title.html) 163 as of Dec 2021
 
 * [7100 IU (50000 weekly) got most women to 30 ng of vitamin D - Aug 2012](/posts/7100-iu-50000-weekly-got-most-women-to-30-ng-of-vitamin-d) 4X as many IU to get most to 30 ng
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a> many obese will need 50,000 IU weekly to get to the same level as this study of non-obese participants
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d) many obese will need 50,000 IU weekly to get to the same level as this study of non-obese participants
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials)
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a>
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
 > Several forms of vitamin D allow people with poor guts to get the benefits of vitamin D
 

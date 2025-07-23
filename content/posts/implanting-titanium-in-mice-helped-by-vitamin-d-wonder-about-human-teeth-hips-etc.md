@@ -61,4 +61,4 @@ Perhaps vitamin will help with healing/integration with titanium in humans as we
 
 ## See also VitaminDWiki
 
-* <a href="/posts/better-total-hip-replacement-if-have-high-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Better total hip replacement if have high vitamin D">Better total hip replacement if have high vitamin D</a>
+* [Better total hip replacement if have high vitamin D](/posts/better-total-hip-replacement-if-have-high-vitamin-d)

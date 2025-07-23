@@ -62,13 +62,13 @@ PMID:     24298597  (PDF is behind a paywall)
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>  18 recommendations of blood levels from around the world
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)  18 recommendations of blood levels from around the world
 
-* <a href="/posts/saudi-study-defines-normal-vitamin-d-level-to-be-50-to-70-ng-diabetes-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Saudi study defines normal Vitamin D level to be 50 to 70 ng (diabetes, etc.) - June 2020">Saudi study defines normal Vitamin D level to be 50 to 70 ng (diabetes, etc.) - June 2020</a>
+* [Saudi study defines normal Vitamin D level to be 50 to 70 ng (diabetes, etc.) - June 2020](/posts/saudi-study-defines-normal-vitamin-d-level-to-be-50-to-70-ng-diabetes-etc)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a> probably >95% of the dark skin people in France have less than 30 ng
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d) probably >95% of the dark skin people in France have less than 30 ng
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a> which has the following two charts
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough) which has the following two charts
 
 <img src="/attachments/d3.mock.jpg" alt="image">	
 

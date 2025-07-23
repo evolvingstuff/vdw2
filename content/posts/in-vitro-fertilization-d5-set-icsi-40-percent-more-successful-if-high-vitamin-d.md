@@ -108,4 +108,4 @@ PMID: 25121462
 
 * [Fertility and Vitamin D – several articles](/posts/fertility-and-vitamin-d-several-articles)
 
-* <a href="/posts/clinical-trial-vitamin-d-levels-and-ivf-success" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Clinical Trial vitamin D levels and IVF success – May 2011">Clinical Trial vitamin D levels and IVF success – May 2011</a> 52% vs 35% - very similar to the study on this page
+* [Clinical Trial vitamin D levels and IVF success – May 2011](/posts/clinical-trial-vitamin-d-levels-and-ivf-success) 52% vs 35% - very similar to the study on this page

@@ -46,13 +46,13 @@ Are they afraid of a similar problem as in Australia?
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/hip-fractures-reduced-16-to-33-percent-by-any-amount-of-vitamin-d-and-calcium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hip fractures reduced 16 to 33 percent by any amount of Vitamin D and Calcium – Oct 2019">Hip fractures reduced 16 to 33 percent by any amount of Vitamin D and Calcium – Oct 2019</a>
+* [Hip fractures reduced 16 to 33 percent by any amount of Vitamin D and Calcium – Oct 2019](/posts/hip-fractures-reduced-16-to-33-percent-by-any-amount-of-vitamin-d-and-calcium)
 
 * [Hip fractures reduced 2X to 6X with just 10 minutes of sunlight daily – RCT 2003-2010](/posts/hip-fractures-reduced-2x-to-6x-with-just-10-minutes-of-sunlight-daily-rct-2003-2010)
 
    * Far more benefit from 10 minutes of sunshine than 800 IU of vitamin D
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a> 2000 IU is far better than 800 IU
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d) 2000 IU is far better than 800 IU
 
 * [Vitamin D prevents falls – majority of meta-analyses conclude – meta-meta analysis Feb 2015](/posts/vitamin-d-prevents-falls-majority-of-meta-analyses-conclude-meta-meta-analysis)
 
@@ -64,7 +64,7 @@ Are they afraid of a similar problem as in Australia?
 
 * [800 IU of vitamin D does not prevent falls (nope, need at least 2,000) - March 2015](/posts/800-iu-of-vitamin-d-does-not-prevent-falls-nope-need-at-least-2000)
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>  has the following quote from Upton Sinclair
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)  has the following quote from Upton Sinclair
 
 >  **"It is difficult to get a man to understand something   
 &nbsp; &nbsp; &nbsp; when his salary is dependent upon his not understanding it”** 

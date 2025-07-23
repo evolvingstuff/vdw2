@@ -44,7 +44,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/wonder-about-conflict-of-interest-of-iom-panel-members" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Wonder about conflict of interest of IoM panel members">Wonder about conflict of interest of IoM panel members</a>
+* [Wonder about conflict of interest of IoM panel members](/posts/wonder-about-conflict-of-interest-of-iom-panel-members)
 
 ## See also web
 

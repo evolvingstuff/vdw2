@@ -32,7 +32,7 @@ Sophia Traven, MD1, , , Alexander Chiaramonti, MD1, William Barfield, PhD1, Patr
 
 * [Search VitaminDWiki for (Hip OR Knee) Arthroplasty](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%28Hip+OR+Knee%29+Arthroplasty&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 143 hits as of May 2018
 
-* <a href="/posts/knee-arthroplasty-complications-were-2-x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Knee Arthroplasty complications were 2 X more likely if low vitamin D -May 2018">Knee Arthroplasty complications were 2 X more likely if low vitamin D -May 2018</a>
+* [Knee Arthroplasty complications were 2 X more likely if low vitamin D -May 2018](/posts/knee-arthroplasty-complications-were-2-x-more-likely-if-low-vitamin-d)
 
 * [Total hip replacement: 14 times more likely to redo if low vitamin D – March 2017](/posts/total-hip-replacement-14-times-more-likely-to-redo-if-low-vitamin-d) - free !
 

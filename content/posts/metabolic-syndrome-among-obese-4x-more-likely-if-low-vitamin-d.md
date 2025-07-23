@@ -57,10 +57,10 @@ This indicates that the association between low 25(OH) D3 levels and MS is not m
 
 * [Metabolic syndrome is associated with vitamin D independently of obesity – 2012](/posts/metabolic-syndrome-is-associated-with-vitamin-d-independently-of-obesity-2012)
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Metabolic Syndrome 10% less likely for every 4 ng increase in Vitamin D – Jan 2013](/posts/metabolic-syndrome-10-percent-less-likely-for-every-4-ng-increase-in-vitamin-d)
 
 * [2.7X more likely to have low level of vitamin D if have Metabolic Syndrome – Nov 2012](/posts/27x-more-likely-to-have-low-level-of-vitamin-d-if-have-metabolic-syndrome)
 
-* <a href="/posts/sudden-death-6x-more-likely-with-metabolic-syndrome-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sudden death 6X more likely with Metabolic Syndrome and low vitamin D - March 2012">Sudden death 6X more likely with Metabolic Syndrome and low vitamin D - March 2012</a>
+* [Sudden death 6X more likely with Metabolic Syndrome and low vitamin D - March 2012](/posts/sudden-death-6x-more-likely-with-metabolic-syndrome-and-low-vitamin-d)

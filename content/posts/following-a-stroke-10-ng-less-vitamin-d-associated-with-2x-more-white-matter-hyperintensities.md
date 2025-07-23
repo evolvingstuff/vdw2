@@ -75,11 +75,11 @@ PMID: 25424481
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 * [Brains of seniors had 60 percent more white matter abnormalities if low vitamin D – March 2015](/posts/brains-of-seniors-had-60-percent-more-white-matter-abnormalities-if-low-vitamin-d)
 
-* <a href="/posts/white-matter-hyperintensities-brain-18x-more-likely-if-10-ng-less-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: White Matter Hyperintensities (brain) 1.8X more likely if 10 ng less vitamin D - meta-analysis Jan 2022">White Matter Hyperintensities (brain) 1.8X more likely if 10 ng less vitamin D - meta-analysis Jan 2022</a>
+* [White Matter Hyperintensities (brain) 1.8X more likely if 10 ng less vitamin D - meta-analysis Jan 2022](/posts/white-matter-hyperintensities-brain-18x-more-likely-if-10-ng-less-vitamin-d-meta-analysis)
 
 #### See also web
 

@@ -28,19 +28,19 @@
 
 ### It is far far cheaper and safer to get Vitamin D without a Suncation
 
-### 4 quarters ($1.00) will buy 200,000 IU of <a href="/posts/vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">vitamin D</a>
+### 4 quarters ($1.00) will buy 200,000 IU of [vitamin D](/tags/vitamin-d.html)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/200000iu.jpg" alt="image" style="max-width: 300px;">
 
 ### It is virtually impossible to get 200,000 IU of vitamin D during a 2 week Suncation without damaging your skin
 
-Skin damage occurs when you get too much sun - <a href="/posts/which-can-happen-with-as-little-as-10-minutes-per-day" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">which can happen with as little as 10 minutes per day</a>
+Skin damage occurs when you get too much sun - [which can happen with as little as 10 minutes per day](/tags/which-can-happen-with-as-little-as-10-minutes-per-day.html)
 
 ### But
 
-* <a href="/posts/benefits-of-sun-are-more-than-just-vitamin-d-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3262">Benefits of sun are more than just vitamin D – 2008</a>
+* [Benefits of sun are more than just vitamin D – 2008](/tags/benefits-of-sun-are-more-than-just-vitamin-d-2008.html)
 
-* <a href="/posts/opinion-sun-better-than-uv-better-than-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 747">Opinion: sun better than UV better than vitamin D</a>
+* [Opinion: sun better than UV better than vitamin D](/posts/opinion-sun-better-than-uv-better-than-vitamin-d)
 
 * [Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013](/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013)
 

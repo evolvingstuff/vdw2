@@ -63,7 +63,7 @@ This article is protected by copyright. All rights reserved.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/respiratory-tract-infection-risk-reduced-2x-by-vitamin-d-loading-doses-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021">Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021</a>
+* [Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021](/posts/respiratory-tract-infection-risk-reduced-2x-by-vitamin-d-loading-doses-meta-analysis)
 
 * [Respiratory infections reduced by 63 percent with 4000 IU vitamin D daily - RCT Dec 2012](/posts/respiratory-infections-reduced-by-63-percent-with-4000-iu-vitamin-d-daily-rct)
 
@@ -75,4 +75,4 @@ This article is protected by copyright. All rights reserved.
 
 * [Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012](/posts/vitamin-d-reduces-respiratory-tract-infections-by-40-percent-meta-analysis)
 
-* <a href="/posts/reduced-viral-respiratory-tract-infections-by-half-by-having-more-than-38-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010">Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010</a>
+* [Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010](/posts/reduced-viral-respiratory-tract-infections-by-half-by-having-more-than-38-ng-of-vitamin-d)

@@ -62,7 +62,7 @@ M.Sc, PhD Biochemistry; Associate Professor, Department of Biochemistry, Vivekan
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/metabolic-syndrome-indicators-inversely-proportional-to-vitamin-d-below-46-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metabolic Syndrome indicators inversely proportional to vitamin D below 46 ng – Nov 2018">Metabolic Syndrome indicators inversely proportional to vitamin D below 46 ng – Nov 2018</a>
+* [Metabolic Syndrome indicators inversely proportional to vitamin D below 46 ng – Nov 2018](/posts/metabolic-syndrome-indicators-inversely-proportional-to-vitamin-d-below-46-ng)
 
 * [Obese youths 2X less likely to develop Metabolic Syndrome if take Omega-3 – RCT April 2016](/posts/obese-youths-2x-less-likely-to-develop-metabolic-syndrome-if-take-omega-3-rct)
 
@@ -74,7 +74,7 @@ M.Sc, PhD Biochemistry; Associate Professor, Department of Biochemistry, Vivekan
 
 * [Metabolic Syndrome risk decreases 12 percent with 150 mg of Magnesium – meta-analysis Dec 2014](/posts/metabolic-syndrome-risk-decreases-12-percent-with-150-mg-of-magnesium-meta-analysis)
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade) - with charts
 

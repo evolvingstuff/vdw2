@@ -43,6 +43,6 @@ PMID:     22227619
 
 * [Age-related cognitive decline in rats mitigated by Vitamin D intervention – RCT Oct 2012](/posts/age-related-cognitive-decline-in-rats-mitigated-by-vitamin-d-intervention-rct)
 
-* <a href="/posts/senior-moment-25x-more-likely-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Senior moment" 25X more likely with low vitamin D - Feb 2012">"Senior moment" 25X more likely with low vitamin D - Feb 2012</a>
+* ["Senior moment" 25X more likely with low vitamin D - Feb 2012](/posts/senior-moment-25x-more-likely-with-low-vitamin-d)
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)

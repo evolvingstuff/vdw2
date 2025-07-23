@@ -57,11 +57,11 @@ Journal of the American Heart Association, 2016;5:e004245 http://dx.doi.org/10.1
 
 ### See also VitaminDWiki
 
-* <a href="/posts/stroke-rate-increased-85-percent-in-young-women-in-large-cities-in-the-western-us-in-a-decade" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stroke rate increased 85 percent in young women in large cities in the Western US in a decade – June 2017">Stroke rate increased 85 percent in young women in large cities in the Western US in a decade – June 2017</a>
+* [Stroke rate increased 85 percent in young women in large cities in the Western US in a decade – June 2017](/posts/stroke-rate-increased-85-percent-in-young-women-in-large-cities-in-the-western-us-in-a-decade)
 
 * [Vitamin D associated with 50 percent less ischemic stroke – meta-analysis Aug 2012](/posts/vitamin-d-associated-with-50-percent-less-ischemic-stroke-meta-analysis)
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 * [Ischaemic stroke – Vitamin D doubled survival (Injection followed by monthly 60,000 IU) – RCT Aug 2016](/posts/ischaemic-stroke-vitamin-d-doubled-survival-injection-followed-by-monthly-60000-iu-rct)
 

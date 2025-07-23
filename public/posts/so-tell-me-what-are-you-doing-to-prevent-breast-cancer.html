@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset=utf-8><title>So Tell Me . . . What Are You Doing to Prevent Breast Cancer</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>So Tell Me . . . What Are You Doing to Prevent Breast Cancer</h1><time>June 2, 2017</time><div data-pagefind-body><h4 id=so-tell-me----what-are-you-doing-to-prevent-breast-cancerhttpimpactofvitamindcomtell-prevent-breast-cancer><a href=http://impactofvitamind.com/tell-prevent-breast-cancer/>So Tell Me . . . What Are You Doing to Prevent Breast Cancer?</a></h4><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/what-are-you-doing-to-prevent-breast-cancer-july-2017.pdf>You can also download his July 2017 PDF from VitaminDWiki</a></strong></p><p>Blog Post by Eugene Heyden</p><p>&ldquo;As a post-surgical recovery nurse, I see it almost every day in my nursing practice. I wish so many did not have to be so brave.&rdquo;</p><p><strong>His published books include</strong></p><p>Preventing Birth Defects: Understanding the Iodine/Thyroid Hormone Connection</p><p>More To Consider In The Battle Against Crohn&rsquo;s</p><p>The Impact of Vitamin D Deficiency</p><p>Mommy, Me and Vitamin D</p><p><strong>He has a good overview of studies of Breast Cancer prevention/treatment by</strong></p><ul><li><p>Vitamin D</p></li><li><p>Iodine</p></li><li><p>Iron</p></li><li><p>Stop Smoking</p></li></ul><hr><h4 id=his-references>His references</h4><ul><li><p>Aceves C, Anguiano B, Delgado G 2005 Is Iodine a Gatekeeper of the Integrity of the Mammary Gland? Journal of Mammary Gland Biology and Neoplasia. Apr 1; 10(2):189–196</p></li><li><p>Anguiano B, Aceves C 2011 Iodine in Mammary and Prostate Pathologies. Current Chemical Biology. Sep 1; 5(3):177–182</p></li><li><p>Crew KD, Gammon MD, Steck SE, Hershman DL, Cremers S, Dworakowski E, Shane E, Terry MB, Desai M, Teitelbaum SL, Neugut AI 2009 Association Between Plasma 25-Hydroxyvitamin D and Breast Cancer Risk. Cancer Prevention Research. Jun 1; 2(6):598–604</p></li><li><p>Cui Y, Rohan TE 2006 Vitamin D, Calcium, and Breast Cancer Risk: A Review. Cancer Epidemiol Biomarkers Prev 15(18):1427–1437</p></li><li><p>Diallo A, Deschasaux M, Partula V, Latino-Martel P, Srour B, Hercberg S, Galan P, Fassier P, Guéraud F, Pierre FH, Touvier M 2016 Dietary iron intake and breast cancer risk: modulation by an antioxidant supplementation. Oncotarget. Oct 12; 7(48):79008–79016</p></li><li><p>Gaudet MM, Gapstur SM, Sun J, Diver WR, Hannan LM, Thun MJ 2013 Active Smoking and Breast Cancer Risk: Original Cohort Data and Meta-Analysis. Journal of the National Cancer Institute. Feb 28: djt023</p></li><li><p>Gerber B, Müller H, Reimer T, Krause A, Friese K 2003 Nutrition and Lifestyle Factors on the Risk of Developing Breast Cancer. Breast Cancer Research and Treatment. May 1; 79(2):265–276</p></li><li><p>Holick MF, Chen TC 2008 Vitamin D Deficiency: A Worldwide Problem with Health Consequences. The American Journal of Clinical Nutrition. Apr 1; 87(4):1080S–1086S</p></li><li><p>Jian J, Yang Q, Dai J, Eckard J, Axelrod D, Smith J, Huang X 2011 Effects of Iron Deficiency and Iron Overload on Angiogenesis and Oxidative Stress—A Potential Dual Role for Iron in Breast Cancer. Free Radical Biology and Medicine. Apr 1; 50(7):841–847</p></li><li><p>Kitagishi Y, Kobayashi M, Matsuda S 2013 Defective DNA Repair Systems and the Development of Breast and Prostate Cancer (Review). International Journal of Oncology. Jan 1; 42(1):29–34</p></li><li><p>Liehr JG, Jones J 2001 Role of Iron in Estrogen-Induced Cancer. Current Medicinal Chemistry. Jun 1; 8(7):839–49</p></li><li><p>McDonnell SL, Baggerly C, French CB, Baggerly LL, Garland CF, Gorham ED, Lappe JM, Heaney RP 2016 Serum 25-Hydroxyvitamin D Concentrations ≥ 40 ng/mL Are Associated with > 65% Lower Cancer Risk: Pooled Analysis of Randomized Trial and Prospective Cohort Study. PloS one. Apr 6; 11(4):e0152441</p></li><li><p>Moore AB, Shannon J, Chen C, Lampe JW, Ray RM, Lewis SK, Lin M, Stalsberg H, Thomas DB 2009 Dietary and Stored Iron as Predictors of Breast Cancer Risk: A Nested Case-Control Study in Shanghai. International Journal of Cancer. Sep 1; 125(5):1110–1117</p></li><li><p>Pearce EN, Anderson M, Zimmerman MB 2013 Global Iodine Nutrition: Where Do We Stand in 2013? Thyroid. 23(5):523–528</p></li><li><p>Pierce BL, Ballard-Barbash R, Bernstein L, Baumgartner RN, Neuhouser ML, Wener MH, Baumgartner KB, Gilliland FD, Sorensen BE, McTiernan A, Ulrich CM 2009 Elevated Biomarkers of Inflammation Are Associated with Reduced Survival Among Breast Cancer Patients. Journal of Clinical Oncology. May 26; 27(21):3437–3444</p></li><li><p>Rappaport J. 2017 Changes in Dietary Iodine Explains Increasing Incidence of Breast Cancer with Distant Involvement in Young Women. Journal of Cancer. 8(2):174–177 <strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/iodine-breast-cancer-2017.pdf>download PDF from VitaminDWiki</a></strong></p></li><li><p>Reynolds P, Hurley S, Goldberg DE, Anton-Culver H, Bernstein L, Deapen D, Horn-Ross PL, Peel D, Pinder R, Ross RK, West D 2004 Active Smoking, Household Passive Smoking, and Breast Cancer: Evidence from the California Teachers Study. Journal of the National Cancer Institute. Jan 7; 96(1):29–37</p></li><li><p>Shao T, Klein P, Grossbard M 2012 Vitamin D and Breast Cancer. The Oncologist. Jan 1; 17(1):36–45</p></li><li><p>Smyth PP 2003 The Thyroid, Iodine and Breast Cancer. Breast Cancer Research. Jul 29; 5(5):235–238</p></li><li><p>Teng X, Shan Z, Chen Y, Lai Y, Yu J, Shan L, Bai X, et al 2011 More Than Adequate Iodine Intake May Increase Subclinical Hypothyroidism and Autoimmune Thyroiditis: A Cross-Sectional Study Based on Two Chinese Communities with Different Iodine Intake Levels. European Journal of Endocrinology 164:943–950</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/autoimmune-and-pregnancy.html><span class=tag>autoimmune and pregnancy</span></a>
+<a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>Breast Cancer</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cystic-fibrosis.html><span class=tag>cystic fibrosis</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/iodine.html><span class=tag>iodine</span></a>
+<a href=/tags/iodine.html><span class=tag>Iodine</span></a>
+<a href=/tags/iron.html><span class=tag>Iron</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/prostate-cancer.html><span class=tag>prostate cancer</span></a>
+<a href=/tags/smoking.html><span class=tag>smoking</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>autoimmune, autoimmune and pregnancy, blood levels, breast cancer, Breast Cancer, breathing, cancer, cystic fibrosis, health risk, high dose, intervention, iodine, Iodine, Iron, pregnancy, prostate cancer, smoking, therapeutic intervention, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

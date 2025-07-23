@@ -76,7 +76,7 @@ It is in the middle of the column on the left
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 700px;">
 
-### <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2698">CLICK HERE</a> to magnify the poster
+### [CLICK HERE](/tags/click-here.html) to magnify the poster
 
 ## Recent blog posts
 
@@ -692,4 +692,4 @@ months &ndash; May 2012</SPAN></U></SPAN></FONT></FONT></FONT></A></P>
 
 </HTML>
 
-## <a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2672">CLICK HERE</a> for  **April**  2012 summary
+## [CLICK HERE](/tags/click-here.html) for  **April**  2012 summary

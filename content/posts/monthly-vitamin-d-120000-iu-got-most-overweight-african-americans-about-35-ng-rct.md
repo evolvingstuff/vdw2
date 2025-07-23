@@ -56,9 +56,9 @@ Jigar Bhagatwala12, Haidong Zhu1, Samip J. Parikh12, De-Huang Guo1, Ishita Kotak
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials)
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a>
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly)
 
-* <a href="/posts/overview-how-often-to-take-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Overview How Often to take vitamin D</a> 
+* [Overview How Often to take vitamin D](/tags/overview-how-often-to-take-vitamin-d.html) 
 
 </div>
 

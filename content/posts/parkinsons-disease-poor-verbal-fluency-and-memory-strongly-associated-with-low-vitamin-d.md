@@ -78,7 +78,7 @@ PMID:     24081441
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson's and Vitamin D</a>
+* [Overview Parkinson's and Vitamin D](/posts/overview-parkinsons-and-vitamin-d)
 
 * [Increased word fluency associated with higher levels of vitamin D (40 ng and higher) – Dec 2015](/posts/increased-word-fluency-associated-with-higher-levels-of-vitamin-d-40-ng-and-higher)
 

@@ -1,0 +1,197 @@
+{
+    "title": "50,000 IU of Vitamin D weekly greatly decreased bone loss from prostate cancer therapy - RCT",
+    "slug": "50000-iu-of-vitamin-d-weekly-greatly-decreased-bone-loss-from-prostate-cancer-therapy-rct",
+    "aliases": [
+        "/50000+IU+of+Vitamin+D+weekly+greatly+decreased+bone+loss+from+prostate+cancer+therapy+-+RCT+March+2024",
+        "/15166"
+    ],
+    "tiki_page_id": 15166,
+    "date": "2024-03-24",
+    "categories": [
+        "Bone",
+        "Prostate Cancer"
+    ],
+    "tags": [
+        "Bone",
+        "Prostate Cancer",
+        "autoimmune",
+        "blood levels",
+        "bone",
+        "bone cancer",
+        "bone loss",
+        "bone mineral density",
+        "breast cancer",
+        "cancer",
+        "diabetes",
+        "dosage",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "metabolic",
+        "metabolic conditions",
+        "metabolic syndrome",
+        "multiple sclerosis",
+        "osteoporosis",
+        "pain",
+        "prostate cancer",
+        "rheumatoid arthritis",
+        "therapeutic intervention",
+        "vitamin d",
+        "vitamin d blood test"
+    ]
+}
+
+
+{{< toc >}}
+
+---
+
+#### High-dose vitamin D to attenuate bone loss in patients with prostate cancer on androgen deprivation therapy: A phase 2 RCT
+
+Cancer . 2024 Mar 23. [doi: 10.1002/cncr.35275](https://doi.org/10.1002/cncr.35275) PDF is behind a paywall
+
+Luke J Peppone 1 2, Amber S Kleckner 3, Chunkit Fung 4, J Edward Puzas 2, Jennifer E Reschke 1, Eva Culakova 1, Julia Inglis 5, Charles Kamen 1, Jonathan W Friedberg 4, Michelle Janelsins 1, Karen Mustian 1, Charles E Heckler 1, Supriya Mohile 4
+
+Background: Androgen deprivation therapy (ADT) inhibits prostate cancer growth. However, ADT causes loss of bone mineral density (BMD) and an increase in fracture risk; effective interventions for ADT-induced bone loss are limited.
+
+Methods: A phase 2 randomized controlled trial investigated the feasibility, safety, and preliminary efficacy of high-dose weekly vitamin D (HDVD, 50,000 IU/week) versus placebo for 24 weeks in patients with prostate cancer receiving ADT, with all subjects receiving 600 IU/day vitamin D and 1000 mg/day calcium. Participants were ≥60 years (mean years, 67.7), had a serum 25-hydroxyvitamin D level <32 ng/mL, and initiated ADT within the previous 6 months. At baseline and after intervention, dual-energy x-ray absorptiometry was used to assess BMD, and levels of bone cell, bone formation, and resorption were measured.
+
+Results: The HDVD group (N = 29) lost  **1.5% BMD at the total hip vs. 4.1%** for the low-dose group (N = 30; p = .03) 
+
+And **1.7% BMD at the femoral neck vs. 4.4%**  in the low-dose group (p = .06).
+
+Stratified analyses showed that, for those with baseline 25-hydroxyvitamin D level <27 ng/mL, the HDVD group lost 2.3% BMD at the total hip vs 7.1% for the low-dose group (p < .01). Those in the HDVD arm showed significant changes in parathyroid hormone (p < .01), osteoprotegerin (p < 0.01), N-terminal telopeptide of type 1 collagen (p < 0.01) and C-terminal telopeptide of type 1 collagen (p < 0.01). No difference in adverse events or toxicity was noted between the groups.
+
+Conclusions: HDVD supplementation significantly reduced hip and femoral neck BMD loss, especially for patients with low baseline serum 25-hydroxyvitamin D levels, although demonstrating safety and feasibility in prostate cancer patients on ADT.
+
+---
+
+##### 64 References
+
+1. Eastham JA. Bone health in men receiving androgen deprivation therapy for prostate cancer. J Urol. 2007;177(1):17‐24. doi:10.1016/j.juro.2006.08.089
+
+1. Mohile SG, Lachs M, Dale W. Management of prostate cancer in the older man. Semin Oncol. 2008;35(6):597‐617. S0093‐7754(08)00186‐3 <span>[pii]</span>. doi:10.1053/j.seminoncol.2008.08.003
+
+1. Mohile SG, Mustian K, Bylow K, Hall W, Dale W. Management of complications of androgen deprivation therapy in the older man. Crit Rev Oncol Hematol. 2009;70(3):235‐255. S1040‐8428(08)00216‐3 <span>[pii]</span>. doi:10.1016/j.critrevonc.2008.09.004
+
+1. Mohile SG, Petrylak DP. Management of asymptomatic rise in prostatic‐specific antigen in patients with prostate cancer. Curr Oncol Rep. 2006;8(3):213‐220. doi:10.1007/s11912‐006‐0022‐8
+
+1. Cooperberg MR, Lubeck DP, Meng MV, Mehta SS, Carroll PR. The changing face of low‐risk prostate cancer: trends in clinical presentation and primary management. J Clin Oncol. 2004;22(11):2141‐2149. JCO.2004.10.062 <span>[pii]</span>. doi:10.1200/JCO.2004.10.062
+
+1. Cianferotti L, Bertoldo F, Carini M, et al. The prevention of fragility fractures in patients with non‐metastatic prostate cancer: a position statement by the international osteoporosis foundation. Oncotarget. 2017;8(43):75646‐75663. doi:10.18632/oncotarget.17980
+
+1. Sharifi N, Gulley JL, Dahut WL. Androgen deprivation therapy for prostate cancer. JAMA. 2005;294(2):238‐244. doi:10.1001/jama.294.2.238
+
+1. Greenspan SL, Coates P, Sereika SM, Nelson JB, Trump DL, Resnick NM. Bone loss after initiation of androgen deprivation therapy in patients with prostate cancer.J Clin Endocrinol Metab. 2005;90(12):6410‐6417. doi:10.1210/jc.2005‐0183
+
+1. Hannan MT, Felson DT, Anderson JJ. Bone mineral density in elderly men and women: results from the Framingham osteoporosis study.J Bone Miner Res. 1992;7(5):547‐553. doi:10.1002/jbmr.5650070511
+
+1. Israeli RS, Ryan CW, Jung LL. Managing bone loss in men with locally advanced prostate cancer receiving androgen deprivation therapy.J Urol. 2008;179(2):414‐423. doi:10.1016/j.juro.2007.09.028
+
+1. Slemenda CW, Christian JC, Reed T, Reister TK, Williams CJ, Johnston CC Jr. Long‐term bone loss in men: effects of genetic and environmental factors.Ann Intern Med. 1992;117(4):286‐291. doi:10.7326/0003‐4819‐117‐4‐286
+
+1. Panju AH, Breunis H, Cheung AM, et al. Management of decreased bone mineral density in men starting androgen‐deprivation therapy for prostate cancer.BJU Int. 2009;103(6):753‐757. doi:10.1111/j.1464‐410X.2008.08156.x
+
+1. Kim DK, Lee JY, Kim KJ, et al. Effect of androgen‐deprivation therapy on bone mineral density in patients with prostate cancer: a systematic review and meta‐analysis. J Clin Med. 2019;8(1):113. doi:10.3390/jcm8010113
+
+1. Segal RJ, Reid RD, Courneya KS, et al. Resistance exercise in men receiving androgen deprivation therapy for prostate cancer. J Clin Oncol. 2003;21(9):1653‐1659. doi:10.1200/JCO.2003.09.534
+
+1. Smith MR. Changes in fat and lean body mass during androgen‐deprivation therapy for prostate cancer. Urology. 2004;63(4):742‐745. doi:10.1016/j.urology.2003.10.063
+
+1. Galvao DA, Spry NA, Taaffe DR, et al. Changes in muscle, fat and bone mass after 36 weeks of maximal androgen blockade for prostate cancer. BJU Int. 2008;102(1):44‐47. doi:BJU7539 <span>[pii]</span>. doi:10.1111/j.1464‐410X.2008.07539.x
+
+1. Melton LJ, 3rd, Lieber MM, Atkinson EJ, et al. Fracture risk in men with prostate cancer: a population‐based study.J Bone Miner Res. 2011;26(8):1808‐1815. doi:10.1002/jbmr.405
+
+1. Ziaran S, Goncalves FM, Breza JS. Bone mineral density, pathological fractures and bisphosphonate therapy in prostate cancer patients on androgen deprivation therapy. Endocr Regul. 2011;45(4):199‐204. doi:10.4149/endo_2011_04_199
+
+1. van Oostwaard MM, van den Bergh JP, van de Wouw Y, Janssen‐Heijnen M, de Jong M, Wyers CE. High prevalence of vertebral fractures at initiation of androgen deprivation therapy for prostate cancer. J Bone Oncol. 2023;38:100465. doi:10.1016/j.jbo.2022.100465
+
+1. Alibhai SMH, Zukotynski K, Walker‐Dilks C, et al. Bone health and bone‐targeted therapies for prostate cancer: a programme in evidence‐based care — Cancer Care Ontario Clinical Practice Guideline. Clin Oncol. 2017;29(6):348‐355. doi:10.1016/j.clon.2017.01.007
+
+1. Oefelein MG, Ricchiuti V, Conrad W, Resnick MI. Skeletal fractures negatively correlate with overall survival in men with prostate cancer. J Urol. 2002;168(3):1005‐1007. doi:10.1097/01.ju.0000024395.86788.cc
+
+1. Higano CS. Androgen‐deprivation‐therapy‐induced fractures in men with nonmetastatic prostate cancer: what do we really know?Nat Clin Pract Urol. 2008;5(1):24‐34. doi:10.1038/ncpuro0995
+
+1. van Cann T, Loyson T, Verbiest A, et al. Incidence of medication‐related osteonecrosis of the jaw in patients treated with both bone resorption inhibitors and vascular endothelial growth factor receptor tyrosine kinase inhibitors. Support Care Cancer. 2018;26(3):869‐878. doi:10.1007/s00520‐017‐3903‐5
+
+1. van Poznak CH, Unger JM, Darke AK, et al. Osteonecrosis of the jaw in patients with cancer receiving zoledronic acid for bone metastases, SWOG S0702, NCT00874211. 2019
+
+1. Vargas‐Franco JW, Castaneda B, Redini F, Gomez DF, Heymann D, Lezot F. Paradoxical side effects of bisphosphonates on the skeleton: what do we know and what can we do? J Cell Physiol. 2018;233(8):5696‐5715. doi:10.1002/jcp.26465
+
+1. Skjodt MK, Frost M, Abrahamsen B. Side effects of drugs for osteoporosis and metastatic bone disease. Br J Clin Pharmacol. 2019;85(6):1063‐1071. doi:10.1111/bcp.13759
+
+1. Gillessen S, Fredy Von Moos RA, Hayoz S, et al. Incidence of hypocalcemia in patients with castration‐resistant prostate cancer treated with denosumab: data from a non‐inferiority phase III trial assessing prevention of symptomatic skeletal events (SSE) with denosumab administered every four weeks (q4w) versus every 12 weeks (q12w)—SAKK 96/12 (REDUSE). 2019:
+
+1. Fatoye F, Smith P, Gebrye T, Yeowell G. Real‐world persistence and adherence with oral bisphosphonates for osteoporosis: a systematic review. BMJ Open. 2019;9(4):e027049. doi:10.1136/bmjopen‐2018‐027049
+
+1. U.S. Food and Drug Administration. FDA Drug Safety Communication: Safety update for osteoporosis drugs, bisphosphonates, and atypical fractures; 2010. Accessed 23 July 2019. https://www.fda.gov/drugs/drug‐safety‐and‐availability/fda‐drug‐safety‐c...
+
+1. Travis RC, Perez‐Cornago A, Appleby PN, et al. A collaborative analysis of individual participant data from 19 prospective studies assesses circulating  **vitamin**  d and prostate cancer risk. Cancer Res. 2019;79(1):274‐285. doi:10.1158/0008‐5472.CAN‐18‐2318
+
+1. Khan QJ, Reddy PS, Kimler BF, et al. Effect of  **vitamin**  D supplementation on serum 25‐hydroxy  **vitamin**  D levels, joint pain, and fatigue in women starting adjuvant letrozole treatment for breast cancer.Breast Cancer Res Treat. 2010;119(1):111‐118. doi:10.1007/s10549‐009‐0495‐x
+
+1. Mustian KM, Palesh O, Sprod L, et al. YOCAS® yoga significantly improves sleep quality (SQ) and circadian rhythm in 410 cancer survivors. Ann Behav Med. 2011:s5.
+
+1. Rastelli AL, Taylor ME, Gao F, et al.  **vitamin**  D and aromatase inhibitor‐induced musculoskeletal symptoms (AIMSS): a phase II, double‐blind, placebo‐controlled, randomized trial.Breast Cancer Res Treat. 2011;129(1):107‐116. doi:10.1007/s10549‐011‐1644‐6
+
+1. Malihi Z, Lawes CMM, Wu Z, et al. Monthly high‐dose  **vitamin**  D3 supplementation and self‐reported adverse events in a 4‐year randomized controlled trial. Clin Nutr. 2018;38(4):1581‐1587. doi:10.1016/j.clnu.2018.07.034
+
+1. Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F, Richards JB. The health effects of  **vitamin**  D supplementation: evidence from human studies. Nat Rev Endocrinol. 2022;18(2):96‐110. doi:10.1038/s41574‐021‐00593‐z
+
+1. Shapiro CL, Poznak CV, Lacchetti C, et al. Management of osteoporosis in survivors of adult cancers with nonmetastatic disease: ASCO Clinical Practice Guideline. J Clin Oncol. 2019;37(31):2916‐2946. doi:10.1200/jco.19.01696
+
+1. Ganji V, Tangpricha V, Zhang X. Serum  **vitamin**  D concentration ≥75 nmol/L is related to decreased cardiometabolic and inflammatory biomarkers, metabolic syndrome, and diabetes; and increased cardiorespiratory fitness in US adults. Nutrients. 2020;12(3):730. doi:10.3390/nu12030730
+
+1. Chapuy MC, Preziosi P, Maamer M, et al. Prevalence of  **vitamin**  D insufficiency in an adult normal population. Osteoporos Int. 1997;7(5):439‐443. doi:10.1007/s001980050030
+
+1. Holick MF, Binkley NC, Bischoff‐Ferrari HA, et al. Evaluation, treatment, and prevention of  **vitamin**  D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metabol. 2011;96(7):1911‐1930. doi:10.1210/jc.2011‐0385
+
+1. Pilz S, Trummer C, Theiler‐Schwetz V, et al. Critical appraisal of large  **vitamin**  D randomized controlled trials. Nutrients. 2022;14(2):14. doi:10.3390/nu14020303
+
+1. Treadwell J, Uhl S, Tipton K, et al. Example MIDs for specific clinical topics. Assessing Equivalence and Noninferiority; 2012. <span>[Internet]</span>.
+
+1. Reszka AA, Rodan GA. Bisphosphonate mechanism of action. Curr Rheumatol Rep. 2003;5(1):65‐74. doi:10.1007/s11926‐003‐0085‐6
+
+1. Russell RG. Bisphosphonates: the first 40 years. Bone. 2011;49(1):2‐19. doi:10.1016/j.bone.2011.04.022
+
+1. Suresh E, Abrahamsen B. Denosumab: a novel antiresorptive drug for osteoporosis. Cleve Clin J Med. 2015;82(2):105‐114. doi:10.3949/ccjm.82a.13173
+
+1. Laird E, Ward M, McSorley E, Strain JJ, Wallace J.  **vitamin**  D and bone health: potential mechanisms. Nutrients. 2010;2(7):693‐724. doi:10.3390/nu2070693
+
+1. Takahashi N, Udagawa N, Suda T.  **vitamin**  D endocrine system and osteoclasts. BoneKEy Rep. 2014;3. doi:10.1038/bonekey.2013.229
+
+1. Karim Y, Turner C, Dalton N, et al. The relationship between pro‐resorptive inflammatory cytokines and the effect of high dose  **vitamin**  D supplementation on their circulating concentrations. Int Immunopharm. 2013;17(3):693‐697. doi:10.1016/j.intimp.2013.08.010
+
+1. Rossini M, Adami S, Viapiana O, et al. Dose‐dependent short‐term effects of single high doses of oral  **vitamin**  D(3) on bone turnover markers. Calcif Tissue Int. 2012;91(6):365‐369. doi:10.1007/s00223‐012‐9637‐y
+
+1. Rossini M, Gatti D, Viapiana O, et al. Short‐term effects on bone turnover markers of a single high dose of oral  **vitamin**  D(3). J Clin Endocrinol Metabol. 2012;97(4):E622‐E626. doi:10.1210/jc.2011‐2448
+
+1. Kogawa M, Anderson PH, Findlay DM, Morris HA, Atkins GJ. The metabolism of 25‐(OH) **vitamin**  D3 by osteoclasts and their precursors regulates the differentiation of osteoclasts. J Steroid Biochem Mol Biol. 2010;121(1):277‐280. doi:10.1016/j.jsbmb.2010.03.048
+
+1. Kogawa M, Findlay DM, Anderson PH, et al. Osteoclastic metabolism of 25(OH)‐ **vitamin**  D3: a potential mechanism for optimization of bone resorption. Endocrinology. 2010;151(10):4613‐4625. doi:10.1210/en.2010‐0334
+
+1. Takahashi N, Udagawa N, Suda T.  **vitamin**  D endocrine system and osteoclasts. BoneKEy Rep. 2014;3:495. doi:10.1038/bonekey.2013.229
+
+1. Sahota O, Hosking D. Update on calcium and  **vitamin**  D metabolism. Curr Orthop. 1999;13(1):53‐63. doi:10.1016/S0268‐0890(99)90085‐3
+
+1. Baldock PA, Thomas GP, Hodge JM, et al.  **vitamin**  D action and regulation of bone remodeling: suppression of osteoclastogenesis by the mature osteoblast. J Bone Miner Res. 2006;21(10):1618‐1626. doi:10.1359/jbmr.060714
+
+1. Udagawa N, Takahashi N, Jimi E, et al. Osteoblasts/stromal cells stimulate osteoclast activation through expression of osteoclast differentiation factor/RANKL but not macrophage colony‐stimulating factor. Bone. 1999;25(5):517‐523. doi:10.1016/s8756‐3282(99)00210‐0
+
+1. Smith MR, Egerdie B, Hernandez Toriz N, et al. Denosumab in men receiving androgen‐deprivation therapy for prostate cancer. N Engl J Med. 2009;361(8):745‐755. doi:10.1056/NEJMoa0809003
+
+1. Durden E, Pinto L, Lopez‐Gonzalez L, Juneau P, Barron R. Two‐year persistence and compliance with osteoporosis therapies among postmenopausal women in a commercially insured population in the United States. Arch Osteoporosis. 2017;12(1):22. doi:10.1007/s11657‐017‐0316‐5
+
+1. Kennel KA, Drake MT. Adverse effects of bisphosphonates: implications for osteoporosis management. Elsevier; 2009:632‐638.
+
+1. Black DM, Bauer DC, Schwartz AV, Cummings SR, Rosen CJ. Continuing bisphosphonate treatment for osteoporosis‐‐for whom and for how long? N Engl J Med. 2012;366(22):2051‐2053. doi:10.1056/NEJMp1202623
+
+1. Whitaker M, Guo J, Kehoe T, Benson G. Bisphosphonates for osteoporosis‐‐where do we go from here? N Engl J Med. 2012;366(22):2048‐2051. doi:10.1056/NEJMp1202619
+
+1. Carmel AS, Shieh A, Bang H, Bockman RS. The  **25(OH)D**  level needed to maintain a favorable bisphosphonate response is >/=33 ng/ml. Osteoporos Int. 2012;23(10):2479‐2487. doi:10.1007/s00198‐011‐1868‐7
+
+1. Ishijima M, Sakamoto Y, Yamanaka M, et al. Minimum required  **vitamin**  D level for optimal increase in bone mineral density with alendronate treatment in osteoporotic women. Calcif Tissue Int. 2009;85(5):398‐404. doi:10.1007/s00223‐009‐9295‐x
+
+1. Powe CE, Evans MK, Wenger J, et al.  **vitamin**  D–binding protein and  **vitamin**  D status of Black Americans and White Americans. N Engl J Med. 2013;369(21):1991‐2000. doi:10.1056/NEJMoa1306357
+
+1. Burt LA, Billington EO, Rose MS, Raymond DA, Hanley DA, Boyd SK. Effect of high‐dose  **vitamin**  D Supplementation on volumetric bone density and bone strength: a randomized clinical trial. JAMA. 2019;322(8):736‐745. doi:10.1001/jama.2019.11889

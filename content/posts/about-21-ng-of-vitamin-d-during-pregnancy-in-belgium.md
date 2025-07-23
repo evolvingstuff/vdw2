@@ -80,8 +80,8 @@ Copyright: © 2012 Vandevijvere et al. This is an open-access article distribute
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and Vitamin D</a>
+* [Overview Pregnancy and Vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/overview-dark-skin-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Overview Dark Skin Pregnancy and Vitamin D</a>
+* [Overview Dark Skin Pregnancy and Vitamin D](/tags/overview-dark-skin-pregnancy-and-vitamin-d.html)
 
-* <a href="/posts/vitamin-d-food-fortification-belgium-considers-270-iu-per-kcal-of-milk-or-bread" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D food fortification, Belgium considers 270 IU per kcal of milk or bread– June 2019">Vitamin D food fortification, Belgium considers 270 IU per kcal of milk or bread– June 2019</a>
+* [Vitamin D food fortification, Belgium considers 270 IU per kcal of milk or bread– June 2019](/posts/vitamin-d-food-fortification-belgium-considers-270-iu-per-kcal-of-milk-or-bread)

@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Allergic rhinitis in children reduced somewhat during pollen season by just 1,000 IU of vitamin D – RCT</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Allergic rhinitis in children reduced somewhat during pollen season by just 1,000 IU of vitamin D – RCT</h1><time>January 31, 2018</time><div data-pagefind-body><h4 id=clinical-and-immunological-effects-of-vitamin-d-supplementation-during-the-pollen-season-in-children-with-allergic-rhinitis>Clinical and immunological effects of vitamin D supplementation during the pollen season in children with allergic rhinitis.</h4><p>Arch Med Sci. 2018 Jan;14(1):122-131. <a href=https://doi.org/10.5114/aoms.2016.61978.>doi: 10.5114/aoms.2016.61978.</a> Epub 2016 Aug 29.</p><p>Jerzyńska J1, Stelmach W2, Rychlik B3, Majak P4, Podlecka D1, Woicka-Kolejwa K1, Stelmach I1.</p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/pollen-allergy.jpg alt=image width=400><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:700px"><p>Supplementation started 2 months before pollen season</p><p>Benefits of vitamin D will typically not start until 4+ months</p><p>VitaminDWiki suspects that there would be much better results if any of the following</p><ol><li><p>Start supplementing sooner- say 4 months before pollen season</p></li><li><p>Give vitamin D supplement with night meal (about 30% more gets into the body)</p></li><li><p>Supplement with > 1,000 IU - perhaps 2,000 or 4,000</p></li><li><p>Wait until 4 months after start of suppementation before computing allergy statistics</p></li></ol><hr><ul><li><p><a href=/posts/allergy-overview>Allergy - Overview</a></p></li><li><p><a href=/posts/hypothesis-allergic-diseases-have-increased-because-of-decreased-vitamin-d>Hypothesis: Allergic diseases have increased because of decreased vitamin D – Oct 2014</a></p></li><li><p><a href=/posts/severe-allergy-anaphylaxis-is-increasing-and-is-associated-with-low-vitamin-d>Severe allergy (Anaphylaxis) is increasing and is associated with low vitamin D – Sept 2015</a></p></li><li><p><a href=/posts/half-the-risk-of-influenza-a-in-infants-taking-1200-iu-of-vitamin-d-for-4-months-rct>Half the risk of Influenza -A in infants taking 1200 IU of vitamin D for 4 months – RCT Jan 2018</a></p></li><li><p><a href=/posts/respiratory-tract-infection-visits-25-less-likely-with-vitamin-d-pregnancy-2000-iu-infant-800-iu-rct>Respiratory Tract Infection visits 2.5 less likely with vitamin D: Pregnancy 2000 IU, Infant 800 IU – RCT Oct 2014</a></p></li><li><p><a href=/posts/infant-infection-reduced-by-half-with-vitamin-d-supplementation-rct>Infant infection reduced by half with vitamin D supplementation – RCT May 2016</a></p></li><li><p><a href=/posts/allergic-rhinitis-in-infants-treated-by-1000-iu-vitamin-d-daily>Allergic Rhinitis in infants treated by 1,000 IU vitamin D daily – June 2019</a></p></li></ul></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/jerzy-ska-2016-clinical-and-immunological-effects-.pdf>Download the PDF from VitaminDWiki</a></strong></p><p>INTRODUCTION:</p><p>Vitamin D deficiency has been proposed as a potential contributing factor in patients with allergic diseases. We compared the clinical and immunological effects of vitamin D supplementation to placebo during the pollen season in children with allergic rhinitis.</p><p>MATERIAL AND METHODS:</p><p>Thirty-eight children aged 5-12, sensitive to grass pollen, participated in a prospective, randomized, double-blind, placebo-controlled trial. Children received either vitamin D 1000 IU daily supplementation or placebo. We studied symptoms/medication score, lung function, exhaled nitric oxide concentration (FENO), methacholine bronchial provocation test and serum level of 25(OH)D, as well as; CD4+CD25+Foxp3+ cells, TLR4, IL-1, IL-6, TNF and the IL-10 and transforming growth factor β1 (TGF-β1) levels in cell culture supernatants.</p><p>RESULTS:</p><p>Vitamin D therapy was effective in reduction of the symptoms/medication score (p = 0.0371). In vitamin D group an increase in the CD4+CD25+Foxp3+ cells (7.06 vs. 10.5%; p = 0.0013) and serum 25(OH)D concentration (49.6 vs. 96.6 ng/ml; p = 0.0001) and in control group an increase in FENO (15.6 vs. 21 ppb; p = 0.0331) and serum 25(OH)D level were observed (82.9 vs. 100.3 ng/ml; p = 0.0003).We revealed a higher increase from baseline in the percentage of CD4+CD25+Foxp3+ cells in the vitamin D group compared to the control group (p = 0.0058). A significant correlation between CD4+CD25+Foxp3+ cell induction and FENO reduction in the vitamin D group was observed (p = 0.0217).</p><p>CONCLUSIONS:</p><p>Vitamin D 1000 IU as a supplementary treatment of grass pollen allergy in children with allergic rhinitis during the pollen season significantly reduced the symptoms/medication score. The study revealed an immunological effect of vitamin D.</p><p>PMID: 29379542 PMCID: PMC5778420 DOI: 10.5114/aoms.2016.61978</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/breathing.html><span class=tag>Breathing</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-viruses.html><span class=tag>childhood viruses</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/hay-fever.html><span class=tag>hay fever</span></a>
+<a href=/tags/infant-child.html><span class=tag>Infant-Child</span></a>
+<a href=/tags/influenza.html><span class=tag>influenza</span></a>
+<a href=/tags/intervention.html><span class=tag>Intervention</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/viruses-and-pregnancy.html><span class=tag>viruses and pregnancy</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, breathing, Breathing, child, childhood viruses, dosage, hay fever, Infant-Child, influenza, Intervention, pregnancy, virus, viruses and pregnancy, vitamin d, vitamin d and viruses, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

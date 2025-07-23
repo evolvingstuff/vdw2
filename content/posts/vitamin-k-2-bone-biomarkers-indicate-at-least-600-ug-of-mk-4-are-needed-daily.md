@@ -65,9 +65,9 @@ Unknown if different amount would be needed:
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
-* <a href="/posts/osteocalcin-overview-of-the-hormone-needed-to-build-bones-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteocalcin – overview of the hormone needed to build bones, etc. Jan 2018">Osteocalcin – overview of the hormone needed to build bones, etc. Jan 2018</a>
+* [Osteocalcin – overview of the hormone needed to build bones, etc. Jan 2018](/posts/osteocalcin-overview-of-the-hormone-needed-to-build-bones-etc)
 
 </div>
 

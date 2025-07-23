@@ -66,4 +66,4 @@ Wonder if the affect described by this study also would be noticed by people who
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)

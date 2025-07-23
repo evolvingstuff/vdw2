@@ -67,9 +67,9 @@ Further studies will be required to explore on this relationship.
 
 * [All mentions of Hypotension on VitaminDWiki](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=hypotension&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 301 items as of Aug 2020
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">Overview Cardiovascular and Vitamin D</a>
+* [Overview Cardiovascular and Vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/overview-hyper-tension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1171">Overview  **Hyper** tension and Vitamin D</a>
+* [Overview  **Hyper** tension and Vitamin D](/tags/overview-hyper-tension-and-vitamin-d.html)
 
 #### See also web
 

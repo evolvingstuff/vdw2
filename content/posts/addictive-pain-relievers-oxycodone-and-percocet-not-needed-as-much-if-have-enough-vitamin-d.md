@@ -23,21 +23,21 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [Chronic pain 40 percent less intense associated with 10 nanogram more vitamin D – April 2014](/posts/chronic-pain-40-percent-less-intense-associated-with-10-nanogram-more-vitamin-d)
 
 * [Vitamin D reduced skeletal pain in 85 percent of the patients – Nov 2012](/posts/vitamin-d-reduced-skeletal-pain-in-85-percent-of-the-patients)
 
-* <a href="/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If you cannot readily get medical treatment, consider Alternative Med such as vitamin D">If you cannot readily get medical treatment, consider Alternative Med such as vitamin D</a>
+* [If you cannot readily get medical treatment, consider Alternative Med such as vitamin D](/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d)
 
-* <a href="/posts/100-million-americans-have-chronic-pain-iom" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100 Million Americans Have Chronic Pain – IoM June 2011">100 Million Americans Have Chronic Pain – IoM June 2011</a> sometime during the year - not all at the same time
+* [100 Million Americans Have Chronic Pain – IoM June 2011](/posts/100-million-americans-have-chronic-pain-iom) sometime during the year - not all at the same time
 
 * [Off Topic: 4X increase in Americans taking morphine-type drugs in last decade (consider Vitamin D instead) – Aug 2014](/posts/off-topic-4x-increase-in-americans-taking-morphine-type-drugs-in-last-decade-con-tamin-d-instead)
 
 > [Many of IoM members had conflicts-of-interest with Big Pharma](/posts/institute-of-medicine-which-recommended-low-vitamin-d-has-many-conflicts-of-interest)
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
 * [Hypothesis: Drug addiction in humans can be prevented and treated by vitamin D -May 2014](/posts/hypothesis-drug-addiction-in-humans-can-be-prevented-and-treated-by-vitamin-d)
 

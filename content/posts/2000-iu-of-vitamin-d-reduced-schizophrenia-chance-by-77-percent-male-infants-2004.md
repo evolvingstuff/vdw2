@@ -61,7 +61,7 @@ PMID: 14984883
 
 * [Third study found that Infants needed 1600 IU of vitamin D – JAMA RCT May 2013](/posts/third-study-found-that-infants-needed-1600-iu-of-vitamin-d-jama-rct)
 
-* <a href="/posts/hypponen-7x-less-diabetes-for-children-taking-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1660">Hypponen - 7X less diabetes for children taking 2,000 IU of vitamin D</a> has the following chart
+* [Hypponen - 7X less diabetes for children taking 2,000 IU of vitamin D](/tags/hypponen-7x-less-diabetes-for-children-taking-2000-iu-of-vitamin-d.html) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="700"> 
 

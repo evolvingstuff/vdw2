@@ -64,7 +64,7 @@ Impact: Our results may have potential implications for the prevention of skin c
 
 #### See also VitaminDWiki
 
-* <a href="/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Melanoma might be suppressed by Vitamin D - many studies">Melanoma might be suppressed by Vitamin D - many studies</a>
+* [Melanoma might be suppressed by Vitamin D - many studies](/posts/melanoma-might-be-suppressed-by-vitamin-d-many-studies)
 
 * [Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013](/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013) the body can deal with UVB – provided it is not overloaded – e.g. sunburn
 

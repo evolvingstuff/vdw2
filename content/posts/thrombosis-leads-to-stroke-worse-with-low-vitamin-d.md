@@ -79,10 +79,10 @@ Thrombosis (Greek: θρόμβωσις) is the formation of a blood clot (thrombu
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 * [Vitamin D associated with 50 percent less ischemic stroke – meta-analysis Aug 2012](/posts/vitamin-d-associated-with-50-percent-less-ischemic-stroke-meta-analysis)
 
-* <a href="/posts/moderate-and-severe-strokes-2x-associated-with-low-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Moderate and severe strokes 2X associated with low vitamin D – 2012">Moderate and severe strokes 2X associated with low vitamin D – 2012</a>
+* [Moderate and severe strokes 2X associated with low vitamin D – 2012](/posts/moderate-and-severe-strokes-2x-associated-with-low-vitamin-d-2012)
 
-* <a href="/posts/strokes-might-be-treated-as-well-as-prevented-by-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strokes might be treated as well as prevented by vitamin D – Jan 2011">Strokes might be treated as well as prevented by vitamin D – Jan 2011</a>
+* [Strokes might be treated as well as prevented by vitamin D – Jan 2011](/posts/strokes-might-be-treated-as-well-as-prevented-by-vitamin-d)

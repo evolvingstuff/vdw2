@@ -37,7 +37,7 @@
 
 #### Prediabetes both prevented and treated by Vitamin D, etc.
 
-* <a href="/posts/prediabetes-both-prevented-and-treated-by-monthly-vitamin-d-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes both prevented and treated by monthly Vitamin D, etc.">Prediabetes both prevented and treated by monthly Vitamin D, etc.</a>
+* [Prediabetes both prevented and treated by monthly Vitamin D, etc.](/posts/prediabetes-both-prevented-and-treated-by-monthly-vitamin-d-etc)
 
 ---
 
@@ -73,12 +73,12 @@ https://doi.org/10.1016/j.diabres.2018.12.008
 
 ---
 
-#### <a href="/posts/prediabetes-15-x-more-likely-to-go-away-if-take-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes 1.5 X more likely to go away if take Vitamin D – meta-analysis July 2020">Prediabetes 1.5 X more likely to go away if take Vitamin D – meta-analysis July 2020</a>
+#### [Prediabetes 1.5 X more likely to go away if take Vitamin D – meta-analysis July 2020](/posts/prediabetes-15-x-more-likely-to-go-away-if-take-vitamin-d-meta-analysis)
 
- **<a href="/posts/prediabetes-15-x-more-likely-to-go-away-if-take-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes 1.5 X more likely to go away if take Vitamin D – meta-analysis July 2020">Prediabetes 1.5 X more likely to go away if take Vitamin D – meta-analysis July 2020</a>** 
+ **[Prediabetes 1.5 X more likely to go away if take Vitamin D – meta-analysis July 2020](/posts/prediabetes-15-x-more-likely-to-go-away-if-take-vitamin-d-meta-analysis)** 
 
 ---
 
 #### Prediabetes treated by Vitamin D (34 ng, 3500 IU per day) – meta-analysis May 2018
 
-* <a href="/posts/prediabetes-treated-by-vitamin-d-34-ng-3500-iu-per-day-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prediabetes treated by Vitamin D (34 ng, 3500 IU per day) – meta-analysis May 2018">Prediabetes treated by Vitamin D (34 ng, 3500 IU per day) – meta-analysis May 2018</a>
+* [Prediabetes treated by Vitamin D (34 ng, 3500 IU per day) – meta-analysis May 2018](/posts/prediabetes-treated-by-vitamin-d-34-ng-3500-iu-per-day-meta-analysis)

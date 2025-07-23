@@ -33,7 +33,7 @@
 
 * Excessive intake of vitamin D can also encourage calcium to be removed from bones, which can soften and weaken them.
 
-#### Yes, if you do not balance your <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">cofactors</a> there can be problems.
+#### Yes, if you do not balance your [cofactors](/tags/cofactors.html) there can be problems.
 
 * Vitamin D is NOT a monotherapy
 
@@ -43,9 +43,9 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/institute-of-medicine" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1193">Institute of Medicine</a> 4,000 IU upper limit without doctor
+* [Institute of Medicine](/tags/institute-of-medicine.html) 4,000 IU upper limit without doctor
 
-* <a href="/posts/endocrine-society" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2039">Endocrine Society</a> 10,000 IU when needed 
+* [Endocrine Society](/tags/endocrine-society.html) 10,000 IU when needed 
 
 * Sun provides > 10,000 IU daily
 
@@ -59,7 +59,7 @@
 
 * [Why the UK government ignores evidence for the benefits of Vitamin D - Nov 2013](/posts/why-the-uk-government-ignores-evidence-for-the-benefits-of-vitamin-d)
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> which has the following graphic
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

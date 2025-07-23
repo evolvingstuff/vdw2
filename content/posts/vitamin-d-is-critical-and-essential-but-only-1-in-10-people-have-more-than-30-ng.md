@@ -71,7 +71,7 @@ In addition, it will be very important to gather sound and convincing evidence f
 
 * [Vitamin D Deficiency](/posts/vitamin-d-deficiency)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
 * [Top Charts](/posts/top-charts)
 
@@ -85,7 +85,7 @@ In addition, it will be very important to gather sound and convincing evidence f
 
 > &nbsp; &nbsp; &nbsp; which sorts  the proofs by amount of vitamin D needed
 
-* <a href="/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Criteria to associate a health problem with low vitamin D">Criteria to associate a health problem with low vitamin D</a>
+* [Criteria to associate a health problem with low vitamin D](/posts/criteria-to-associate-a-health-problem-with-low-vitamin-d)
 
 * [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need) 
 

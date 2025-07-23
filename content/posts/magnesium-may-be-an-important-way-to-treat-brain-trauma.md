@@ -40,13 +40,13 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> 
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) 
 
 > which shows major decrease in Magnesium around the world during past 40 years
 
 > There is a lot of interaction between Magnesiuma and Vitamin D
 
-* <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a>
+* [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution)
 
 * [Vitamin D aided progesterone in reducing traumatic brain injury – RCT Dec 2012](/posts/vitamin-d-aided-progesterone-in-reducing-traumatic-brain-injury-rct)
 

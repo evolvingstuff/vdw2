@@ -73,4 +73,4 @@ Figure lA-C. (A) Patient's orthopantomogram with periapical bone loss at the fir
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-hyperparathyroidism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 956">Overview Hyperparathyroidism and vitamin D</a>
+* [Overview Hyperparathyroidism and vitamin D](/posts/overview-hyperparathyroidism-and-vitamin-d)

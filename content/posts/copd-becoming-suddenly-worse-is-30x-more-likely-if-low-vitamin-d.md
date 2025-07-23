@@ -85,7 +85,7 @@ most of which are  independently associated with low vitamin D
 
 * [COPD reduced by vitamin D taken once every 60 days – RCT Dec 2014](/posts/copd-reduced-by-vitamin-d-taken-once-every-60-days-rct)
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 * [COPD fought by Vitamin D - many studies](/posts/copd-fought-by-vitamin-d-many-studies)
 
@@ -93,7 +93,7 @@ most of which are  independently associated with low vitamin D
 
 * [COPD reduced by vitamin D taken once every 60 days – RCT Dec 2014](/posts/copd-reduced-by-vitamin-d-taken-once-every-60-days-rct)
 
-* <a href="/posts/copd-and-vitamin-d-in-a-vicious-circle" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COPD and vitamin D in a vicious circle – April 2011">COPD and vitamin D in a vicious circle – April 2011</a>
+* [COPD and vitamin D in a vicious circle – April 2011](/posts/copd-and-vitamin-d-in-a-vicious-circle)
 
 </div>
 

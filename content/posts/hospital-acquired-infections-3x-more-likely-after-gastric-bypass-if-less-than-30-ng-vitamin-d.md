@@ -63,4 +63,4 @@ Conclusions and Relevance  In our patient cohort, a significant inverse associat
 
 * [Search VitaminDWiki for "gastric bypass"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22gastric+bypass%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 98 items as of Feb 2014
 
-* [Trauma and surgery](/categories/trauma-and-surgery) category listing
+* [Trauma and surgery](/posts/trauma-and-surgery) category listing

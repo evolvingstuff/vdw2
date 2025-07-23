@@ -45,7 +45,7 @@ Conclusions: Regular cycling and gardening reduce the likelihood of inadequate v
 
 ## See also VitaminDWiki
 
-* <a href="/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012">Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012</a> several of the same authors as on this page
+* [Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012](/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy) several of the same authors as on this page
 
 * [Community dwelling seniors got vitamin D when outdoors gardening or biking – April 2013](/posts/community-dwelling-seniors-got-vitamin-d-when-outdoors-gardening-or-biking)
 

@@ -1,0 +1,90 @@
+<!doctype html><html><head><meta charset=utf-8><title>Comparing High-dose vitamin D therapies</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Comparing High-dose vitamin D therapies</h1><time>February 1, 2019</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#comparing-high-dose-protocols>Comparing high-dose protocols</a></li><li><a href=#vitamin-d-cofactors-in-a-nutshellpostsvitamin-d-cofactors-in-a-nutshell-has-thefollowing><a href=/posts/vitamin-d-cofactors-in-a-nutshell>Vitamin D Cofactors in a nutshell</a> has the following</a></li><li><a href=#overview-toxicity-of-vitamin-dpostsoverview-toxicity-of-vitamin-d-has-thefollowing><a href=/posts/overview-toxicity-of-vitamin-d>Overview Toxicity of vitamin D</a> has the following</a></li><li><a href=#see-alsovitamindwiki>See also VitaminDWiki</a></li></ul></li></ul></li></ul></nav><hr><h4 id=comparing-high-dose-protocols>Comparing high-dose protocols</h4><table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>Dr. Coimbra<br>books ((High-Dose Vitamin D Therapy – book July 2018</td><td>2018)) ((Multiple Sclerosis and (lots of) Vitamin D - book by patient on Coimbra protocol - Feb 2016</td><td>2016))</td><td>Dr. Somerville<br><a href=/tags/optimal-dose.html>Optimal Dose</a></td><td>((Sleep problems cured by vitamin D, etc. – workshops and patient workbooks – Gominak 2018</td><td>Dr. Gominak))</td><td>((Cluster and Migraine headache treatment protocol - Sept 2023</td><td>Mr. Batcheller))</td><td>((The End of Alzheimer&rsquo;s and Dementia if adjust Vitamin D, B-12, Iron, Omega-3, etc.</td><td>Dr. Bredsen))<br>End of Alz.</td></tr><tr><td>Health problem</td><td>Multiple Sclerosis<br>autoimmune, PD</td><td>sleep, flu, pain,<br>obesity, etc.</td><td>Sleep</td><td>Cluster, Migraine<br>Headaches</td><td>Alzheimer&rsquo;s<br>Park. being added</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Number of people<br>(2019)</td><td>30,000<br><a href="https://www.betterplace.org/en/projects/74058-coimba-protocol-vitamin-d-high-dose-therapy-stops-autoimmune-diseases#:~:text=since%202002%20this%20therapy%20has%20already%20helped%20more%20than%2030%2C000%20people%20worldwide%20to%20stop%20their%20disease%20and%20gain%20back%20quality%20of%20life">by 2022</a></td><td>5,000</td><td>5,000</td><td>9,000<br>(2024)</td><td>>5,000 (2020)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vitamin D target</td><td>PTH is target<br>typ: 150ng</td><td>100-140+ ng</td><td>60-80 ng</td><td>PTH is target<br>typ: 80 ng</td><td>40-60 ng</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vitamin D daily dose<br>(K = 1,000 IU)</td><td>20K - 200K<br>1,000 IU/kg</td><td>30K</td><td>2K + monthly<br>test increasing<br>dose until goal</td><td>4K - 40K<br>110 IU/kg</td><td>?</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>((Overview: Omega-3 many benefits include helping vitamin D</td><td>Omega-3)) <strong><span style=color:red>✻</span></strong></td><td>O-3</td><td>O-3</td><td>- - -</td><td>O-3</td><td>O-3</td><td></td><td></td><td></td><td></td></tr><tr><td>((Overview Magnesium and vitamin D</td><td>Magnesium)) <strong><span style=color:red>✻</span></strong></td><td>Mg</td><td>Mg</td><td>- - -</td><td>Mg (400 mg)</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>((Overview Vitamin K and Vitamin D</td><td>Vitamin K2))</td><td>K2 (no longer?)</td><td>K2</td><td>- - -</td><td>K2</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>Vitamin B&mldr;</td><td>B2, B9, ((Vitamin B12</td><td>B12))</td><td>B3</td><td>B50-B100<br>3 months</td><td>B50</td><td>B12</td><td></td><td></td><td></td><td></td></tr><tr><td>((Zinc and Vitamin D</td><td>Zinc)) <strong><span style=color:red>✻</span></strong></td><td>Zn</td><td></td><td>- - -</td><td>Zn</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>((Vitamin D and Boron</td><td>Boron)) *** ?**</td><td>B</td><td></td><td>- - -</td><td>B</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>((Calcium hazards and bioavailability</td><td>Calcium))<br>Minimize rock-based Ca</td><td>Decrease Ca</td><td></td><td>- - -</td><td>Ca</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>((Vitamin D and Vitamin A</td><td>Vitamin A))<br>avoid extremes</td><td>avoid A</td><td>avoid A</td><td>- - -</td><td>A</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>Other</td><td>Choline<br>Selenium<br>Co-Q 10</td><td></td><td>- - -</td><td>Co-Q 10</td><td>-</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Loading dose<br>Days instead of months</td><td>- - -</td><td>- - -</td><td>- - -</td><td>Loading<br>&ldquo;Cluster Balm&rdquo;</td><td>-</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p><strong>Most highly successful uses of high-dose Vitamin D have a lot in common</strong></p><p>Evolved over a period of 4 - 16 years</p><p>60+ ng of vitamin D is needed - see also <a href=/tags/cofactors.html>cofactors</a>: <a href=/posts/overview-omega-3-many-benefits-include-helping-vitamin-d>Omega-3</a>, <a href=/posts/overview-magnesium-and-vitamin-d>Magnesium</a>, <a href=/posts/overview-vitamin-k-and-vitamin-d>Vitamin K</a> and some B vitamins</p><p>The dose size typically varies both with the <a href=/posts/obese-need-2x-to-3x-more-vitamin-d>weight</a> of the adult and individual need</p><p>None have generated any clinical trials. Their goal is success, not publication</p><p>Also, trials generally require same dose for everyone. with no changing of the dose during treatment</p><p>Use a pill containing many B Vitamins B50 (or B100)</p><p>    Thiamin, Riboflavin, Niacin, Vitamin B-6, Folic Acid, Vitamin B-12, Biotin, Pantothenic Acid,</p><p>        Which apparently is B1, B2, B3, B5, B6, B7, B9, and B12. - at least 50mg of each</p><p><strong>As of 2019, none appear to (but probably should)</strong></p><ul><li><p>Employ ways to <a href=/posts/reasons-for-low-response-to-vitamin-d>increase the response to vitamin D dose</a></p></li><li><p>Use one of the many <a href=/posts/overview-gut-and-vitamin-d>gut-friendly forms</a> of Vitamin D when needed</p></li><li><p><a href=/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need>Prescribe weekly or biweekly doses instead of daily</a> which appears to provide higher response and more benefit</p></li><li><p>Try to increase Vitamin D <a href=/posts/vitamin-d-receptor>in the tissue</a>, rather than just in the blood</p><ul><li><p>Using one of more of: Resveratrol, Quercetin, Progesterone, high-intensity exercise and cofactors: Omega-3, Magnesium, Zinc</p></li><li><p>The founder of VitaminDWiki uses 10 of them</p></li></ul></li></ul><h4 id=vitamin-d-cofactors-in-a-nutshellpostsvitamin-d-cofactors-in-a-nutshell-has-thefollowing><a href=/posts/vitamin-d-cofactors-in-a-nutshell>Vitamin D Cofactors in a nutshell</a> has the following</h4><p><img src=/attachments/d3.mock.jpg alt=image width=500> </p><h4 id=overview-toxicity-of-vitamin-dpostsoverview-toxicity-of-vitamin-d-has-thefollowing><a href=/posts/overview-toxicity-of-vitamin-d>Overview Toxicity of vitamin D</a> has the following</h4><img src=/attachments/d3.mock.jpg alt=image width=400><hr><h4 id=see-alsovitamindwiki>See also VitaminDWiki</h4><ul><li><p><a href=/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough>Is 50 ng of vitamin D too high, just right, or not enough</a></p></li><li><p><a href=/posts/personalized-vitamin-d-treatment-of-multiple-sclerosis-michael-cawley>Personalized Vitamin D treatment of Multiple Sclerosis - Michael Cawley</a></p><ul><li>Nutritionist who cured his own and others MS with a modified Coimbra Protocol</li></ul></li><li><p><a href=/posts/vitamin-d-resistance-hypothesis-confirmed-by-coimbra-high-dose-vitamin-d-protocol>Vitamin D Resistance hypothesis confirmed by Coimbra high-dose vitamin D protocol – April 2021</a></p></li><li><p><a href=/posts/poor-response-to-vitamin-d-supplementation-if-poor-level-of-b-vitamins-rats-in-this-case>Poor response to vitamin D supplementation if poor level of B Vitamins (rats in this case) March 2021</a></p></li><li><p><a href=/posts/overview-alzheimers-cognition-and-vitamin-d>Overview Alzheimer&rsquo;s-Cognition and Vitamin D</a> has a lot of data to support the following</p><ul><li><strong>PREDICTION:</strong> By 2024 high dose Vitamin D, Omega-3, and Magnesium will be found to reverse Alzheimer&rsquo;s in humans</li></ul></li><li><p><a href=/posts/b-vitamins>B Vitamins</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/autoimmune.html><span class=tag>Autoimmune</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/dementia.html><span class=tag>dementia</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/headache.html><span class=tag>headache</span></a>
+<a href=/tags/headache.html><span class=tag>Headache</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/high-dose.html><span class=tag>High-Dose</span></a>
+<a href=/tags/how-much.html><span class=tag>How much</span></a>
+<a href=/tags/influenza.html><span class=tag>influenza</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/magnesium-and-viruses.html><span class=tag>magnesium and viruses</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>Multiple Sclerosis</span></a>
+<a href=/tags/obesity.html><span class=tag>obesity</span></a>
+<a href=/tags/omega-3.html><span class=tag>omega 3</span></a>
+<a href=/tags/omega-3-and-viruses.html><span class=tag>omega 3 and viruses</span></a>
+<a href=/tags/optimum.html><span class=tag>Optimum</span></a>
+<a href=/tags/pain.html><span class=tag>pain</span></a>
+<a href=/tags/sleep.html><span class=tag>Sleep</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus-and-cognitive.html><span class=tag>virus and cognitive</span></a>
+<a href=/tags/virus-and-obesity.html><span class=tag>virus and obesity</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a>
+<a href=/tags/vitamin-k.html><span class=tag>vitamin k</span></a>
+<a href=/tags/vitamin-k-and-viruses.html><span class=tag>vitamin k and viruses</span></a>
+<a href=/tags/zinc.html><span class=tag>zinc</span></a>
+<a href=/tags/zinc-and-viruses.html><span class=tag>zinc and viruses</span></a></div><div data-pagefind-meta=tags hidden>autoimmune, Autoimmune, cognitive, dementia, dosage, headache, Headache, health risk, high dose, High-Dose, How much, influenza, intervention, magnesium, magnesium and viruses, multiple sclerosis, Multiple Sclerosis, obesity, omega 3, omega 3 and viruses, Optimum, pain, Sleep, therapeutic intervention, virus, virus and cognitive, virus and obesity, vitamin d, vitamin d and viruses, vitamin k, vitamin k and viruses, zinc, zinc and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

@@ -53,4 +53,4 @@ PMID: 23274018
 
 * [Most immigrant women in Sweden had little vitamin D and lots of muscle pain – May 2013](/posts/most-immigrant-women-in-sweden-had-little-vitamin-d-and-lots-of-muscle-pain)
 
-* <a href="/posts/vitamin-d-injection-helped-migrants-a-bit-but-some-had-poor-or-even-negative-responses" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D injection helped migrants a bit, but some had poor or even negative responses – Dec 2017">Vitamin D injection helped migrants a bit, but some had poor or even negative responses – Dec 2017</a>
+* [Vitamin D injection helped migrants a bit, but some had poor or even negative responses – Dec 2017](/posts/vitamin-d-injection-helped-migrants-a-bit-but-some-had-poor-or-even-negative-responses)

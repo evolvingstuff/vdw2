@@ -66,11 +66,11 @@
 
 * [Depression](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&sort_mode=created_desc) is associated  with low vitamin D
 
-* <a href="/posts/cognitive-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Cognitive health</a> in the elderly  is associated  with low vitamin D
+* [Cognitive health](/tags/cognitive-health.html) in the elderly  is associated  with low vitamin D
 
 * Mental Illness has apparently increased in the past 40 years - at the same time that Vitamin D has increased
 
-### It will be interesting how many <a href="/posts/other-factors-to-point-to-health-problems-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 597">other factors to point to health problems associated with low vitamin D</a> such as:
+### It will be interesting how many [other factors to point to health problems associated with low vitamin D](/tags/other-factors-to-point-to-health-problems-associated-with-low-vitamin-d.html) such as:
 
 * Seasonality
 
@@ -505,17 +505,17 @@ However, patients with hypovitaminosis D were more likely to be prescribed addit
 
 * [Hypothesis: Dyslexia and low vitamin D - early 2013](/posts/hypothesis-dyslexia-and-low-vitamin-d-early-2013)
 
-* <a href="/posts/mental-illness-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1309">Mental Illness and Vitamin D</a> from Vitamin D Council
+* [Mental Illness and Vitamin D](/posts/mental-illness-and-vitamin-d) from Vitamin D Council
 
-* <a href="/posts/epilepsy-seizures-reduced-by-40-percent-after-vitamin-d-levels-normalized" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2603">Epilepsy seizures reduced by 40 % after vitamin D levels normalized – April 2012</a>
+* [Epilepsy seizures reduced by 40 % after vitamin D levels normalized – April 2012](/posts/epilepsy-seizures-reduced-by-40-percent-after-vitamin-d-levels-normalized)
 
 * [Association between season of birth and suicide – perhaps vitamin D – Sept 2012](/posts/association-between-season-of-birth-and-suicide-perhaps-vitamin-d)
 
-* <a href="/posts/vitamin-d-variations-and-mental-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 868">vitamin D variations and mental health - Aug 2010</a> nice graphs
+* [vitamin D variations and mental health - Aug 2010](/tags/vitamin-d-variations-and-mental-health-aug-2010.html) nice graphs
 
 * [Much less depression if higher than 43 ng of vitamin D – Oct 2012](/posts/much-less-depression-if-higher-than-43-ng-of-vitamin-d)
 
-* <a href="/posts/mental-illness-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1309">Mental Illness and Vitamin D</a> Jan 2011 shooting in Arizona
+* [Mental Illness and Vitamin D](/posts/mental-illness-and-vitamin-d) Jan 2011 shooting in Arizona
 
 * [Psychiatric disorders in a few elderly associated with insufficient vitamin D – Sept 2012](/posts/psychiatric-disorders-in-a-few-elderly-associated-with-insufficient-vitamin-d)
 
@@ -527,7 +527,7 @@ However, patients with hypovitaminosis D were more likely to be prescribed addit
 
 * [Suicide associated with low vitamin D - many studies](/posts/suicide-associated-with-low-vitamin-d-many-studies)
 
-* <a href="/posts/diseases-correlated-to-month-of-birth-2008" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1715">Diseases correlated to month of birth – 2008</a> which has many charts, such as the following:
+* [Diseases correlated to month of birth – 2008](/posts/diseases-correlated-to-month-of-birth-2008) which has many charts, such as the following:
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

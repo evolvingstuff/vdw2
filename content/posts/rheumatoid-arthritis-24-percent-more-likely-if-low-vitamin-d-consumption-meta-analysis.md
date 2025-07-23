@@ -54,7 +54,7 @@ Other studies have found far more than 24% decrease in RA when taking >2,000 IU 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1442">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
 ## See also web
 

@@ -52,4 +52,4 @@ PMID:     23963634
 
 ## See also VitaminDWiki
 
-* <a href="/posts/shiftwork-diseases-are-often-due-to-lack-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shiftwork diseases are often due to lack of vitamin D">Shiftwork diseases are often due to lack of vitamin D</a>
+* [Shiftwork diseases are often due to lack of vitamin D](/posts/shiftwork-diseases-are-often-due-to-lack-of-vitamin-d)

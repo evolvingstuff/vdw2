@@ -76,6 +76,6 @@ The beneficial effect of vitamin D supplementation on hip bone mass, achieved in
 
 * [Magnesium may be more important to kids’ bone health than calcium – May 2013](/posts/magnesium-may-be-more-important-to-kids-bone-health-than-calcium)
 
-* <a href="/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012">Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012</a>
+* [Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012](/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012)
 
 * [2,000 IU vitamin D recommended for pediatric rheumatology – May 2015](/posts/2000-iu-vitamin-d-recommended-for-pediatric-rheumatology)

@@ -64,12 +64,12 @@ for more information contact junglem@yahoo.com
 
 ## See also VitaminDWiki
 
-* <a href="/posts/mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011">MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011</a>
+* [MRSA inpatient cost 2X higher if less than 20 ng vitamin D – June 2011](/posts/mrsa-inpatient-cost-2x-higher-if-less-than-20-ng-vitamin-d)
 
-* <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a>
+* [Sepsis is both prevented and treated by Vitamin D - many studies](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies)
 
-* <a href="/posts/icu-surgical-patients-with-low-vitamin-d-stayed-longer-and-had-more-sepsis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ICU surgical patients with low vitamin D stayed longer and had more sepsis – Dec 2011">ICU surgical patients with low vitamin D stayed longer and had more sepsis – Dec 2011</a>
+* [ICU surgical patients with low vitamin D stayed longer and had more sepsis – Dec 2011](/posts/icu-surgical-patients-with-low-vitamin-d-stayed-longer-and-had-more-sepsis)
 
-* <a href="/posts/vitamin-ds-potential-to-reduce-the-risk-of-hospital-acquired-infections" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D's potential to reduce the risk of hospital-acquired infections – May 2012">Vitamin D's potential to reduce the risk of hospital-acquired infections – May 2012</a>
+* [Vitamin D's potential to reduce the risk of hospital-acquired infections – May 2012](/posts/vitamin-ds-potential-to-reduce-the-risk-of-hospital-acquired-infections)
 
 * [3X more likely to die within 3 months of being in ICU for 2 days if less than 20 ng vitamin D – Sept 2013](/posts/3x-more-likely-to-die-within-3-months-of-being-in-icu-for-2-days-if-less-than-20-ng-vitamin-d)

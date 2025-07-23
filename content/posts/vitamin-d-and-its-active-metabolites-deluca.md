@@ -371,4 +371,4 @@ Acknowledgements: This work was supported by a fund from the Wisconsin Alumni Re
 
 * [Search VitaminDWiki for History OR Metaboltes](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=history+OR+metabolites&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1640 items as of Jan 2014
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)

@@ -96,7 +96,7 @@ This took 3 hours - would take ~2 more hours to clean it up
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 </div>
 

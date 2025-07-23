@@ -128,9 +128,9 @@ We declare that we have no conflicts of interest relating to this work, though N
 
 * [Hip fractures reduced 2X to 6X with just 10 minutes of sunlight daily – RCT 2003-2010](/posts/hip-fractures-reduced-2x-to-6x-with-just-10-minutes-of-sunlight-daily-rct-2003-2010)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a> The bad guys probably had a variety of constant pain
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d) The bad guys probably had a variety of constant pain
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D">Overview Sports and vitamin D</a> stronger, faster reactions if have enough vitamin D
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d) stronger, faster reactions if have enough vitamin D
 
 * [Toward predicting vitamin D levels without a blood test.](/posts/toward-predicting-vitamin-d-levels-without-a-blood-test)
 

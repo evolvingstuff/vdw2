@@ -90,11 +90,11 @@ PMID: 25504199
 
 ### See also VitaminDWiki
 
-* <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Sepsis is both prevented and treated by Vitamin D - many studies</a>
+* [Sepsis is both prevented and treated by Vitamin D - many studies](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies)
 
-* <a href="/posts/treatment-of-neonate-sepsis-greatly-aided-by-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Treatment of neonate sepsis greatly aided by Vitamin D – RCT June 2019">Treatment of neonate sepsis greatly aided by Vitamin D – RCT June 2019</a>
+* [Treatment of neonate sepsis greatly aided by Vitamin D – RCT June 2019](/posts/treatment-of-neonate-sepsis-greatly-aided-by-vitamin-d-rct)
 
-* <a href="/posts/sepsis-in-first-year-of-life-is-much-more-likely-if-preterm-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis in first year of life is much more likely if preterm (low Vitamin D) – May 2017">Sepsis in first year of life is much more likely if preterm (low Vitamin D) – May 2017</a>
+* [Sepsis in first year of life is much more likely if preterm (low Vitamin D) – May 2017](/posts/sepsis-in-first-year-of-life-is-much-more-likely-if-preterm-low-vitamin-d)
 
 * [Antibiotics and Vitamin D are associated with many of the same diseases](/posts/antibiotics-and-vitamin-d-are-associated-with-many-of-the-same-diseases) 
 

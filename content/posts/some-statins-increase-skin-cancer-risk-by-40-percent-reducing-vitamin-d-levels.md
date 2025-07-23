@@ -76,4 +76,4 @@ PMID: 26742009
 
 ## See also VitaminDWiki
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a> many decrease Vitamin D, a few increase Vitamin D
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies) many decrease Vitamin D, a few increase Vitamin D

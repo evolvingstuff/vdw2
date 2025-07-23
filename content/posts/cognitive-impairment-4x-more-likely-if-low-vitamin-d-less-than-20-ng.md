@@ -65,9 +65,9 @@ Note: CSF Aβ1–42 are   **c** erebro **s** pinal  **f** luid markers for Alzhe
 
 ## See also VitaminDWiki
 
-* <a href="/posts/alzheimers-4x-less-likely-with-high-level-of-vitamin-d-2-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alzheimer’s 4X less likely with high level of vitamin D – 2 studies April 2012">Alzheimer’s 4X less likely with high level of vitamin D – 2 studies April 2012</a>
+* [Alzheimer’s 4X less likely with high level of vitamin D – 2 studies April 2012](/posts/alzheimers-4x-less-likely-with-high-level-of-vitamin-d-2-studies)
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Vitamin D reduces Alzheimer’s disease in at least 11 ways – Jan 2013](/posts/vitamin-d-reduces-alzheimers-disease-in-at-least-11-ways)
 

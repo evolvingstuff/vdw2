@@ -95,7 +95,7 @@ PMID: 26093537
 
 ## See also VitaminDWiki
 
-* <a href="/posts/most-chinese-have-less-than-20-ng-level-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Most Chinese have less than 20 ng level of Vitamin D - meta-analysis Aug 2021">Most Chinese have less than 20 ng level of Vitamin D - meta-analysis Aug 2021</a>
+* [Most Chinese have less than 20 ng level of Vitamin D - meta-analysis Aug 2021](/posts/most-chinese-have-less-than-20-ng-level-of-vitamin-d-meta-analysis)
 
 * [Avoiding the sun (and vitamin D) – most Chinese medical students do not want darker skins – Feb 2015](/posts/avoiding-the-sun-and-vitamin-d-most-chinese-medical-students-do-not-want-darker-skins)
 
@@ -103,9 +103,9 @@ PMID: 26093537
 
 * [2000 IU vitamin D not enough to get most Chinese to 20 ng level – RCT Feb 2015](/posts/2000-iu-vitamin-d-not-enough-to-get-most-chinese-to-20-ng-level-rct)
 
-* <a href="/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011">Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011</a>
+* [Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011](/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a> has a picture of a Chinese woman at the beach
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d) has a picture of a Chinese woman at the beach
 
 > <img src="/attachments/d3.mock.jpg" alt="image">
 

@@ -1,0 +1,98 @@
+<!doctype html><html><head><meta charset=utf-8><title>Let the Sun shine on you - Gillie</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Let the Sun shine on you - Gillie</h1><time>August 15, 2011</time><div data-pagefind-body><h5 id=vitamin-d-let-the-sun-shine-on-you-commentary-world-nutrition-august-2011-2-8-308-332>Vitamin D. Let the sun shine on you (Commentary) World Nutrition August 2011, 2, 8, 308-332</h5><p>Oliver Gillie; Health Research Forum; <a href=mailto:olivergillie@blueyonder.co.uk>olivergillie@blueyonder.co.uk</a></p><p>World Nutrition. Journal of the World Public Health Nutrition Association, <a href=https://www.wphna.org>www.wphna.org</a> Volume 2, Number 7, August 2011</p><p>Published monthly at <a href=https://www.wphna.org>www.wphna.org</a></p><p>The Association is an affiliated body of the International Union of Nutritional Sciences</p><p>For membership and for other contributions, news, columns and services, go to: <a href=https://www.wphna.org>www.wphna.org</a></p><h4 id=pdfs-attached-at-bottom-of-this-page>PDFs attached at bottom of this page</h4><ul><li><p>This commentary by Gillie - with graphics</p></li><li><p>Editorial in same issue</p></li></ul><h4 id=the-following-text-was-extracted-from-the-commentary-pdf-for-ease-of-translation-to-other-languages>The following text was extracted from the commentary PDF for ease of translation to other languages</h4><h4 id=introduction>Introduction</h4><p>The Waorani people from Ecuador. Clothes are not necessary for brown-skinned people living in a tropical climate. This however is not our situation</p><p>Most people in northern industrial countries, such as the UK where I come from, have an inadequate level of vitamin D in their bodies, especially in winter. These low levels are now known to be associated with a wide spectrum of serious diseases, many of which lead on to disability and premature death. The diseases associated with D deficiency include more than a dozen types of cancer, multiple sclerosis, diabetes type 1, heart disease, high blood pressure, and schizophrenia, as well as the classic bone diseases — rickets, osteoporosis and osteomalacia. Evidence that these diseases are caused, at least in part, by a deficiency of sunlight and vitamin D has accumulated at an accelerating pace over the last ten years, but is not yet well known.</p><p>The effects of deficiency go way beyond the diseases of the bone that have long been known to be linked with vitamin D. But this new evidence is unfamiliar to most doctors and scientists, and quite rightly they are sceptical. At first sight it seems unlikely that vitamin D deficiency could be a causal factor in so many entirely different diseases. And we still have little idea how D deficiency acts, together with other risk factors, to cause one disease in one person and other diseases in other people. However the accumulated evidence linking D deficiency to chronic disease is extensive and consistent. So it has great strength as a coherent body of work. It is reasonable to conclude even on present evidence, that if an optimal level of vitamin D is maintained throughout life, many diseases that presently destroy lives may be prevented.</p><h4 id=a-personal-note>A personal note</h4><p>^I am a former medical correspondent of the UK national newspaper The Sunday Times and former health editor of The Independent. As a scientist and writer I have won 17 awards. Most recently I was elected health champion of the year by the Medical Journalists&rsquo; Association for the campaign to inform the public and professionals about vitamin D insufficiency disease.</p><p>Over the last seven years my main work has been to research and to pass on information about vitamin D insufficiency to scientists, doctors, and journalists, and to lobby government and organisations such as Cancer Research UK for a rational evidence-based public health policy on sunlight and vitamin D. I am collaborating with Professor Julian Peto of the London School of Hygiene and Tropical Medicine in the development of scientific trials of vitamin D.</p><p>One of my main concerns is that cancer charities all over the world have used the slogan &lsquo;There is no such thing as a healthy tan&rsquo;. This has played a major role in scaring people away from the sun, but has no sound scientific basis.^</p><h4 id=skin-and-bone-and-many-body-systems>Skin and bone, and many body systems</h4><p>&lsquo;Classic&rsquo; vitamin D deficiency in dark sunless Northern countries, and one of its cures: children with rickets, and being treated with ultra-violet rays</p><p>Ultra-violet radiation and the vitamin D it generates produced the first cures of tuberculosis of the skin in 1903. The results were seen as miraculous and earned the Danish physician Niels Finsen the Nobel Prize. Soon afterwards, rickets, a common disease causing devastating deformity, was also being cured with ultra-violet radiation. Within a few years, food supplements such as cod liver oil, very rich in vitamin D, were being used to cure rickets. Again the results seemed miraculous.</p><p>But now, a century later, a hundred or more diseases are now known to be, may be, or might be, causally associated with low levels of vitamin D. The very large number is enough to arouse scepticism in the minds of many scientists. Nevertheless, there is compelling evidence that insufficient vitamin D causes 36 of these diseases or is at least a major risk factor for them, while there is moderately strong evidence that insufficient vitamin D is likely to cause another 27 (see Box 2). Further preliminary observations indicate that another 40 or so diseases are associated with insufficient vitamin D.</p><h4 id=diseases-caused-by-or-associated-with-deficiency-of-vitamin-d>Diseases caused by or associated with deficiency of vitamin D</h4><p>A review using Austin Bradford Hill&rsquo;s criteria for causality has found strong evidence that vitamin D is a risk factor for 36 diseases, and moderate evidence linking to another 27 diseases. The lists below are taken from Grant W: Review of 100 diseases and their association with vitamin D insufficiency. <a href=http://www.vitamindcouncil.org/health-conditions/>http://www.vitamindcouncil.org/health-conditions/</a></p><p>{SPLIT(colsize=300|300)}</p><h4 id=span-stylecolor390strong-evidencespan><span style=color:#390>Strong evidence</span></h4><ul><li><p>Anaemia</p></li><li><p>Arthritis (osteo)</p></li><li><p>Atherosclerosis</p></li><li><p>Cancer:</p><ul><li><p>bladder</p></li><li><p>breast</p></li><li><p>colorectum</p></li><li><p>endometrium</p></li><li><p>gallbladder disease</p></li><li><p>kidney</p></li><li><p>non-Hodgkin lymphoma</p></li><li><p>oesophagus</p></li><li><p>ovary</p></li><li><p>stomach</p></li><li><p>vulva</p></li></ul></li><li><p>Cardiovascular disease</p></li><li><p>Chronic kidney failure</p></li><li><p>Coronary heart disease</p></li><li><p>Dental caries</p></li><li><p>Diabetes type 2</p></li><li><p>Fractures</p></li><li><p>Falls</p></li><li><p>Fibromyalgia</p></li><li><p>Inflammatory bowel diseases</p></li><li><p>Influenza</p></li><li><p>Insulin resistance</p></li><li><p>Meningococcal disease, meningitis</p></li><li><p>Multiple sclerosis</p></li><li><p>Osteoporosis</p></li><li><p>Pneumonia</p></li><li><p>Polycystic ovary syndrome</p></li><li><p>Pre-eclampsia</p></li><li><p>Rickets</p></li><li><p>Sepsis/septicaemia</p></li><li><p>Tuberculosis</p></li><li><p>Vaginosis, bacterial</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/atherosclerosis.html><span class=tag>atherosclerosis</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/autoimmune-and-pregnancy.html><span class=tag>autoimmune and pregnancy</span></a>
+<a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/breathing.html><span class=tag>breathing</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cardiovascular.html><span class=tag>cardiovascular</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/childhood-cancer.html><span class=tag>childhood cancer</span></a>
+<a href=/tags/childhood-pneumonia.html><span class=tag>childhood pneumonia</span></a>
+<a href=/tags/childhood-viruses.html><span class=tag>childhood viruses</span></a>
+<a href=/tags/deficiency.html><span class=tag>Deficiency </span></a><a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/europe.html><span class=tag>Europe</span></a>
+<a href=/tags/evidence.html><span class=tag>Evidence</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/hypertension.html><span class=tag>hypertension</span></a>
+<a href=/tags/influenza.html><span class=tag>influenza</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/intervention.html><span class=tag>Intervention</span></a>
+<a href=/tags/lymphoma.html><span class=tag>lymphoma</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/multiple-sclerosis-and-pregnancy.html><span class=tag>multiple sclerosis and pregnancy</span></a>
+<a href=/tags/osteoporosis.html><span class=tag>osteoporosis</span></a>
+<a href=/tags/pcos.html><span class=tag>PCOS</span></a>
+<a href=/tags/pediatric-autoimmune.html><span class=tag>pediatric autoimmune</span></a>
+<a href=/tags/pneumonia.html><span class=tag>pneumonia</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/rickets.html><span class=tag>rickets</span></a>
+<a href=/tags/sepsis.html><span class=tag>sepsis</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/trauma-surgery.html><span class=tag>trauma surgery</span></a>
+<a href=/tags/tuberculosis.html><span class=tag>tuberculosis</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus-and-cardiovascular.html><span class=tag>virus and cardiovascular</span></a>
+<a href=/tags/viruses-and-pregnancy.html><span class=tag>viruses and pregnancy</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a></div><div data-pagefind-meta=tags hidden>atherosclerosis, autoimmune, autoimmune and pregnancy, bacteria, bone, bone cancer, breathing, cancer, cardiovascular, child, childhood cancer, childhood pneumonia, childhood viruses, Deficiency , diabetes, Europe, Evidence, falls fractures, high dose, hypertension, influenza, intervention, Intervention, lymphoma, metabolic, multiple sclerosis, multiple sclerosis and pregnancy, osteoporosis, PCOS, pediatric autoimmune, pneumonia, pregnancy, rickets, sepsis, therapeutic intervention, trauma surgery, tuberculosis, virus, virus and cardiovascular, viruses and pregnancy, vitamin d, vitamin d and viruses</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

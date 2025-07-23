@@ -39,4 +39,4 @@ Note: Routine appointments often just have copays (no deductibles).
 
 ## See also VitaminDWiki
 
-* <a href="/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If you cannot readily get medical treatment, consider Alternative Med such as vitamin D">If you cannot readily get medical treatment, consider Alternative Med such as vitamin D</a>
+* [If you cannot readily get medical treatment, consider Alternative Med such as vitamin D](/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d)

@@ -56,7 +56,7 @@ Need more UV time for 20+ reasons - such as dark skin, obese, senior, more cloth
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
 * [Large variability in response to UV (more than response to oral Vitamin D) – March 2016](/posts/large-variability-in-response-to-uv-more-than-response-to-oral-vitamin-d)
 

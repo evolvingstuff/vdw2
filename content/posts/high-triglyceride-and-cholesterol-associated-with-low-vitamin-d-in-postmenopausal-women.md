@@ -50,6 +50,6 @@ Conclusion: The findings of the study highlight that vitamin D deficiency is an 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* [Cardiovascular](/categories/cardiovascular) category listing with associated searches
+* [Cardiovascular](/tags/cardiovascular.html) category listing with associated searches

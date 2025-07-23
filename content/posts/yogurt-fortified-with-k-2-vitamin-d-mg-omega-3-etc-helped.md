@@ -33,7 +33,7 @@ I can Imagine a commercial supplement packet with
 
 &nbsp; &nbsp; &nbsp; K2, Vitamin D, Magnesium, Omega-3, probiotics, etc which could be added to any yogurt
 
-<a href="/posts/vitamin-d-fortification-of-yogurt-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D fortification of yogurt – meta-analysis Aug 2019">Vitamin D fortification of yogurt – meta-analysis Aug 2019</a>
+[Vitamin D fortification of yogurt – meta-analysis Aug 2019](/posts/vitamin-d-fortification-of-yogurt-meta-analysis)
 
 </div>
 

@@ -94,7 +94,7 @@ Am far healthier and alert than when I was 30 years younger.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013](/posts/antibiotic-use-cut-in-half-by-elderly-over-70-after-monthly-60000-iu-of-vitamin-d-rct) the above study was not recording antibiotic use
 
@@ -104,12 +104,12 @@ Am far healthier and alert than when I was 30 years younger.
 
 > So we can estimate that the elderly will all get > 20 ng, which is not very much
 
-* <a href="/posts/600000-iu-vitamin-d-normalized-virtually-all-seniors-in-3-months-injection-better-than-oral" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012">600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012</a>
+* [600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012](/posts/600000-iu-vitamin-d-normalized-virtually-all-seniors-in-3-months-injection-better-than-oral)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a> at least 60,000 IU of vitamin D (and some Calcium) needed to significantly reduce falling
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d) at least 60,000 IU of vitamin D (and some Calcium) needed to significantly reduce falling
 
 * [20 percent fewer male hip fractures if more Magnesium in the water – July 2013](/posts/20-percent-fewer-male-hip-fractures-if-more-magnesium-in-the-water)
 
 * [Vitamin K-2 (180 ug MK-7) helped both bone density and strength – RCT March 2013](/posts/vitamin-k-2-180-ug-mk-7-helped-both-bone-density-and-strength-rct)
 
-* <a href="/posts/summary-of-vitamin-d-trials-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Summary of Vitamin D trials - Grant Nov 2012">Summary of Vitamin D trials - Grant Nov 2012</a>
+* [Summary of Vitamin D trials - Grant Nov 2012](/posts/summary-of-vitamin-d-trials-grant)

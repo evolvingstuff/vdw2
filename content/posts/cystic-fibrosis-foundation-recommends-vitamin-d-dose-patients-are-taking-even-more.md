@@ -57,9 +57,9 @@ PMID: 25772050
 
 ## See also VitaminDWiki
 
-* [Cystic Fibrosis](/categories/cystic-fibrosis)
+* [Cystic Fibrosis](/posts/cystic-fibrosis)
 
-* <a href="/posts/a-type-of-vitamin-d-by-biotics-research-for-mal-absorption" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1252">A type of vitamin D by Biotics Research for mal-absorption</a>  probably works for Cystic Fibrosis as well
+* [A type of vitamin D by Biotics Research for mal-absorption](/tags/a-type-of-vitamin-d-by-biotics-research-for-mal-absorption.html)  probably works for Cystic Fibrosis as well
 
 * [Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012](/posts/death-due-to-cystic-fibrosis-reduced-about-4x-due-to-250000-iu-of-vitamin-d-rct) has the following 
 

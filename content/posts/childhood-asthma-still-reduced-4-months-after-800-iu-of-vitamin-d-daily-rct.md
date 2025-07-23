@@ -73,7 +73,7 @@ Tachimoto H1, Mezawa H1,2, Segawa T1,3, Akiyama N1,3, Ida H1, Urashima M1,2.
 
 * [Allergies and asthma – overwhelming experimental evidence that vitamin D helps – more studies needed – Dec 2014](/posts/allergies-and-asthma-overwhelming-experimental-evidence-that-vitamin-d-helps-more-studies-needed)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  **<span style="color:#00F;">Asthma has been proven to be treated by at least 4 Random Controlled Trials with Vitamin D intervention</span>** 
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  **<span style="color:#00F;">Asthma has been proven to be treated by at least 4 Random Controlled Trials with Vitamin D intervention</span>** 
 
 </div>
 

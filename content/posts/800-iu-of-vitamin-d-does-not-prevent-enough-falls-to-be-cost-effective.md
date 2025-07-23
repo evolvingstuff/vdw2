@@ -52,7 +52,7 @@ PMID: 26205890 10.1007/s00198-015-3240-9   **Publisher wants $40 for the PDF**
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Yet again, 800 IU of vitamin D was found to be barely enough to help bones – Lancet Oct 2013](/posts/yet-again-800-iu-of-vitamin-d-was-found-to-be-barely-enough-to-help-bones-lancet)
 

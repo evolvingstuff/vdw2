@@ -71,7 +71,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/hypothesis-fluoridation-reduces-magnesium-in-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Fluoridation reduces magnesium in body">Hypothesis: Fluoridation reduces magnesium in body</a>
+* [Hypothesis: Fluoridation reduces magnesium in body](/posts/hypothesis-fluoridation-reduces-magnesium-in-body)
 
 ## See also web
 

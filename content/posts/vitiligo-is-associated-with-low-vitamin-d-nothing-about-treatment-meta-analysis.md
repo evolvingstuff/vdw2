@@ -65,7 +65,7 @@ PMID: 27005676
 
 #### See also
 
-* <a href="/posts/vitiligo-spotty-skin-coloring-is-4-x-more-likely-if-poor-vitamin-d-receptor-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitiligo (spotty skin coloring) is 4 X more likely if poor Vitamin D Receptor – meta-analysis July 2018">Vitiligo (spotty skin coloring) is 4 X more likely if poor Vitamin D Receptor – meta-analysis July 2018</a>
+* [Vitiligo (spotty skin coloring) is 4 X more likely if poor Vitamin D Receptor – meta-analysis July 2018](/posts/vitiligo-spotty-skin-coloring-is-4-x-more-likely-if-poor-vitamin-d-receptor-meta-analysis)
 
 * [Vitiligo (loss of skin pigment) treated by narrowband UVB](/posts/vitiligo-loss-of-skin-pigment-treated-by-narrowband-uvb)
 
@@ -73,7 +73,7 @@ PMID: 27005676
 
 > Many Vitiligo patients helped by  **Vitamin D - including oral, topical, and injection** 
 
-* <a href="/posts/skin-whitening-cream-rd-may-cause-blotchy-skin-5000-vitamin-d-can-treat-it-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin whitening cream (RD) may cause blotchy skin, 5,000 Vitamin D can treat it – RCT Feb 2018">Skin whitening cream (RD) may cause blotchy skin, 5,000 Vitamin D can treat it – RCT Feb 2018</a>
+* [Skin whitening cream (RD) may cause blotchy skin, 5,000 Vitamin D can treat it – RCT Feb 2018](/posts/skin-whitening-cream-rd-may-cause-blotchy-skin-5000-vitamin-d-can-treat-it-rct)
 
 Two out of 16 vitiligo patients showed no repigmentation of the affected areas;
 

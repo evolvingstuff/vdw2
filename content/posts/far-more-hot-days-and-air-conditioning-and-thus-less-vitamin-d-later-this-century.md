@@ -35,11 +35,11 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011">Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011</a>
+* [Hypothesis – China air conditioning disease is the result of less vitamin D – March 2011](/posts/hypothesis-china-air-conditioning-disease-is-the-result-of-less-vitamin-d)
 
-* <a href="/posts/diabetes-rising-quickly-in-areas-with-recent-air-conditioning" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1761">Diabetes rising quickly in areas with recent air conditioning – June 2011</a>
+* [Diabetes rising quickly in areas with recent air conditioning – June 2011](/posts/diabetes-rising-quickly-in-areas-with-recent-air-conditioning)
 
-* <a href="/posts/air-conditioning-probably-has-decreased-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Air Conditioning probably has decreased vitamin D">Air Conditioning probably has decreased vitamin D</a> which has the following
+* [Air Conditioning probably has decreased vitamin D](/posts/air-conditioning-probably-has-decreased-vitamin-d) which has the following
 
 > one researcher wrote in the 1970's 'Cattle, swine, rate, goats, and the US Army men all eat more when the temperature is low than when it is high"
 

@@ -52,6 +52,6 @@ Conclusions: Our findings of an inverse association of 25(OH)D3 with definite ps
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-d3-instead-of-d2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">Overview D3 instead of D2</a>
+* [Overview D3 instead of D2](/tags/overview-d3-instead-of-d2.html)
 
 * [First episode psychosis associated with a 33 percent lower vitamin D in 3 races – Sept 2013](/posts/first-episode-psychosis-associated-with-a-33-percent-lower-vitamin-d-in-3-races)

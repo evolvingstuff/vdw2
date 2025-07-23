@@ -40,11 +40,11 @@ Conclusions: Epidemiological studies do not provide evidence of an independent a
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
 * [Search VitaminDWiki for CARTILAGE](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=cartilage&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 218 items as of Oct 2015
 
-* <a href="/posts/less-knee-osteoarthritis-if-take-more-vitamin-d-8-mri-confirmations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less Knee Osteoarthritis if take more Vitamin D – 8 MRI confirmations – Nov 2018">Less Knee Osteoarthritis if take more Vitamin D – 8 MRI confirmations – Nov 2018</a>
+* [Less Knee Osteoarthritis if take more Vitamin D – 8 MRI confirmations – Nov 2018](/posts/less-knee-osteoarthritis-if-take-more-vitamin-d-8-mri-confirmations)
 
 * [Knee Osteoarthritis (Radiographic ) 3X less if have lots of Magnesium – May 2015](/posts/knee-osteoarthritis-radiographic-3x-less-if-have-lots-of-magnesium)
 

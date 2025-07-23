@@ -74,7 +74,7 @@ Hansen KE1, Johnson RE2, Chambers KR1, Johnson MG1, Lemon CC1, Vo TN3, Marvdasht
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
 * [13 reasons why many seniors need more vitamin D (both dose and level) - July 2023](/posts/13-reasons-why-many-seniors-need-more-vitamin-d-both-dose-and-level)
 
@@ -86,27 +86,27 @@ Hansen KE1, Johnson RE2, Chambers KR1, Johnson MG1, Lemon CC1, Vo TN3, Marvdasht
 
 * [Several more Vitamin D analyses fail to consider dose size, duration, etc. – Dec 2013](/posts/several-more-vitamin-d-analyses-fail-to-consider-dose-size-duration-etc)
 
- **<a href="/posts/reasons-rct-might-fail-from-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3111">Reasons RCT might fail - from VitaminDWiki</a> as of Oct 2012** 
+ **[Reasons RCT might fail - from VitaminDWiki](/tags/reasons-rct-might-fail-from-vitamindwiki.html) as of Oct 2012** 
 
 1. Not enough vitamin D3 was used in the trial - (much more is typically needed for treatment than for prevention)
 
-1. <a href="/posts/too-long-of-time-between-doses" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Too long of time between doses</a> ( > 3 month between doses)
+1. [Too long of time between doses](/tags/too-long-of-time-between-doses.html) ( > 3 month between doses)
 
 1. Trial period too short, or failed to give loading dose. Especially important in groups at [high risk of being vitamin D deficient](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=95&sort_mode=created_desc)
 
-1. <a href="/posts/vitamin-d2-was-used-rather-than-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">Vitamin D2 was used, rather than D3</a>
+1. [Vitamin D2 was used, rather than D3](/tags/vitamin-d2-was-used-rather-than-d3.html)
 
-1. <a href="/posts/cofactor" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Cofactor</a> was needed - vitamin D monotheraphy is not always a good thing
+1. [Cofactor](/tags/cofactor.html) was needed - vitamin D monotheraphy is not always a good thing
 
-1. <a href="/posts/vitamin-a-or-cod-liver-oil-inhibited-the-vitamin-d-dose" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1200">Vitamin A (or cod liver oil) inhibited the vitamin D dose</a>
+1. [Vitamin A (or cod liver oil) inhibited the vitamin D dose](/tags/vitamin-a-or-cod-liver-oil-inhibited-the-vitamin-d-dose.html)
 
-1. The group was known to have mal-absorption problems - so a <a href="/posts/different-vitamin-d-should-have-been-used" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1252">different vitamin D should have been used</a>
+1. The group was known to have mal-absorption problems - so a [different vitamin D should have been used](/tags/different-vitamin-d-should-have-been-used.html)
 
-1. <a href="/posts/individuals-were-using-drugs-which-are-known-to-inhibit-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3097">Individuals were using drugs which are known to inhibit vitamin D</a>
+1. [Individuals were using drugs which are known to inhibit vitamin D](/tags/individuals-were-using-drugs-which-are-known-to-inhibit-vitamin-d.html)
 
-1. Participants had low compliance (people tend to forget to take the pill in trials which run for years, <a href="/posts/easy-to-remember-if-it-is-on-the-calendar" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3188">easy to remember if it is on the calendar</a>)
+1. Participants had low compliance (people tend to forget to take the pill in trials which run for years, [easy to remember if it is on the calendar](/tags/easy-to-remember-if-it-is-on-the-calendar.html))
 
-1. Participants already have enough Vitamin D and adding more does not provide any additional benefit - example <a href="/posts/rct-of-colds" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3253">RCT of colds Oct 2012</a>
+1. Participants already have enough Vitamin D and adding more does not provide any additional benefit - example [RCT of colds Oct 2012](/tags/rct-of-colds-oct-2012.html)
 
 </div>
 

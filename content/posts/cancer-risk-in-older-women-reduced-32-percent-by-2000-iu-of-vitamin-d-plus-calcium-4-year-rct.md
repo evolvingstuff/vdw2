@@ -54,7 +54,7 @@ Calcium might reduce Cancer, but most likely increases heart problems (when vita
 
 * [Calcium supplementation associated with 3.9X increase risk of atrial fibrillation – June 2015](/posts/calcium-supplementation-associated-with-39x-increase-risk-of-atrial-fibrillation)
 
-* <a href="/posts/more-than-800-mg-of-calcium-increases-cardiovascular-events-by-85-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More than 800 mg of Calcium increases Cardiovascular events by 85 percent– Nov 2011">More than 800 mg of Calcium increases Cardiovascular events by 85 percent– Nov 2011</a>
+* [More than 800 mg of Calcium increases Cardiovascular events by 85 percent– Nov 2011](/posts/more-than-800-mg-of-calcium-increases-cardiovascular-events-by-85-percent)
 
 * [Is a health problem associated with Low vitamin D, Low Magnesium, or too much Calcium – Jan 2016](/posts/is-a-health-problem-associated-with-low-vitamin-d-low-magnesium-or-too-much-calcium)
 

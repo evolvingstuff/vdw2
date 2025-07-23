@@ -59,13 +59,13 @@ Our results support the idea that the CYP2R1 is the major enzyme responsible for
 
 * [GC, CYP2R1 and DHCR7 genes associated with low vitamin D levels in China – 2012, 2013](/posts/gc-cyp2r1-and-dhcr7-genes-associated-with-low-vitamin-d-levels-in-china-2012-2013)
 
-* <a href="/posts/gc-genotypes-associated-with-lower-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: GC genotypes associated with lower vitamin D levels – April 2012">GC genotypes associated with lower vitamin D levels – April 2012</a>
+* [GC genotypes associated with lower vitamin D levels – April 2012](/posts/gc-genotypes-associated-with-lower-vitamin-d-levels)
 
 * [Response to vitamin D related to DBP and CYP2RI genes – Aug 2013](/posts/response-to-vitamin-d-related-to-dbp-and-cyp2ri-genes)
 
 * [40 percent less likely to get adequate vitamin D response if have certain genes – Jan 2013](/posts/40-percent-less-likely-to-get-adequate-vitamin-d-response-if-have-certain-genes)
 
-* <a href="/posts/pharmacology-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2269">Pharmacology of vitamin D - April 2011</a> which has the following graphic
+* [Pharmacology of vitamin D - April 2011](/posts/pharmacology-of-vitamin-d) which has the following graphic
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/glossman-f1.jpg" alt="image" style="max-width: 400px;">
 

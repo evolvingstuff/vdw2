@@ -45,10 +45,10 @@ PMID:     23032093
 
 ## See also VitaminDWiki
 
-* <a href="/posts/sunshine-superhormone-overview-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunshine Superhormone - Overview 2010">Sunshine Superhormone - Overview 2010</a>
+* [Sunshine Superhormone - Overview 2010](/posts/sunshine-superhormone-overview-2010)
 
 * [Handout on Vitamin D (Hormone D) and sleep - Gominak 2012](/posts/handout-on-vitamin-d-hormone-d-and-sleep-gominak-2012)
 
 * [Vitamin D Hormone - Stumpf 2012](/posts/vitamin-d-hormone-stumpf-2012)
 
-* <a href="/posts/hormone-d-deficiency-a-serious-endocrine-disorder" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hormone D Deficiency – A Serious Endocrine Disorder – July 2010">Hormone D Deficiency – A Serious Endocrine Disorder – July 2010</a>
+* [Hormone D Deficiency – A Serious Endocrine Disorder – July 2010](/posts/hormone-d-deficiency-a-serious-endocrine-disorder)

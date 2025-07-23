@@ -46,7 +46,7 @@ Wakayo T 1, Belachew T 1, Vatanparast H 2, Whiting SJ 2.
 
 * [Why India's vitamin D deficiency is grim - 40 pages Feb 2014](/posts/why-indias-vitamin-d-deficiency-is-grim-40-pages)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a> 
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d) 
 
 * [60 minutes of sunlight needed to decrease vitamin D deficiency in sunny climate – Dec 2012](/posts/60-minutes-of-sunlight-needed-to-decrease-vitamin-d-deficiency-in-sunny-climate)
 

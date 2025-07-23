@@ -31,8 +31,8 @@ The microbial transformation of vitamin D3 (1) by the fungi Candida maltosa R42 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 becomes Calcidiol which becomes Calcitriol">Vitamin D3 becomes Calcidiol which becomes Calcitriol</a>
+* [Vitamin D3 becomes Calcidiol which becomes Calcitriol](/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol)
 
 * [Inhaled vitamin D help lungs - many studies](/posts/inhaled-vitamin-d-help-lungs-many-studies)
 
-* <a href="/posts/fully-activated-vitamin-d-calcitriol-is-produced-inside-and-outside-of-the-kidneys" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fully-activated Vitamin D (Calcitriol) is produced inside and outside of the kidneys – July 2020">Fully-activated Vitamin D (Calcitriol) is produced inside and outside of the kidneys – July 2020</a>
+* [Fully-activated Vitamin D (Calcitriol) is produced inside and outside of the kidneys – July 2020](/posts/fully-activated-vitamin-d-calcitriol-is-produced-inside-and-outside-of-the-kidneys)

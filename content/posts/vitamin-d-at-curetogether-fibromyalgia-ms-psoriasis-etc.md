@@ -93,7 +93,7 @@
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/fibro-cures-from-curetogether.jpg" alt="image">
 
- **Note: the most popular page on VitaminDWiki is <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>** 
+ **Note: the most popular page on VitaminDWiki is [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)** 
 
 ---
 
@@ -107,7 +107,7 @@
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/psoriasis-and-sunlight---curetogether.jpg" alt="image">
 
- **See also   [Psoriasis](/categories/psoriasis)  [5 Amazing Properties of Sunlight You've Never Heard About](/posts/5-amazing-properties-of-sunlight-youve-never-heard-about)  <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a>** 
+ **See also   [Psoriasis](/tags/psoriasis.html)  [5 Amazing Properties of Sunlight You've Never Heard About](/posts/5-amazing-properties-of-sunlight-youve-never-heard-about)  [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)** 
 
 ---
 
@@ -115,7 +115,7 @@
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/ms-and-d-at-curetogether.jpg" alt="image">
 
- **Note: many groups believe that Vitamin D and/or UV help MS see <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>**  
+ **Note: many groups believe that Vitamin D and/or UV help MS see [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)**  
 
 ---
 
@@ -134,7 +134,7 @@ Interesting that some people get benefit from non mid-day sun: conflicts with sc
 
 Yes, a multivitamin pill has too little Vitamin D to be much of a benefit
 
- **<a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> has the following chart** 
+ **[Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) has the following chart** 
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -232,22 +232,22 @@ Yes, a multivitamin pill has too little Vitamin D to be much of a benefit
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
-* [Depression](/categories/depression) category list
+* [Depression](/tags/depression.html) category list
 
-* [Headache](/categories/headache) category list
+* [Headache](/tags/headache.html) category list
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
-* [Sleep](/categories/sleep) category list
+* [Sleep](/tags/sleep.html) category list
 
-* [Dental](/categories/dental) category list
+* [Dental](/tags/dental.html) category list
 
-* [Immunity](/categories/immunity) category list
+* [Immunity](/tags/immunity.html) category list
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
 * [Search VitaminDWiki for Celiac](https://www.VitaminDWiki.com/Search%20Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google%20Search&googles.x=0&googles.y=0&q=celiac&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 135 items as of Dec 2013
 
-* <a href="/posts/curetogether-vitamin-d-symptoms-treatments-and-causes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CureTogether Vitamin D symptoms, treatments, and causes">Previous webpage on CureTogether Oct 2012</a>
+* [Previous webpage on CureTogether Oct 2012](/posts/curetogether-vitamin-d-symptoms-treatments-and-causes)

@@ -58,21 +58,21 @@
 
 #### VitaminDWiki references
 
-* <a href="/posts/addictions-to-smoking-alcohol-opiates-etc-may-be-reduced-by-vitamin-d-dopamine-etc-28-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Addictions to smoking, alcohol, opiates, etc. may be reduced by Vitamin D (dopamine etc. 28 studies) – Nov 2024">Addictions to smoking, alcohol, opiates, etc. may be reduced by Vitamin D (dopamine etc. 28 studies) – Nov 2024</a>
+* [Addictions to smoking, alcohol, opiates, etc. may be reduced by Vitamin D (dopamine etc. 28 studies) – Nov 2024](/posts/addictions-to-smoking-alcohol-opiates-etc-may-be-reduced-by-vitamin-d-dopamine-etc-28-studies)
 
 * [Alchoholics have low Calcium and low Vitamin D, increasing Vit D might help – Nov 2016](/posts/alchoholics-have-low-calcium-and-low-vitamin-d-increasing-vit-d-might-help)
 
-* <a href="/posts/hypothesis-lack-of-vitamin-d-leads-to-depression-leads-to-alcohol-use" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis lack of vitamin D leads to depression leads to alcohol use">Hypothesis lack of vitamin D leads to depression leads to alcohol use</a>
+* [Hypothesis lack of vitamin D leads to depression leads to alcohol use](/posts/hypothesis-lack-of-vitamin-d-leads-to-depression-leads-to-alcohol-use)
 
-* <a href="/posts/alcoholics-with-low-vitamin-d-get-more-bone-fractures" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alcoholics with low vitamin D get more bone fractures -Jan 2011">Alcoholics with low vitamin D get more bone fractures -Jan 2011</a>
+* [Alcoholics with low vitamin D get more bone fractures -Jan 2011](/posts/alcoholics-with-low-vitamin-d-get-more-bone-fractures)
 
-* <a href="/posts/alcoholics-have-osteoporosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alcoholics have osteoporosis – Nov 2010">Alcoholics have osteoporosis – Nov 2010</a>
+* [Alcoholics have osteoporosis – Nov 2010](/posts/alcoholics-have-osteoporosis)
 
    *  **<span style="color:#F00;">Perhaps: too much alcohol ==> liver failure ==>less vitamin D ==> poor bones</span>** 
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 ---
 

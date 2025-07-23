@@ -112,9 +112,9 @@ The beneficial effects of active vitamin D in vascular health could be a result 
 
 * [Search VitaminDWiki for Renin-Angiotensin](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22Renin-Angiotensin+%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 198 items as of March 2014
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Hypothesis: Vitamin D deficiency is due to malfunctioning renin angiotensin system – Jan 2013](/posts/hypothesis-vitamin-d-deficiency-is-due-to-malfunctioning-renin-angiotensin-system) 
 

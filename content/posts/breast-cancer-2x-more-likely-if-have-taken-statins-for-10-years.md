@@ -49,7 +49,7 @@ PMID:     23833125
 
 ## See also VitaminDWiki
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a>  many previous studies have found huge interactions between statins and vitamin D
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies)  many previous studies have found huge interactions between statins and vitamin D
 
 ## See also web
 

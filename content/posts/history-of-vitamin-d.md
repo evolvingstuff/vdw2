@@ -292,20 +292,20 @@ Prof. Robert Koch (1843-1910) received his Nobel Prize in Physiology or Medicine
 
 * [Sunshine is a cure for “weak and soft muscles” – 425 BC](/posts/sunshine-is-a-cure-for-weak-and-soft-muscles-425-bc)
 
-* <a href="/posts/history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019">History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019</a>
+* [History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019](/posts/history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019)
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)
 
 * [Vitamin D and its active metabolites – DeLuca Jan 2014](/posts/vitamin-d-and-its-active-metabolites-deluca)
 
-* <a href="/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2127">Vitamin D3 becomes Calcidiol which becomes Calcitriol</a>
+* [Vitamin D3 becomes Calcidiol which becomes Calcitriol](/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol)
 
-* <a href="/posts/vitamin-d-pathways-and-benefits-to-the-body-dr-norman-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1370">Vitamin D pathways and benefits to the body - Dr Norman - 2011</a>
+* [Vitamin D pathways and benefits to the body - Dr Norman - 2011](/posts/vitamin-d-pathways-and-benefits-to-the-body-dr-norman-2011)
 
 * Dr. Norman has organized the [Vitamin D Workshop](/posts/vitamin-d-workshop) since 1973.
 
 #### Chart of Vitamin D Benefits by Dr. Norman
 
- **<a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 813">Overview Kidney and vitamin D</a> has the following** 
+ **[Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d) has the following** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 900px;">

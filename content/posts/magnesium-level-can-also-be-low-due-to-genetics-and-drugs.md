@@ -91,4 +91,4 @@ This review provides an extensive and comprehensive overview of Mg2+ research ov
 
 * [Magnesium – I used to believe that food had enough, now I supplement with 400 mg daily – Dr. Lundberg May 2015](/posts/magnesium-i-used-to-believe-that-food-had-enough-now-i-supplement-with-400-mg-daily-dr-lundberg)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)

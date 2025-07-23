@@ -93,6 +93,6 @@ PMID:     23346457
 
 * [A balanced diet is no longer enough – supplements needed - VitaminDWiki Oct 2012](/posts/a-balanced-diet-is-no-longer-enough-supplements-needed-vitamindwiki)
 
-* <a href="/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012">Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012</a>
+* [Vitamin D and omega-3 are the only supplements which show benefit in meta-analysis – Jan 2012](/posts/vitamin-d-and-omega-3-are-the-only-supplements-which-show-benefit-in-meta-analysis)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)

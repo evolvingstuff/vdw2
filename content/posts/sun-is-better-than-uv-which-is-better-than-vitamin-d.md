@@ -31,23 +31,23 @@
 
 * Vitamin D levels produced by the sun [last longer](/posts/half-life-of-vitamin-d-varies) than those produced by supplements
 
-* Benefits to <a href="/posts/hypothesis-more-in-sunshine-than-vitamin-d-to-reduce-ms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis - more in sunshine than vitamin D to reduce MS – Feb 2010">Multiple Sclerosis from Sun</a> produced vitamin D are much better than those from supplements
+* Benefits to [Multiple Sclerosis from Sun](/posts/hypothesis-more-in-sunshine-than-vitamin-d-to-reduce-ms) produced vitamin D are much better than those from supplements
 
 * Sun also produces Nitric Oxide that helps many health problems - such as [cardiovascular](/posts/nitric-oxide-from-sun-uva-vitamin-d-reduces-cardiovascular-problems)
 
 * [5 Amazing Properties of Sunlight You've Never Heard About](/posts/5-amazing-properties-of-sunlight-youve-never-heard-about)
 
-* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+* [Health benefit of Sunlight is more than Vitamin D in the blood - many studies](/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies)
 
 * [Light (especially UV) and Health conference – Germany June 2015](/posts/light-especially-uv-and-health-conference-germany)
 
 * [The sun provides more health benefit than vitamin D – Dr. Lucas podcast – May 2015](/posts/the-sun-provides-more-health-benefit-than-vitamin-d-dr-lucas-podcast)
 
-* <a href="/posts/340000-us-deaths-annually-due-to-insufficient-sun-some-due-to-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 340,000 US deaths annually due to insufficient sun (some due to low vitamin D) – July 2020">340,000 US deaths annually due to insufficient sun (some due to low vitamin D) – July 2020</a>
+* [340,000 US deaths annually due to insufficient sun (some due to low vitamin D) – July 2020](/posts/340000-us-deaths-annually-due-to-insufficient-sun-some-due-to-low-vitamin-d)
 
-* <a href="/posts/which-is-worse-avoiding-sunlight-or-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Which Is Worse - Avoiding Sunlight or Vitamin D Deficiency – April 2019">Which Is Worse - Avoiding Sunlight or Vitamin D Deficiency – April 2019</a>
+* [Which Is Worse - Avoiding Sunlight or Vitamin D Deficiency – April 2019](/posts/which-is-worse-avoiding-sunlight-or-vitamin-d-deficiency)
 
-* <a href="/posts/nature-deficiency-leads-to-disease-less-sun-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nature deficiency leads to disease (less sun, less Vitamin d) – Feb 2019">Nature deficiency leads to disease (less sun, less Vitamin d) – Feb 2019</a>
+* [Nature deficiency leads to disease (less sun, less Vitamin d) – Feb 2019](/posts/nature-deficiency-leads-to-disease-less-sun-less-vitamin-d)
 
 ### UV is good too
 
@@ -73,17 +73,17 @@
 
 * [20 cent vitamin D pill similar to 2 hours sunbathing at 60 degree latitude – RCT Aug 2013](/posts/20-cent-vitamin-d-pill-similar-to-2-hours-sunbathing-at-60-degree-latitude-rct)
 
-* <a href="/posts/uv-reduces-cardiovascular-and-metabolic-problems-vitamin-d-plus-nitric-oxide" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV reduces cardiovascular and metabolic problems– Vitamin D plus Nitric oxide – Sept 2023">UV reduces cardiovascular and metabolic problems– Vitamin D plus Nitric oxide – Sept 2023</a>
+* [UV reduces cardiovascular and metabolic problems– Vitamin D plus Nitric oxide – Sept 2023](/posts/uv-reduces-cardiovascular-and-metabolic-problems-vitamin-d-plus-nitric-oxide)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
-* <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
+* [Optimize vitamin D from the sun](/posts/optimize-vitamin-d-from-the-sun)
 
 * [Sun and UV](/posts/sun-and-uv)  a meta-page
 
 * [Many wavelengths of light provide health benefits, not just UV – March 2016](/posts/many-wavelengths-of-light-provide-health-benefits-not-just-uv)
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a>
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)
 
 * [Increase your vitamin D from the sun by wearing a tan-through instead of standard shirt](/posts/increase-your-vitamin-d-from-the-sun-by-wearing-a-tan-through-instead-of-standard-shirt)
 

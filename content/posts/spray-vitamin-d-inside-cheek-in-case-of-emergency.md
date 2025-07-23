@@ -25,7 +25,7 @@
 
 #### In case of emergency you probably  want to get vitamin D into the bloodstream as quickly as possible.
 
-<a href="/posts/fat-soluable-vitamins-decrease-quickly-after-trauma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fat soluable vitamins decrease quickly after trauma">Fat soluable vitamins decrease quickly after trauma</a>
+[Fat soluable vitamins decrease quickly after trauma](/posts/fat-soluable-vitamins-decrease-quickly-after-trauma)
 
 Without getting an injection, it appears that a vitamin D spray is the fastest way.
 

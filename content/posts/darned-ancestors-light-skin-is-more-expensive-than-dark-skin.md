@@ -49,7 +49,7 @@ Can elect to restock low level of vitamin D very quickly for just $1.60
 
 * [Black women and vitamin D: Nigeria 26 ng, Chicago 12 ng – April 2013](/posts/black-women-and-vitamin-d-nigeria-26-ng-chicago-12-ng)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a> has the following chart 
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d) has the following chart 
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

@@ -60,4 +60,4 @@ PMID: 22558121
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-suntans-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1462">Overview Suntans melanoma and vitamin D</a>
+* [Overview Suntans melanoma and vitamin D](/tags/overview-suntans-melanoma-and-vitamin-d.html)

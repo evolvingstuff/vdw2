@@ -81,9 +81,9 @@ Moore CE1, Liu Y2.
 
 * [Obese children and youths need more vitamin D – Review Feb 2015](/posts/obese-children-and-youths-need-more-vitamin-d-review)
 
-* <a href="/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011">Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011</a>
+* [Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011](/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 > Obese need 2.5X more vitamin D - click on chart for details
 

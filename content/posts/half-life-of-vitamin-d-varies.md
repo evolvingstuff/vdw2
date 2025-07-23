@@ -80,13 +80,13 @@ Clinical practice: 4 to 5 X the half-life to reach steady state
 
 * [All "Half-life" but not 'vitamin K" in VitaminDWiki](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22half+life'&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com#hl=en&domains=VitaminDWiki.com&sclient=psy-ab&q=%22half+life%22+-%22vitamin+k%22+site:VitaminDWiki.com&oq=%22half+life%22+-%22vitamin+k%22+site:VitaminDWiki.com&gs_l=serp.3...176442.187900.0.189561.17.16.1.0.0.0.127.1520.14j2.16.0.les%3B..0.0...1c.1BuMRjhvK0c&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&fp=9f3de7f9ee57ed80&biw=1241&bih=584)  **633 items as of July 2017** 
 
-* <a href="/posts/fat-soluable-vitamins-decrease-quickly-after-trauma" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2042">Fat soluable vitamins decrease quickly after trauma</a> Decrease by 59% in a single day
+* [Fat soluable vitamins decrease quickly after trauma](/posts/fat-soluable-vitamins-decrease-quickly-after-trauma) Decrease by 59% in a single day
 
-* <a href="/posts/vitamin-d2-half-life-about-3-days" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3137">Vitamin D2 half-life about 3 days – April 2012</a>
+* [Vitamin D2 half-life about 3 days – April 2012](/tags/vitamin-d2-half-life-about-3-days-april-2012.html)
 
 * [70,000 IU of vitamin D had about 30 day half-life – Dec 2012](/posts/70000-iu-of-vitamin-d-had-about-30-day-half-life)
 
-* <a href="/posts/take-vitamin-d3-daily-or-weekly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">Take vitamin D3 daily or weekly</a> which has the following graphics
+* [Take vitamin D3 daily or weekly](/tags/take-vitamin-d3-daily-or-weekly.html) which has the following graphics
 
 > Notional of Vitamin D benefit vs dosing frequency of  **<span style="color:#00F;">< 30 nanograms</span>** 
 
@@ -108,11 +108,11 @@ Example of half life vitamin D2
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
-Example of <a href="/posts/vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2036">vitamin D from the sun</a> 1 week to double
+Example of [vitamin D from the sun](/tags/vitamin-d-from-the-sun.html) 1 week to double
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/png/modelingf2.png" alt="image" style="max-width: 400px;">
 
-<a href="/posts/same-reference" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2036">same reference</a> has an adjustment function to account for the photodegradation of vitamin D by the sun
+[same reference](/tags/same-reference.html) has an adjustment function to account for the photodegradation of vitamin D by the sun
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/png/modelingf4.png" alt="image" style="max-width: 400px;">
 

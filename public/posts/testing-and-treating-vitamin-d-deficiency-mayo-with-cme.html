@@ -1,0 +1,71 @@
+<!doctype html><html><head><meta charset=utf-8><title>Testing and treating vitamin D deficiency – Mayo with CME</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Testing and treating vitamin D deficiency – Mayo with CME</h1><time>July 31, 2010</time><div data-pagefind-body><h4 id=vitamin-d-deficiency-in-adults-when-to-test-and-how-to-treat>Vitamin D Deficiency in Adults: When to Test and How to Treat</h4><p>Mayo Clinic Proceedings August 2010 vol. 85 no. 8 752-758</p><ol><li><p>Kurt A. Kennel, MD,</p></li><li><p>Matthew T. Drake, MD, PhD, and</p></li><li><p>Daniel L. Hurley, MD</p></li><li><p>From the Division of Endocrinology, Diabetes, Metabolism, and Nutrition, Mayo Clinic, Rochester, MN</p></li><li><p>Individual reprints of this article are not available. Address correspondence to Daniel L. Hurley, MD, Division of Endocrinology, Mayo Clinic, 200 First St SW, Rochester, MN 55905 <a href=mailto:hurley.daniel@mayo.edu>hurley.daniel@mayo.edu</a></p></li></ol><p>Recent evidence for the nonskeletal effects of vitamin D, coupled with recognition that vitamin D deficiency is common, has revived interest in this hormone. Vitamin D is produced by skin exposed to ultraviolet B radiation or obtained from dietary sources, including supplements.</p><p>Persons commonly at risk for vitamin D deficiency include those with inadequate sun exposure, limited oral intake, or impaired intestinal absorption. Vitamin D adequacy is best determined by measurement of the 25-hydroxyvitamin D concentration in the blood.</p><p>Average daily vitamin D intake in the population at large and current dietary reference intake values are often inadequate to maintain optimal vitamin D levels. Clinicians may recommend supplementation but be unsure how to choose the optimal dose and type of vitamin D and how to use testing to monitor therapy. This review outlines strategies to prevent, diagnose, and treat vitamin D deficiency in adults.</p><hr><p>PDF is attached at bottom of this page</p><h1 id=continuing-medical-education-questions-from-the-end-of-the-paper>Continuing Medical Education Questions from the end of the paper</h1><p>CME Questions About Vitamin D Deficiency in Adults</p><h3 id=1-which-one-of-the-following-patients-is-at-greatest-risk-for-vitamin-d-deficiency>1. Which one of the following patients is at greatest risk for vitamin D deficiency?</h3><p>a. A formula-fed infant</p><p>b. A teenaged girl eating an unrestricted diet and taking a multivitamin</p><p>c. A 30-year-old male nursing home resident treated with phenytoin for epilepsy</p><p>d. A 70-year-old woman with osteopenia taking a calcium carbonate with vitamin D supplement</p><p>e. A 43-year-old male farmer</p><h3 id=2-which-one-of-the-following-biochemical-tests-provides-the-best-initial-assessment-of-a-persons-vitamin-d-status>2. Which one of the following biochemical tests provides the best initial assessment of a person&rsquo;s vitamin D status?</h3><p>a. Serum parathyroid hormone (PTH)</p><p>b. Serum 25-hydroxyvitamin D (calcidiol) <span>[25(OH)D]</span></p><p>c. Serum 1,25-dihydroxyvitamin D (calcitriol) <span>[1,25(OH)2D]</span></p><p>d. Serum bone alkaline phosphatase</p><p>e. 24-hour urine calcium excretion</p><h3 id=3-which-one-of-the-following-sets-of-laboratory-test-findings-reference-ranges-provided-parenthetically-is-most-suggestive-of-vitamin-d-toxicity>3. Which one of the following sets of laboratory test findings (reference ranges provided parenthetically) is most suggestive of vitamin D toxicity?</h3><ul><li><p>a. Serum calcium, 9.7 mg/dL (8.9-10.1 mg/dL); serum phosphorus, 4.0 mg/dL (2.5-4.5 mg/dL); 24-hour urine calcium, 250 mg/spec (25-300 mg/spec); 25(OH)D, 120 ng/mL (25-80 ng/mL); and PTH, 30 pg/mL (15-50 pg/mL)</p></li><li><p>b. Serum calcium, 10.4 mg/dL (8.9-10.1 mg/dL); serum phosphorus, 4.8 mg/dL (2.5-4.5 mg/dL);</p></li></ul><blockquote><p>24-hour urine calcium, 450 mg/spec (25-300 mg/spec); 25(OH)D, 120 ng/mL (25-80 ng/mL); and PTH, 20 pg/mL (15-50 pg/mL)</p></blockquote><ul><li><p>c. Serum calcium, 11.0 mg/dL (8.9-10.1 mg/dL); serum phosphorus, 2.2 mg/dL (2.5-4.5 mg/dL); 1,25(OH)2D, 85 pg/mL (22-67 pg/mL); and PTH, 95 pg/mL (15-50 pg/mL)</p></li><li><p>d. Serum calcium, 10.6 mg/dL (8.9-10.1 mg/dL); serum phosphorus, 4.0 mg/dL (2.5-4.5 mg/dL); 24-hour urine calcium, 450 mg/spec (25-300 mg/spec); 25(OH)D, 26 ng/mL (25-80 ng/mL); 1,25(OH)2D, 85 pg/mL (22-67 pg/mL); and PTH, 12 pg/mL (15-50 pg/mL)</p></li><li><p>e. Serum calcium, 15 mg/dL (8.9-10.1 mg/dL); serum phosphorus, 4.0 mg/dL (2.5-4.5 mg/dL);</p></li></ul><blockquote><p>24-hour urine calcium, 450 mg/spec (25-300 mg/spec); 25(OH)D, 35 ng/mL (25-80 ng/mL); 1,25(OH)2D, &lt;10 pg/mL (22-67 pg/mL); and PTH, &lt;6 pg/mL (15-50 pg/mL)</p></blockquote><h3 id=4-which-one-of-the-following-treatment-strategies-is-most-likely-to-be-safe-and-effective-to-achieve-optimal-vitamin-d-levels-in-a-person-with-little-sun-exposure>4. Which one of the following treatment strategies is most likely to be safe and effective to achieve optimal vitamin D levels in a person with little sun exposure?</h3><p>a. Daily supplementation with 400 IU of vitamin D3 (D3) via a multivitamin</p><p>b. Daily supplementation with 800 to 1000 IU of vitamin</p><p>c. Daily supplementation with 50,000 IU of D3</p><p>d. Monthly supplementation with 50,000 IU of D2</p><p>e. One daily serving of fortified milk</p><h3 id=5-which-one-of-the-following-statements-about-measuring-25ohd-levels-is-correct>5. Which one of the following statements about measuring 25(OH)D levels is correct?</h3><ul><li><p>a. All patients should be tested for vitamin D deficiency before supplementation</p></li><li><p>b. A patient with a 25(OH)D level of 10 ng/mL who is beginning treatment with 800 IU/d of D3 should be rechecked after 1 month</p></li><li><p>c. A patient with a 25(OH)D level of 10 ng/mL who is beginning treatment with 50,000 IU of vitamin D 3 times weekly for 1 month</p></li></ul><blockquote><p>to be followed by 50,000 IU once monthly should be rechecked after 1 month</p></blockquote><ul><li><p>d. A patient with a 25(OH)D level of 10 ng/mL who is beginning treatment with 2000 IU/d of D3 should be rechecked after 6 months</p></li><li><p>e. A patient with generous summertime sun exposure living at a high latitude with a low 25(OH)D level in spring should be supplemented and retested in the fall</p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/epilepsy.html><span class=tag>epilepsy</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/how-much.html><span class=tag>How much</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/neurological.html><span class=tag>neurological</span></a>
+<a href=/tags/overview-for-doctors.html><span class=tag>Overview for doctors</span></a>
+<a href=/tags/treatment.html><span class=tag>Treatment</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, bone, child, diabetes, dosage, epilepsy, falls fractures, How much, metabolic, neurological, Overview for doctors, Treatment, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

@@ -68,9 +68,9 @@ Randomized controlled trials are warranted to determine the effect of optimizing
 
 * [Any supplementation with vitamin D reduced chance of pneumonia by 50 percent – Oct 2013](/posts/any-supplementation-with-vitamin-d-reduced-chance-of-pneumonia-by-50-percent)
 
-* <a href="/posts/pneumonia-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pneumonia and low vitamin D - many studies">Pneumonia and low vitamin D - many studies</a> CAP
+* [Pneumonia and low vitamin D - many studies](/posts/pneumonia-and-low-vitamin-d-many-studies) CAP
 
-* <a href="/posts/icu-patients-with-pneumonia-stay-7-days-longer-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ICU patients with pneumonia stay 7 days longer if low vitamin D - Dec 2011">ICU patients with pneumonia stay 7 days longer if low vitamin D - Dec 2011</a>
+* [ICU patients with pneumonia stay 7 days longer if low vitamin D - Dec 2011](/posts/icu-patients-with-pneumonia-stay-7-days-longer-if-low-vitamin-d)
 
 * [Search pneumoma in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=pneumonia+&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 270 items as of Oct 2013
 

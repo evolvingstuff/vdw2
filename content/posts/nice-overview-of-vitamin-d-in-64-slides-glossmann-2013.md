@@ -91,7 +91,7 @@
 
 * [Search for Glossmann on VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=glossmann&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)  21 items as of Aug 2015
 
-* <a href="/posts/pharmacology-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pharmacology of vitamin D - April 2011">Pharmacology of vitamin D - April 2011</a> Glossmann
+* [Pharmacology of vitamin D - April 2011](/posts/pharmacology-of-vitamin-d) Glossmann
 
 * [Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011](/posts/seniors-like-everyone-else-need-vitamin-d-and-should-avoid-sunburns-2011) Glossmann
 

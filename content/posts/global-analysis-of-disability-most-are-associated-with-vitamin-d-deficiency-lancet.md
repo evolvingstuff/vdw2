@@ -51,7 +51,7 @@ The list is in order of the most disability to the least (e.g. back pain is the 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/yld-70-74.jpg" alt="image">
 
-### <a href="/posts/additional-charts-of-burden-of-disease-on-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3556">Additional charts of burden of disease on VitaminDWiki</a> - Dec 2012
+### [Additional charts of burden of disease on VitaminDWiki](/tags/additional-charts-of-burden-of-disease-on-vitamindwiki.html) - Dec 2012
 
 Having the additional charts on a different page reduces download time and complexity of this page
 

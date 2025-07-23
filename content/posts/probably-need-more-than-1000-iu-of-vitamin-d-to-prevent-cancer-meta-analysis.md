@@ -66,7 +66,7 @@ The efficacy of cholecalciferol supplementation for raising the concentration of
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * [Mayo clinic starting Cancer RCT using grossly inadequate 2,000 IU of vitamin D – Sept 2013](/posts/mayo-clinic-starting-cancer-rct-using-grossly-inadequate-2000-iu-of-vitamin-d)
 

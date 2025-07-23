@@ -48,15 +48,15 @@ France joins several other countries (Canada, Australia, US, etc) in trying to r
 
 * [No longer debating vitamin D supplementation, now debating need for testing first – April 2013](/posts/no-longer-debating-vitamin-d-supplementation-now-debating-need-for-testing-first)
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
 * [50,000 IU monthly safe to take without any vitamin D testing – RCT Dec 2013](/posts/50000-iu-monthly-safe-to-take-without-any-vitamin-d-testing-rct)
 
 > VitaminDWiki suggests 50,000 IU twice a month
 
-* <a href="/posts/after-245000-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2066">After 245,000 vitamin D tests 121,000 supplemented but only 5,400 had 2nd test – Oct 2011</a>
+* [After 245,000 vitamin D tests 121,000 supplemented but only 5,400 had 2nd test – Oct 2011](/tags/after-245000-vitamin-d-tests-121000-supplemented-but-only-5400-had-2nd-test-oct-2011.html)
 
-* <a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
+* [VA showed increased vitamin D associated with lower health costs - Lancet May 2012](/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet)
 
 * [Task force confirms - not much benefit from low Vitamin D supplementation – Nov 2014](/posts/task-force-confirms-not-much-benefit-from-low-vitamin-d-supplementation)
 

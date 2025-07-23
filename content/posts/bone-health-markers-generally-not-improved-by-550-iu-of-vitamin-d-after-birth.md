@@ -67,8 +67,8 @@ PMID: 22776138
 
 # See also VitaminDWiki
 
-* <a href="/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2768">Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012</a>
+* [Healthy bones need: Calcium, Vitamin D, Magnesium, Silicon, Vitamin K, and Boron – 2012](/posts/healthy-bones-need-calcium-vitamin-d-magnesium-silicon-vitamin-k-and-boron-2012)
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2366">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
-* <a href="/posts/bone-health-and-vitamin-d-book-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2312">Bone Health and vitamin D book - 2011</a>
+* [Bone Health and vitamin D book - 2011](/posts/bone-health-and-vitamin-d-book-2011)

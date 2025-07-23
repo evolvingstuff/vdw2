@@ -110,10 +110,10 @@ About Vasquez: from the book
 
 * [Vitamin D may protect against Ebola](/posts/vitamin-d-may-protect-against-ebola)
 
-* <a href="/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010">Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010</a>
+* [Viral infection reduced 90 percent with 2000 IU of vitamin D – Dec 2010](/posts/viral-infection-reduced-90-percent-with-2000-iu-of-vitamin-d)
 
 * [Vitamin D can inhibit enveloped virus (e.g. Corona, Herpes, Bird Flu, Epstein, Hepatitis, RSV, etc.) – March 2011](/posts/vitamin-d-can-inhibit-enveloped-virus-eg-corona-herpes-bird-flu-epstein-hepatitis-rsv-etc)
 
-* <a href="/posts/reduced-viral-respiratory-tract-infections-by-half-by-having-more-than-38-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010">Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010</a> which has the following chart
+* [Reduced viral respiratory tract infections by half by having more than 38 ng of vitamin D – June 2010](/posts/reduced-viral-respiratory-tract-infections-by-half-by-having-more-than-38-ng-of-vitamin-d) which has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/viral-2010.jpg" alt="image" width="650">

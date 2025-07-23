@@ -1,0 +1,87 @@
+<!doctype html><html><head><meta charset=utf-8><title>STD rates are highest if dark skin, and US rates are increasing</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>STD rates are highest if dark skin, and US rates are increasing</h1><time>September 27, 2017</time><div data-pagefind-body><h4 id=new-std-cases-hit-record-high-in-us-cdc-sayshttpwwwcnncom20170926healthstd-highest-ever-reported-cdcindexhtml><a href=http://www.cnn.com/2017/09/26/health/std-highest-ever-reported-cdc/index.html>New STD cases hit record high in US, CDC says</a></h4><ul><li><p>“In 2016, Americans were infected with more than 2 million new cases of <strong>gonorrhea, syphilis, and chlamydia</strong> , the highest number of these sexually transmitted diseases ever reported, the Centers for Disease Control and Prevention said Tuesday”</p></li><li><p>“ <strong>Only those three STDs are required by law to be reported to the CDC by physicians</strong> . When you include <strong>HIV, herpes</strong> and more of the dozens of diseases which can be transmitted sexually but which are not tracked, the CDC estimates there are <strong>more than 20 million new cases of STDs in the United States each year</strong> . At least half occur in young people ages 15 to 24. ”</p></li><li><p>syphilis, a long-forgotten disease (like rickets) increased 19% in one year (2015-2016)</p></li><li><p>&ldquo;For the first time in many years, we are now seeing more cases of babies born with congenital syphilis than babies born with HIV,”</p></li></ul><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:750px"><p><strong>Dark Skin</strong></p><ul><li><p><a href=/posts/overview-dark-skin-and-vitamin-d>Overview Dark Skin and Vitamin D</a></p></li><li><p><a href=/posts/half-of-the-us-will-be-people-of-color-wonder-how-many-will-be-vitamin-d-deficient>Half of the US will be people of color – wonder how many will be vitamin D deficient</a></p></li><li><p><a href=/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure>Survey finds that Non-Caucasians do not feel that people need sun exposure – July 2012</a></p></li></ul><blockquote><p>They actually need more sunshine, but actually get less sunshine</p></blockquote><ul><li><a href=/posts/bibliography-of-black-white-health-disparities-linked-to-vitamin-d-dr-grant>Bibliography of Black-White health disparities linked to vitamin D - Dr. Grant March 2017</a></li></ul><p><strong>Pregnancy</strong></p><ul><li><p><a href=/posts/ethnicity-and-low-vitamin-d-levels-during-pregnancy>Ethnicity and low vitamin D levels during pregnancy – Jan 2016</a></p></li><li><p><a href=/posts/vitamin-d-deficiency-diseases-in-dark-skinned-people-living-far-from-equator-meta-analysis>Vitamin D deficiency diseases in dark skinned people living far from equator – Meta-analysis Oct 2013</a></p></li><li><p><a href=/posts/dark-skin-pregnancies-and-vitamin-d-many-studies>Dark skin pregnancies and Vitamin D - many studies</a></p></li></ul><blockquote><p>Pregnacies decrease Vitamin D levels unless supplement/get enough sunshine</p></blockquote><p><strong>Diabetes</strong></p><ul><li><p><a href=/posts/diabetic-blacks-80-percent-had-low-vitamin-d-less-than-20-ng-a-decade-before>Diabetic blacks – 80 percent had low vitamin D (less than 20 ng) a decade before – Sept 2017</a></p></li><li><p><a href=/posts/diabetics-with-darker-skin-were-more-vitamin-d-deficient>Diabetics with darker skin were more vitamin D deficient – May 2012</a></p></li></ul><p><strong>HIV</strong></p><ul><li><p><a href=/posts/overview-hiv-and-vitamin-d>Overview HIV and vitamin D</a></p></li><li><p><a href=/posts/8-times-less-bacteria-in-blood-of-hiv-patients-if-vitamin-d-levels-greater-than-30-ng>8 times less bacteria in blood of HIV patients if Vitamin D levels greater than 30 ng – April 2016</a></p></li><li><p><a href=/posts/tb-lowers-vitamin-d-then-hiv-lowers-it-even-more-2014>TB lowers vitamin D, then HIV lowers it even more - 2014</a></p></li><li><p><a href=/posts/those-with-hiv-who-doubled-their-vitamin-d-levels-reduced-their-chance-of-death-by-47-percent>Those with HIV who doubled their vitamin D levels reduced their chance of death by 47 percent – Oct 2013</a></p></li><li><p><a href=/posts/blacks-with-hiv-were-35x-more-likely-to-be-vitamin-d-deficient-than-whites>Blacks with HIV were 3.5X more likely to be vitamin D deficient than whites – May 2012</a></p></li></ul><p><strong>Herpes</strong></p><ul><li><p><a href=/posts/herpes-cytomegalovirus-downregulates-the-vitamin-d-receptor-by-8x>Herpes (Cytomegalovirus) downregulates the vitamin D receptor by 8X – Jan 2017</a></p></li><li><p><a href=/posts/herpes-virus-infection-while-pregnant-increases-autism-risk-by-2-x-vitamin-d-not-mentioned>Herpes virus infection while pregnant increases Autism risk by 2 X (Vitamin D not mentioned) – Feb 2017</a></p></li></ul><p><strong>Women</strong></p><ul><li><a href=/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection>Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011</a></li></ul><p><strong>Other</strong></p><p><a href=/tags/obese.html>Obese</a></p><p><a href=/posts/overview-cancer-colon-and-vitamin-d>Colon Cancer</a></p><p><a href=/posts/overview-breast-cancer-and-vitamin-d>Breast Cancer</a></p><p><a href=/posts/jordanian-women-vitamin-d-16-ng-if-western-clothing-12-ng-otherwise>Wear excessive clothes</a></p><p><a href=/posts/people-who-get-little-noon-day-sun-must-supplement-with-vitamin-d-systematic-review>avoid sun a lot</a></p><p><a href=/posts/40-percent-lower-vitamin-d-level-if-work-other-shifts-italy>Work night shift</a></p><hr><h4 id=see-also-web>See also web</h4><ul><li><p><a href=https://www.ncbi.nlm.nih.gov/pubmed/23642399>The possible roles of vitamin D and curcumin in treating gonorrhea</a> 2013</p></li><li><p><a href=https://blackdoctor.org/506476/breaking-gonorrhea-syphilis-chlamydia-are-becoming-untreatable/>WARNING: Gonorrhea, Syphilis & Chlamydia Are Becoming ‘Untreatable’</a> Black Doctor Aug 2016</p></li><li><p><a href=https://en.wikipedia.org/wiki/Sexually_transmitted_infection>STD</a> Wikipedia</p></li></ul></div><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/std-2016-min.pdf>Download the PDF from VitaminDWiki</a></strong>     <strong>does not contain the word <span style=color:#00f>Vitamin</span>, but includes the following figures</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/std-f1.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/std-f6.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/std-f16.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/std-f31.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/std-f40.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/std-fig-s.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/std-fig-w.jpg alt=image width=600></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/bone-cancer.html><span class=tag>bone cancer</span></a>
+<a href=/tags/breast-cancer.html><span class=tag>breast cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer-in-vdr.html><span class=tag>cancer in VDR</span></a>
+<a href=/tags/colon-cancer.html><span class=tag>colon cancer</span></a>
+<a href=/tags/darker-skin.html><span class=tag>Darker Skin</span></a>
+<a href=/tags/diabetes.html><span class=tag>diabetes</span></a>
+<a href=/tags/diabetes-and-vitamin-d-receptor.html><span class=tag>diabetes and vitamin d receptor</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/herpes-shingles.html><span class=tag>herpes shingles</span></a>
+<a href=/tags/immunity.html><span class=tag>Immunity</span></a>
+<a href=/tags/metabolic.html><span class=tag>metabolic</span></a>
+<a href=/tags/pregnancy.html><span class=tag>pregnancy</span></a>
+<a href=/tags/rickets.html><span class=tag>rickets</span></a>
+<a href=/tags/tuberculosis.html><span class=tag>tuberculosis</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/viruses-and-pregnancy.html><span class=tag>viruses and pregnancy</span></a>
+<a href=/tags/viruses-and-vitamin-d-receptor.html><span class=tag>viruses and vitamin d receptor</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a></div><div data-pagefind-meta=tags hidden>bacteria, bone, bone cancer, breast cancer, cancer, cancer in VDR, colon cancer, Darker Skin, diabetes, diabetes and vitamin d receptor, dosage, genetics, herpes shingles, Immunity, metabolic, pregnancy, rickets, tuberculosis, virus, viruses and pregnancy, viruses and vitamin d receptor, vitamin d, vitamin d and viruses, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

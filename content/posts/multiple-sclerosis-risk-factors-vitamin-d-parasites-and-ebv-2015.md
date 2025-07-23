@@ -60,17 +60,17 @@ PMID: 26046559
 
 * [Dr. Coimbra explains his treatment with high dose vitamin D for multiple sclerosis – Feb 2015](/posts/dr-coimbra-explains-his-treatment-with-high-dose-vitamin-d-for-multiple-sclerosis)
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [Search VitaminDWiki for " Epstein-Barr virus"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22Epstein-Barr+virus%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 64 items as of Jan 2016
 
-* <a href="/posts/multiple-sclerosis-etc-strongly-associated-with-epstein-barr-virus-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Multiple Sclerosis etc. strongly associated with Epstein-Barr virus (and vitamin D">Multiple Sclerosis etc. strongly associated with Epstein-Barr virus (and vitamin D</a>
+* [Multiple Sclerosis etc. strongly associated with Epstein-Barr virus (and vitamin D](/posts/multiple-sclerosis-etc-strongly-associated-with-epstein-barr-virus-and-vitamin-d)
 
 * [Vitamin D and multiple sclerosis—from epidemiology to prevention – June 2015](/posts/vitamin-d-and-multiple-sclerosisfrom-epidemiology-to-prevention)
 
 * [Epigenetics, vitamin D, and Multiple Sclerosis](/posts/epigenetics-vitamin-d-and-multiple-sclerosis)
 
-* <a href="/posts/ms-causes-explored-vitamin-d-is-in-2-of-the-4-pathways-2009" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 416">MS causes explored - vitamin D is in 2 of the 4 pathways - 2009</a>
+* [MS causes explored - vitamin D is in 2 of the 4 pathways - 2009](/tags/ms-causes-explored-vitamin-d-is-in-2-of-the-4-pathways-2009.html)
 
    * EBV is also in 2 of the 4 pathways
 

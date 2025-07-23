@@ -46,7 +46,7 @@ Ann Intern Med. 2016;165(12):867-868. DOI: 10.7326/M16-1743
 
 * It may be that Calcium along with large amounts of Vitamin D do not cause cardiovascular problem, but this publication does not address that concern
 
-* Note: Both <a href="/posts/vitamin-d-and-vitamin-k" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Vitamin K">Vitamin K2</a> and [Organic Calcium](/posts/calcium-from-plants-might-be-ok) minimize or perhaps eliminate the problem
+* Note: Both [Vitamin K2](/tags/vitamin-k2.html) and [Organic Calcium](/posts/calcium-from-plants-might-be-ok) minimize or perhaps eliminate the problem
 
  **See also VitaminDWiki** 
 

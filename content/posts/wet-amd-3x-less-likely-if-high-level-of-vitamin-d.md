@@ -59,9 +59,9 @@ None |29 ng||
 
 * [Macular degeneration 4X more likely if low vitamin D and a particular gene – May 2013](/posts/macular-degeneration-4x-more-likely-if-low-vitamin-d-and-a-particular-gene)
 
-* <a href="/posts/macular-degeneration-decreased-with-uv-and-perhaps-vitamin-d-genetics" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Macular Degeneration decreased with UV and perhaps Vitamin D genetics– Oct 2011">Macular Degeneration decreased with UV and perhaps Vitamin D genetics– Oct 2011</a>
+* [Macular Degeneration decreased with UV and perhaps Vitamin D genetics– Oct 2011](/posts/macular-degeneration-decreased-with-uv-and-perhaps-vitamin-d-genetics)
 
-* <a href="/posts/vitamin-d-may-help-prevent-macular-degeneration-in-women-younger-than-75" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D may help prevent macular degeneration in women younger than 75 – April 2011">Vitamin D may help prevent macular degeneration in women younger than 75 – April 2011</a>
+* [Vitamin D may help prevent macular degeneration in women younger than 75 – April 2011](/posts/vitamin-d-may-help-prevent-macular-degeneration-in-women-younger-than-75)
 
 * [Off topic: Baby-sized aspirin doubles chance of getting wet macular degeneration](/posts/off-topic-baby-sized-aspirin-doubles-chance-of-getting-wet-macular-degeneration)
 

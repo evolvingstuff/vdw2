@@ -82,18 +82,18 @@ PMID:     23531689
 
 ## See also VitaminDWiki
 
-* <a href="/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some seniors do not repond to 1600 IU of vitamin D">Some seniors do not repond to 1600 IU of vitamin D</a>
+* [Some seniors do not repond to 1600 IU of vitamin D](/posts/some-seniors-do-not-repond-to-1600-iu-of-vitamin-d)
 
 * [Physical performance of seniors increases with vitamin D up to 30 ng – Jan 2013](/posts/physical-performance-of-seniors-increases-with-vitamin-d-up-to-30-ng)
 
 * [Seniors with higher vitamin D levels have better physical performance – Sept 2012](/posts/seniors-with-higher-vitamin-d-levels-have-better-physical-performance)
 
-* <a href="/posts/vitamin-d-omega-3-and-exercise-are-being-used-in-controlled-trial-to-support-healthy-ageing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Omega 3 and Exercise are being used in controlled trial to support healthy ageing – Feb 2012">Vitamin D Omega 3 and Exercise are being used in controlled trial to support healthy ageing – Feb 2012</a>
+* [Vitamin D Omega 3 and Exercise are being used in controlled trial to support healthy ageing – Feb 2012](/posts/vitamin-d-omega-3-and-exercise-are-being-used-in-controlled-trial-to-support-healthy-ageing)
 
-* <a href="/posts/vitamin-d-and-falls-editorial" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and falls – editorial May 2011">Vitamin D and falls – editorial May 2011</a>
+* [Vitamin D and falls – editorial May 2011](/posts/vitamin-d-and-falls-editorial)
 
-* <a href="/posts/fraser-health-in-canada-will-be-giving-20000-iu-vitamin-d-weekly-to-reduce-falls" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fraser Health in Canada will be giving 20000 IU vitamin D weekly to reduce falls – Nov 2011">Fraser Health in Canada will be giving 20000 IU vitamin D weekly to reduce falls – Nov 2011</a>
+* [Fraser Health in Canada will be giving 20000 IU vitamin D weekly to reduce falls – Nov 2011](/posts/fraser-health-in-canada-will-be-giving-20000-iu-vitamin-d-weekly-to-reduce-falls)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a> generally need 2,000 IU if have not added exercise
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d) generally need 2,000 IU if have not added exercise
 
 * [Vitamin D may prevent falls and fractures without Calcium – an overview of 9 meta-analysis – Oct 2012](/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis)

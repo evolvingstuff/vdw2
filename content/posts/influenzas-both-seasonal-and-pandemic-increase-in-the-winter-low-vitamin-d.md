@@ -70,6 +70,6 @@ PMID: 21036090
 
 ## See also VitaminDWiki
 
-* <a href="/posts/influenza-solar-radiation-and-vitamin-d-2009" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Influenza, solar radiation and vitamin D - 2009">Influenza, solar radiation and vitamin D - 2009</a>  previous paper by same authors
+* [Influenza, solar radiation and vitamin D - 2009](/posts/influenza-solar-radiation-and-vitamin-d-2009)  previous paper by same authors
 
 * [Vitamin D may protect against Ebola](/posts/vitamin-d-may-protect-against-ebola)

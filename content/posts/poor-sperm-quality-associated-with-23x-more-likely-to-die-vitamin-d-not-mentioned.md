@@ -98,4 +98,4 @@ STUDY FUNDING/COMPETING INTEREST(S) This study is supported in part by P01HD3628
 
 * [Even small amounts of Vitamin D prevent mortality in adults – Cochrane Review Jan 2014](/posts/even-small-amounts-of-vitamin-d-prevent-mortality-in-adults-cochrane-review)
 
-* <a href="/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012">Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012</a>
+* [Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012](/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis)

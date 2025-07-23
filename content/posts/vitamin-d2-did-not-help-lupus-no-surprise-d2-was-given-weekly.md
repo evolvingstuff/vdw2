@@ -46,13 +46,13 @@ Conclusion: We found that a 20 ng/mL increase in vitamin D was associated with a
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
-* <a href="/posts/vitamin-d3-is-much-better-than-d2-especially-if-not-taken-daily-meta-analysis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2894">Vitamin D3 is much better than D2, especially if not taken daily – meta-analysis June 2012</a> 
+* [Vitamin D3 is much better than D2, especially if not taken daily – meta-analysis June 2012](/posts/vitamin-d3-is-much-better-than-d2-especially-if-not-taken-daily-meta-analysis) 
 
-* <a href="/posts/vitamin-d2-loading-doses-did-not-increase-and-may-have-decreased-blood-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2008">Vitamin D2 loading doses did not increase, and may have decreased blood levels– June 2011</a>
+* [Vitamin D2 loading doses did not increase, and may have decreased blood levels– June 2011](/posts/vitamin-d2-loading-doses-did-not-increase-and-may-have-decreased-blood-levels)
 
-* <a href="/posts/graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2012">Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011</a> which has the following
+* [Graphs of diseases vs vitamin D levels - and D3 vs D2- April 2011](/posts/graphs-of-diseases-vs-vitamin-d-levels-and-d3-vs-d2) which has the following
 
 {SPLIT(colsize=550|500)}
 

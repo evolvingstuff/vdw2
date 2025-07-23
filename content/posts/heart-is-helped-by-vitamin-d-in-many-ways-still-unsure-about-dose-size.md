@@ -70,9 +70,9 @@ PMID:     24436433
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* [Cardiovascular](/categories/cardiovascular) category list, including related categories and searches
+* [Cardiovascular](/tags/cardiovascular.html) category list, including related categories and searches
 
 * [Best heart geometry associated with vitamin D of 30-37 ng – Oct 2012](/posts/best-heart-geometry-associated-with-vitamin-d-of-30-37-ng)
 

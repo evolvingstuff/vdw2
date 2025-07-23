@@ -25,7 +25,7 @@
 }
 
 
-#### <a href="/posts/high-school-in-atlanta" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2378">High School in Atlanta</a> added vitamin D in 2011 to their sports teams
+#### [High School in Atlanta](/tags/high-school-in-atlanta.html) added vitamin D in 2011 to their sports teams
 
 Martin Luther King Jr. High School in Lithonia, Georgia has reduced its concussions and sports injuries by almost 100%. What was their secret? In 2011, the school started a parent-led nutrition program that included a daily regimen of vitamin D. The program was instituted by Dr. L. Ray Matthews, one of the nation’s leading researchers in vitamin D and assistant professor of surgery and director of surgical care at Grady Memorial Hospital in Atlanta,
 

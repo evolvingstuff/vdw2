@@ -52,19 +52,19 @@ Note: current  **UK definition of Vitamin D deficiency as <25 nmol/L ( <span sty
 
  **Comments by VitaminDWiki** 
 
-* Why bother commenting on this document if it keeps the 10ng definition, <a href="/posts/which-is-the-lowest-in-the-world" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">which is the lowest in the world</a>
+* Why bother commenting on this document if it keeps the 10ng definition, [which is the lowest in the world](/tags/which-is-the-lowest-in-the-world.html)
 
-* 10 ng/ml often does not even prevent [Rickets](/categories/rickets), or any of the diseases which have been <a href="/posts/proven-to-be-prevented-or-treated-by-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">proven to be prevented or treated by vitamin D</a>
+* 10 ng/ml often does not even prevent [Rickets](/tags/rickets.html), or any of the diseases which have been [proven to be prevented or treated by vitamin D](/tags/proven-to-be-prevented-or-treated-by-vitamin-d.html)
 
-* <a href="/posts/healthy-start-vitamin-d-supplementation-in-uk-is-a-farce" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy Start vitamin D supplementation in UK is a farce - Nov 2010">Healthy Start vitamin D supplementation in UK is a farce - Nov 2010</a>
+* [Healthy Start vitamin D supplementation in UK is a farce - Nov 2010](/posts/healthy-start-vitamin-d-supplementation-in-uk-is-a-farce)
 
-* It took over 50 years for the UK to agree that <a href="/posts/vitamin-c-could-prevent-scurvy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3854">vitamin C could prevent scurvy</a> - why should they be any faster now?
+* It took over 50 years for the UK to agree that [vitamin C could prevent scurvy](/tags/vitamin-c-could-prevent-scurvy.html) - why should they be any faster now?
 
-* <a href="/posts/the-myth-that-2000-iu-of-vitamin-d-was-toxic" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1018">The myth that >2,000 IU of vitamin D was toxic</a> was started in the UK **only**  50 years ago 
+* [The myth that >2,000 IU of vitamin D was toxic](/tags/the-myth-that-2000-iu-of-vitamin-d-was-toxic.html) was started in the UK **only**  50 years ago 
 
-* <a href="/posts/perhaps-better-to-try-a-different-way-to-increase-vitamin-d-such-as-using-social-media-brazil" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3857">Perhaps better to try a different way to increase vitamin D, such as using social media (Brazil)</a> 
+* [Perhaps better to try a different way to increase vitamin D, such as using social media (Brazil)](/tags/perhaps-better-to-try-a-different-way-to-increase-vitamin-d-such-as-using-social-media-brazil.html) 
 
-* Reminder: <a href="/posts/doctors-have-at-least-10-reasons-to-be-reluctant-to-increase-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2617">Doctors have at least 10 reasons to be reluctant to increase vitamin D</a>: which has the following quote
+* Reminder: [Doctors have at least 10 reasons to be reluctant to increase vitamin D](/tags/doctors-have-at-least-10-reasons-to-be-reluctant-to-increase-vitamin-d.html): which has the following quote
 
 >  **<span style="color:#00F;">It is difficult to get a man to understand something when his salary is dependent upon his not understanding it</span>**   Upton Sinclair 
 

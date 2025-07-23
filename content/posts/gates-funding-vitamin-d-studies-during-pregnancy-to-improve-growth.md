@@ -26,7 +26,7 @@
 
 > 28,000 IU/week, not start until 17th week, which is too late to be a benefit
 
-* <a href="/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ensure a healthy pregnancy and baby - take Vitamin D before conception">Ensure a healthy pregnancy and baby - take Vitamin D before conception</a>
+* [Ensure a healthy pregnancy and baby - take Vitamin D before conception](/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception)
 
    * 10th week is the latest to start with Vitamin D maintenance dose
 

@@ -38,6 +38,6 @@ Barts and the London School of Medicine and Dentistry
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [Autoimmune disorder patients in Brazil helped by vitamin D – video and Facebook – Nov 2012](/posts/autoimmune-disorder-patients-in-brazil-helped-by-vitamin-d-video-and-facebook) MS CURED!

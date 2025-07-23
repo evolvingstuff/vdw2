@@ -28,7 +28,7 @@
 
 [Anti-depression medication about as good as big increase in vitamin D – meta-analysis of flawless data April 2014](/posts/anti-depression-medication-about-as-good-as-big-increase-in-vitamin-d-meta-analysis-of-flawless-data)
 
-<a href="/posts/why-randomized-controlled-trials-of-calcium-and-vitamin-d-sometimes-fail" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012">Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012</a>
+[Why randomized controlled trials of calcium and vitamin D sometimes fail – June 2012](/posts/why-randomized-controlled-trials-of-calcium-and-vitamin-d-sometimes-fail)
 
 #### Dr. Cannell summarizes the biological flaws as
 

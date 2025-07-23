@@ -406,7 +406,7 @@ has the following chart:  **7X increase of bipolar of all ages in a decade**  (4
 
 * [Woman describing her bipolar life - 4 minute video](https://boingboing.net/2018/01/03/watch-this-interesting-descrip.html) Oct 2017
 
-* "While <a href="/posts/adhd-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ADHD and Vitamin D Deficiency">ADHD</a> is chronic or ongoing,  **bipolar disorder is usually episodic** , with periods of normal mood interspersed with depression, mania, or hypomania."
+* "While [ADHD](/posts/adhd-and-vitamin-d-deficiency) is chronic or ongoing,  **bipolar disorder is usually episodic** , with periods of normal mood interspersed with depression, mania, or hypomania."
 
 * [Bipolar ](https://articles.mercola.com/bipolar-disorder.aspx?utm_source=dnl&utm_medium=email&utm_content=art3&utm_campaign=20180429Z1_UCM&et_cid=DM203977&et_rid=289678115) Mercola April 2018, Vitamin D not mentioned
 

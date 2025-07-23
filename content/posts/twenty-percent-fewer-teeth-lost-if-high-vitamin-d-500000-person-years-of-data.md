@@ -74,8 +74,8 @@ Conclusions These results are suggestive of an association between predictors of
 
 * [Dental caries cut in half by vitamin D, review of 24 old clinical trials – Nov 2012](/posts/dental-caries-cut-in-half-by-vitamin-d-review-of-24-old-clinical-trials)
 
-* <a href="/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011">More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011</a>  has been known for a long long time
+* [More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011](/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934)  has been known for a long long time
 
-* <a href="/posts/vitamin-deficiency-underlies-tooth-decay-2009-and-1931" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin Deficiency Underlies Tooth Decay – 2009 and 1931">Vitamin Deficiency Underlies Tooth Decay – 2009 and 1931</a>
+* [Vitamin Deficiency Underlies Tooth Decay – 2009 and 1931](/posts/vitamin-deficiency-underlies-tooth-decay-2009-and-1931)
 
-* <a href="/posts/uvb-and-vitamin-d-might-decrease-dental-caries-better-than-fluoride" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UVB and Vitamin D might decrease dental caries better than fluoride – July 2011">UVB and Vitamin D might decrease dental caries better than fluoride – July 2011</a>
+* [UVB and Vitamin D might decrease dental caries better than fluoride – July 2011](/posts/uvb-and-vitamin-d-might-decrease-dental-caries-better-than-fluoride)

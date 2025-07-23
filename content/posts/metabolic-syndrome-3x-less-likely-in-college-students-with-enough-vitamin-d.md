@@ -51,7 +51,7 @@ Among non-diabetic young adults, the potential inverse relationship between vita
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Metabolic Syndrome in children is associated with low vitamin D – review Jan 2013](/posts/metabolic-syndrome-in-children-is-associated-with-low-vitamin-d-review)
 

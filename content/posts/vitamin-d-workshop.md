@@ -35,7 +35,7 @@
 
 [Vitamin D Workshop Posters - June 2013](/posts/vitamin-d-workshop-posters)
 
-<a href="/posts/vitamindwiki-poster-20122013" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2698">VitaminDWiki poster 2012,2013</a>
+[VitaminDWiki poster 2012,2013](/tags/vitamindwiki-poster-20122013.html)
 
  **<span style="color:#00F;">Commonwealth talk near to workshop: </span>** 
 
@@ -43,7 +43,7 @@
 
 [Breast Cancer and Vitamin D: Dr Garland - video June 2013](/posts/breast-cancer-and-vitamin-d-dr-garland-video) video
 
- **New <a href="/posts/chart-of-vitamin-d-levels-vs-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4210">Chart of Vitamin D levels vs Disease</a> - by GrassRootsHealth** 
+ **New [Chart of Vitamin D levels vs Disease](/tags/chart-of-vitamin-d-levels-vs-disease.html) - by GrassRootsHealth** 
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

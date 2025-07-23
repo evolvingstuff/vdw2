@@ -91,7 +91,7 @@ Robyn M Lucas, MB ChB, PhD, FAFPHM, Associate Professor2
 
 #### See also	VitaminDWiki
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Tuberculosis varies with UVB in Australia - March 2013](/posts/tuberculosis-varies-with-uvb-in-australia)
 

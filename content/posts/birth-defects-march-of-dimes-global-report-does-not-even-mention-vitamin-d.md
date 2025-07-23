@@ -39,4 +39,4 @@
 
 * [Off topic – Making birth defects ‘preventable’ Folic acid and the politics of risk reduction - Nov 2013](/posts/off-topic-making-birth-defects-preventable-folic-acid-and-the-politics-of-risk-reduction) vitamin D not mentioned
 
-* <a href="/posts/birth-defects-about-15-percent-more-likely-if-consume-little-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Birth defects about 15 percent more-likely if consume little vitamin D – Oct 2022">Birth defects about 15 percent more-likely if consume little vitamin D – Oct 2022</a>
+* [Birth defects about 15 percent more-likely if consume little vitamin D – Oct 2022](/tags/birth-defects-about-15-percent-more-likely-if-consume-little-vitamin-d-oct-2022.html)

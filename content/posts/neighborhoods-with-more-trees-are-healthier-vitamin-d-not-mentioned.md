@@ -31,11 +31,11 @@ Also: three times weekly:  tandem bike 1 hour, 1/2  hour sunbathing/nap (summer 
 
 ## See also VitaminDWiki
 
-<a href="/posts/if-a-greenspace-is-nearby-vitamin-d-30-percent-more-likely-to-be-above-20-ng-uk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If a Greenspace is nearby, Vitamin D 30% more likely to be above 20 ng (UK) – Dec 2024">If a Greenspace is nearby, Vitamin D 30% more likely to be above 20 ng (UK) – Dec 2024</a>
+[If a Greenspace is nearby, Vitamin D 30% more likely to be above 20 ng (UK) – Dec 2024](/posts/if-a-greenspace-is-nearby-vitamin-d-30-percent-more-likely-to-be-above-20-ng-uk)
 
 [Prescription: A walk in the park to improve your health (ParkRX) - May 2014](/posts/prescription-a-walk-in-the-park-to-improve-your-health-parkrx)
 
-<a href="/posts/disadvantaged-get-less-sun-and-have-poor-health-in-the-north" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Disadvantaged get less sun and have poor health in the North– Aug 2011">Disadvantaged get less sun and have poor health in the North– Aug 2011</a> Disadvantaged have less access to parks
+[Disadvantaged get less sun and have poor health in the North– Aug 2011](/posts/disadvantaged-get-less-sun-and-have-poor-health-in-the-north) Disadvantaged have less access to parks
 
 [60 minutes of sunlight needed to decrease vitamin D deficiency in sunny climate – Dec 2012](/posts/60-minutes-of-sunlight-needed-to-decrease-vitamin-d-deficiency-in-sunny-climate)
 
@@ -49,6 +49,6 @@ Also: three times weekly:  tandem bike 1 hour, 1/2  hour sunbathing/nap (summer 
 
 [20 cent vitamin D pill similar to 2 hours sunbathing at 60 degree latitude – RCT Aug 2013](/posts/20-cent-vitamin-d-pill-similar-to-2-hours-sunbathing-at-60-degree-latitude-rct)
 
-<a href="/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis of cause and effect of vitamin D deficiency">Hypothesis of cause and effect of vitamin D deficiency</a> following chart was started 4 years ago
+[Hypothesis of cause and effect of vitamin D deficiency](/posts/hypothesis-of-cause-and-effect-of-vitamin-d-deficiency) following chart was started 4 years ago
 
 <img src="/attachments/d3.mock.jpg" alt="image">

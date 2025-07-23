@@ -54,6 +54,6 @@ PMID: 23262496
 
 # See also VitaminDWiki
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a>
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies)
 
-* <a href="/posts/not-all-statins-increase-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Not all statins increase vitamin D levels – Dec 2010">Not all statins increase vitamin D levels – Dec 2010</a>
+* [Not all statins increase vitamin D levels – Dec 2010](/posts/not-all-statins-increase-vitamin-d-levels)

@@ -59,8 +59,8 @@ Uveal melanoma is the most frequent intraocular cancer and the second most commo
 
 * [On-job UV associated with LESS, not more, skin cancer - April 2013](/posts/on-job-uv-associated-with-less-not-more-skin-cancer)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013](/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013)
 
-* <a href="/posts/ultraviolet-radiation-and-the-anterior-eye" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultraviolet Radiation and the Anterior Eye – June 2011">Ultraviolet Radiation and the Anterior Eye – June 2011</a>
+* [Ultraviolet Radiation and the Anterior Eye – June 2011](/posts/ultraviolet-radiation-and-the-anterior-eye)

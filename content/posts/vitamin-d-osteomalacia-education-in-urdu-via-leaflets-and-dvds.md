@@ -40,11 +40,11 @@ The two groups were very mismatched in intial understanding of the importance of
 
 * [Adult osteomalacia (rickets) pain in an individual relieved by vitamin D, etc. – May 2013](/posts/adult-osteomalacia-rickets-pain-in-an-individual-relieved-by-vitamin-d-etc)
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a>  simple test of bone pain
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency)  simple test of bone pain
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
 
-* <a href="/posts/solar-and-nutritional-osteomalacia-soft-bones-at-all-stages-of-life" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Solar and nutritional Osteomalacia (soft bones at all stages of life) – Jan 2019">Solar and nutritional Osteomalacia (soft bones at all stages of life) – Jan 2019</a>
+* [Solar and nutritional Osteomalacia (soft bones at all stages of life) – Jan 2019](/posts/solar-and-nutritional-osteomalacia-soft-bones-at-all-stages-of-life)
 
 * [Rare Nutritional Rickets increased 10X in 20 years – Feb 2013](/posts/rare-nutritional-rickets-increased-10x-in-20-years)
 

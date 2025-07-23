@@ -20,7 +20,7 @@
 }
 
 
-### A lot of baking used to use lard which often had <a href="/posts/500-iu-of-vitamin-d-per-teaspoon" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1414">500 IU of vitamin D per teaspoon</a>
+### A lot of baking used to use lard which often had [500 IU of vitamin D per teaspoon](/tags/500-iu-of-vitamin-d-per-teaspoon.html)
 
 Pies, cookies, pastry, short bread, biskets, shepards pie, etc.
 

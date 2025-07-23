@@ -69,7 +69,7 @@ The bioavailable and free fraction of 25OH-D are attractive complementary marker
 
 ## See also VitaminDWiki
 
-* [Trauma and surgery](/categories/trauma-and-surgery) category listing with associated searches
+* [Trauma and surgery](/posts/trauma-and-surgery) category listing with associated searches
 
 * [Search VitaminDWiki for ICU OR “critical care” OR “intensive care” OR “acute care”](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=ICU+OR+%E2%80%9Ccritical+care%E2%80%9D+OR+%E2%80%9Cintensive+care%E2%80%9D+OR+%E2%80%9Cacute+care%E2%80%9D&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 494 items as of Nov 2014
 
@@ -89,9 +89,9 @@ The bioavailable and free fraction of 25OH-D are attractive complementary marker
 
 ### Loading dose restores levels in a days, not months
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-* <a href="/posts/540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011">540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011</a>
+* [540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011](/posts/540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days)
 
 * [Guideline following hip fracture – 50000 IU vitamin D daily for 7 days – Jan 2013](/posts/guideline-following-hip-fracture-50000-iu-vitamin-d-daily-for-7-days)
 

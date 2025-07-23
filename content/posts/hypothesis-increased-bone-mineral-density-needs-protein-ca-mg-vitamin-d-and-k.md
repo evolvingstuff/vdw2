@@ -70,4 +70,4 @@ Amount of Collogen per day varied hugely: from 0.01 gram to 10 grams per day
 
 Cost per gram ranged between $0.05 and $4.
 
-<a href="/posts/supplement-reviews-by-consumerlab-vitamin-d-magnesium-vitamin-k-calcium-boron" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Supplement reviews by ConsumerLab – Vitamin D, Magnesium, Vitamin K, Calcium , Boron – Nov 2019">Consumerlab gives a free 5 day trial of their excellent service</a>
+[Consumerlab gives a free 5 day trial of their excellent service](/posts/supplement-reviews-by-consumerlab-vitamin-d-magnesium-vitamin-k-calcium-boron)

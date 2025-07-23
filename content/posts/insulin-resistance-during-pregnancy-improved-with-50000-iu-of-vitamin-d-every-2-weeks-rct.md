@@ -69,6 +69,6 @@ PMID:     23350644
 
 * [Will 1600 IU vitamin D prevent gestational diabetes – no, not enough, July 2013](/posts/will-1600-iu-vitamin-d-prevent-gestational-diabetes-no-not-enough)
 
-* <a href="/posts/300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011">300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011</a>
+* [300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011](/posts/300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct)
 
 * [2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013](/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis)

@@ -245,7 +245,7 @@ Vitamin D Workshop will precede this meeting
 
 ## [Vitamin D Workshop precedes ENDO](http://vitamind.ucr.edu/workshop/16thworkshop.html)
 
-<a href="/posts/click-here-for-details" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4071">CLICK HERE for details</a>
+[CLICK HERE for details](/tags/click-here-for-details.html)
 
 ## ENDO 2013
 

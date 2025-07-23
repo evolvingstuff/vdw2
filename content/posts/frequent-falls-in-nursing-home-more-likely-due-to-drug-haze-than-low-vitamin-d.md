@@ -76,7 +76,7 @@ PMID: 25600475
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Seniors need at least 4,000 IU vitamin D, no test needed – Consensus Jan 2014](/posts/seniors-need-at-least-4000-iu-vitamin-d-no-test-needed-consensus)
 

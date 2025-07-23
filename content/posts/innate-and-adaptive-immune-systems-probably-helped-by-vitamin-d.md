@@ -51,8 +51,8 @@ Summary: Here, we review the potential mechanisms of vitamin D in promoting the 
 
 * [Antimicrobial peptides and proteins can be boosted by vitamin D, etc. – May 2014](/posts/antimicrobial-peptides-and-proteins-can-be-boosted-by-vitamin-d-etc)
 
-* <a href="/posts/reducing-vitamin-d-reduces-cathelicidin-which-reduces-immunity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reducing vitamin D reduces cathelicidin which reduces immunity">Reducing vitamin D reduces cathelicidin which reduces immunity</a>
+* [Reducing vitamin D reduces cathelicidin which reduces immunity](/posts/reducing-vitamin-d-reduces-cathelicidin-which-reduces-immunity)
 
-* <a href="/posts/antimicrobial-implications-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Antimicrobial implications of vitamin D – Oct 2011">Antimicrobial implications of vitamin D – Oct 2011</a> which has the following chart of possibilities
+* [Antimicrobial implications of vitamin D – Oct 2011](/posts/antimicrobial-implications-of-vitamin-d) which has the following chart of possibilities
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/antimicrob-fig-1.jpg" alt="image" width="600">

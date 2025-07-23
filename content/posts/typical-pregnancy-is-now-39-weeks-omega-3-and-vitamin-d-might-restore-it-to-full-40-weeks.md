@@ -36,7 +36,7 @@
 
 **In recent decades  many things have happened** 
 
-* Vitamin D levels have decreased <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">35 reasons</a>
+* Vitamin D levels have decreased [35 reasons](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
 * Omega-3 levels have decreased
 

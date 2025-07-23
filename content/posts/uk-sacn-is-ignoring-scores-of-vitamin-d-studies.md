@@ -100,7 +100,7 @@
 
 ---
 
- **Related item update:<a href="/posts/us-admits-math-mistake-was-made-in-2010-in-estimating-vitamin-d-but-will-not-change-recommendations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US admits math mistake was made in 2010 in estimating Vitamin D, but will not change recommendations – Nov 2017">US admits math mistake was made in 2010 in estimating Vitamin D, but will not change recommendations – Nov 2017</a>** 
+ **Related item update:[US admits math mistake was made in 2010 in estimating Vitamin D, but will not change recommendations – Nov 2017](/posts/us-admits-math-mistake-was-made-in-2010-in-estimating-vitamin-d-but-will-not-change-recommendations)** 
 
 ---
 

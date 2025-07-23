@@ -97,15 +97,15 @@ so  1 egg yolk would have 6,000 to 10,000 IU
 
 #### See also VitaminDWiki
 
-* <a href="/posts/3-proven-ways-to-increase-vitamin-d-in-eggs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3 proven ways to increase Vitamin D in eggs – Aug 2020">3 proven ways to increase Vitamin D in eggs – Aug 2020</a>
+* [3 proven ways to increase Vitamin D in eggs – Aug 2020](/posts/3-proven-ways-to-increase-vitamin-d-in-eggs)
 
-* <a href="/posts/200-iu-per-100-gram-of-egg-yoke-when-add-vitamin-d-to-poultry-feed-in-europe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 200 IU per 100 gram of egg yoke when add vitamin D to poultry feed in Europe – Aug 2011">200 IU per 100 gram of egg yoke when add vitamin D to poultry feed in Europe – Aug 2011</a>
+* [200 IU per 100 gram of egg yoke when add vitamin D to poultry feed in Europe – Aug 2011](/posts/200-iu-per-100-gram-of-egg-yoke-when-add-vitamin-d-to-poultry-feed-in-europe)
 
 * [Free-range chicken eggs have at least 3X more vitamin D – Oct 2013](/posts/free-range-chicken-eggs-have-at-least-3x-more-vitamin-d)
 
-* <a href="/posts/hens-with-vitamin-d-were-better-in-at-least-5-ways-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hens with Vitamin D were better in at least 5 ways – RCT Aug 2018">Hens with Vitamin D were better in at least 5 ways – RCT Aug 2018</a>
+* [Hens with Vitamin D were better in at least 5 ways – RCT Aug 2018](/posts/hens-with-vitamin-d-were-better-in-at-least-5-ways-rct)
 
-* <a href="/posts/infant-higher-vitamin-d-if-mom-took-sun-took-vit-d-was-not-obese-or-ate-eggs-china" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infant higher Vitamin D if mom took sun, took Vit D, was not obese, or ate eggs (China) – Feb 2019">Infant higher Vitamin D if mom took sun, took Vit D, was not obese, or ate eggs (China) – Feb 2019</a>
+* [Infant higher Vitamin D if mom took sun, took Vit D, was not obese, or ate eggs (China) – Feb 2019](/posts/infant-higher-vitamin-d-if-mom-took-sun-took-vit-d-was-not-obese-or-ate-eggs-china)
 
 ### See also web
 

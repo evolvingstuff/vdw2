@@ -84,15 +84,15 @@ Auro Della Giustina1, Massimo Landi2, Federica Bellini3, Mariangela Bosoni4, Giu
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a> 
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d) 
 
 * [Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015](/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015)
 
 * [Childhood asthma still reduced 4 months after 800 IU of Vitamin D daily - RCT Feb 2016](/posts/childhood-asthma-still-reduced-4-months-after-800-iu-of-vitamin-d-daily-rct)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  **<span style="color:#00F;">Asthma has been proven to be treated by at least 4 Random Controlled trials with Vitamin D intervention</span>** 
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  **<span style="color:#00F;">Asthma has been proven to be treated by at least 4 Random Controlled trials with Vitamin D intervention</span>** 
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/allergies-and-asthma-overwhelming-evidence.pdf">Download the PDF from VitaminDWiki.</a>** 
 

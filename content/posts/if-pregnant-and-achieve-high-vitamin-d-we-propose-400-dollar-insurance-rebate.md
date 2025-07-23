@@ -62,15 +62,15 @@
 
 * $ 400  **<span style="color:#F00;">rebate/reward</span>**  given to women for achieving > 40ng level of vitamin D while pregnant
 
-> &nbsp; &nbsp; Note: <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">most of the reasons for poor response to vitamin D will be covered in the brochure</a>
+> &nbsp; &nbsp; Note: [most of the reasons for poor response to vitamin D will be covered in the brochure](/posts/reasons-for-low-response-to-vitamin-d)
 
 * $ 600 estimated  **<span style="color:#F00;">costs</span>**  includes:  vitamin D tests, vitamin D, Omega-3, education, analysis, management, etc.
 
 * $ 4,000 estimated  **savings**  of per pregnancy & birth versus having low vitamin D
 
-> [high risk for low Vitamin D](/posts/high-risk-of-little-vitamin-d), dark skin, <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">high BM</a>, high latitude,  [stay indoors a lot](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=139&sort_mode=created_desc), excessive clothing, night shift, 
+> [high risk for low Vitamin D](/posts/high-risk-of-little-vitamin-d), dark skin, [high BM](/posts/overview-obesity-and-vitamin-d), high latitude,  [stay indoors a lot](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=139&sort_mode=created_desc), excessive clothing, night shift, 
 
-> have a disease associated with low vitamin D such as: [MS](/posts/multiple-sclerosis-patients-need-more-vitamin-d-to-get-same-blood-level-response), some cancers, <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">diabetes</a>, [depression](/posts/depression-appears-to-consume-vitamin-d)
+> have a disease associated with low vitamin D such as: [MS](/posts/multiple-sclerosis-patients-need-more-vitamin-d-to-get-same-blood-level-response), some cancers, [diabetes](/posts/overview-diabetes-and-vitamin-d), [depression](/posts/depression-appears-to-consume-vitamin-d)
 
 *  **$ 3,000  net savings**  (profit) for health insurance company (such as Aetna, Blue Cross Blue Shield)
 
@@ -82,13 +82,13 @@
 
 * Intervention trials in hospitals, adding vitamin D have [proven $2,570 savings average by reducing preterm births](/posts/vitamin-d-webinar-cost-of-pre-term-birth-etc-baggerly)
 
-* 440+ studies of [Vitamin D and pregnancy](/categories/pregnancy) at VitaminDWiki.com
+* 440+ studies of [Vitamin D and pregnancy](/tags/vitamin-d-and-pregnancy.html) at VitaminDWiki.com
 
  **Vitamin D helps with much more than pregnancy** 
 
 * [Less Vitamin D = big recent increases in 30+ health problems](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Vitamin D proven to treat/prevent 78 health problems</a>
+* [Vitamin D proven to treat/prevent 78 health problems](/posts/proof-that-vitamin-d-works)
 
  **Incentives are proven to increase healthy behavior** 
 

@@ -121,10 +121,10 @@ There is a great need to increase our awareness of vitamin D nutritional status 
 
 * [Vitamin D presentation by Dr. Holick Spring 2012](/posts/vitamin-d-presentation-by-dr-holick-spring-2012)
 
-* <a href="/posts/evidence-for-vitamin-d-holick" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2928">Evidence for vitamin D – Holick June 2012</a>
+* [Evidence for vitamin D – Holick June 2012](/posts/evidence-for-vitamin-d-holick)
 
-* <a href="/posts/vitamin-d-holick" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1224">Vitamin D Holick – Jan 2011</a> from Current Drug topics
+* [Vitamin D Holick – Jan 2011](/posts/vitamin-d-holick) from Current Drug topics
 
-* <a href="/posts/vitamin-d-evolutionary-physiological-and-health-perspectives" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1224">Vitamin D: evolutionary, physiological and health perspectives</a> Holick
+* [Vitamin D: evolutionary, physiological and health perspectives](/tags/vitamin-d-evolutionary-physiological-and-health-perspectives.html) Holick
 
-* <a href="/posts/professional-book-on-vitamin-d-editor-holick-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 542">Professional book on Vitamin D - Editor Holick 2010</a> includes abstracts of each chapter
+* [Professional book on Vitamin D - Editor Holick 2010](/posts/professional-book-on-vitamin-d-editor-holick-2010) includes abstracts of each chapter

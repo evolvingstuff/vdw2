@@ -54,7 +54,7 @@ After liver transplant, a rapid loss of bone mineral density can be detected in 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 * [Important interactions between the liver and vitamin D – May 2013](/posts/important-interactions-between-the-liver-and-vitamin-d)
 
@@ -62,9 +62,9 @@ After liver transplant, a rapid loss of bone mineral density can be detected in 
 
 * [400,000 IU barely raised liver transplant candidate vitamin D levels (no surprise) – March 2015](/posts/400000-iu-barely-raised-liver-transplant-candidate-vitamin-d-levels-no-surprise)
 
-* <a href="/posts/liver-transplant-needs-vitamin-d-actually-semi-activated-not-regular" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Liver transplant needs Vitamin D (actually semi-activated, not regular) – May 2017">Liver transplant needs Vitamin D (actually semi-activated, not regular) – May 2017</a>
+* [Liver transplant needs Vitamin D (actually semi-activated, not regular) – May 2017](/posts/liver-transplant-needs-vitamin-d-actually-semi-activated-not-regular)
 
-* <a href="/posts/calcifediol-calcidiol-might-be-a-better-form-of-vitamin-d-for-some-people" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcifediol (Calcidiol) might be a better form of Vitamin D for some people – May 2019">Calcifediol (Calcidiol) might be a better form of Vitamin D for some people – May 2019</a>
+* [Calcifediol (Calcidiol) might be a better form of Vitamin D for some people – May 2019](/posts/calcifediol-calcidiol-might-be-a-better-form-of-vitamin-d-for-some-people)
 
 * [Search for Fatty Liver in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22fatty+liver%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 563 items May 2019
 

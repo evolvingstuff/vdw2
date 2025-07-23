@@ -39,6 +39,6 @@ The question is, how much is too much.
 
 * [Half-life of vitamin D varies](/posts/half-life-of-vitamin-d-varies)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
-* <a href="/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D aids the clearing out of old cells (autophagy) – many studies ">Vitamin D aids the clearing out of old cells (autophagy) – many studies </a>
+* [Vitamin D aids the clearing out of old cells (autophagy) – many studies ](/posts/vitamin-d-aids-the-clearing-out-of-old-cells-autophagy-many-studies)

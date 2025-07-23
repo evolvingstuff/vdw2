@@ -50,7 +50,7 @@ Expect that trial would have had great results if either of the following
 
 2) Extended the time of the trial - say to 20 weeks (enough time for msucles to adapt)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Vitamin D prevents falls – majority of meta-analyses conclude – meta-meta analysis Feb 2015](/posts/vitamin-d-prevents-falls-majority-of-meta-analyses-conclude-meta-meta-analysis)
 

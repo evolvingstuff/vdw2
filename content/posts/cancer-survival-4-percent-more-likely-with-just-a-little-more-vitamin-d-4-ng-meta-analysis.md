@@ -76,11 +76,11 @@ Conclusions: The results indicate that cancer patients with higher circulating 2
 
 * [Death of women from cancer 24% less likely if 20 ng more vitamin D – meta-analysis Sept 2013](/posts/death-of-women-from-cancer-24-percent-less-likely-if-20-ng-more-vitamin-d-meta-analysis) very similar to current study of 4% per 4 ng
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 43 proofs as of April 2014: Vitamin D is more than association!
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 43 proofs as of April 2014: Vitamin D is more than association!
 
 > 2 of the Random Controlled Trials showed less  **Cancer**  in those who happened to get the vitamin D
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a>  has the following chart
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)  has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

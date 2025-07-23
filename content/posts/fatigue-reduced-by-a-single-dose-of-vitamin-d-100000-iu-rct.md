@@ -63,7 +63,7 @@ Fatigue assessment scale at one month: -3.3 for vitamin D vs -0.8 for placebo
 
  **See details in VitaminDWiki** 
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
 * [Search VitaminDWiki for "CHRONIC FATIGUE"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22CHRONIC+FATIGUE%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 180 items as of Dec 2016
 

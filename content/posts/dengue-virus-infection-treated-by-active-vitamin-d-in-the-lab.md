@@ -38,7 +38,7 @@ Dengue is the most important mosquito-borne viral infection in humans. Recent ev
 
 ---
 
-* <a href="/posts/dengue-fever-8x-higher-risk-for-getting-worse-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017">Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017</a>
+* [Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017](/posts/dengue-fever-8x-higher-risk-for-getting-worse-if-low-vitamin-d)
 
  **Note by VitaminDWiki:  
  Active vitamin D must be used in the lab, as the lab has no liver and kidney to activate regular vitamin D** 

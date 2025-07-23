@@ -80,19 +80,19 @@ From sunlight, our skin makes a vital substance, Vitamin D.
 
 Vitamin D, which is actually a hormone rather than a vitamin, has a major impact on our bodies.
 
-It increases activation in more than <a href="/posts/2000-genes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4265">2000 genes</a>
+It increases activation in more than [2000 genes](/tags/2000-genes.html)
 
 This increased gene activation allows the body to combat disease.
 
 It is these changes that help us to combat disease.
 
-In fact, over 5000 scientific studies have shown the <a href="/posts/clear-association-of-vitamin-d-deficiency-with-more-than-100-diseases-and-health-problems" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 63">clear association of Vitamin D deficiency with more than 100 diseases and health problems,</a> 
+In fact, over 5000 scientific studies have shown the [clear association of Vitamin D deficiency with more than 100 diseases and health problems,](/tags/clear-association-of-vitamin-d-deficiency-with-more-than-100-diseases-and-health-problems.html) 
 
-&nbsp; &nbsp; &nbsp; most of which have seen <a href="/posts/dramatic-increases-over-the-past-50-years" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4503">dramatic increases over the past 50 years.</a>
+&nbsp; &nbsp; &nbsp; most of which have seen [dramatic increases over the past 50 years.](/tags/dramatic-increases-over-the-past-50-years.html)
 
-These include some of the big ones: [cancer](/categories/cancer), [diabetes](/categories/diabetes), [osteoporosis](/categories/osteoporosis),  <a href="/posts/alzheimers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Alzheimer’s</a>, [multiple sclerosis](/categories/multiple-sclerosis),[obesity](/categories/obesity) and <a href="/posts/heart-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">heart disease</a>
+These include some of the big ones: [cancer](/tags/cancer.html), [diabetes](/tags/diabetes.html), [osteoporosis](/tags/osteoporosis.html),  [Alzheimer’s](/tags/alzheimers.html), [multiple sclerosis](/posts/multiple-sclerosis),[obesity](/tags/obesity.html) and [heart disease](/tags/heart-disease.html)
 
-Even [rickets](/categories/rickets), which supposedly had gone away 80 years ago, has reappeared.
+Even [rickets](/tags/rickets.html), which supposedly had gone away 80 years ago, has reappeared.
 
 Are YOU at risk for these diseases?
 
@@ -100,7 +100,7 @@ Do YOU get enough Vitamin D?
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="300">
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">CLICK HERE FOR DETAILS</a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [CLICK HERE FOR DETAILS](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)
 
 More than 9 out of 10 people worldwide don't get enough Vitamin D.
 
@@ -110,19 +110,19 @@ Ask yourself: Do you spend a lot of time indoors?
 
 Do you wear sunscreen or protective clothing when you do go outdoors?
 
-Many people think that <a href="/posts/10-minutes-outdoors-is-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">10 minutes outdoors is enough</a> to get all the Vitamin D they need from the sun.
+Many people think that [10 minutes outdoors is enough](/tags/10-minutes-outdoors-is-enough.html) to get all the Vitamin D they need from the sun.
 
 But the fact is, for most people, that unless you spend a fair amount of time outdoors every day in full sun with minimal clothing and no sunscreen, 
 
 &nbsp; &nbsp; &nbsp;you aren't getting enough Vitamin D to protect against disease. 
 
-You need to <a href="/posts/stay-in-the-sun-for-3-hours-if-you-are-standing-up-in-a-short-sleeve-shirt-20-mi--a-bathing-suit" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">stay in the sun for 3 hours if you are standing up in a short sleeve shirt, 20 minutes if lying down in a bathing suit.</a>
+You need to [stay in the sun for 3 hours if you are standing up in a short sleeve shirt, 20 minutes if lying down in a bathing suit.](/tags/stay-in-the-sun-for-3-hours-if-you-are-standing-up-in-a-short-sleeve-shirt-20-minutes-if-lying-down-in-a-bathing-suit.html)
 
 Even food no longer provides as much Vitamin D as it did 100 years ago. 
 
 For example, in 1900, pie crust was made with lard from pigs raised outdoors.
 
-Back then, just one piece of a <a href="/posts/double-crust-pie-provided-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4408">double-crust pie provided 2000 IU of Vitamin D</a>
+Back then, just one piece of a [double-crust pie provided 2000 IU of Vitamin D](/tags/double-crust-pie-provided-2000-iu-of-vitamin-d.html)
 
 Today, pie crust is made from vegetable oil or shortening.
 
@@ -136,11 +136,11 @@ A simple supplement can provide all you need to prevent or even treat serious di
 
 But how do you find out if you have enough Vitamin D?
 
-You can, of course, have a <a href="/posts/blood-test" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 266">blood test</a>
+You can, of course, have a [blood test](/tags/blood-test.html)
 
 A reading of  at least 40 nanograms per milliliter or 100 nanomoles per liter, is optimal.
 
-Or, you can do a <a href="/posts/quick-easy-test-on-yourself" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2095">quick, easy test on yourself.</a>
+Or, you can do a [quick, easy test on yourself.](/tags/quick-easy-test-on-yourself.html)
 
 Just press hard on each of your shin bones and then on your sternum - the bone in your chest between your lowest ribs.
 
@@ -162,7 +162,7 @@ This, of course, would depend on your individual situation, but many studies ind
 
 If you know you are at risk for being deficient, you might want to start with a larger dose.
 
-You may also want to take more than 4000 IU of Vitamin D daily if you are <a href="/posts/elderly" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">elderly</a>, <a href="/posts/obese" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">obese</a>, or plan soon to get  <a href="/posts/pregnant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">pregnant</a> or have <a href="/posts/surgery" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3411">surgery</a>.
+You may also want to take more than 4000 IU of Vitamin D daily if you are [elderly](/tags/elderly.html), [obese](/tags/obese.html), or plan soon to get  [pregnant](/tags/pregnant.html) or have [surgery](/tags/surgery.html).
 
 You should start feeling noticeably healthier and more energetic within a few days to weeks.
 
@@ -176,7 +176,7 @@ When one [doctor raised all of his patients’ levels to 80 nanograms](/posts/dr
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;their average of 4 office visits per year dropped down to one visit.
 
-More and more people are getting Vitamin D tests, a <a href="/posts/10-times-increase-in-just-3-years" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4185">10 times increase in just 3 years.</a>
+More and more people are getting Vitamin D tests, a [10 times increase in just 3 years.](/tags/10-times-increase-in-just-3-years.html)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 
@@ -192,7 +192,7 @@ Do yourself a favor.
 
 [Read the studies if you need more proof.](/posts/health-problems-and-d)
 
-Then <a href="/posts/try-it" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5217">try it.</a>
+Then [try it.](/tags/try-it.html)
 
 <!-- ~tc~ end ~/tc~ -->
 

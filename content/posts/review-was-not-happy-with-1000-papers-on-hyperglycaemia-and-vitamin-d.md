@@ -51,7 +51,7 @@ PMID: 22352447
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and Vitamin D</a>
+* [Overview Diabetes and Vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [All items in category Diabetes and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=17&sort_mode=created_desc) 149 items as of June 2012
 

@@ -68,7 +68,7 @@ Joseph A. Aloi, MD, Division of Endocrinology, Wake Forest Baptist Medical Cente
 
 > Note - he also blanced his body's intake - example increase Magnesium and reduce Calcium
 
- **<a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a>  has the following chart** 
+ **[Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)  has the following chart** 
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

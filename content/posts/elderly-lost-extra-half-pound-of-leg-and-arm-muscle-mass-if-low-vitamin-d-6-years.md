@@ -67,7 +67,7 @@ PMID: 25037556
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Muscle increased 17 percent in vitamin D insufficient elderly getting 4,000 IU for 4 months – RCT Oct 2013](/posts/muscle-increased-17-percent-in-vitamin-d-insufficient-elderly-getting-4000-iu-for-4-months-rct)
 

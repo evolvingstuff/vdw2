@@ -157,6 +157,6 @@ He was a doctor for 20 years, then discovered Vitamin D
 
 He comments in the introduction that animals get much higher vitamin D supplementation than Germans
 
-(VitaminDWiki notes that vets around the world give animals a good level of vitamin D because vets are typically paid to keep their patients healthy, vs doctors are typically only paid when the patient is not healthy)  see <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a>
+(VitaminDWiki notes that vets around the world give animals a good level of vitamin D because vets are typically paid to keep their patients healthy, vs doctors are typically only paid when the patient is not healthy)  see [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d)
 
  **Hippocrates himself recommended daily  sun bathing.**

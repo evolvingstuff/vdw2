@@ -45,7 +45,7 @@ Hollis would recommend 6,000 to 8,000 units of supplementary vitamin D for most 
 
 * [Prostate cancer in veterans more survivable when have enough vitamin D – Jan 2014](/posts/prostate-cancer-in-veterans-more-survivable-when-have-enough-vitamin-d)
 
-* <a href="/posts/prostate-cancer-risk-increase-with-vitamin-d-other-studies-disagree-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prostate cancer risk increase with Vitamin D (other studies disagree) – meta-analysis Jan 2018">Prostate cancer risk increase with Vitamin D (other studies disagree) – meta-analysis Jan 2018</a>
+* [Prostate cancer risk increase with Vitamin D (other studies disagree) – meta-analysis Jan 2018](/posts/prostate-cancer-risk-increase-with-vitamin-d-other-studies-disagree-meta-analysis)
 
 </div>
 

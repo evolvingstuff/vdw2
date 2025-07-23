@@ -50,13 +50,13 @@ PMID: 23094928
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">Overview Cancer and vitamin D</a>
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d)
 
 * [Death of women from cancer 24% less likely if 20 ng more vitamin D – meta-analysis Sept 2013](/posts/death-of-women-from-cancer-24-percent-less-likely-if-20-ng-more-vitamin-d-meta-analysis)
 
-* <a href="/posts/mortality-and-cancer-varies-with-latitude-in-france-too-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1615">Mortality and Cancer varies with latitude in France too – 2010</a>
+* [Mortality and Cancer varies with latitude in France too – 2010](/posts/mortality-and-cancer-varies-with-latitude-in-france-too-2010)
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1825">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
 * [All items in VitaminDWiki of Pilz and Cancer](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=plix+cancer+mortality&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com#hl=en&domains=VitaminDWiki.com&sclient=psy-ab&q=pilz+cancer+site:VitaminDWiki.com&oq=pilz+cancer+site:VitaminDWiki.com&gs_l=serp.3...23336.24319.2.26646.4.4.0.0.0.1.243.827.0j2j2.4.0.les%3B..0.0...1c.1.QlavAKjxlNM&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&fp=80ef5323c76d6b79&bpcl=35466521&biw=1366&bih=643) 174 as of Oct 2012
 

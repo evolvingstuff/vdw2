@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Percent of population with less than 20 ng of vitamin D</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Percent of population with less than 20 ng of vitamin D</h1><time>March 28, 2012</time><div data-pagefind-body><img src=/attachments/d3.mock.jpg alt=image><h2 id=large--of-people-in-many-countries-have-less-than-20-nanograms>Large % of people in many countries have less than 20 nanograms:</h2><p>Australia 31, Canada 61, China 45, India 75, Korea 56, Malaysia 74, Middle East 90, Mongolia 98, New Zealand 56, North Africa 60, Northern Europe 92, United States 36</p><p><a href=/tags/source-of-data-for-the-chart.html>Source of data for the chart</a> March 2012</p><h2 id=the-lack-of-vitamin-d-is-even-worse-than-the-chart-shows-because>The lack of vitamin D is even worse than the chart shows because:</h2><ol><li>It does not show the vitamin D levels for those at <a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=95&amp;sort_mode=created_desc"><strong><span style=color:red>high risk</span></strong> </a>of vitamin D deficiency</li></ol><blockquote><p>such as seniors, dark skinned, and obese</p></blockquote><ol><li>It does not show the decrease during the winter for countries which are <a href="https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&amp;sort_mode=created_desc"><strong>far from the equator</strong></a></li></ol><blockquote><p>Note: The <a href=/tags/middle-east-has-the-lowest-vitamin-d-during-the-summer.html>Middle East has the lowest vitamin D during the summer</a> - when they totally avoid the hot sun</p></blockquote><ol><li>It does not show how many have less than 30 ng</li></ol><blockquote><p>Which even US govt publication said was needed just a few months before</p></blockquote><ol><li>It does not show current vitamin D deficiency, which is getting about 2X worse every 10 years</li></ol><h2 id=see-also-vitamindwiki>See also VitaminDWiki</h2><ul><li><p><a href=/tags/vitamin-d-recommendations-from-around-the-world.html>Vitamin D Recommendations from around the world</a></p></li><li><p><a href=/posts/endocrine-society-recommend-higher-vitamin-d-levels>Endocrine Society recommend higher vitamin D levels – June 2011</a></p></li><li><p><a href=/tags/13-of-the-27-reasons-for-vitamin-d-deficiency-are-new.html>13 of the 27 reasons for Vitamin D deficiency are new</a> has the following chart</p></li></ul><img src=/attachments/d3.mock.jpg alt=image style=max-width:300px><ul><li><p><a href=/tags/overview-vitamin-d-deficiency.html><strong>Overview vitamin D deficiency</strong></a></p></li><li><p><a href=/tags/25-experts-recommend-vitamin-d-level-minimum-of-30-ng-nov-2009.html>25 experts recommend vitamin D level- MINIMUM of 30 ng – Nov 2009</a> Before the IoM vote</p></li></ul><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/gif/vitamin-d-summit-bars.gif alt=image style=max-width:400px><ul><li><a href=/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough>Is 50 ng of vitamin D too high, just right, or not enough</a> which has the following</li></ul><p>     Notional Graph of Expert Opinions of vitamin D levels</p><img src=/attachments/d3.mock.jpg alt=image style=max-width:500px><h3 id=consensus-span-stylecolorf000-ng-is-badspan--and--span-stylecolor09030-ng-is-goodokspan>Consensus: <strong><span style=color:red>0 ng is bad</span></strong> and <strong><span style=color:#090>30 ng is good/ok</span></strong></h3><ul><li><p><a href=/tags/institute-of-medicine-us-nov-2010.html>Institute of Medicine US Nov 2010</a> <strong><span style=color:#690>20ng/ml</span></strong></p></li><li><p><a href=/tags/osteoporosis-canada-sept-2010-span-stylecolor69030ngmlspan.html>Osteoporosis Canada Sept 2010 <strong><span style=color:#690>>30ng/ml</span></strong></a></p></li><li><p><a href=/tags/usana-span-stylecolor69050-ngmlspan.html>USANA <strong><span style=color:#690>50 ng/ml</span></strong> </a>with graph</p></li><li><p><a href=/tags/need-span-stylecolor69030-60-ngspan-of-vitamin-d-for-good-health-grant-jan-2011.html>Need <strong><span style=color:#690>30-60 ng</span></strong> of vitamin D for good health – Grant Jan 2011</a></p></li><li><p><a href="https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1814">1800 to 4000 IU vitamin D to get <strong><span style=color:#690>30 to-44 ng</span></strong> no risk osteo - July 2010.pdf</a> file</p></li><li><p><a href=/tags/span-stylecolor690more-than-40-ngspan-vitamin-d-for-athletes-july-2010.html><strong><span style=color:#690>More than 40 ng</span></strong> vitamin D for Athletes – July 2010</a></p></li><li><p><a href=/tags/usda-vitamin-d-level-span-stylecolor690-30ngspan-and-600-mg-calcium-march-2010.html>USDA vitamin D level <strong><span style=color:#690>> 30ng</span></strong> and 600 mg Calcium - March 2010</a></p></li></ul><blockquote><p><strong><span style=color:#00f>US Govt said 30 ng just before the IoM vote</span></strong></p></blockquote><ul><li><p><a href=/tags/linus-pauling-institute-span-stylecolor69032-ngspan-dec-2011.html>Linus Pauling Institute <strong><span style=color:#690>>32 ng</span></strong> - Dec 2011</a></p></li><li><p><a href=/tags/hypothesis-span-stylecolor69040-ngspan-is-enough-vitamin-d-if-high-latitude-or-dark-skin.html>Hypothesis : <strong><span style=color:#690>40 ng</span></strong> is enough vitamin D if high latitude or dark skin</a></p></li><li><p><a href=/tags/dr-oz-recommends-span-stylecolor69050-ngmlspan-vitamin-d-blood-level.html>Dr Oz recommends <strong><span style=color:#690>50 ng/ml</span></strong> vitamin D blood level</a> May 2010</p></li><li><p><a href=http://www.grassrootshealth.net/recommendation>GrassRootsHealth.net</a> 41 experts <strong><span style=color:#690>40-60 ng/ml</span></strong> after IoM report</p></li><li><p><a href=/tags/vitamin-d-should-be-span-stylecolor69048-ng-90-ngspan-heaney-sept-2011.html>Vitamin D should be <strong><span style=color:#690>48 ng-90 ng</span></strong> – Heaney Sept 2011</a></p></li></ul><img src=/attachments/d3.mock.jpg alt=image></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/deficiency.html><span class=tag>Deficiency </span></a><a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/osteoporosis.html><span class=tag>osteoporosis</span></a>
+<a href=/tags/top-news.html><span class=tag>Top news</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/world.html><span class=tag>World</span></a></div><div data-pagefind-meta=tags hidden>blood levels, bone, Deficiency , dosage, osteoporosis, Top news, vitamin d, World</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

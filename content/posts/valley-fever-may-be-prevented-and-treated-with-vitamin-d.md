@@ -87,9 +87,9 @@ Arash Heidari, M.D.1, John Dickey, M.D.2, Nooshin Jahangiri, M.D.3, Bahareh Ghaf
 
 #### See also VitaminDWiki
 
-* <a href="/posts/pneumonia-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pneumonia and low vitamin D - many studies">Pneumonia</a>
+* [Pneumonia](/posts/pneumonia-and-low-vitamin-d-many-studies)
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Respiratory infections reduced by 63 percent with 4000 IU vitamin D daily - RCT Dec 2012](/posts/respiratory-infections-reduced-by-63-percent-with-4000-iu-vitamin-d-daily-rct)
 

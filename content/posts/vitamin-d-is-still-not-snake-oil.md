@@ -25,7 +25,7 @@
 
 * [Benefits of supplements (vitamin D is not snake oil) - Aug 2013](/posts/benefits-of-supplements-vitamin-d-is-not-snake-oil)
 
-* <a href="/posts/vitamin-d-is-not-snake-oil" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is NOT snake oil">Vitamin D is NOT snake oil</a>
+* [Vitamin D is NOT snake oil](/posts/vitamin-d-is-not-snake-oil)
 
  **The SIZE of a circle is proportional to the number of publications** 
 
@@ -55,4 +55,4 @@ You can get details on each supplement and can filter on the following
 
 * [Vitamin D infographics (1 image summaries) ](/posts/vitamin-d-infographics-1-image-summaries)
 
-* <a href="/posts/omega-3-prevents-and-treats-several-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Omega-3 prevents and treats several cancers – Sept 2017">Omega-3 prevents and treats several cancers – Sept 2017</a> same style as Snake Oil - suspect the same designer
+* [Omega-3 prevents and treats several cancers – Sept 2017](/posts/omega-3-prevents-and-treats-several-cancers) same style as Snake Oil - suspect the same designer

@@ -107,8 +107,7 @@ Let me break it down systematically:
 
 ### Maximize vitamin D for  time spent in the good sun, and minimize skin problems
 
-<a href="/posts/optimize-vitamin-d-from-the-sun-no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun))
-((No – 10 minutes per day of sun-UVB is NOT enough">Wear less clothing</a>
+[Wear less clothing](/tags/wear-less-clothing.html)
 
 [Use a  rarely available type of sunscreen](/posts/ways-to-block-uva-but-not-the-uvb-which-makes-vitamin-d) which only blocks UVA (tanning) and not UVB (vitamin D) 
 
@@ -140,9 +139,9 @@ that only passes UVB: no UVA, visible, nor heat.  Not commercially available sti
 
 ## From UV
 
-### <a href="/posts/make-your-own-uvb-vitamin-d-lamp-for-40-dollars" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Make your own UVB Vitamin D lamp for 40 dollars - Jan 2019">Vitamin D lamp 1 cent per hour</a>
+### [Vitamin D lamp 1 cent per hour](/posts/make-your-own-uvb-vitamin-d-lamp-for-40-dollars)
 
-### <a href="/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MS prevention by UV is 2X better than prevention by vitamin D levels – Jan 2012">UV better than oral for various diseases</a>
+### [UV better than oral for various diseases](/posts/ms-prevention-by-uv-is-2x-better-than-prevention-by-vitamin-d-levels)
 
 ### [UVB added in classroom reduced cavities, increased height, increased academics. etc](/posts/uvb-added-in-classroom-reduced-cavities-increased-height-increased-academics-etc)
 
@@ -152,7 +151,7 @@ Good description of [Discrimination based on skin color](http://en.wikipedia.org
 
 &nbsp; &nbsp; &nbsp;skin bleaching was a $28 billion/year market in 2008. Many women want lighter, not darker skin
 
-UVB (vitamin D) without UVA (tanning) – Note: <a href="/posts/getting-a-tan-does-not-mean-that-you-are-getting-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting a tan does not mean that you are getting vitamin D">virtually all tanning equipment has a LOT of UVA</a>
+UVB (vitamin D) without UVA (tanning) – Note: [virtually all tanning equipment has a LOT of UVA](/posts/getting-a-tan-does-not-mean-that-you-are-getting-vitamin-d)
 
 [Special Window – passes only UVB, not tanning rays](/posts/vitamin-d-from-the-sun-without-the-heat-silver-coated-plexiglass)
 
@@ -192,13 +191,13 @@ Inhaled vitamin D may reduce breathing problems: many tissues can directly activ
 
 [Poorly functioning livers do not process vitamin D (Calcidiol is needed) – Sept 2014](/posts/poorly-functioning-livers-do-not-process-vitamin-d-calcidiol-is-needed)
 
-<a href="/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 becomes Calcidiol which becomes Calcitriol">Vitamin D3 becomes Calcidiol which becomes Calcitriol</a>
+[Vitamin D3 becomes Calcidiol which becomes Calcitriol](/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol)
 
-<a href="/posts/calcidiol-may-be-5x-more-effective-than-vitamin-d3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Calcidiol may be 5X more effective than Vitamin D3 – June 2012">Calcidiol may be 5X more effective than Vitamin D3 – June 2012</a>
+[Calcidiol may be 5X more effective than Vitamin D3 – June 2012](/posts/calcidiol-may-be-5x-more-effective-than-vitamin-d3)
 
 [Is HyD (25(OH)D) a better form of vitamin D for some animals and maybe humans with liver problems](/posts/is-hyd-25ohd-a-better-form-of-vitamin-d-for-some-animals-and-maybe-humans-with-liver-problems)
 
-<a href="/posts/fully-activated-vitamin-d-calcitriol-is-produced-inside-and-outside-of-the-kidneys" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fully-activated Vitamin D (Calcitriol) is produced inside and outside of the kidneys – July 2020">Fully-activated Vitamin D (Calcitriol) is produced inside and outside of the kidneys – July 2020</a>
+[Fully-activated Vitamin D (Calcitriol) is produced inside and outside of the kidneys – July 2020](/posts/fully-activated-vitamin-d-calcitriol-is-produced-inside-and-outside-of-the-kidneys)
 
 &nbsp; &nbsp; Lungs, Colon, Skin, Intestines, Bone, Brain, Eyes, Prostate, Mitocondria, etc.
 

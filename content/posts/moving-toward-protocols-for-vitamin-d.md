@@ -34,7 +34,7 @@ Starting in the middle of the rules (after attempting to restore optimum vitamin
 
 IF, after 8 weeks of retoring vitamin D the persons still has: (guess = 10% of the people have 1 or more of the following)
 
-&nbsp; &nbsp; &nbsp;<a href="/posts/pain-in-breastboneshinbones-free-self-test" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2095">Pain in breastbone/shinbones - free, self test</a>
+&nbsp; &nbsp; &nbsp;[Pain in breastbone/shinbones - free, self test](/tags/pain-in-breastboneshinbones-free-self-test.html)
 
 &nbsp; &nbsp; &nbsp;OR still has symptoms of vitamin D deficiency 
 

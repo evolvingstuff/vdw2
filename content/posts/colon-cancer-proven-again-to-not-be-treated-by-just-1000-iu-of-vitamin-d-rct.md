@@ -31,7 +31,7 @@ N Engl J Med 2015; 373:1519-1530October 15, 2015DOI: 10.1056/NEJMoa1500409
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-<a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a>
+[Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d)
 
 [After 30 years it still appears that vitamin D deals with colorectal cancer – Oct 2012](/posts/after-30-years-it-still-appears-that-vitamin-d-deals-with-colorectal-cancer)
 
@@ -39,7 +39,7 @@ N Engl J Med 2015; 373:1519-1530October 15, 2015DOI: 10.1056/NEJMoa1500409
 
 [Colon cancer risk reduced by many vitamins – 13 percent reduction by Vitamin D – meta-analysis Jan 2015](/posts/colon-cancer-risk-reduced-by-many-vitamins-13-percent-reduction-by-vitamin-d-meta-analysis)
 
-<a href="/posts/colorectal-cancer-26-percent-less-likely-for-every-10-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Colorectal cancer 26 percent less likely for every 10 ng of vitamin D – meta-analysis Aug 2011">Colorectal cancer 26 percent less likely for every 10 ng of vitamin D – meta-analysis Aug 2011</a>
+[Colorectal cancer 26 percent less likely for every 10 ng of vitamin D – meta-analysis Aug 2011](/posts/colorectal-cancer-26-percent-less-likely-for-every-10-ng-of-vitamin-d-meta-analysis)
 
 [Colorectal Cancer and Vitamin D infographic](/posts/colorectal-cancer-and-vitamin-d-infographic)
 

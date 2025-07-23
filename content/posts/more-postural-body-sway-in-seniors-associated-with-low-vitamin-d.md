@@ -43,7 +43,7 @@ PMID:    23867281  ([study is behind a paywall](http://www.gaitposture.com/artic
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Frailty Call to Action: Vitamin D is one of the action items – June 2013](/posts/frailty-call-to-action-vitamin-d-is-one-of-the-action-items)
 
@@ -53,8 +53,8 @@ PMID:    23867281  ([study is behind a paywall](http://www.gaitposture.com/artic
 
 * [Loss of muscle strength –sarcopenia – one of the suspects is vitamin D – Aug 2012](/posts/loss-of-muscle-strength-sarcopenia-one-of-the-suspects-is-vitamin-d)
 
-* <a href="/posts/mobility-disability-19x-more-likely-if-had-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012">Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012</a>
+* [Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012](/posts/mobility-disability-19x-more-likely-if-had-low-level-of-vitamin-d)
 
-* <a href="/posts/seniors-with-less-than-12-ng-of-vitamin-d-were-not-stable" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors with less than 12 ng of vitamin D were not stable – March 2012">Seniors with less than 12 ng of vitamin D were not stable – March 2012</a>
+* [Seniors with less than 12 ng of vitamin D were not stable – March 2012](/posts/seniors-with-less-than-12-ng-of-vitamin-d-were-not-stable)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)

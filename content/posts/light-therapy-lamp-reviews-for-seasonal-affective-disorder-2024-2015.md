@@ -136,6 +136,6 @@ However, virtually no SAD lights have UVB
 
 * [Hypothesis – A SAD risk factor is low vitamin D – Nov 2014](/posts/hypothesis-a-sad-risk-factor-is-low-vitamin-d)
 
-* <a href="/posts/boost-your-winter-mood-and-productivity-with-vitamin-d-or-morning-light" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Boost Your Winter Mood and Productivity with vitamin D or morning light">Boost Your Winter Mood and Productivity with vitamin D or morning light</a>
+* [Boost Your Winter Mood and Productivity with vitamin D or morning light](/posts/boost-your-winter-mood-and-productivity-with-vitamin-d-or-morning-light)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">

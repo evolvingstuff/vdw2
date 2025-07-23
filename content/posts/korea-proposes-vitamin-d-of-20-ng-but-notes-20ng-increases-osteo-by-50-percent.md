@@ -28,6 +28,6 @@
 
 * [9X increase in Koreans seeking help with vitamin D deficiency in just 4 years – Jan 2015](/posts/9x-increase-in-koreans-seeking-help-with-vitamin-d-deficiency-in-just-4-years)
 
-* <a href="/posts/vitamin-d-levels-continue-to-fall-in-korea" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels continue to fall in Korea– June 2018">Vitamin D levels continue to fall in Korea– June 2018</a>
+* [Vitamin D levels continue to fall in Korea– June 2018](/posts/vitamin-d-levels-continue-to-fall-in-korea)
 
-* <a href="/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: South Koreans - half take supplements, Vitamin D levels dropping, COVID-19">South Koreans - half take supplements, Vitamin D levels dropping, COVID-19</a>
+* [South Koreans - half take supplements, Vitamin D levels dropping, COVID-19](/posts/south-koreans-half-take-supplements-vitamin-d-levels-dropping-covid-19)

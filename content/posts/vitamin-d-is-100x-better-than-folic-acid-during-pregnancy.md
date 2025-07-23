@@ -29,7 +29,7 @@
 }
 
 
-#### New web page <a href="/posts/vitamin-d-is-at-least-100-x-better-than-folic-acid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is at least 100 X better than Folic Acid">Vitamin D is at least 100 X better than Folic Acid</a> Sept 2018
+#### New web page [Vitamin D is at least 100 X better than Folic Acid](/posts/vitamin-d-is-at-least-100-x-better-than-folic-acid) Sept 2018
 
  **Giving Folic Acid before 2,000 births would reduce** 
 

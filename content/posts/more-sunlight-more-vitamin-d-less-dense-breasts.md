@@ -216,6 +216,6 @@ In conclusion, the present findings indicate that increased sunlight exposure th
 
 ## See also VitaminDWiki
 
-* <a href="/posts/low-vitamin-d-associated-with-dense-breasts-which-are-associated-with-breast-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D associated with dense breasts, which are associated with breast cancer – April 2012">Low vitamin D associated with dense breasts, which are associated with breast cancer – April 2012</a>
+* [Low vitamin D associated with dense breasts, which are associated with breast cancer – April 2012](/posts/low-vitamin-d-associated-with-dense-breasts-which-are-associated-with-breast-cancer)
 
 * [Overview Breast Cancer and Vitamin D](/posts/overview-breast-cancer-and-vitamin-d)

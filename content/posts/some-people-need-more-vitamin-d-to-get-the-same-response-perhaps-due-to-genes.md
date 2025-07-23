@@ -70,7 +70,7 @@ This article is part of a Special Issue entitled ‘17th Vitamin D Workshop’ .
 
 ## See also VitaminDWiki
 
-* [Genetics](/categories/genetics) cagetory listing with related searches
+* [Genetics](/tags/genetics.html) cagetory listing with related searches
 
 * [Response to 1000 IU of vitamin D varies by about 4 percent due to gene variants – RCT July 2014](/posts/response-to-1000-iu-of-vitamin-d-varies-by-about-4-percent-due-to-gene-variants-rct) 
 
@@ -84,12 +84,12 @@ This article is part of a Special Issue entitled ‘17th Vitamin D Workshop’ .
 
 * [24 ng lower response to Vitamin D due to obesity, low initial Vitamin D, and genetics – RCT Feb 2015](/posts/24-ng-lower-response-to-vitamin-d-due-to-obesity-low-initial-vitamin-d-and-genetics-rct)
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a> which has the following charts
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response) which has the following charts
 
 <img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 400px;">
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-*  **<a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>**  which has the following chart
+*  **[Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)**  which has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/loading-dose-guideline---april-2010.gif" alt="image" style="max-width: 400px;">

@@ -42,7 +42,7 @@ Arch Dis Child. 2016 Feb 24. pii: archdischild-2016-310665. [doi: 10.1136/archdi
 
 ---
 
-#### <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>
+#### [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
  **has > 80 health problems proven to be prevented or treated by Vitamin D** 
 

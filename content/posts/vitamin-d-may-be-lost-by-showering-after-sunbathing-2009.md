@@ -34,4 +34,4 @@ It appears to me that the percentage of Vitamin D made on the surface of the hum
 
 ## See also VitaminDWiki
 
-* <a href="/posts/optimize-vitamin-d-from-the-sun" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Optimize vitamin D from the sun">Optimize vitamin D from the sun</a>
+* [Optimize vitamin D from the sun](/posts/optimize-vitamin-d-from-the-sun)

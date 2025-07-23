@@ -47,9 +47,9 @@ PMID: 24729717
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* [Breathing](/categories/breathing) category overview with associated searches
+* [Breathing](/tags/breathing.html) category overview with associated searches
 
 * [Lung, lung cancer, asthma, COPD, and Vitamin D – July 2013](/posts/lung-lung-cancer-asthma-copd-and-vitamin-d)
 

@@ -60,7 +60,7 @@ Authors: Armin Zittermann, Sylvana Prokop, Jan F. Gummert, Jochen Borgermann
 
 <div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
-<a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">Overview Toxicity of vitamin D</a> which has the following summary
+[Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) which has the following summary
 
 > <span style="color:#390;">Many weeks for a really large DAILY dose of vitamin D to</span> <span style="color:#F0C;">become toxic</span>
 

@@ -70,18 +70,18 @@ Received 9 February 2013;     Received in final form 10 March 2013;     Accepted
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
-* <a href="/posts/endocrine-society-recommend-higher-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Endocrine Society recommend higher vitamin D levels – June 2011">Endocrine Society recommend higher vitamin D levels – June 2011</a>
+* [Endocrine Society recommend higher vitamin D levels – June 2011](/posts/endocrine-society-recommend-higher-vitamin-d-levels)
 
 * [Every 400 IU increase of vitamin D3 increases serum level about 8 ng– Systematic Review Aug 2012](/posts/every-400-iu-increase-of-vitamin-d3-increases-serum-level-about-8-ng-systematic-review) which = this study
 
 * [200 IU needed to increase vitamin D levels by 1 ng (not 100 IU) – summary of 25 studies – Feb 2014](/posts/200-iu-needed-to-increase-vitamin-d-levels-by-1-ng-not-100-iu-summary-of-25-studies)
 
-* <a href="/posts/vitamin-d-response-800-iu-20-ng-3200-iu-45-ng-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012">Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012</a> less than 2X at higher dose levels
+* [Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012](/posts/vitamin-d-response-800-iu-20-ng-3200-iu-45-ng-rct) less than 2X at higher dose levels
 
-* <a href="/posts/dose-response-equation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 441">Dose response equation</a> square root of IU
+* [Dose response equation](/tags/dose-response-equation.html) square root of IU
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a> which has the following graph, which show that linear response ratio which varies with the dose size
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response) which has the following graph, which show that linear response ratio which varies with the dose size
 
 <img src="/attachments/d3.mock.jpg" alt="image">

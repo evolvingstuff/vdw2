@@ -45,11 +45,11 @@ PMID: 23003113
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1078">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 * [Search VitaminDWiki for "C-reactive"](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22C-reactive%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)  **<span style="color:#00F;">193 items</span>**  Nov 2012
 
-* <a href="/posts/does-c-reactive-protein-increase-modestly-with-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2321">Does C-Reactive Protein increase modestly with vitamin D – Jan 2012</a>
+* [Does C-Reactive Protein increase modestly with vitamin D – Jan 2012](/posts/does-c-reactive-protein-increase-modestly-with-vitamin-d)
 
 > Reasons that the results of the study are not a concern to anyone
 

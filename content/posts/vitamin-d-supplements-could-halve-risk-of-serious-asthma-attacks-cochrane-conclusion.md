@@ -58,7 +58,7 @@ Suspect that Asthma has only been recently studied,
 
 * [Allergies and asthma – overwhelming experimental evidence that vitamin D helps – more studies needed – Dec 2014](/posts/allergies-and-asthma-overwhelming-experimental-evidence-that-vitamin-d-helps-more-studies-needed)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a> includes the following recent study
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d) includes the following recent study
 
  **<span style="color:#F00;">5X less likely</span> to be hospitalized for Asthma if adequate vitamin D**  
 

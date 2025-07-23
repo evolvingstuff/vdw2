@@ -54,7 +54,7 @@ A great many charts and microphotographs in the PDF
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a> , vs this study shows problems if ALREADY have low vitamin D. &nbsp; &nbsp; Note – this study did not test vitamin D levels AFTER the smoke
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies) , vs this study shows problems if ALREADY have low vitamin D. &nbsp; &nbsp; Note – this study did not test vitamin D levels AFTER the smoke
 
 * [COPD fought by Vitamin D - many studies](/posts/copd-fought-by-vitamin-d-many-studies)
 

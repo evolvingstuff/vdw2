@@ -45,4 +45,4 @@ Conclusions: This study suggests that the presence of subretinal fibrosis in pat
 
 * [Macular degeneration 4X more likely if low vitamin D and a particular gene – May 2013](/posts/macular-degeneration-4x-more-likely-if-low-vitamin-d-and-a-particular-gene)
 
-* <a href="/posts/macular-degeneration-decreased-with-uv-and-perhaps-vitamin-d-genetics" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Macular Degeneration decreased with UV and perhaps Vitamin D genetics– Oct 2011">Macular Degeneration decreased with UV and perhaps Vitamin D genetics– Oct 2011</a>
+* [Macular Degeneration decreased with UV and perhaps Vitamin D genetics– Oct 2011](/posts/macular-degeneration-decreased-with-uv-and-perhaps-vitamin-d-genetics)

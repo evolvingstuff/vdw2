@@ -35,7 +35,7 @@
 
 * [Recommended increasing vitamin D for space flight – NASA Sept 2013](/posts/recommended-increasing-vitamin-d-for-space-flight-nasa)
 
-* <a href="/posts/take-the-supplement-of-the-astronauts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take the supplement of the astronauts">Take the supplement of the astronauts</a>
+* [Take the supplement of the astronauts](/posts/take-the-supplement-of-the-astronauts)
 
 ---
 

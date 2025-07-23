@@ -75,45 +75,45 @@ PMID: 22762317
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/kaiser-working-to-decrease-hip-and-other-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2197">Kaiser working to decrease hip and other fractures – Nov 2011</a> does not mention vitamin D
+* [Kaiser working to decrease hip and other fractures – Nov 2011](/posts/kaiser-working-to-decrease-hip-and-other-fractures) does not mention vitamin D
 
-* <a href="/posts/women-with-hip-fractures-very-low-on-vitamins-d3-and-k" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1484">Women with hip fractures very low on vitamins D3 and K – Mar 2011</a>
+* [Women with hip fractures very low on vitamins D3 and K – Mar 2011](/posts/women-with-hip-fractures-very-low-on-vitamins-d3-and-k)
 
-* <a href="/posts/75-percent-of-hip-fractures-associated-with-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1394">75 percent of hip fractures associated with vitamin D deficiency - Jan 2011</a>
+* [75 percent of hip fractures associated with vitamin D deficiency - Jan 2011](/posts/75-percent-of-hip-fractures-associated-with-vitamin-d-deficiency)
 
-* <a href="/posts/30-percent-less-chance-of-dying-after-hip-fracture-if-take-vitamin-d-and-other-drugs-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1847">30 percent less chance of dying after hip fracture if take vitamin D and other drugs – 2011</a>
+* [30 percent less chance of dying after hip fracture if take vitamin D and other drugs – 2011](/posts/30-percent-less-chance-of-dying-after-hip-fracture-if-take-vitamin-d-and-other-drugs-2011)
 
-* <a href="/posts/hip-fracture-patients-had-only-16-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1648">Hip fracture patients had only 16 ng of vitamin D – May 2011</a>
+* [Hip fracture patients had only 16 ng of vitamin D – May 2011](/posts/hip-fracture-patients-had-only-16-ng-of-vitamin-d)
 
-* <a href="/posts/hip-fractures-worse-if-very-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1471">Hip fractures worse if very low on vitamin D – Mar 2011</a>
+* [Hip fractures worse if very low on vitamin D – Mar 2011](/posts/hip-fractures-worse-if-very-low-on-vitamin-d)
 
-* <a href="/posts/calcium-and-vitamin-d-after-hip-fracture-reduced-death-rate-by-25-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1439">Calcium and vitamin D after hip fracture reduced death rate by 25% – Feb 2011</a>
+* [Calcium and vitamin D after hip fracture reduced death rate by 25% – Feb 2011](/tags/calcium-and-vitamin-d-after-hip-fracture-reduced-death-rate-by-25-feb-2011.html)
 
-* <a href="/posts/hip-fractures-in-india-editorial-with-recommendation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 905">Hip fractures in India - editorial with recommendation - Sept 2010</a>
+* [Hip fractures in India - editorial with recommendation - Sept 2010](/posts/hip-fractures-in-india-editorial-with-recommendation)
 
 > Perhaps start with 600,000 IU of vitamin D (D2? D3?)and continue with 60,00- IU monthly
 
-* <a href="/posts/vitamin-d-2nd-most-recommended-way-to-prevent-next-hip-fracture" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1142">Vitamin D 2nd most recommended way to prevent next hip fracture – Nov 2010</a>
+* [Vitamin D 2nd most recommended way to prevent next hip fracture – Nov 2010](/posts/vitamin-d-2nd-most-recommended-way-to-prevent-next-hip-fracture)
 
 > LTC was first
 
-* <a href="/posts/hip-surgery-followed-by-100000-iu-then-1000-iu-of-vitamin-d-daily" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 482">Hip surgery followed by 100,000 IU then 1,000 IU of vitamin D daily – June 2010</a>
+* [Hip surgery followed by 100,000 IU then 1,000 IU of vitamin D daily – June 2010](/posts/hip-surgery-followed-by-100000-iu-then-1000-iu-of-vitamin-d-daily)
 
-* <a href="/posts/better-total-hip-replacement-if-have-high-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 535">Better total hip replacement if have high vitamin D – April 2010</a>
+* [Better total hip replacement if have high vitamin D – April 2010](/posts/better-total-hip-replacement-if-have-high-vitamin-d)
 
 * [CLICK HERE](http://www.google.com/custom?hl=en&client=google-coop&cof=FORID:13%3BAH:left%3BCX:Search%2520Vitamin%2520D%2520Wiki%3BL:http://www.google.com/intl/en/images/logos/custom_search_logo_sm.gif%3BLH:30%3BLP:1%3BVLC:%23551a8b%3BDIV:%23cccccc%3B&cx=001215644404345293668:3di8vufs_m4&adkw=AELymgV0ycruiYilbP7DS-6kk3FUnw0sB1F3aerUbdxji-_3TBOTV9yEmUpOD76VW8Cmk21s_N2udRrN4h67b4AnAxheyagnQz2IQ0DVGp05mEW98I9hmtQ&boostcse=0&ei=0bU9TYK8EIH0tgOFvv3DAw&q=%22hip+fracture%22&start=0&sa=N) to use Google Site search of VitaminDWiki for "hip fracture"  382 items June 2012
 
 * [4,000 IU vitamin D helped after hip fracture](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1118) file
 
-* <a href="/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1026">Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010</a>
+* [Is it ethical to not give vitamin D in osteoporosis trials– NEJM Sept 2010](/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm)
 
-* <a href="/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 984">National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010</a> - vs the 20 ng of the Institute of Medicine
+* [National Osteoporosis Foundation on Vitamin D - more than 30 ng - 2010](/posts/national-osteoporosis-foundation-on-vitamin-d-more-than-30-ng-2010) - vs the 20 ng of the Institute of Medicine
 
-* <a href="/posts/prefer-more-than-30-ng-of-vitamin-d-and-700-mg-calcium-for-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1440">Prefer more than 30 ng of Vitamin D and 700 mg Calcium for Osteoporosis – Mar 2011</a>
+* [Prefer more than 30 ng of Vitamin D and 700 mg Calcium for Osteoporosis – Mar 2011](/tags/prefer-more-than-30-ng-of-vitamin-d-and-700-mg-calcium-for-osteoporosis-mar-2011.html)
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1328">Overview Osteoporosis and vitamin D</a> has the following summary as of July 2012
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d) has the following summary as of July 2012
 
 FACT: Bones need Calcium  (this has been known for a very long time)
 
@@ -123,13 +123,13 @@ FACT: Should not take > 750 mg of Calcium if taking lots of vitamin D (Caclium b
 
 FACT: Adding vitamin D via Sun, UV, or supplements increased vitamin D in the blood
 
-FACT: <a href="/posts/vitamin-d-supplements" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">Vitamin D supplements</a> are very low cost
+FACT: [Vitamin D supplements](/tags/vitamin-d-supplements.html) are very low cost
 
 FACT: Many trials, studies. reviews, and meta-analysis have found that adding vitamin D reduces osteoporosis
 
 FACT: Toxic level of vitamin D is about 4X higher than the amount needed to reduce osteoporosis
 
-FACT: <a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Cofactors</a> help build bones.
+FACT: [Cofactors](/tags/cofactors.html) help build bones.
 
 It appears that to TREAT Osteoporosis: 
 

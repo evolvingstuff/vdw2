@@ -41,9 +41,9 @@ Division of Endocrinology and Metabolism, Asan Medical Center, University of Uls
 
 > If bone matrix is broken down, adding more bone only increases bone density, not bone strength
 
-* <a href="/posts/adding-just-vitamin-d-again-failed-to-add-bone-density-also-need-magnesium-vitamin-k-etc-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Adding just vitamin D again failed to add bone density (also need Magnesium, Vitamin K, etc) – RCT Aug 2018">Adding just vitamin D again failed to add bone density (also need Magnesium, Vitamin K, etc) – RCT Aug 2018</a>
+* [Adding just vitamin D again failed to add bone density (also need Magnesium, Vitamin K, etc) – RCT Aug 2018](/posts/adding-just-vitamin-d-again-failed-to-add-bone-density-also-need-magnesium-vitamin-k-etc-rct)
 
-* <a href="/posts/bone-strength-improved-by-2800-iu-of-vitamin-d-not-bone-density-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bone STRENGTH improved by 2800 IU of Vitamin D (not bone density) – RCT Oct 2018">Bone STRENGTH improved by 2800 IU of Vitamin D (not bone density) – RCT Oct 2018</a>
+* [Bone STRENGTH improved by 2800 IU of Vitamin D (not bone density) – RCT Oct 2018](/posts/bone-strength-improved-by-2800-iu-of-vitamin-d-not-bone-density-rct)
 
 </div>
 

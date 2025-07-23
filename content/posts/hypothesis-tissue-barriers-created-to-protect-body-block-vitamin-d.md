@@ -313,8 +313,8 @@ almost nothing - this is a new concept
 
  **Wonder if this accounts for the approximate 4X more vitamin D needed to treat a disease (which has a barrier)** 
 
-* <a href="/posts/vitamin-d-also-treats" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D also TREATS">Vitamin D also TREATS</a>
+* [Vitamin D also TREATS](/posts/vitamin-d-also-treats)
 
 * [Vitamin D receptor may suppress skin cancer – Dec 2013](/posts/vitamin-d-receptor-may-suppress-skin-cancer)
 
-* [Inflammation](/categories/inflammation)
+* [Inflammation](/tags/inflammation.html)

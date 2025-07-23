@@ -100,7 +100,7 @@ PMID: 25674106
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
 * [If heavily clothed, very little vitamin D – Dec 2012](/posts/if-heavily-clothed-very-little-vitamin-d)
 

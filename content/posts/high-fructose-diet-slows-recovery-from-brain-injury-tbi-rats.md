@@ -34,7 +34,7 @@
 
 * [More colas lower vitamin D by 3 ng– July 2014](/posts/more-colas-lower-vitamin-d-by-3-ng)
 
-* <a href="/posts/cola-soft-drinks-reduce-calcium-vitamin-d-and-magnesium-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cola Soft Drinks reduce Calcium Vitamin D, and Magnesium - many studies">Cola Soft Drinks reduce Calcium Vitamin D, and Magnesium - many studies</a>
+* [Cola Soft Drinks reduce Calcium Vitamin D, and Magnesium - many studies](/posts/cola-soft-drinks-reduce-calcium-vitamin-d-and-magnesium-many-studies)
 
 * [Too much fructose reduced both serum and active vitamin D in rats – April 2013](/posts/too-much-fructose-reduced-both-serum-and-active-vitamin-d-in-rats)
 
@@ -48,6 +48,6 @@
 
 * [Magnesium may be an important way to treat brain trauma](/posts/magnesium-may-be-an-important-way-to-treat-brain-trauma)
 
-* <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a>
+* [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution)
 
 * [Fructose altered hundreds of brain genes (in rats) unless also take Omega-3 – April 2016](/posts/fructose-altered-hundreds-of-brain-genes-in-rats-unless-also-take-omega-3)

@@ -84,7 +84,7 @@ I could list many more non skeletal diseases that the proposed 10 microgram/d do
 
 #### Apparently this is some progress - UK Vitamin D RNI had been ZERO
 
-#### <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a> has the following chart
+#### [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
@@ -98,7 +98,7 @@ I could list many more non skeletal diseases that the proposed 10 microgram/d do
 
 * [UK (SACN) is ignoring scores of Vitamin D studies](/posts/uk-sacn-is-ignoring-scores-of-vitamin-d-studies)
 
-* <a href="/posts/10x-increase-in-cost-of-vitamin-d-per-child-year-in-uk-in-6-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10X increase in cost of vitamin D per child-year in UK in 6 years - Aug 2017">10X increase in cost of vitamin D per child-year in UK in 6 years - Aug 2017</a>
+* [10X increase in cost of vitamin D per child-year in UK in 6 years - Aug 2017](/posts/10x-increase-in-cost-of-vitamin-d-per-child-year-in-uk-in-6-years)
 
 * [400 IU Vitamin D is enough for majority in UK, even in winter (nope) – Nov 2015](/posts/400-iu-vitamin-d-is-enough-for-majority-in-uk-even-in-winter-nope)
 
@@ -114,13 +114,13 @@ I could list many more non skeletal diseases that the proposed 10 microgram/d do
 
 > This UK Study defined adequate as > 32 ng, NOT 10 ng
 
-* <a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>
+* [17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)
 
 * [Let 1000 die from vitamin D deficiency rather than incur 1 lawsuit](/posts/let-1000-die-from-vitamin-d-deficiency-rather-than-incur-1-lawsuit)
 
 * [A look at inner workings of committee looking at vitamin D for UK - Dec 2012](/posts/a-look-at-inner-workings-of-committee-looking-at-vitamin-d-for-uk) the same commitee as on this page, still thinking
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a> has the following notional chart
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough) has the following notional chart
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="500">
 

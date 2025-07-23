@@ -37,13 +37,13 @@ Archives of Gerontology and Geriatrics, Volume 40, Issue 1 , Pages 53-60, Januar
 
 ## See also VitaminDWiki
 
-* <a href="/posts/hawaiians-had-39-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hawaiians had 39 ng of vitamin D - July 2011">Hawaiians had 39 ng of vitamin D - July 2011</a>
+* [Hawaiians had 39 ng of vitamin D - July 2011](/posts/hawaiians-had-39-ng-of-vitamin-d)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
-* <a href="/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2336">Traditionally living Africans have 46 ng vitamin D levels – Jan 2012</a>
+* [Traditionally living Africans have 46 ng vitamin D levels – Jan 2012](/posts/traditionally-living-africans-have-46-ng-vitamin-d-levels)
 
-* <a href="/posts/dr-norman-risk-of-toxicity-span-stylecolorf90150-ngspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1370">Dr Norman - risk of Toxicity  **<span style="color:#F90;">>150 ng</span>** </a>
+* [Dr Norman - risk of Toxicity  **<span style="color:#F90;">>150 ng</span>** ](/tags/dr-norman-risk-of-toxicity-span-stylecolorf90150-ngspan.html)
 
 * [Chart of Vitamin D levels vs race - April 2013](/posts/chart-of-vitamin-d-levels-vs-race) has the following chart
 

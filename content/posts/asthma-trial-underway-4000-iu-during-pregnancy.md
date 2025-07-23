@@ -33,9 +33,9 @@
 
 * [Asthma in 3 year olds decreased somewhat with 4,000 IU during pregnancy – RCT Jan 2016](/posts/asthma-in-3-year-olds-decreased-somewhat-with-4000-iu-during-pregnancy-rct)
 
-* <a href="/posts/risk-of-infant-asthma-cut-in-half-if-mother-supplemented-vitamin-d-to-get-more-than-30-ng-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Risk of infant Asthma cut in half if mother supplemented Vitamin D to get more than 30 ng – RCT Oct 2017">Risk of infant Asthma cut in half if mother supplemented Vitamin D to get more than 30 ng – RCT Oct 2017</a>
+* [Risk of infant Asthma cut in half if mother supplemented Vitamin D to get more than 30 ng – RCT Oct 2017](/posts/risk-of-infant-asthma-cut-in-half-if-mother-supplemented-vitamin-d-to-get-more-than-30-ng-rct)
 
-* <a href="/posts/asthma-in-child-23-x-more-likely-if-both-parents-asthmatic-unless-add-vitamin-d-vdaart" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Asthma in child 2.3 X more likely if both parents asthmatic (unless add Vitamin D) – VDAART Nov 2018">Asthma in child 2.3 X more likely if both parents asthmatic (unless add Vitamin D) – VDAART Nov 2018</a>
+* [Asthma in child 2.3 X more likely if both parents asthmatic (unless add Vitamin D) – VDAART Nov 2018](/posts/asthma-in-child-23-x-more-likely-if-both-parents-asthmatic-unless-add-vitamin-d-vdaart)
 
 ---
 
@@ -73,7 +73,7 @@ Note: Dr. Hollis has given 4,000 IU of vitamin D for other succesful pregnancy t
 
 * [Vitamin D Deficiency is a Strong Predictor (4X) of Asthma in Children – Oct 2012](/posts/vitamin-d-deficiency-is-a-strong-predictor-4x-of-asthma-in-children)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Just 700 IU of vitamin D during pregnancy reduced rate of asthma at age 7 by 26 percent – Oct 2013](/posts/just-700-iu-of-vitamin-d-during-pregnancy-reduced-rate-of-asthma-at-age-7-by-26-percent)
 
@@ -83,6 +83,6 @@ Note: Dr. Hollis has given 4,000 IU of vitamin D for other succesful pregnancy t
 
 * [Asthma is treated by Vitamin D – now they are trying to understand why – Feb 2015](/posts/asthma-is-treated-by-vitamin-d-now-they-are-trying-to-understand-why)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 
 
 > &nbsp; &nbsp; &nbsp;Asthma has been proven to be treated by by Vitamin D in 4+ Random Controlled trials

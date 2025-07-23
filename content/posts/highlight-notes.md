@@ -91,7 +91,7 @@
 
 * Test results  differences of 5 ng do not matter - e.g. anything in 40-50 nanogram/mL:range is fine
 
-* <a href="/posts/aboutus" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: AboutUs">AboutUs</a>
+* [AboutUs](/tags/aboutus.html)
 
 {BOX}
 

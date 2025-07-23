@@ -57,9 +57,9 @@ Severely deficient |5000 IU|7.2|1.15||
 
 ## See also VitaminDWiki
 
-* [Headache](/categories/headache) category listing with associated searches
+* [Headache](/tags/headache.html) category listing with associated searches
 
-* <a href="/posts/migraine-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Migraine and Vitamin D">Migraine and Vitamin D</a>
+* [Migraine and Vitamin D](/posts/migraine-and-vitamin-d)
 
 * [Cluster headaches virtually eliminated in 7,000 people with high-dose vitamin D and cofactors - Feb 2022](/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors)
 

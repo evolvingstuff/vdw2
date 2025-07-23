@@ -36,45 +36,45 @@
 
 {SPLIT(colsize=250|250|250|350)}
 
-<a href="/posts/newsletter-jan-16" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4259"> **NEWSLETTER  - Jan 16** </a>
+[ **NEWSLETTER  - Jan 16** ](/tags/newsletter-jan-16.html)
 
  **INTRODUCTION** 
 
-<span>[tiki-browse_categories.php?parentId=39&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;<a href="/posts/vitamin-d-101" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1407"> **Vitamin D 101** </a>
+<span>[tiki-browse_categories.php?parentId=39&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp;[ **Vitamin D 101** ](/tags/vitamin-d-101.html)
 
 <span>[tiki-browse_categories.php?parentId=40&sort_mode=created_desc]</span>
 
-<span>[tiki-browse_categories.php?parentId=28&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2123"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=28&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<a href="/posts/vitamindwiki-poster" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2698">VitaminDWiki poster</a>
+[VitaminDWiki poster](/tags/vitamindwiki-poster.html)
 
-<a href="/posts/published-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Published Recommendations</a>
+[Published Recommendations](/tags/published-recommendations.html)
 
-<a href="/posts/reasons-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">Reasons for Vitamin  D deficiency</a>
+[Reasons for Vitamin  D deficiency](/tags/reasons-for-vitamin-d-deficiency.html)
 
  **EVIDENCE OF VITAMIN D** 
 
-<a href="/posts/random-controlled-trials" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2303">Random Controlled Trials</a>
+[Random Controlled Trials](/tags/random-controlled-trials.html)
 
-<span>[tiki-browse_categories.php?parentId=86&sort_mode=created_desc]</span> &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 288"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=86&sort_mode=created_desc]</span> &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<span>[tiki-browse_categories.php?parentId=85&sort_mode=created_desc]</span>&nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1886"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=85&sort_mode=created_desc]</span>&nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
 <span>[tiki-browse_categories.php?parentId=82&sort_mode=created_desc]</span>
 
-<a href="/posts/proofs-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">Proofs that vitamin D works</a> **<span style="color:#00F;">(40)</span>** 
+[Proofs that vitamin D works](/tags/proofs-that-vitamin-d-works.html) **<span style="color:#00F;">(40)</span>** 
 
  **VITAMIN D DEFICIENT GROUPS** 
 
-<a href="/posts/dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1064">Dark skin</a>
+[Dark skin](/tags/dark-skin.html)
 
-<a href="/posts/pregnant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Pregnant</a>
+[Pregnant](/tags/pregnant.html)
 
-<a href="/posts/dark-skin-and-pregnant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Dark Skin AND Pregnant</a>
+[Dark Skin AND Pregnant](/tags/dark-skin-and-pregnant.html)
 
-<a href="/posts/obese" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Obese </a>
+[Obese ](/tags/obese.html)
 
-<a href="/posts/seniors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Seniors </a>
+[Seniors ](/tags/seniors.html)
 
 <span>[tiki-browse_categories.php?parentId=139&sort_mode=created_desc]</span>
 
@@ -86,23 +86,23 @@
 
 <span>[tiki-browse_categories.php?parentId=63&sort_mode=created_desc]</span>
 
-<span>[tiki-browse_categories.php?parentId=90&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1758"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=90&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
 [Global Technical __~~#30F:Overview~~__](/posts/vitamin-d-global-perspective-holick)
 
  **MEDICAL VITAMIN D** 
 
-<a href="/posts/how-does-vitamin-d-work" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2248">How does vitamin D work?</a>
+[How does vitamin D work?](/tags/how-does-vitamin-d-work.html)
 
 <span>[tiki-browse_categories.php?parentId=76&sort_mode=created_desc]</span>
 
 <span>[tiki-browse_categories.php?parentId=47&sort_mode=created_desc]</span>
 
-<a href="/posts/clinical-trials-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2210">Clinical Trials Vitamin D - 2012</a>
+[Clinical Trials Vitamin D - 2012](/tags/clinical-trials-vitamin-d-2012.html)
 
-<a href="/posts/poland" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2506">Poland Oct 2012</a>
+[Poland Oct 2012](/tags/poland-oct-2012.html)
 
-<a href="/posts/san-francisco" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4211">San Francisco June 2013</a>
+[San Francisco June 2013](/tags/san-francisco-june-2013.html)
 
 [London & Oslo April 2014](/posts/vitamin-d-conference-in-england-april-23-25-2014)
 
@@ -112,77 +112,77 @@
 
  **GETTING MORE VITAMIN D** 
 
-<span>[tiki-browse_categories.php?parentId=51&sort_mode=created_desc]</span>&nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=51&sort_mode=created_desc]</span>&nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<span>[tiki-browse_categories.php?parentId=3&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 889"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=3&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
 <span>[tiki-browse_categories.php?parentId=8&sort_mode=created_desc]</span>
 
-<span>[tiki-browse_categories.php?parentId=52&sort_mode=created_desc]</span>&nbsp; &nbsp;<a href="/posts/vegan-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2136">Vegan D3</a>
+<span>[tiki-browse_categories.php?parentId=52&sort_mode=created_desc]</span>&nbsp; &nbsp;[Vegan D3](/tags/vegan-d3.html)
 
-<span>[tiki-browse_categories.php?parentId=112&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3541"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=112&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<span>[tiki-browse_categories.php?parentId=4&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 766"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=4&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<a href="/posts/how-much-vitamin-d-and-nutrients" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3638">How much Vitamin D and nutrients</a>
+[How much Vitamin D and nutrients](/tags/how-much-vitamin-d-and-nutrients.html)
 
 <span>[tiki-browse_categories.php?parentId=78&sort_mode=created_desc]</span>
 
-<a href="/posts/how-to-2x-the-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">How to 2X the response to Vitamin D</a>
+[How to 2X the response to Vitamin D](/tags/how-to-2x-the-response-to-vitamin-d.html)
 
-<a href="/posts/how-often-nbsp-nbsp-nbspoverview" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2475">How Often &nbsp; &nbsp; &nbsp;Overview</a>
+[How Often &nbsp; &nbsp; &nbsp;Overview](/tags/how-often-nbsp-nbsp-nbspoverview.html)
 
-<a href="/posts/how-often-take-50000-iu" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3188">How often take 50,000 IU</a>
+[How often take 50,000 IU](/tags/how-often-take-50000-iu.html)
 
-<a href="/posts/is-50-ng-of-vitamin-d-the-right-level" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028">Is 50 ng of Vitamin D the right level</a>
+[Is 50 ng of Vitamin D the right level](/tags/is-50-ng-of-vitamin-d-the-right-level.html)
 
-<a href="/posts/genes-kidney-mg-may-block-benefits" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3881">Genes, Kidney, Mg may block benefits</a>
+[Genes, Kidney, Mg may block benefits](/tags/genes-kidney-mg-may-block-benefits.html)
 
 <span>[tiki-browse_categories.php?parentId=97&sort_mode=created_desc]</span>
 
-<a href="/posts/low-cost-and-many-forms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">Low cost and many forms</a>
+[Low cost and many forms](/tags/low-cost-and-many-forms.html)
 
-<span>[tiki-browse_categories.php?parentId=73&sort_mode=created_desc]</span> &nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 326"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=73&sort_mode=created_desc]</span> &nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<span>[tiki-browse_categories.php?parentId=135&sort_mode=created_desc]</span>&nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2028"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=135&sort_mode=created_desc]</span>&nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<a href="/posts/reaction-allergic-to-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2433">Reaction, allergic to vitamin D</a>
+[Reaction, allergic to vitamin D](/tags/reaction-allergic-to-vitamin-d.html)
 
-<a href="/posts/response-to-vitamin-d-dose" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1425">Response to Vitamin D dose</a>
+[Response to Vitamin D dose](/tags/response-to-vitamin-d-dose.html)
 
 <span>[tiki-browse_categories.php?parentId=26&sort_mode=created_desc]</span>
 
-<span>[tiki-browse_categories.php?parentId=24&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30ftests-low-costspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 266"> **<span style="color:#30F;">Tests - low cost</span>** </a>
+<span>[tiki-browse_categories.php?parentId=24&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Tests - low cost</span>** ](/tags/span-stylecolor30ftests-low-costspan.html)
 
-<span>[tiki-browse_categories.php?parentId=37&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=37&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
  **SUN/UV PRODUCE VITAMIN D** 
 
-<span>[tiki-browse_categories.php?parentId=9&sort_mode=created_desc]</span> &nbsp; &nbsp;<a href="/posts/span-stylecolor30ftime-overviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689"> **<span style="color:#30F;">Time Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=9&sort_mode=created_desc]</span> &nbsp; &nbsp;[ **<span style="color:#30F;">Time Overview</span>** ](/tags/span-stylecolor30ftime-overviewspan.html)
 
-<a href="/posts/sun-how-to-maximize" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1051">Sun - how to maximize</a>
+[Sun - how to maximize](/tags/sun-how-to-maximize.html)
 
-<a href="/posts/sun-not-just-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3642">Sun - not just vitamin D</a>
+[Sun - not just vitamin D](/tags/sun-not-just-vitamin-d.html)
 
-<span>[tiki-browse_categories.php?parentId=10&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2089"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=10&sort_mode=created_desc]</span>&nbsp; &nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<a href="/posts/uv-calculators" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 622">UV Calculators</a>&nbsp; &nbsp; &nbsp; <a href="/posts/uv-bulb" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 982">UV bulb</a> 
+[UV Calculators](/tags/uv-calculators.html)&nbsp; &nbsp; &nbsp; [UV bulb](/tags/uv-bulb.html) 
 
-<a href="/posts/d-from-low-cost-uvb-lamps" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3154">D from low-cost UVB lamps</a>
+[D from low-cost UVB lamps](/tags/d-from-low-cost-uvb-lamps.html)
 
- **NEEDED WITH VITAMIN D**  <a href="/posts/overview" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">- Overview</a>
+ **NEEDED WITH VITAMIN D**  [- Overview](/tags/overview.html)
 
-<span>[tiki-browse_categories.php?parentId=53&sort_mode=created_desc]</span>&nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1446"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=53&sort_mode=created_desc]</span>&nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<span>[tiki-browse_categories.php?parentId=54&sort_mode=created_desc]</span> &nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 947"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=54&sort_mode=created_desc]</span> &nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<span>[tiki-browse_categories.php?parentId=122&sort_mode=created_desc]</span> &nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3467"> **<span style="color:#30F;">Overview</span>** </a> 
+<span>[tiki-browse_categories.php?parentId=122&sort_mode=created_desc]</span> &nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html) 
 
 <span>[tiki-browse_categories.php?parentId=118&sort_mode=created_desc]</span>
 
-<span>[tiki-browse_categories.php?parentId=106&sort_mode=created_desc]</span> &nbsp; &nbsp;<a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 765"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=106&sort_mode=created_desc]</span> &nbsp; &nbsp;[ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<a href="/posts/strontium" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1272">Strontium</a>
+[Strontium](/tags/strontium.html)
 
 <span>[tiki-browse_categories.php?parentId=124&sort_mode=created_desc]</span> if anemic
 
@@ -190,9 +190,9 @@
 
  **FEATURED NEW ITEMS** 
 
-<a href="/posts/40-proofs-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336">40 PROOFS that Vitamin D works</a>
+[40 PROOFS that Vitamin D works](/tags/40-proofs-that-vitamin-d-works.html)
 
-<a href="/posts/dramatic-increases-in-20-diseases-nbsp-nbspassociated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4503">Dramatic increases in 20 diseases &nbsp; &nbsp;associated with low vitamin D</a>
+[Dramatic increases in 20 diseases &nbsp; &nbsp;associated with low vitamin D](/tags/dramatic-increases-in-20-diseases-nbsp-nbspassociated-with-low-vitamin-d.html)
 
 [Fewer Hip fractures with sun](/posts/hip-fractures-reduced-2x-to-6x-with-just-10-minutes-of-sunlight-daily-rct-2003-2010)
 
@@ -204,7 +204,7 @@
 
 [Skin cream to increase Vitamin D](/posts/patent-application-for-a-skin-cream-which-enhances-production-of-vitamin-d-holick)
 
-<a href="/posts/vitamin-d-video-progress" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3914">Vitamin D video progress</a>
+[Vitamin D video progress](/tags/vitamin-d-video-progress.html)
 
 [ **Top new pages** ](https://www.VitaminDWiki.com/cat98%2098&sort_mode=created_desc)
 
@@ -214,31 +214,31 @@
 
 <span>[tiki-browse_categories.php?parentId=87&sort_mode=created_desc]</span>
 
-<a href="/posts/hmos-save-millions-of" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 629">HMOs save millions of $</a>&nbsp; <span>[tiki-view_forum_thread.php?comments_parentId=46&topics_sort_mode=lastPost_desc&forumId=8]</span>
+[HMOs save millions of $](/tags/hmos-save-millions-of.html)&nbsp; <span>[tiki-view_forum_thread.php?comments_parentId=46&topics_sort_mode=lastPost_desc&forumId=8]</span>
 
 <span>[tiki-browse_categories.php?parentId=59&sort_mode=created_desc]</span>
 
-<a href="/posts/is-d-associated-with-a-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 597">Is D associated with a disease?</a>
+[Is D associated with a disease?](/tags/is-d-associated-with-a-disease.html)
 
-<span>[tiki-browse_categories.php?parentId=80&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 972"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=80&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
-<a href="/posts/relationships-between-vit-d-diseases" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1817">Relationships between Vit D diseases</a>
+[Relationships between Vit D diseases](/tags/relationships-between-vit-d-diseases.html)
 
-<span>[tiki-browse_categories.php?parentId=1&sort_mode=created_desc]</span>&nbsp; &nbsp; <a href="/posts/span-stylecolor30foverviewspan" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 17"> **<span style="color:#30F;">Overview</span>** </a>
+<span>[tiki-browse_categories.php?parentId=1&sort_mode=created_desc]</span>&nbsp; &nbsp; [ **<span style="color:#30F;">Overview</span>** ](/tags/span-stylecolor30foverviewspan.html)
 
  **VITAMIN D LINKS** 
 
-<a href="/posts/vitamin-d-council" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 112">Vitamin D Council</a> 
+[Vitamin D Council](/tags/vitamin-d-council.html) 
 
 [Vitamin D Council Forum](http://www.facebook.com/pages/Vitamin-D-Council/332321220632)
 
 [Grassroots](http://www.grassrootshealth.net/) 
 
-<a href="/posts/links-to-vitamin-d-and-health" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1567">Links to  Vitamin D and Health</a>
+[Links to  Vitamin D and Health](/tags/links-to-vitamin-d-and-health.html)
 
  **NOT VITAMIN D** 
 
-<a href="/posts/iodine-and-vitamin-d-are-similar" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2424">Iodine and vitamin D are similar</a>
+[Iodine and vitamin D are similar](/tags/iodine-and-vitamin-d-are-similar.html)
 
 <span>[tiki-browse_categories.php?parentId=124&sort_mode=created_desc]</span>
 
@@ -246,7 +246,7 @@
 
 ---
 
- **FEATURED NEW CHARTS <a href="/posts/vitamindcharts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VitaminDCharts">CLICK HERE</a>** 
+ **FEATURED NEW CHARTS [CLICK HERE](/tags/click-here.html)** 
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="300"> <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/baggerly-58-000-for-pre-term-birth-nov-2013.jpg" alt="image"><img src="/attachments/d3.mock.jpg" alt="image" width="300"><img src="/attachments/d3.mock.jpg" alt="image" width="300">
 <img src="/attachments/d3.mock.jpg" alt="image" width="300">
@@ -293,6 +293,6 @@ Although we heartily endorse the benefits of Vitamin D, we recognize that it is 
 
 > (VitaminDWiki had a lot of SPAM June 2012 and changed the requirements to add pages)
 
-*  **Subscribe to monthly Vitamin D <a href="/posts/newsletter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Newsletter">Newsletter</a> (added Jan 2013)** 
+*  **Subscribe to monthly Vitamin D [Newsletter](/tags/newsletter.html) (added Jan 2013)** 
 
-<a href="/posts/screenmagnification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: ScreenMagnification">CLICK HERE</a> to learn how to increase screen magnification and size
+[CLICK HERE](/tags/click-here.html) to learn how to increase screen magnification and size

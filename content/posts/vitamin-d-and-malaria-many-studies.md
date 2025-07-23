@@ -89,7 +89,7 @@ In summary, while there is some evidence that vitamin D might play a role in the
 
 * Relative Burdens of the COVID-19, Malaria, Tuberculosis, and HIV/AIDS Epidemics in Sub-Saharan Africa
 
-   * Dec 2021 see VitaminDWiki <a href="/posts/hiv-tb-malaria-more-important-than-covid-to-lower-africa" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HIV, TB, Malaria more important than COVID to lower Africa - Dec 2021">HIV, TB, Malaria more important than COVID to lower Africa - Dec 2021</a>
+   * Dec 2021 see VitaminDWiki [HIV, TB, Malaria more important than COVID to lower Africa - Dec 2021](/posts/hiv-tb-malaria-more-important-than-covid-to-lower-africa)
 
 * Pediatric Cerebral Malaria - Jan 2021 https://doi.org/10.1007/s40475-021-00227-4
 

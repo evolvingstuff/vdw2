@@ -42,13 +42,13 @@
 
 * [Supplementing Vitamin D](/posts/supplementing-vitamin-d) section
 
-* <a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies</a>
+* [Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies)
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a>
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)
 
-* <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Low cost cofactors for vitamin D</a> Cofactors are essential if you are taking > 3,000 IU daily for more than a month or so
+* [Low cost cofactors for vitamin D](/posts/low-cost-cofactors-for-vitamin-d) Cofactors are essential if you are taking > 3,000 IU daily for more than a month or so
 
-* <a href="/posts/sublingual-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 841">Sublingual vitamin D</a>
+* [Sublingual vitamin D](/posts/sublingual-vitamin-d)
 
 * [Vaginal suppository of 6300 IU vitamin D helped – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-helped)
 

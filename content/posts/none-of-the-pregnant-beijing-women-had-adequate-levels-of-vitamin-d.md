@@ -59,7 +59,7 @@ PMID:     23174124
 
 * [2000 IU vitamin D not enough to get most Chinese to 20 ng level – RCT Feb 2015](/posts/2000-iu-vitamin-d-not-enough-to-get-most-chinese-to-20-ng-level-rct)
 
-* <a href="/posts/virtually-all-chinese-teens-at-30-degree-n-have-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Virtually all Chinese teens at 30 degree N have less than 30 ng of vitamin D – Feb 2012">Virtually all Chinese teens at 30 degree N have less than 30 ng of vitamin D – Feb 2012</a>
+* [Virtually all Chinese teens at 30 degree N have less than 30 ng of vitamin D – Feb 2012](/posts/virtually-all-chinese-teens-at-30-degree-n-have-less-than-30-ng-of-vitamin-d)
 
 * [Beijing extremely vitamin D deficient even in the fall: 10 ng – April 2013](/posts/beijing-extremely-vitamin-d-deficient-even-in-the-fall-10-ng) which includes the following photo
 

@@ -104,4 +104,4 @@ Nuclear receptor genes represent a large family of genes encoding receptors for 
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-veterinary-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Veterinary and vitamin D">Overview Veterinary and vitamin D</a> mostly mammals, a few other vertebrates
+* [Overview Veterinary and vitamin D](/posts/overview-veterinary-and-vitamin-d) mostly mammals, a few other vertebrates

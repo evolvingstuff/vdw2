@@ -53,15 +53,15 @@ PMID:     23883271
 
 * [Low vitamin D associated with respiratory, digestive, and other deaths – Dec 2012](/posts/low-vitamin-d-associated-with-respiratory-digestive-and-other-deaths)
 
-* <a href="/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012">Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012</a>
+* [Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012](/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis)
 
-* <a href="/posts/low-vitamin-d-increased-death-rate-2x-in-finland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D increased death rate 2X in Finland – Aug 2011">Low vitamin D increased death rate 2X in Finland – Aug 2011</a> 
+* [Low vitamin D increased death rate 2X in Finland – Aug 2011](/posts/low-vitamin-d-increased-death-rate-2x-in-finland) 
 
-* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012">40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012</a>
+* [40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)
 
 * [People die sooner if they have low vitamin D – Nov 2014](/posts/people-die-sooner-if-they-have-low-vitamin-d)
 
-* <a href="/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012">Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012</a>  which has the following chart
+* [Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012](/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel)  which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

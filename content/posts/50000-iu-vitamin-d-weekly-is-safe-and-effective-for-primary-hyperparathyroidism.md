@@ -50,6 +50,6 @@ PMID:   23337136
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hyperparathyroidism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hyperparathyroidism and vitamin D">Overview Hyperparathyroidism and vitamin D</a>
+* [Overview Hyperparathyroidism and vitamin D](/posts/overview-hyperparathyroidism-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-primary-hyperparathyroidism-2011-2016" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Primary Hyperparathyroidism – 2011, 2016">Vitamin D and Primary Hyperparathyroidism – 2011, 2016</a>
+* [Vitamin D and Primary Hyperparathyroidism – 2011, 2016](/posts/vitamin-d-and-primary-hyperparathyroidism-2011-2016)

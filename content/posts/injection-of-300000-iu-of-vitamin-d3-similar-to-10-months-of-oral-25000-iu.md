@@ -62,10 +62,10 @@ PMID: 24469972
 
 ## See also VitaminDWiki
 
-* <a href="/posts/megadose-injection-of-up-to-600000-iu-vitamin-d3-every-three-months-for-adolescents" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Megadose injection of up to 600,000 IU vitamin D3 every three months for adolescents - April 2010">Megadose injection of up to 600,000 IU vitamin D3 every three months for adolescents - April 2010</a>
+* [Megadose injection of up to 600,000 IU vitamin D3 every three months for adolescents - April 2010](/posts/megadose-injection-of-up-to-600000-iu-vitamin-d3-every-three-months-for-adolescents)
 
 * [Reduced depression with single 300,000 IU injection of vitamin D – RCT June 2013](/posts/reduced-depression-with-single-300000-iu-injection-of-vitamin-d-rct)
 
 * [Review of Vitamin D (including free, frequency, injection, how much.) – Sept 2013](/posts/review-of-vitamin-d-including-free-frequency-injection-how-much)
 
-* <a href="/posts/300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011">300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011</a>
+* [300,000 IU injection loading dose of vitamin D3 stopped gestational diabetes in RCT – Oct 2011](/posts/300000-iu-injection-loading-dose-of-vitamin-d3-stopped-gestational-diabetes-in-rct)

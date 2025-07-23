@@ -34,7 +34,7 @@
 
 #### Down syndrome children (Trisomy 21) - 2 out of 3 had less than 20 ng of vitamin D – Aug 2018
 
-* <a href="/posts/downs-syndrome-and-low-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Down's syndrome and low vitamin D - several studies">Down's syndrome and low vitamin D - several studies</a>
+* [Down's syndrome and low vitamin D - several studies](/posts/downs-syndrome-and-low-vitamin-d-several-studies)
 
    * Which is the main page Down's page in VitaminDWiki
 

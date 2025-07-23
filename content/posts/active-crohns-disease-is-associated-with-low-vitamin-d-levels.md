@@ -47,16 +47,16 @@ PMID:     23403039
 
 ## See also VitaminDWiki
 
-* <a href="/posts/crohns-disease-kids-are-2x-more-likely-to-have-low-vitamin-d-intervention-helps" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crohn's disease kids are 2X more likely to have low vitamin D, intervention helps – April 2012">Crohn's disease kids are 2X more likely to have low vitamin D, intervention helps – April 2012</a>
+* [Crohn's disease kids are 2X more likely to have low vitamin D, intervention helps – April 2012](/posts/crohns-disease-kids-are-2x-more-likely-to-have-low-vitamin-d-intervention-helps)
 
-* <a href="/posts/ibd-and-crohn-but-not-colitis-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: IBD and Crohn but not Colitis associated with low vitamin D – May 2011">IBD and Crohn but not Colitis associated with low vitamin D – May 2011</a>
+* [IBD and Crohn but not Colitis associated with low vitamin D – May 2011](/posts/ibd-and-crohn-but-not-colitis-associated-with-low-vitamin-d)
 
-* <a href="/posts/crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011">Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011</a>
+* [Crohn’s disease deficient in vitamin K – IBD deficient in vitamins K and D – April 2011](/posts/crohns-disease-deficient-in-vitamin-k-ibd-deficient-in-vitamins-k-and-d)
 
-* <a href="/posts/people-with-gut-problems-are-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with gut problems are low on vitamin D">People with gut problems are low on vitamin D</a>
+* [People with gut problems are low on vitamin D](/posts/people-with-gut-problems-are-low-on-vitamin-d)
 
-* <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a> Great source of vitamin D for people with gut problems
+* [Gut-Friendly Vitamin D](/posts/gut-friendly-vitamin-d) Great source of vitamin D for people with gut problems
 
 * [Overview Gut and vitamin D](/posts/overview-gut-and-vitamin-d)
 
-* <a href="/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010">Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010</a>
+* [Crohn’s relapse reduced from 29% to 13% by taking 1200 IU of D3 – May 2010](/posts/crohns-relapse-reduced-from-29-percent-to-13-percent-by-taking-1200-iu-of-d3)

@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset=utf-8><title>Bone marrow foot oedema (rare pain in children, all were Vitamin D deficient)</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Bone marrow foot oedema (rare pain in children, all were Vitamin D deficient)</h1><time>June 2, 2019</time><div data-pagefind-body><h4 id=bone-marrow-foot-oedema-in-children-the-role-of-vitamin-d-paediatric-rheumatology--abstract-ab1060>BONE MARROW FOOT OEDEMA IN CHILDREN: THE ROLE OF VITAMIN D Paediatric rheumatology: – abstract AB1060</h4><p>Elisa Tadiotto1, Sara Pieropan1, Maddalena Maschio1, Giulia Aiello1, Giulia Melotti1, Federica Martinis2, Erica Giacomelli1, Giorgio Piacentini1</p><p>Background Bone marrow oedema (BMO) in children is a rare clinical condition characterized by joint and bone extremity pain, out of proportion to the clinical findings, exacerbated by weight bearing, in the absence of a known etiologic cause. It is associated with typical increased signal intensity on T2-weighted MRI. Management is still under debate. Treatment has mostly been reported in adult case series encompassing analgesic drugs, a variety of pharmacological treatments (corticosteroids, bisphosphonates, vasodilators), physiotherapy, reduction of weight-bearing, or core decompression. No treatment guidelines for children are to date available.</p><p>Objectives Recently it has become evident that BMO is associated by an increase in bone turnover, in which vitamin D plays a pivotal role. In literature association between hypovitaminosis D and BMO of the foot and ankle in adult patients is reported. No data are reported in cohorts of children. The purpose of this study is to investigate the incidence of hypovitaminosis D in a paediatric population with primary bone BMO of the feet and the role of a vitamin D supplementation therapy.</p><p>Methods A retrospective study involving 12 paediatric patients (range age 8-14 years) referred to our Rheumatologic Paediatric Clinic of Verona University in the period 2015-2018 with persistent foot pain and MRI compatible with BMO of the foot has been performed. They had all been misdiagnosed in other institutions as affected by algodystrophy or complex regional pain syndrome. Data collection included sex, age, medical and surgical history, recent or remote trauma history, symptoms at presentation, clinical examination, laboratory bone turnover markers, vitamin D levels, MRI, treatment and outcome.</p><p>Results 2/12 patients are male and 10/12 female (male to female ratio: 1:5). 2/12 had a previous diagnosis of juvenile idiopathic arthritis ANA + with the disease in remission at the moment of evaluation. 10/12 were previously healthy.</p><p>In all cases history of minor ankle strain or recurrent microtraumas of feet prior to symptom onset had been reported. Joint hypermobility was observed in 75% of cases. One child had been previously treated with bisphosphonates and 5 with limb immobilization, without any improvement. Physical examination revealed weight bearing pain of foot or ankle in all patients. No other sensory, vasomotor, trophic ore neurological signs and symptoms were detected. <strong>Vitamin D deficiency was found in all cases</strong> (range 10 to 22 ng/ml). All patients were thus treated with adequate vitamin D daily intake. Pain relief was achieved with paracetamol, low dose ibuprofen, or a short course of oral prednisone. Rest from intense physical activity and physical therapy, avoiding detrimental feet and ankle immobilization were recommended. All children (100%) fully recovered in 3-month lag period.</p><p>Conclusion BMO in children is a cause of disability and it is often misdiagnosed and incorrectly treated. Environmental factors, such as underestimated articular or bone microtraumatisms, as well as joint hyper mobility, typical of paediatric age, in a bone turnover milieu of vitamin D deficiency could be the cause of the clinical conditions. <strong>Adequate vitamin D supplementation, associated with physical and analgesic therapy, are crucial in the management of BMO.</strong> We highlight the importance of supplementing vitamin D as recommended in the current guidelines, in order to avoid its deficiency and prevent invalidating clinical complaints.</p><h4 id=references>References</h4><ul><li><p><sup>[1]</sup> Horas K. High prevalence of vitamin D deficiency in patients with bone marrow edema syndrome of the foot and ankle. Foot & Ankle International 2017.</p></li><li><p><sup>[2]</sup> Patel. Primary bone marrow oedema syndrome. Rheumatology 2014; 53:785-792</p></li><li><p><sup>[3]</sup> Mirghasemi SA. Bone marrow edema syndrome in the foot and ankle. Foot & Ankle International 2016.</p></li></ul><p><a href=http://dx.doi.org/10.1136/annrheumdis-2019-eular.1078>http://dx.doi.org/10.1136/annrheumdis-2019-eular.1078</a></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/child.html><span class=tag>child</span></a>
+<a href=/tags/infant-child.html><span class=tag>Infant-Child</span></a>
+<a href=/tags/osteoporosis.html><span class=tag>Osteoporosis</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a></div><div data-pagefind-meta=tags hidden>blood levels, child, Infant-Child, Osteoporosis, vitamin d</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

@@ -59,20 +59,20 @@ PMID:     23872023
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
-* [Cognitive](/categories/cognitive) Category list - and related searches
+* [Cognitive](/tags/cognitive.html) Category list - and related searches
 
 * [Fewer white spots in MRI brain scans if had more vitamin D – Jan 2014](/posts/fewer-white-spots-in-mri-brain-scans-if-had-more-vitamin-d)
 
 * [Vitamin D reduces Alzheimer’s disease in at least 11 ways – Jan 2013](/posts/vitamin-d-reduces-alzheimers-disease-in-at-least-11-ways)
 
-* <a href="/posts/lew-body-dementia-robin-williams-and-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lew Body Dementia (Robin Williams) and low Vitamin D - many studies">Lew Body Dementia (Robin Williams) and low Vitamin D - many studies</a>
+* [Lew Body Dementia (Robin Williams) and low Vitamin D - many studies](/tags/lew-body-dementia-robin-williams-and-low-vitamin-d-many-studies.html)
 
-* <a href="/posts/brain-lesions-might-be-associated-with-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain lesions might be associated with vitamin D deficiency – March 2012">Brain lesions might be associated with vitamin D deficiency – March 2012</a>
+* [Brain lesions might be associated with vitamin D deficiency – March 2012](/posts/brain-lesions-might-be-associated-with-vitamin-d-deficiency)
 
-* <a href="/posts/brain-cancer-in-175-countries-related-to-low-uvb-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010">Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010</a>
+* [Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010](/posts/brain-cancer-in-175-countries-related-to-low-uvb-and-low-vitamin-d)
 
-* <a href="/posts/low-vitamin-d-associated-with-brain-atrophy-in-ms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D associated with brain atrophy in MS – April 2010">Low vitamin D associated with brain atrophy in MS – April 2010</a>
+* [Low vitamin D associated with brain atrophy in MS – April 2010](/posts/low-vitamin-d-associated-with-brain-atrophy-in-ms)
 
-* <a href="/posts/vets-give-1000-20000-iu-of-vitamin-dkg-of-feed-per-day-to-animals" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4989">Vets give 1,000 - 20,000 IU of vitamin D/kg of feed per day to animals</a>
+* [Vets give 1,000 - 20,000 IU of vitamin D/kg of feed per day to animals](/tags/vets-give-1000-20000-iu-of-vitamin-dkg-of-feed-per-day-to-animals.html)

@@ -28,7 +28,6 @@
         "Stroke",
         "Top news",
         "Women",
-        "acne",
         "anxiety",
         "asthma",
         "breast cancer",
@@ -39,15 +38,12 @@
         "dementia",
         "depression",
         "depression and pregnancy",
-        "dermatology",
         "diabetes",
-        "headache",
         "herpes shingles",
         "influenza",
         "lung cancer",
         "metabolic",
         "mood disorders",
-        "pain",
         "pregnancy",
         "sepsis",
         "stroke",
@@ -69,23 +65,23 @@
 
 [Anxiety - Depression](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&deep=off&type=)|10.0%|1|8.7%|1
 
-<a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Type 2 Diabetes</a>|4.9%|4|8.0%|2
+[Type 2 Diabetes](/posts/overview-diabetes-and-vitamin-d)|4.9%|4|8.0%|2
 
-<a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Dementia</a>|4.8%|5|7.4%|3
+[Dementia](/posts/overview-alzheimers-cognition-and-vitamin-d)|4.8%|5|7.4%|3
 
-<a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Ischaemic Heart</a> |8.9%|2|6.1%|4
+[Ischaemic Heart](/posts/overview-cardiovascular-and-vitamin-d) |8.9%|2|6.1%|4
 
-<a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Stroke</a>|5.1%|3|3.8%|5
+[Stroke](/posts/overview-stroke-and-vitamin-d)|5.1%|3|3.8%|5
 
 [Breast Cancer](/posts/overview-breast-cancer-and-vitamin-d)|4.8%|6|3.5%|6
 
-<a href="/posts/overview-lung-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Lung cancer and vitamin D">Lung Cancer</a>|2.7%|8|3.5%|7
+[Lung Cancer](/posts/overview-lung-cancer-and-vitamin-d)|2.7%|8|3.5%|7
 
 [COPD](/posts/copd-fought-by-vitamin-d-many-studies)|3.0%|7|2.8%|8
 
-<a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Asthma</a>|2.7%|9|2.4%|9
+[Asthma](/posts/overview-asthma-and-vitamin-d)|2.7%|9|2.4%|9
 
-<a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Osteoarthritis</a>|1.6%|12|2.2%|10||
+[Osteoarthritis](/posts/overview-osteoarthritis-and-vitamin-d)|1.6%|12|2.2%|10||
 
  **Click on underlined hyperlinks for details** 
 
@@ -101,9 +97,9 @@ ALL of the top 10 items on the list are strongly assocated with low vitamin D
 
  **In addition** , Vitamin D reduces the risk of non DALY diseases which
 
-&nbsp; &nbsp;  people die from too quickly: e.g. [Sudden Cardiac Arrest](/categories/cardiovascular), <a href="/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sepsis is both prevented and treated by Vitamin D - many studies">Fatal hospital infections</a>
+&nbsp; &nbsp;  people die from too quickly: e.g. [Sudden Cardiac Arrest](/tags/sudden-cardiac-arrest.html), [Fatal hospital infections](/posts/sepsis-is-both-prevented-and-treated-by-vitamin-d-many-studies)
 
-&nbsp; &nbsp;  are short-term: e.g. <a href="/posts/acne-overview-colds-and-flu-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: acne)) ((Overview Colds and flu and Vitamin D">Colds, flu</a>, <a href="/posts/headache-shingles-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Headache)), ((Shingles and vitamin D">Shingles</a>
+&nbsp; &nbsp;  are short-term: e.g. [Colds, flu](/tags/colds-flu.html), [Shingles](/tags/shingles.html)
 
 #### [Just taking one capsule every two weeks %%% will cut  the risk of ALL 10 of the diseases about in half](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need)
 
@@ -119,9 +115,9 @@ Note: the bi-weekly capsule will put almost all people in the range of 40-60 ng 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is indispensable for the health of women - editorial June 2022">Vitamin D is indispensable for the health of women - editorial June 2022</a>
+* [Vitamin D is indispensable for the health of women - editorial June 2022](/posts/vitamin-d-is-indispensable-for-the-health-of-women-editorial)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 83 as of Nov 2022
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 83 as of Nov 2022
 
 * [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade) with charts of increases
 
@@ -129,13 +125,13 @@ Note: the bi-weekly capsule will put almost all people in the range of 40-60 ng 
 
 * [Does less sun mean more Disease?](/posts/does-less-sun-mean-more-disease) 5 minute video in many languages
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/dementia-19x-more-likely-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dementia 19X more likely if low vitamin D – Jan 2012">Dementia 19X more likely if low vitamin D – Jan 2012</a>
+* [Dementia 19X more likely if low vitamin D – Jan 2012](/posts/dementia-19x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/menstrual-cycle-disorders-5x-more-likely-in-teens-if-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Menstrual cycle disorders 5X more likely in teens if less than 30 ng of Vitamin D – Nov 2018">Menstrual cycle disorders 5X more likely in teens if less than 30 ng of Vitamin D – Nov 2018</a>
+* [Menstrual cycle disorders 5X more likely in teens if less than 30 ng of Vitamin D – Nov 2018](/posts/menstrual-cycle-disorders-5x-more-likely-in-teens-if-less-than-30-ng-of-vitamin-d)
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Women and Vitamin D">Overview Women and Vitamin D</a> has the following chart
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

@@ -65,4 +65,4 @@ The authors call for future investigation involving greater numbers of participa
 
 A larger dose could have been given (say 200,000 IU), and the dose could have given every two weeks
 
-<a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 326">Overview Loading of vitamin D</a>
+[Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)

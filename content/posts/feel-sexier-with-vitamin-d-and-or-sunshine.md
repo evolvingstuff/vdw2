@@ -204,7 +204,7 @@ PMID: 23686706
 
 ### Vitamin D associations with erectile dysfunction - April 2012
 
-<a href="/posts/vitamin-d-associations-with-erectile-dysfunction" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D associations with erectile dysfunction - April 2012">Vitamin D associations with erectile dysfunction - April 2012</a>
+[Vitamin D associations with erectile dysfunction - April 2012](/posts/vitamin-d-associations-with-erectile-dysfunction)
 
 ---
 
@@ -222,7 +222,7 @@ PMID: 23686706
 
 ### Serotonin related to season, light and perhaps latitude and vitamin D
 
-<a href="/posts/serotonin-related-to-season-light-and-perhaps-latitude-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Serotonin related to season, light and perhaps latitude and vitamin D">Serotonin related to season, light and perhaps latitude and vitamin D</a>
+[Serotonin related to season, light and perhaps latitude and vitamin D](/posts/serotonin-related-to-season-light-and-perhaps-latitude-and-vitamin-d)
 
 ---
 

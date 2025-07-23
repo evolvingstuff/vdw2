@@ -29,7 +29,7 @@
 
  **Update Feb 2018: have sold 1,000,000 testers** 
 
- **Update <a href="/posts/low-cost-vitamin-d-testers-two-yes-no-tests-for-11-dollars-2024" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024">Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024</a>** 
+ **Update [Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024](/posts/low-cost-vitamin-d-testers-two-yes-no-tests-for-11-dollars-2024)** 
 
  **Accuracy within 12%** 
 
@@ -57,9 +57,9 @@ While it is technically possible for them to make a disposable tester for say 50
 
 #### See also
 
-* <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a>
+* [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests)
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a>
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency)
 
 * [Vitamin D testing using smartphone camera: Prototype – Dec 2013](/posts/vitamin-d-testing-using-smartphone-camera-prototype)
 
@@ -99,4 +99,4 @@ LOOK for red lines after WAITING  for 10 minutes  (shade of red does not matter)
 
 ---
 
-<a href="/posts/instant-low-cost-vitamin-d-test-kits-available-uk-amazon" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Instant, low-cost Vitamin D test kits available - UK Amazon - April 2021">Instant, low-cost Vitamin D test kits available - UK Amazon - April 2021</a>
+[Instant, low-cost Vitamin D test kits available - UK Amazon - April 2021](/posts/instant-low-cost-vitamin-d-test-kits-available-uk-amazon)

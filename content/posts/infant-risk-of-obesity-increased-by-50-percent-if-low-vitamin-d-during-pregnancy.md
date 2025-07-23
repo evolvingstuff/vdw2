@@ -64,4 +64,4 @@ Vitamin D deficiency in pregnancy may increase the risk of prenatal and early po
 
 #### See also VtiaminDWiki
 
-* <a href="/posts/low-vitamin-d-during-pregnancy-increases-risk-of-future-health-problems-obesity-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low vitamin D during pregnancy increases risk of future health problems (obesity etc.) – May 2022">Low vitamin D during pregnancy increases risk of future health problems (obesity etc.) – May 2022</a>
+* [Low vitamin D during pregnancy increases risk of future health problems (obesity etc.) – May 2022](/posts/low-vitamin-d-during-pregnancy-increases-risk-of-future-health-problems-obesity-etc)

@@ -62,13 +62,13 @@ Received in final form 17 December 2012;     Accepted 17 January 2013;  online a
 
 * [Physical performance of seniors increases with vitamin D up to 30 ng – Jan 2013](/posts/physical-performance-of-seniors-increases-with-vitamin-d-up-to-30-ng)
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Type 2 muscles, not all muscles, get benefit from Vitamin D - Dec 2012](/posts/type-2-muscles-not-all-muscles-get-benefit-from-vitamin-d)
 
 * [Sarcopenia (muscle loss) fought by Vitamin D, exercise and protein - many studies](/posts/sarcopenia-muscle-loss-fought-by-vitamin-d-exercise-and-protein-many-studies) wasting away of muscles
 
-* <a href="/posts/mobility-disability-19x-more-likely-if-had-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012">Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012</a>
+* [Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012](/posts/mobility-disability-19x-more-likely-if-had-low-level-of-vitamin-d)
 
 * [Search of VitaminDWiki for sacopenia](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=sarcopenia&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 193 hits April 2014
 

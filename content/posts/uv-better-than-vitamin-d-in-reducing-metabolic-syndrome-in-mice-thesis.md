@@ -64,10 +64,10 @@ Conclusion: The effects of UVR observed in the mice fed a HFD were independent o
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Search VitaminDWiki for UV and "Metabolic Syndrome"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=UV+%22metabolic+syndrome%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 999 results as of Sept 2013
 
 * [UVB added in classroom reduced cavities, increased height, increased academics. etc](/posts/uvb-added-in-classroom-reduced-cavities-increased-height-increased-academics-etc)
 
-* <a href="/posts/opinion-sun-better-than-uv-better-than-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Opinion: sun better than UV better than vitamin D">Opinion: sun better than UV better than vitamin D</a>
+* [Opinion: sun better than UV better than vitamin D](/posts/opinion-sun-better-than-uv-better-than-vitamin-d)

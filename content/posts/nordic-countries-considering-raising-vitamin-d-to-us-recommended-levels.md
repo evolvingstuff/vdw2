@@ -28,11 +28,11 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/germany-span-stylecolor00f800-iuspan-as-of" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2304">Germany =   **<span style="color:#00F;">800 IU</span>**   as of Jan 2012</a>
+* [Germany =   **<span style="color:#00F;">800 IU</span>**   as of Jan 2012](/tags/germany-span-stylecolor00f800-iuspan-as-of-jan-2012.html)
 
-* <a href="/posts/french-society-of-paediatics-vitamin-d-recommendations" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2359">French Society of Paediatics Vitamin D recommendations – Jan 2012</a> lots of details, example: breastfed infants:  **<span style="color:#00F;">1000 to 1200 IU</span>** 
+* [French Society of Paediatics Vitamin D recommendations – Jan 2012](/posts/french-society-of-paediatics-vitamin-d-recommendations) lots of details, example: breastfed infants:  **<span style="color:#00F;">1000 to 1200 IU</span>** 
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1293">Vitamin D Recommendations around the world - IU and ng</a> which has the following graph
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng) which has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

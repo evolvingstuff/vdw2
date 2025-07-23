@@ -59,7 +59,7 @@ I had been using 3 grams of D-Ribose occasionally for over a decade to relieve f
 
 After increasing my Vitamin D and Magnesium levels I no longer have fatigue, and no longer use D-Ribose
 
-People suffering CFS should consider increasing Vitamin D, D-Ribose, <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Magnesium</a>, and perhaps [Iron](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
+People suffering CFS should consider increasing Vitamin D, D-Ribose, [Magnesium](/posts/overview-magnesium-and-vitamin-d), and perhaps [Iron](/posts/iron-deficiency-is-a-cause-of-vitamin-d-deficiency)
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/cfs-d-ribose.pdf">Download the PDF from VitaminDWiki.</a>** 
 

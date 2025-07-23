@@ -61,7 +61,6 @@
         "neurological",
         "obesity",
         "obesity and cancer",
-        "osteoporosis",
         "otitis media",
         "pain",
         "parkinsons",
@@ -72,12 +71,9 @@
         "rheumatoid arthritis",
         "rickets",
         "skin cancer",
-        "sleep",
         "therapeutic intervention",
         "trauma surgery",
         "tuberculosis",
-        "ultraviolet light",
-        "vertigo",
         "virus",
         "virus and cardiovascular",
         "virus and cognitive",
@@ -102,21 +98,21 @@
 
  **Which people typically have low levels of Vitamin D?** 
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Obese</a> - Vitamin D is stored in fat, so 2X as much is needed to get benefits by the body
+* [Obese](/posts/overview-obesity-and-vitamin-d) - Vitamin D is stored in fat, so 2X as much is needed to get benefits by the body
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Seniors</a> - Get 3X less D from sun, less from guts. less conversion by 40% of senior liver 
+* [Seniors](/posts/overview-seniors-and-vitamin-d) - Get 3X less D from sun, less from guts. less conversion by 40% of senior liver 
 
 * [Shut-ins](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=139&sort_mode=created_desc) - people with major health problems,  prisoners, astronauts, submariners
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Pregnant</a> - Especially twins or recent birth
+* [Pregnant](/posts/overview-pregnancy-and-vitamin-d) - Especially twins or recent birth
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Darker skin</a> - Similar to permanent  sunscreen - must be outdoors a lot get vitamin D
+* [Darker skin](/posts/overview-dark-skin-and-vitamin-d) - Similar to permanent  sunscreen - must be outdoors a lot get vitamin D
 
  **Why do most people need to restore their levels of Vitamin D?** 
 
  **Why do people living near the equator now have low levels?** 
 
- **<a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Why have Vitamin D levels dropped so much in past few decades?</a>** 
+ **[Why have Vitamin D levels dropped so much in past few decades?](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)** 
 
  **Why do 9 out of 10 people now have less than optimum levels of Vitamin D?** 
 
@@ -142,7 +138,7 @@
 
 * It is very rare that a person will have get too high of a level of vitamin D (> 100 or > 150 ng)
 
-* <a href="/posts/vitamin-d-testing-typically-not-needed-but-in-9-cases-it-is" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D testing typically not needed, but in 9 cases it is – April 2012">But in rare cases testing should  be done first</a>
+* [But in rare cases testing should  be done first](/posts/vitamin-d-testing-typically-not-needed-but-in-9-cases-it-is)
 
  **How did the myth that Vitamin D can be toxic get started?** 
 
@@ -180,7 +176,7 @@
 
  **Can I fortify my food with Vitamin D at home?** 
 
- **<a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How can I double the response to the vitamin D which I do get</a>** 
+ **[How can I double the response to the vitamin D which I do get](/posts/how-you-might-double-your-response-to-vitamin-d)** 
 
  **If I miss taking a vitamin D pill what should I do?** 
 
@@ -188,13 +184,13 @@
 
  **Which health problems have been PROVEN to be PREVENTED or TREATED by Vitamin D?** 
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Random controlled, double blind trials -neither patient nor doctor knew who got the vitamin D</a> - include:
+* [Random controlled, double blind trials -neither patient nor doctor knew who got the vitamin D](/posts/proof-that-vitamin-d-works) - include:
 
 > Asthma, Blood flow after heart attack, Breast Cancer, C-section, Cardiovascular, Cholesterol, Chronic Hives, Chronic Kidney Disease, Congestive Heart Failure (Infants), COPD, Cystic Fibrosis, Depression, Diabetes, Falls, Fibromyalgia, Gestational Diabetes, Gingivitis, Hip Fractures, Hypertension, Influenza, Leg Ulcers, Low Birth Weight, Low Vitamin D in Breast milk, Lupus, Menstrual Pain, Middle Ear Infection (Infants), Multiple Sclerosis, Parkinson's Disease, Prostate Cancer, Raynaud's pain, Respiratory Tract Infection, Rheumatoid Arthritis, Rickets, Sickle Cell pain, Survive ICU, TB, Traumatic Brain Injury, Weight loss
 
  **Which diseases appear to be CURED, and not just TREATED by Vitamin D?** 
 
-* Thus far just <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Multiple Sclerosis</a> and [Psorasis](/posts/35000-iu-vitamin-d-daily-for-6-months-helped-all-psoriasis-suffers-106-ng-brazil)
+* Thus far just [Multiple Sclerosis](/posts/overview-ms-and-vitamin-d) and [Psorasis](/posts/35000-iu-vitamin-d-daily-for-6-months-helped-all-psoriasis-suffers-106-ng-brazil)
 
 * VitaminDWiki expects many more diseases will be cured when a large enough dose of vitamin D is given
 
@@ -256,46 +252,7 @@ How much Vitamin D is recommended around the world
 
 I am taking drug XXX – should I not take vitamin D
 
-<a href="/posts/drugs-that-create-a-vitamin-d-deficiency-might-i-lose-weight-by-taking-vitamin-d-ss-in-australia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Drugs that create a vitamin D deficiency))
-Might I lose weight by taking vitamin D
-UV light for my home/office – how can I add it.
-How much do vitamin D tests cost
-Medicare – only one test per lifetime, many countries not pay for vitamin D test until already have major health problem
-Calcium – why should I limit it to 500 mg daily
-Why does DDT, etc reduce vitamin D levels
-Will Vitamin D reduce my Sun allergy
-((Allergic to the sun (Polymorphic light eruption) – you may need UVB or vitamin D))
-Will Vitamin D reduce my sun-burning
-((Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013))
-((2200X more problems from no UVB than too much UVB - WHO 2006))
-What does it mean if vitamin D is patented for a disease
-Why might poor sleep be associated with low vitamin D
-Huge amounts of vitamin D – what proof is there that it helps
-MS, Psorasis, Raynaud’s, Shin splints, Cystic Fibrosis, Pregnant, Sleep disorders, Muscle fatigue, Leg ulcers, ((300,000 IU vitamin D helped seniors in many ways – May 2011))
-Is there a form of vitamin D3 for vegans -D3 which has never been near an animal
-My liver is not working well: Is there a form of vitamin D for me?
-My kidney is not working well: Is there a form of vitamin D for me?
-My gut is not working well: Is there a form of vitamin D for me?
-How can I get the most benefit from the vitamin D which I do take
-How can I get the most vitamin D from the sun
-Does the form/supplier of vitamin D matter much
-Which countries has taken more vitamin D and seen the benefits
-((20X increase in vitamin D sold and 36 percent decrease in osteoporosis business in Australia – Nov 2013">Austrailia</a>, Turkey, Finland, <a href="/posts/improved-health-due-to-vitamin-d-fortification-in-finland-are-there-some-papers--lly-a-uv-winter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Improved health due to vitamin D fortification in Finland))
-Are there some papers which I can give to my Doctor about vitamin D
-Which cofactors are also needed for Bones, Teeth, and Nails
-Should I take extra vitamin D before going to the hospital
-Which medical specialties have already noticed vitamin D
-How might I determine if my disease might be treated by vitamin D
-Why is vertigo so strongly associated with low vitamin 
-Expodential growth in vitamin D publications
-Redhead  Burn easily
-Genetics
-Flus and colds: will vitamin D help
-Muscles: how/when will vitamin D help
-When is sun/uvb actually proven to be better than vitamin D
-((Opinion: sun better than UV better than vitamin D))
-
-__  ((Is there really a UV winter">Can I get any vitamin D from the sun in the winter?</a> Yes!
+[Austrailia](/tags/austrailia.html), Turkey, Finland, [Can I get any vitamin D from the sun in the winter?](/tags/can-i-get-any-vitamin-d-from-the-sun-in-the-winter.html) Yes!
 
 I am in pain – how quickly can I see if vitamin D will decrease my pain
 
@@ -309,27 +266,25 @@ WHO
 
 Autism 25 reasons
 
-<a href="/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d-a-balanced--ed-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3 to 55 X more likely to have these health problems if low Vitamin D))
-
-__ ((A balanced diet is no longer enough – supplements needed - VitaminDWiki Oct 2012">I eat well – why should I need to take a supplementation?</a> **What are the problems of getting too much vitamin D
+[I eat well – why should I need to take a supplementation?](/tags/i-eat-well-why-should-i-need-to-take-a-supplementation.html) **What are the problems of getting too much vitamin D
 
 I often forget to take pills – how can I consistently take vitamin D
 
 Should I be concerned if someone has taken a bit much vitamin D
 
-<a href="/posts/should-you-worry-if-you-store-vitamin-d-in-your-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Should You Worry if You Store Vitamin D in your body">Should You Worry if You Store Vitamin D in your body</a>
+[Should You Worry if You Store Vitamin D in your body](/posts/should-you-worry-if-you-store-vitamin-d-in-your-body)
 
 ### <span style="color:#F00;">Possible question ideas from Facts and Myths page</span>
 
-<a href="/posts/there-is-a-vitamin-d-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 9">There is a vitamin D winter</a> &nbsp; &nbsp; &nbsp; (Lack Concensus. 
+[There is a vitamin D winter](/tags/there-is-a-vitamin-d-winter.html) &nbsp; &nbsp; &nbsp; (Lack Concensus. 
 
 &nbsp; &nbsp;A clinical trial made an error 30 years ago - decreasing tanning bed intensity until it stopped generating vitamin D in those who had enough
 
 &nbsp; &nbsp;Should have very different results if increase UVB intensity for people who are vitamin D deficient (the Spring affect)
 
-<a href="/posts/10-minutes-of-sun-every-other-day-provides-enough-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1689">10 minutes of sun every other day provides enough vitamin D</a> &nbsp; &nbsp; &nbsp;(MYTH
+[10 minutes of sun every other day provides enough vitamin D](/tags/10-minutes-of-sun-every-other-day-provides-enough-vitamin-d.html) &nbsp; &nbsp; &nbsp;(MYTH
 
-20 ng is enough &nbsp; &nbsp; &nbsp;(FALSE - <a href="/posts/optimal-amount-is-40-ng" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4530">optimal amount is >40 ng</a>
+20 ng is enough &nbsp; &nbsp; &nbsp;(FALSE - [optimal amount is >40 ng](/tags/optimal-amount-is-40-ng.html)
 
 You get plenty of vitamin D thru windows &nbsp; &nbsp; &nbsp;(FALSE - no UVB, only UVA
 
@@ -337,7 +292,7 @@ UV-A destroys vitamin D &nbsp; &nbsp; &nbsp;(appears to be TRUE - so watch out f
 
 Salmon have a lot of vitamin D &nbsp; &nbsp; &nbsp;(True for wild salmon, False for farmed salmon, which has only 1/4 as much)
 
-10,000 IU of vitamin D is toxic &nbsp; &nbsp; &nbsp;(MYTH - <a href="/posts/as-a-monotherapy-12000-iu-of-vitamin-d-can-be-taken-for-1-year" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 898">as a monotherapy, 12,000 IU of vitamin D can be taken for > 1 year</a>. Far more if the cofactors are balanced 
+10,000 IU of vitamin D is toxic &nbsp; &nbsp; &nbsp;(MYTH - [as a monotherapy, 12,000 IU of vitamin D can be taken for > 1 year](/tags/as-a-monotherapy-12000-iu-of-vitamin-d-can-be-taken-for-1-year.html). Far more if the cofactors are balanced 
 
 There is no risk to my starting to take 5,000 IU of vitamin D&nbsp; &nbsp; &nbsp; (FALSE - About 1 in 300 people have an allergic reaction, probably due to low Magnesium or [tiki-index.php?page_id=5264|allergy to** wool **])
 
@@ -351,7 +306,7 @@ Drink a cup of milk every day and your vitamin D will be okay &nbsp; &nbsp; &nbs
 
 You do not develop vitamin D deficiency if you live in a warm, sunny place &nbsp; &nbsp; &nbsp;(FALSE - people stay out of the hot sun n the middle of the day
 
-&nbsp; &nbsp;In the [Middle East](/categories/middle-east) they get health problems in the summer that others get in the winter - they avoid the sun that much
+&nbsp; &nbsp;In the [Middle East](/tags/middle-east.html) they get health problems in the summer that others get in the winter - they avoid the sun that much
 
 Eating a healthy diet will take care of your vitamin D needs 
 
@@ -457,13 +412,13 @@ Do vitamin D supplements expire?
 
 [Can get 50,000 IU Vitamin D anywhere on the globe](/posts/can-get-50000-iu-vitamin-d-anywhere-on-the-globe)
 
-<a href="/posts/50000-iu-vitamin-d-daily-toxic-after-3-months" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 50000 IU vitamin D daily toxic after 3 months – Oct 2011">50000 IU vitamin D daily toxic after 3 months – Oct 2011</a>
+[50000 IU vitamin D daily toxic after 3 months – Oct 2011](/posts/50000-iu-vitamin-d-daily-toxic-after-3-months)
 
 [50,000 IU vitamin D 1-3 times per week helped obese patients in rehab. – May 2013](/posts/50000-iu-vitamin-d-1-3-times-per-week-helped-obese-patients-in-rehab)
 
 [50,000 IU vitamin D weekly increased levels by 52 ng normally, but only 28 ng if obese – Oct 2013](/posts/50000-iu-vitamin-d-weekly-increased-levels-by-52-ng-normally-but-only-28-ng-if-obese)
 
-<a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+[Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
 Millions of people have taken single dose of 500,000 IU of vitamin D without any problem
 

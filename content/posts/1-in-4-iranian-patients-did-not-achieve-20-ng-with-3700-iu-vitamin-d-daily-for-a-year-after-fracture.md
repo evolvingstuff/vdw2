@@ -62,8 +62,8 @@ PMID:     23959785
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
 * [Bone - Health](/posts/bone-health)
 
-* <a href="/posts/85-percent-achieved-20-nanograms-with-daily-average-of-3300-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3109">85% achieved 20 nanograms with daily average of 3300 IU of vitamin D</a>  very similar to study on this page, also Iran
+* [85% achieved 20 nanograms with daily average of 3300 IU of vitamin D](/tags/85-achieved-20-nanograms-with-daily-average-of-3300-iu-of-vitamin-d.html)  very similar to study on this page, also Iran

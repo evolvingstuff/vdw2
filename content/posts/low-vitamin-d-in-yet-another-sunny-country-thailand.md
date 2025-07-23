@@ -63,21 +63,21 @@ Life style and environmental factors are the major factors that determine vitami
 
 * [A doctor becomes aware of vitamin D deficiency in Brazil, a sunny country – June 2014](/posts/a-doctor-becomes-aware-of-vitamin-d-deficiency-in-brazil-a-sunny-country)
 
-* <a href="/posts/23-ng-of-vitamin-d-in-sunny-israel" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 23 ng of vitamin D in sunny Israel – Dec 2010">23 ng of vitamin D in sunny Israel – Dec 2010</a>
+* [23 ng of vitamin D in sunny Israel – Dec 2010](/posts/23-ng-of-vitamin-d-in-sunny-israel)
 
 * [Newborns in sunny Jordan have very low Vitamin D (histogram) – Nov 2013](/posts/newborns-in-sunny-jordan-have-very-low-vitamin-d-histogram)
 
 * [Arabs have even lower levels of vitamin D than Jews in sunny Israel – Feb 2012](/posts/arabs-have-even-lower-levels-of-vitamin-d-than-jews-in-sunny-israel)  hint; darker skins
 
-* <a href="/posts/another-urban-area-in-a-sunny-climate-is-vitamin-d-deficient-bangkok" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Another urban area in a sunny climate is vitamin D deficient – Bangkok Nov 2011">Another urban area in a sunny climate is vitamin D deficient – Bangkok Nov 2011</a>
+* [Another urban area in a sunny climate is vitamin D deficient – Bangkok Nov 2011](/posts/another-urban-area-in-a-sunny-climate-is-vitamin-d-deficient-bangkok)
 
-* <a href="/posts/yet-again-vitamin-d-levels-very-low-in-sunny-saudia-arabia" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Yet again – vitamin D levels very low in sunny Saudia Arabia – April 2011">Yet again – vitamin D levels very low in sunny Saudia Arabia – April 2011</a>
+* [Yet again – vitamin D levels very low in sunny Saudia Arabia – April 2011](/posts/yet-again-vitamin-d-levels-very-low-in-sunny-saudia-arabia)
 
 * [Why India's vitamin D deficiency is grim - 40 pages Feb 2014](/posts/why-indias-vitamin-d-deficiency-is-grim-40-pages)
 
-* <a href="/posts/people-in-louisiana-may-be-avoiding-the-hot-sun-like-those-in-middle-east" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People in Louisiana may be avoiding the hot sun like those in Middle East – May 2012">People in Louisiana may be avoiding the hot sun like those in Middle East – May 2012</a>
+* [People in Louisiana may be avoiding the hot sun like those in Middle East – May 2012](/posts/people-in-louisiana-may-be-avoiding-the-hot-sun-like-those-in-middle-east)
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

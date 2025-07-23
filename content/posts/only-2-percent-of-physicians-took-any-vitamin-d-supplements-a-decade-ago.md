@@ -38,7 +38,7 @@ Now we can understand why physicians are generally reluctant to prescribe vitami
 
 They had been (incorrectly) trained to believe that  
 
-* <a href="/posts/myth-for-50-years-2000-iu-of-vitamin-d-is-toxic-still-taught-as-fact-in-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Myth for 50 years: 2000 IU of vitamin D is toxic - still taught as fact in 2010">>2,000 IU of vitamin D was toxic</a>
+* [>2,000 IU of vitamin D was toxic](/posts/myth-for-50-years-2000-iu-of-vitamin-d-is-toxic-still-taught-as-fact-in-2010)
 
 * supplements provided no benefits
 
@@ -46,9 +46,9 @@ Yes, we agree with the study conclusions - no heart benefits from taking 200 IU 
 
  **See also VitaminDWiki** 
 
-<a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+[Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-<a href="/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 17 reasons why are doctors reluctant to accept vitamin D">17 reasons why are doctors reluctant to accept vitamin D</a>
+[17 reasons why are doctors reluctant to accept vitamin D](/posts/17-reasons-why-are-doctors-reluctant-to-accept-vitamin-d)
 
 [Great Vitamin D webinar for doctors - Plotnikoff Nov 2013](/posts/great-vitamin-d-webinar-for-doctors-plotnikoff)
 

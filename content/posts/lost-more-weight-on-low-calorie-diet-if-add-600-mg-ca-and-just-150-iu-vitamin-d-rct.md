@@ -56,22 +56,22 @@ PMID:     23297844
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Obese need more Vitamin D: Volume dilution, IU per pound, or BMI – RCT Dec 2012](/posts/obese-need-more-vitamin-d-volume-dilution-iu-per-pound-or-bmi-rct)
 
 * [Overweight women lost fat in 12 weeks with just 1000 IU vitamin D daily – Sept 2012](/posts/overweight-women-lost-fat-in-12-weeks-with-just-1000-iu-vitamin-d-daily)
 
-* <a href="/posts/obesity-reduction-with-calcium-and-vitamin-d-controversy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity reduction with Calcium and vitamin D – controversy May 2012">Obesity reduction with Calcium and vitamin D – controversy May 2012</a>
+* [Obesity reduction with Calcium and vitamin D – controversy May 2012](/posts/obesity-reduction-with-calcium-and-vitamin-d-controversy)
 
-* <a href="/posts/adding-calcium-and-vitamin-d-does-not-consistently-reduce-obesity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Adding Calcium and Vitamin D does not consistently reduce obesity – May 2012">Adding Calcium and Vitamin D does not consistently reduce obesity – May 2012</a>
+* [Adding Calcium and Vitamin D does not consistently reduce obesity – May 2012](/posts/adding-calcium-and-vitamin-d-does-not-consistently-reduce-obesity)
 
-* <a href="/posts/how-might-calcium-and-vitamin-d-cause-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How might Calcium and Vitamin D cause weight loss – Mar 2012">How might Calcium and Vitamin D cause weight loss – Mar 2012</a>
+* [How might Calcium and Vitamin D cause weight loss – Mar 2012](/posts/how-might-calcium-and-vitamin-d-cause-weight-loss)
 
-* <a href="/posts/1000-iu-of-vitamin-d-daily-drops-5-pounds-in-12-weeks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 1000 IU of Vitamin D daily drops 5 pounds in 12 weeks – Feb 2012">1000 IU of Vitamin D daily drops 5 pounds in 12 weeks – Feb 2012</a>
+* [1000 IU of Vitamin D daily drops 5 pounds in 12 weeks – Feb 2012](/posts/1000-iu-of-vitamin-d-daily-drops-5-pounds-in-12-weeks)
 
-* <a href="/posts/weight-loss-and-vitamin-d-calcium-and-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Weight loss and Vitamin D, Calcium, and Magnesium">Weight loss and Vitamin D, Calcium, and Magnesium</a>
+* [Weight loss and Vitamin D, Calcium, and Magnesium](/posts/weight-loss-and-vitamin-d-calcium-and-magnesium)
 
-* <a href="/posts/weight-reduction-review-vitamin-d-and-calcium-may-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Weight reduction review – Vitamin D and Calcium may help – July 2011">Weight reduction review – Vitamin D and Calcium may help – July 2011</a>
+* [Weight reduction review – Vitamin D and Calcium may help – July 2011](/posts/weight-reduction-review-vitamin-d-and-calcium-may-help)
 
-* <a href="/posts/600-mg-dairy-resulted-in-12-pound-loss-in-2-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 600 mg dairy resulted in 12 pound loss in 2 years – Nov 2010">600 mg dairy resulted in 12 pound loss in 2 years – Nov 2010</a>
+* [600 mg dairy resulted in 12 pound loss in 2 years – Nov 2010](/posts/600-mg-dairy-resulted-in-12-pound-loss-in-2-years)

@@ -91,7 +91,7 @@ Since the highest was 52 ng, we suspect that 95% of the globe is < 50 ng
 
 ### See also VitaminDWiki
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Populations with more than 50 ng of vitamin D](/posts/populations-with-more-than-50-ng-of-vitamin-d)
 

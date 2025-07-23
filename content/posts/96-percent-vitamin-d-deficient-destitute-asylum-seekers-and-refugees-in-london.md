@@ -150,12 +150,12 @@ We have shown that our GP clinic can make an important difference to patients as
 
 ## See also VitaminDWiki
 
-* <a href="/posts/earthquake-and-vitamin-d-several-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Earthquake and Vitamin D - several studies">Earthquake and Vitamin D - several studies</a>
+* [Earthquake and Vitamin D - several studies](/posts/earthquake-and-vitamin-d-several-studies)
 
-* <a href="/posts/vitamin-d-is-number-one-stress-buster-huffington-post" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is number one stress buster – Huffington Post May 2010">Vitamin D is number one stress buster – Huffington Post May 2010</a>
+* [Vitamin D is number one stress buster – Huffington Post May 2010](/posts/vitamin-d-is-number-one-stress-buster-huffington-post)
 
 * [Severe Sleep Loss Reduced Immune System – wonder about vitamin D reduction – July 2012](/posts/severe-sleep-loss-reduced-immune-system-wonder-about-vitamin-d-reduction)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Suicide associated with low vitamin D - many studies](/posts/suicide-associated-with-low-vitamin-d-many-studies)

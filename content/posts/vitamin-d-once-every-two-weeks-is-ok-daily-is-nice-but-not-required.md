@@ -54,9 +54,9 @@ The GrassrootsHealth website does not have a place for comments
 
 #### See also VitaminDWiki
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  Majorty of the proofs used non-daily dosing
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  Majorty of the proofs used non-daily dosing
 
-* <a href="/posts/far-more-vitamin-d-in-breast-milk-from-a-150000-iu-dose-than-from-daily-5000-iu-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Far more Vitamin D in breast milk from a 150,000 IU dose than from daily 5,000 IU – RCT May 2018">Far more Vitamin D in breast milk from a 150,000 IU dose than from daily 5,000 IU – RCT May 2018</a>
+* [Far more Vitamin D in breast milk from a 150,000 IU dose than from daily 5,000 IU – RCT May 2018](/posts/far-more-vitamin-d-in-breast-milk-from-a-150000-iu-dose-than-from-daily-5000-iu-rct)
 
 *  **[Breastfeeding with daily or monthly doses of vitamin D virtually the same – RCT Dec 2013](/posts/breastfeeding-with-daily-or-monthly-doses-of-vitamin-d-virtually-the-same-rct)** 
 
@@ -72,7 +72,7 @@ The GrassrootsHealth website does not have a place for comments
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials) max time between doses was chosen to be  **18 days.** 
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has the following notional chart for  **> 50 ng** 
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) has the following notional chart for  **> 50 ng** 
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

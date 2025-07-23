@@ -48,7 +48,7 @@ Suspect very low doses when any are given
 
 * [Draft of UK policy on Vitamin D, keeping 10 ng definition - March 2013](/posts/draft-of-uk-policy-on-vitamin-d-keeping-10-ng-definition)
 
-* <a href="/posts/healthy-start-vitamin-d-supplementation-in-uk-is-a-farce" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Healthy Start vitamin D supplementation in UK is a farce - Nov 2010">Healthy Start vitamin D supplementation in UK is a farce - Nov 2010</a>
+* [Healthy Start vitamin D supplementation in UK is a farce - Nov 2010](/posts/healthy-start-vitamin-d-supplementation-in-uk-is-a-farce)
 
 * [Presentation: pre and post natal vitamin D, with audience comments – Manchester UK Sept 2013](/posts/presentation-pre-and-post-natal-vitamin-d-with-audience-comments-manchester-uk)
 

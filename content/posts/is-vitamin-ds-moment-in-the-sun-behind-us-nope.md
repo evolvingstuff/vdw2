@@ -74,7 +74,7 @@ Trial registry:  ClinicalTrials.gov; No.: NCT00706602; URL: www.clinicaltrials.g
 
 ## See also VitaminDWiki
 
-* [Breathing](/categories/breathing) Category listing
+* [Breathing](/tags/breathing.html) Category listing
 
 * [Search VitaminDWiki for "chronic obstructive pulmonary disease"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22+chronic+obstructive+pulmonary+disease%22+OR+copd&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 267 items as of Jan 2014
 

@@ -73,14 +73,14 @@ Measuring CRP level is a screen for infectious and inflammatory diseases. Rapid,
 
 * [Search for C-Reactive Protein OR CRP in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%28%22+C-Reactive+Protein%22+OR+CRP%29&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 231 items as of Aug 2013 
 
-* <a href="/posts/does-c-reactive-protein-increase-modestly-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Does C-Reactive Protein increase modestly with vitamin D – Jan 2012">Does C-Reactive Protein increase modestly with vitamin D – Jan 2012</a>
+* [Does C-Reactive Protein increase modestly with vitamin D – Jan 2012](/posts/does-c-reactive-protein-increase-modestly-with-vitamin-d)
 
 * [HIV associated with low vitamin D and high C-reactive protein – Sept 2012](/posts/hiv-associated-with-low-vitamin-d-and-high-c-reactive-protein)
 
-* <a href="/posts/4000-iu-rct-reduces-type-2-diabetes-homa-by-24-percent-and-crp-by-64-percent" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4000 IU RCT reduces type 2 diabetes HOMA by 24% and CRP by 64% April 2010">4000 IU RCT reduces type 2 diabetes HOMA by 24% and CRP by 64% April 2010</a>
+* [4000 IU RCT reduces type 2 diabetes HOMA by 24% and CRP by 64% April 2010](/posts/4000-iu-rct-reduces-type-2-diabetes-homa-by-24-percent-and-crp-by-64-percent)
 
-* <a href="/posts/cardiovascular-disease-predicted-by-crp-and-vitamin-d-not-cholesterol" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cardiovascular disease predicted by CRP and vitamin D, not cholesterol – Feb 2012">Cardiovascular disease predicted by CRP and vitamin D, not cholesterol – Feb 2012</a>
+* [Cardiovascular disease predicted by CRP and vitamin D, not cholesterol – Feb 2012](/posts/cardiovascular-disease-predicted-by-crp-and-vitamin-d-not-cholesterol)
 
-* <a href="/posts/seniors-22-x-more-likely-to-walk-slowly-if-very-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Seniors 2.2 X more likely to walk slowly if very low vitamin D – meta-analysis Dec 2017">Seniors 2.2 X more likely to walk slowly if very low vitamin D – meta-analysis Dec 2017</a>
+* [Seniors 2.2 X more likely to walk slowly if very low vitamin D – meta-analysis Dec 2017](/posts/seniors-22-x-more-likely-to-walk-slowly-if-very-low-vitamin-d-meta-analysis)
 
 * [300,000 IU of vitamin D2 reduced inflammation markers (cytokines and chemokines) – Sept 2013](/posts/300000-iu-of-vitamin-d2-reduced-inflammation-markers-cytokines-and-chemokines)

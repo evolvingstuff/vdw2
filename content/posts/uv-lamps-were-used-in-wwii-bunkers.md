@@ -36,9 +36,9 @@
 
 * [UVB added in classroom reduced cavities, increased height, increased academics. etc](/posts/uvb-added-in-classroom-reduced-cavities-increased-height-increased-academics-etc)
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a>
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D bulb for use in the home - or perhaps office">Vitamin D bulb for use in the home - or perhaps office</a>
+* [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office)
 
 * [Low UVB (thus low Vitamin D) is linked to many diseases – Grant Jan 2016](/posts/low-uvb-thus-low-vitamin-d-is-linked-to-many-diseases-grant)
 

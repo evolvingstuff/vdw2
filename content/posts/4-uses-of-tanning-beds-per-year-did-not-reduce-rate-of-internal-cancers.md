@@ -65,7 +65,7 @@ Copyright © 2013, American Association for Cancer Research.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/tanning-beds-uvb-vary-by-4x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tanning beds UVB vary by 4X">Tanning beds UVB vary by 4X</a>
+* [Tanning beds UVB vary by 4X](/posts/tanning-beds-uvb-vary-by-4x)
 
 * [Indoor tanning not apparently associated with skin cancer – Feb 2012](/posts/indoor-tanning-not-apparently-associated-with-skin-cancer)
 
@@ -73,6 +73,6 @@ Copyright © 2013, American Association for Cancer Research.
 
 * [Solar UVB reduces Cancer Risk – Grant, Jan 2013](/posts/solar-uvb-reduces-cancer-risk-grant)
 
-* <a href="/posts/getting-little-uv-is-associated-with-15-types-of-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting little UV is associated with 15 types of Cancer – Jan 2012">Getting little UV is associated with 15 types of Cancer – Jan 2012</a>
+* [Getting little UV is associated with 15 types of Cancer – Jan 2012](/posts/getting-little-uv-is-associated-with-15-types-of-cancer)
 
  **It appears that occasional use of tanning beds neither increases rate of skin cancer nor reduces rate of internal cancers**

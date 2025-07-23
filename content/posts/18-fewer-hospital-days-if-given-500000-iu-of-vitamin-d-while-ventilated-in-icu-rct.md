@@ -101,11 +101,11 @@ Jenny E. Han, MD, MSc1, 2, a, jehan2@emory.edu, Jennifer L. Jones, PhD, RD3, a, 
 
 * Perspective: improving vitamin D status in the management of COVID-19 - May 2020 <i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/perspective.pdf">PDF</a>
 
-* <a href="/posts/covid-19-might-be-prevented-in-2-months-by-50000-iu-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 might be prevented in 2 months by 50,000 IU weekly – May 12, 2020">COVID-19 might be prevented in 2 months by 50,000 IU weekly – May 12, 2020</a> VitaminDWiki
+* [COVID-19 might be prevented in 2 months by 50,000 IU weekly – May 12, 2020](/posts/covid-19-might-be-prevented-in-2-months-by-50000-iu-weekly) VitaminDWiki
 
 * [Should patients with obesity be more afraid of COVID‐19?](https://onlinelibrary.wiley.com/doi/full/10.1111/obr.13083%20) June 2020 FREE PDF
 
-* <a href="/posts/10000-iu-vitamin-d-daily-often-needed-to-get-to-40-80-ng-it-has-been-100-years-since-its-discovery" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10,000 IU Vitamin D daily often needed to get to 40-80 ng (It has been 100 years since it’s discovery) – May 2020">10,000 IU Vitamin D daily often needed to get to 40-80 ng (It has been 100 years since it’s discovery) – May 2020</a> in VitaminDWiki
+* [10,000 IU Vitamin D daily often needed to get to 40-80 ng (It has been 100 years since it’s discovery) – May 2020](/posts/10000-iu-vitamin-d-daily-often-needed-to-get-to-40-80-ng-it-has-been-100-years-since-its-discovery) in VitaminDWiki
 
 * [Vitamin D’s Effect on Immune Function](https://www.mdpi.com/2072-6643/12/5/1248%20) April 2020, FREE PDF
 
@@ -117,7 +117,7 @@ Jenny E. Han, MD, MSc1, 2, a, jehan2@emory.edu, Jennifer L. Jones, PhD, RD3, a, 
 
 * Vitamin D and critical illness: what endocrinology can learn from intensive care and vice versa- Dec 2018
 
-   * <a href="/posts/intensive-care-icu-helped-by-vitamin-d-review-of-past-and-on-going-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intensive Care (ICU) helped by Vitamin D – review of past and on-going studies – Dec 2018">Intensive Care (ICU) helped by Vitamin D – review of past and on-going studies – Dec 2018</a>
+   * [Intensive Care (ICU) helped by Vitamin D – review of past and on-going studies – Dec 2018](/posts/intensive-care-icu-helped-by-vitamin-d-review-of-past-and-on-going-studies)
 
 * Vitamin D in the ICU: More  **sun**  for critically ill adult patients?  May 2019  - generally loading doses which are not possible with the sun <i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/icu-sun.pdf">PDF from Sci-Hub via VitaminDWiki</a>
 

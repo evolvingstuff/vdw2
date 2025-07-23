@@ -104,7 +104,7 @@
 
 14) Schizophrenia - first episode symptoms are worse if low Vitamin D 
 
-15) <a href="/posts/every-schizophrenia-measure-was-improved-when-vitamin-d-levels-were-normalized" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Every schizophrenia measure was improved when vitamin D levels were normalized – June 2021">Schizophrenia symptoms reduced when Vitamin D levels are restored</a>
+15) [Schizophrenia symptoms reduced when Vitamin D levels are restored](/posts/every-schizophrenia-measure-was-improved-when-vitamin-d-levels-were-normalized)
 
 <!-- ~tc~ end ~/tc~ -->
 
@@ -156,7 +156,7 @@ Lower odds were found for several diseases including type 1 diabetes, coronary a
 
 ##### 2 related mental health studies
 
-* <a href="/posts/anxiety-depression-and-suicide-have-recently-surged-note-vitamin-d-omega-3-and-magnesium-help" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Anxiety, depression, and suicide have recently surged (Note: Vitamin D, Omega-3, and Magnesium help) – May 2022">Anxiety, depression, and suicide have recently surged (Note: Vitamin D, Omega-3, and Magnesium help) – May 2022</a>
+* [Anxiety, depression, and suicide have recently surged (Note: Vitamin D, Omega-3, and Magnesium help) – May 2022](/posts/anxiety-depression-and-suicide-have-recently-surged-note-vitamin-d-omega-3-and-magnesium-help)
 
 * [Bipolar Disorder may be related to cellular, not blood Vitamin D](/posts/bipolar-disorder-may-be-related-to-cellular-not-blood-vitamin-d)
 
@@ -230,7 +230,7 @@ Nutritional supplementations have been widely used as adjunctive treatments for 
 
 #### Schizophrenia and COVID-19 - March 2021
 
-* <a href="/posts/people-with-various-health-problems-need-vitamin-d-to-prevent-covid-19-psychiatric-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with various health problems need vitamin D to prevent COVID-19 (psychiatric in this case) – March 2021">People with various health problems need vitamin D to prevent COVID-19 (psychiatric in this case) – March 2021</a>
+* [People with various health problems need vitamin D to prevent COVID-19 (psychiatric in this case) – March 2021](/posts/people-with-various-health-problems-need-vitamin-d-to-prevent-covid-19-psychiatric-in-this-case)
 
    * 1.3 X for Schizophrenia
 

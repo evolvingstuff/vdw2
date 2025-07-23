@@ -36,13 +36,13 @@ Vaginal suppositories: 1000 IU vitamin D or placebo
 
  **See also VitaminDWiki** 
 
-<a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Women and Vitamin D">Overview Women and Vitamin D</a>
+[Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d)
 
 [ALL of the top 10 health problems of women are associated with low vitamin D](/posts/all-of-the-top-10-health-problems-of-women-are-associated-with-low-vitamin-d)
 
 [Vaginal Vitamin D reduced vaginal infections - Jan 2014](/posts/vaginal-vitamin-d-reduced-vaginal-infections)
 
-<a href="/posts/overview-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Skin and vitamin D">Overview Skin and vitamin D</a>
+[Overview Skin and vitamin D](/posts/overview-skin-and-vitamin-d)
 
 [Topical Vitamin D](/posts/topical-vitamin-d)
 

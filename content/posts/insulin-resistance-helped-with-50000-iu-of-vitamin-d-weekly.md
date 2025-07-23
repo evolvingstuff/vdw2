@@ -58,7 +58,7 @@ PMID:     23443033
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Prediabetics not helped by 50,000 IU of vitamin D weekly and Calcium– Jan 2013](/posts/prediabetics-not-helped-by-50000-iu-of-vitamin-d-weekly-and-calcium)
 

@@ -50,12 +50,12 @@ The figure below shows seasonal variation.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Higher rates of TB in Winter and further from Equator – Nov 2012](/posts/higher-rates-of-tb-in-winter-and-further-from-equator)
 
 * [TB treatment helped with Vitamin D – RCT Sept 2012](/posts/tb-treatment-helped-with-vitamin-d-rct)
 
-* <a href="/posts/tb-worst-in-march-lowest-vitamin-d-cdc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: TB worst in March, lowest vitamin D – CDC April 2012">TB worst in March, lowest vitamin D – CDC April 2012</a>
+* [TB worst in March, lowest vitamin D – CDC April 2012](/posts/tb-worst-in-march-lowest-vitamin-d-cdc)
 
  **Short url =**  http://is.gd/xaxqcu

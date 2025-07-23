@@ -24,7 +24,7 @@
 
 ## See VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 > "It appears that at least 2,000 IU of vitamin D and 500 mg of Calcium are needed to <span style="color:#00F;">substantially </span>reduce falling"
 
@@ -36,4 +36,4 @@
 
 * [Vitamin D may prevent falls and fractures without Calcium – an overview of 9 meta-analysis – Oct 2012](/posts/vitamin-d-may-prevent-falls-and-fractures-without-calcium-an-overview-of-9-meta-analysis)
 
-* <a href="/posts/vitamin-d-response-800-iu-20-ng-3200-iu-45-ng-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012">Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012</a>  800 IU does not raise blood level very much
+* [Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012](/posts/vitamin-d-response-800-iu-20-ng-3200-iu-45-ng-rct)  800 IU does not raise blood level very much

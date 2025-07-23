@@ -51,11 +51,11 @@ I now take a 50,000 IU dose every 5 days (10,000 IU/day average)
 
 # See also VitaminDWiki
 
-* <a href="/posts/15-minutes-of-education-improved-vitamin-d-compliance" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2488">15 minutes of education improved vitamin D compliance – Mar 2012</a>
+* [15 minutes of education improved vitamin D compliance – Mar 2012](/posts/15-minutes-of-education-improved-vitamin-d-compliance)
 
-* <a href="/posts/after-learning-they-were-vitamin-d-deficient-only-8-percent-normalized" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2567">After learning they were vitamin D deficient, only 8 percent normalized – April 2012</a>
+* [After learning they were vitamin D deficient, only 8 percent normalized – April 2012](/posts/after-learning-they-were-vitamin-d-deficient-only-8-percent-normalized)
 
-* <a href="/posts/how-often-should-i-take-50000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3188">How often should I take 50000 IU of vitamin D</a>
+* [How often should I take 50000 IU of vitamin D](/tags/how-often-should-i-take-50000-iu-of-vitamin-d.html)
 
 * [Harris 2003 survey of problems swallowing pills](http://www.spraynswallow.com/links&Articles.html)
 
@@ -67,13 +67,13 @@ I now take a 50,000 IU dose every 5 days (10,000 IU/day average)
 
 > &nbsp; &nbsp; &nbsp;Note: vitamin D pills are very small, can be chewed
 
-> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vitamin D is also available in other forms such as <a href="/posts/drops-and-microdots" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">drops and microdots</a>
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vitamin D is also available in other forms such as [drops and microdots](/tags/drops-and-microdots.html)
 
 * [How you might double the benefit of your vitamin D](/posts/how-you-might-double-the-benefit-of-your-vitamin-d)
 
-> Take vitamin D with the <a href="/posts/largest-meal-of-the-day" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 218">largest meal of the day</a> 56%, or <a href="/posts/evening-meal" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 876">evening meal</a>
+> Take vitamin D with the [largest meal of the day](/tags/largest-meal-of-the-day.html) 56%, or [evening meal](/tags/evening-meal.html)
 
-> Have <a href="/posts/far-more-mono-unsaturated-fats-in-your-diet-than-poly-unsaturated-fats" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1903">far more mono-unsaturated fats in your diet than poly-unsaturated fats</a>
+> Have [far more mono-unsaturated fats in your diet than poly-unsaturated fats](/tags/far-more-mono-unsaturated-fats-in-your-diet-than-poly-unsaturated-fats.html)
 
 > &nbsp; &nbsp; &nbsp;I suggest taking vitamin D with a few  **almonds** 
 

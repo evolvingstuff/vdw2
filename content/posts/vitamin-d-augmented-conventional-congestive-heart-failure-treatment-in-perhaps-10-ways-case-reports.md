@@ -80,7 +80,7 @@ No longer on disability, back to normal work and life
 
 #### See also VitaminDWiki
 
-* <a href="/posts/congestive-heart-failure-in-infants-virtually-cured-by-1000-iu-of-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Congestive heart failure in infants virtually cured by 1000 IU of vitamin D – RCT Feb 2012">Congestive heart failure in infants virtually cured by 1000 IU of vitamin D – RCT Feb 2012</a>
+* [Congestive heart failure in infants virtually cured by 1000 IU of vitamin D – RCT Feb 2012](/posts/congestive-heart-failure-in-infants-virtually-cured-by-1000-iu-of-vitamin-d-rct)
 
 * [Congestive Heart Failure patients helped with Vitamin D intervention – May 2013](/posts/congestive-heart-failure-patients-helped-with-vitamin-d-intervention)
 

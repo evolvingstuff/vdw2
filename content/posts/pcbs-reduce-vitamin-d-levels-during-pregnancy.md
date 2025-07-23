@@ -63,15 +63,15 @@ PMID:    23651836
 
 * Efforts to reduce body burden of POPs could improve vitamin D status in pregnancy.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1016/j.envint.2013.03.011** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1016/j.envint.2013.03.011** 
 
 ---
 
 #### See also VitaminDWiki
 
-* <a href="/posts/increase-of-plastic-compounds-phthalates-in-urine-during-pregnancy-associated-wi-eased-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increase of plastic compounds (phthalates) in urine during pregnancy associated with decreased Vitamin D – Aug 2017">Increase of plastic compounds (phthalates) in urine during pregnancy associated with decreased Vitamin D – Aug 2017</a>
+* [Increase of plastic compounds (phthalates) in urine during pregnancy associated with decreased Vitamin D – Aug 2017](/posts/increase-of-plastic-compounds-phthalates-in-urine-during-pregnancy-associated-wi-eased-vitamin-d)
 
-* <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
+* [DDT and other pesticides decrease vitamin D](/posts/ddt-and-other-pesticides-decrease-vitamin-d)
 
 Note: this web page is the same study as at [PCBs increased the chance of being Vitamin D deficient by 3 percent – May 2013](/posts/pcbs-increased-the-chance-of-being-vitamin-d-deficient-by-3-percent)
 

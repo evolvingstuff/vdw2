@@ -50,9 +50,9 @@ PMID: 23742939
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* [Cardiovascular](/categories/cardiovascular) category listing with associated searches
+* [Cardiovascular](/tags/cardiovascular.html) category listing with associated searches
 
 * [Vitamin D is not a cardiovascular fad like Vitamins C, E, Folic Acid, selenium, beta-caroteen, etc. – Circulation Nov 2013](/posts/vitamin-d-is-not-a-cardiovascular-fad-like-vitamins-c-e-folic-acid-selenium-beta-etc-circulation)
 

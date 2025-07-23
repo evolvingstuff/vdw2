@@ -60,9 +60,9 @@ PMID:     23609838; $37 paywall
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-is-the-2nd-most-important-nutrient-survey" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is the 2nd most important nutrient - survey Aug 2011">Vitamin D is the 2nd most important nutrient - survey Aug 2011</a> probiotics is 6th
+* [Vitamin D is the 2nd most important nutrient - survey Aug 2011](/posts/vitamin-d-is-the-2nd-most-important-nutrient-survey) probiotics is 6th
 
-* <a href="/posts/are-microbs-probiotics-vitamin-d-allergy-asthma-obesity-related" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Are microbs – probiotics – vitamin D – allergy – asthma – obesity related – Mar 2011">Are microbs – probiotics – vitamin D – allergy – asthma – obesity related – Mar 2011</a>
+* [Are microbs – probiotics – vitamin D – allergy – asthma – obesity related – Mar 2011](/posts/are-microbs-probiotics-vitamin-d-allergy-asthma-obesity-related)
 
 * [Hypothesis: vitamin D and probiotics will reduce type II diabetes – Jan 2013](/posts/hypothesis-vitamin-d-and-probiotics-will-reduce-type-ii-diabetes)
 

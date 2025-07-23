@@ -52,7 +52,7 @@ Conclusions: Suboptimal vitamin D levels were prevalent especially in blacks and
 
 * [Black women and vitamin D: Nigeria 26 ng, Chicago 12 ng – April 2013](/posts/black-women-and-vitamin-d-nigeria-26-ng-chicago-12-ng)
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a> which has the following chart
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 

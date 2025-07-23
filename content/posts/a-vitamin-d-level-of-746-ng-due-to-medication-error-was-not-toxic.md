@@ -37,4 +37,4 @@ Vitamin D toxicity also known as hypervitaminosis D was previously believed to b
 
 #### VitaminDWiki suspects that the woman had an adequate level of Magnesium and Vitamin K2 if she had such a high level for more than a few months without complications.
 
-* <a href="/posts/276000-iu-of-vitamin-d-daily-was-too-much" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 276,000 IU of Vitamin D daily was too much – April 2021">276,000 IU of Vitamin D daily was too much – April 2021</a>
+* [276,000 IU of Vitamin D daily was too much – April 2021](/posts/276000-iu-of-vitamin-d-daily-was-too-much)

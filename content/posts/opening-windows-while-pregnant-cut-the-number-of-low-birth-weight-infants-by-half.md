@@ -40,8 +40,8 @@
 
 * [Low vitamin D increased probability of low birth weight by 60 percent – meta-analysis June 2012](/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis)
 
-* <a href="/posts/hypothesis-uva-through-window-glass-decreases-vitamin-d-2009" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: UVA through window glass decreases vitamin D - 2009">Hypothesis: UVA through window glass decreases vitamin D - 2009</a>
+* [Hypothesis: UVA through window glass decreases vitamin D - 2009](/posts/hypothesis-uva-through-window-glass-decreases-vitamin-d-2009)
 
-* <a href="/posts/uva-from-some-tanning-beds-and-most-windows-decrease-vitamin-d-blood-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UVA from some tanning beds and most windows decrease vitamin D blood levels – March 2012">UVA from some tanning beds and most windows decrease vitamin D blood levels – March 2012</a>
+* [UVA from some tanning beds and most windows decrease vitamin D blood levels – March 2012](/posts/uva-from-some-tanning-beds-and-most-windows-decrease-vitamin-d-blood-levels)
 
 * [Births with low vitamin D weighted less (Hispanic too) – Dec 2015](/posts/births-with-low-vitamin-d-weighted-less-hispanic-too)

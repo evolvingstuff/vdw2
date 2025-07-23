@@ -212,4 +212,4 @@ A higher body mass index (BMI) increases the risk of developing 10 of the most c
 
 ---
 
-#### It appears that <a href="/posts/vitamin-d-restricts-new-capillary-growth-angiogenesis-in-fat-and-cancers" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D restricts new capillary growth (angiogenesis) in fat and cancers">Vitamin D restricts new capillary growth (angiogenesis) in fat and cancers</a>
+#### It appears that [Vitamin D restricts new capillary growth (angiogenesis) in fat and cancers](/posts/vitamin-d-restricts-new-capillary-growth-angiogenesis-in-fat-and-cancers)

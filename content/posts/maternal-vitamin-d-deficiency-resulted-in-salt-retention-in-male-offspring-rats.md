@@ -32,6 +32,6 @@ We conclude that maternal vitamin D depletion upregulates fetal renal renin gene
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a>
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d)
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a> did not notice anything about Kidney as of Oct 2013
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d) did not notice anything about Kidney as of Oct 2013

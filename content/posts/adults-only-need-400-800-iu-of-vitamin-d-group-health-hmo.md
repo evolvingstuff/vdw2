@@ -30,12 +30,12 @@ Those in a higher risk group for low levels may need 2,000 units daily or even m
 
 ## See also VitaminDWiki
 
-<a href="/posts/us-cities-with-least-amount-of-sunshine-top-15-all-in-washington" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US Cities with least amount of sunshine - top 15 all in Washington">US Cities with least amount of sunshine - top 15 all in Washington</a> 
+[US Cities with least amount of sunshine - top 15 all in Washington](/posts/us-cities-with-least-amount-of-sunshine-top-15-all-in-washington) 
 
 [4700 IU of vitamin D needed by most seniors – an equation -July 2014](/posts/4700-iu-of-vitamin-d-needed-by-most-seniors-an-equation)
 
-<a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 47 proofs as of May 2014
+[Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 47 proofs as of May 2014
 
-<a href="/posts/hmos-will-save-millions-of-dollars-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: HMOs will save millions of dollars with vitamin D">HMOs will save millions of dollars with vitamin D</a> but Group Health HMO does not seem to be aware of the return on investment with Vitamin D
+[HMOs will save millions of dollars with vitamin D](/posts/hmos-will-save-millions-of-dollars-with-vitamin-d) but Group Health HMO does not seem to be aware of the return on investment with Vitamin D
 
-<a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
+[VA showed increased vitamin D associated with lower health costs - Lancet May 2012](/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet)

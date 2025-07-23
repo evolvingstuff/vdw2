@@ -54,7 +54,7 @@ Guangzheng Lin,1,* Ling Ning,2,* Di Gu,1,* Shi Li,1 Zhe Yu,1 Qicheng Long,1 Li-N
 
 * [5X less risk of Kidney cancer if good ratio of Vitamin D binding protein to circulating vitamin D – Nov 2013](/posts/5x-less-risk-of-kidney-cancer-if-good-ratio-of-vitamin-d-binding-protein-to-circulating-vitamin-d)
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
  **Many ways to increase Vitamin D** 
 

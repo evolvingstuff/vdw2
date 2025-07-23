@@ -46,7 +46,7 @@ Need a new knee, or an M.R.I., or a Botox injection?  (good sources of revenue) 
 
 * [400,000 IU of vitamin D reduced adult pain and improved quality of life – March 2014](/posts/400000-iu-of-vitamin-d-reduced-adult-pain-and-improved-quality-of-life)
 
-* <a href="/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If you cannot readily get medical treatment, consider Alternative Med such as vitamin D">If you cannot readily get medical treatment, consider Alternative Med such as vitamin D</a> - has the following two graphics
+* [If you cannot readily get medical treatment, consider Alternative Med such as vitamin D](/posts/if-you-cannot-readily-get-medical-treatment-consider-alternative-med-such-as-vitamin-d) - has the following two graphics
 
  **Canadians wait many weeks: first see the doctor, then more weeks to see the specialist** 
 

@@ -50,13 +50,13 @@ Knee pain, VAS (0-100)|39 mm|  13 mm ||
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
 * [Good evidence for knee osteoarthritis and vitamin D, unsure of other OA – Review March 2013](/posts/good-evidence-for-knee-osteoarthritis-and-vitamin-d-unsure-of-other-oa-review)
 
 * [Knee Osteoarthritis 3.2X more likely to get worse if low Vitamin D and high PTH – Dec 2014](/posts/knee-osteoarthritis-32x-more-likely-to-get-worse-if-low-vitamin-d-and-high-pth)
 
-* <a href="/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011">Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011</a>
+* [Probability of knee osteoarthritis up 50 percent if 20 ng less vitamin D – Nov 2011](/posts/probability-of-knee-osteoarthritis-up-50-percent-if-20-ng-less-vitamin-d)
 
 * [Musculoskeletal pain reduced with 4,000 IU of vitamin D – RCT April 2015](/posts/musculoskeletal-pain-reduced-with-4000-iu-of-vitamin-d-rct)
 
@@ -70,7 +70,7 @@ Knee pain, VAS (0-100)|39 mm|  13 mm ||
 
 * [Knee osteoarthritis reduced somewhat by 50,000 IU vitamin D monthly (need more) – RCT Aug 2015](/posts/knee-osteoarthritis-reduced-somewhat-by-50000-iu-vitamin-d-monthly-need-more-rct)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>  This study = Proof #60
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)  This study = Proof #60
 
 </div>
 

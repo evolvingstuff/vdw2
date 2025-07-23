@@ -34,7 +34,7 @@ Wang L1, Wang C1, Wang J1, Huang X1, Cheng Y1.
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> includes the following charts
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) includes the following charts
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

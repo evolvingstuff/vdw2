@@ -62,8 +62,8 @@ As is discussed, a major issue that needs to be resolved is what key biological 
 
 * [Birth Defects – March of Dimes Global Report (does not even mention Vitamin D) – Jan 2015](/posts/birth-defects-march-of-dimes-global-report-does-not-even-mention-vitamin-d)
 
-* <a href="/posts/birth-defects-about-15-percent-more-likely-if-low-vitamin-d-while-pregnant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Birth defects about 15 percent more likely if low vitamin D while pregnant – Oct 2022">Birth defects about 15 percent more likely if low vitamin D while pregnant – Oct 2022</a>
+* [Birth defects about 15 percent more likely if low vitamin D while pregnant – Oct 2022](/posts/birth-defects-about-15-percent-more-likely-if-low-vitamin-d-while-pregnant)
 
- **<a href="/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ensure a healthy pregnancy and baby - take Vitamin D before conception">Ensure a healthy pregnancy and baby - take Vitamin D before conception</a>**  has the following
+ **[Ensure a healthy pregnancy and baby - take Vitamin D before conception](/posts/ensure-a-healthy-pregnancy-and-baby-take-vitamin-d-before-conception)**  has the following
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="450">

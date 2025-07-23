@@ -79,7 +79,7 @@ Adaptation includes increased parathormone (PTH) and deceased insulin-like growt
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-levels-in-teens-restored-with-150000-iu-monthly-for-3-months-mean-33-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels in teens restored with 150,000 IU monthly for 3 months (mean 33 ng) – Oct 2021">Vitamin D levels in teens restored with 150,000 IU monthly for 3 months (mean 33 ng) – Oct 2021</a>
+* [Vitamin D levels in teens restored with 150,000 IU monthly for 3 months (mean 33 ng) – Oct 2021](/posts/vitamin-d-levels-in-teens-restored-with-150000-iu-monthly-for-3-months-mean-33-ng)
 
 * [Vitamin D loading doses of up to 400,000 IU OK for adolescents – meta-analysis Dec 2014](/posts/vitamin-d-loading-doses-of-up-to-400000-iu-ok-for-adolescents-meta-analysis)
 
@@ -89,8 +89,8 @@ Adaptation includes increased parathormone (PTH) and deceased insulin-like growt
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)
 
-* [Infant-Child](/categories/infant-child) category listing with associated searches
+* [Infant-Child](/posts/infant-child) category listing with associated searches
 
 * [3X more kids were vitamin D deficient when entering UK hospitals than 4 years before – Oct 2014](/posts/3x-more-kids-were-vitamin-d-deficient-when-entering-uk-hospitals-than-4-years-before)
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a> should NOT use D2, even as a loading dose
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2) should NOT use D2, even as a loading dose

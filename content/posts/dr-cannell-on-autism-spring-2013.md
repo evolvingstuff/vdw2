@@ -57,9 +57,9 @@ Dr. Cannell speculated that the future goal for Autism might be a vitamin D leve
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a>
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d)
 
-* <a href="/posts/very-high-doses-of-vitamin-d-reverse-early-onset-ms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4033">Very high doses of Vitamin D reverse early onset MS</a> 20,000 to 140,000 IU daily
+* [Very high doses of Vitamin D reverse early onset MS](/tags/very-high-doses-of-vitamin-d-reverse-early-onset-ms.html) 20,000 to 140,000 IU daily
 
 * [Autism treated by Vitamin D: Dr. Cannell - video June 2013](/posts/autism-treated-by-vitamin-d-dr-cannell-video)
 

@@ -55,6 +55,6 @@ Copyright © 2013 Society for Adolescent Health and Medicine. Published by Elsev
 
 * [National Vitamin D awareness day (Australia, 1000 IU max) - Aug 9 2013](/posts/national-vitamin-d-awareness-day-australia-1000-iu-max)
 
-* <a href="/posts/to-increase-vitamin-d-levels-in-children-need-1000-or-2000-iu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: To increase vitamin D levels in children need 1000 or 2000 IU – June 2010">To increase vitamin D levels in children need 1000 or 2000 IU – June 2010</a>
+* [To increase vitamin D levels in children need 1000 or 2000 IU – June 2010](/posts/to-increase-vitamin-d-levels-in-children-need-1000-or-2000-iu)
 
 * [Only 1000 IU of vitamin D in 10 minutes at 36 degrees, nude, summer, noon – April 2013](/posts/only-1000-iu-of-vitamin-d-in-10-minutes-at-36-degrees-nude-summer-noon)

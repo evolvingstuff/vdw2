@@ -140,7 +140,7 @@ Anyone can buy it for $9. When it asks for your nurses license just enter  **non
 
 * The possibility exists that a low level of vitamin D is an effect, and not a cause
 
-> Seems to be totally unaware of the <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">45+ clinical trials</a> in which the addition of vitamin D prevented/treated diseases.
+> Seems to be totally unaware of the [45+ clinical trials](/posts/proof-that-vitamin-d-works) in which the addition of vitamin D prevented/treated diseases.
 
 * Echoed the literature - but in error: Individuals who get 10-30 minutes of sunlight between 10 am and 3 pm, two times a week, will most often have  enough vitamin D. Exposing the arms and face
 
@@ -150,7 +150,7 @@ Anyone can buy it for $9. When it asks for your nurses license just enter  **non
 
 * Error: research  that  has  focused  on vitamin  D  supplementation  as  a  preventative  measure  or  as  a  treatment has yielded ambiguous results.
 
-> Again <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>
+> Again [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
 * Error: gave example of 3 children who had problems with 1,400 IU of vitamin D
 

@@ -33,7 +33,7 @@
 }
 
 
-**Note: This page needs to be merged with <a href="/posts/in-vitro-fertilization-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: In vitro fertilization and Vitamin D – many studies">In vitro fertilization and Vitamin D – many studies</a>** 
+**Note: This page needs to be merged with [In vitro fertilization and Vitamin D – many studies](/posts/in-vitro-fertilization-and-vitamin-d-many-studies)** 
 
 {{< toc >}}
 

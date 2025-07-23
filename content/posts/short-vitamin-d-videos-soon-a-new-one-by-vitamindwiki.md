@@ -227,13 +227,13 @@ Funded by Bio-Tech Pharmacal
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d-books-and-videos" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D books and videos">Overview Vitamin D books and videos</a>
+* [Overview Vitamin D books and videos](/posts/overview-vitamin-d-books-and-videos)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> Vitamin D deals with  **38 health problems**  as of Dec 2013
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) Vitamin D deals with  **38 health problems**  as of Dec 2013
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a>  **33 reasons**  as of Dec 2013
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic)  **33 reasons**  as of Dec 2013
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>  
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)  
 
 * [Vitamin D - Facts and Myths](/posts/vitamin-d-facts-and-myths) 65 as of Dec 2013
 

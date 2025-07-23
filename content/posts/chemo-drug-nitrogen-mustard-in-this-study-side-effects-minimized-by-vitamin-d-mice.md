@@ -54,7 +54,7 @@ J Invest Dermatol. 2015 Dec;135(12):2971-81. [doi: 10.1038/jid.2015.322.](https:
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy and vitamin D - many studies</a>
+* [Chemotherapy and vitamin D - many studies](/posts/chemotherapy-and-vitamin-d-many-studies)
 
 * [Breast cancer chemotherapy benefits from highest vitamin D levels – June 2014](/posts/breast-cancer-chemotherapy-benefits-from-highest-vitamin-d-levels)
 

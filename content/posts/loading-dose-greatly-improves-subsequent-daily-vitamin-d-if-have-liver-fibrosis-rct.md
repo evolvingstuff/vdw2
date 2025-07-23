@@ -57,7 +57,7 @@ Maria Luger Renate Kruschitz Christian Kienbacher Stefan Traussnigg Felix B. Lan
 
 > Loading dose was 140,000 IU spread over 1 week
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a>
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d)
 
 * [Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014](/posts/prior-to-bariatric-surgery-96-percent-were-vitamin-d-deficient)
 
@@ -67,7 +67,7 @@ Maria Luger Renate Kruschitz Christian Kienbacher Stefan Traussnigg Felix B. Lan
 
 * [Search for Fatty Liver in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22fatty+liver%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 193 items Nov 2016
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 </div>
 

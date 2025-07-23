@@ -161,7 +161,7 @@ While earlier studies did not establish a link between low vitamin D levels and 
 
  **References** 
 
-[https://link.springer.com/article/10....](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHhDX1NGVDBjalN6U0FRVkRONTNtVXhmc1p6UXxBQ3Jtc0trUnpiVGhuUl81Wm1hSEtBODJBa3g1VUxDbHE4UUxyREJMVjgyLTBsT0VUdUhXQlJydFZpXzRoelJfaXJiWk9fQng0aVlPNFotaTljYkhaMEctR0dicFZCWlhkLVlNN1lDOVQyaHNhTHJ4UFQyeHd6cw&q=https://link.springer.com/article/10.1007/s00405-019-05694-0&v=29NS6PxfE2s) <a href="/posts/httpsvitamindwikicomtiki-indexp" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3460">https://VitaminDWiki.com/tiki-index.p...</a>  (This VitaminDWiki page)
+[https://link.springer.com/article/10....](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHhDX1NGVDBjalN6U0FRVkRONTNtVXhmc1p6UXxBQ3Jtc0trUnpiVGhuUl81Wm1hSEtBODJBa3g1VUxDbHE4UUxyREJMVjgyLTBsT0VUdUhXQlJydFZpXzRoelJfaXJiWk9fQng0aVlPNFotaTljYkhaMEctR0dicFZCWlhkLVlNN1lDOVQyaHNhTHJ4UFQyeHd6cw&q=https://link.springer.com/article/10.1007/s00405-019-05694-0&v=29NS6PxfE2s) [https://VitaminDWiki.com/tiki-index.p...](/tags/httpsvitamindwikicomtiki-indexp.html)  (This VitaminDWiki page)
 
 [https://pubmed.ncbi.nlm.nih.gov/23096...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUp3TVJDWnUzVnRaYUNjcjFuc3F0bGxVWk1od3xBQ3Jtc0tsbDh4NDV4OGVxOFlyWGFEYzRiQVRnb1h0VFNjLTE0VHdyelZrMHotUmEtcGZKeGdOZVdjSjVqT1pQWGhYcmlhU0Z0bEFrWnBub192R3ZRNnZCRkJWaUJvQVBkaHJZSmd0SFN5bG1mYkVxMmh5UUJEMA&q=https://pubmed.ncbi.nlm.nih.gov/23096068/&v=29NS6PxfE2s)
 

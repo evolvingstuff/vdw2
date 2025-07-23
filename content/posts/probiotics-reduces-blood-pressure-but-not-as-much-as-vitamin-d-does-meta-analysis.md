@@ -67,11 +67,11 @@ Probably have a bigger effect if person had not taken an antibiotic in past 6 mo
 
 > −4.2 mmHg  for diastolic blood pressure 
 
-* <a href="/posts/systolic-blood-pressure-reduced-by-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Systolic blood pressure  reduced by vitamin D (many studies">Systolic blood pressure  reduced by vitamin D (many studies</a> a previous hypertension RCT
+* [Systolic blood pressure  reduced by vitamin D (many studies](/posts/systolic-blood-pressure-reduced-by-vitamin-d-many-studies) a previous hypertension RCT
 
 * [Blood pressure in diabetics reduced by 12 weekly doses of 50,000 IU vitamin D – RCT Jan 2014](/posts/blood-pressure-in-diabetics-reduced-by-12-weekly-doses-of-50000-iu-vitamin-d-rct)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Biota and Vitamin D - thoughts](/posts/biota-and-vitamin-d-thoughts)
 

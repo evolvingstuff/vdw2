@@ -67,11 +67,11 @@ DOI: http://dx.doi.org/10.7205/MILMED-D-16-00115
 
 * [Suicide 2X more likely with low vitamin D (in military) – Jan 2013](/posts/suicide-2x-more-likely-with-low-vitamin-d-in-military)
 
-* <a href="/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D might reduce military costs for UC and CD – June 2011">Vitamin D might reduce military costs for UC and CD – June 2011</a>
+* [Vitamin D might reduce military costs for UC and CD – June 2011](/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd)
 
-* <a href="/posts/military-in-hot-climates-and-vitamin-d-deficiency-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Military in hot climates and vitamin D deficiency - 2010">Military in hot climates and vitamin D deficiency - 2010</a>
+* [Military in hot climates and vitamin D deficiency - 2010](/posts/military-in-hot-climates-and-vitamin-d-deficiency-2010)
 
-* <a href="/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA found less testing for vitamin D resulted in increased health costs – Jan 2012">VA found less testing for vitamin D resulted in increased health costs – Jan 2012</a>
+* [VA found less testing for vitamin D resulted in increased health costs – Jan 2012](/posts/va-found-less-testing-for-vitamin-d-resulted-in-increased-health-costs)
 
 * [Muscle inflammation 17X more probable if vitamin D deficient – Feb 2013](/posts/muscle-inflammation-17x-more-probable-if-vitamin-d-deficient)
 

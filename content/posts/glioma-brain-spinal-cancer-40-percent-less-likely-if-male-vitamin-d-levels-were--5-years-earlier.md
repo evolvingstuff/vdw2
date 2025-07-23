@@ -59,13 +59,13 @@ Females had a somewhat inverse relationship than men - strange
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/brain-cancer-in-175-countries-related-to-low-uvb-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010">Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010</a>
+* [Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010](/posts/brain-cancer-in-175-countries-related-to-low-uvb-and-low-vitamin-d)
 
-* <a href="/posts/head-and-neck-cancer-associated-with-low-vitamin-d-especially-with-blacks" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Head and Neck Cancer associated with low vitamin D, especially with blacks - April 2012">Head and Neck Cancer associated with low vitamin D, especially with blacks - April 2012</a>
+* [Head and Neck Cancer associated with low vitamin D, especially with blacks - April 2012](/posts/head-and-neck-cancer-associated-with-low-vitamin-d-especially-with-blacks)
 
 * [500 Head and neck cancers – higher survival if higher vitamin D – Nov 2016](/posts/500-head-and-neck-cancers-higher-survival-if-higher-vitamin-d)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> has the following
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) has the following
 
 >  **Increase in Childhood Cancer in recent decades** 
 

@@ -106,7 +106,7 @@ The amount of vitamin D needed is proportional to body weight, and the infants g
 
 <span style="color:#00F;">Note - the following is a result of OCR of the 1st page preview - there are several errors</span>
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1001/jama.2013.4149** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1001/jama.2013.4149** 
 
 Steven A Abrams. MD
 
@@ -131,6 +131,6 @@ Author Affiliation*: Department of Pediatrics. US Department of Agncufturc (USDA
  **Rebutal to comment about Rickets  
 Natural levels of vitamin D have dropped a lot in the past few decades** 
 
-* <a href="/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011">Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011</a> 400 IU did not totally eliminate Rickets
+* [Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011](/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011) 400 IU did not totally eliminate Rickets
 
 * [Rickets can be suspected below 36 ng of vitamin D – Oct 2012](/posts/rickets-can-be-suspected-below-36-ng-of-vitamin-d)

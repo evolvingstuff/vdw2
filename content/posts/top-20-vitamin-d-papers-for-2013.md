@@ -21,7 +21,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/top-25-vitamin-d-papers-in-2020-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Top 25 Vitamin D papers in 2020 - Grant">Top 25 Vitamin D papers in 2020 - Grant</a>
+* [Top 25 Vitamin D papers in 2020 - Grant](/posts/top-25-vitamin-d-papers-in-2020-grant)
 
 * [Top Vitamin D papers - 2012](/posts/top-vitamin-d-papers-2012) previous year
 
@@ -29,8 +29,8 @@
 
 * [Search VitaminDWiki for "W * grant" OR "William grant"](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22W+*+grant%22+OR+%22William+grant%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 433 items as of Jan 2014
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
-* <a href="/posts/summary-of-vitamin-d-trials-grant" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Summary of Vitamin D trials - Grant Nov 2012">Summary of Vitamin D trials - Grant Nov 2012</a>
+* [Summary of Vitamin D trials - Grant Nov 2012](/posts/summary-of-vitamin-d-trials-grant)
 
 * [Interview with transcript concerning UVA, UVB, and health – Grant Dec 2012](/posts/interview-with-transcript-concerning-uva-uvb-and-health-grant)

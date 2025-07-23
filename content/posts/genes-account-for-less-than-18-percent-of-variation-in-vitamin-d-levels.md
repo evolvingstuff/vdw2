@@ -47,13 +47,13 @@ PMID: 23135809
 
 * [30 percent of variation of vitamin D levels were associated with just 3 variables – March 2013](/posts/30-percent-of-variation-of-vitamin-d-levels-were-associated-with-just-3-variables)
 
-* <a href="/posts/model-has-80-percent-chance-of-predicting-vitamin-d-levels-to-within-10-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Model has 80 percent chance of predicting vitamin D levels to within 10 ng – Feb 2012">Model has 80 percent chance of predicting vitamin D levels to within 10 ng – Feb 2012</a>  without genes?
+* [Model has 80 percent chance of predicting vitamin D levels to within 10 ng – Feb 2012](/posts/model-has-80-percent-chance-of-predicting-vitamin-d-levels-to-within-10-ng)  without genes?
 
 * [Response to 1000 IU of vitamin D varies by about 4 percent due to gene variants – RCT July 2014](/posts/response-to-1000-iu-of-vitamin-d-varies-by-about-4-percent-due-to-gene-variants-rct)
 
 * [Gene differences can result in 14 ng difference in vitamin D levels– Feb 2014](/posts/gene-differences-can-result-in-14-ng-difference-in-vitamin-d-levels)
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a> - more than a dozen causes which are larger than genes
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d) - more than a dozen causes which are larger than genes
 
 * [40 percent less likely to get adequate vitamin D response if have certain genes – Jan 2013](/posts/40-percent-less-likely-to-get-adequate-vitamin-d-response-if-have-certain-genes)
 

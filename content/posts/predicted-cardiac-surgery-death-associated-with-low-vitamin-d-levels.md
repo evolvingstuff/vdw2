@@ -122,7 +122,7 @@ There are several limitations to this study. First, the study design was cross-s
 
 * [Shift workers 23 percent more likely to have cardiovascular events – meta-analysis July 2012](/posts/shift-workers-23-percent-more-likely-to-have-cardiovascular-events-meta-analysis) shift workers tend to have low levels of vitamin D
 
-* <a href="/posts/coronary-artery-disease-predicted-by-low-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Coronary Artery Disease predicted by low levels of vitamin D – April 2012">Coronary Artery Disease predicted by low levels of vitamin D – April 2012</a>
+* [Coronary Artery Disease predicted by low levels of vitamin D – April 2012](/posts/coronary-artery-disease-predicted-by-low-levels-of-vitamin-d)
 
 * [2X more complications after heart surgery associated with high level of vitamin D – Jan 2013](/posts/2x-more-complications-after-heart-surgery-associated-with-high-level-of-vitamin-d)
 

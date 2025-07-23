@@ -363,13 +363,13 @@ Supported by grant of Polish Ministry of Science and Higher Education, project n
 
 ### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)
 
-* <a href="/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011">More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011</a>
+* [More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011](/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934)
 
 * [History of vitamin D – Nov 2012](/posts/history-of-vitamin-d)  Dr. Norman
 
-* <a href="/posts/history-of-rickets-and-sunshine-in-a-bottle-then-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: History of rickets and sunshine in a bottle then vitamin D – Jan 2012">History of rickets and sunshine in a bottle then vitamin D – Jan 2012</a>
+* [History of rickets and sunshine in a bottle then vitamin D – Jan 2012](/posts/history-of-rickets-and-sunshine-in-a-bottle-then-vitamin-d)
 
 * [SOLAR ultraviolet radiation and vitamin D: a historical perspective – Aug 2007](/posts/solar-ultraviolet-radiation-and-vitamin-d-a-historical-perspective)
 

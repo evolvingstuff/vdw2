@@ -46,16 +46,16 @@ PMID: 24609852
 
 ## See also VitaminDWiki
 
-* <a href="/posts/excessive-sun-increases-cancer-all-around-the-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Excessive sun increases cancer all around the body – July 2011">Excessive sun increases cancer all around the body – July 2011</a>
+* [Excessive sun increases cancer all around the body – July 2011](/posts/excessive-sun-increases-cancer-all-around-the-body)
 
 * [Decreased risk of non-melanoma skin cancer by working outdoors in Europe – April 2013](/posts/decreased-risk-of-non-melanoma-skin-cancer-by-working-outdoors-in-europe)
 
 * [The Protective Role of Vitamin D Signaling in Non-Melanoma Skin Cancer - Nov 2013](/posts/the-protective-role-of-vitamin-d-signaling-in-non-melanoma-skin-cancer)
 
-* <a href="/posts/possible-vitamin-d-interactions-and-vicious-circles" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Possible Vitamin D interactions and vicious circles">Possible Vitamin D interactions and vicious circles</a> which has the following chart
+* [Possible Vitamin D interactions and vicious circles](/posts/possible-vitamin-d-interactions-and-vicious-circles) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-*  **<a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a>** which has the following chart and a long list of observed downstream affects
+*  **[Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d)** which has the following chart and a long list of observed downstream affects
 
 <img src="/attachments/d3.mock.jpg" alt="image">

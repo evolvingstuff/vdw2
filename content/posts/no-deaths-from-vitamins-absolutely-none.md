@@ -43,8 +43,8 @@ by Andrew W. Saul, Editor, Orthomolecular.org
 
 ## See also VitaminDWiki
 
-* <a href="/posts/deaths-due-to-drugs-nsaid-supplements-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Deaths due to drugs -NSAID - Supplements - vitamin D">Deaths due to drugs -NSAID - Supplements - vitamin D</a>
+* [Deaths due to drugs -NSAID - Supplements - vitamin D](/posts/deaths-due-to-drugs-nsaid-supplements-vitamin-d)
 
 * [Off Topic- 100,000 deaths due to prescriptions, 0 due to supplements: Conclusion -Let's regulate supplements](/posts/off-topic-100000-deaths-due-to-prescriptions-0-due-to-supplements-conclusion-let-ate-supplements)
 
-* <a href="/posts/zero-deaths-from-vitamins-minerals-amino-acids-or-herbs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Zero Deaths from Vitamins Minerals Amino Acids or Herbs - Jan 2011">Zero Deaths from Vitamins Minerals Amino Acids or Herbs - Jan 2011</a>
+* [Zero Deaths from Vitamins Minerals Amino Acids or Herbs - Jan 2011](/posts/zero-deaths-from-vitamins-minerals-amino-acids-or-herbs)

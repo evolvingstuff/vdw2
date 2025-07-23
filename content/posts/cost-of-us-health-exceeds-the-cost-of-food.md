@@ -80,10 +80,10 @@ Note: Disposable personal income = about 73% of GDP (average) for that time peri
 
 ## See also VitaminDWiki
 
-* <a href="/posts/employers-should-save-big-money-by-encouraging-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2351">Employers Should Save Big Money by Encouraging Vitamin D - Jan 2012</a>
+* [Employers Should Save Big Money by Encouraging Vitamin D - Jan 2012](/tags/employers-should-save-big-money-by-encouraging-vitamin-d-jan-2012.html)
 
-* <a href="/posts/doctor-plotnikoff-wants-to-put-vitamin-d-to-work-in-the-workplace" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2398">Doctor Plotnikoff wants to put vitamin D to work in the workplace – Feb 2012</a>
+* [Doctor Plotnikoff wants to put vitamin D to work in the workplace – Feb 2012](/posts/doctor-plotnikoff-wants-to-put-vitamin-d-to-work-in-the-workplace)
 
-* <a href="/posts/companies-and-individuals-will-benefit-from-more-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2111">Companies and individuals will benefit from more vitamin D</a>
+* [Companies and individuals will benefit from more vitamin D](/posts/companies-and-individuals-will-benefit-from-more-vitamin-d)
 
 <!-- ~tc~ (alias(Off topic Cost of health care now exceeds cost of food in the US)) ~/tc~ -->

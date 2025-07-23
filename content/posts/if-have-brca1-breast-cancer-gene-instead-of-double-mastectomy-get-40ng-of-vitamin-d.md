@@ -41,7 +41,7 @@
 
 * [Search VitaminDWiki for BRCA1](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=brca1&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 7 items as of Oct 2013
 
-* <a href="/posts/the-deadly-breast-cancer-gene-is-a-myth-lancet-study-confirms" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The “Deadly Breast Cancer Gene” Is A Myth, Lancet Study Confirms – Jan 2018">The “Deadly Breast Cancer Gene” Is A Myth, Lancet Study Confirms – Jan 2018</a>
+* [The “Deadly Breast Cancer Gene” Is A Myth, Lancet Study Confirms – Jan 2018](/posts/the-deadly-breast-cancer-gene-is-a-myth-lancet-study-confirms)
 
 ---
 

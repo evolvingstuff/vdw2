@@ -15,4 +15,4 @@
 
 ## [Blog Archive](https://www.VitaminDWiki.com/tiki-view_blog.php?blogId=1)
 
-### <a href="/posts/long-list-of-blog-posts" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2367">Long list of blog posts</a> on a single page
+### [Long list of blog posts](/tags/long-list-of-blog-posts.html) on a single page

@@ -21,7 +21,7 @@
 }
 
 
-**Update: <a href="/posts/international-congress-on-vitamin-d-vitamind-workshop-ny" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: International Congress on Vitamin D (VitaminD Workshop) – NY May 2019">International Congress on Vitamin D (VitaminD Workshop) – NY May 2019</a>   
+**Update: [International Congress on Vitamin D (VitaminD Workshop) – NY May 2019](/posts/international-congress-on-vitamin-d-vitamind-workshop-ny)   
 has links to many previous workshops** 
 
 #### [Abu Dhabi Annual International Conference on Vitamin D Deficiency and Human Health,” held in Abu Dhabi on March 17-18, 2017](http://gulftoday.ae/portal/2442e97b-f429-48e8-b22d-008c1edfa910.aspx)

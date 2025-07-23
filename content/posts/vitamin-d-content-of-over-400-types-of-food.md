@@ -53,9 +53,9 @@
 
 > far far less expensive to get from supplements/home fortification than getting it from food.
 
-* <a href="/posts/vitamin-d-fortification-of-food-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D fortification of food - review Dec 2011">Vitamin D fortification of food - review Dec 2011</a>
+* [Vitamin D fortification of food - review Dec 2011](/posts/vitamin-d-fortification-of-food-review)
 
-* <a href="/posts/vitamin-d-and-folate-fortification-of-foods" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Folate fortification of foods - April 2012">Vitamin D and Folate fortification of foods - April 2012</a>
+* [Vitamin D and Folate fortification of foods - April 2012](/posts/vitamin-d-and-folate-fortification-of-foods)
 
 * [Contributions of Sunlight and Diet to Vitamin D Status - Sept 2012](/posts/contributions-of-sunlight-and-diet-to-vitamin-d-status)
 

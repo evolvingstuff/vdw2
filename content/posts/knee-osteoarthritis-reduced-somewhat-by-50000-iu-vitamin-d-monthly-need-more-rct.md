@@ -56,7 +56,7 @@ Jin X, et al. Paper #OP0296. Presented at: European League Against Rheumatism An
 
  **Personal note by admin of VitaminDWiki** 
 
-<a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Magnesium added topically and internally eliminated my knee Osteoarthritis</a> (could not walk for more than about a block)
+[Magnesium added topically and internally eliminated my knee Osteoarthritis](/posts/low-cost-cofactors-for-vitamin-d) (could not walk for more than about a block)
 
 This was in addition to a high level of vitamin D - I take 50,000 IU every 5 days = 6X higher dose than this study
 

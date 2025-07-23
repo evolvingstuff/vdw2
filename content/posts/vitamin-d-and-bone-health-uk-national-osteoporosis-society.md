@@ -194,7 +194,7 @@ Appendix 1: Guidance for treatment of Vitamin D deficiency 25
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
 * [UK Osteoporosis Society (inadequate) guidelines for vitamin D and bone health – Nov 2014](/posts/uk-osteoporosis-society-inadequate-guidelines-for-vitamin-d-and-bone-health)
 
@@ -202,11 +202,11 @@ Appendix 1: Guidance for treatment of Vitamin D deficiency 25
 
 * [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Korea proposes vitamin D of 20 ng, but notes 20ng increases osteo by 50 percent – Oct 2012](/posts/korea-proposes-vitamin-d-of-20-ng-but-notes-20ng-increases-osteo-by-50-percent)
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
 * [30 to 50 ng of vitamin D is optimal – Central Europe consensus Sept 2013](/posts/30-to-50-ng-of-vitamin-d-is-optimal-central-europe-consensus)
 
@@ -214,10 +214,10 @@ Appendix 1: Guidance for treatment of Vitamin D deficiency 25
 
 * [8X higher Osteoporosis risk if high level of vitamin A, vitamin D important too – Feb 2013](/posts/8x-higher-osteoporosis-risk-if-high-level-of-vitamin-a-vitamin-d-important-too)
 
-* <a href="/posts/overview-bone-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Overview - Bone Fractures</a>
+* [Overview - Bone Fractures](/tags/overview-bone-fractures.html)
 
-* <a href="/posts/overview-vitamin-d-and-falling" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Overview: Vitamin D and falling</a>
+* [Overview: Vitamin D and falling](/tags/overview-vitamin-d-and-falling.html)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> loading dose varies by weight as well as current vitamin D blood level.(but not in the paper on this page)
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) loading dose varies by weight as well as current vitamin D blood level.(but not in the paper on this page)
 
-* <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a> since about 1 person in 300 gets an allergic reaction to vitamin D, people should be checked before giving loading doses
+* [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d) since about 1 person in 300 gets an allergic reaction to vitamin D, people should be checked before giving loading doses

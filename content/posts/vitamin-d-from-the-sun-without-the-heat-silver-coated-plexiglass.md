@@ -95,9 +95,9 @@ Would need at least 4 packages (20 square feet) to make a silver plexiglass mirr
 
 #### See also VitaminDWiki
 
-* <a href="/posts/uva-decreases-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 788">UVA decreases vitamin D</a>
+* [UVA decreases vitamin D](/tags/uva-decreases-vitamin-d.html)
 
-* <a href="/posts/uva-from-some-tanning-beds-and-most-windows-decrease-vitamin-d-blood-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2472">UVA from some tanning beds and most windows decrease vitamin D blood levels – March 2012</a>
+* [UVA from some tanning beds and most windows decrease vitamin D blood levels – March 2012](/posts/uva-from-some-tanning-beds-and-most-windows-decrease-vitamin-d-blood-levels)
 
 * [Business opportunity – you can now make stuff which only passes vitamin D wavelength](/posts/business-opportunity-you-can-now-make-stuff-which-only-passes-vitamin-d-wavelength)
 

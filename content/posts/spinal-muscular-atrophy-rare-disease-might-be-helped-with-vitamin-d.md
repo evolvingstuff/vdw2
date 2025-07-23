@@ -17,9 +17,7 @@
         "blood levels",
         "bone",
         "bone mineral density",
-        "breathing",
         "child",
-        "cystic fibrosis",
         "falls fractures",
         "high dose",
         "osteoporosis",
@@ -32,7 +30,7 @@
 **Vitamin D has been proven many times to fight [bone](/posts/bone-health) and [muscle](/posts/muscles-and-vitamin-d-many-studies) problems  
 Vitamin D might fight many aspects of Spinal Muscular Atrophy  
 Maintence dosing typically does not show any benefit for 2-8 months  
-Starting with a <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Vitamin D loading dose</a> often shows benefits in weeks** 
+Starting with a [Vitamin D loading dose](/posts/overview-loading-of-vitamin-d) often shows benefits in weeks** 
 
 ---
 
@@ -65,7 +63,7 @@ PMID: 26055105
 * [Search VitaminDWiki for other AUTOSOMAL diseases having low vitamin D](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=autosomal&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 217 items as of May 2019
 
    *  **Some other Autosomal recessive disorders are have been prevented and treated by Vitamin D:  
- <a href="/posts/cystic-fibrosis-and-overview-sickle-cell-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Cystic Fibrosis)) and ((Overview Sickle Cell and Vitamin D">sickle cell anemia</a>** 
+ [sickle cell anemia](/tags/sickle-cell-anemia.html)** 
 
 *  **Vitamin D Intake Is Inadequate in Spinal Muscular Atrophy Type I Cohort: Correlations With Bone Health - 2014** 
 

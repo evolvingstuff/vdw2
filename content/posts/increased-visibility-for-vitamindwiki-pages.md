@@ -92,35 +92,35 @@ Note: Text in graphics are not translated, so may be of little use in another la
 | --- | --- |
 | VitaminDWiki page | Notes |
 | [Does Less Sun mean More Disease](/posts/does-less-sun-mean-more-disease) | 5 minute video summary |
-| <a href="/posts/no-longer-easily-bruised-due-to-vitamins-probably-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No longer easily bruised: due to vitamins, probably vitamin D">No longer easily bruised: due to vitamins, probably vitamin D</a> |  |
-| <a href="/posts/some-people-have-problems-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some people have problems with vitamin D">Some people have problems with vitamin D</a> |  |
+| [No longer easily bruised: due to vitamins, probably vitamin D](/posts/no-longer-easily-bruised-due-to-vitamins-probably-vitamin-d) |  |
+| [Some people have problems with vitamin D](/posts/some-people-have-problems-with-vitamin-d) |  |
 | [One pill every two weeks gives you all the vitamin D most adults need](/posts/one-pill-every-two-weeks-gives-you-all-the-vitamin-d-most-adults-need) |  |
-| <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a> |  |
-| <a href="/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D bulb for use in the home - or perhaps office">Vitamin D bulb for use in the home - or perhaps office</a> |  |
-| <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a> |  |
-| <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a> |  |
+| [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) |  |
+| [Vitamin D bulb for use in the home - or perhaps office](/posts/vitamin-d-bulb-for-use-in-the-home-or-perhaps-office) |  |
+| [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d) |  |
+| [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d) |  |
 | [Vitamin D from low-cost UVB lamps](/posts/vitamin-d-from-low-cost-uvb-lamps) |  |
 | [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials) |  |
-| <a href="/posts/hypothesis-fatigue-the-day-after-sex-is-due-to-deficiency-of-vitamin-d-magnesium-and-zinc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis – Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc">Hypothesis – Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc</a> |  |
-| <a href="/posts/can-you-overdose-on-vitamin-d-its-harder-than-you-think" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Can You Overdose on Vitamin D - It's Harder Than You Think">Can You Overdose on Vitamin D - It's Harder Than You Think</a> |  |
-| <a href="/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hearing Loss appears to be prevented and treated with vitamin D">Hearing Loss appears to be prevented and treated with vitamin D</a> |  |
-| <a href="/posts/vitamin-d-reduces-hair-loss-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces hair loss - many studies">Vitamin D reduces hair loss - many studies</a> |  |
-| <a href="/posts/headache-with-vitamin-d-may-mean-you-need-magnesium" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Headache with vitamin D may mean you need Magnesium">Headache with vitamin D may mean you need Magnesium</a> |  |
+| [Hypothesis – Fatigue the day after sex is due to deficiency of Vitamin D, Magnesium, and Zinc](/posts/hypothesis-fatigue-the-day-after-sex-is-due-to-deficiency-of-vitamin-d-magnesium-and-zinc) |  |
+| [Can You Overdose on Vitamin D - It's Harder Than You Think](/posts/can-you-overdose-on-vitamin-d-its-harder-than-you-think) |  |
+| [Hearing Loss appears to be prevented and treated with vitamin D](/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d) |  |
+| [Vitamin D reduces hair loss - many studies](/posts/vitamin-d-reduces-hair-loss-many-studies) |  |
+| [Headache with vitamin D may mean you need Magnesium](/posts/headache-with-vitamin-d-may-mean-you-need-magnesium) |  |
 | [60,000 IU vitamin D weekly with daily Calcium was safe but not enough in the winter – 2012](/posts/60000-iu-vitamin-d-weekly-with-daily-calcium-was-safe-but-not-enough-in-the-winter-2012) |  |
-| <a href="/posts/vitamins-to-speed-up-metabolism-and-aid-weight-loss" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamins To Speed Up Metabolism And Aid Weight Loss – May 2011">Vitamins To Speed Up Metabolism And Aid Weight Loss – May 2011</a> |  |
+| [Vitamins To Speed Up Metabolism And Aid Weight Loss – May 2011](/posts/vitamins-to-speed-up-metabolism-and-aid-weight-loss) |  |
 | [Cluster headaches virtually eliminated in 7,000 people with high-dose vitamin D and cofactors - Feb 2022](/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors) |  |
-| <a href="/posts/low-cost-vitamin-d-blood-tests" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost vitamin D Blood Tests">Low cost vitamin D Blood Tests</a> |  |
-| <a href="/posts/gallbladder-removal-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency">Gallbladder removal and vitamin D deficiency</a> |  |
-| <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> | 35 reasons, <br>20 are new during the past 40 years |
-| <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> | 63 proofs as of Nov 2015 |
+| [Low cost vitamin D Blood Tests](/posts/low-cost-vitamin-d-blood-tests) |  |
+| [Gallbladder removal and vitamin D deficiency](/posts/gallbladder-removal-and-vitamin-d-deficiency) |  |
+| [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) | 35 reasons, <br>20 are new during the past 40 years |
+| [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) | 63 proofs as of Nov 2015 |
 | [Incidence of 22 health problems related to vitamin D have doubled in a decade](/posts/incidence-of-22-health-problems-related-to-vitamin-d-have-doubled-in-a-decade) | with lots of graphs |
 | [3 to 55 X more likely to have these health problems if low Vitamin D](/posts/3-to-55-x-more-likely-to-have-these-health-problems-if-low-vitamin-d) |  |
 | [Healthy pregnancies need lots of vitamin D](/posts/healthy-pregnancies-need-lots-of-vitamin-d)Includes: Reduce Miscarriage by 2X, <br>Reduce Gestational Diabetes by 2X, Reduce Vaginosis by 5X, Reduce Hypertension by 2X, <br>Reduce Premature birth by 2X  |  |
 | [Intervention - Vitamin D](/posts/intervention-vitamin-d) | 270 Vitamin D intervention studies |
-| <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> |  |
+| [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) |  |
 | [Getting Vitamin D into your blood and cells](/posts/getting-vitamin-d-into-your-blood-and-cells) | Sun, UV, supplements (5 types), <br>injection, active form, etc. |
-| <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a> |  |
-| <a href="/posts/heart-attack-icu-costs-reduced-0000-by-less-than-0-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Heart Attack ICU costs reduced 0,000 by less than 0 of Vitamin D – Nov 2015">Heart Attack ICU costs reduced 0,000 by less than 0 of Vitamin D – Nov 2015</a> |  |
+| [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d) |  |
+| [Heart Attack ICU costs reduced 0,000 by less than 0 of Vitamin D – Nov 2015](/tags/heart-attack-icu-costs-reduced-0000-by-less-than-0-of-vitamin-d-nov-2015.html) |  |
 | [Vitamin D sprayed inside cheeks (buccal spray) - several studies](/posts/vitamin-d-sprayed-inside-cheeks-buccal-spray-several-studies) |  |
 | [Do not expect a doctor to recommend a pill which will eliminate his job (vitamin D) ](/posts/do-not-expect-a-doctor-to-recommend-a-pill-which-will-eliminate-his-job-vitamin-d)<br>#10: "It is difficult to get a man to understand something when his salary <br>is dependent upon his not understanding it" |  |** Each page will take 10-30 hours *** Update – remove old, add new, update or create summary for the top of the page
 

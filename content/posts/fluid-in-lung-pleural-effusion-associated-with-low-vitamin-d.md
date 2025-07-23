@@ -49,9 +49,9 @@ Amado CA1, García-Unzueta MT2, Fariñas MC3, Santos F2, Ortiz M2, Muñoz-Cacho 
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:600px">
 
-* <a href="/posts/reducing-vitamin-d-reduces-cathelicidin-which-reduces-immunity" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reducing vitamin D reduces cathelicidin which reduces immunity">Reducing vitamin D reduces cathelicidin which reduces immunity</a>
+* [Reducing vitamin D reduces cathelicidin which reduces immunity](/posts/reducing-vitamin-d-reduces-cathelicidin-which-reduces-immunity)
 
-* <a href="/posts/lung-and-vitamin-d-special-issue" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lung and Vitamin D – Special Issue Dec 2011">Lung and Vitamin D – Special Issue Dec 2011</a>
+* [Lung and Vitamin D – Special Issue Dec 2011](/posts/lung-and-vitamin-d-special-issue)
 
 </div>
 

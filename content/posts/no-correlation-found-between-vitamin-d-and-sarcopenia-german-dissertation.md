@@ -51,4 +51,4 @@ The further analyses showed no correlation between vitamin d-level, sarcopenia a
 
 * [NASA thinks spacestation personnel only need 800 IU of vitamin D – Sept 2012](/posts/nasa-thinks-spacestation-personnel-only-need-800-iu-of-vitamin-d) Loss of muscle strength while in space
 
-* <a href="/posts/moved113" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Moved113">Moved113</a>
+* [Moved113](/tags/moved113.html)

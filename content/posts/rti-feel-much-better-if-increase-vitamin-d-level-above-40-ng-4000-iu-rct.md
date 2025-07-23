@@ -63,7 +63,7 @@ Rather than a 2X increase associated with Vitamin D level ,might expect > 4X inc
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/respiratory-tract-infection-risk-reduced-2x-by-vitamin-d-loading-doses-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021">Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021</a>
+* [Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021](/posts/respiratory-tract-infection-risk-reduced-2x-by-vitamin-d-loading-doses-meta-analysis)
 
 * [Respiratory tract infections in childhood – vitamin D is needed, no consensus of how much – Oct 2015](/posts/respiratory-tract-infections-in-childhood-vitamin-d-is-needed-no-consensus-of-how-much)
 

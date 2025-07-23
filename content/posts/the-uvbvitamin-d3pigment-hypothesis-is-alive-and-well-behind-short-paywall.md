@@ -28,7 +28,7 @@ Behind $15 paywall
 
 #### See also VitaminDWiki
 
-* <a href="/posts/response-to-uv-varies-more-with-pigment-genes-and-age-than-skin-color" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Response to UV varies more with pigment genes and age than skin color – Feb 2019">Response to UV varies more with pigment genes and age than skin color – Feb 2019</a>
+* [Response to UV varies more with pigment genes and age than skin color – Feb 2019](/posts/response-to-uv-varies-more-with-pigment-genes-and-age-than-skin-color)
 
 ---
 

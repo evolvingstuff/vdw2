@@ -99,7 +99,7 @@ It appears to have general but potent antioxidant and possible anti-inflammatory
 
    * [Infographic of Vitamin D - FoundMyFitness](/posts/infographic-of-vitamin-d-foundmyfitness)
 
-   * <a href="/posts/hypothesis-age-related-diseases-due-to-lack-of-nutrients-like-vitamin-k-ames-triage-theory" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Age-related diseases due to lack of nutrients like vitamin K – Ames Triage Theory">Hypothesis: Age-related diseases due to lack of nutrients like vitamin K – Ames Triage Theory</a>
+   * [Hypothesis: Age-related diseases due to lack of nutrients like vitamin K – Ames Triage Theory](/posts/hypothesis-age-related-diseases-due-to-lack-of-nutrients-like-vitamin-k-ames-triage-theory)
 
    * [Autism, Vitamin D, and serotonin - Patrick interview by Mercola Feb 2016](/posts/autism-vitamin-d-and-serotonin-patrick-interview-by-mercola)
 

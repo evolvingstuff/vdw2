@@ -72,10 +72,10 @@ Strange that the strength improvement only happened at 4 weeks, but not 8 and 12
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Overview Sports and Vitamin D</a>
+* [Overview Sports and Vitamin D](/posts/overview-sports-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-improves-athletic-performance" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2217">Vitamin D improves athletic performance – Dec 2011</a>
+* [Vitamin D improves athletic performance – Dec 2011](/posts/vitamin-d-improves-athletic-performance)
 
-* <a href="/posts/severely-obese-having-more-vitamin-d-were-in-better-physical-condition" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2948">Severely obese having more vitamin D were in better physical condition – June 2012</a>
+* [Severely obese having more vitamin D were in better physical condition – June 2012](/posts/severely-obese-having-more-vitamin-d-were-in-better-physical-condition)

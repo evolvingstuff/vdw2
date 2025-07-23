@@ -53,7 +53,7 @@ With video, and sections with titles such as
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-influenza-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Influenza and vitamin D">Overview Influenza and vitamin D</a>
+* [Overview Influenza and vitamin D](/posts/overview-influenza-and-vitamin-d)
 
 * [Influenzas – both seasonal and pandemic – increase in the winter (low vitamin D) – Dec 2010](/posts/influenzas-both-seasonal-and-pandemic-increase-in-the-winter-low-vitamin-d)
 
@@ -65,9 +65,9 @@ With video, and sections with titles such as
 
 * [Vitamin D can probably augment or replace many vaccines – March 2015](/posts/vitamin-d-can-probably-augment-or-replace-many-vaccines)
 
-* <a href="/posts/10x-reactions-to-flu-vaccine-when-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 10X reactions to flu vaccine when vitamin D deficient">10X reactions to flu vaccine when vitamin D deficient</a>
+* [10X reactions to flu vaccine when vitamin D deficient](/posts/10x-reactions-to-flu-vaccine-when-vitamin-d-deficient)
 
-* <a href="/posts/reduce-probability-of-getting-the-flu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reduce probability of getting the Flu">Reduce probability of getting the Flu</a>
+* [Reduce probability of getting the Flu](/posts/reduce-probability-of-getting-the-flu)
 
 * [Major interactions between Vitamin D, Vitamin A, and Influenza – Sept 2013](/posts/major-interactions-between-vitamin-d-vitamin-a-and-influenza)
 

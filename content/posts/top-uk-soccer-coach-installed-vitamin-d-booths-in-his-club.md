@@ -57,19 +57,19 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Overview Sports and vitamin D</a> which had the following summary Dec 2012
+* [Overview Sports and vitamin D](/posts/overview-sports-and-vitamin-d) which had the following summary Dec 2012
 
-1. <a href="/posts/faster-reaction-time" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 278">Faster reaction time</a>
+1. [Faster reaction time](/tags/faster-reaction-time.html)
 
-1. <a href="/posts/far-fewer-coldsflues-during-the-winter" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 707">Far fewer colds/flues during the winter</a>
+1. [Far fewer colds/flues during the winter](/tags/far-fewer-coldsflues-during-the-winter.html)
 
 1. Less sore/tired after a workout
 
-1. <a href="/posts/fewer-micro-cracks-and-broken-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 974">Fewer micro-cracks and broken bones</a>
+1. [Fewer micro-cracks and broken bones](/tags/fewer-micro-cracks-and-broken-bones.html)
 
 1. Bones which do break heal much more quickly
 
-1. <a href="/posts/increased-vo2-and-exercise-endurance" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1724">Increased VO2 and exercise endurance</a> Feb 2011
+1. [Increased VO2 and exercise endurance](/tags/increased-vo2-and-exercise-endurance.html) Feb 2011
 
 1. Indoor athletes especially need vitamin D
 
@@ -87,11 +87,11 @@
 
 * [Vitamin D from phototherapy lamps, tanning beds, and the sun – Jan 2012](/posts/vitamin-d-from-phototherapy-lamps-tanning-beds-and-the-sun)
 
-* <a href="/posts/moscow-prison-to-install-tanning-beds" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1134">Moscow prison to install tanning beds - Nov 2010</a>
+* [Moscow prison to install tanning beds - Nov 2010](/posts/moscow-prison-to-install-tanning-beds)
 
-* <a href="/posts/prisoners-have-very-low-vitamin-d-and-get-tb-influenza-and-depression" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 537">Prisoners have very low vitamin D and get TB, influenza, and depression</a>
+* [Prisoners have very low vitamin D and get TB, influenza, and depression](/posts/prisoners-have-very-low-vitamin-d-and-get-tb-influenza-and-depression)
 
-* <a href="/posts/interview-concerning-uva-uvb-and-health-grant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3565">Interview concerning UVA, UVB, and health – Grant Dec 2012</a>
+* [Interview concerning UVA, UVB, and health – Grant Dec 2012](/tags/interview-concerning-uva-uvb-and-health-grant-dec-2012.html)
 
 * [UVB added in classroom reduced cavities, increased height, increased academics. etc](/posts/uvb-added-in-classroom-reduced-cavities-increased-height-increased-academics-etc)
 

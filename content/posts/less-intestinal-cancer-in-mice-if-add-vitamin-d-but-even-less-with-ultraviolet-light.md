@@ -62,7 +62,7 @@ UVB – females| 34 ng|88 mm2|Yes||
 
 #### See also VitaminDWiki
 
-* <a href="/posts/breast-cancer-risk-reduced-17-percent-by-1-hour-of-daily-summer-sun-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer risk reduced 17 percent by 1 hour of daily summer sun – meta-analysis Jan 2020">Breast Cancer risk reduced 17 percent by 1 hour of daily summer sun – meta-analysis Jan 2020</a>
+* [Breast Cancer risk reduced 17 percent by 1 hour of daily summer sun – meta-analysis Jan 2020](/posts/breast-cancer-risk-reduced-17-percent-by-1-hour-of-daily-summer-sun-meta-analysis)
 
 * [Cancer Council of Australia recommends 30 minutes of daily sunshine – June 2014](/posts/cancer-council-of-australia-recommends-30-minutes-of-daily-sunshine)
 
@@ -74,9 +74,9 @@ UVB – females| 34 ng|88 mm2|Yes||
 
 * [Solar UVB reduces Cancer Risk – Grant, Jan 2013](/posts/solar-uvb-reduces-cancer-risk-grant)
 
-* <a href="/posts/more-uvb-is-associated-with-less-cancer-study-of-450000-people" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More UVB is associated with less cancer – study of 450,000 people – April 2012">More UVB is associated with less cancer – study of 450,000 people – April 2012</a>
+* [More UVB is associated with less cancer – study of 450,000 people – April 2012](/posts/more-uvb-is-associated-with-less-cancer-study-of-450000-people)
 
-* <a href="/posts/2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2200X more problems from no UVB than too much UVB - WHO 2006">2200X more problems from no UVB than too much UVB - WHO 2006</a>
+* [2200X more problems from no UVB than too much UVB - WHO 2006](/posts/2200x-more-problems-from-no-uvb-than-too-much-uvb-who-2006)
 
 * [Benefits of sun are more than vitamin D – 2008](/posts/benefits-of-sun-are-more-than-vitamin-d-2008)
 
@@ -84,6 +84,6 @@ UVB – females| 34 ng|88 mm2|Yes||
 
 * [Hypothesis: Sun provides more than vitamin D – June 2012](/posts/hypothesis-sun-provides-more-than-vitamin-d)
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Beneficial effects of UV radiation other than via vitamin D production – June 2012">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
-* <a href="/posts/mouse-ms-uvb-but-not-vitamin-d-reduced-incidence" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mouse MS: UVB but not Vitamin D reduced incidence - April 2010">Mouse MS: UVB but not Vitamin D reduced incidence - April 2010</a>
+* [Mouse MS: UVB but not Vitamin D reduced incidence - April 2010](/posts/mouse-ms-uvb-but-not-vitamin-d-reduced-incidence)

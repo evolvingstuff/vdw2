@@ -62,11 +62,11 @@ PMID: 25117997
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
-* <a href="/posts/vitamin-d-from-mushroom-or-supplements-decreased-vitamin-d3-in-the-body" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2952">Vitamin D from mushroom or supplements decreased vitamin D3 in the body – June 2012</a>
+* [Vitamin D from mushroom or supplements decreased vitamin D3 in the body – June 2012](/posts/vitamin-d-from-mushroom-or-supplements-decreased-vitamin-d3-in-the-body)
 
-* <a href="/posts/ms-worse-with-vitamin-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: MS worse with Vitamin D2 - Oct 2011">MS worse with Vitamin D2 - Oct 2011</a> high dose of D2 resulted in worse MS than low dose
+* [MS worse with Vitamin D2 - Oct 2011](/posts/ms-worse-with-vitamin-d2) high dose of D2 resulted in worse MS than low dose
 
 * [Hemodialysis not helped by weekly vitamin D2 – RCT April 2015](/posts/hemodialysis-not-helped-by-weekly-vitamin-d2-rct)
 

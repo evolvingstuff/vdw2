@@ -63,9 +63,9 @@
 
 * [Nutritional rickets. In Turkey – 2010](/posts/nutritional-rickets-in-turkey-2010)
 
-* <a href="/posts/400-iu-vitamin-d-appeared-to-prevent-infant-rickets-in-turkey" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 400 IU vitamin D appeared to prevent infant rickets in Turkey – June 2011">400 IU vitamin D appeared to prevent infant rickets in Turkey – June 2011</a>
+* [400 IU vitamin D appeared to prevent infant rickets in Turkey – June 2011](/posts/400-iu-vitamin-d-appeared-to-prevent-infant-rickets-in-turkey)
 
-* <a href="/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011">Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011</a>
+* [Turkey gave 400 IU vitamin D to all infants and reduced Rickets by 60X - 2011](/posts/turkey-gave-400-iu-vitamin-d-to-all-infants-and-reduced-rickets-by-60x-2011)
 
 * [Infants again said to need more than 400 IU of vitamin D – Sept 2012](/posts/infants-again-said-to-need-more-than-400-iu-of-vitamin-d) not enough in winter
 
@@ -91,7 +91,7 @@
 
 * [Rickets: Less costly to prevent than to treat SE Asians in UK – 2006](/posts/rickets-less-costly-to-prevent-than-to-treat-se-asians-in-uk-2006)
 
-* <a href="/posts/rickets-in-30-percent-of-infants-in-india-who-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets in 30 percent of infants in India who had low vitamin D – March 2011">Rickets in 30 percent of infants in India who had low vitamin D – March 2011</a>
+* [Rickets in 30 percent of infants in India who had low vitamin D – March 2011](/posts/rickets-in-30-percent-of-infants-in-india-who-had-low-vitamin-d)
 
 * [Perhaps half of Russian children have rickets, 500 IU vitamin D was not enough – June 2013](/posts/perhaps-half-of-russian-children-have-rickets-500-iu-vitamin-d-was-not-enough)
 
@@ -101,15 +101,15 @@
 
 * Nutritional rickets around the world: an update - 2016
 
->  **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1080/20469047.2016.1248170** 
+>  **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1080/20469047.2016.1248170** 
 
 > Nigeria 1 in 170; Gambia 1 in 70; Bangladesh 1 in 12
 
  **Recent Increase** 
 
-* <a href="/posts/rickets-in-sweden-recently-increased-by-6x-mainly-preemies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets in Sweden recently increased by 6X (mainly preemies) – May 2019">Rickets in Sweden recently increased by 6X (mainly preemies) – May 2019</a>
+* [Rickets in Sweden recently increased by 6X (mainly preemies) – May 2019](/posts/rickets-in-sweden-recently-increased-by-6x-mainly-preemies)
 
-* <a href="/posts/rickets-in-japan-increased-3-x-recently-similar-to-increases-in-other-countries" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets in Japan increased 3 X recently, similar to increases in other countries – June 2017">Rickets in Japan increased 3 X recently, similar to increases in other countries – June 2017</a>
+* [Rickets in Japan increased 3 X recently, similar to increases in other countries – June 2017](/posts/rickets-in-japan-increased-3-x-recently-similar-to-increases-in-other-countries)
 
 * [Rickets in UK increased 4X in a decade - May 2015](/posts/rickets-in-uk-increased-4x-in-a-decade)
 
@@ -117,7 +117,7 @@
 
  **Prevention and treatment** 
 
-* <a href="/posts/rickets-virtually-cured-by-90000-iu-of-vitamin-d-along-with-daily-calcium-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets virtually cured by 90,000 IU of Vitamin D along with daily Calcium – RCT Nov 2018">Rickets virtually cured by 90,000 IU of Vitamin D along with daily Calcium – RCT Nov 2018</a>
+* [Rickets virtually cured by 90,000 IU of Vitamin D along with daily Calcium – RCT Nov 2018](/posts/rickets-virtually-cured-by-90000-iu-of-vitamin-d-along-with-daily-calcium-rct)
 
 * [Rickets needs Vitamin D and Calcium - Global Consensus Jan 2016](/posts/rickets-needs-vitamin-d-and-calcium-global-consensus)
 
@@ -131,13 +131,13 @@
 
 * [Rickets reduced 60X - lessons learned by Turkey 2011](/posts/rickets-reduced-60x-lessons-learned-by-turkey-2011)
 
-* <a href="/posts/recommend-400-iu-to-prevent-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Recommend 400 IU to prevent rickets – Mar 2010">Recommend 400 IU to prevent rickets – Mar 2010</a>
+* [Recommend 400 IU to prevent rickets – Mar 2010](/posts/recommend-400-iu-to-prevent-rickets)
 
-* <a href="/posts/400-iu-vitamin-d-for-infants-and-2000-iu-during-pregnancy-if-high-risk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 400 IU vitamin D for infants and 2000 IU during pregnancy if high risk – June 2010">400 IU vitamin D for infants and 2000 IU during pregnancy if high risk – June 2010</a>
+* [400 IU vitamin D for infants and 2000 IU during pregnancy if high risk – June 2010](/posts/400-iu-vitamin-d-for-infants-and-2000-iu-during-pregnancy-if-high-risk)
 
 * [Giving vitamin D to ALL children reduced (rickets) symptoms by 60 percent – Aug 2012](/posts/giving-vitamin-d-to-all-children-reduced-rickets-symptoms-by-60-percent)
 
-* <a href="/posts/744-iu-vitamin-d-needed-by-northern-white-teens-to-prevent-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 744 IU vitamin D needed by Northern white teens to prevent Rickets – Jan 2011">744 IU vitamin D needed by Northern white teens to prevent Rickets – Jan 2011</a>
+* [744 IU vitamin D needed by Northern white teens to prevent Rickets – Jan 2011](/posts/744-iu-vitamin-d-needed-by-northern-white-teens-to-prevent-rickets)
 
 * [Took 4 months of 400 IU vitamin D for Iranian infants to get serum level of 30 ng – June 2013](/posts/took-4-months-of-400-iu-vitamin-d-for-iranian-infants-to-get-serum-level-of-30-ng) loading dose was far faster
 
@@ -149,15 +149,15 @@
 
 * [Child abuse, vitamin D deficiency, or what - for parents and defense attorneys - Cannell June 2015](/posts/child-abuse-vitamin-d-deficiency-or-what-for-parents-and-defense-attorneys-cannell)
 
-* <a href="/posts/mother-and-father-on-trial-for-infant-death-set-free-death-was-due-to-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mother and father on trial for infant death – set free – death was due to rickets – Dec 2011">Mother and father on trial for infant death – set free – death was due to rickets – Dec 2011</a>
+* [Mother and father on trial for infant death – set free – death was due to rickets – Dec 2011](/posts/mother-and-father-on-trial-for-infant-death-set-free-death-was-due-to-rickets)
 
-* <a href="/posts/lack-of-vitamin-d-in-infants-can-result-in-broken-bones-and-shaken-baby-syndrome" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lack of vitamin D in infants can result in broken bones and shaken baby syndrome - March 2010">Lack of vitamin D in infants can result in broken bones and shaken baby syndrome - March 2010</a>
+* [Lack of vitamin D in infants can result in broken bones and shaken baby syndrome - March 2010](/posts/lack-of-vitamin-d-in-infants-can-result-in-broken-bones-and-shaken-baby-syndrome)
 
 * [The Vitamin Deficiency Signs That Can Send You to Prison – Feb 2014](/posts/the-vitamin-deficiency-signs-that-can-send-you-to-prison)
 
-* <a href="/posts/shaken-baby-syndrome-probably-caused-by-ehlers-danlos-syndrome" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shaken Baby Syndrome - probably caused by Ehlers-Danlos Syndrome">Shaken Baby Syndrome - probably caused by Ehlers-Danlos Syndrome</a>
+* [Shaken Baby Syndrome - probably caused by Ehlers-Danlos Syndrome](/posts/shaken-baby-syndrome-probably-caused-by-ehlers-danlos-syndrome)
 
-* <a href="/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019">Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019</a>
+* [Child abuse fractures – 96 percent were associated with poor bones (low vitamin D, etc.) – Oct 2019](/posts/child-abuse-fractures-96-percent-were-associated-with-poor-bones-low-vitamin-d-etc)
 
 * [Shaken Baby Syndrome - Movie April 2016](http://www.thesyndromefilm.com/)
 
@@ -167,19 +167,19 @@
 
 * [Ricket was known to be associated with dark skin and breast feeding a century ago - 2005](/posts/ricket-was-known-to-be-associated-with-dark-skin-and-breast-feeding-a-century-ago-2005)
 
-* <a href="/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Black Sudanese children 350X more likely to have rickets than other Australians – April 2012">Black Sudanese children 350X more likely to have rickets than other Australians – April 2012</a>
+* [Black Sudanese children 350X more likely to have rickets than other Australians – April 2012](/posts/black-sudanese-children-350x-more-likely-to-have-rickets-than-other-australians)
 
-* <a href="/posts/dark-skinned-babies-probably-need-vitamin-d-to-prevent-nutritional-rickets-2001" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark Skinned babies probably need vitamin D to prevent nutritional rickets - 2001">Dark Skinned babies probably need vitamin D to prevent nutritional rickets - 2001</a>
+* [Dark Skinned babies probably need vitamin D to prevent nutritional rickets - 2001](/posts/dark-skinned-babies-probably-need-vitamin-d-to-prevent-nutritional-rickets-2001)
 
-* <a href="/posts/nutritional-rickets-in-denmark-especially-among-immigrant-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nutritional Rickets in Denmark especially among immigrant children- Feb 2012">Nutritional Rickets in Denmark especially among immigrant children- Feb 2012</a>
+* [Nutritional Rickets in Denmark especially among immigrant children- Feb 2012](/posts/nutritional-rickets-in-denmark-especially-among-immigrant-children)
 
-* <a href="/posts/16-percent-of-exclusively-breastfed-infants-so-low-on-vitamin-d-that-they-had-rickets" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 16% of exclusively breastfed infants so low on vitamin D that they had rickets – June 2010">16% of exclusively breastfed infants so low on vitamin D that they had rickets – June 2010</a>
+* [16% of exclusively breastfed infants so low on vitamin D that they had rickets – June 2010](/posts/16-percent-of-exclusively-breastfed-infants-so-low-on-vitamin-d-that-they-had-rickets)
 
  **Animals** 
 
 * [Rickets in Humans and domestic animals - March 2011](/posts/rickets-in-humans-and-domestic-animals)
 
-* <a href="/posts/rickets-increasing-in-dogs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Rickets increasing in dogs">Rickets increasing in dogs</a>
+* [Rickets increasing in dogs](/posts/rickets-increasing-in-dogs)
 
  **Rickets Other** 
 
@@ -191,13 +191,13 @@
 
 * [Rickets and vitamin D overview – Lancet 2003](/posts/rickets-and-vitamin-d-overview-lancet-2003)
 
-* <a href="/posts/sunlight-for-babies-us-govt-1933" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunlight for babies – US Govt 1933">Sunlight for babies – US Govt 1933</a>
+* [Sunlight for babies – US Govt 1933](/posts/sunlight-for-babies-us-govt-1933)
 
-* <a href="/posts/osteopenia-in-preterm-infants" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteopenia in preterm infants – May 2012">Osteopenia in preterm infants – May 2012</a>
+* [Osteopenia in preterm infants – May 2012](/posts/osteopenia-in-preterm-infants)
 
-* <a href="/posts/further-look-at-vitamin-d-dependent-rickets-and-gene-mutations" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Further look at vitamin D dependent rickets and gene mutations – Feb 2011">Further look at vitamin D dependent rickets and gene mutations – Feb 2011</a>
+* [Further look at vitamin D dependent rickets and gene mutations – Feb 2011](/posts/further-look-at-vitamin-d-dependent-rickets-and-gene-mutations)
 
-* <a href="/posts/vitamin-d-levels-in-kids-are-so-low-that-rickets-is-back-with-a-vengeance" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Levels in Kids are So Low that Rickets is Back with a Vengeance">Vitamin D Levels in Kids are So Low that Rickets is Back with a Vengeance</a>
+* [Vitamin D Levels in Kids are So Low that Rickets is Back with a Vengeance](/posts/vitamin-d-levels-in-kids-are-so-low-that-rickets-is-back-with-a-vengeance)
 
 * [Fastest bone growth occurs before age 2](/posts/fastest-bone-growth-occurs-before-age-2)
 
@@ -225,15 +225,15 @@
 
 * [75 percent of unexplained sudden infant deaths had inadequate level of vitamin D – April 2013](/posts/75-percent-of-unexplained-sudden-infant-deaths-had-inadequate-level-of-vitamin-d)
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
-* <a href="/posts/overview-uv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview UV and vitamin D">Overview UV and vitamin D</a> Sun is better than UV, which is better than supplements
+* [Overview UV and vitamin D](/posts/overview-uv-and-vitamin-d) Sun is better than UV, which is better than supplements
 
-* <a href="/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many reasons why vitamin D deficiency has become epidemic">Many reasons why vitamin D deficiency has become epidemic</a> 19 new reasons (40 total as of 2023)
+* [Many reasons why vitamin D deficiency has become epidemic](/posts/many-reasons-why-vitamin-d-deficiency-has-become-epidemic) 19 new reasons (40 total as of 2023)
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a> sore bones is one indication of rickets
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency) sore bones is one indication of rickets
 
 <!-- ~tc~ end2 ~/tc~ -->
 

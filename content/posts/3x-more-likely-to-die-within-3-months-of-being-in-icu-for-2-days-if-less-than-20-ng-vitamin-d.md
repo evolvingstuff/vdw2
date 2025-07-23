@@ -84,9 +84,9 @@ Conclusions: These results suggest that vitamin D deficiency is prevalent among 
 
 * [ICU Acinetobacter baumannii infection (Iraqibacter) is 2.5X more likely if low vitamin D – Oct 2013](/posts/icu-acinetobacter-baumannii-infection-iraqibacter-is-25x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011">540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011</a>
+* [540000 IU before ICU raised vitamin D by 25 ng in 2 days – March 2011](/posts/540000-iu-before-icu-raised-vitamin-d-by-25-ng-in-2-days)
 
-* <a href="/posts/being-vitamin-d-deficient-in-the-icu-is-not-good" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Being vitamin D deficient in the ICU is not good - Feb 2012">Being vitamin D deficient in the ICU is not good - Feb 2012</a>
+* [Being vitamin D deficient in the ICU is not good - Feb 2012](/posts/being-vitamin-d-deficient-in-the-icu-is-not-good)
 
 * [ICU survival increased with vitamin D single 540K IU loading dose - JAMA Sept 2014](/posts/icu-survival-increased-with-vitamin-d-single-540k-iu-loading-dose-jama)  - has the following chart
 

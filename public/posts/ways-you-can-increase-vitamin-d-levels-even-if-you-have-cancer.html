@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset=utf-8><title>Ways you can increase vitamin D levels, even if you have cancer</title>
+<link rel=stylesheet href="/css/main.css?v=1753303883"><link rel=stylesheet href="/css/pagination.css?v=1753303883"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303883"></script><script src="/js/search.js?v=1753303883"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Ways you can increase vitamin D levels, even if you have cancer</h1><time>May 7, 2012</time><div data-pagefind-body><p>The following includes some of the analysis by Dr. Cannell at the Vitamin D Council</p><p>The enzyme that activates vitamin D is 1-hydroxyase</p><p>The enzyme that deactivates vitamin D is 24-hydroxylase</p><h2 id=colon-cancer-decreases-vitamin-d>Colon Cancer decreases Vitamin D</h2><ul><li><p>Destroys 1-hydroxylase <strong><span style=color:red>which is bad</span></strong></p></li><li><p>Increases 24-hydroxylase <strong><span style=color:red>which is bad</span></strong></p></li></ul><h2 id=low-levels-of-calcium-also-decreases-vitamin-d-by>Low levels of Calcium also decreases vitamin D by</h2><ul><li>Increasing 24-hydroxylase <strong><span style=color:red>which is bad</span></strong></li></ul><h2 id=thus-as-of-may-2012-it-appears-the-ways-to-increase-vitamin-d-include>Thus, as of May 2012, it appears the ways to increase vitamin D include:</h2><ul><li>Take more vitamin D and/or have more time in the sun without sunscreen</li></ul><blockquote><p>Note: If your gut is functioning poorly, there is a <a href=/tags/form-of-vitamin-d-supplement-for-you.html>form of vitamin D supplement for you</a></p></blockquote><ul><li><p>Add Estrogen which facilities 1-hydroxyase (however, adding Estrogen seems to cause problems)</p></li><li><p>Add folate and soy to reduce 24-hydroxylase <strong><span style=color:#090>which is good</span></strong></p></li><li><p>Increase bioavailability of vitamin D supplements</p></li></ul><blockquote><p>Increase monosaturated fats (such as almonds)</p></blockquote><blockquote><p>Vitamin K2 increases D</p></blockquote><blockquote><p>Increase Magnesium intake</p></blockquote><blockquote><p>Decrease fast foods (many of which reduce Magnesium intake)</p></blockquote><blockquote><p>Boron</p></blockquote><ul><li>Have some, but not too much</li></ul><blockquote><p>Vitamin A</p></blockquote><blockquote><p>Calcium</p></blockquote><ul><li><p>Do not smoke</p></li><li><p>Do not have soft drinks – which reduce Calcium, which reduced Vitamin D</p></li><li><p>Reduce taking drugs, such as statins, which reduce/consume vitamin D (which may not be possible)</p></li></ul><blockquote><p>It may help to not take those drugs at the same time as vitamin D</p></blockquote><h2 id=chemotherapy-warning-click-heretagsclick-herehtml-for-more-information>Chemotherapy warning: <a href=/tags/click-here.html>CLICK HERE</a> for more information</h2><p>Beware of increasing your vitamin D if you are unable to decrease the amount of some kinds of Chemotherapy</p><p><strong>Vitamin D increases the effectiveness of many chemotherapies</strong></p><ul><li><p>Which is good, as you may only need 1/2 as much chemotherapy drug to kill the cancer while doing less damage to the rest of the body</p></li><li><p>Which is bad if you cannot change the type or decrease the amount chemotherapy,</p></li></ul><blockquote><p>     Vitamin D increases the effectiveness of some chemo so much as to become fatal.</p></blockquote><h2 id=dr-cannells-description-of-the-enzyme-paper-is-behind-a-5-paywall>Dr. Cannell’s description of the enzyme paper is behind a $5 paywall</h2><p><a href=http://blog.vitamindcouncil.org/2012/05/05/can-vitamin-d-be-increased-inside-a-cell/%20>Can vitamin D be increased inside a cell?</a> May 2012</p><p>His description of enzymes is in part based on the following paper</p><h2 id=colonic-vitamin-d-metabolism-implications-for-the-pathogenesis-of-inflammatory-bowel-disease-and-colorectal-cancer>Colonic vitamin D metabolism: implications for the pathogenesis of inflammatory bowel disease and colorectal cancer.</h2><p>Mol Cell Endocrinol. 2011 Dec 5;347(1-2):70-9. Epub 2011 Jul 27.</p><p>Cross HS <a href=mailto:heide.cross@meduniwien.ac.at>heide.cross@meduniwien.ac.at</a>, Nittke T, Kallay E.</p><p>Department of Pathophysiology, Medical University of Vienna, Austria.</p><p>In epidemiological studies serum levels below 30 nM of 25-OHD(3), the precursor of the active vitamin D metabolite 1,25-(OH)(2)D(3), were consistently associated with incidence of colorectal cancer. The active vitamin D metabolite possesses antimitotic, prodifferentiating and proapoptotic capacity in vivo and in vitro. The intestinal autocrine/paracrine vitamin D system, which is the main source of local 1,25-(OH)(2)D(3) plays a critical role in maintaining both mucosal immunity and normal growth of epithelial cells. It has been hypothesized that the VDR-mediated signaling antagonizing TNF-? and IL-6 receptor-activated pro-inflammatory and proliferative intracellular pathways, may prevent development of IBD and colitis-associated colorectal cancer. Conversely, any situation that impairs the efficiency of the 1,25-(OH)(2)D(3)/VDR signaling system at the level of the gut mucosa, e.g. vitamin D insufficiency, may increase risk for the development of IBD and colorectal cancer. Therefore, not only adequate serum levels of the precursor 25-OHD(3) are essential, but also optimal expression of the 1?-hydroxylating enzyme CYP27B1. The 1,25-(OH)(2)D(3) catabolizing hydroxylase CYP24A1 is increasingly expressed during colon cancer progression, indicating that colonocytes are released from normal growth control by the steroid hormone. Securing adequate levels of calcitriol by inhibition of catabolism and support of 1?-hydroxylation by calcium, phytoestrogens and folate could be a valid approach to control, at least in part, IBD and CRC pathogenesis.</p><p>Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.</p><p>PMID: 21801808</p><hr><h1 id=see-also-vitamindwiki>See also VitaminDWiki</h1><ul><li><p><a href=/posts/how-you-might-double-the-benefit-of-your-vitamin-d>How you might double the benefit of your vitamin D</a></p></li><li><p><a href=/tags/reasons-for-low-response-by-vitamin-d-level-in-the-blood.html>Reasons for low response by vitamin D level in the blood</a></p></li><li><p><a href=/tags/chemotherapy-might-be-amplified-by-vitamin-d.html>Chemotherapy might be amplified by vitamin D</a></p></li></ul></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer-in-vdr.html><span class=tag>cancer in VDR</span></a>
+<a href=/tags/cardiovascular.html><span class=tag>cardiovascular</span></a>
+<a href=/tags/colon-cancer.html><span class=tag>colon cancer</span></a>
+<a href=/tags/cypa.html><span class=tag>CYPA</span></a>
+<a href=/tags/cypr.html><span class=tag>CYPR</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/gut.html><span class=tag>gut</span></a>
+<a href=/tags/ibd.html><span class=tag>IBD</span></a>
+<a href=/tags/immunity.html><span class=tag>immunity</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/magnesium-and-cancer.html><span class=tag>magnesium and cancer</span></a>
+<a href=/tags/statins.html><span class=tag>statins</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a>
+<a href=/tags/vitamin-k.html><span class=tag>vitamin k</span></a></div><div data-pagefind-meta=tags hidden>cancer, cancer in VDR, cardiovascular, colon cancer, CYPA, CYPR, genetics, gut, IBD, immunity, magnesium, magnesium and cancer, statins, vitamin d, vitamin d receptor, vitamin k</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303883"></script><script src="/js/tiki-redirects.js?v=1753303883"></script><script src="/js/lightspa.js?v=1753303883"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303883",indexUrl:"/search/search_index.json.gz?v=1753303883"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303883"></script></body></html>

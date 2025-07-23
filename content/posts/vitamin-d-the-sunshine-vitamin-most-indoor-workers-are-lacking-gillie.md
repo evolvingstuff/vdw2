@@ -131,13 +131,13 @@ Remember though, sunshine is free - so enjoy it. If you get at least half an hou
 
 ## See also VitaminDWiki
 
-* <a href="/posts/problems-with-low-uv-and-vitamin-d-in-scotland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems with low UV and vitamin D in Scotland - Jan 2012">Problems with low UV and vitamin D in Scotland - Jan 2012</a>
+* [Problems with low UV and vitamin D in Scotland - Jan 2012](/posts/problems-with-low-uv-and-vitamin-d-in-scotland)
 
-* <a href="/posts/scotland-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Scotland and Vitamin D - many studies">Scotland and Vitamin D - many studies</a>
+* [Scotland and Vitamin D - many studies](/posts/scotland-and-vitamin-d-many-studies)
 
-* <a href="/posts/three-free-vitamin-d-books-focus-on-scotland-2004-2008" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Three free vitamin D books - focus on Scotland 2004-2008">Three free vitamin D books - focus on Scotland 2004-2008</a>
+* [Three free vitamin D books - focus on Scotland 2004-2008](/posts/three-free-vitamin-d-books-focus-on-scotland-2004-2008)
 
-* <a href="/posts/let-the-sun-shine-on-you-gillie" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Let the Sun shine on you - Gillie Aug 2011">Let the Sun shine on you - Gillie Aug 2011</a>
+* [Let the Sun shine on you - Gillie Aug 2011](/posts/let-the-sun-shine-on-you-gillie)
 
 * [Vitamin D reduced so low that Victorian age diseases are returning](/posts/vitamin-d-reduced-so-low-that-victorian-age-diseases-are-returning)
 

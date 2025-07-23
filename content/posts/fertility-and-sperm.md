@@ -50,21 +50,21 @@
 
 <!-- ~tc~ start2 ~/tc~ -->
 
-*  **<a href="/posts/vitamin-d-is-needed-for-human-fertility-goal-is-50-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is needed for human fertility – goal is 50 ng – Sept 2018">Vitamin D is needed for human fertility – goal is 50 ng – Sept 2018</a>** 
+*  **[Vitamin D is needed for human fertility – goal is 50 ng – Sept 2018](/posts/vitamin-d-is-needed-for-human-fertility-goal-is-50-ng)** 
 
-*  **<a href="/posts/in-vitro-fertilization-costs-at-least-10000-dollars-vitamin-d-costs-5-dollars" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars">In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars</a>** 
+*  **[In-vitro Fertilization costs at least 10,000 dollars, Vitamin D costs 5 dollars](/posts/in-vitro-fertilization-costs-at-least-10000-dollars-vitamin-d-costs-5-dollars)** 
 
-* <a href="/posts/women-were-50x-more-likely-to-be-fertile-if-just-1-ng-higher-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Women were 50X more likely to be fertile if just 1 ng higher level of vitamin D – Nov 2024">Women were 50X more likely to be fertile if just 1 ng higher level of vitamin D – Nov 2024</a>
+* [Women were 50X more likely to be fertile if just 1 ng higher level of vitamin D – Nov 2024](/posts/women-were-50x-more-likely-to-be-fertile-if-just-1-ng-higher-level-of-vitamin-d)
 
-* <a href="/posts/infertile-patients-17x-more-likely-to-become-pregnant-if-take-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infertile patients 1.7X more-likely to become pregnant if take Vitamin D – meta-analysis Feb 2023">Infertile patients 1.7X more-likely to become pregnant if take Vitamin D – meta-analysis Feb 2023</a>
+* [Infertile patients 1.7X more-likely to become pregnant if take Vitamin D – meta-analysis Feb 2023](/posts/infertile-patients-17x-more-likely-to-become-pregnant-if-take-vitamin-d-meta-analysis)
 
-* <a href="/posts/live-birth-17-x-more-likely-after-ivf-if-good-level-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Live birth 1.7 X more likely after IVF if good level of vitamin D – meta-analysis Aug 2020">Live birth 1.7 X more likely after IVF if good level of vitamin D – meta-analysis Aug 2020</a>
+* [Live birth 1.7 X more likely after IVF if good level of vitamin D – meta-analysis Aug 2020](/posts/live-birth-17-x-more-likely-after-ivf-if-good-level-of-vitamin-d-meta-analysis)
 
-* <a href="/posts/if-diagnosed-infertile-more-likely-to-have-live-birth-if-vitamin-d-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If diagnosed infertile, more likely to have live birth if Vitamin D fortification – Feb 2020">If diagnosed infertile, more likely to have live birth if Vitamin D fortification – Feb 2020</a>
+* [If diagnosed infertile, more likely to have live birth if Vitamin D fortification – Feb 2020](/posts/if-diagnosed-infertile-more-likely-to-have-live-birth-if-vitamin-d-fortification)
 
-* <a href="/posts/preconception-vitamin-d-is-great-every-extra-10-ng-associated-with-10-percent-mo-have-live-birth" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preconception vitamin D is great - every extra 10 ng associated with 10 percent more likely to have live birth – Aug 2018">Preconception vitamin D is great - every extra 10 ng associated with 10 percent more likely to have live birth – Aug 2018</a>
+* [Preconception vitamin D is great - every extra 10 ng associated with 10 percent more likely to have live birth – Aug 2018](/posts/preconception-vitamin-d-is-great-every-extra-10-ng-associated-with-10-percent-mo-have-live-birth)
 
-* <a href="/posts/women-with-more-than-minimum-vitamin-d-were-34-x-more-likely-to-achieve-pregnanc-ave-live-births" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Women with more than minimum vitamin D were 3.4 X more likely to achieve pregnancy and 1.6 X more likely to have live births – June 2017">Women with more than minimum vitamin D were 3.4 X more likely to achieve pregnancy and 1.6 X more likely to have live births – June 2017</a>
+* [Women with more than minimum vitamin D were 3.4 X more likely to achieve pregnancy and 1.6 X more likely to have live births – June 2017](/posts/women-with-more-than-minimum-vitamin-d-were-34-x-more-likely-to-achieve-pregnanc-ave-live-births)
 
 * [Assisted Reproduction – 5 studies concluded vitamin D repletion helps – Review March 2015](/posts/assisted-reproduction-5-studies-concluded-vitamin-d-repletion-helps-review)
 
@@ -74,17 +74,17 @@
 
  **Increased male Vitamin D increases fertility** 
 
-*  **<a href="/posts/birth-rates-doubled-with-vitamin-d-300000-for-infertile-men-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Birth rates doubled with Vitamin D - 300,000 for infertile men – RCT Nov 2017">Birth rates doubled with Vitamin D - 300,000 for infertile men – RCT Nov 2017</a>** 
+*  **[Birth rates doubled with Vitamin D - 300,000 for infertile men – RCT Nov 2017](/posts/birth-rates-doubled-with-vitamin-d-300000-for-infertile-men-rct)** 
 
-* <a href="/posts/higher-vitamin-d-results-in-22-percent-fewer-abnormal-sperm-mendelian-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Higher vitamin D results in 22% fewer abnormal sperm (Mendelian analysis) – May 2024">Higher vitamin D results in 22% fewer abnormal sperm (Mendelian analysis) – May 2024</a>
+* [Higher vitamin D results in 22% fewer abnormal sperm (Mendelian analysis) – May 2024](/posts/higher-vitamin-d-results-in-22-percent-fewer-abnormal-sperm-mendelian-analysis)
 
-* <a href="/posts/conception-was-37x-more-likely-if-the-male-had-a-good-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Conception was 3.7X more likely if the male had a good level of Vitamin D – July 2022">Conception was 3.7X more likely if the male had a good level of Vitamin D – July 2022</a>
+* [Conception was 3.7X more likely if the male had a good level of Vitamin D – July 2022](/posts/conception-was-37x-more-likely-if-the-male-had-a-good-level-of-vitamin-d)
 
-* <a href="/posts/far-better-sperm-in-fertility-clinic-if-more-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Far better sperm in fertility clinic if more than 30 ng of Vitamin D - June 2022">Far better sperm in fertility clinic if more than 30 ng of Vitamin D - June 2022</a>
+* [Far better sperm in fertility clinic if more than 30 ng of Vitamin D - June 2022](/posts/far-better-sperm-in-fertility-clinic-if-more-than-30-ng-of-vitamin-d)
 
-* <a href="/posts/fertility-sperm-associated-with-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fertility (sperm) associated with vitamin D – meta-analysis Sept 2019">Fertility (sperm) associated with vitamin D – meta-analysis Sept 2019</a>
+* [Fertility (sperm) associated with vitamin D – meta-analysis Sept 2019](/posts/fertility-sperm-associated-with-vitamin-d-meta-analysis)
 
-* <a href="/posts/infertility-71-percent-of-the-time-of-both-partners-had-less-than-20-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infertility - 71 percent of the time of BOTH partners had less than 20 ng of Vitamin D – Aug 2017">Infertility - 71 percent of the time of BOTH partners had less than 20 ng of Vitamin D – Aug 2017</a>
+* [Infertility - 71 percent of the time of BOTH partners had less than 20 ng of Vitamin D – Aug 2017](/posts/infertility-71-percent-of-the-time-of-both-partners-had-less-than-20-ng-of-vitamin-d)
 
 * [Male fertility 4 X higher if high Vitamin D – Nov 2015](/posts/male-fertility-4-x-higher-if-high-vitamin-d)
 
@@ -92,9 +92,9 @@
 
  **Decreased Fertility if decreased Vitamin D Receptor** 
 
-* <a href="/posts/unexplained-infertility-4x-more-likely-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Unexplained infertility 4X more likely if poor vitamin D receptor – Dec 2020">Unexplained infertility 4X more likely if poor vitamin D receptor – Dec 2020</a>
+* [Unexplained infertility 4X more likely if poor vitamin D receptor – Dec 2020](/posts/unexplained-infertility-4x-more-likely-if-poor-vitamin-d-receptor)
 
-* <a href="/posts/male-infertility-is-associated-with-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Male Infertility is associated with poor Vitamin D Receptor – July 2021">Male Infertility is associated with poor Vitamin D Receptor – July 2021</a>
+* [Male Infertility is associated with poor Vitamin D Receptor – July 2021](/posts/male-infertility-is-associated-with-poor-vitamin-d-receptor)
 
 <!-- ~tc~ end2 ~/tc~ -->
 
@@ -180,7 +180,7 @@ Doubt that this clinical trial will be successful** <span style="color:#00F;">50
 
 > Vitamin D was barely mentioned
 
-   * Full study is on VitaminDWiki  <a href="/posts/global-sperm-count-dropped-by-59-percent-in-40-years-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Global sperm count dropped by 59 percent in 40 years – meta-analysis Aug 2017">Global sperm count dropped by 59 percent in 40 years – meta-analysis Aug 2017</a>
+   * Full study is on VitaminDWiki  [Global sperm count dropped by 59 percent in 40 years – meta-analysis Aug 2017](/posts/global-sperm-count-dropped-by-59-percent-in-40-years-meta-analysis)
 
 *** <i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/endocrine-disrupting-chemicals--mercola-may-2022.pdf">Mercola Update May 2022 </a> *** [‘Countdown to zero’: Endocrine disruptors and worldwide sperm counts](https://www.mdedge.com/endocrinology/article/244726/reproductive-endocrinology/countdown-zero-endocrine-disruptors-and?utm_medium=email&sso=true&utm_content=One-third%20in%20U.S.%20had%20been%20infected%20by%20SARS-CoV-2%20through%202020&uac=138704MX&utm_source=News_MDedge_eNL_082621_F&ecd=wnl_new_210826_mdedge_8pm) MDEdge  Aug 2021]
 
@@ -188,7 +188,7 @@ Doubt that this clinical trial will be successful** <span style="color:#00F;">50
 
    * speculates on plastics, etc as endorine disrupters (no mention of Vitamin D crashing)
 
-      * <a href="/posts/4-reasons-why-vitamin-d-levels-are-crashing" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4 Reasons why Vitamin D levels are crashing">4 Reasons why Vitamin D levels are crashing</a>
+      * [4 Reasons why Vitamin D levels are crashing](/posts/4-reasons-why-vitamin-d-levels-are-crashing)
 
 ---
 

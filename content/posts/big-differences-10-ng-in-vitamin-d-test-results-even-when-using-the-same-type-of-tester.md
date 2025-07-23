@@ -50,9 +50,9 @@ PLOS ONE  10.1371/journal.pone.0135478
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/problems-with-vitamin-d-testing-chapter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Problems with Vitamin D Testing – chapter – Aug 2019">Problems with Vitamin D Testing – chapter – Aug 2019</a>
+* [Problems with Vitamin D Testing – chapter – Aug 2019](/posts/problems-with-vitamin-d-testing-chapter)
 
-* <a href="/posts/greatly-improved-vitamin-d-testing-repeatability" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Greatly improved Vitamin D testing repeatability – May 2020">Greatly improved Vitamin D testing repeatability – May 2020</a>
+* [Greatly improved Vitamin D testing repeatability – May 2020](/posts/greatly-improved-vitamin-d-testing-repeatability)
 
 * [No vitamin D test needed before supplementing (typically) – April 2014](/posts/no-vitamin-d-test-needed-before-supplementing-typically)
 
@@ -60,7 +60,7 @@ PLOS ONE  10.1371/journal.pone.0135478
 
 * [Vitamin D measurements vary with the same sample of blood – March 2014](/posts/vitamin-d-measurements-vary-with-the-same-sample-of-blood)  also by Dr. Lucas
 
-* <a href="/posts/vitamin-d-levels-observed-to-vary-by-20-percent-during-a-day" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels observed to vary by 20 percent during a day – Feb 2019">Vitamin D levels observed to vary by 20 percent during a day – Feb 2019</a>
+* [Vitamin D levels observed to vary by 20 percent during a day – Feb 2019](/posts/vitamin-d-levels-observed-to-vary-by-20-percent-during-a-day)
 
  **What is the true vitamin D value? Mean ~ 48 nmol** 
 

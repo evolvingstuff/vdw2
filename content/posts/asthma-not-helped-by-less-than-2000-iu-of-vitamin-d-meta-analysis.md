@@ -33,7 +33,7 @@ Bruno D. Riverin 1,2, Jonathon L. Maguire 3,4,5 Patricia Li 1,2  patricia.li@mcg
 
 ## See also VitaminDWiki
 
-<a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+[Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 [Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015](/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015) 
 

@@ -80,18 +80,18 @@ Conclusions: Vitamin D insufficiency was widespread in early pregnancy. Associat
 
 * [If having twins, need more vitamin D](/posts/if-having-twins-need-more-vitamin-d)
 
-* <a href="/posts/twins-reduction-in-vitamin-d-in-the-winter-or-summer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Twins reduction in vitamin D in the winter or summer - Nov 2010">Twins reduction in vitamin D in the winter or summer - Nov 2010</a>
+* [Twins reduction in vitamin D in the winter or summer - Nov 2010](/posts/twins-reduction-in-vitamin-d-in-the-winter-or-summer)
 
-* <a href="/posts/having-twins-takes-more-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1721">Having twins takes more vitamin D - May 2011</a>
+* [Having twins takes more vitamin D - May 2011](/posts/having-twins-takes-more-vitamin-d)
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/dark-skin-pregnancies-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skin pregnancies and Vitamin D - many studies">Dark skin pregnancies and Vitamin D - many studies</a>
+* [Dark skin pregnancies and Vitamin D - many studies](/posts/dark-skin-pregnancies-and-vitamin-d-many-studies)
 
 * [Antidepressants might increase infertility and pregnancy problems – Nov 2012](/posts/antidepressants-might-increase-infertility-and-pregnancy-problems)
 
-* Potential high risk if :  **<a href="/posts/dark-skin" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">dark skin</a>, <a href="/posts/twins" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1047">twins</a>, recent pregnancy, <a href="/posts/smoking" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1953">smoking</a>, [very far from equator](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&sort_mode=created_desc), <a href="/posts/obese" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">obese</a>, <a href="/posts/excessive-clothes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2105">excessive clothes</a>,** 
+* Potential high risk if :  **[dark skin](/tags/dark-skin.html), [twins](/tags/twins.html), recent pregnancy, [smoking](/tags/smoking.html), [very far from equator](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=63&sort_mode=created_desc), [obese](/tags/obese.html), [excessive clothes](/tags/excessive-clothes.html),** 
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 * [A smoker costs a company 5816 dollars every year – Aug 2013](/posts/a-smoker-costs-a-company-5816-dollars-every-year)

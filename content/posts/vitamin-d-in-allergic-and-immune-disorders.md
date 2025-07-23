@@ -80,13 +80,13 @@ WikiPedia: physicians and scientists use the term "atopy" for any IgE-mediated r
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
-* [Breathing](/categories/breathing) also includes listing of pages on Asthma, Pneunomia, RTI, TB, Allergy, COPD
+* [Breathing](/tags/breathing.html) also includes listing of pages on Asthma, Pneunomia, RTI, TB, Allergy, COPD
 
-* <a href="/posts/100-percent-of-acute-respiratory-failure-patients-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012">100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012</a>
+* [100 percent of Acute Respiratory Failure patients had low vitamin D - April 2012](/posts/100-percent-of-acute-respiratory-failure-patients-had-low-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-asthma-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and asthma – Review June 2012">Vitamin D and asthma – Review June 2012</a>
+* [Vitamin D and asthma – Review June 2012](/posts/vitamin-d-and-asthma-review)
 
 * [Vitamin D Deficiency is a Strong Predictor (4X) of Asthma in Children – Oct 2012](/posts/vitamin-d-deficiency-is-a-strong-predictor-4x-of-asthma-in-children)
 

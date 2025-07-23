@@ -51,7 +51,7 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/statins-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 444">Statins and vitamin D</a>
+* [Statins and vitamin D](/tags/statins-and-vitamin-d.html)
 
 #### See also web
 

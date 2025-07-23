@@ -52,11 +52,11 @@ Department of Gastroenterology, The Alfred, Melbourne, Australia.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 * [Non-alcoholic Fatty Liver Disease  (4 in 10 seniors) and Vitamin D ](/posts/non-alcoholic-fatty-liver-disease-4-in-10-seniors-and-vitamin-d)  **40%:**  is this a part of the reason that seniors have low vitamin D?
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a>
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d)
 
 * [Vitamin D Deficiency May Help Spread of Hepatitis B Throughout Liver – May 2013](/posts/vitamin-d-deficiency-may-help-spread-of-hepatitis-b-throughout-liver)
 

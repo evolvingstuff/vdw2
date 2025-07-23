@@ -42,7 +42,7 @@ Clin Nutr. 2016 Apr;35(2):514-21. [doi: 10.1016/j.clnu.2015.03.020.](https://doi
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012">Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012</a>
+* [Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012](/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis)
 
 * [Hospital ICU added high dose vitamin D - malpractice lawsuit costs dropped from 26 million dollars to ZERO - Oct 2016](/posts/hospital-icu-added-high-dose-vitamin-d-malpractice-lawsuit-costs-dropped-from-26-dollars-to-zero)
 
@@ -56,7 +56,7 @@ Clin Nutr. 2016 Apr;35(2):514-21. [doi: 10.1016/j.clnu.2015.03.020.](https://doi
 
 * [ICU survival increased with vitamin D single 540K IU loading dose - JAMA Sept 2014](/posts/icu-survival-increased-with-vitamin-d-single-540k-iu-loading-dose-jama)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> - can increase vitamin D levels by 40 ng in <5 days
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) - can increase vitamin D levels by 40 ng in <5 days
 
 </div>
 

@@ -59,4 +59,4 @@ Review of this study at  [MedPageToday](http://www.medpagetoday.com/MeetingCover
 
 * [2X more complications after heart surgery associated with high level of vitamin D – Jan 2013](/posts/2x-more-complications-after-heart-surgery-associated-with-high-level-of-vitamin-d)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)

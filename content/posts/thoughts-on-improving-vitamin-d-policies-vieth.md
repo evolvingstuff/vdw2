@@ -92,14 +92,14 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-how-much-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview How Much vitamin D">Overview How Much vitamin D</a> 
+* [Overview How Much vitamin D](/posts/overview-how-much-vitamin-d) 
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
-* <a href="/posts/iodine-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iodine deficiency">Iodine deficiency</a> 40% of people around the world are still deficient
+* [Iodine deficiency](/posts/iodine-deficiency) 40% of people around the world are still deficient
 
 > and more so now that people are getting less salt and salt in commercial foods rarely contains Iodine
 
-* <a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Vitamin D and Iodine are similar, and both are deficient and important to health</a> nice matrix, The Swiss have INCREASED the amount of Iodine in their salt.
+* [Vitamin D and Iodine are similar, and both are deficient and important to health](/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health) nice matrix, The Swiss have INCREASED the amount of Iodine in their salt.
 
-* <a href="/posts/obesity-epidemic-a-perfect-storm-of-deficiency-of-vitamin-d-magnesium-iodine-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012">Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012</a>
+* [Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012](/posts/obesity-epidemic-a-perfect-storm-of-deficiency-of-vitamin-d-magnesium-iodine-etc)

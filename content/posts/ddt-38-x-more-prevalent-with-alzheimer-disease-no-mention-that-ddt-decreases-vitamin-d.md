@@ -88,7 +88,7 @@ CONCLUSIONS: These data suggest that beta-HCH is associated with a diagnosis of 
 
 * [Pesticides increase risk of Cancers, Alz, ALS, Asthma, ADHD, etc. (all related to low vitamin D) – Oct 2016](/posts/pesticides-increase-risk-of-cancers-alz-als-asthma-adhd-etc-all-related-to-low-vitamin-d)
 
-* <a href="/posts/ddt-and-other-pesticides-decrease-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: DDT and other pesticides decrease vitamin D">DDT and other pesticides decrease vitamin D</a>
+* [DDT and other pesticides decrease vitamin D](/posts/ddt-and-other-pesticides-decrease-vitamin-d)
 
 * [Off topic – Roundup found to be 125X more toxic than its active ingredient (glyphosate) - April 2014](/posts/off-topic-roundup-found-to-be-125x-more-toxic-than-its-active-ingredient-glyphosate) they also studied pesticides
 

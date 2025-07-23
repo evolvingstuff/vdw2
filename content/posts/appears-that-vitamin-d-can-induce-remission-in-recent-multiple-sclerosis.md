@@ -31,7 +31,7 @@
 }
 
 
-### <a href="/posts/dr-coimbra-in-brazil" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3857">Dr. Coimbra, in Brazil</a>,
+### [Dr. Coimbra, in Brazil](/tags/dr-coimbra-in-brazil.html),
 
  **Has found that large doses of vitamin D: 20,000 to 150,000 IU/day results in remission of recent cases of Multiple Sclerosis.** 
 

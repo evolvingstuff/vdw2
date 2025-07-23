@@ -48,8 +48,8 @@ A combination of genetic and environmental factors probably plays a role in dete
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-ms-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview MS and vitamin D">Overview MS and vitamin D</a>
+* [Overview MS and vitamin D](/posts/overview-ms-and-vitamin-d)
 
 * [If low level of Vitamin A then 60 percent less likely to get MS (maybe Vitamin D not blocked)– Jan 2013](/posts/if-low-level-of-vitamin-a-then-60-percent-less-likely-to-get-ms-maybe-vitamin-d-not-blocked)
 
-* <a href="/posts/response-by-masterjohn-on-vitamin-a-thwarting-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 561">Response by Masterjohn on vitamin A thwarting vitamin D – Mar 2010</a>
+* [Response by Masterjohn on vitamin A thwarting vitamin D – Mar 2010](/posts/response-by-masterjohn-on-vitamin-a-thwarting-vitamin-d)

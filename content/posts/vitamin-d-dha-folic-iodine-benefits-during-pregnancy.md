@@ -103,7 +103,7 @@ Conclusion: Maternal supplementation within recommended safe intakes in populati
 
 ## See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Vitamin D and Iodine are similar, and both are deficient and important to health</a>
+* [Vitamin D and Iodine are similar, and both are deficient and important to health](/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health)
 
 * [Iodine added during pregnancy reduces preterm births, increases IQ. Etc.](/posts/iodine-added-during-pregnancy-reduces-preterm-births-increases-iq-etc)
 

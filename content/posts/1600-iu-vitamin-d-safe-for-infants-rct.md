@@ -77,6 +77,6 @@ More extensive and longer intervention studies are necessary to assess long-term
 
 * [Breastfed Infants in Iowa got very little vitamin D, especially if winter or dark skin – July 2013](/posts/breastfed-infants-in-iowa-got-very-little-vitamin-d-especially-if-winter-or-dark-skin)
 
-* <a href="/posts/sunlight-for-babies-us-govt-1933" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunlight for babies – US Govt 1933">Sunlight for babies – US Govt 1933</a> has the following cover
+* [Sunlight for babies – US Govt 1933](/posts/sunlight-for-babies-us-govt-1933) has the following cover
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/sunlight-for-babies-1931.jpg" alt="image">

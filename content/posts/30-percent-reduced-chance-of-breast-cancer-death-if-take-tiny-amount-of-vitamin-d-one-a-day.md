@@ -47,10 +47,10 @@ PMID:     24104882
 
 * [Vitamin D Might Be Able to Slash Your Breast Cancer Risk by 90 Percent - Baggerly, Mercola: May 2013](/posts/vitamin-d-might-be-able-to-slash-your-breast-cancer-risk-by-90-percent-baggerly-mercola)
 
-* <a href="/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012">85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012</a>
+* [85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012](/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng)
 
 * [6X less Breast Cancer if have even minimal vitamin D – July 2013](/posts/6x-less-breast-cancer-if-have-even-minimal-vitamin-d)
 
-* <a href="/posts/disease-reduction-with-increased-levels-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4210">Disease reduction with increased levels of vitamin D</a> has the following chart
+* [Disease reduction with increased levels of vitamin D](/tags/disease-reduction-with-increased-levels-of-vitamin-d.html) has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

@@ -57,4 +57,4 @@ Conclusion: Vitamin D may be a positive regulator of AMH production in adults, a
 
 #### See also VitaminDWiki
 
-* <a href="/posts/fertility-marker-anti-mullerian-hormone-improved-in-a-week-by-a-single-dose-to-5-f-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fertility marker (Anti-Müllerian Hormone) improved in a week by a single dose to 50,000 IU of vitamin D – RCT July 2017">Fertility marker (Anti-Müllerian Hormone) improved in a week by a single dose to 50,000 IU of vitamin D – RCT July 2017</a>
+* [Fertility marker (Anti-Müllerian Hormone) improved in a week by a single dose to 50,000 IU of vitamin D – RCT July 2017](/posts/fertility-marker-anti-mullerian-hormone-improved-in-a-week-by-a-single-dose-to-5-f-vitamin-d-rct)

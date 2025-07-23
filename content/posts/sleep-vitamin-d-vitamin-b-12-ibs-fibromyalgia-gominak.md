@@ -13,9 +13,7 @@
     ],
     "tags": [
         "Gut",
-        "Sleep",
-        "headache",
-        "pain"
+        "Sleep"
     ]
 }
 
@@ -28,7 +26,7 @@ which were shown in a [video](http://www.drgominak.com/videos.html)
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/gorminak---2015.pdf">Download the PDF from VitaminDWiki</a>** 
 
-Note: [She also has some interesting thought on headaches](/categories/headache)
+Note: [She also has some interesting thought on headaches](/tags/she-also-has-some-interesting-thought-on-headaches.html)
 
 ### A few of the slides
 

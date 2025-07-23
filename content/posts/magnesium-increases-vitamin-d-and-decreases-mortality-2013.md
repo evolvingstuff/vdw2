@@ -91,6 +91,6 @@ Our preliminary findings indicate it is  **possible that magnesium intake alone 
 
 #### See also in VitaminDWiki
 
-* <a href="/posts/magnesium-is-vital-to-vitamin-d-in-4-places-maybe-8" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium is vital to Vitamin D in 4 places (maybe 8) – March 2018">Magnesium is vital to Vitamin D in 4 places (maybe 8) – March 2018</a>
+* [Magnesium is vital to Vitamin D in 4 places (maybe 8) – March 2018](/posts/magnesium-is-vital-to-vitamin-d-in-4-places-maybe-8)
 
-* <a href="/posts/water-produced-by-reverse-osmosis-removes-magnesium-and-causes-health-problems-if-not-supplemented" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Water produced by reverse osmosis removes Magnesium and causes health problems if not supplemented – March 2023">Water produced by reverse osmosis removes Magnesium and causes health problems if not supplemented – March 2023</a>
+* [Water produced by reverse osmosis removes Magnesium and causes health problems if not supplemented – March 2023](/posts/water-produced-by-reverse-osmosis-removes-magnesium-and-causes-health-problems-if-not-supplemented)

@@ -65,7 +65,7 @@ Lukasz Pera, M.Sc., Department of Biochemistry and Clinical Chemistry, Medical U
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a>
+* [Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies)
 
 ---
 

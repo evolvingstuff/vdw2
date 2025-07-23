@@ -27,12 +27,12 @@
 
 ### [Cholesterol Drugs Linked To Eye Damage, JAMA Study Confirms Anew](http://www.greenmedinfo.com/blog/cholesterol-drugs-linked-eye-damage-jama-study-confirms-anew-0) GreenMedInfo
 
-<a href="/posts/statins-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statins and Vitamin D - many studies">Statins and Vitamin D - many studies</a> some Statins increase vitamin D, some decrease Vitamin D
+[Statins and Vitamin D - many studies](/posts/statins-and-vitamin-d-many-studies) some Statins increase vitamin D, some decrease Vitamin D
 
-<a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> diabetes reduces vitamin D and diabetics also take statins
+[Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d) diabetes reduces vitamin D and diabetics also take statins
 
 [Association of Statin Use With Cataracts: A Propensity Score-Matched Analysis](http://www.ncbi.nlm.nih.gov/pubmed/24052188) 27% increase, JAMA, Sept 2013
 
 [Search VitaminDWiki for Statins AND Diabetes](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=diabetes+statin&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1760 as of Sept 2013
 
-<a href="/posts/statin-use-increased-probability-of-diabetes-in-women-by-48-percent-perhaps-via-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Statin use increased probability of diabetes in women by 48 percent – perhaps via vitamin D Jan 2012">Statin use increased probability of diabetes in women by 48 percent – perhaps via vitamin D Jan 2012</a>
+[Statin use increased probability of diabetes in women by 48 percent – perhaps via vitamin D Jan 2012](/posts/statin-use-increased-probability-of-diabetes-in-women-by-48-percent-perhaps-via-vitamin-d)

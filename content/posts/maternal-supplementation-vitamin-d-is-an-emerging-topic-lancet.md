@@ -50,7 +50,7 @@ Maternal undernutrition contributes to 800 000 neonatal deaths annually through 
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
 * [Prenatal Vitamin D (35,000 weekly, 3rd trimester) resulted in 1 cm taller infants at age 1 year – RCT Aug 2013](/posts/prenatal-vitamin-d-35000-weekly-3rd-trimester-resulted-in-1-cm-taller-infants-at-age-1-year-rct)
 

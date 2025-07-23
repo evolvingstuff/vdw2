@@ -72,6 +72,6 @@ PMID: 26049767
 
 * [Links between Vitamin D Deficiency and Cardiovascular Diseases – April 2015](/posts/links-between-vitamin-d-deficiency-and-cardiovascular-diseases)
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Beneficial effects of UV radiation other than via vitamin D production – June 2012">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
 * [Sunny side of the hill is the healthiest – 400BC](/posts/sunny-side-of-the-hill-is-the-healthiest-400bc) (the oldest medical reference on VitaminDWiki)

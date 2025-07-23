@@ -39,4 +39,4 @@ PMID: 22569913
 
 ### Doubt that Dengue avoids the <span style="color:#00F;">Adaptive</span> immune system
 
-<a href="/posts/dengue-fever-8x-higher-risk-for-getting-worse-if-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017">Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017</a>
+[Dengue fever - 8X higher risk for getting worse if low vitamin D – Sept 2017](/posts/dengue-fever-8x-higher-risk-for-getting-worse-if-low-vitamin-d)

@@ -61,24 +61,24 @@ Kind regards, Ted, Jan 2014
 
 ### See also VitaminDWiki
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Search VitaminDWiki for remyelination](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=remyelinization&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 7 items as of Jan 2014
 
 * [Appears that Vitamin D can induce remission in recent Multiple Sclerosis](/posts/appears-that-vitamin-d-can-induce-remission-in-recent-multiple-sclerosis)  apparent remyelination for Multiple Sclerosis after a few years  at 150 ng
 
-* <a href="/posts/vitamin-d-reduces-hair-loss-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces hair loss - many studies">Vitamin D reduces hair loss - many studies</a>
+* [Vitamin D reduces hair loss - many studies](/posts/vitamin-d-reduces-hair-loss-many-studies)
 
-* <a href="/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hearing Loss appears to be prevented and treated with vitamin D">Hearing Loss appears to be prevented and treated with vitamin D</a>
+* [Hearing Loss appears to be prevented and treated with vitamin D](/posts/hearing-loss-appears-to-be-prevented-and-treated-with-vitamin-d)
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a> seniors need more vitamin D: senior skin produces 1/4 as much, gut does not get as much from supplements/food
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d) seniors need more vitamin D: senior skin produces 1/4 as much, gut does not get as much from supplements/food
 
-* <a href="/posts/low-cost-cofactors-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low cost cofactors for vitamin D">Low cost cofactors for vitamin D</a> very simply reduce to 500 Calcium, increase to 500 Mg, and increase to 500 ug Vitamin K2
+* [Low cost cofactors for vitamin D](/posts/low-cost-cofactors-for-vitamin-d) very simply reduce to 500 Calcium, increase to 500 Mg, and increase to 500 ug Vitamin K2
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> Ted would probably not have waited for 10 months for the benefit if he had taken a loading dose intitally
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) Ted would probably not have waited for 10 months for the benefit if he had taken a loading dose intitally
 
 > to get his vitamin D levels to 100 ng as soon as possible. Perhaps 10 doses of 50,000 IU every 2nd day
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> 20,000 IU for > 2 years may cause a problem if not balance cofactors.  See the following chart
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) 20,000 IU for > 2 years may cause a problem if not balance cofactors.  See the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">

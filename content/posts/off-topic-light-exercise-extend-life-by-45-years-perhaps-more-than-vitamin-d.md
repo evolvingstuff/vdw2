@@ -89,11 +89,11 @@ Leisure time physical activity level and hazard ratios for mortality and gains i
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1259">Overview Sports and Vitamin D</a>
+* [Overview Sports and Vitamin D](/posts/overview-sports-and-vitamin-d)
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1825">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)
 
-* <a href="/posts/should-increase-life-expectancy-by-2-years-if-double-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1803">Should increase life expectancy by 2 years if double vitamin D levels – July 2011</a>
+* [Should increase life expectancy by 2 years if double vitamin D levels – July 2011](/tags/should-increase-life-expectancy-by-2-years-if-double-vitamin-d-levels-july-2011.html)
 
 > And perhaps add 4 years if have much higher level of vitamin D
 

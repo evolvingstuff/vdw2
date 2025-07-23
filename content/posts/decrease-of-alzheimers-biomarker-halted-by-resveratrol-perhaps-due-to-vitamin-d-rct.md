@@ -51,13 +51,13 @@ Classification of evidence: This study provides Class II evidence that for patie
 
 ## See also VitaminDWiki
 
-* <a href="/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol improves health (Vitamin D receptor, etc.) - many studies ">Resveratrol improves health (Vitamin D receptor, etc.) - many studies </a>
+* [Resveratrol improves health (Vitamin D receptor, etc.) - many studies ](/posts/resveratrol-improves-health-vitamin-d-receptor-etc-many-studies)
 
 * [Resveratol helps vitamin D bind to cells](/posts/resveratol-helps-vitamin-d-bind-to-cells)
 
 * [Immune system improvement by vitamin D is boosted by resveratrol and blueberries – Sept 2013](/posts/immune-system-improvement-by-vitamin-d-is-boosted-by-resveratrol-and-blueberries)
 
-* <a href="/posts/resveratrol-gets-vitamin-d-to-cells-even-if-poor-vitamin-d-receptor" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Resveratrol gets vitamin D to cells even if poor vitamin D receptor">Resveratrol gets vitamin D to cells even if poor vitamin D receptor</a>
+* [Resveratrol gets vitamin D to cells even if poor vitamin D receptor](/posts/resveratrol-gets-vitamin-d-to-cells-even-if-poor-vitamin-d-receptor)
 
 * Note: Resveratrol helps vitamin D get to cells - in a way which is not measured by Vitamin D tests
 

@@ -72,11 +72,11 @@ PMID: 22776787
 
 ### We hope, but do not expect, that this study did not consider studies with vitamin D2 as well as vitamin D3
 
-<a href="/posts/vitamin-d2-has-far-less-benefit-than-vitamin-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">Vitamin D2 has far less benefit than Vitamin D3</a>
+[Vitamin D2 has far less benefit than Vitamin D3](/tags/vitamin-d2-has-far-less-benefit-than-vitamin-d3.html)
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Type 1 Diabetes associated with low vitamin D, especially in dark skinned youths – Dec 2012](/posts/type-1-diabetes-associated-with-low-vitamin-d-especially-in-dark-skinned-youths)
 

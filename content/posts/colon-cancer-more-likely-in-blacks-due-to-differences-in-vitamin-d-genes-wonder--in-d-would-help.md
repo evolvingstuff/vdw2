@@ -67,8 +67,8 @@ Our results strongly suggest that genetic variation in vitamin D-related genes c
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a>
+* [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d)
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/dark-skinned-people-higher-risk-of-prostate-colon-and-breast-cancers-yet-again" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dark skinned people: higher risk of Prostate, Colon, and Breast Cancers (yet again) - April 2024">Dark skinned people: higher risk of Prostate, Colon, and Breast Cancers (yet again) - April 2024</a>
+* [Dark skinned people: higher risk of Prostate, Colon, and Breast Cancers (yet again) - April 2024](/posts/dark-skinned-people-higher-risk-of-prostate-colon-and-breast-cancers-yet-again)

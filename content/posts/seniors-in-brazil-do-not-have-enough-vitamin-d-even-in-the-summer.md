@@ -55,14 +55,14 @@ Conclusion: We found a high prevalence of vitamin D deficiency among elderly men
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-levels-in-the-middle-east-very-low-especially-in-summer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D levels in the Middle East: very low, especially in summer – June 2012">Vitamin D levels in the Middle East: very low, especially in summer – June 2012</a>
+* [Vitamin D levels in the Middle East: very low, especially in summer – June 2012](/posts/vitamin-d-levels-in-the-middle-east-very-low-especially-in-summer)
 
-* <a href="/posts/review-of-vitamin-d-deficiencies-in-developing-countries" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of Vitamin D Deficiencies in developing countries - Oct 2011">Review of Vitamin D Deficiencies in developing countries - Oct 2011</a>
+* [Review of Vitamin D Deficiencies in developing countries - Oct 2011](/posts/review-of-vitamin-d-deficiencies-in-developing-countries)
 
 * [Seniors getting noon sun had 88 percent chance of having at least 30 ng of vitamin D – Dec 2012](/posts/seniors-getting-noon-sun-had-88-percent-chance-of-having-at-least-30-ng-of-vitamin-d)
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a> seniors get about 1/4 as much vitamin D from same time in the sun as do the youth
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d) seniors get about 1/4 as much vitamin D from same time in the sun as do the youth
 
 * [Vitamin D levels in healthy populations around the globe – Aug 2012](/posts/vitamin-d-levels-in-healthy-populations-around-the-globe) a database, which includes Brazil

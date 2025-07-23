@@ -44,4 +44,4 @@ Note: most Swedish companies were already doing this, but now it may become mand
 
 * [Vitamin D home fortification- don't wait 100 years for your govt](/posts/vitamin-d-home-fortification-dont-wait-100-years-for-your-govt)
 
-* <a href="/posts/improved-health-due-to-vitamin-d-fortification-in-finland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Improved health due to vitamin D fortification in Finland">Improved health due to vitamin D fortification in Finland</a>  which is near Sweden
+* [Improved health due to vitamin D fortification in Finland](/posts/improved-health-due-to-vitamin-d-fortification-in-finland)  which is near Sweden

@@ -42,9 +42,9 @@
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-parkinsons-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Parkinson's and Vitamin D">Overview Parkinson's and Vitamin D</a>
+* [Overview Parkinson's and Vitamin D](/posts/overview-parkinsons-and-vitamin-d)
 
-* <a href="/posts/parkinsons-patients-50x-less-likely-to-get-even-a-little-sun-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Parkinson’s patients 50X less likely to get even a little sun– meta-analysis Jan 2019">Parkinson’s patients 50X less likely to get even a little sun– meta-analysis Jan 2019</a>
+* [Parkinson’s patients 50X less likely to get even a little sun– meta-analysis Jan 2019](/posts/parkinsons-patients-50x-less-likely-to-get-even-a-little-sun-meta-analysis)
 
 * [The Shadow Rule – you make more Vitamin D when you are taller than your shadow – 1992](/posts/the-shadow-rule-you-make-more-vitamin-d-when-you-are-taller-than-your-shadow-1992)
 

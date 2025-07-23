@@ -55,15 +55,15 @@ PMID: 22749174
 
 # See also VitaminDWiki
 
-* <a href="/posts/virtually-all-young-koreans-had-less-than-30-ng-of-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2516">Virtually all young Koreans had less than 30 ng of vitamin D – 2012</a>
+* [Virtually all young Koreans had less than 30 ng of vitamin D – 2012](/posts/virtually-all-young-koreans-had-less-than-30-ng-of-vitamin-d-2012)
 
-* <a href="/posts/teen-obesity-strongly-associated-with-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2649">Teen obesity strongly associated with vitamin D deficiency – April 2012</a>
+* [Teen obesity strongly associated with vitamin D deficiency – April 2012](/posts/teen-obesity-strongly-associated-with-vitamin-d-deficiency)
 
-* <a href="/posts/obese-teens-needed-4000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2140">Obese teens needed 4000 IU of vitamin D - Nov 2011</a>
+* [Obese teens needed 4000 IU of vitamin D - Nov 2011](/posts/obese-teens-needed-4000-iu-of-vitamin-d)
 
 * [All items in category Obesity and vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=19&sort_mode=created_desc) 124 items as of July 2012
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [3X more abdominal obesity among Korean children having low vitamin D – July 2012](/posts/3x-more-abdominal-obesity-among-korean-children-having-low-vitamin-d) from same department in Korea
 

@@ -73,7 +73,7 @@ PMID:     24304709
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 * [Search VitaminDWiki for Hypertension and Night](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=hypertension+night&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 84 items Dec 2013
 

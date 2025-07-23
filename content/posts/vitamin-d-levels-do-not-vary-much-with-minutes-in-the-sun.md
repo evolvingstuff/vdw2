@@ -48,11 +48,11 @@
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
-#### <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a> has the following
+#### [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response) has the following
 
 <img src="/attachments/d3.mock.jpg" alt="image">))
 
-#### <a href="/posts/vitamin-d-response-800-iu-20-ng-3200-iu-45-ng-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012">Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012</a> has the following
+#### [Vitamin D response: 800 IU: 20 ng, 3200 IU: 45 ng – RCT March 2012](/posts/vitamin-d-response-800-iu-20-ng-3200-iu-45-ng-rct) has the following
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/rct-dose-response.jpg" alt="image">
 

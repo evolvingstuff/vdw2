@@ -111,11 +111,11 @@ Conclusions Chronic haemodialysis patients have high levels of inactive MGP, pos
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-k-reduces-calcification-reported-yet-again" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin K reduces calcification (reported yet again) – Feb 2019">Vitamin K reduces calcification (reported yet again) – Feb 2019</a>
+* [Vitamin K reduces calcification (reported yet again) – Feb 2019](/posts/vitamin-k-reduces-calcification-reported-yet-again)
 
 * [Increased Vitamin K2 reduces the problems of excess Calcium – Nov 2013](/posts/increased-vitamin-k2-reduces-the-problems-of-excess-calcium)
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Vertebral fracture 3X more likely with aortic calcification – Vitamins D3 and K2 Sept 2012](/posts/vertebral-fracture-3x-more-likely-with-aortic-calcification-vitamins-d3-and-k2)
 

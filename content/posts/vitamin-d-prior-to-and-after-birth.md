@@ -45,15 +45,15 @@
 
 * [Just mark your calendar for vitamin D days](/posts/just-mark-your-calendar-for-vitamin-d-days)
 
-* <a href="/posts/how-often-should-i-take-50000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3188">How often should I take 50000 IU of vitamin D</a>
+* [How often should I take 50000 IU of vitamin D](/tags/how-often-should-i-take-50000-iu-of-vitamin-d.html)
 
-* <a href="/posts/overview-loading-doses-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 326">Overview Loading Doses of vitamin D</a>
+* [Overview Loading Doses of vitamin D](/tags/overview-loading-doses-of-vitamin-d.html)
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/overview-pregnancy-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Overview Pregnancy, Dark Skin, and vitamin D</a>
+* [Overview Pregnancy, Dark Skin, and vitamin D](/tags/overview-pregnancy-dark-skin-and-vitamin-d.html)
 
-* <a href="/posts/people-used-to-have-enough-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1586">People used to have enough vitamin D</a>
+* [People used to have enough vitamin D](/tags/people-used-to-have-enough-vitamin-d.html)
 
 > But during the past 40 or so years supplementation has been typically required
 

@@ -60,7 +60,7 @@ This study documents the benefits of a real-world preventive health program to H
 
 * [Increased Quality of Life with increased vitamin D – April 2014](/posts/increased-quality-of-life-with-increased-vitamin-d) some of the same authors, 1 year previous
 
-* [Quality of Life](/categories/quality-of-life) many articles
+* [Quality of Life](/posts/quality-of-life) many articles
 
 * [400,000 IU of vitamin D reduced adult pain and improved quality of life – March 2014](/posts/400000-iu-of-vitamin-d-reduced-adult-pain-and-improved-quality-of-life)
 

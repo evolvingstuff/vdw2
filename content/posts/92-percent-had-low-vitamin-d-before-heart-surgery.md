@@ -57,7 +57,7 @@ Note by VitaminDWiki: One surgeon refuses optional surgery on patients who have 
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Vitamin D is not a cardiovascular fad like Vitamins C, E, Folic Acid, selenium, beta-caroteen, etc. – Circulation Nov 2013](/posts/vitamin-d-is-not-a-cardiovascular-fad-like-vitamins-c-e-folic-acid-selenium-beta-etc-circulation)
 
@@ -71,13 +71,13 @@ Note by VitaminDWiki: One surgeon refuses optional surgery on patients who have 
 
 * [Why is too much vitamin D bad for bad hearts – Jan 2014](/posts/why-is-too-much-vitamin-d-bad-for-bad-hearts)  “might be bad”
 
-* <a href="/posts/96-percent-of-heart-failure-patients-had-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1520">96 % of heart failure patients had less than 30 ng of vitamin D – March 2011</a>
+* [96 % of heart failure patients had less than 30 ng of vitamin D – March 2011](/posts/96-percent-of-heart-failure-patients-had-less-than-30-ng-of-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
-* <a href="/posts/overview-cholesterol-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cholesterol and vitamin D">Overview Cholesterol and vitamin D</a>
+* [Overview Cholesterol and vitamin D](/posts/overview-cholesterol-and-vitamin-d)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
 </div>
 

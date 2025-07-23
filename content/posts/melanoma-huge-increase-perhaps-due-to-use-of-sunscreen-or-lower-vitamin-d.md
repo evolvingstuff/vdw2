@@ -47,7 +47,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/sunscreen-spf-30-slightly-increased-the-vitamin-d-from-uvb-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Sunscreen (SPF-30) slightly increased the vitamin D from UVB – RCT Jan 2019">Sunscreen (SPF-30) slightly increased the vitamin D from UVB – RCT Jan 2019</a>
+* [Sunscreen (SPF-30) slightly increased the vitamin D from UVB – RCT Jan 2019](/posts/sunscreen-spf-30-slightly-increased-the-vitamin-d-from-uvb-rct)
 
 * [Vitamin D protects DNA against UV skin damage – 5 studies 2012-2013](/posts/vitamin-d-protects-dna-against-uv-skin-damage-5-studies-2012-2013)
 
@@ -55,7 +55,7 @@
 
 * [UV and Melanoma: are they related – 2013](/posts/uv-and-melanoma-are-they-related-2013) list of reasons for and against the relationship
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a> which has the following chart
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d) which has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

@@ -48,14 +48,14 @@ Copyright © 2012 S. Karger AG, Basel.  PMID: 23128469
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1425">Overview Vitamin D Dose-Response</a>
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response)
 
-* <a href="/posts/how-to-2x-the-response-to-vitamin-d-supplements" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">How to 2X the response to vitamin D supplements</a>
+* [How to 2X the response to vitamin D supplements](/tags/how-to-2x-the-response-to-vitamin-d-supplements.html)
 
-* <a href="/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2946">Obese need 2X as much vitamin D to get the same response – June 2012</a>
+* [Obese need 2X as much vitamin D to get the same response – June 2012](/posts/obese-need-2x-as-much-vitamin-d-to-get-the-same-response)
 
-* <a href="/posts/400-iu-of-vitamin-d-is-just-diluted-by-weight-and-not-stored-in-fat" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2330">400 IU of Vitamin D is just diluted by weight, and not stored in fat – Jan 2012</a>
+* [400 IU of Vitamin D is just diluted by weight, and not stored in fat – Jan 2012](/posts/400-iu-of-vitamin-d-is-just-diluted-by-weight-and-not-stored-in-fat)
 
-* <a href="/posts/obese-teens-needed-4000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2140">Obese teens needed 4000 IU of vitamin D - Nov 2011</a>
+* [Obese teens needed 4000 IU of vitamin D - Nov 2011](/posts/obese-teens-needed-4000-iu-of-vitamin-d)

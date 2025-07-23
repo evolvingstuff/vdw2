@@ -51,7 +51,7 @@ Conclusion: ineffective prophylaxis of rickets with oral vitamin D supplementati
 
 * [Rickets can be suspected below 36 ng of vitamin D – Oct 2012](/posts/rickets-can-be-suspected-below-36-ng-of-vitamin-d)
 
-* <a href="/posts/russian-children-need-2000-4000-iu-of-vitamin-d-to-get-most-above-40-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Russian children need 2,000-4,000 IU of Vitamin D to get most above 40 ng - Dec 2017">Russian children need 2,000-4,000 IU of Vitamin D to get most above 40 ng - Dec 2017</a>
+* [Russian children need 2,000-4,000 IU of Vitamin D to get most above 40 ng - Dec 2017](/posts/russian-children-need-2000-4000-iu-of-vitamin-d-to-get-most-above-40-ng)
 
 #### See also web
 

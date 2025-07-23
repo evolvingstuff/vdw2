@@ -31,7 +31,7 @@
 
  **Update May 2018** 
 
-<a href="/posts/low-cost-vitamin-d-testers-two-yes-no-tests-for-11-dollars-2024" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024">Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024</a>
+[Low-cost Vitamin D testers (two yes-no tests for 11 dollars) - 2024](/posts/low-cost-vitamin-d-testers-two-yes-no-tests-for-11-dollars-2024)
 
 Uses the CUE as a read-out device
 
@@ -87,7 +87,7 @@ Uses the CUE as a read-out device
 
 * [Instant vitamin D Yes-No test now available](/posts/instant-vitamin-d-yes-no-test-now-available) uses microfluidics as apparently does Cue
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a>  yes/no test of being very deficient (< 15 ng?)
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency)  yes/no test of being very deficient (< 15 ng?)
 
 * [Vitamin D Testers coming soon (low cost and easy) - June 2014](/posts/vitamin-d-testers-coming-soon-low-cost-and-easy)
 

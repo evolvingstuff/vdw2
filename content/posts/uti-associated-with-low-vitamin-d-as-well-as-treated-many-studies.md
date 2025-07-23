@@ -24,9 +24,7 @@
         "child",
         "childhood viruses",
         "diabetes",
-        "diabetes and vitamin d receptor",
         "dosage",
-        "genetics",
         "high dose",
         "infection",
         "influenza",
@@ -36,11 +34,9 @@
         "therapeutic intervention",
         "urinary tract infection",
         "virus",
-        "viruses and vitamin d receptor",
         "vitamin d",
         "vitamin d and viruses",
-        "vitamin d blood test",
-        "vitamin d receptor"
+        "vitamin d blood test"
     ]
 }
 
@@ -77,7 +73,7 @@ The existing literature supports an association between low levels of serum vita
 
 #### Urinary Tract Infection 4.8 X more likely in children with low Vitamin D - meta-analysis - Feb 2019
 
- **<a href="/posts/urinary-tract-infection-in-children-48-x-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Urinary Tract Infection in children 4.8 X more likely if low Vitamin D – meta-analysis Feb 2019">Urinary Tract Infection in children 4.8 X more likely if low Vitamin D – meta-analysis Feb 2019</a>  in VitaminDWiki** 
+ **[Urinary Tract Infection in children 4.8 X more likely if low Vitamin D – meta-analysis Feb 2019](/posts/urinary-tract-infection-in-children-48-x-more-likely-if-low-vitamin-d-meta-analysis)  in VitaminDWiki** 
 
 ---
 
@@ -149,7 +145,7 @@ patient groups"
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/resistance-increasing.jpg" alt="image" width="400">
 
- **Note: <a href="/posts/leprosy-low-vitamin-d-and-poor-vitamin-d-receptor-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Leprosy, low Vitamin D and poor Vitamin D Receptor - many studies">Leprosy</a> is also becoming (2019) resistant to antibiotics.  Current medical practice is to use 3 types of antibiotics concurrently, and that sometimes is not enough. Fortunately, Vitamin D is working wonders** 
+ **Note: [Leprosy](/posts/leprosy-low-vitamin-d-and-poor-vitamin-d-receptor-many-studies) is also becoming (2019) resistant to antibiotics.  Current medical practice is to use 3 types of antibiotics concurrently, and that sometimes is not enough. Fortunately, Vitamin D is working wonders** 
 
 ---
 

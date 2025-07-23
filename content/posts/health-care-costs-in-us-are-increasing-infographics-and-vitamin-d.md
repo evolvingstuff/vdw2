@@ -42,11 +42,11 @@
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/hc-spend-1.jpg" alt="image">
 
- **Note: <a href="/posts/75-percent-reduction-in-clinic-visits-after-all-8000-patients-had-80-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5294">75% reduction in clinic visits after all (8,000) patients had > 80 ng of Vitamin D</a>** 
+ **Note: [75% reduction in clinic visits after all (8,000) patients had > 80 ng of Vitamin D](/tags/75-reduction-in-clinic-visits-after-all-8000-patients-had-80-ng-of-vitamin-d.html)** 
 
 In addition to Vitamin D, the clinic also sometimes prescribed Magnesiuim, Iodine, or Vitamin C
 
-No indication of associated cost reductions due to Vitamin D for hospitals, drugs, [dental](/categories/dental). [Emergency](/categories/trauma-and-surgery), etc,
+No indication of associated cost reductions due to Vitamin D for hospitals, drugs, [dental](/tags/dental.html). [Emergency](/posts/trauma-and-surgery), etc,
 
  **[Click Here](http://jamanetwork.com/learning/interactive/13918598) for interactive version of the above chart and 50 others** 
 
@@ -62,7 +62,7 @@ No indication of associated cost reductions due to Vitamin D for hospitals, drug
 
 * [Those with HIV who doubled their vitamin D levels reduced their chance of death by 47 percent – Oct 2013](/posts/those-with-hiv-who-doubled-their-vitamin-d-levels-reduced-their-chance-of-death-by-47-percent)
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview HIV and vitamin D">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 #### See RTI (#2) in VitaminDWiki
 
@@ -92,7 +92,7 @@ No indication of associated cost reductions due to Vitamin D for hospitals, drug
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/45-and-up.jpg" alt="image" width="900">
 
- **<a href="/posts/insulin-prices-and-usage-are-soaring" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Insulin prices and usage are soaring">Insulin prices and usage are soaring</a>** 
+ **[Insulin prices and usage are soaring](/posts/insulin-prices-and-usage-are-soaring)** 
 
 ---
 

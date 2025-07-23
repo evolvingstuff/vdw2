@@ -81,7 +81,7 @@ There was an 18% lower risk in the chelation group – and for about every 25 pa
 
 * [Heart problems such as Afib related to little Magnesium, Omega-3, Vitamin D getting to tissues](/posts/heart-problems-such-as-afib-related-to-little-magnesium-omega-3-vitamin-d-getting-to-tissues)
 
-* <a href="/posts/baby-aspirin-reduces-heart-problems-vitamin-d-much-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Baby aspirin reduces heart problems - Vitamin D much better– Jan 2012">Baby aspirin reduces heart problems - Vitamin D much better– Jan 2012</a>
+* [Baby aspirin reduces heart problems - Vitamin D much better– Jan 2012](/posts/baby-aspirin-reduces-heart-problems-vitamin-d-much-better)
 
 > 20% less likely to have a subsequent nonfatal heart attack.: about the same as EDTA, at probably 1% of the cost
 

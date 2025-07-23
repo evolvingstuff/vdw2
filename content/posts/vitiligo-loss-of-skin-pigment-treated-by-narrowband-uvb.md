@@ -106,21 +106,21 @@ The correlation between mean 25(OH)D serum levels and VASI before and after inte
 
 #### See also VitaminDWiki
 
-* <a href="/posts/spotty-skin-coloring-vitiligo-treated-by-augmenting-topical-tacrolimus-with-oral-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spotty skin coloring (vitiligo) treated by augmenting topical tacrolimus with oral Vitamin D – Oct 2016">Spotty skin coloring (vitiligo) treated by augmenting topical tacrolimus with oral Vitamin D – Oct 2016</a>
+* [Spotty skin coloring (vitiligo) treated by augmenting topical tacrolimus with oral Vitamin D – Oct 2016](/posts/spotty-skin-coloring-vitiligo-treated-by-augmenting-topical-tacrolimus-with-oral-vitamin-d)
 
-* <a href="/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Beneficial effects of UV radiation other than via vitamin D production – June 2012">Beneficial effects of UV radiation other than via vitamin D production – June 2012</a>
+* [Beneficial effects of UV radiation other than via vitamin D production – June 2012](/posts/beneficial-effects-of-uv-radiation-other-than-via-vitamin-d-production)
 
 * [Skin benefits from vitamin D – major overview Feb 2014](/posts/skin-benefits-from-vitamin-d-major-overview)
 
 * [Vitiligo is associated with low vitamin D (nothing about treatment) – meta-analysis March 2016](/posts/vitiligo-is-associated-with-low-vitamin-d-nothing-about-treatment-meta-analysis)
 
-* <a href="/posts/vitamin-d-receptor-in-vitiligo-skin-activated-by-uvb" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Receptor in vitiligo skin activated by UVB – May 2018">Vitamin D Receptor in vitiligo skin activated by UVB – May 2018</a>
+* [Vitamin D Receptor in vitiligo skin activated by UVB – May 2018](/posts/vitamin-d-receptor-in-vitiligo-skin-activated-by-uvb)
 
 * [35,000 IU vitamin D daily for 6 months helped ALL psoriasis suffers (106 ng) – Brazil March 2013](/posts/35000-iu-vitamin-d-daily-for-6-months-helped-all-psoriasis-suffers-106-ng-brazil)
 
 > Many Vitiligo patients helped by  **Vitamin D** 
 
-* <a href="/posts/ultraviolet-light-which-produces-vitamin-d-decreased-the-use-of-psoriasis-drugs-for-a-year" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ultraviolet light (which produces vitamin D) decreased the use of psoriasis drugs for a year – Aug 2017">Ultraviolet light (which produces vitamin D) decreased the use of psoriasis drugs for a year – Aug 2017</a>
+* [Ultraviolet light (which produces vitamin D) decreased the use of psoriasis drugs for a year – Aug 2017](/posts/ultraviolet-light-which-produces-vitamin-d-decreased-the-use-of-psoriasis-drugs-for-a-year)
 
 Two out of 16 vitiligo patients showed no repigmentation of the affected areas;
 

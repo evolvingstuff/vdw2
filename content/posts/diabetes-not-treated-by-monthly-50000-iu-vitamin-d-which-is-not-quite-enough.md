@@ -43,7 +43,7 @@
 
 #### 1 every ~1.8 weeks
 
-* <a href="/posts/140000-iu-vitamin-d-monthly-reduced-probability-of-diabetes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 140,000 IU vitamin D monthly reduced probability of diabetes – Nov 2011">140,000 IU vitamin D monthly reduced probability of diabetes – Nov 2011</a>
+* [140,000 IU vitamin D monthly reduced probability of diabetes – Nov 2011](/posts/140000-iu-vitamin-d-monthly-reduced-probability-of-diabetes)
 
 #### 1 every 2 weeks
 
@@ -61,7 +61,7 @@
 
 ### See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [Diabetes and low Magnesium - Mercola 2014 - 2019](/posts/diabetes-and-low-magnesium-mercola-2014-2019)
 

@@ -81,15 +81,15 @@ The more damage there is to the heart, the greater the amount of troponin T and 
 
 * [Death from Coronary Heart Disease related to low Magnesium intake – March 2013](/posts/death-from-coronary-heart-disease-related-to-low-magnesium-intake)
 
-* <a href="/posts/chance-of-death-after-heart-failure-reduced-by-1000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chance of death after heart failure reduced by 1000 IU of vitamin D – Feb 2012">Chance of death after heart failure reduced by 1000 IU of vitamin D – Feb 2012</a>
+* [Chance of death after heart failure reduced by 1000 IU of vitamin D – Feb 2012](/posts/chance-of-death-after-heart-failure-reduced-by-1000-iu-of-vitamin-d)
 
 * [Magnesium prevents cardiovascular events – Meta-analysis March 2013](/posts/magnesium-prevents-cardiovascular-events-meta-analysis)
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cardiovascular and vitamin D">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [Low levels of vitamin D associated with all cause mortality – Oct 2012](/posts/low-levels-of-vitamin-d-associated-with-all-cause-mortality)
 
-* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012">40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012</a>
+* [40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)
 
 ## See also web
 

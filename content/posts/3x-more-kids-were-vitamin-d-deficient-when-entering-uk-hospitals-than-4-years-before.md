@@ -47,7 +47,7 @@
 
 * [Vitamin D reduced so low that Victorian age diseases are returning](/posts/vitamin-d-reduced-so-low-that-victorian-age-diseases-are-returning)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> which show a big drop in vitamin D levels
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) which show a big drop in vitamin D levels
 
 * [Military and Vitamin D - many studies](/posts/military-and-vitamin-d-many-studies) 
 

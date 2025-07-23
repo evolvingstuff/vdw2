@@ -79,13 +79,13 @@ Suspect that Vitamin D [spayed orally](/posts/vitamin-d-sprayed-inside-cheeks-bu
 
 #### Chronic tonsillitis virtually eliminated in children by Vitamin D (50,000 IU weekly) – RCT May 2023
 
- **<a href="/posts/chronic-tonsillitis-virtually-eliminated-in-children-by-vitamin-d-50000-iu-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chronic tonsillitis virtually eliminated in children by Vitamin D (50,000 IU weekly) – RCT May 2023">Chronic tonsillitis virtually eliminated in children by Vitamin D (50,000 IU weekly) – RCT May 2023</a>** 
+ **[Chronic tonsillitis virtually eliminated in children by Vitamin D (50,000 IU weekly) – RCT May 2023](/posts/chronic-tonsillitis-virtually-eliminated-in-children-by-vitamin-d-50000-iu-weekly-rct)** 
 
 ---
 
 #### Recurrent Tonsillitis 4 X more likely if low vitamin D – meta-analysis July 2020
 
- **<a href="/posts/recurrent-tonsillitis-4-x-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Recurrent Tonsillitis 4 X more likely if low vitamin D – meta-analysis July 2020">Recurrent Tonsillitis 4 X more likely if low vitamin D – meta-analysis July 2020</a>** 
+ **[Recurrent Tonsillitis 4 X more likely if low vitamin D – meta-analysis July 2020](/posts/recurrent-tonsillitis-4-x-more-likely-if-low-vitamin-d-meta-analysis)** 
 
 ---
 
@@ -282,7 +282,7 @@ Mustafa suphi ElbistanliMustafa suphi ElbistanliSelcuk GunesSelcuk GunesYakup Ye
 
  **A nationwide population-based cohort study on tonsillectomy and subsequent cancer incidence** 
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1002/lary.24864** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1002/lary.24864** 
 
 ---
 

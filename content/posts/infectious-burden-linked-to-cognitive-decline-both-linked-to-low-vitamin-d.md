@@ -91,7 +91,7 @@ Conclusion: A measure of IB associated with stroke risk and atherosclerosis was 
 
 * [Vitamin D prevents infections – Nov 2012](/posts/vitamin-d-prevents-infections)
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Vitamin D and the Immune System – Aug 2011](/posts/vitamin-d-and-the-immune-system)
 

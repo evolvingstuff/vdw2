@@ -62,8 +62,8 @@ PMID: 23986902
 
 * [Suggest more vitamin D above the Arctic Circle – May 2013](/posts/suggest-more-vitamin-d-above-the-arctic-circle)
 
-* <a href="/posts/inuits-eating-seal-and-whale-meat-had-25-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Inuits eating seal and whale meat had 25 ng of vitamin D – June 2012">Inuits eating seal and whale meat had 25 ng of vitamin D – June 2012</a>
+* [Inuits eating seal and whale meat had 25 ng of vitamin D – June 2012](/posts/inuits-eating-seal-and-whale-meat-had-25-ng-of-vitamin-d)
 
-* <a href="/posts/vitamin-d-and-inuit-dark-skin" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Inuit (dark skin) – April 2012">Vitamin D and Inuit (dark skin) – April 2012</a>
+* [Vitamin D and Inuit (dark skin) – April 2012](/posts/vitamin-d-and-inuit-dark-skin)
 
-* <a href="/posts/lower-vitamin-d-if-less-food-from-the-sea-greenland-in-this-case" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Lower Vitamin D if less food from the sea (Greenland in this case) – Oct 2019">Lower Vitamin D if less food from the sea (Greenland in this case) – Oct 2019</a>
+* [Lower Vitamin D if less food from the sea (Greenland in this case) – Oct 2019](/posts/lower-vitamin-d-if-less-food-from-the-sea-greenland-in-this-case)

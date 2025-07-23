@@ -51,10 +51,10 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-kidney-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney and vitamin D">Overview Kidney and vitamin D</a> Reminder: poor Kidney functioning can reduce activation of vitamin D
+* [Overview Kidney and vitamin D](/posts/overview-kidney-and-vitamin-d) Reminder: poor Kidney functioning can reduce activation of vitamin D
 
-* <a href="/posts/overview-kidney-stones-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Kidney Stones and vitamin D">Overview Kidney Stones and vitamin D</a>
+* [Overview Kidney Stones and vitamin D](/posts/overview-kidney-stones-and-vitamin-d)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Hypomagnesemia (low Magnesium) is very prevalent in ICU – 1999](/posts/hypomagnesemia-low-magnesium-is-very-prevalent-in-icu-1999)

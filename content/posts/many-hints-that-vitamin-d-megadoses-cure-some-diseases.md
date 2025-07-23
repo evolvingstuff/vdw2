@@ -41,7 +41,7 @@ Unaware of any studies of meg-doses of vitamin D
 
 > Totally cured, then dropped back to 50,000 IU weekly.
 
-1. <a href="/posts/traumatic-brain-injury-reduced-2x-by-about-20000-iu-of-vitamin-d-daily-for-5-days" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3640">Traumatic Brain Injury reduced 2X by about 20,000 IU of vitamin D daily for 5 days</a>
+1. [Traumatic Brain Injury reduced 2X by about 20,000 IU of vitamin D daily for 5 days](/tags/traumatic-brain-injury-reduced-2x-by-about-20000-iu-of-vitamin-d-daily-for-5-days.html)
 
 > with progestrone. Similar to a loading dose
 
@@ -53,8 +53,8 @@ Will be adding information to this page as I come across it.
 
 * [How often might 50,000 IU vitamin D be taken - results of clinical trials](/posts/how-often-might-50000-iu-vitamin-d-be-taken-results-of-clinical-trials)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> which has the following graph
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) which has the following graph
 
 <img src="/attachments/d3.mock.jpg" alt="image">

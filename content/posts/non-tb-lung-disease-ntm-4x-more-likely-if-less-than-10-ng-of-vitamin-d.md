@@ -86,6 +86,6 @@ highest in persons aged >50 years (15.5 cases per 100,000 persons).
 
 * [TB treatment helped with Vitamin D – RCT Sept 2012](/posts/tb-treatment-helped-with-vitamin-d-rct)
 
-* <a href="/posts/79-percent-of-tb-in-east-london-less-20-ng-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 79 percent of TB in East London less 20 ng vitamin D - April 2012">79 percent of TB in East London less 20 ng vitamin D - April 2012</a>
+* [79 percent of TB in East London less 20 ng vitamin D - April 2012](/posts/79-percent-of-tb-in-east-london-less-20-ng-vitamin-d)
 
-* <a href="/posts/big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Big impact of Vitamin D in the Treatment of Tuberculosis – June 2011">Big impact of Vitamin D in the Treatment of Tuberculosis – June 2011</a>
+* [Big impact of Vitamin D in the Treatment of Tuberculosis – June 2011](/posts/big-impact-of-vitamin-d-in-the-treatment-of-tuberculosis)

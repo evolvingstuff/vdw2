@@ -52,13 +52,13 @@ Only helped those with < 20 ng vitamin D level
 
 >  **1700% better using high dose vitamin D, vs only 40% better with low dose on this page** 
 
-* <a href="/posts/100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100000 IU vitamin D monthly helps COPD patients – 3 RCT">100000 IU vitamin D monthly helps COPD patients – 3 RCT</a>
+* [100000 IU vitamin D monthly helps COPD patients – 3 RCT](/posts/100000-iu-vitamin-d-monthly-helps-copd-patients-3-rct)
 
-* [Breathing](/categories/breathing) category listing with many custom searches, such as the one which follows
+* [Breathing](/tags/breathing.html) category listing with many custom searches, such as the one which follows
 
 * [Search COPD](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22+chronic+obstructive+pulmonary+disease%22+OR+copd&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)  338 items as of Dec 2014
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>  current study is almost a loading dose study - so infrequent
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)  current study is almost a loading dose study - so infrequent
 
 * [COPD reduced by 40 percent with monthly 100,000 IU of vitamin D – RCT Jan 2015](/posts/copd-reduced-by-40-percent-with-monthly-100000-iu-of-vitamin-d-rct)
 

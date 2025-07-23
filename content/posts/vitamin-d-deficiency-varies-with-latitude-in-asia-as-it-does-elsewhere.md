@@ -37,4 +37,4 @@ Vitamin D deficiency is more common in South Asia and Southeast Asia than in app
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-varies-with-latitude-map-of-chile" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D varies with latitude - map of Chile">Vitamin D varies with latitude - map of Chile</a>
+* [Vitamin D varies with latitude - map of Chile](/posts/vitamin-d-varies-with-latitude-map-of-chile)

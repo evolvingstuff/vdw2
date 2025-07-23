@@ -64,12 +64,12 @@ Conclusion. Our investigation revealed a substantially high prevalence of vitami
 
 #### See also VitaminDWiki
 
-* <a href="/posts/give-vitamin-d-before-all-spinal-surgeries-no-testing-needed" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Give Vitamin D before all spinal surgeries – no testing needed – June 2020">Give Vitamin D before all spinal surgeries – no testing needed – June 2020</a>
+* [Give Vitamin D before all spinal surgeries – no testing needed – June 2020](/posts/give-vitamin-d-before-all-spinal-surgeries-no-testing-needed)
 
-* <a href="/posts/spinal-cord-injuries-may-need-more-vitamin-d-than-others" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spinal cord injuries may need more vitamin D than others – June 2012">Spinal cord injuries may need more vitamin D than others – June 2012</a>
+* [Spinal cord injuries may need more vitamin D than others – June 2012](/posts/spinal-cord-injuries-may-need-more-vitamin-d-than-others)
 
 * [Highest vitamin D increases after spine surgery associated with best outcomes – July 2012](/posts/highest-vitamin-d-increases-after-spine-surgery-associated-with-best-outcomes)
 
-* <a href="/posts/spinal-fusion-patients-often-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spinal fusion patients often low on vitamin D - Nov 2011">Spinal fusion patients often low on vitamin D - Nov 2011</a>
+* [Spinal fusion patients often low on vitamin D - Nov 2011](/posts/spinal-fusion-patients-often-low-on-vitamin-d)
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)

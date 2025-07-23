@@ -19,7 +19,7 @@
 
 #### [Vitamin D Supplementation in Warfighters](https://clinicaltrials.gov/ct2/show/NCT02954549?rcv_d=14&show_rss=Y)
 
- **Update: Study Results <a href="/posts/5000-iu-vitamin-d-daily-resulted-in-many-benefits-after-3-months-us-soldiers-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 5,000 IU Vitamin D daily resulted in many benefits after 3 months (US soldiers) – RCT March 2019">5,000 IU Vitamin D daily resulted in many benefits after 3 months (US soldiers) – RCT March 2019</a>** 
+ **Update: Study Results [5,000 IU Vitamin D daily resulted in many benefits after 3 months (US soldiers) – RCT March 2019](/posts/5000-iu-vitamin-d-daily-resulted-in-many-benefits-after-3-months-us-soldiers-rct)** 
 
  **<span style="color:#F00;">This Randomized Controlled Trial has many problems</span>** 
 
@@ -51,9 +51,9 @@
 
 * [Suicide 2X more likely with low vitamin D (in military) – Jan 2013](/posts/suicide-2x-more-likely-with-low-vitamin-d-in-military)
 
-* <a href="/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D might reduce military costs for UC and CD – June 2011">Vitamin D might reduce military costs for UC and CD – June 2011</a>
+* [Vitamin D might reduce military costs for UC and CD – June 2011](/posts/vitamin-d-might-reduce-military-costs-for-uc-and-cd)
 
-* <a href="/posts/military-in-hot-climates-and-vitamin-d-deficiency-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Military in hot climates and vitamin D deficiency - 2010">Military in hot climates and vitamin D deficiency - 2010</a>
+* [Military in hot climates and vitamin D deficiency - 2010](/posts/military-in-hot-climates-and-vitamin-d-deficiency-2010)
 
 * [Increased Bone strength during military training – with just 800 IU of vitamin D and Calcium – RCT April 2014](/posts/increased-bone-strength-during-military-training-with-just-800-iu-of-vitamin-d-and-calcium-rct)
 

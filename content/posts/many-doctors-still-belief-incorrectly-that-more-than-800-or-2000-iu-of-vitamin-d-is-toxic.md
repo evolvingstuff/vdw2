@@ -32,7 +32,7 @@
 
 #### Based on the following study
 
-<a href="/posts/emerging-practice-concerning-vitamin-d-in-primary-care" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Emerging Practice Concerning Vitamin D in Primary Care">Emerging Practice Concerning Vitamin D in Primary Care</a>
+[Emerging Practice Concerning Vitamin D in Primary Care](/tags/emerging-practice-concerning-vitamin-d-in-primary-care.html)
 
  **[Publisher wants $30 for the PDF](http://qhr.sagepub.com/content/early/2014/10/07/1049732314554100.long)** 
 
@@ -46,11 +46,11 @@
 
 * [10,000 IU vitamin D daily is safe, toxicity start at 150 ng (for monotherapy)– Jan 2013](/posts/10000-iu-vitamin-d-daily-is-safe-toxicity-start-at-150-ng-for-monotherapy)
 
-* <a href="/posts/56-suppliers-of-10000-iu-vitamin-d-yet-2000-iu-toxicity-claim-persists" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 56 suppliers of 10000 IU vitamin D – yet 2000 IU toxicity claim persists Oct 2010">56 suppliers of 10000 IU vitamin D – yet 2000 IU toxicity claim persists Oct 2010</a>
+* [56 suppliers of 10000 IU vitamin D – yet 2000 IU toxicity claim persists Oct 2010](/posts/56-suppliers-of-10000-iu-vitamin-d-yet-2000-iu-toxicity-claim-persists)
 
 * [NHS (UK) mistakenly says more than 1000 IU of vitamin D can be harmful – Dec 2013](/posts/nhs-uk-mistakenly-says-more-than-1000-iu-of-vitamin-d-can-be-harmful)
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a> which includes the following
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d) which includes the following
 
 >  **Many studies have shown: No toxicity <30,000 IU** 
 

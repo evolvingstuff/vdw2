@@ -91,12 +91,12 @@ To prove my point, let me share my own recently completed informal, admittedly u
 ## Rebuttal by VitaminDWiki on living longer   
  - being outdoors and getting vitamin D helps a lot
 
-* <a href="/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012">Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012</a>
+* [Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012](/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy)
 
 * [Why do gardeners live longer (vitamin D, etc.) ](/posts/why-do-gardeners-live-longer-vitamin-d-etc)
 
 * Note that Gardening is in 2 of the 3 groups in the  **<span style="color:#00F;">Blue Zones</span>** 
 
-<a href="/posts/loma-linda" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1773">Loma Linda</a>, the exception. does not include gardening, but strongly encourages at least  **20 minutes of sunshine daily** 
+[Loma Linda](/tags/loma-linda.html), the exception. does not include gardening, but strongly encourages at least  **20 minutes of sunshine daily** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/vendiagram-blue-zones.gif" alt="image">

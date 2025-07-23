@@ -110,11 +110,11 @@ Vast majority of the article deals with the structure of Vitamin D and that of t
 
 #### See also VitaminDWiki
 
-* <a href="/posts/history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019">History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019</a>
+* [History of Vitamin D from 500 million years ago to orthopaedic practice today – 2019](/posts/history-of-vitamin-d-from-500-million-years-ago-to-orthopaedic-practice-today-2019)
 
-* <a href="/posts/vitamin-d-history-back-to-egyptians-and-fortification" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D history back to Egyptians and fortification - Aug 2011">Vitamin D history back to Egyptians and fortification - Aug 2011</a>
+* [Vitamin D history back to Egyptians and fortification - Aug 2011](/posts/vitamin-d-history-back-to-egyptians-and-fortification)
 
-* <a href="/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011">More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011</a>
+* [More sunshine: more teeth (1862), fewer cavities (1934) – Oct 2011](/posts/more-sunshine-more-teeth-1862-fewer-cavities-1934)
 
 * [Sunshine is a cure for “weak and soft muscles” – 425 BC](/posts/sunshine-is-a-cure-for-weak-and-soft-muscles-425-bc)
 
@@ -122,7 +122,7 @@ Vast majority of the article deals with the structure of Vitamin D and that of t
 
 * [The Healing Sun –1999 book highlights at VitaminDWiki](/posts/the-healing-sun-1999-book-highlights-at-vitamindwiki)
 
-* <a href="/posts/teeth-getting-worse-due-to-lower-level-of-vitamin-d-during-the-past-5000-years" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Teeth getting worse due to lower level of vitamin D during the past 5,000 years">Teeth getting worse due to lower level of vitamin D during the past 5,000 years</a>
+* [Teeth getting worse due to lower level of vitamin D during the past 5,000 years](/posts/teeth-getting-worse-due-to-lower-level-of-vitamin-d-during-the-past-5000-years)
 
 ---
 
@@ -170,7 +170,7 @@ But, as said, it also can save us from the severe courses and fatalities of a Co
 
 COVID-19 Mortality Risk Correlates Inversely with Vitamin D3 Status, and a Mortality Rate Close to Zero Could Theoretically Be Achieved at 50 ng/mL 25(OH)D3
 
-in VitaminDWiki <a href="/posts/covid-19-mortality-extrapolates-to-zero-at-50-ng-of-vitamin-d-18th-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID-19 mortality extrapolates to zero at 50 ng of vitamin D – 18th Meta-analysis Sept 2021">COVID-19 mortality extrapolates to zero at 50 ng of vitamin D – 18th Meta-analysis Sept 2021</a>
+in VitaminDWiki [COVID-19 mortality extrapolates to zero at 50 ng of vitamin D – 18th Meta-analysis Sept 2021](/posts/covid-19-mortality-extrapolates-to-zero-at-50-ng-of-vitamin-d-18th-meta-analysis)
 
 (Nutrients 2021, 13(10), 3596; https://doi.org/10.3390/nu13103596)
 

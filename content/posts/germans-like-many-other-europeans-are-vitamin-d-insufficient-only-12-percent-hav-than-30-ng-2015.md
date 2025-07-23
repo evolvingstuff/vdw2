@@ -55,7 +55,7 @@ Many just order their vitamin D from other countries
 
 * [Vitamin D Deficiency](/posts/vitamin-d-deficiency)
 
-* <a href="/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is 50 ng of vitamin D too high, just right, or not enough">Is 50 ng of vitamin D too high, just right, or not enough</a>
+* [Is 50 ng of vitamin D too high, just right, or not enough](/posts/is-50-ng-of-vitamin-d-too-high-just-right-or-not-enough)
 
 * [Vast majority of Europeans have less than 30 ng of Vitamin D – Aug 2016](/posts/vast-majority-of-europeans-have-less-than-30-ng-of-vitamin-d)
 
@@ -69,13 +69,13 @@ Many just order their vitamin D from other countries
 
 > 2X higher than the UK government, but should be 4X higher than the government
 
-* <a href="/posts/many-germans-have-less-than-20-ng-of-vitamin-d-hardly-any-over-40-ng-corrected-from-2010" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many Germans have less than 20 ng of vitamin D, hardly any over 40 ng – corrected from 2010">Many Germans have less than 20 ng of vitamin D, hardly any over 40 ng – corrected from 2010</a>
+* [Many Germans have less than 20 ng of vitamin D, hardly any over 40 ng – corrected from 2010](/posts/many-germans-have-less-than-20-ng-of-vitamin-d-hardly-any-over-40-ng-corrected-from-2010)
 
 * [Vitamin D levels in Europe – Sept 2014](/posts/vitamin-d-levels-in-europe) lots of data, no charts
 
 * [Search VitaminDWiki for GERMANY](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=germany&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 1370 items as of Dec 2016
 
-* <a href="/posts/increasing-german-levels-of-vitamin-d-to-30-ng-could-save-18300-lives-annually" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009">Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009</a>
+* [Increasing German levels of vitamin D to 30 ng could save 18,300 lives annually - Dec 2009](/posts/increasing-german-levels-of-vitamin-d-to-30-ng-could-save-18300-lives-annually)
 
 * [Central Europe, like most of the world, has low vitamin D levels (under 30ng) – March 2014](/posts/central-europe-like-most-of-the-world-has-low-vitamin-d-levels-under-30ng)
 

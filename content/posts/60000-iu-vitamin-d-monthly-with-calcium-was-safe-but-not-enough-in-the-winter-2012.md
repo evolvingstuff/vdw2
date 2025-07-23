@@ -11,4 +11,4 @@
 }
 
 
-### Wrong title&nbsp; &nbsp;<a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4727">CLICK HERE</a>
+### Wrong title&nbsp; &nbsp;[CLICK HERE](/tags/click-here.html)

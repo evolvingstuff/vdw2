@@ -54,6 +54,6 @@ Of 178 patients, 58% received antiretroviral therapy at median (interquartile ra
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-hiv-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1078">Overview HIV and vitamin D</a>
+* [Overview HIV and vitamin D](/posts/overview-hiv-and-vitamin-d)
 
 * [Google search of VitaminDWiki for antiretroviral therapy](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=EFV&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com#hl=en&domains=VitaminDWiki.com&sclient=psy-ab&q=antiretroviral+therapy+site:VitaminDWiki.com&oq=antiretroviral+therapy+site:VitaminDWiki.com&gs_l=serp.12...54800.54800.1.57177.1.1.0.0.0.0.802.802.6-1.1.0.les%3B..0.0...1c.1.W9nIDx-C0tQ&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&fp=e144f1b25e45ee57&biw=1241&bih=584) 22 items as of Sept 2012

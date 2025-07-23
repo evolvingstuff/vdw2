@@ -36,4 +36,4 @@
 
 * [Vitamin D infographic - Vitamin D Foods Org - 2014](/posts/vitamin-d-infographic-vitamin-d-foods-org-2014)
 
-* <a href="/posts/less-dna-repair-if-nutrient-deficient-vitamin-d-magnesium-omega-3-vitamin-k-etc-ames" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less DNA repair if nutrient deficient (Vitamin D, Magnesium, Omega-3, Vitamin K, etc) – Ames Oct 2018">Less DNA repair if nutrient deficient (Vitamin D, Magnesium, Omega-3, Vitamin K, etc) – Ames Oct 2018</a>
+* [Less DNA repair if nutrient deficient (Vitamin D, Magnesium, Omega-3, Vitamin K, etc) – Ames Oct 2018](/posts/less-dna-repair-if-nutrient-deficient-vitamin-d-magnesium-omega-3-vitamin-k-etc-ames)

@@ -46,8 +46,8 @@ Conclusion: Severe 25-OHD deficiency was common in our asthmatic patients and wa
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015](/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> __~~#00F:Asthma has been proven to be treated by at least 4 Random Controlled trials with Vitamin D
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) __~~#00F:Asthma has been proven to be treated by at least 4 Random Controlled trials with Vitamin D

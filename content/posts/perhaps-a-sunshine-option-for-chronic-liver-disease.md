@@ -39,6 +39,6 @@ Ning Ding1, Christopher Liddle3, Ronald M Evans1,2 and Michael Downes downes@sal
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
 * [Liver and interactions with vitamin D deficiency - Review July 2013](/posts/liver-and-interactions-with-vitamin-d-deficiency-review)

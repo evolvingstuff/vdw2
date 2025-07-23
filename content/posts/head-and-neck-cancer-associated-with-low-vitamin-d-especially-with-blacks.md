@@ -1,0 +1,51 @@
+{
+    "title": "Head and Neck Cancer associated with low vitamin D, especially with blacks",
+    "slug": "head-and-neck-cancer-associated-with-low-vitamin-d-especially-with-blacks",
+    "aliases": [
+        "/Head+and+Neck+Cancer+associated+with+low+vitamin+D+especially+with+blacks+-+April+2012",
+        "/2805"
+    ],
+    "tiki_page_id": 2805,
+    "date": "2012-06-05",
+    "categories": [
+        "Darker Skin",
+        "Cancer - Other"
+    ],
+    "tags": [
+        "Cancer - Other",
+        "Darker Skin",
+        "blood levels",
+        "cancer",
+        "head and neck cancer",
+        "life span",
+        "mortality",
+        "vitamin d"
+    ]
+}
+
+
+#### Disparities in head and neck cancer: A case for chemoprevention with vitamin D
+
+Amy Exum, Kristin D. Ezell, W. Jarrard Goodwin, Elizabeth J. Franzmann, Jennifer J. Hu, Laura A. Kresty. Univ. of Miami Sylvester Cancer Center, Miami, FL
+
+Worldwide head and neck cancer (HNC) is the sixth most frequently diagnosed cancer in men and is associated with significant morbidity, mortality and economic loss. 
+
+African Americans (AA) experience significantly more HNC compared to Caucasian Americans (CA) 
+
+and they have markedly reduced 5-year survival rates, 
+
+* 40% 
+
+* compared to 61% among CA. 
+
+AA bear a disproportionate burden of HNC for reasons that are incompletely understood, but likely due to the complex interplay of environmental, genetic and health care access issues. An inverse association for vitamin (vit) D status and HNC cancer has been reported and hypovitaminosis D in AA is well documented; yet, vit D status has not been assessed in HNC patients stratified by race. Thus, objective of this prospective pilot study is to access vit D status in newly diagnosed AA and CA HNC patients by measuring the circulating metabolite of vit D, vit-D 25-OH and by assessing dietary levels utilizing the Block vit D/Calcium screener. Circulating calcium, parathyroid, and 1,25-Dihydroxy vit D are also being measured. In addition, to improve our understanding of mechanisms associated with the potential cancer protective effects of vit D in the context of HNC two HNC cell lines were treated with 2 µM cholecalciferol for 6 hours and protein harvested for proteome profiling. To date, 18 HNC patients have been evaluated, 8 AA and 10 CA. Mean circulating vit D 25-OH levels were 27.3 (+ 9.9) and 20.0 (+ 5.9) ng/mL in CA and AA, respectively supporting that vit D levels are suppressed to a greater extent in AA compared to CA HNC patients, even in sunny Florida. Dietary vit D estimates were non-significantly higher in AA HNC patients compared to CA who had higher total vit D levels, supporting differences in metabolism or potentially supplement use. None of the AA patients had vit D 25-OH levels > 30 ng/mL, a level suggested for optimum regulation of PTH, calcium absorption and bone density; 30% of CA patients expressed levels above 30 ng/mL. Proteome profiling of CAL27 and SSC25 HNC cell lines following vit D treatment revealed inverse modulation of proteins linked to HNC. Proteins down-regulated by vit D treatment included nucleophosmin (NPM), lactoylglutathione, heat shock protein beta-1 (HSPB1) Peroxiredoxin-1 (PRDX1) and Ras-related protein Rap-2b. Recent reports have linked NPM with the regulation of the oncogene FOXM1, also a potential biomarker for early detection. Disease-free survival rate is improved in HNC patients with low NPM expression. Similarly, HSPB1 has been shown to be over expressed in HNC and silencing of HSPB1 has been shown to decrease metastatic behavior in HSNCC. PRDX1 displays upregulation in oral premalignancy and is an indicator for local recurrence. Histone H2A type was up-regulated by Vitamin D. Study results support that newly diagnosed AA HNC patients have depressed vit D levels compared to CA cases and that vit D treatment inversely targets select proteins dysregulated in HNC.
+
+---
+
+#### See also VitaminDWiki
+
+* [Head and neck cancer occurrence and deaths associated with low vitamin D – Aug 2011](/posts/head-and-neck-cancer-occurrence-and-deaths-associated-with-low-vitamin-d)
+
+* [Cancers of head and neck 30% less likely if vitamin D above 40 ng - Nov 2016](/posts/cancers-of-head-and-neck-30-percent-less-likely-if-vitamin-d-above-40-ng)
+
+* [Head and Neck Cancers still associated with low Vitamin D – Nov 2020](/posts/head-and-neck-cancers-still-associated-with-low-vitamin-d)

@@ -36,15 +36,15 @@
 
 * [Search VitaminDWiki for alopecia areata](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=alopecia+areata&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 161 web pages as of May 2025
 
-* <a href="/posts/spot-baldness-alopecia-areata-41-x-more-likely-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020">Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020</a>
+* [Spot Baldness (Alopecia Areata) 4.1 X more likely if low vitamin D – meta-analysis Aug 2020](/posts/spot-baldness-alopecia-areata-41-x-more-likely-if-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/alopecia-areata-spot-baldness-associated-with-85-ng-lower-levels-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alopecia areata (spot baldness) associated with 8.5 ng lower levels of vitamin D – meta-analysis April 2018">Alopecia areata (spot baldness) associated with 8.5 ng lower levels of vitamin D – meta-analysis April 2018</a>
+* [Alopecia areata (spot baldness) associated with 8.5 ng lower levels of vitamin D – meta-analysis April 2018](/posts/alopecia-areata-spot-baldness-associated-with-85-ng-lower-levels-of-vitamin-d-meta-analysis)
 
 * [Health problems that run in families are often associated with low vitamin D](/posts/health-problems-that-run-in-families-are-often-associated-with-low-vitamin-d)
 
 * [Topical Vitamin D](/posts/topical-vitamin-d) evidence does not show that vitamin D deals with alopecia areata
 
-* <a href="/posts/vitamin-d-reduces-hair-loss-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D reduces hair loss - many studies">Vitamin D reduces hair loss - many studies</a>
+* [Vitamin D reduces hair loss - many studies](/posts/vitamin-d-reduces-hair-loss-many-studies)
 
 ---
 
@@ -80,7 +80,7 @@ Intralesional vitamin D is comparable in efficacy and safety to intralesional TA
 
 ##### Suspect that topical nanoemulsion Vitamin D would be as good, and could be done at home
 
- **<a href="/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoemulsion Vitamin D is faster and better - many studies">Nanoemulsion Vitamin D is faster and better - many studies</a>** 
+ **[Nanoemulsion Vitamin D is faster and better - many studies](/posts/nanoemulsion-vitamin-d-is-faster-and-better-many-studies)** 
 
 ---
 
@@ -112,7 +112,7 @@ JAMA Dermatol. 2024;160(2):232-235. doi:10.1001/jamadermatol.2023.5559
 
 " 43.19 per 10 000 person-years <span>[PY]</span>) was significantly higher than in controls (23.61 per 10 000 PY)
 
- **<a href="/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID variants protect themselves by deactivating different VDR variants– March 2023">COVID variants protect themselves by deactivating different VDR variants– March 2023</a>** 
+ **[COVID variants protect themselves by deactivating different VDR variants– March 2023](/posts/covid-variants-protect-themselves-by-deactivating-different-vdr-variants)** 
 
 ---
 

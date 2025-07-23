@@ -53,8 +53,8 @@ PMID:     21381578
 
 * [Pneumonia 2.6X more likely if low vitamin D – April 2013](/posts/pneumonia-26x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/one-third-of-lung-disease-patients-in-china-had-less-than-4ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: One third of lung disease patients in China had less than 4ng of vitamin D – May 2012">One third of lung disease patients in China had less than 4ng of vitamin D – May 2012</a>
+* [One third of lung disease patients in China had less than 4ng of vitamin D – May 2012](/posts/one-third-of-lung-disease-patients-in-china-had-less-than-4ng-of-vitamin-d)
 
-* <a href="/posts/pulmonary-disease-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pulmonary disease and vitamin D – Mar 2011">Pulmonary disease and vitamin D – Mar 2011</a>
+* [Pulmonary disease and vitamin D – Mar 2011](/posts/pulmonary-disease-and-vitamin-d)
 
 * [Overview of Rickets and Vitamin D](/posts/overview-of-rickets-and-vitamin-d)

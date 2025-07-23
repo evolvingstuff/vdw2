@@ -123,7 +123,7 @@ http://www.androv-medical.com/vitamin-d-shop/3000-uvb-lamp-vitamin-d.html
 
 It appeared to eliminate the growing pains in my legs
 
- **See <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a> which has the following** 
+ **See [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency) which has the following** 
 
 Press with about 10 lbs (4 kg) of force at the bottom of your sternum and your tibia
 

@@ -27,8 +27,8 @@ Hawkins R.
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
 * [Low Vitamin D with dark skin, even if live closer to equator and higher altitude – Feb 2013](/posts/low-vitamin-d-with-dark-skin-even-if-live-closer-to-equator-and-higher-altitude)
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a> Slightly North of the Equator
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d) Slightly North of the Equator

@@ -30,7 +30,7 @@ Aurélie Goncalvesa, b, c, Marielle Margiera, b, c, Camille Tagliaferrid, Patric
 
  **There had been many indications that some Vitamin D supplements using olive oil were not as as good as supplements.  This may be the reason why – some have more Pinoresinol.  Not all olive oil is the same. Until we find out otherwise, I would suggest not supplementing with Vitamin D which is in olive oil,**  I think that I will also avoid having vitamin D supplements with olive oil salads
 
-* <a href="/posts/olive-oil-problem-with-vitamin-d-again" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Olive oil problem with Vitamin D (again) - Nov 2023">Olive oil problem with Vitamin D (again) - Nov 2023</a>
+* [Olive oil problem with Vitamin D (again) - Nov 2023](/posts/olive-oil-problem-with-vitamin-d-again)
 
 * [Vitamin D in powder (Bio-Tech) better than in oil (Thesis with Cystic Fibrosis patients) – June 2015](/posts/vitamin-d-in-powder-bio-tech-better-than-in-oil-thesis-with-cystic-fibrosis-patients)
 

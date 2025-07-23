@@ -22,7 +22,7 @@
 
 * [Search VitaminDWiki for MENOPAUSE](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=menopause&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 301 hits as of July 2014
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Women and Vitamin D">Overview Women and Vitamin D</a> which has the following graphic
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d) which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

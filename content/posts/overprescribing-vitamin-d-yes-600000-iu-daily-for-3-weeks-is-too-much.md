@@ -50,7 +50,7 @@ PMID: 25657969
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-toxicity-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Toxicity of vitamin D">Overview Toxicity of vitamin D</a>  
+* [Overview Toxicity of vitamin D](/posts/overview-toxicity-of-vitamin-d)  
 
  **has the following chart showing toxicity might occur after 10 days of 600,000 IU daily** 
 

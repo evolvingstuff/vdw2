@@ -48,7 +48,7 @@ Tropic of Capricorn = 22.5 degrees South Latitude
 
 Darwin is at 12 degrees South Latitude
 
-<a href="/posts/global-vitamin-d-levels" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Global Vitamin D levels - Aug 2011">Global Vitamin D levels - Aug 2011</a> Not all of Australia has such high level of Vitamin D
+[Global Vitamin D levels - Aug 2011](/posts/global-vitamin-d-levels) Not all of Australia has such high level of Vitamin D
 
 Note:must divide map numbers by 2.5 to get to units of ng/ml
 

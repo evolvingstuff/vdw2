@@ -65,12 +65,12 @@ PMID:     23959324
 
 ## See also VitaminDWiki
 
-* <a href="/posts/virtually-all-chinese-teens-at-30-degree-n-have-less-than-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Virtually all Chinese teens at 30 degree N have less than 30 ng of vitamin D – Feb 2012">Virtually all Chinese teens at 30 degree N have less than 30 ng of vitamin D – Feb 2012</a>
+* [Virtually all Chinese teens at 30 degree N have less than 30 ng of vitamin D – Feb 2012](/posts/virtually-all-chinese-teens-at-30-degree-n-have-less-than-30-ng-of-vitamin-d)
 
-* <a href="/posts/75-percent-of-children-in-ne-us-had-less-than-20-ng-of-vitamin-d-in-winter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 75 percent of children in NE US had less than 20 ng of vitamin D in winter – Dec 2011">75 percent of children in NE US had less than 20 ng of vitamin D in winter – Dec 2011</a>
+* [75 percent of children in NE US had less than 20 ng of vitamin D in winter – Dec 2011](/posts/75-percent-of-children-in-ne-us-had-less-than-20-ng-of-vitamin-d-in-winter)
 
-* <a href="/posts/children-still-need-30-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Children still need 30 ng of vitamin D – Nov 2011">Children still need 30 ng of vitamin D – Nov 2011</a>
+* [Children still need 30 ng of vitamin D – Nov 2011](/posts/children-still-need-30-ng-of-vitamin-d)
 
-* <a href="/posts/obese-teens-needed-4000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obese teens needed 4000 IU of vitamin D - Nov 2011">Obese teens needed 4000 IU of vitamin D - Nov 2011</a>
+* [Obese teens needed 4000 IU of vitamin D - Nov 2011](/posts/obese-teens-needed-4000-iu-of-vitamin-d)
 
 * [Vitamin D deficiency 4X more likely in Italian teens if: dark skin, winter, obese, little sun, or use sunscreen – June 2014](/posts/vitamin-d-deficiency-4x-more-likely-in-italian-teens-if-dark-skin-winter-obese-l-r-use-sunscreen) same authors as study on this page - has provisional PDF

@@ -47,9 +47,9 @@ It is rare for prenatal vitamins to have as much as 400 IU of vitamin D
 
 * [T1 diabetes in children helped with two doses of 150,000 IU of vitamin D and Calcium – March 2015](/posts/t1-diabetes-in-children-helped-with-two-doses-of-150000-iu-of-vitamin-d-and-calcium)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/type-i-diabetes-2x-more-likely-if-mother-had-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Type I diabetes 2X more likely if mother had low vitamin D – Jan 2012">Type I diabetes 2X more likely if mother had low vitamin D – Jan 2012</a>
+* [Type I diabetes 2X more likely if mother had low vitamin D – Jan 2012](/posts/type-i-diabetes-2x-more-likely-if-mother-had-low-vitamin-d)
 
 </div>
 

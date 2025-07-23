@@ -48,6 +48,6 @@ PMID: 26496317
 
 * [Knee osteoarthritis treated with vitamin D, weekly 50,000 IU – May 2015](/posts/knee-osteoarthritis-treated-with-vitamin-d-weekly-50000-iu)
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
-* <a href="/posts/total-knee-arthroplasty-worse-outcome-if-low-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Total knee arthroplasty – worse outcome if low vitamin D – many studies">Total knee arthroplasty – worse outcome if low vitamin D – many studies</a>
+* [Total knee arthroplasty – worse outcome if low vitamin D – many studies](/posts/total-knee-arthroplasty-worse-outcome-if-low-vitamin-d-many-studies)

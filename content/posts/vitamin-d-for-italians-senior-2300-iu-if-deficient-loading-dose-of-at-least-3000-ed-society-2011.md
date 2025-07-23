@@ -93,8 +93,8 @@ which we take to mean about Summer 2014
 
 * [Vitamin D is the only vitamin which is low in Europe – Jan 2013](/posts/vitamin-d-is-the-only-vitamin-which-is-low-in-europe)
 
-* <a href="/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012">Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012</a>
+* [Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012](/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> 300,000 to 600,000 is common
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) 300,000 to 600,000 is common
 
 * [Loading Dose of Vitamin D](/posts/loading-dose-of-vitamin-d) category listing

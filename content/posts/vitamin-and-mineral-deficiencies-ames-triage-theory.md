@@ -115,15 +115,15 @@ My triage theory explains why the pathology is insidious. When a micronutrient i
 
 #### See also VitaminDWiki
 
-* <a href="/posts/hypothesis-age-related-diseases-due-to-lack-of-nutrients-like-vitamin-k-ames-triage-theory" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1940">Hypothesis: Age-related diseases due to lack of nutrients like vitamin K – Ames Triage Theory</a>
+* [Hypothesis: Age-related diseases due to lack of nutrients like vitamin K – Ames Triage Theory](/posts/hypothesis-age-related-diseases-due-to-lack-of-nutrients-like-vitamin-k-ames-triage-theory)
 
-* <a href="/posts/omega-3-many-benefits-include-helping-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3467">Omega-3: many benefits include helping vitamin D</a>
+* [Omega-3: many benefits include helping vitamin D](/tags/omega-3-many-benefits-include-helping-vitamin-d.html)
 
 * [Serotonin regulated by Vitamin D – part 1 autism – Feb 2014](/posts/serotonin-regulated-by-vitamin-d-part-1-autism) Ames is co-author
 
 * [Zinc and Vitamin D](/posts/zinc-and-vitamin-d)
 
-* <a href="/posts/less-dna-repair-if-nutrient-deficient-vitamin-d-magnesium-omega-3-vitamin-k-etc-ames" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less DNA repair if nutrient deficient (Vitamin D, Magnesium, Omega-3, Vitamin K, etc) – Ames Oct 2018">Less DNA repair if nutrient deficient (Vitamin D, Magnesium, Omega-3, Vitamin K, etc) – Ames Oct 2018</a>
+* [Less DNA repair if nutrient deficient (Vitamin D, Magnesium, Omega-3, Vitamin K, etc) – Ames Oct 2018](/posts/less-dna-repair-if-nutrient-deficient-vitamin-d-magnesium-omega-3-vitamin-k-etc-ames)
 
 #### See also web - by B. Ames
 

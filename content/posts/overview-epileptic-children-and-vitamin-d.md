@@ -123,7 +123,7 @@ and  **1,500 to 2,000 IU daily for adults.**
 
 Functional gastrointestinal disorders occur in 62.5% of epilepsy patients versus 39.8% in healthy individuals
 
- **<a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a>** 
+ **[Gut-Friendly Vitamin D](/posts/gut-friendly-vitamin-d)** 
 
 ---
 
@@ -263,7 +263,7 @@ Conclusion: Micronutrients status is correlated with prevalence of recurrent sei
 
 ---
 
-#### Digestive problems with Epilepsy (perhaps need <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a> ) - Aug 2021
+#### Digestive problems with Epilepsy (perhaps need [Gut-Friendly Vitamin D](/posts/gut-friendly-vitamin-d) ) - Aug 2021
 
  **Functional Gastrointestinal Disorders in Patients With Epilepsy: Reciprocal Influence and Impact on Seizure Occurrence** 
 
@@ -617,7 +617,7 @@ About one percent of Americans have some form of epilepsy, and nearly four perce
 
 * [Epilepsy and vitamin D: a comprehensive review of current knowledge](https://www.ncbi.nlm.nih.gov/pubmed/27988507) Feb 2017
 
-> Seems like a comprehensive study,** <a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;0.1515/revneuro-2016-0044  **> <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/presenteeism-f2.jpg" alt="image" width="600">
+> Seems like a comprehensive study,** [PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;0.1515/revneuro-2016-0044  **> <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/presenteeism-f2.jpg" alt="image" width="600">
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/causes-of-epilepsy.jpg" alt="image" width="400">
 

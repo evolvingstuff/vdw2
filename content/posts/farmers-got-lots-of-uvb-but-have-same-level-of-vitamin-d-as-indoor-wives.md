@@ -59,4 +59,4 @@ Conclusions. UVR exposure was generally high among this study population, howeve
 
 * [Survey of attitudes of Outdoor workers about sun protection – New Zealand Feb 2013](/posts/survey-of-attitudes-of-outdoor-workers-about-sun-protection-new-zealand)
 
-* <a href="/posts/indoor-workers-have-lower-vitamin-d-levels-than-outdoor-workers-unless-lead-smelter" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Indoor workers have lower vitamin D levels than outdoor workers, unless lead smelter – June 2017">Indoor workers have lower vitamin D levels than outdoor workers, unless lead smelter – June 2017</a>
+* [Indoor workers have lower vitamin D levels than outdoor workers, unless lead smelter – June 2017](/posts/indoor-workers-have-lower-vitamin-d-levels-than-outdoor-workers-unless-lead-smelter)

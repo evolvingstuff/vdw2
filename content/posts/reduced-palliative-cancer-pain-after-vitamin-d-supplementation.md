@@ -44,9 +44,9 @@ Correspondence to: Dr Linda Björkhem-Bergman, Department of Palliative Medicine
 
 * [Does vitamin D treat pain – still not absolutely, positively sure – meta-analysis April 2015](/posts/does-vitamin-d-treat-pain-still-not-absolutely-positively-sure-meta-analysis)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
-* <a href="/posts/palliative-cancer-benefit-of-4000-iu-of-vitamin-d-less-opioids-infection-and-crp" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Palliative cancer benefit of 4,000 IU of Vitamin D – less opioids, infection, and CRP – Aug 2017">Palliative cancer benefit of 4,000 IU of Vitamin D – less opioids, infection, and CRP – Aug 2017</a>
+* [Palliative cancer benefit of 4,000 IU of Vitamin D – less opioids, infection, and CRP – Aug 2017](/posts/palliative-cancer-benefit-of-4000-iu-of-vitamin-d-less-opioids-infection-and-crp)
 
 * [Opioid use in palliative cancer patients far less if high level of vitamin D – May 2015](/posts/opioid-use-in-palliative-cancer-patients-far-less-if-high-level-of-vitamin-d)   
 has the following chart

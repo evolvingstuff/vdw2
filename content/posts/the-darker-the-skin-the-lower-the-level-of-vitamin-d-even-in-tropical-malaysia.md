@@ -41,15 +41,15 @@ Amazing that the study did not consider skin color
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/malay.jpg" alt="image" width="300">
 
- **<a href="/posts/skin-color-and-vitamin-d-jablonski-spring-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin color and vitamin D – Jablonski – Spring 2012">Skin color and vitamin D – Jablonski – Spring 2012</a> has the following map** 
+ **[Skin color and vitamin D – Jablonski – Spring 2012](/posts/skin-color-and-vitamin-d-jablonski-spring-2012) has the following map** 
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-dark-skin-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Dark Skin and Vitamin D">Overview Dark Skin and Vitamin D</a>
+* [Overview Dark Skin and Vitamin D](/posts/overview-dark-skin-and-vitamin-d)
 
-* <a href="/posts/the-more-the-african-ancestry-the-lower-the-vitamin-d-level" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: The more the African Ancestry, the lower the vitamin D level – July 2010">The more the African Ancestry, the lower the vitamin D level – July 2010</a>
+* [The more the African Ancestry, the lower the vitamin D level – July 2010](/posts/the-more-the-african-ancestry-the-lower-the-vitamin-d-level)
 
 * [Darker skins generated much less vitamin D from a single UVB dose – Nov 2013](/posts/darker-skins-generated-much-less-vitamin-d-from-a-single-uvb-dose)
 

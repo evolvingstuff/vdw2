@@ -46,15 +46,15 @@ Suspect that there would be a virtually flat survival line for women having > 50
 
 * [Vitamin D Might Be Able to Slash Your Breast Cancer Risk by 90 Percent - Baggerly, Mercola: May 2013](/posts/vitamin-d-might-be-able-to-slash-your-breast-cancer-risk-by-90-percent-baggerly-mercola)
 
-* <a href="/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012">85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012</a>
+* [85 percent less risk of death from Breast Cancer when vitamin D levels higher than 30 ng – May 2012](/posts/85-percent-less-risk-of-death-from-breast-cancer-when-vitamin-d-levels-higher-than-30-ng)
 
-* <a href="/posts/chemotherapy-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Chemotherapy and vitamin D - many studies">Chemotherapy and vitamin D - many studies</a>
+* [Chemotherapy and vitamin D - many studies](/posts/chemotherapy-and-vitamin-d-many-studies)
 
 * [Overview Breast Cancer and Vitamin D](/posts/overview-breast-cancer-and-vitamin-d)
 
 * [Chemo drug (Nitrogen Mustard in this study) side effects minimized by vitamin D (mice) – March 2015](/posts/chemo-drug-nitrogen-mustard-in-this-study-side-effects-minimized-by-vitamin-d-mice)
 
-* <a href="/posts/breast-cancer-chemotherapy-27-x-more-likely-to-be-successful-if-not-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Breast Cancer chemotherapy 2.7 X more likely to be successful if not vitamin D deficient – Dec 2017">Breast Cancer chemotherapy 2.7 X more likely to be successful if not vitamin D deficient – Dec 2017</a>
+* [Breast Cancer chemotherapy 2.7 X more likely to be successful if not vitamin D deficient – Dec 2017](/posts/breast-cancer-chemotherapy-27-x-more-likely-to-be-successful-if-not-vitamin-d-deficient)
 
  **Benefits of Vitamin D to Breast Cancer are for levels > 30 ng**  
 

@@ -77,7 +77,7 @@ One of his references:  **Treatment of Traumatic Brain Injuries with Vitamin D3/
 
 http://www.ijcasereportsandimages.com/archive/provisional_articles/2013-03/02_IJCRI_287_CS_112012%20prov%20corrected.pdf 
 
-<a href="/posts/same-paper-is-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4115">Same paper is in VitaminDWiki</a>
+[Same paper is in VitaminDWiki](/tags/same-paper-is-in-vitamindwiki.html)
 
 ---
 
@@ -85,4 +85,4 @@ http://www.ijcasereportsandimages.com/archive/provisional_articles/2013-03/02_IJ
 
 * [Surgeon on a mission to promote vitamin D - Dec 2012](/posts/surgeon-on-a-mission-to-promote-vitamin-d)
 
-* <a href="/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution">Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution</a>
+* [Concussions (traumatic brain injury) getting big press coverage, vitamin D might be both a cause and a solution](/posts/concussions-traumatic-brain-injury-getting-big-press-coverage-vitamin-d-might-be--and-a-solution)

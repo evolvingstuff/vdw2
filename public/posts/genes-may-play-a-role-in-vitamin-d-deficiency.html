@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset=utf-8><title>Genes May Play a Role in Vitamin D Deficiency</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Genes May Play a Role in Vitamin D Deficiency</h1><time>June 9, 2010</time><div data-pagefind-body><div class=border style="background-color:#ff9;padding:15px;margin:10px 0;border-radius:5px;width:400px"><p>This was an early study of genes and vitamin D.</p><p>Other genes prevent cells from benefiting from Vitamin D,</p><p>but those genes are invisible to vitamin D tests</p></div><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#common-genetic-determinants-of-vitamin-d-insufficiency-a-genome-wide-association-study>Common genetic determinants of vitamin D insufficiency: a genome-wide association study</a></li></ul></li></ul></li></ul></nav><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/2.5-x-more-likely-to-be-deficient.jpg alt=image width=350><h4 id=common-genetic-determinants-of-vitamin-d-insufficiency-a-genome-wide-association-study>Common genetic determinants of vitamin D insufficiency: a genome-wide association study</h4><p>The Lancet, Early Online Publication, 10 June 2010, doi:10.1016/S0140-6736(10)60588-0</p><p>Thomas J Wang MD a e f *Corresponding AuthorEmail Address, Feng Zhang PhD g *, J Brent Richards MD h j k l *, Bryan Kestenbaum MD m *, Joyce B van Meurs PhD r u *, Diane Berry MSc v *, Douglas P Kiel MD d f, Elizabeth A Streeten MD w, Prof Claes Ohlsson PhD x, Daniel L Koller PhD z, Prof Leena Peltonen PhD aa ab ac †, Jason D Cooper PhD ad, Paul F O&rsquo;Reilly PhD ae, Denise K Houston PhD af, Nicole L Glazer PhD n o, Liesbeth Vandenput PhD x, Prof Munro Peacock DSc(Med) z, Julia Shi MSc w, Fernando Rivadeneira PhD r u, Prof Mark I McCarthy FMedSci ah ai ak, Pouta Anneli PhD al, Ian H de Boer MD m, Massimo Mangino PhD g, Bernet Kato PhD g, Deborah J Smyth BSc ad, Prof Sarah L Booth PhD am, Paul F Jacques ScD am, Prof Greg L Burke MD ag, Prof Mark Goodarzi PhD an, Ching-Lung Cheung PhD d ao, Myles Wolf MD ap, Kenneth Rice PhD n o, Prof David Goltzman MD i j, Nick Hidiroglou PhD aq, Martin Ladouceur PhD h j k l, Prof Nicholas J Wareham PhD ar, Lynne J Hocking PhD as, Deborah Hart PhD g, Prof Nigel K Arden MD aj at, Prof Cyrus Cooper FMedSci aj at, Suneil Malik PhD au, Prof William D Fraser MD av, Prof Anna-Liisa Hartikainen PhD aw, Guangju Zhai PhD g, Helen M Macdonald PhD as, Nita G Forouhi FFPH ar, Ruth JF Loos PhD ar, Prof David M Reid MD as, Alan Hakim MA az, Elaine Dennison PhD at, Yongmei Liu PhD af, Prof Chris Power PhD v, Helen E Stevens HNC ad, Laitinen Jaana PhD ax ba, Prof Ramachandran S Vasan DM f bb, Nicole Soranzo PhD g aa, Jörg Bojunga MD bd, Prof Bruce M Psaty PhD n p q, Mattias Lorentzon PhD x, Prof Tatiana Foroud PhD z, Tamara B Harris MD be, Prof Albert Hofman MD s u, Prof John-Olov Jansson PhD y, Jane A Cauley PhD bf, Prof Andre G Uitterlinden PhD r s t u, Quince Gibson MBA r, Prof Marjo-Riitta Järvelin PhD ae al ax ay, David Karasik PhD d, Prof David S Siscovick MPH n o p, Prof Michael J Econs MD z, Prof Stephen B Kritchevsky PhD af, Jose C Florez PhD b c e bg, Prof John A Todd PhD ad *, Prof Josee Dupuis PhD f bc *, Elina Hyppönen PhD v</p><ul><li>Corresponding AuthorEmail Address, Prof Timothy D Spector MD g *Corresponding AuthorEmail Address</li></ul><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/genes-2010.pdf>Download the PDF from VitaminDWiki</a></strong></p><p><strong>Background</strong></p><p>Vitamin D is crucial for maintenance of musculoskeletal health, and might also have a role in extraskeletal tissues. Determinants of circulating 25-hydroxyvitamin D concentrations include sun exposure and diet, but high heritability suggests that genetic factors could also play a part. We aimed to identify common genetic variants affecting vitamin D concentrations and risk of insufficiency.</p><p><strong>Methods</strong></p><p>We undertook a genome-wide association study of 25-hydroxyvitamin D concentrations in 33 996 individuals of European descent from 15 cohorts. Five epidemiological cohorts were designated as discovery cohorts (n=16 125), five as in-silico replication cohorts (n=9367), and five as de-novo replication cohorts (n=8504). 25-hydroxyvitamin D concentrations were measured by radioimmunoassay, chemiluminescent assay, ELISA, or mass spectrometry. Vitamin D insufficiency was defined as concentrations lower than 75 nmol/L or 50 nmol/L. We combined results of genome-wide analyses across cohorts using Z-score-weighted meta-analysis. Genotype scores were constructed for confirmed variants.</p><p><strong>Findings</strong></p><p>Variants at three loci reached genome-wide significance in discovery cohorts for association with 25-hydroxyvitamin D concentrations, and were confirmed in replication cohorts: 4p12 (overall p=1·9×10?109 for rs2282679, in GC); 11q12 (p=2·1×10?27 for rs12785878, near DHCR7); and 11p15 (p=3·3×10?20 for rs10741657, near CYP2R1). Variants at an additional locus (20q13, CYP24A1) were genome-wide significant in the pooled sample (p=6·0×10?10 for rs6013897). Participants with a genotype score (combining the three confirmed variants) in the highest quartile were at increased risk of having 25-hydroxyvitamin D concentrations lower than 75 nmol/L (OR 2·47, 95% CI 2·20—2·78, p=2·3×10?48) or lower than 50 nmol/L (1·92, 1·70—2·16, p=1·0×10?26) compared with those in the lowest quartile.</p><p><strong>Interpretation</strong></p><p><strong>Variants near genes involved in cholesterol synthesis, hydroxylation, and vitamin D transport affect vitamin D status. Genetic variation at these loci identifies individuals who have substantially raised risk of vitamin D insufficiency</strong> .</p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/blood-levels.html><span class=tag>blood levels</span></a>
+<a href=/tags/cholesterol.html><span class=tag>cholesterol</span></a>
+<a href=/tags/cypa.html><span class=tag>CYPA</span></a>
+<a href=/tags/cypb.html><span class=tag>CYPB</span></a>
+<a href=/tags/deficiency.html><span class=tag>Deficiency </span></a><a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/genetics.html><span class=tag>Genetics</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>blood levels, cholesterol, CYPA, CYPB, Deficiency , genetics, Genetics, health risk, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

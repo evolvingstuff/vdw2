@@ -61,7 +61,7 @@ PMID: 24870727
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-middle-east-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Middle East and vitamin D">Overview Middle East and vitamin D</a>
+* [Overview Middle East and vitamin D](/posts/overview-middle-east-and-vitamin-d)
 
 * [Iran Multiple Sclerosis review finds huge increase in women (no mention of clothing) – Nov 2013](/posts/iran-multiple-sclerosis-review-finds-huge-increase-in-women-no-mention-of-clothing)
 

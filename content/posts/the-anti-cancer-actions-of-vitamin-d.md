@@ -43,4 +43,4 @@ Affiliation: Boston University School of Medicine, M-1022, 85 E. Newton Street, 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/both-vitamin-d-and-vitamin-c-fight-cancers-and-aid-anticancer-drugs" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Both Vitamin D and Vitamin C fight cancers and aid anticancer drugs – May 2018">Both Vitamin D and Vitamin C fight cancers and aid anticancer drugs – May 2018</a>
+* [Both Vitamin D and Vitamin C fight cancers and aid anticancer drugs – May 2018](/posts/both-vitamin-d-and-vitamin-c-fight-cancers-and-aid-anticancer-drugs)

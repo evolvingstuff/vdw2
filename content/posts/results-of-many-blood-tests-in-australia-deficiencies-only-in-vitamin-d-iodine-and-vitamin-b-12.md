@@ -69,9 +69,9 @@ The sub-optimal levels in vitamin D, vitamin B12, sub-standard levels in iodine,
 
 ## See also VitaminDWiki
 
-* <a href="/posts/iodine-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Iodine deficiency">Iodine deficiency</a>
+* [Iodine deficiency](/posts/iodine-deficiency)
 
-* <a href="/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Iodine are similar, and both are deficient and important to health">Vitamin D and Iodine are similar, and both are deficient and important to health</a>
+* [Vitamin D and Iodine are similar, and both are deficient and important to health](/posts/vitamin-d-and-iodine-are-similar-and-both-are-deficient-and-important-to-health)
 
 * [Sleep disorders cured by 60-80 ng of vitamin D and some B vitamins – March 2013](/posts/sleep-disorders-cured-by-60-80-ng-of-vitamin-d-and-some-b-vitamins)
 
@@ -79,10 +79,10 @@ The sub-optimal levels in vitamin D, vitamin B12, sub-standard levels in iodine,
 
 * [Common deficiencies D3, Omega-3, K2, Mg, B12, E, A, Iodine, etc – Mercola Oct 2015](/posts/common-deficiencies-d3-omega-3-k2-mg-b12-e-a-iodine-etc-mercola)
 
-* <a href="/posts/obesity-epidemic-a-perfect-storm-of-deficiency-of-vitamin-d-magnesium-iodine-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012">Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012</a>
+* [Obesity epidemic: a perfect storm of deficiency of vitamin D, Magnesium, Iodine, etc – May 2012](/posts/obesity-epidemic-a-perfect-storm-of-deficiency-of-vitamin-d-magnesium-iodine-etc)
 
 * [Iodine added during pregnancy reduces preterm births, increases IQ. Etc.](/posts/iodine-added-during-pregnancy-reduces-preterm-births-increases-iq-etc)
 
 > Note: Omega-3, K2, Mg are rarely on blood panel tests
 
-* <a href="/posts/vitamin-b12" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin B12">Vitamin B12</a>
+* [Vitamin B12](/posts/vitamin-b12)

@@ -51,4 +51,4 @@ PMID: 22525442
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and vitamin D</a> which has many links to articles by one of the authors - Wagner
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d) which has many links to articles by one of the authors - Wagner

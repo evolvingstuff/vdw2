@@ -27,14 +27,14 @@ Company name = Darque (dark) Tan LLC
 
 ## See also VitaminDWiki
 
-* <a href="/posts/use-of-tanning-beds-would-reduce-associated-deaths-by-10x" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Use of tanning beds would reduce associated deaths by 10X – Oct 2011">Use of tanning beds would reduce associated deaths by 10X – Oct 2011</a>
+* [Use of tanning beds would reduce associated deaths by 10X – Oct 2011](/posts/use-of-tanning-beds-would-reduce-associated-deaths-by-10x)
 
 * [Sunshine: Dangerous or Healthy – Schachter Center 2009](/posts/sunshine-dangerous-or-healthy-schachter-center-2009)
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [Interview with transcript concerning UVA, UVB, and health – Grant Dec 2012](/posts/interview-with-transcript-concerning-uva-uvb-and-health-grant)
 
 * [A review of the evidence regarding the solar ultraviolet-B-vitamin D-cancer hypothesis - Oct 2012](/posts/a-review-of-the-evidence-regarding-the-solar-ultraviolet-b-vitamin-d-cancer-hypothesis)
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a>
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki)

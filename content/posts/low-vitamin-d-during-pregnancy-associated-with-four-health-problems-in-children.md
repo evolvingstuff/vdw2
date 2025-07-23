@@ -73,6 +73,6 @@ PMID: 25511121
 
 ## See also VitaminDWiki
 
-* [Infant-Child](/categories/infant-child) category overview with many assoicated searches
+* [Infant-Child](/posts/infant-child) category overview with many assoicated searches
 
 * [Bone - Health](/posts/bone-health)  category overview with many assoicated searches

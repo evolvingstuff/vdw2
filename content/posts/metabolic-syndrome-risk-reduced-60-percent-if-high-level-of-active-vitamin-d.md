@@ -53,7 +53,7 @@ Regular vitamin D tests ignore the effects of kidney and some genes in getting v
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
 * [Metabolic Syndrome 13 percent more likely for every 10 ng less vitamin D – Meta-analysis Jan 2014](/posts/metabolic-syndrome-13-percent-more-likely-for-every-10-ng-less-vitamin-d-meta-analysis)
 

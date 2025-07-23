@@ -58,8 +58,8 @@ Although clues are emerging that low 25OHD3 may cause chronic fatigue, altered l
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a> - this was the most popular web page on VitaminDWiki in 2013
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d) - this was the most popular web page on VitaminDWiki in 2013
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [Search VitaminDWiki for Fibromyalgia OR "chronic fatigue"](http://www.google.com/custom?hl=en&client=google-coop&cof=FORID:13%3BAH:left%3BCX:Search%2520Vitamin%2520D%2520Wiki%3BL:http://www.google.com/intl/en/images/logos/custom_search_logo_sm.gif%3BLH:30%3BLP:1%3BVLC:%23551a8b%3BDIV:%23cccccc%3B&cx=001215644404345293668:3di8vufs_m4&adkw=AELymgW235dllao9DRmgCQlRBDOVBNu3mRbqmQ1d11Nf1NYzQUH5nvHgkluuz1ACWY6VZcgqOR3x3VPYQUdjd4OO5L0WKgsAnXif4r5fi1JWwAeW3Ya8q1I&boostcse=0&ei=lNxOTajpE4easAPC0q3fCg&q=Fibromyalgia+OR+%22chronic+fatigue%22&start=0&sa=N)  1850 items as of Jan 2014

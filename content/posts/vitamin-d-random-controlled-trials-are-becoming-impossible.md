@@ -68,19 +68,19 @@ There are a huge number of indications when a person is getting enough vitamin D
 
 * aches & pains
 
-> &nbsp; &nbsp; including <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">chronic pain</a>, [headache](/categories/headache), <a href="/posts/migraine-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Migraine and Vitamin D">migraine</a>, [cluster headache](/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors), [back pain](/categories/back-pain)
+> &nbsp; &nbsp; including [chronic pain](/posts/overview-pain-and-vitamin-d), [headache](/tags/headache.html), [migraine](/posts/migraine-and-vitamin-d), [cluster headache](/posts/cluster-headaches-virtually-eliminated-in-7000-people-with-high-dose-vitamin-d-and-cofactors), [back pain](/posts/back-pain)
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">asthma</a>
+* [asthma](/posts/overview-asthma-and-vitamin-d)
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">allergies</a>
+* [allergies](/posts/allergy-overview)
 
 * [gut problems](/posts/overview-gut-and-vitamin-d)
 
-* <a href="/posts/shin-splints-decrease-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shin splints decrease with vitamin D">shin splints</a>
+* [shin splints](/posts/shin-splints-decrease-with-vitamin-d)
 
-* [depression](/categories/depression)
+* [depression](/tags/depression.html)
 
-* [sleep problems](/categories/sleep) and [restless leg syndrome](/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies)
+* [sleep problems](/tags/sleep-problems.html) and [restless leg syndrome](/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies)
 
 * etc, etc.
 
@@ -88,13 +88,13 @@ There are a huge number of indications when a person is getting enough vitamin D
 
 #### Reason #3: Ethics
 
-* <a href="/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is it ethical to NOT give vitamin D in osteoporosis trials– NEJM Sept 2010">Is it ethical to NOT give vitamin D in osteoporosis trials– NEJM Sept 2010</a>
+* [Is it ethical to NOT give vitamin D in osteoporosis trials– NEJM Sept 2010](/posts/is-it-ethical-to-not-give-vitamin-d-in-osteoporosis-trials-nejm)
 
 > Some Doctors feel that not giving vitamin D to every person who needs it is unethical
 
 > [Vitamin D will be given to ALL 2,000 pregnant women at one hospital in 2016](/posts/vitamin-d-is-being-used-to-prevent-premature-births-baggerly-interview)
 
-* <a href="/posts/unethical-to-restrict-vitamin-d-to-half-of-the-asthmatic-children-in-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Unethical to restrict Vitamin D to half of the asthmatic children in RCT – June 2018">Unethical to restrict Vitamin D to half of the asthmatic children in RCT – June 2018</a>
+* [Unethical to restrict Vitamin D to half of the asthmatic children in RCT – June 2018](/posts/unethical-to-restrict-vitamin-d-to-half-of-the-asthmatic-children-in-rct)
 
 #### Reason #4 - If enough Vitamin D is given to make a difference, participants soon know which group they are in
 

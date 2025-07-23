@@ -55,7 +55,7 @@ Higher vitamin D status from infancy through to 3 years of age associates with
 
 * Would have had far better results if they had varied the vitamin D dose size with weight
 
-> <a href="/posts/100-iu-per-kg-of-infant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1757">100 IU per kg of infant</a> July 2011, Poland etc.
+> [100 IU per kg of infant](/tags/100-iu-per-kg-of-infant.html) July 2011, Poland etc.
 
 > <img src="/attachments/d3.mock.jpg" alt="image">
 

@@ -58,6 +58,6 @@ PMID:     24106283
 
 * [People reported taking pills, pills were all gone, but occasionally bottles were not opened – Dec 2015](/posts/people-reported-taking-pills-pills-were-all-gone-but-occasionally-bottles-were-not-opened)
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> which has the following notional chart for < 30ng
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) which has the following notional chart for < 30ng
 
 <img src="/attachments/d3.mock.jpg" alt="image">

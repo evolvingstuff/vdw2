@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf-8><title>Poop could save cities from too-early lockdown release</title>
+<link rel=stylesheet href="/css/main.css?v=1753303881"><link rel=stylesheet href="/css/pagination.css?v=1753303881"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303881"></script><script src="/js/search.js?v=1753303881"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Poop could save cities from too-early lockdown release</h1><time>April 15, 2020</time><div data-pagefind-body><h4 id=how-some-cities-flattened-the-curve-during-the-1918-flu-pandemichttpswwwnationalgeographiccomhistory202003how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus-national-geographic---march-27-2020><a href=https://www.nationalgeographic.com/history/2020/03/how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus/>How some cities ‘flattened the curve’ during the 1918 flu pandemic</a> National Geographic - March 27, 2020</h4><h4 id=update-jan-2022-in-sewage-clues-to-omicrons-surgehttpswwwnytimescom20220119healthcoronavirus-omicron-wastewaterhtml-nyt>Update Jan 2022 <a href=https://www.nytimes.com/2022/01/19/health/coronavirus-omicron-wastewater.html>In Sewage, Clues to Omicron’s Surge</a> NYT</h4><ul><li>&ldquo;According to Biobot Analytics, a company <a href=https://biobot.io/data/>tracking the coronavirus</a> in wastewater in 183 communities across 25 states, viral levels have already begun to decline in many big cities but are still rising in smaller communities.&rdquo;</li></ul><h4 id=is-it-safe-to-come-out-of-lockdown-check-the-sewerhttpswwwnytimescom20200501sciencecoronavirus-sewage-monitoring-lockdownhtml-nyt-may-1><a href=https://www.nytimes.com/2020/05/01/science/coronavirus-sewage-monitoring-lockdown.html>Is It Safe to Come Out of Lockdown? Check the Sewer</a> NYT May 1</h4><ul><li><p>“It’s the signature of a whole community,&mldr;”</p></li><li><p>This week, the Water Research foundation sponsored a virtual research summit</p></li><li><p>Being used (a bit) in Brazil, Australia, France, Spain and the United States</p></li><li><p>“If we see a hot spot arising,” Dr. Xagoraraki said, “we can close down a particular area for a while, so you don’t kill the whole economy of a whole state.”</p></li></ul><p><strong>Wastewater could provide early, painless and localized data about the rise or fall of coronavirus levels.</strong></p><ul><li><p>&ldquo;When cities or states come out of lockdown, they could check the sewers to follow the virus trend. An increase would tell them that people were infecting each other. “Then you need to go back into quarantine,”</p></li><li><p>Look at indiviudal manholes&mldr;“If we see a hot spot arising,” Dr. Xagoraraki said, “we can close down a particular area for a while, so you don’t kill the whole economy of a whole state.”</p></li></ul><h4 id=we-fear-that-the-lesson-has-not-been-learned>We fear that the lesson has not been learned.</h4><p>Many countries and US states are considering stopping the lockdown too early</p><p><strong>Lockdowns in 1918 did not have to deal with people driving and flying long distances as they do in 2020</strong></p><p>   </p><p><strong>Note - There may be a technological breakthrough to determine when to unlock<br>Test the sewage.<br>The virus is shed in your poop.<br>And, the virus is detected in poop even before it can be detected in the throat.<br>When the sewage tests clear for the virus you are sure that everyone in the catchment area (1,000,000?) no longer have the virus<br>Then the area can be safely unlocked</strong></p><ul><li><p><a href=https://www.wired.com/story/one-way-to-potentially-track-covid-19-sewage-surveillance/>Can probably detect when COVID-19 has gone away by testing the waste-water in the region</a> Wired April 2020</p></li><li><p><a href=https://www.medrxiv.org/content/10.1101/2020.04.15.20066746v1%20>Temporal detection and phylogenetic assessment of SARS-CoV-2 in municipal wastewater</a> April 2020 preprint</p></li><li><p><a href=https://www.medrxiv.org/content/10.1101/2020.04.23.20076679v1>Metropolitan Wastewater Analysis for COVID-19 Epidemiological Surveillance</a> April 2020 preprint</p><ul><li>Virus detected in wastewater BEFORE it was detected in humans - in Spain</li></ul></li><li><p><a href=https://storymaps.arcgis.com/stories/f7f5492486114da6b5d6fdc07f81aacf>The Sewershed Surveillance Project</a> Missouri June 2021</p></li></ul><p><strong>Note: In 1918 many doctors recommended taking 24 tablets of the new wonderdrug - Aspirin.</strong><br>    reference: The Great Influenza: The Story of the Deadliest Pandemic in History - John Berry<br><strong>In 2020 we are aware that taking NSAIDS such as Aspirin increases the virulence of a virus, so should not be taken</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/1918-phil-and-sf.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/1918-nyc-st.-louis.jpg alt=image width=600>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/1918-other.jpg alt=image width=450></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bone.html><span class=tag>bone</span></a>
+<a href=/tags/falls-fractures.html><span class=tag>falls fractures</span></a>
+<a href=/tags/influenza.html><span class=tag>influenza</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus.html><span class=tag>Virus</span></a></div><div data-pagefind-meta=tags hidden>bone, falls fractures, influenza, virus, Virus</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303881"></script><script src="/js/tiki-redirects.js?v=1753303881"></script><script src="/js/lightspa.js?v=1753303881"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303881",indexUrl:"/search/search_index.json.gz?v=1753303881"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303881"></script></body></html>

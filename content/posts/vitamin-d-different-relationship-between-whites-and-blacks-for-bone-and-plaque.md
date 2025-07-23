@@ -66,6 +66,6 @@ PMID:     22688752
 
 * [African-Americans need only 20 ng of vitamin, not 30 ng, based on iPTH – Sept 2012](/posts/african-americans-need-only-20-ng-of-vitamin-not-30-ng-based-on-ipth)
 
-* <a href="/posts/overview-hypertension-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hypertension and Vitamin D">Overview Hypertension and Vitamin D</a>
+* [Overview Hypertension and Vitamin D](/posts/overview-hypertension-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-accounts-for-25-percent-of-the-racial-differences-in-blood-pressure" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D accounts for 25 percent of the racial differences in blood pressure – Oct 2011">Vitamin D accounts for 25 percent of the racial differences in blood pressure – Oct 2011</a>
+* [Vitamin D accounts for 25 percent of the racial differences in blood pressure – Oct 2011](/posts/vitamin-d-accounts-for-25-percent-of-the-racial-differences-in-blood-pressure)

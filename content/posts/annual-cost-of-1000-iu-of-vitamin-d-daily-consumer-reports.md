@@ -61,9 +61,9 @@
 
 * [Most vitamin D bought over-the-counter meet requirements – Feb 2013](/posts/most-vitamin-d-bought-over-the-counter-meet-requirements)
 
-* <a href="/posts/how-vitamin-d3-is-made-from-wool" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How vitamin D3 is made from wool">How vitamin D3 is made from wool</a>&nbsp; &nbsp;<a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies</a>
+* [How vitamin D3 is made from wool](/posts/how-vitamin-d3-is-made-from-wool)&nbsp; &nbsp;[Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies)
 
-* <a href="/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alternatives if not swallow pills or not absorb vitamin D">Alternatives if not swallow pills or not absorb vitamin D</a>
+* [Alternatives if not swallow pills or not absorb vitamin D](/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d)
 
 * [30 percent of vitamin D sold now has more than 2000 IU - Dec 2012](/posts/30-percent-of-vitamin-d-sold-now-has-more-than-2000-iu)
 
@@ -71,15 +71,15 @@
 
 * [2000 IU raised vitamin D levels of thin teens by 10 ng, obese teens by 6 ng – Oct 2012](/posts/2000-iu-raised-vitamin-d-levels-of-thin-teens-by-10-ng-obese-teens-by-6-ng)
 
-* <a href="/posts/vitamin-d-repletion-2000-iu-daily-for-adults-and-5000-iu-daily-for-seniors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D repletion = 2000 IU daily for adults and 5000 IU daily for seniors May 2010">Vitamin D repletion = 2000 IU daily for adults and 5000 IU daily for seniors May 2010</a>
+* [Vitamin D repletion = 2000 IU daily for adults and 5000 IU daily for seniors May 2010](/posts/vitamin-d-repletion-2000-iu-daily-for-adults-and-5000-iu-daily-for-seniors)
 
-* <a href="/posts/people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011">People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011</a>
+* [People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011](/posts/people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d)
 
 * [Consumer reports does not understand that RDA is not the Upper Limit for vitamin D – Sept 2012](/posts/consumer-reports-does-not-understand-that-rda-is-not-the-upper-limit-for-vitamin-d)
 
 * [Vitamin D prices - March 2014](/posts/vitamin-d-prices)
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a> 
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk) 
 
 > lowest cost capsule has 50,000 IU for just 21 cents, which would be  **<span style="color:#090;">< $2/year</span>**  (if have average of 1,000 IU per day)
 
@@ -90,30 +90,30 @@
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | Days <br>between <br>capsules | Health Problem | Prevent<br>Treat | Reduction | Notes<br> <br>(RCT = Random Controlled Trial) | Proof #* |
-| 2 | Traumatic Brain Injury  |  **<span style="color:#008080;">T </span>**  | <a href="/posts/2x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3640">2X </a> | RCT, 20,0000 IU/day | 24  |
-| 2 | <a href="/posts/raynauds-syndrome" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2729">Raynaud's Syndrome</a> |  **<span style="color:#008080;">T </span>**  | <a href="/posts/40-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2729">40 %</a>  | RCT, visual scale | 10  |
-| 3 | <a href="/posts/statin-induced-myalgias" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 915">Statin-induced Myalgias</a>  |  **<span style="color:#008080;">T </span>**   |  |  |  |
-| 3 | Sickle Cell  |  **<span style="color:#008080;">T </span>**  | <a href="/posts/less-pain" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2037">Less pain</a> | RCT up to 100,000 IU/week | 22 |
-| 5 | <a href="/posts/ms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1616">MS</a>  |  **<span style="color:#008080;">T </span>**   |  | ongoing Clinical Trial  |  |
-| 5 | <a href="/posts/treated-ms" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1821">Treated MS </a>  |  |  |  |  |
-| 5 | <a href="/posts/parkinsons-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 484">Parkinson's Disease</a> |  **<span style="color:#008080;">T </span>**    |  | ongoing Clinical Trial  |  |
-| 7 | Leg ulcer healing |  **<span style="color:#008080;">T </span>**  | <a href="/posts/4x-faster" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3462">4X faster</a> | RCT, small study | 23  |
-| 7 | Menstrual pain |  **<span style="color:#800080;">P </span>**  | <a href="/posts/76-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2781">76 %</a> | RCT, 7000 IU avg | 11 |
-| 7 | <a href="/posts/statin-pain" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1814">Statin pain</a> |  **<span style="color:#008080;">T </span>**   | 100 %  |  |  |
-| 7 | <a href="/posts/skin-problems-resolved" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1413">Skin problems resolved</a> |  **<span style="color:#008080;">T </span>**   | 70 %  |  |  |
-| 7 | <a href="/posts/fibromyalgia-significantly-reduced" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 387">Fibromyalgia Significantly reduced </a> |  **<span style="color:#008080;">T </span>**   |  |  |  |
-| 9  | <a href="/posts/chronic-kidney-disease" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3025">Chronic kidney disease </a> |  **<span style="color:#008080;">T </span>**   | 50 %  | of the people, (no dialysis)  |  |
-| 12 | <a href="/posts/diabetes-t2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Diabetes T2</a> |  **<span style="color:#008080;">T </span>**  | <a href="/posts/62-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 162">62 %</a>     | RCT, CRP reduction, 4000 IU  | 4 |
-| 12 | <a href="/posts/pregnancy-risks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Pregnancy risks</a>  |  **<span style="color:#800080;">P </span>**  | <a href="/posts/50-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 185">50 %</a>    | RCT, 4000 IU | 12 |
-| 12 | <a href="/posts/c-section-unplanned" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 337">C-section, unplanned</a> |  **<span style="color:#800080;">P </span>**  | <a href="/posts/50-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1765">50 %</a>  | RCT, 4000 IU, small study | 13 |
-| 12 | [Respiratory Tract Infection](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&sort_mode=created_desc) |  **<span style="color:#800080;">P </span>**  | <a href="/posts/63-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3494">63 %</a> | RCT 4000 IU 1 year | 20  |
-| 15 | [Lupus](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=31&sort_mode=created_desc) |  **<span style="color:#008080;">T </span>**  | <a href="/posts/no-flares" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3285">No flares</a> | Load then 100,000/month | 21 |
-| 21 | [Hypertension](/categories/hypertension) |  **<span style="color:#008080;">T </span>**  | <a href="/posts/149-to-142" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2301">149 to 142</a> | RCT, mm Hg avg., 2400 IU | 1 |
-| 25 | <a href="/posts/influenza" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1304">Influenza</a>   |  **<span style="color:#800080;">P </span>**  | <a href="/posts/90-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2255">90 %</a> | RCT, 2000 IU | 6 |
-| 45 | [Breast Cancer](/categories/breast-cancer)   |  **<span style="color:#800080;">P </span>**  | <a href="/posts/60-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">60 %</a>  | RCT 1100 IU | 16 |
-| 50 | [Cardiovascular](/categories/cardiovascular)   |  **<span style="color:#008080;">T </span>**  | <a href="/posts/32-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2381">32 %</a>  | Death after heart failure | 2 |
+| 2 | Traumatic Brain Injury  |  **<span style="color:#008080;">T </span>**  | [2X ](/tags/2x.html) | RCT, 20,0000 IU/day | 24  |
+| 2 | [Raynaud's Syndrome](/tags/raynauds-syndrome.html) |  **<span style="color:#008080;">T </span>**  | [40 %](/tags/40.html)  | RCT, visual scale | 10  |
+| 3 | [Statin-induced Myalgias](/tags/statin-induced-myalgias.html)  |  **<span style="color:#008080;">T </span>**   |  |  |  |
+| 3 | Sickle Cell  |  **<span style="color:#008080;">T </span>**  | [Less pain](/tags/less-pain.html) | RCT up to 100,000 IU/week | 22 |
+| 5 | [MS](/tags/ms.html)  |  **<span style="color:#008080;">T </span>**   |  | ongoing Clinical Trial  |  |
+| 5 | [Treated MS ](/tags/treated-ms.html)  |  |  |  |  |
+| 5 | [Parkinson's Disease](/tags/parkinsons-disease.html) |  **<span style="color:#008080;">T </span>**    |  | ongoing Clinical Trial  |  |
+| 7 | Leg ulcer healing |  **<span style="color:#008080;">T </span>**  | [4X faster](/tags/4x-faster.html) | RCT, small study | 23  |
+| 7 | Menstrual pain |  **<span style="color:#800080;">P </span>**  | [76 %](/tags/76.html) | RCT, 7000 IU avg | 11 |
+| 7 | [Statin pain](/tags/statin-pain.html) |  **<span style="color:#008080;">T </span>**   | 100 %  |  |  |
+| 7 | [Skin problems resolved](/tags/skin-problems-resolved.html) |  **<span style="color:#008080;">T </span>**   | 70 %  |  |  |
+| 7 | [Fibromyalgia Significantly reduced ](/tags/fibromyalgia-significantly-reduced.html) |  **<span style="color:#008080;">T </span>**   |  |  |  |
+| 9  | [Chronic kidney disease ](/tags/chronic-kidney-disease.html) |  **<span style="color:#008080;">T </span>**   | 50 %  | of the people, (no dialysis)  |  |
+| 12 | [Diabetes T2](/tags/diabetes-t2.html) |  **<span style="color:#008080;">T </span>**  | [62 %](/tags/62.html)     | RCT, CRP reduction, 4000 IU  | 4 |
+| 12 | [Pregnancy risks](/tags/pregnancy-risks.html)  |  **<span style="color:#800080;">P </span>**  | [50 %](/tags/50.html)    | RCT, 4000 IU | 12 |
+| 12 | [C-section, unplanned](/tags/c-section-unplanned.html) |  **<span style="color:#800080;">P </span>**  | [50 %](/tags/50.html)  | RCT, 4000 IU, small study | 13 |
+| 12 | [Respiratory Tract Infection](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&sort_mode=created_desc) |  **<span style="color:#800080;">P </span>**  | [63 %](/tags/63.html) | RCT 4000 IU 1 year | 20  |
+| 15 | [Lupus](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=31&sort_mode=created_desc) |  **<span style="color:#008080;">T </span>**  | [No flares](/tags/no-flares.html) | Load then 100,000/month | 21 |
+| 21 | [Hypertension](/tags/hypertension.html) |  **<span style="color:#008080;">T </span>**  | [149 to 142](/tags/149-to-142.html) | RCT, mm Hg avg., 2400 IU | 1 |
+| 25 | [Influenza](/tags/influenza.html)   |  **<span style="color:#800080;">P </span>**  | [90 %](/tags/90.html) | RCT, 2000 IU | 6 |
+| 45 | [Breast Cancer](/tags/breast-cancer.html)   |  **<span style="color:#800080;">P </span>**  | [60 %](/tags/60.html)  | RCT 1100 IU | 16 |
+| 50 | [Cardiovascular](/tags/cardiovascular.html)   |  **<span style="color:#008080;">T </span>**  | [32 %](/tags/32.html)  | Death after heart failure | 2 |
 
-&nbsp; &nbsp; &nbsp;<a href="/posts/proof" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1336"> *** Proof #** </a> Vitamin D Proof: Random controlled Trials
+&nbsp; &nbsp; &nbsp;[ *** Proof #** ](/tags/proof.html) Vitamin D Proof: Random controlled Trials
 
 ### Many Vitamin D capsules are as small as a pea
 

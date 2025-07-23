@@ -66,23 +66,23 @@ Vitamin D levels measured at the 3rd month.
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a>
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d)
 
 > ~ 50% of all people have a low response to vitamin D3
 
 * [Getting Vitamin D into your blood and cells](/posts/getting-vitamin-d-into-your-blood-and-cells)  many ways
 
-* <a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a>
+* [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
 * [Vitamin D more than 40 ng: 1300 IU 50% chance: 5,000 IU 80% chance - Aug 2014](/posts/vitamin-d-more-than-40-ng-1300-iu-50-percent-chance-5000-iu-80-percent-chance)
 
 > total dose In 12 weeks would be 109,000 IU and 420,000 IU respectively
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a> get a good Vitamin D level in days, not months
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) get a good Vitamin D level in days, not months
 
 * [400,000 IU of vitamin D reduced adult pain and improved quality of life – March 2014](/posts/400000-iu-of-vitamin-d-reduced-adult-pain-and-improved-quality-of-life)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
 * [600,000 vitamin D loading doses – good response to both oral and muscular – Oct 2015](/posts/600000-vitamin-d-loading-doses-good-response-to-both-oral-and-muscular)
 

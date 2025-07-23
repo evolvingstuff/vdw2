@@ -135,7 +135,7 @@ Full colour version of this figure available via http://dx.doi.org/10.1530/JME-1
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a> both T1 and T2
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d) both T1 and T2
 
 * [Type 1 diabetes associated with faulty Vitamin D receptor genes – May 2013](/posts/type-1-diabetes-associated-with-faulty-vitamin-d-receptor-genes)
 

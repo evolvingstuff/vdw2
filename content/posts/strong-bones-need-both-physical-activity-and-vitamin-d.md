@@ -60,4 +60,4 @@ PMID: 22237816
 
 ### Comment by VitaminDWiki
 
-<a href="/posts/cofactors" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">Cofactors</a>, including Calcium, Magnesium, Vitamin K2, boron, and Slicon are also very important in building bones
+[Cofactors](/tags/cofactors.html), including Calcium, Magnesium, Vitamin K2, boron, and Slicon are also very important in building bones

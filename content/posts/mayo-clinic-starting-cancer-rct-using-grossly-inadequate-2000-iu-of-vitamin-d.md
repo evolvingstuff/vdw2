@@ -53,7 +53,7 @@ PMID:     23912386
 
 * 10,000 IU daily for 24 weeks would be far better
 
-> but high vitamin D increase the effect of chemo - so much that <a href="/posts/if-the-chemo-dose-is-not-monitored-the-effect-can-be-lethal" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 396">if the chemo dose is not monitored, the effect can be lethal</a> (reference contains the following chart)
+> but high vitamin D increase the effect of chemo - so much that [if the chemo dose is not monitored, the effect can be lethal](/tags/if-the-chemo-dose-is-not-monitored-the-effect-can-be-lethal.html) (reference contains the following chart)
 
 <img src="/attachments/d3.mock.jpg" alt="image"> 
 
@@ -61,7 +61,7 @@ PMID:     23912386
 
 * [Search VitaminDWiki for chronic lymphocytic leukemia](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22chronic+lymphocytic+leukemia+%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 38 results as of Dec 2013
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> generally need > 8,000 IU to TREAT Cancer, has the following chart
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) generally need > 8,000 IU to TREAT Cancer, has the following chart
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

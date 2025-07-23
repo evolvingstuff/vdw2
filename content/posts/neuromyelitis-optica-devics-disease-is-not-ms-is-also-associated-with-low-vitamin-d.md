@@ -53,7 +53,7 @@ Vitamin D deficiency has been associated with several autoimmune disorders and i
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/nmo.jpg" alt="image" width="400">
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp; 10.1007/s10072-015-2229-7** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp; 10.1007/s10072-015-2229-7** 
 
 ### References
 

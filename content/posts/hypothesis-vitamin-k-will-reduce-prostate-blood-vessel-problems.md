@@ -52,7 +52,7 @@ Received: July 21, 2014; Accepted: December 28, 2014; Published Online: January 
 
    * Note: Search Google for "varicose veins" "vitamin k" gets 270,000 hits as of Feb 2020
 
-* <a href="/posts/overview-vitamin-k-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin K and Vitamin D">Overview Vitamin K and Vitamin D</a>
+* [Overview Vitamin K and Vitamin D](/posts/overview-vitamin-k-and-vitamin-d)
 
 * [Interview of Vitamin K2 and Calcium Paradox author by Dr. Mercola – Dec 2012](/posts/interview-of-vitamin-k2-and-calcium-paradox-author-by-dr-mercola) 
 

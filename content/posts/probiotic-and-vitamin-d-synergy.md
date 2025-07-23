@@ -51,8 +51,8 @@ Understanding how probiotics enhance VDR signaling and inhibit inflammation will
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is aided by probiotics (review of RCTs) – Dec 2020">Vitamin D is aided by probiotics (review of RCTs) – Dec 2020</a>
+* [Vitamin D is aided by probiotics (review of RCTs) – Dec 2020](/posts/vitamin-d-is-aided-by-probiotics-review-of-rcts)
 
 * [Gut microbiome massively changed by weekly vitamin D – July 2015](/posts/gut-microbiome-massively-changed-by-weekly-vitamin-d)
 
-* <a href="/posts/probiotics-increased-vitamin-d-etc-in-healthy-children-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probiotics increased Vitamin D etc in healthy children – RCT Oct 2019">Probiotics increased Vitamin D etc in healthy children – RCT Oct 2019</a>
+* [Probiotics increased Vitamin D etc in healthy children – RCT Oct 2019](/posts/probiotics-increased-vitamin-d-etc-in-healthy-children-rct)

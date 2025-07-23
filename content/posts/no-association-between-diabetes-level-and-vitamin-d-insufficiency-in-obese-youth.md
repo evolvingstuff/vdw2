@@ -61,14 +61,14 @@ This seems to conflict with previous studies
 
 * [African-Americans at high risk of obesity and diabetes - 2011](/posts/african-americans-at-high-risk-of-obesity-and-diabetes-2011)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011">Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011</a>
+* [Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011](/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children)
 
 * [Diabetes 6X more likely for those abdominal obese who have insufficient vitamin D – June 2012](/posts/diabetes-6x-more-likely-for-those-abdominal-obese-who-have-insufficient-vitamin-d)
 
-* <a href="/posts/diabetes-risk-reduced-24-percent-for-every-10-ng-increase-in-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetes risk reduced 24 percent for every 10 ng increase in vitamin D – Mar 2011">Diabetes risk reduced 24 percent for every 10 ng increase in vitamin D – Mar 2011</a>
+* [Diabetes risk reduced 24 percent for every 10 ng increase in vitamin D – Mar 2011](/posts/diabetes-risk-reduced-24-percent-for-every-10-ng-increase-in-vitamin-d)
 
-* <a href="/posts/vitamin-d-deficiency-obesity-and-cardiometabolic-risk-is-there-any-relationship" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Deficiency, Obesity and Cardiometabolic Risk: Is there any Relationship - Jan 2010">Vitamin D Deficiency, Obesity and Cardiometabolic Risk: Is there any Relationship - Jan 2010</a>
+* [Vitamin D Deficiency, Obesity and Cardiometabolic Risk: Is there any Relationship - Jan 2010](/posts/vitamin-d-deficiency-obesity-and-cardiometabolic-risk-is-there-any-relationship)
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)

@@ -48,6 +48,6 @@ Note: Chinese have very low levels of vitamin D, and those with the lowest have 
 
 * [Vitamin D associated with 50 percent less ischemic stroke – meta-analysis Aug 2012](/posts/vitamin-d-associated-with-50-percent-less-ischemic-stroke-meta-analysis)
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a>
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d)
 
 * [Chinese have very low vitamin - July 2013](/posts/chinese-have-very-low-vitamin)

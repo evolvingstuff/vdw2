@@ -46,13 +46,13 @@ Further research is needed to confirm these results.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
 * [Hospital found that Vitamin D saves money by improving bone fracture healing– March 2016](/posts/hospital-found-that-vitamin-d-saves-money-by-improving-bone-fracture-healing)
 
 * [Hip fractures reduced 2X to 6X with just 10 minutes of sunlight daily – RCT 2003-2010](/posts/hip-fractures-reduced-2x-to-6x-with-just-10-minutes-of-sunlight-daily-rct-2003-2010)
 
-* <a href="/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Noticed bones heal faster when more than 60 ng of vitamin D">Noticed bones heal faster when more than 60 ng of vitamin D</a>
+* [Noticed bones heal faster when more than 60 ng of vitamin D](/posts/noticed-bones-heal-faster-when-more-than-60-ng-of-vitamin-d)
 
 * [Vitamin D and fractures – 24 meta-analyses and counting – Dec 2014](/posts/vitamin-d-and-fractures-24-meta-analyses-and-counting)
 

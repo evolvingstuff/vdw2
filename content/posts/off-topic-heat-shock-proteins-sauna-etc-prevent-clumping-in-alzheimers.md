@@ -38,6 +38,6 @@
 
 #### See also VitaminDWiki
 
-* <a href="/posts/lllt-reverses-age-related-macular-degeneration-for-a-while-multiple-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: LLLT reverses Age-related Macular Degeneration for a while - multiple studies">LLLT reverses Age-related Macular Degeneration for a while - multiple studies</a>
+* [LLLT reverses Age-related Macular Degeneration for a while - multiple studies](/posts/lllt-reverses-age-related-macular-degeneration-for-a-while-multiple-studies)
 
    * Which also speculates on "heat shock proteins"

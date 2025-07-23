@@ -105,7 +105,7 @@ Often it is the same disease: examples - autism, obesity, etc.
 
 * Roundup is also now used just before harvest of some crops
 
-* <a href="/posts/monsanto-banned-from-eu-parliament-they-refused-to-respond-to-glosophate-safety-questions" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Monsanto banned from EU parliament (they refused to respond to Glosophate safety questions) – Oct 2017">Monsanto banned from EU parliament (they refused to respond to Glosophate safety questions) – Oct 2017</a>
+* [Monsanto banned from EU parliament (they refused to respond to Glosophate safety questions) – Oct 2017](/posts/monsanto-banned-from-eu-parliament-they-refused-to-respond-to-glosophate-safety-questions)
 
 * [The “inactive ingredients” in Roundup cause it to be 125X more toxic than glyphosate](/posts/off-topic-roundup-found-to-be-125x-more-toxic-than-its-active-ingredient-glyphosate)
 
@@ -142,41 +142,41 @@ Often it is the same disease: examples - autism, obesity, etc.
 | | | | |
 | --- | --- | --- | --- |
 | Health Problem<br>(typically associated <br>with low Vitamin D) | % increase <br>in a decade | Antibiotic | Roundup |
-| [Autism](/categories/autism)  | 250 % | Antibiotic | Roundup |
-| [Diabetes](/categories/diabetes)  | 66 % | Antibiotic | Roundup |
-| <a href="/posts/overweight-kids" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 710">Overweight kids</a>  | 150 % | Antibiotic | Roundup <br>obesity deaths |
-| [Parkinson's](/categories/parkinson's)  | 110 % | might help | Roundup |
-| <a href="/posts/alzheimers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Alzheimer's.</a>  | 1000% | Probiotic<br>might help  | Roundup |
-| <a href="/posts/dementia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Dementia</a>   | ?% | Probiotic<br>might help | Roundup |
-| <a href="/posts/thyroid-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2995">Thyroid Cancer</a> | 80 % | - |  |
-| [Breast Cancer](/categories/breast-cancer)  | 110 % | Antibiotic <br>then BRAC1 |  |
-| [Tuberculosis](/categories/tuberculosis)  | 100 %  | - |  |
-| [Multiple Sclerosis](/categories/multiple-sclerosis)  | 70 %  | Probiotic<br> might help | Roundup |
-| <a href="/posts/ulcerative-colitis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4715">Ulcerative Colitis</a>  | 210 % | Antibiotic |  |
-| <a href="/posts/concussions" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2072">Concussions</a>  | 80 % | - |  |
-| <a href="/posts/traumatic-brain-injury" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4115">Traumatic Brain Injury</a> | 170 % | - |  |
-| <a href="/posts/pulmonary-hypertension" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5172">Pulmonary Hypertension</a> | 88 % | - |  |
-| <a href="/posts/alzheimers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Alzheimer's</a>  | ?? % |  | Roun-2017 |
-| <a href="/posts/dimentia" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 584">Dimentia</a>  | 60 % | - |  |
+| [Autism](/tags/autism.html)  | 250 % | Antibiotic | Roundup |
+| [Diabetes](/tags/diabetes.html)  | 66 % | Antibiotic | Roundup |
+| [Overweight kids](/tags/overweight-kids.html)  | 150 % | Antibiotic | Roundup <br>obesity deaths |
+| [Parkinson's](/tags/parkinsons.html)  | 110 % | might help | Roundup |
+| [Alzheimer's.](/tags/alzheimers.html)  | 1000% | Probiotic<br>might help  | Roundup |
+| [Dementia](/tags/dementia.html)   | ?% | Probiotic<br>might help | Roundup |
+| [Thyroid Cancer](/tags/thyroid-cancer.html) | 80 % | - |  |
+| [Breast Cancer](/tags/breast-cancer.html)  | 110 % | Antibiotic <br>then BRAC1 |  |
+| [Tuberculosis](/tags/tuberculosis.html)  | 100 %  | - |  |
+| [Multiple Sclerosis](/posts/multiple-sclerosis)  | 70 %  | Probiotic<br> might help | Roundup |
+| [Ulcerative Colitis](/tags/ulcerative-colitis.html)  | 210 % | Antibiotic |  |
+| [Concussions](/tags/concussions.html)  | 80 % | - |  |
+| [Traumatic Brain Injury](/tags/traumatic-brain-injury.html) | 170 % | - |  |
+| [Pulmonary Hypertension](/tags/pulmonary-hypertension.html) | 88 % | - |  |
+| [Alzheimer's](/tags/alzheimers.html)  | ?? % |  | Roun-2017 |
+| [Dimentia](/tags/dimentia.html)  | 60 % | - |  |
 | [Hospitalizations - Food Allergy](http://www.cdc.gov/healthyyouth/foodallergies/publications.htm)  | 260 % | Antibiotic |  |
 | [C-Section](http://chapelboro.com/columns/common-science/could-caesar-eat-peanuts/)  | 40 % | Antibiotic |  |
 | [Peanut Allergy](http://chapelboro.com/columns/common-science/could-caesar-eat-peanuts/) | 40 % | Antibiotic |  |
-| <a href="/posts/als-deaths" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4804">ALS deaths</a>  | 60  |  | Roun-2017 |
-| <a href="/posts/knee-injury-teen" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2092">Knee injury (teen)</a>  | 400 % | - |  |
+| [ALS deaths](/tags/als-deaths.html)  | 60  |  | Roun-2017 |
+| [Knee injury (teen)](/tags/knee-injury-teen.html)  | 400 % | - |  |
 | [Chronic Disease in Children](http://www.patientnavigatortraining.org/course2/11_future.htm) | 70 % | - |  |
-| [Metabolic Syndrome](/categories/metabolic-syndrome)  | 250 % | Antibiotic |  |
-| <a href="/posts/bipolar-disorder-youth" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5000">Bipolar Disorder - youth</a>  | 4,400 % | - |  |
+| [Metabolic Syndrome](/posts/metabolic-syndrome)  | 250 % | Antibiotic |  |
+| [Bipolar Disorder - youth](/tags/bipolar-disorder-youth.html)  | 4,400 % | - |  |
 | [Celliac](http://www.medscape.com/viewarticle/726127)  | 100 % | Antibiotic | Roundup |
 | [ADHD (LA schools)](http://www.victoryoveradhd.com/) | 230 % |  | Roun-2017 |
-| <a href="/posts/rickets-minn" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3747">Rickets-Minn.</a> &nbsp; &nbsp; <a href="/posts/uk-600-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5059">(UK 600 %)</a> | 500 % | - |  |
+| [Rickets-Minn.](/tags/rickets-minn.html) &nbsp; &nbsp; [(UK 600 %)](/tags/uk-600.html) | 500 % | - |  |
 | ((IBD in Finland – 3X increase in 15 years, more prevalent further from equator – Nov 2012 | IBD))  | 200 % | Antibiotic | Roundup |
 | [Lyme Disease](http://www.cdc.gov/mmwr/preview/mmwrhtml/ss4903a1.htm) | 300 % | Antibiotic |  |
-| <a href="/posts/clostridium-difficile-age-85" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4554">Clostridium difficile (age > 85)</a> | 400 % | Antibiotic <br>fecal transfer cure |  |
-| <a href="/posts/sleep-apnea" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1357">Sleep Apnea</a> | 200 % | -  |  |
-| <a href="/posts/mrsa" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1753">MRSA</a>  | 600% | Antibiotic |  |
-| GERD (No reported <br>association with vitamin D?) | <a href="/posts/140-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5662">140%</a> | Antibiotics <br>suspected  |  |
+| [Clostridium difficile (age > 85)](/tags/clostridium-difficile-age-85.html) | 400 % | Antibiotic <br>fecal transfer cure |  |
+| [Sleep Apnea](/tags/sleep-apnea.html) | 200 % | -  |  |
+| [MRSA](/tags/mrsa.html)  | 600% | Antibiotic |  |
+| GERD (No reported <br>association with vitamin D?) | [140%](/tags/140.html) | Antibiotics <br>suspected  |  |
 | ((Yet again, some cancers of esophagus vary with UV – Dec 2012 | Esophageal Cancer)) | 80%  | Antibiotic |  |
-| [Kidney](/categories/kidney) | 120%  | - | Roundup   |
+| [Kidney](/tags/kidney.html) | 120%  | - | Roundup   |
 | &nbsp; &nbsp; &nbsp; &nbsp; **<span style="color:#F06;">Total of 35 increased diseases</span>**  |
 |  **<span style="color:#F06;">34</span>**  associated <br>with low vitamin D |  |  **<span style="color:#F06;">16</span>**  associated<br>with Antibiotic |  **<span style="color:#F06;">13</span>**   associated<br>with Roundup |
 

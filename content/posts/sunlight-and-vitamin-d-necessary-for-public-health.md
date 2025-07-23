@@ -374,18 +374,7 @@ Received March 11, 2015; accepted April 8, 2015.
 
  **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/public-health-press-release.pdf">Download the Press Release from VitaminDWiki</a>** 
 
-<a href="/posts/overly-restrictive-sun-exposure-warnings-pose-health-risk-july-2015-press-releas-s-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overly restrictive sun exposure warnings pose health risk - July 2015)) Press release by Vitamin D Society (Canada)
----
-!!!Helioterapy was also used for TB
-The only mistake I see in this document is the statement that heliotherapy was only used for lupus vulgaris.
-This is not true. Heliotherapy was used in all forms of TB:
-http://jama.jamanetwork.com/article.aspx?articleid=244983
-http://jama.jamanetwork.com/article.aspx?articleid=233058
-http://jama.jamanetwork.com/article.aspx?articleid=256626
-
-John J Cannell, MD; Vitamin D Council Inc.; 1411 Marsh Street, Suite 203; San Luis Obispo, CA 93401; www.vitamindcouncil.org
-
-__((Overview Tuberculosis and Vitamin D">VitaminDWiki overview on TB</a> has the following image **<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
+[VitaminDWiki overview on TB](/tags/vitamindwiki-overview-on-tb.html) has the following image **<img src="/attachments/d3.mock.jpg" alt="image" style="max-width: 500px;">
 
 ---
 
@@ -397,9 +386,9 @@ __((Overview Tuberculosis and Vitamin D">VitaminDWiki overview on TB</a> has the
 
 * [Sunlight and Vitamin D: Necessary for Public Health – June 2015](/posts/sunlight-and-vitamin-d-necessary-for-public-health)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a> 71 health problems prevented or treated as of Nov 2016
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works) 71 health problems prevented or treated as of Nov 2016
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> whcih has the following chart
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) whcih has the following chart
 
 > <img src="/attachments/d3.mock.jpg" alt="image" width="500"> 
 

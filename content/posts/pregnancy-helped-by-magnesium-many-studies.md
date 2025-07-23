@@ -45,7 +45,7 @@
 
 ## 800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024
 
- **<a href="/posts/800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activit-erm-infants-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024">800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024</a>** 
+ **[800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024](/posts/800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activit-erm-infants-rct)** 
 
 ---
 
@@ -65,7 +65,7 @@ Helped a lot <i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href
 
 ## 800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024
 
- **<a href="/posts/800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activit-erm-infants-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024">800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024</a>** 
+ **[800 mg of Magnesium early in 3rd trimester significantly increased brain activity in preterm infants – RCT May 2024](/posts/800-mg-of-magnesium-early-in-3rd-trimester-significantly-increased-brain-activit-erm-infants-rct)** 
 
 ---
 

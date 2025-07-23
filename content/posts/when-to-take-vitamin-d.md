@@ -48,9 +48,9 @@ It would seem that this would be true of other supplements/drugs as well.
 
 #### Take Vitamin D with a diet which has the proper types of fats (Omega-3)
 
-<a href="/posts/high-poly-fat-meal-raised-vitamin-d-low-fat-lowered-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High poly-fat meal, raised vitamin D, low fat, lowered D – Dec 2011">High poly-fat meal, raised vitamin D, low fat, lowered D – Dec 2011</a>
+[High poly-fat meal, raised vitamin D, low fat, lowered D – Dec 2011](/posts/high-poly-fat-meal-raised-vitamin-d-low-fat-lowered-d)
 
-<a href="/posts/increasing-the-ratio-of-mono-to-poly-fats-increased-vitamin-d-levels-by-6-ng-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increasing the ratio of mono to poly fats increased Vitamin D levels by 6 ng – RCT Aug 2011">Increasing the ratio of mono to poly fats increased Vitamin D levels by 6 ng – RCT Aug 2011</a>
+[Increasing the ratio of mono to poly fats increased Vitamin D levels by 6 ng – RCT Aug 2011](/posts/increasing-the-ratio-of-mono-to-poly-fats-increased-vitamin-d-levels-by-6-ng-rct)
 
 #### Amount of fats in the meal does not seem to matter much
 
@@ -60,7 +60,7 @@ It would seem that this would be true of other supplements/drugs as well.
 
 #### Avoid late night vitamin D- changes your wake/sleep pattern
 
-<a href="/posts/perhaps-not-take-vitamin-d-in-the-evening" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps not take vitamin D in the evening">Perhaps not take vitamin D in the evening</a>
+[Perhaps not take vitamin D in the evening](/posts/perhaps-not-take-vitamin-d-in-the-evening)
 
 #### See also VitaminDWiki
 

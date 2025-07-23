@@ -99,7 +99,7 @@ References
 
 Carter G. 25-hydroxyvitamin D assays; the state we’re in. Standardy Medyczne/Pediatria. 2012;9:675-9.
 
-Grant WB. <a href="/posts/a-review-of-the-evidence-regarding-the-solar-ultraviolet-bvitamin-dcancer-hypothesis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3307">A review of the evidence regarding the solar ultraviolet-B–vitamin D–cancer hypothesis.</a> Standardy Medyczne/Pediatria. 2012;9:610-9.
+Grant WB. [A review of the evidence regarding the solar ultraviolet-B–vitamin D–cancer hypothesis.](/tags/a-review-of-the-evidence-regarding-the-solar-ultraviolet-bvitamin-dcancer-hypothesis.html) Standardy Medyczne/Pediatria. 2012;9:610-9.
 
 Hill AB. The Environment and Disease: Association or Causation? Proceedings for the Royal Society of Medicine, 1965;58:295-300. [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1898525](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1898525)
 
@@ -123,7 +123,7 @@ Lorenc RS, Karczmarewicz E, Kryskiewicz E, Pludowski P. Vitamin D provision and 
 
 * Vitamin D Safety: Its Mechanisms and Application Glenville Jones 605
 
-* <a href="/posts/a-review-of-the-evidence-regarding-the-solar-ultraviolet-b-vitamin-d-cancer-hypo-william-b-grant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3307">A review of the evidence regarding the solar ultraviolet-B-vitamin D-cancer hypothesis William B. Grant</a> 610
+* [A review of the evidence regarding the solar ultraviolet-B-vitamin D-cancer hypothesis William B. Grant](/tags/a-review-of-the-evidence-regarding-the-solar-ultraviolet-b-vitamin-d-cancer-hypothesis-william-b-grant.html) 610
 
 * Disease associations of vitamin D in autoimmune disorders - prevention and therapy Howard Amital, Yehuda Shoenfeld 620
 

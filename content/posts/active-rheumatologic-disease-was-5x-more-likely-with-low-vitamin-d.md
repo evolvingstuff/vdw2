@@ -56,6 +56,6 @@ Conclusion: Inadequate vitamin D status in SARDs cases, along with considerably 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
 * [100 percent of rheumatoid arthritis patients with very low vitamin D had very severe RA – Jan 2013](/posts/100-percent-of-rheumatoid-arthritis-patients-with-very-low-vitamin-d-had-very-severe-ra)

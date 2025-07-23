@@ -53,13 +53,13 @@ Marwaha RK, Yenamandra VK, Ganie MA, Sethuraman G, Sreenivas V, Ramakrishnan L, 
 
 * [Vitamin D bioavailability: State of the art – Oct 2014](/posts/vitamin-d-bioavailability-state-of-the-art)
 
-* <a href="/posts/water-soluble-vitamin-d-powder-developed-again" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Water-soluble Vitamin D powder developed (again) – May 2024">Water-soluble Vitamin D powder developed (again) – May 2024</a>
+* [Water-soluble Vitamin D powder developed (again) – May 2024](/posts/water-soluble-vitamin-d-powder-developed-again)
 
-* <a href="/posts/water-dispersible-forms-of-vitamins-a-d-e-and-k-are-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Water-dispersible forms of vitamins A, D, E and K are better">Water-dispersible forms of vitamins A, D, E and K are better</a>
+* [Water-dispersible forms of vitamins A, D, E and K are better](/posts/water-dispersible-forms-of-vitamins-a-d-e-and-k-are-better)
 
-* <a href="/posts/vitamins-a-d-e-and-k-are-important-for-health-note-each-is-more-bioavailable-in-water-soluble-form" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024">Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024</a>
+* [Vitamins A, D, E, and K are important for health (Note: each is more bioavailable in water-soluble form) – July 2024](/posts/vitamins-a-d-e-and-k-are-important-for-health-note-each-is-more-bioavailable-in-water-soluble-form)
 
-* <a href="/posts/yet-another-form-of-vitamin-d-micellized" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Yet another form of Vitamin D – micellized">Yet another form of Vitamin D – micellized</a>
+* [Yet another form of Vitamin D – micellized](/posts/yet-another-form-of-vitamin-d-micellized)
 
 * [A water soluable form of Vitamin D was patented in 1938](https://patents.google.com/patent/US2296291A/en)
 

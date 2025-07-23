@@ -63,10 +63,10 @@ __[Free PDF in simplified Chinese is online](http://www.ncbi.nlm.nih.gov/pubmed/
 
 ## See also VitaminDWiki
 
-* [Breathing](/categories/breathing) category listing 
+* [Breathing](/tags/breathing.html) category listing 
 
 * [COPD fought by Vitamin D - many studies](/posts/copd-fought-by-vitamin-d-many-studies)
 
 * [COPD patients 4X more likely to have low Vitamin D – 2 articles in 2012](/posts/copd-patients-4x-more-likely-to-have-low-vitamin-d-2-articles-in-2012)
 
-* <a href="/posts/less-copd-if-vitamin-d-more-than-30-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less COPD if vitamin D more than 30 ng – Nov 2011">Less COPD if vitamin D more than 30 ng – Nov 2011</a>
+* [Less COPD if vitamin D more than 30 ng – Nov 2011](/posts/less-copd-if-vitamin-d-more-than-30-ng)

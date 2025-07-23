@@ -72,4 +72,4 @@ PMID: 23869782
 
 * [Genes and different vitamin D related substances in the skin – Jan 2013](/posts/genes-and-different-vitamin-d-related-substances-in-the-skin) DermatoEndocrinology
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)

@@ -74,7 +74,7 @@ PMID: 22228250
 
 > > [Surgery](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&sort_mode=created_desc%20)
 
-> > <a href="/posts/started-taking-bisphosphonates-to-avoid-bone-fracture" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3097">started taking Bisphosphonates to avoid bone fracture</a>
+> > [started taking Bisphosphonates to avoid bone fracture](/tags/started-taking-bisphosphonates-to-avoid-bone-fracture.html)
 
 > > Move into senior home
 
@@ -84,4 +84,4 @@ PMID: 22228250
 
 * [Hip fractures reduced 30 % with 800 IU of vitamin D – meta-analysis July 2012](/posts/hip-fractures-reduced-30-percent-with-800-iu-of-vitamin-d-meta-analysis)
 
-* <a href="/posts/mobility-disability-19x-more-likely-if-had-low-level-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2714">Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012</a> another paper based on the same study
+* [Mobility Disability 1.9X more likely if had low level of vitamin D – May 2012](/posts/mobility-disability-19x-more-likely-if-had-low-level-of-vitamin-d) another paper based on the same study

@@ -1,0 +1,75 @@
+<!doctype html><html><head><meta charset=utf-8><title>100 years since the discovery of Vitamin D - 23 studies - 2022, 2023</title>
+<link rel=stylesheet href="/css/main.css?v=1753303879"><link rel=stylesheet href="/css/pagination.css?v=1753303879"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303879"></script><script src="/js/search.js?v=1753303879"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>100 years since the discovery of Vitamin D - 23 studies - 2022, 2023</h1><time>April 8, 2023</time><div data-pagefind-body><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Carsten Carlberg</td><td>A Pleiotropic Nuclear Hormone Labelled Hundred Years Ago Vitamin D</td></tr><tr><td>Michael F. Holick</td><td>The One-Hundred-Year Anniversary of the Discovery of the Sunshine Vitamin D3: Historical, Personal Experience and Evidence-Based Perspectives</td></tr><tr><td>Carsten Carlberg</td><td>Vitamin D in the Context of Evolution</td></tr><tr><td>Shahid Hussain, Clayton Yates and Moray J. Campbell</td><td>Vitamin D and Systems Biology</td></tr><tr><td>Carsten Carlberg</td><td>Vitamin D and Its Target Genes</td></tr><tr><td>Natacha Rochel</td><td>Vitamin D and Its Receptor from a Structural Perspective</td></tr><tr><td>Miguel A. Maestro and Samuel Seoane</td><td>The Centennial Collection of VDR Ligands:Metabolites, Analogs, Hybrids and Non-Secosteroidal Ligands</td></tr><tr><td>Michal A. Zmijewski</td><td>Nongenomic Activities of Vitamin D</td></tr><tr><td>James C. Fleet</td><td>Vitamin D-Mediated Regulation of Intestinal Calcium Absorption</td></tr><tr><td>Rene St-Arnaud, Alice Arabian, Dila Kavame, Martin Kaufmann and Glenville Jones</td><td>Vitamin D and Diseases of Mineral Homeostasis: A Cyp24a1 R396W Humanized Preclinical Model of Infantile Hypercalcemia Type 1</td></tr><tr><td>Marjolein van Driel and Johannes P. T. M. van Leeuwen</td><td>Vitamin D and Bone: A Story of Endocrine and Auto/Paracrine Action in Osteoblasts</td></tr><tr><td>Nejla Latic and Reinhold G. Erben</td><td>Interaction of Vitamin D with Peptide Hormones with Emphasis on Parathyroid Hormone, FGF23, and the Renin-Angiotensin-Aldosterone System</td></tr><tr><td>Guillaume T. Duval, Anne-Marie Schott, Dolores Sanchez-Rodriguez, Francois R. Herrmann and Cedric Annweiler</td><td>Month-of-Birth Effect on Muscle Mass and Strength in Community-Dwelling Older Women: The French EPIDOS Cohort</td></tr><tr><td>Shariq Qayyum, Radomir M. Slominski, Chander Raman and Andrzej T. Slominski</td><td>Novel CYP11A1-Derived Vitamin D and Lumisterol Biometabolites for the Management of COVID-19</td></tr><tr><td>Juhi Arora, Devanshi R. Patel, McKayla J. Nicol, Cassandra J. Field, Katherine H. Restori, Jinpeng Wang, Nicole E. Froelich, et al.</td><td>Vitamin D and the Ability to Produce 1,25(OH)2D Are Critical for Protection from Viral Infection of the Lungs</td></tr><tr><td>Hadeil M. Alsufiani, Shareefa A. AlGhamdi, Huda F. AlShaibi, Sawsan O. Khoja, Safa F. Saif and Carsten Carlberg</td><td>A Single Vitamin D3 Bolus Supplementation Improves Vitamin D Status and Reduces Proinflammatory Cytokines in Healthy Females</td></tr><tr><td>Alberto Munoz and William B. Grant</td><td>Vitamin D and Cancer: An Historical Overview of the Epidemiology and Mechanisms</td></tr><tr><td>Karina Piatek, Martin Schepelmann and Eniko Kallay</td><td>The Effect of Vitamin D and Its Analogs in Ovarian Cancer</td></tr><tr><td>Ewa Marcinkowska Xiaoying Cui and Darryl W. Eyles</td><td>Vitamin D and the Central Nervous System: Causative and Preventative Mechanisms in Brain Disorders</td></tr><tr><td>William B. Grant, Barbara J. Boucher, Fatme Al Anouti and Stefan Pilz</td><td>Comparing the Evidence from Observational Studies and Randomized Controlled Trials for Nonskeletal Health Effects of Vitamin D</td></tr><tr><td>Elina Hypponen, Karani S. Vimaleswaran and Ang Zhou</td><td>Genetic Determinants of 25-Hydroxyvitamin D Concentrations and Their Relevance to Public Health</td></tr></tbody></table><p><strong><a href="https://drive.google.com/file/d/1tR3_pthwiZoAodpkAcODF9r2qYYNod0t/view?usp=sharing">Download the 16 MB PDF from Google Drive</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/bone.html><span class=tag>Bone</span></a>
+<a href=/tags/brain.html><span class=tag>brain</span></a>
+<a href=/tags/cancer.html><span class=tag>cancer</span></a>
+<a href=/tags/cancer.html><span class=tag>Cancer</span></a>
+<a href=/tags/cancer-in-vdr.html><span class=tag>cancer in VDR</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/cypa.html><span class=tag>CYPA</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/genetics.html><span class=tag>Genetics</span></a>
+<a href=/tags/ovarian-cancer.html><span class=tag>ovarian cancer</span></a>
+<a href=/tags/virus.html><span class=tag>virus</span></a>
+<a href=/tags/virus-and-cognitive.html><span class=tag>virus and cognitive</span></a>
+<a href=/tags/viruses-and-vitamin-d-receptor.html><span class=tag>viruses and vitamin d receptor</span></a>
+<a href=/tags/vit-d-receptor.html><span class=tag>Vit D Receptor</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-and-viruses.html><span class=tag>vitamin d and viruses</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a></div><div data-pagefind-meta=tags hidden>Bone, brain, cancer, Cancer, cancer in VDR, cognitive, CYPA, genetics, Genetics, ovarian cancer, virus, virus and cognitive, viruses and vitamin d receptor, Vit D Receptor, vitamin d, vitamin d and viruses, vitamin d blood test, vitamin d receptor</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303879"></script><script src="/js/tiki-redirects.js?v=1753303879"></script><script src="/js/lightspa.js?v=1753303879"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303879",indexUrl:"/search/search_index.json.gz?v=1753303879"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303879"></script></body></html>

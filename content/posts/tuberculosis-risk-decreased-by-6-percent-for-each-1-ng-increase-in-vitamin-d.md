@@ -48,7 +48,7 @@ PMID: 25274036
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Tuberculosis, Genes, Vitamin D Binding Protein, and RCT – Review Aug 2014](/posts/tuberculosis-genes-vitamin-d-binding-protein-and-rct-review)
 
@@ -58,7 +58,7 @@ PMID: 25274036
 
 * [Probability of getting TB reduced 60 percent with just 800 IU of vitamin D – RCT Aug 2012](/posts/probability-of-getting-tb-reduced-60-percent-with-just-800-iu-of-vitamin-d-rct)
 
-* <a href="/posts/tuberculosis-risk-decreased-by-6-percent-for-each-1-ng-incease-in-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Tuberculosis risk decreased by 6 percent for each 1 ng incease in Vitamin D – Oct 2014">Tuberculosis risk decreased by 6 percent for each 1 ng incease in Vitamin D – Oct 2014</a>
+* [Tuberculosis risk decreased by 6 percent for each 1 ng incease in Vitamin D – Oct 2014](/tags/tuberculosis-risk-decreased-by-6-percent-for-each-1-ng-incease-in-vitamin-d-oct-2014.html)
 
 * [Tuberculosis -100 percent cure rate with 10,000 IU of vitamin D daily – RCT 2006](/posts/tuberculosis-100-percent-cure-rate-with-10000-iu-of-vitamin-d-daily-rct-2006) which is about 50,000 every week
 

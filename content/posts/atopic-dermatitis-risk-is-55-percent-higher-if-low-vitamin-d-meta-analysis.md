@@ -56,4 +56,4 @@ Conclusion: The association between serum 25(OH)D deficiency and risk of AD was 
 
 #### See also VitaminDWiki
 
-* <a href="/posts/atopic-dermatitis-and-eczema-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies">Main page for Atopic dermatitis</a>
+* [Main page for Atopic dermatitis](/posts/atopic-dermatitis-and-eczema-many-studies)

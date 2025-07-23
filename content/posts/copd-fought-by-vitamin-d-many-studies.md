@@ -473,4 +473,4 @@ The word VITAMIN does not occur once in the JAMA review
 
 ---
 
-#### 263+ VitaminDWiki pages <a href="/posts/50000-iu-in-their-title" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 14127">50,000 IU in their title</a>
+#### 263+ VitaminDWiki pages [50,000 IU in their title](/tags/50000-iu-in-their-title.html)

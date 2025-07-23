@@ -53,14 +53,14 @@ Contact: Julie Haesebaert 	julie.haesebaert@chu-lyon.fr
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
-* <a href="/posts/100-million-americans-have-chronic-pain-iom" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 100 Million Americans Have Chronic Pain – IoM June 2011">100 Million Americans Have Chronic Pain – IoM June 2011</a>
+* [100 Million Americans Have Chronic Pain – IoM June 2011](/posts/100-million-americans-have-chronic-pain-iom)
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Loading of vitamin D">Overview Loading of vitamin D</a>
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d)
 
-* <a href="/posts/600000-iu-vitamin-d-normalized-virtually-all-seniors-in-3-months-injection-better-than-oral" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012">600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012</a>
+* [600,000 IU vitamin D normalized virtually all seniors in 3 months (Injection better than oral)– May 2012](/posts/600000-iu-vitamin-d-normalized-virtually-all-seniors-in-3-months-injection-better-than-oral)
 
 * [Large single dose of more than 300,000 IU of vitamin D works well for 3 months – Review Nov 2013](/posts/large-single-dose-of-more-than-300000-iu-of-vitamin-d-works-well-for-3-months-review)

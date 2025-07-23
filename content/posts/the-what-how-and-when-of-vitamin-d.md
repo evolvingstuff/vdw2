@@ -68,29 +68,29 @@ under construction
 | | | | | |
 | --- | --- | --- | --- | --- |
 | Health Problem |  **<span style="color:#800080;">Prev </span> /** <br> **<span style="color:#008080;">Treat</span>**  | Reduction | &nbsp; &nbsp; &nbsp;Notes | # |
-| [Hypertension](/categories/hypertension) |  **<span style="color:#008080;">T </span>**  | <a href="/posts/149-to-142" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2301">149 to 142</a> | RCT, mm Hg avg., 2400 IU | 1 |
-| [Cardiovascular](/categories/cardiovascular)   |  **<span style="color:#008080;">T </span>**  | <a href="/posts/32-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2381">32 %</a>  | Death after heart failure, 1000 IU | 2 |
+| [Hypertension](/tags/hypertension.html) |  **<span style="color:#008080;">T </span>**  | [149 to 142](/tags/149-to-142.html) | RCT, mm Hg avg., 2400 IU | 1 |
+| [Cardiovascular](/tags/cardiovascular.html)   |  **<span style="color:#008080;">T </span>**  | [32 %](/tags/32.html)  | Death after heart failure, 1000 IU | 2 |
 | Diabetes T1   |  **<span style="color:#800080;">P </span>**  | [85 %](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1944)  | 12000 kids, 2000 IU | 3 |
-| <a href="/posts/diabetes-t2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Diabetes T2</a> |  **<span style="color:#008080;">T </span>**  | <a href="/posts/62-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 162">62 %</a>     | RCT, CRP reduction, 4000 IU  | 4 |
+| [Diabetes T2](/tags/diabetes-t2.html) |  **<span style="color:#008080;">T </span>**  | [62 %](/tags/62.html)     | RCT, CRP reduction, 4000 IU  | 4 |
 | Back Pain |  **<span style="color:#008080;">T </span>**  | [95 %](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1348)  | 5000/10000 IU | 5 |
-| <a href="/posts/influenza" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1304">Influenza</a>   |  **<span style="color:#800080;">P </span>**  | <a href="/posts/90-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2255">90 %</a> | RCT, 2000 IU | 6 |
-| <a href="/posts/falls" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1260">Falls</a>  |  **<span style="color:#800080;">P </span>**  | [19 %](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1173) | RCT, 1000 IU  | 7 |
-| <a href="/posts/hip-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1344">Hip Fractures</a>  |  **<span style="color:#800080;">P </span>**  | <a href="/posts/30-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2988">30 %</a> | Meta-analysis 800 IU | 8 |
-| [Rickets](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=22&sort_mode=created_desc)    |  **<span style="color:#800080;">P </span>**  | <a href="/posts/98-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1675">98 %</a> | Turkey, 400 IU | 9 |
-| <a href="/posts/raynauds-syndrome" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2729">Raynaud's Syndrome</a> |  **<span style="color:#008080;">T </span>**  | <a href="/posts/40-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2729">40 %</a>  | RCT, visual scale, 20000 IU avg | 10 |
-| Menstrual pain |  **<span style="color:#800080;">P </span>**  | <a href="/posts/76-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2781">76 %</a> | RCT, 7000 IU avg | 11 |
-| <a href="/posts/pregnancy-risks" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Pregnancy risks</a>  |  **<span style="color:#800080;">P </span>**  | <a href="/posts/50-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 185">50 %</a>    | RCT, 4000 IU | 12 |
-| <a href="/posts/c-section-unplanned" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 337">C-section, unplanned</a> |  **<span style="color:#800080;">P </span>**  | <a href="/posts/50-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1765">50 %</a>  | RCT,4000 IU, small study | 13 |
-| <a href="/posts/low-birth-weight" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Low birth weight</a> |  **<span style="color:#800080;">P </span>**  | <a href="/posts/60-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2979">60 %</a> | Meta-analysis 1000 IU of D2 | 14 |
-| <a href="/posts/tb" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1421">TB</a> |  **<span style="color:#800080;">P </span>**  | <a href="/posts/60-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2982">60 %</a>  | RCT 800 IU | 15 |
-| [Breast Cancer](/categories/breast-cancer)   |  **<span style="color:#800080;">P </span>**  | <a href="/posts/60-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 931">60 %</a>  | RCT 1100 IU | 16 |
-| <a href="/posts/rheumatoid-arthritis-pain" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1442">Rheumatoid Arthritis pain</a> |  **<span style="color:#008080;">T </span>**  | <a href="/posts/40-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2101">40 %</a> | RCT 500 IU, added to prescription | 17 |
-| [Cystic Fibrosis](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=68&sort_mode=created_desc) |  **<span style="color:#008080;">T </span>**  | <a href="/posts/75-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3055">75 %</a> | RCT pilot 4X fewer deaths 250,000 IU | 18 |
-| <a href="/posts/chronic-kidney" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 81">Chronic Kidney</a> |  **<span style="color:#008080;">T </span>**  | <a href="/posts/90-to-70" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3073">90 to 70</a> | RCT, 3500 IU, PTH avg | 19 |
-| [Respiratory Tract Infection](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&sort_mode=created_desc) |  **<span style="color:#800080;">P </span>**  | <a href="/posts/50-percent" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3170">50 %</a> | RCT 300 IU, children | 20  |
-| [Lupus](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=31&sort_mode=created_desc) |  **<span style="color:#008080;">T </span>**  | <a href="/posts/no-flares" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3285">No flares</a> | Loading then 100,000 IU monthly | 21 |
-| Sickle Cell  |  **<span style="color:#008080;">T </span>**  | <a href="/posts/less-pain" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2037">Less pain</a> | RCT up to 100,000 IU/week | 22 |
-| Leg ulcer healing |  **<span style="color:#008080;">T </span>**  | <a href="/posts/4x-faster" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3462">4X faster</a> | RCT, 50,0000 IU/week, small study | 23 |
+| [Influenza](/tags/influenza.html)   |  **<span style="color:#800080;">P </span>**  | [90 %](/tags/90.html) | RCT, 2000 IU | 6 |
+| [Falls](/tags/falls.html)  |  **<span style="color:#800080;">P </span>**  | [19 %](https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1173) | RCT, 1000 IU  | 7 |
+| [Hip Fractures](/tags/hip-fractures.html)  |  **<span style="color:#800080;">P </span>**  | [30 %](/tags/30.html) | Meta-analysis 800 IU | 8 |
+| [Rickets](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=22&sort_mode=created_desc)    |  **<span style="color:#800080;">P </span>**  | [98 %](/tags/98.html) | Turkey, 400 IU | 9 |
+| [Raynaud's Syndrome](/tags/raynauds-syndrome.html) |  **<span style="color:#008080;">T </span>**  | [40 %](/tags/40.html)  | RCT, visual scale, 20000 IU avg | 10 |
+| Menstrual pain |  **<span style="color:#800080;">P </span>**  | [76 %](/tags/76.html) | RCT, 7000 IU avg | 11 |
+| [Pregnancy risks](/tags/pregnancy-risks.html)  |  **<span style="color:#800080;">P </span>**  | [50 %](/tags/50.html)    | RCT, 4000 IU | 12 |
+| [C-section, unplanned](/tags/c-section-unplanned.html) |  **<span style="color:#800080;">P </span>**  | [50 %](/tags/50.html)  | RCT,4000 IU, small study | 13 |
+| [Low birth weight](/tags/low-birth-weight.html) |  **<span style="color:#800080;">P </span>**  | [60 %](/tags/60.html) | Meta-analysis 1000 IU of D2 | 14 |
+| [TB](/tags/tb.html) |  **<span style="color:#800080;">P </span>**  | [60 %](/tags/60.html)  | RCT 800 IU | 15 |
+| [Breast Cancer](/tags/breast-cancer.html)   |  **<span style="color:#800080;">P </span>**  | [60 %](/tags/60.html)  | RCT 1100 IU | 16 |
+| [Rheumatoid Arthritis pain](/tags/rheumatoid-arthritis-pain.html) |  **<span style="color:#008080;">T </span>**  | [40 %](/tags/40.html) | RCT 500 IU, added to prescription | 17 |
+| [Cystic Fibrosis](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=68&sort_mode=created_desc) |  **<span style="color:#008080;">T </span>**  | [75 %](/tags/75.html) | RCT pilot 4X fewer deaths 250,000 IU | 18 |
+| [Chronic Kidney](/tags/chronic-kidney.html) |  **<span style="color:#008080;">T </span>**  | [90 to 70](/tags/90-to-70.html) | RCT, 3500 IU, PTH avg | 19 |
+| [Respiratory Tract Infection](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&sort_mode=created_desc) |  **<span style="color:#800080;">P </span>**  | [50 %](/tags/50.html) | RCT 300 IU, children | 20  |
+| [Lupus](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=31&sort_mode=created_desc) |  **<span style="color:#008080;">T </span>**  | [No flares](/tags/no-flares.html) | Loading then 100,000 IU monthly | 21 |
+| Sickle Cell  |  **<span style="color:#008080;">T </span>**  | [Less pain](/tags/less-pain.html) | RCT up to 100,000 IU/week | 22 |
+| Leg ulcer healing |  **<span style="color:#008080;">T </span>**  | [4X faster](/tags/4x-faster.html) | RCT, 50,0000 IU/week, small study | 23 |
 
 ## Perspective: Already there are more  **<span style="color:#090;">intervention</span>**  trials for Vitamin D
 
@@ -134,7 +134,7 @@ To restock: take 50,000 IU every 3rd day for a total of 200,000 IU
 
 Feeling better will provide excellent positive feedback for you to continue taking sunshine in a pill.
 
-Not required, but you probably should have a <a href="/posts/vitamin-d-test" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 266">vitamin D test</a> after 3-6 months to see if you need to take the 50,000 IU pills more frequently.
+Not required, but you probably should have a [vitamin D test](/tags/vitamin-d-test.html) after 3-6 months to see if you need to take the 50,000 IU pills more frequently.
 
 Very unlikely  that you are taking too much vitamin D, but the test will show you if you need to take more (30 ng minimum, and many people and researchers feel 50-60 is optimal)
 
@@ -142,7 +142,7 @@ This vitamin D in a nutshell is a tiny subset of the information at <span>[www.V
 
 [Extremely little interaction with drugs, diseases](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=59&sort_mode=created_desc)
 
-If take more vitamin D you will need to take <a href="/posts/less-calcium-more-magesium-vitamin-k2-etc" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1270">less Calcium, more Magesium, Vitamin K2, etc,</a>
+If take more vitamin D you will need to take [less Calcium, more Magesium, Vitamin K2, etc,](/tags/less-calcium-more-magesium-vitamin-k2-etc.html)
 
 - - - - - - - - - - - - - - - -  MISC of things to maybe add  - - - - - - - -
 

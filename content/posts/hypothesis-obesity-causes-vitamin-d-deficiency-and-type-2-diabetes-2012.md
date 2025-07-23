@@ -54,10 +54,10 @@ PMID:     23208163
 
 * [Diabetes 6X more likely for those abdominal obese who have insufficient vitamin D – June 2012](/posts/diabetes-6x-more-likely-for-those-abdominal-obese-who-have-insufficient-vitamin-d)
 
-* <a href="/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet:  Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011">Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011</a>
+* [Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011](/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children)
 
-* <a href="/posts/obesity-and-diabetes-reduced-when-move-to-better-neighborhood-or-better-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity and diabetes reduced when move to better neighborhood – or better UV – Oct 2011">Obesity and diabetes reduced when move to better neighborhood – or better UV – Oct 2011</a>
+* [Obesity and diabetes reduced when move to better neighborhood – or better UV – Oct 2011](/posts/obesity-and-diabetes-reduced-when-move-to-better-neighborhood-or-better-uv)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)

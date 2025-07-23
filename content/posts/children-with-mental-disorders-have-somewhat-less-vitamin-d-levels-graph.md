@@ -140,7 +140,7 @@ Important future steps include the design of a larger prospective study with mor
 
 ## See also VitaminDWiki
 
-* <a href="/posts/mental-illness-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Mental Illness and Vitamin D">Mental Illness and Vitamin D</a>
+* [Mental Illness and Vitamin D](/posts/mental-illness-and-vitamin-d)
 
 * [Mental health problems cut in half when have adequate level of vitamin D – Jan 2013](/posts/mental-health-problems-cut-in-half-when-have-adequate-level-of-vitamin-d)
 

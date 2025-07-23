@@ -77,7 +77,7 @@ Conclusions: Although these findings will need to be confirmed, they suggest tha
 
 ## See also VitaminDWiki
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)
 
 * [Smoking associated with 9 ng less vitamin D age 40-50 – Nov 2014](/posts/smoking-associated-with-9-ng-less-vitamin-d-age-40-50)
 

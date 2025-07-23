@@ -55,7 +55,7 @@
 
 * No consensus: range is 600 to 1600 IU – based on many randomized controlled trials
 
-* <a href="/posts/virtually-all-infants-in-poland-got-400-iu-of-vitamin-d-daily-not-enough-non-daily-is-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Virtually all infants in Poland got 400 IU of Vitamin D daily (not enough, non-daily is better) – April 2021">Review of 400 IU to 2000 IU daily and higher if non-daily</a>
+* [Review of 400 IU to 2000 IU daily and higher if non-daily](/posts/virtually-all-infants-in-poland-got-400-iu-of-vitamin-d-daily-not-enough-non-daily-is-better)
 
 * [Fewer pre-infants were vitamin D deficient when they got 800 IU – RCT Feb 2014](/posts/fewer-pre-infants-were-vitamin-d-deficient-when-they-got-800-iu-rct) 
 
@@ -73,11 +73,11 @@
 
 * [5 out of 6 children who died in pediatric critical care unit had low vitamin D – May 2014](/posts/5-out-of-6-children-who-died-in-pediatric-critical-care-unit-had-low-vitamin-d)
 
-* <a href="/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022">Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022</a>
+* [Infants have gotten free 400 IU of vitamin D in Turkey since 2005, More for longer would be even better – Feb 2022](/posts/infants-have-gotten-free-400-iu-of-vitamin-d-in-turkey-since-2005-more-for-longe--be-even-better)
 
-* <a href="/posts/preemies-should-have-vitamin-d-supplements-reaching-an-agreement" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Preemies should have vitamin D supplements – reaching an agreement – April 2021">Preemies should have vitamin D supplements – reaching an agreement – April 2021</a>
+* [Preemies should have vitamin D supplements – reaching an agreement – April 2021](/posts/preemies-should-have-vitamin-d-supplements-reaching-an-agreement)
 
-* <a href="/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021">Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021</a>
+* [Vitamin D loading dose was as effective as daily dosing (rickets in this case) – RCT July 2021](/posts/vitamin-d-loading-dose-was-as-effective-as-daily-dosing-rickets-in-this-case-rct)
 
  **Having a good level of vitamin D cuts in half the amount of:** 
 
@@ -121,7 +121,7 @@
 
 > Colostrum has 3X more vitamin D than breast milk - provided the mother has any vitamin D to spare
 
-* <a href="/posts/100-iu-per-kg-of-infant" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1757">100 IU per kg of infant</a> July 2011, Poland etc.
+* [100 IU per kg of infant](/tags/100-iu-per-kg-of-infant.html) July 2011, Poland etc.
 
 > <img src="/attachments/d3.mock.jpg" alt="image">
 

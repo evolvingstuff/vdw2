@@ -41,11 +41,11 @@
 
 1. Air conditioning became prevalent in the last portion of the 20th century, allowing people to escape the heat
 
-> Rate of Multiple Sclerosis in women has gone up <a href="/posts/6x-in-the-past-30-years" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4111">6X in the past 30 years</a> in Tehran (MS is strongly related to lack of vitamin D)
+> Rate of Multiple Sclerosis in women has gone up [6X in the past 30 years](/tags/6x-in-the-past-30-years.html) in Tehran (MS is strongly related to lack of vitamin D)
 
-1. Predict that [rickets](/categories/rickets) will make its appearance soon in the Middle East 
+1. Predict that [rickets](/tags/rickets.html) will make its appearance soon in the Middle East 
 
-> Turkey managed to <a href="/posts/reduce-rate-of-rickets-by-60x" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1675">reduce rate of rickets by 60X</a> by giving 400 IU of vitamin D to EVERY child
+> Turkey managed to [reduce rate of rickets by 60X](/tags/reduce-rate-of-rickets-by-60x.html) by giving 400 IU of vitamin D to EVERY child
 
  **Hajab prevalence: Wikipedia** 
 

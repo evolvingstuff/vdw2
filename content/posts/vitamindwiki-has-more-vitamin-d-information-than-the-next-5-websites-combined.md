@@ -40,7 +40,7 @@
 
 ## Search results – Nov 2012
 
-### ||Topic|VitaminDWiki|<a href="/posts/5-vitamin-d-web-sites" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2936">5 vitamin D web sites</a>
+### ||Topic|VitaminDWiki|[5 vitamin D web sites](/tags/5-vitamin-d-web-sites.html)
 
 Pain |1180 |565
 

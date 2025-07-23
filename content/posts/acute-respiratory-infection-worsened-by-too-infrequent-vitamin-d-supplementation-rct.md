@@ -62,7 +62,7 @@ But the body does not average the doses given less frequently that every 3 weeks
 
 * [Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013](/posts/vitamin-d-and-respiratory-tract-infections-meta-analysis-with-charts)
 
-* <a href="/posts/covid-ards-deaths-2x-more-likely-if-less-than-10-ng-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: COVID ARDS deaths 2X more likely if less than 10 ng of Vitamin D – Aug 8, 2020">COVID ARDS deaths 2X more likely if less than 10 ng of Vitamin D – Aug 8, 2020</a>
+* [COVID ARDS deaths 2X more likely if less than 10 ng of Vitamin D – Aug 8, 2020](/posts/covid-ards-deaths-2x-more-likely-if-less-than-10-ng-of-vitamin-d)
 
 * [Acute respiratory tract infections prevented by vitamin D (even when ignoring the dose size – Meta-analysis Feb 2017](/posts/acute-respiratory-tract-infections-prevented-by-vitamin-d-even-when-ignoring-the-e-meta-analysis)
 

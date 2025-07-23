@@ -501,10 +501,10 @@ Following approaches should be considered by healthcare-responsible organisation
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 339">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2143">Overview Women and Vitamin D</a> which has the following graphic
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d) which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">

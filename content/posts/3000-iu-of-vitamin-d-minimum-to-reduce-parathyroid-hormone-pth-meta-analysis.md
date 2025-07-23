@@ -53,6 +53,6 @@ Despite the present meta-analysis being hindered by some limitations, it provide
 
 * [Hyperparathyroidism – still not absolutely, positively sure that vitamin D should be used to treat it – March 2014](/posts/hyperparathyroidism-still-not-absolutely-positively-sure-that-vitamin-d-should-be-used-to-treat-it)
 
-* <a href="/posts/parathyroid-hormone-level-is-inversely-associated-with-both-vitamin-d-and-age" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Parathyroid hormone level is inversely associated with both Vitamin D and age – April 2021">Parathyroid hormone level is inversely associated with both Vitamin D and age – April 2021</a>
+* [Parathyroid hormone level is inversely associated with both Vitamin D and age – April 2021](/posts/parathyroid-hormone-level-is-inversely-associated-with-both-vitamin-d-and-age)
 
-* <a href="/posts/parathyroid-vitamin-d-inflection-points-might-be-at-both-16-and-32-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Parathyroid – Vitamin D inflection points might be at both 16 and 32 ng – Oct 2019">Parathyroid – Vitamin D inflection points might be at both 16 and 32 ng – Oct 2019</a>
+* [Parathyroid – Vitamin D inflection points might be at both 16 and 32 ng – Oct 2019](/posts/parathyroid-vitamin-d-inflection-points-might-be-at-both-16-and-32-ng)

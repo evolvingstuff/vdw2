@@ -59,17 +59,17 @@ Deficiency level is not defined in the abstract
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-asthma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Asthma and Vitamin D">Overview Asthma and Vitamin D</a>
+* [Overview Asthma and Vitamin D](/posts/overview-asthma-and-vitamin-d)
 
 * [Asthma reduced 60 percent with vitamin D supplementation – meta-analysis 2014, 2015](/posts/asthma-reduced-60-percent-with-vitamin-d-supplementation-meta-analysis-2014-2015)
 
-* <a href="/posts/proof-that-vitamin-d-works" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Proof that Vitamin D Works">Proof that Vitamin D Works</a>
+* [Proof that Vitamin D Works](/posts/proof-that-vitamin-d-works)
 
 > <span style="color:#00F;">Asthma has been proven to be treated by Vitamin D in at least 4 random controlled trials</span>
 
 * [Women with asthma 35X more likely to be vitamin D deficient – Oct 2013](/posts/women-with-asthma-35x-more-likely-to-be-vitamin-d-deficient)
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> has a notional chart for Vitamin D levels < 30 nanograms
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) has a notional chart for Vitamin D levels < 30 nanograms
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

@@ -48,7 +48,7 @@
 | 1. 2:  | ((Overview: Omega-3 many benefits include helping vitamin D | Omega-3 Fats))  |  |
 | 1. 3:  | ((Overview Vitamin K and Vitamin D | Vitamin K2)) |  |
 | 1. 4: | ((Overview Magnesium and vitamin D | Magnesium))  | 80%  are deficient |
-| 1. 5: | <a href="/posts/vitamin-b12" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin B12">Vitamin B12</a>  | 25% of adults  are deficient, <br>((Liver stores 4 months of vitamin D, 48 months of Vit. A, and 60 months of Vit. B-12 | is stored in body for 60 months)) |
+| 1. 5: | [Vitamin B12](/posts/vitamin-b12)  | 25% of adults  are deficient, <br>((Liver stores 4 months of vitamin D, 48 months of Vit. A, and 60 months of Vit. B-12 | is stored in body for 60 months)) |
 | 1. 6:  | Vitamin E |  |
 | 1. 7:  | ((Vitamin D needs some vitamin A, but not too much | Vitamin A)) |  |
 | 1. 8:  | ((Vitamin D and Iodine are similar, and both are deficient and important to health | Iodine)) | 40%  are deficient |
@@ -62,7 +62,7 @@
 I would interchange Magnesium with Omega-3 in order of importance  
 &nbsp; &nbsp; &nbsp; Henry Lahore, admin of VitaminDWiki
 
-<a href="/posts/ways-to-improve-health" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Ways to improve health">Ways to improve health</a> under construction Jan 2019
+[Ways to improve health](/posts/ways-to-improve-health) under construction Jan 2019
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="600">
 

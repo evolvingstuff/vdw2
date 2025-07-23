@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta charset=utf-8><title>Vitamin D is a biomarker for autoimmune, neurological and psychiatric diseases</title>
+<link rel=stylesheet href="/css/main.css?v=1753303882"><link rel=stylesheet href="/css/pagination.css?v=1753303882"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303882"></script><script src="/js/search.js?v=1753303882"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Vitamin D is a biomarker for autoimmune, neurological and psychiatric diseases</h1><time>January 31, 2022</time><div data-pagefind-body><nav id=TableOfContents><ul><li><ul><li><ul><li><a href=#serum-vitamin-d-as-a-biomarker-in-autoimmune-psychiatric-and-neurodegenerative-diseases>Serum Vitamin D as a Biomarker in Autoimmune, Psychiatric and Neurodegenerative Diseases</a></li></ul></li></ul></li></ul></nav><hr><h4 id=serum-vitamin-d-as-a-biomarker-in-autoimmune-psychiatric-and-neurodegenerative-diseases>Serum Vitamin D as a Biomarker in Autoimmune, Psychiatric and Neurodegenerative Diseases</h4><p>Diagnostics 2022, 12, 130. https:// doi.org/ 10.3390/diagnostics12010130</p><p><strong>Autoimmune</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/auto1.jpg alt=image width=900>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/auto2.jpg alt=image width=900>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/auto3.jpg alt=image width=900><p><strong>Depression Schizophrenia</strong></p><img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/mdd1.jpg alt=image width=800>
+<img src=https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/mdd2.jpg alt=image width=800><p>Giulia Bivona , Caterina Maria Gambino 1,+, Bruna Lo Sasso 1, Concetta Scazzone 1, Rosaria Vincenza Giglio 1, Luisa Agnello 1 and Marcello Ciaccio 1,2/*</p><p>Department of Biomedicine, Neurosciences and Advanced Diagnostics, Institute of Clinical Biochemistry, Clinical Molecular Medicine and Clinical Laboratory Medicine, University of Palermo, 90127 Palermo, Italy; <a href=mailto:giulia.bivona@unipa.it>giulia.bivona@unipa.it</a> (G.B.); <a href=mailto:cmgambino@libero.it>cmgambino@libero.it</a> (C.M.G.); <a href=mailto:bruna.losasso@unipa.it>bruna.losasso@unipa.it</a> (B.L.S.); <a href=mailto:concetta.scazzone@unipa.it>concetta.scazzone@unipa.it</a> (C.S.); <a href=mailto:giglio.rosaria.vincenza@gmail.com>giglio.rosaria.vincenza@gmail.com</a> (R.V.G.); <a href=mailto:luisa.agnello@unipa.it>luisa.agnello@unipa.it</a> (L.A.)</p><p>Department of Laboratory Medicine, University Hospital &ldquo;P Giaccone&rdquo;, 90127 Palermo, Italy * Correspondence: <a href=mailto:marcello.ciaccio@unipa.it>marcello.ciaccio@unipa.it</a>; Tel.: +39-0916553296</p><p>Vitamin D is a steroid hormone regulating calcium-phosphorus homeostasis, immune response and brain function. In the past thirty years, an increasing number of cohort studies, metaanalyses and randomized controlled trials (RTCs) evaluated the serum levels of 25-hydroxyvitamin D <span>[25(OH)D]</span>, which is considered the Vitamin D status biomarker, in patients affected by neurological, psychiatric and autoimmune diseases. Although an association between low 25(OH)D serum levels and the prevalence of these diseases has been found, it is still unclear whether the serum 25(OH)D measurement can be clinically useful as a biomarker for diagnosis, prognosis and predicting treatment response in neurodegeneration, mental illness and immune-mediated disorders. The lack of standardized data, as well as discrepancies among the studies (in the analytical methods, cut-offs, endpoints and study sets), weakened the findings achieved, hindered pooling data, and, consequently, hampered drawing conclusions. This narrative review summarizes the main findings from the studies performed on serum 25(OH)D in neurological, psychiatric and autoimmune diseases, and clarifies whether or not serum 25(OH)D can be used as a reliable biomarker in these diseases.</p><p><strong><i class="fas fa-file-pdf" style=margin-right:.3em></i><a href=https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/biomarker-in-autoimmune-psychiatric-and-neurodegenerative-diseases.pdf>Download the PDF from VitaminDWiki</a></strong></p><h5 id=a-biomarker-is-used-to-identify-monitor-and-predict-treatment-responses>A biomarker is used to identify, monitor and predict treatment responses</h5></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/autoimmune.html><span class=tag>Autoimmune</span></a>
+<a href=/tags/brain.html><span class=tag>brain</span></a>
+<a href=/tags/cognitive.html><span class=tag>cognitive</span></a>
+<a href=/tags/cognitive.html><span class=tag>Cognitive</span></a>
+<a href=/tags/depression.html><span class=tag>depression</span></a>
+<a href=/tags/depression.html><span class=tag>Depression</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/lupus.html><span class=tag>Lupus</span></a>
+<a href=/tags/mental-illness.html><span class=tag>mental illness</span></a>
+<a href=/tags/mood-disorders.html><span class=tag>mood disorders</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>Multiple Sclerosis</span></a>
+<a href=/tags/rheumatoid-arthritis.html><span class=tag>Rheumatoid Arthritis</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-blood-test.html><span class=tag>vitamin d blood test</span></a></div><div data-pagefind-meta=tags hidden>autoimmune, Autoimmune, brain, cognitive, Cognitive, depression, Depression, high dose, intervention, Lupus, mental illness, mood disorders, Multiple Sclerosis, Rheumatoid Arthritis, therapeutic intervention, vitamin d, vitamin d blood test</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303882"></script><script src="/js/tiki-redirects.js?v=1753303882"></script><script src="/js/lightspa.js?v=1753303882"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303882",indexUrl:"/search/search_index.json.gz?v=1753303882"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303882"></script></body></html>

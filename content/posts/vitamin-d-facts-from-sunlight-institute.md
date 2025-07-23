@@ -64,6 +64,6 @@
 
  **For the scientific references and articles for the above statements, visit [http://sunlightinstitute.org](http://sunlightinstitute.org)** 
 
-Marc Sorenson is the co-author of <a href="/posts/embrace-the-sun-benefits-of-the-sun-nitric-oxide-etc-book" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Embrace the Sun – benefits of the sun (Nitric Oxide etc.) – book June 2018">Embrace the Sun – benefits of the sun (Nitric Oxide etc.) – book June 2018</a>
+Marc Sorenson is the co-author of [Embrace the Sun – benefits of the sun (Nitric Oxide etc.) – book June 2018](/posts/embrace-the-sun-benefits-of-the-sun-nitric-oxide-etc-book)
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/embrace-the-sun.jpg" alt="image" width="300">

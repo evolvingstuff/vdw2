@@ -80,29 +80,29 @@ Soluion - be ready to add magnesium when taking lots of vitamin D
 
 ## See also VitaminDWiki
 
-* <a href="/posts/magnesium-and-vitamin-d-discussions-on-facebook" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Magnesium and vitamin D discussions on Facebook">Magnesium and vitamin D discussions on Facebook</a>
+* [Magnesium and vitamin D discussions on Facebook](/posts/magnesium-and-vitamin-d-discussions-on-facebook)
 
-* <a href="/posts/constipation-magnesium-calcium-and-cofactors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Constipation - Magnesium, Calcium and cofactors">Constipation - Magnesium, Calcium and cofactors</a> Lots of Vitamin D and not enough Magnesium ==> constipation
+* [Constipation - Magnesium, Calcium and cofactors](/posts/constipation-magnesium-calcium-and-cofactors) Lots of Vitamin D and not enough Magnesium ==> constipation
 
-* <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a> which include the following
+* [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d) which include the following
 
-> Try a different form of vitamin D: <a href="/posts/bioemulsified" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1252">bioemulsified</a>, <a href="/posts/liquid-sublingual" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 120">liquid, sublingual,</a> 
+> Try a different form of vitamin D: [bioemulsified](/tags/bioemulsified.html), [liquid, sublingual,](/tags/liquid-sublingual.html) 
 
-> Try [sun](/categories/sun) or [UV](/categories/uv) instead of vitamin D (but not if you have an allergic reaction to the sun - which sometimes due to being very low on vitamin D)
+> Try [sun](/tags/sun.html) or [UV](/tags/uv.html) instead of vitamin D (but not if you have an allergic reaction to the sun - which sometimes due to being very low on vitamin D)
 
 * Try taking it just after the largest meal of the day
 
-* <a href="/posts/some-people-have-problems-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Some people have problems with vitamin D">Some people have problems with vitamin D</a>
+* [Some people have problems with vitamin D](/posts/some-people-have-problems-with-vitamin-d)
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a>
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response)
 
-* <a href="/posts/side-effects-and-warning-for-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 498">Side Effects and Warning for vitamin D</a>
+* [Side Effects and Warning for vitamin D](/posts/side-effects-and-warning-for-vitamin-d)
 
 > Excessive thirst,     Metal taste in mouth,     Poor appetite,     Weight loss,     Bone pain,     Tiredness,     Sore eyes,     Itchy skin,     
 
 > Vomiting,     Diarrhea,     Constipation,     A frequent need to urinate,     Muscle problems 
 
-* <a href="/posts/on-line-survey-of-drug-uses-and-side-effects-including-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1054">On-line survey of drug uses and side effects – including vitamin D</a>
+* [On-line survey of drug uses and side effects – including vitamin D](/posts/on-line-survey-of-drug-uses-and-side-effects-including-vitamin-d)
 
  **Which contains the following chart:** 
 

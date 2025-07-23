@@ -61,14 +61,14 @@ PMID:     24423366
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-hyperparathyroidism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Hyperparathyroidism and vitamin D">Overview Hyperparathyroidism and vitamin D</a>  which has the following graphic
+* [Overview Hyperparathyroidism and vitamin D](/posts/overview-hyperparathyroidism-and-vitamin-d)  which has the following graphic
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/hyper-and-d.jpg" alt="image" width="500">
 
 * [50,000 IU vitamin D weekly is safe and effective for Primary Hyperparathyroidism – Jan 2013](/posts/50000-iu-vitamin-d-weekly-is-safe-and-effective-for-primary-hyperparathyroidism)
 
-* <a href="/posts/primary-hyperparathyroidism-perfectly-predicted-with-a-vitamin-d-based-nomogram" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Primary Hyperparathyroidism perfectly predicted with a Vitamin D-Based nomogram – Nov 2011">Primary Hyperparathyroidism perfectly predicted with a Vitamin D-Based nomogram – Nov 2011</a>
+* [Primary Hyperparathyroidism perfectly predicted with a Vitamin D-Based nomogram – Nov 2011](/posts/primary-hyperparathyroidism-perfectly-predicted-with-a-vitamin-d-based-nomogram)
 
-* <a href="/posts/patients-low-on-vitamin-d-stay-in-hospital-longer-after-thyroid-removal" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Patients low on vitamin D stay in hospital longer after thyroid removal – Dec 2010">Patients low on vitamin D stay in hospital longer after thyroid removal – Dec 2010</a>
+* [Patients low on vitamin D stay in hospital longer after thyroid removal – Dec 2010](/posts/patients-low-on-vitamin-d-stay-in-hospital-longer-after-thyroid-removal)
 
-* <a href="/posts/overview-thyroid-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Thyroid and Vitamin D">Overview Thyroid and Vitamin D</a>
+* [Overview Thyroid and Vitamin D](/posts/overview-thyroid-and-vitamin-d)

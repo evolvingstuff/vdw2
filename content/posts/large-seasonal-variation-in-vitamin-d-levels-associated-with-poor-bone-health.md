@@ -48,7 +48,7 @@ PMID:     23982802
 
 * [Vitamin D seasonality is a function of amount of atmosphere in the way – June 2013](/posts/vitamin-d-seasonality-is-a-function-of-amount-of-atmosphere-in-the-way)
 
-* <a href="/posts/vitamin-d-genes-varied-seasonally-with-european-but-not-asian-ancestors-vdbp" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Genes varied seasonally with European but not Asian ancestors – VDBP June 2011">Vitamin D Genes varied seasonally with European but not Asian ancestors – VDBP June 2011</a>
+* [Vitamin D Genes varied seasonally with European but not Asian ancestors – VDBP June 2011](/posts/vitamin-d-genes-varied-seasonally-with-european-but-not-asian-ancestors-vdbp)
 
 * [Low vitamin D associated with 5.5X increased risk of low bone mineral density – March 2013](/posts/low-vitamin-d-associated-with-55x-increased-risk-of-low-bone-mineral-density)
 

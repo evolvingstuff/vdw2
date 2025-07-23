@@ -69,11 +69,11 @@ Growing pain level dropped to  **2.7**
 
  **Personal note** 
 
-I often had growing pains in my legs as a child living in <a href="/posts/us-cities-with-least-amount-of-sunshine-top-15-all-in-washington" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: US Cities with least amount of sunshine - top 15 all in Washington">cloudy Seattle</a>.
+I often had growing pains in my legs as a child living in [cloudy Seattle](/posts/us-cities-with-least-amount-of-sunshine-top-15-all-in-washington).
 
 Most likely I was vitamin D deficient.
 
-Also, my mom smoked - and <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">smoke is known to decrease vitamin D</a>
+Also, my mom smoked - and [smoke is known to decrease vitamin D](/posts/smoking-reduces-vitamin-d-many-studies)
 
 A hint that I was vitamin D deficient - I got a sunburn virtually every year.
 
@@ -81,7 +81,7 @@ I also had two other conditions associated with Growing Pains: (comorbid)
 
 &nbsp; &nbsp; &nbsp; [restless legs](/posts/restless-legs-syndrome-vitamin-d-iron-etc-many-studies) and charlie horse leg cramps
 
-I still had <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">sore tibia and sternum</a> untill a few years ago when I increased by vitamin D levels
+I still had [sore tibia and sternum](/posts/quick-free-self-test-for-vitamin-d-deficiency) untill a few years ago when I increased by vitamin D levels
 
 Henry Lahore, founder of VitaminDWiki
 

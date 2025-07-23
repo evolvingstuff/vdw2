@@ -1,0 +1,74 @@
+<!doctype html><html><head><meta charset=utf-8><title>Beyond the Coimbra Protocol - 2020</title>
+<link rel=stylesheet href="/css/main.css?v=1753303880"><link rel=stylesheet href="/css/pagination.css?v=1753303880"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css><script src="/js/search-suggestions.js?v=1753303880"></script><script src="/js/search.js?v=1753303880"></script><script type=module>
+        
+        window.initPagefind = async function() {
+            try {
+                console.log('Loading Pagefind module...');
+                window.pagefind = await import('/pagefind/pagefind.js');
+                if (!window.pagefind) {
+                    throw new Error('Failed to load Pagefind module - import returned empty result');
+                }
+                
+                console.log('Initializing Pagefind...');
+                const initResult = await window.pagefind.init();
+                console.log('Pagefind loaded and initialized');
+                
+                
+                if (window.searchInstance) {
+                    console.log('Notifying Search instance of Pagefind initialization');
+                    window.searchInstance.initializePagefind(window.pagefind);
+                    console.log('Search instance successfully notified');
+                } else {
+                    console.warn('Search instance not found in global scope yet, but Pagefind is loaded');
+                    
+                }
+            } catch (error) {
+                console.error('CRITICAL ERROR: Failed to initialize Pagefind:', error);
+                
+                const errorDetails = error.stack || error.message || String(error);
+                console.error('Error details:', errorDetails);
+                
+                
+                const statusEl = document.querySelector('#search-status');
+                const inputEl = document.querySelector('#search-input');
+                
+                if (statusEl) {
+                    statusEl.textContent = 'Search unavailable: ' + error.message;
+                    statusEl.style.display = 'block';
+                    statusEl.style.color = 'red';
+                }
+                
+                if (inputEl) {
+                    inputEl.disabled = true;
+                    inputEl.placeholder = 'Search unavailable';
+                }
+            }
+        };
+        
+        
+        window.pagefindInitialized = false;
+        
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded, initializing Pagefind...');
+            window.initPagefind();
+        });
+    </script></head><body><div class=top-nav><div class=home-icon><a href=/ title="Go to Home Page"><svg viewBox="0 0 576 512" width="28" height="28"><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1.0-2.2.0-3.3-.1-1.4.1-2.8.1-4.2.1H416 392c-22.1.0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7.0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5.0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2H104c-22.1.0-40-17.9-40-40V360c0-.9.0-1.9.1-2.8V287.6H32c-18 0-32-14-32-32.1.0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg></a></div><div class=search-container><div class=search-icon><i class="fas fa-search"></i></div><input type=text id=search-input placeholder=Search... disabled><div id=suggestions class=search-suggestions style=display:none></div><ul id=search-results style=display:none></ul><div id=search-results-panel class=search-results-panel><div class=results-header>Search Results</div><ul id=search-results-panel-list class=results-list></ul></div></div></div><div class=container><div class="content content-full-width" role=main><article><div class=scroll-nav-top><a href=javascript:void(0); id=scroll-to-bottom class=scroll-button aria-label="Scroll to bottom" onclick='return window.scrollTo({top:document.body.scrollHeight,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 4a.5.5.0 01.5.5v5.793l2.146-2.147a.5.5.0 01.708.708l-3 3a.5.5.0 01-.708.0l-3-3a.5.5.0 11.708-.708L7.5 10.293V4.5A.5.5.0 018 4z"/></svg>
+<span>Scroll to Bottom</span></a></div><h1>Beyond the Coimbra Protocol - 2020</h1><time>March 22, 2022</time><div data-pagefind-body><div class=border style="background-color:#fffae2;padding:15px;margin:10px 0;border-radius:5px;width:800px"><p>Revolutions, like the Coimbra Protocol for Multiple Sclerosis, often need to evolve.</p><p>The Coimbra Protocol appears to not be correct for everyone.</p><p>Some people need different brands and different amounts of some of the nutrients.</p><p>Some people have problems with heavy metals, some foods. and need probiotics.</p><p>The text below this box was written by Michael Cawley, who has splintered off from the protocol.</p><p>Wonder how many need this: 1%?, 10%?</p><p>Wonder how well this evolution can also be used with other autoimmune diseases.</p><p>Wonder if using Vitamin D Receptor activators could further reduce the Vitamin D levels needed.</p><p>Wonder how many could benefit from weekly vitamin D. (gets past VDR restrictions)</p><p>Wonder how many need gut-friendly Vitamin D.</p><p>Wonder how many other practioners have also evolved.</p></div><h4 id=beyond-the-coimbra-protocol>Beyond the Coimbra Protocol</h4><p>My work would not be possible were it not for the discoveries of pioneering Brazilian neurologist Cicero Coimbra. In 2016, I was trained in Brazil in the use of the high-dose vitamin D3 protocol. The core ideas for halting and reversing MS originate from Cicero Coimbra and I am forever grateful for the groundbreaking ideas regarding the use of high doses of Vitamin D3 for the treatment of MS.</p><p>In 2017, I ceased using the Coimbra protocol, as adverse clinical responses to Vitamin D3, Vitamin B2 and/or magnesium were observed in 80% of MS patients.</p><ol><li><p>In the Coimbra Protocol all vitamin D3 supplements are considered equal. There is no mention that only four brands of Vitamin D3 out of several dozen tested since 1999, reverse symptoms of MS and halt disease progression.</p></li><li><p>In the Coimbra Protocol there is no mention that Vitamin D3 supplementation even at 10,000 iu doses can increase symptoms of MS.</p></li><li><p>In the Coimbra Protocol there is no mention that brands of vitamin D3 need to be tested by each patient to discover which brands are the most effective and at which doses.</p></li><li><p>In the Coimbra Protocol there is no suggestion that 2 or 3 brands of vitamin D3 can be taken simultaneously at different low doses to obtain the greatest gains. 90% of the MS patients I have seen since 2015 take two brands of vitamin D3.</p></li><li><p>In the Coimbra Protocol the starting dose of Vitamin D3 is 1000 iu per Kg of body weight. There is no mention of the MS patients whose symptoms become worse at this dose. These MS patients will often reverse symptoms with the right brand of Vitamin D3 at lower doses of 17,000 iu to 30,000 iu of Vitamin D3 per day.</p></li><li><p>Medical grade magnesium is widely available and it is critical to the success of Vitamin D3. In the Coimbra Protocol brands of magnesium that are of no clinical benefit are recommended and the doses suggested are too low.</p></li><li><p>Neurotoxic heavy metals are commonly found in the brains of MS patients. When magnesium supplements are introduced, the magnesium can interact with heavy metals to cause an instant and very obvious increase in MS symptoms. In the Coimbra Protocol patients are not warned that neurological symptoms can become worse with the addition of magnesium.</p></li><li><p>The use of heavy metal decontamination products to remedy adverse reactions to magnesium and to remove toxic gadolinium contrast agent from MRI’s is not part of the Coimbra Protocol.</p></li><li><p>The correct dose of medical-grade Vitamin K2 is essential to keep calcium where it belongs, in our bones and in our teeth. A deficiency of Vitamin K2 may increase risks of calcium toxicity, kidney stones and calcium accumulation in the cardiovascular system.</p></li><li><p>Vitamin B2 can help in the conversion of vitamin D3 from inactive to active. The use of Vitamin B2 (riboflavin) was pioneered by Cicero Coimbra MD and 50% of MS patients enjoy great benefits from its use. However, vitamin B2 can inflame neurological symptoms in as many as 50% of patients which patients often misinterpret as an MS flare. After testing dozens of brands of Vitamin B2 on MS patients for over 2 years only 3 brands were discovered that can hugely improve MS symptoms.</p></li><li><p>Diet is a critical partner to Vitamin D3 in the fight against multiple sclerosis. The majority of MS patients report more energy and less intense symptoms on a diet that contains little or none of the following foods,</p></li></ol><p>A) Refined sugar B ) Wheat and grains C) Beans/legumes D) Dairy products E) Alcohol</p><ol start=12><li><p>Multiple studies have shown a connection between low levels of beneficial bacteria (probiotics) in the faeces of MS patients and increased severity of the disease. Probiotic supplementation is not part of the Coimbra Protocol; I have researched probiotics for over 20 years and recommend 3 brands of probiotics every Saturday and Sunday to top up intestinal flora.</p></li><li><p>The symptoms of heavy metal poisoning are similar to the symptoms of multiple sclerosis. Research in European cities note an increase in MS patients suffering relapses at times of increased amounts of metal in air pollution. After 25 years of research in this area, I have identified 4 highly effective decontamination products. Most people I work with report a reduction or resolution of chronic symptoms with these decontamination supplements.</p></li></ol><p>My philosophy is to educate each person to maximize the healing potential of Vitamin D3, nutritional supplements, diet and heavy metal decontamination in their fight against MS.</p><p><strong>‘Personalised Vitamin D3 For MS with Michael Cawley’</strong>   <strong><a href=https://www.facebook.com/groups/629001147449412%20>Facebook</a></strong></p></div><hr class=tag-separator><div class=tags><span>Tags: </span><a href=/tags/alcohol.html><span class=tag>alcohol</span></a>
+<a href=/tags/autoimmune.html><span class=tag>autoimmune</span></a>
+<a href=/tags/bacteria.html><span class=tag>bacteria</span></a>
+<a href=/tags/dosage.html><span class=tag>dosage</span></a>
+<a href=/tags/genetics.html><span class=tag>genetics</span></a>
+<a href=/tags/health-risk.html><span class=tag>health risk</span></a>
+<a href=/tags/high-dose.html><span class=tag>high dose</span></a>
+<a href=/tags/intervention.html><span class=tag>intervention</span></a>
+<a href=/tags/magnesium.html><span class=tag>magnesium</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>multiple sclerosis</span></a>
+<a href=/tags/multiple-sclerosis.html><span class=tag>Multiple Sclerosis</span></a>
+<a href=/tags/pollution.html><span class=tag>pollution</span></a>
+<a href=/tags/probiotics.html><span class=tag>probiotics</span></a>
+<a href=/tags/therapeutic-intervention.html><span class=tag>therapeutic intervention</span></a>
+<a href=/tags/vitamin-d.html><span class=tag>vitamin d</span></a>
+<a href=/tags/vitamin-d-receptor.html><span class=tag>vitamin d receptor</span></a>
+<a href=/tags/vitamin-k.html><span class=tag>vitamin k</span></a></div><div data-pagefind-meta=tags hidden>alcohol, autoimmune, bacteria, dosage, genetics, health risk, high dose, intervention, magnesium, multiple sclerosis, Multiple Sclerosis, pollution, probiotics, therapeutic intervention, vitamin d, vitamin d receptor, vitamin k</div><div class=scroll-nav-bottom id=article-bottom><a href=javascript:void(0); id=scroll-to-top class=scroll-button aria-label="Scroll to top" onclick='return window.scrollTo({top:0,behavior:"smooth"}),!1'><svg width="16" height="16" fill="currentcolor" viewBox="0 0 16 16"><path d="M8 12a.5.5.0 00.5-.5V5.707l2.146 2.147a.5.5.0 00.708-.708l-3-3a.5.5.0 00-.708.0l-3 3a.5.5.0 10.708.708L7.5 5.707V11.5a.5.5.0 00.5.5z"/></svg>
+<span>Back to Top</span></a></div></article></div></div><script src="/js/toc-sanitizer.js?v=1753303880"></script><script src="/js/tiki-redirects.js?v=1753303880"></script><script src="/js/lightspa.js?v=1753303880"></script><script>const spa=new LightSPA({mainContentSelector:'[role="main"]',navigationSelector:"[data-spa-nav]"});window.search=new Search({documentsUrl:"/search/search_documents.json.gz?v=1753303880",indexUrl:"/search/search_index.json.gz?v=1753303880"}),document.addEventListener("DOMContentLoaded",function(){function e(e){var t=e.querySelector(".category-expander"),n=e.querySelector(".subcategory-list");e.classList.contains("collapsed")?(e.classList.remove("collapsed"),e.classList.add("expanded"),t.textContent="-",n.style.display="block"):(e.classList.remove("expanded"),e.classList.add("collapsed"),t.textContent="+",n.style.display="none")}document.querySelectorAll(".category-expander").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})}),document.querySelectorAll(".category-name").forEach(function(t){t.addEventListener("click",function(t){t.stopPropagation();var n=this.closest(".top-level-category");e(n)})})})</script><script src="/js/scroll-buttons.js?v=1753303880"></script></body></html>

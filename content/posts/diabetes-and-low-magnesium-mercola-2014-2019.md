@@ -26,7 +26,7 @@
 
 {{< toc >}}
 
-#### <a href="/posts/low-magnesium-linked-to-diabetes-and-high-blood-pressure" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 5354">Low Magnesium Linked to Diabetes and High Blood Pressure</a> Nov 2019
+#### [Low Magnesium Linked to Diabetes and High Blood Pressure](/tags/low-magnesium-linked-to-diabetes-and-high-blood-pressure.html) Nov 2019
 
  **Some new references** 
 

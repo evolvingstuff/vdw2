@@ -71,11 +71,11 @@ Young KA1, Munroe ME2, Guthridge JM2, Kamen DL3, Niewold TB4, Gilkeson GS3, Weis
 
 * [Lupus flares totally eliminated by loading dose then 100000 IU of vitamin D each month – Oct 2012](/posts/lupus-flares-totally-eliminated-by-loading-dose-then-100000-iu-of-vitamin-d-each-month)
 
-* <a href="/posts/cyp24a1-gene-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: CYP24A1 gene and Vitamin D - many studies">CYP24A1 gene and Vitamin D - many studies</a> - shows the many diseases associated with CYP24A1
+* [CYP24A1 gene and Vitamin D - many studies](/posts/cyp24a1-gene-and-vitamin-d-many-studies) - shows the many diseases associated with CYP24A1
 
 > examples: Lung Cancer, Breast Cancer, and Kidney disease
 
- **[Genetics](/categories/genetics) category listing contains the following** 
+ **[Genetics](/tags/genetics.html) category listing contains the following** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/genes-not-noticed.jpg" alt="image" width="670">
 

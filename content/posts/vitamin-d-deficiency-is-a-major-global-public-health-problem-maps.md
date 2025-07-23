@@ -113,7 +113,7 @@ In conclusion, vitamin D deficiency is a global public health problem in all age
 
 * [Vitamin D levels in healthy populations around the globe – Aug 2012](/posts/vitamin-d-levels-in-healthy-populations-around-the-globe)
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a> which has the following
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d) which has the following
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

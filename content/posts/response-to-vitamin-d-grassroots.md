@@ -45,7 +45,7 @@ No indication as to how many months of dosing before the blood test - but I susp
 
 * Age - seniors have much less response  to oral supplmentation - due to many of the above
 
-* <a href="/posts/gallbladder-removal-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency">Gallbladder had been removed</a> ~600,000 annually in the US
+* [Gallbladder had been removed](/posts/gallbladder-removal-and-vitamin-d-deficiency) ~600,000 annually in the US
 
 * Differences in (amount of skin) X (hours of noon-day sun) obtained in addition to oral supplementation
 
@@ -55,7 +55,7 @@ No indication as to how many months of dosing before the blood test - but I susp
 
 > &nbsp; &nbsp; to 10 square feet of skin for 10 hours of noon-day sun per week
 
-see <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a> for details
+see [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d) for details
 
 ### 2015 chart
 
@@ -69,17 +69,17 @@ see <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; te
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a> has many graphs
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response) has many graphs
 
-* <a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a>
+* [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
-* <a href="/posts/dose-response-equations-for-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dose response equations for Vitamin D">Dose response equations for Vitamin D</a>
+* [Dose response equations for Vitamin D](/posts/dose-response-equations-for-vitamin-d)
 
 * [Response to Vitamin D supplementation – July 2015](/posts/response-to-vitamin-d-supplementation)
 
 * [Vitamin D charts from GrassrootsHealth - May 2016](/posts/vitamin-d-charts-from-grassrootshealth)
 
-* <a href="/posts/reasons-for-low-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Reasons for low response to vitamin D">Reasons for low response to vitamin D</a> 
+* [Reasons for low response to vitamin D](/posts/reasons-for-low-response-to-vitamin-d) 
 
 > has the following chart, and a long table
 

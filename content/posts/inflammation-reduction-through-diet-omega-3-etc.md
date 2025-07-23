@@ -42,7 +42,7 @@ Dietary supplementation has traditionally consisted of adding vitamins and/or mi
 
 ## See also VitaminDWiki
 
-* [Inflammation](/categories/inflammation) category listing
+* [Inflammation](/tags/inflammation.html) category listing
 
 * [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 

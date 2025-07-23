@@ -57,13 +57,13 @@ These documents demonstrated a  **340% increase in the incidence of autism in Af
 
 #### See also VitaminDWiki
 
-* <a href="/posts/autism-1-in-40-children-in-the-us-as-of-2016" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism – 1 in 40 children in the US (as of 2016) – Nov 2018">Autism – 1 in 40 children in the US (as of 2016) – Nov 2018</a>
+* [Autism – 1 in 40 children in the US (as of 2016) – Nov 2018](/posts/autism-1-in-40-children-in-the-us-as-of-2016)
 
 * [Unsupplemented infants were 19X more likely to be vitamin D deficient - May 2012](/posts/unsupplemented-infants-were-19x-more-likely-to-be-vitamin-d-deficient)
 
-* <a href="/posts/appears-that-the-cdc-has-shut-down-greenmed-email-due-to-vaccination-data" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Appears that the CDC has shut down GreenMed email due to vaccination data – June 2019">Appears that the CDC has shut down GreenMed email due to vaccination data – June 2019</a>
+* [Appears that the CDC has shut down GreenMed email due to vaccination data – June 2019](/posts/appears-that-the-cdc-has-shut-down-greenmed-email-due-to-vaccination-data)
 
-* <a href="/posts/overview-autism-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Autism and vitamin D">Overview Autism and vitamin D</a> which show a large increase
+* [Overview Autism and vitamin D](/posts/overview-autism-and-vitamin-d) which show a large increase
 
 > Which was a 78 % increase in (2003-2008) for ALL children 
 

@@ -52,12 +52,12 @@ Conclusions: This meta-analysis suggests that low levels of circulating 25(OH)D 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/peripheral-arterial-disease-risk-is-15x-higher-if-low-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Peripheral arterial disease risk is 1.5X higher if low vitamin D – meta-analysis March 2018">Peripheral arterial disease risk is 1.5X higher if low vitamin D – meta-analysis March 2018</a>
+* [Peripheral arterial disease risk is 1.5X higher if low vitamin D – meta-analysis March 2018](/posts/peripheral-arterial-disease-risk-is-15x-higher-if-low-vitamin-d-meta-analysis)
 
 * [Peripheral Arterial Disease 2 percent more likely for every 1 nanogram less Vitamin D – Sept 2016](/posts/peripheral-arterial-disease-2-percent-more-likely-for-every-1-nanogram-less-vitamin-d)
 
 * [Peripheral Arterial Disease 3X less prevalent at 40 ng of vitamin D – 2008](/posts/peripheral-arterial-disease-3x-less-prevalent-at-40-ng-of-vitamin-d-2008)
 
-* <a href="/posts/vitamin-d-and-peripheral-arterial-disease" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and peripheral arterial disease – Nov 2011">Vitamin D and peripheral arterial disease – Nov 2011</a>
+* [Vitamin D and peripheral arterial disease – Nov 2011](/posts/vitamin-d-and-peripheral-arterial-disease)
 
 * [Vitamin D not associated with PAD after adjusting for race, diabetes and BMI – July 2012](/posts/vitamin-d-not-associated-with-pad-after-adjusting-for-race-diabetes-and-bmi)

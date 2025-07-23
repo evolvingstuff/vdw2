@@ -83,7 +83,7 @@ PMID:     24383929
 
 ## See also VitaminDWiki
 
-* <a href="/posts/bmd-associated-with-free-and-bioavailable-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: BMD associated with free and bioavailable vitamin D – March 2011">BMD associated with free and bioavailable vitamin D – March 2011</a>
+* [BMD associated with free and bioavailable vitamin D – March 2011](/posts/bmd-associated-with-free-and-bioavailable-vitamin-d)
 
 * [Free vitamin D (VDR) may be more important than total for bladder cancer – March 2013](/posts/free-vitamin-d-vdr-may-be-more-important-than-total-for-bladder-cancer)
 

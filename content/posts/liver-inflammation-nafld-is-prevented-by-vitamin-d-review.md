@@ -38,15 +38,15 @@ Shelley Gorman 1,shelley.gorman@telethonkids.org.au. ,  Lucinda J. Black 1,  Mar
 
 * [Non-alcoholic fatty liver disease associated with much lower vitamin D – Aug 2014](/posts/non-alcoholic-fatty-liver-disease-associated-with-much-lower-vitamin-d)
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a>
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d)
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a>
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d)
 
 * [Non-alcoholic Fatty Liver Disease (4 in 10 seniors) and Vitamin D](/posts/non-alcoholic-fatty-liver-disease-4-in-10-seniors-and-vitamin-d)
 
 * [VitaminDWiki pages with NON-ALCOHOLIC or NAFLD in title](https://VitaminDWiki.com/Vitamin+D+is+only+of+only+2+ways+to+easily+prevent+NAFLD+%28380%2C000+people%29+%E2%80%93+Oct+2021#VitaminDWiki_pages_with_NON-ALCOHOLIC_or_NAFLD_in_title) (23 pages as of Oct 2021)
 
-* <a href="/posts/people-with-nonalcoholic-fatty-liver-disease-and-low-vitamin-d-have-increased-hi--liver-fibrosis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with nonalcoholic fatty liver disease and low vitamin D have increased high risk of advanced liver fibrosis – Feb 2017">Low vitamin D does not cause NAFLD - Feb 2018</a>
+* [Low vitamin D does not cause NAFLD - Feb 2018](/posts/people-with-nonalcoholic-fatty-liver-disease-and-low-vitamin-d-have-increased-hi--liver-fibrosis)
 
 </div>
 

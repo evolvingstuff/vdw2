@@ -40,17 +40,17 @@
 
 * [Extremely Big Pharma - many studies](/posts/extremely-big-pharma-many-studies)
 
-* <a href="/posts/fda-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA - many studies">FDA - many studies</a> 49 pages as of Nov 2024
+* [FDA - many studies](/posts/fda-many-studies) 49 pages as of Nov 2024
 
-* <a href="/posts/fda-drug-to-treat-child-type-2-diabetes-based-on-1-trial-of-only-50" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023">FDA drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023</a>
+* [FDA drug to TREAT child Type 2 diabetes (based on 1 trial of only 50) – June 2023](/posts/fda-drug-to-treat-child-type-2-diabetes-based-on-1-trial-of-only-50)
 
-* <a href="/posts/fda-hired-a-person-to-study-flu-vaccine-effectiveness-found-problems-was-fired" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA hired a person to study flu vaccine effectiveness, found problems, was fired">FDA hired a person to study flu vaccine effectiveness, found problems, was fired</a>
+* [FDA hired a person to study flu vaccine effectiveness, found problems, was fired](/posts/fda-hired-a-person-to-study-flu-vaccine-effectiveness-found-problems-was-fired)
 
-* <a href="/posts/new-fda-head-chosen-because-he-had-the-fewest-ties-to-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021">New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021</a>
+* [New FDA head chosen because he had the fewest ties to big Pharma - Nov 2021](/posts/new-fda-head-chosen-because-he-had-the-fewest-ties-to-big-pharma)
 
-* <a href="/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA drug section gets 75% of its income from Big Pharma - Oct 2022">FDA drug section gets 75% of its income from Big Pharma - Oct 2022</a>
+* [FDA drug section gets 75% of its income from Big Pharma - Oct 2022](/posts/fda-drug-section-gets-75-percent-of-its-income-from-big-pharma)
 
-* <a href="/posts/fda-approved-5-11-vaccine-booster-based-tiny-unpublished-study-without-asking-advisory-panel" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: FDA approved 5-11 vaccine booster (based tiny unpublished study without asking advisory panel) May 2022">FDA approved 5-11 vaccine booster (based tiny unpublished study without asking advisory panel) May 2022</a>
+* [FDA approved 5-11 vaccine booster (based tiny unpublished study without asking advisory panel) May 2022](/posts/fda-approved-5-11-vaccine-booster-based-tiny-unpublished-study-without-asking-advisory-panel)
 
 * [Off Topic: FDA advisors have many conflicts of interest](/posts/off-topic-fda-advisors-have-many-conflicts-of-interest) = one of the reasons to hide the information
 

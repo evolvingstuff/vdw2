@@ -47,11 +47,11 @@ While the use of gamma linolenic acid, a long-chain fatty acid of the omega-6 fa
 
 * [Overview: Omega-3 many benefits include helping vitamin D](/posts/overview-omega-3-many-benefits-include-helping-vitamin-d)
 
-* [Skin](/categories/skin) category
+* [Skin](/tags/skin.html) category
 
 * [Atopic Dermatitis (Eczema) in Mongolian children reduced with 1,000 IU of vitamin D – RCT Oct 2014](/posts/atopic-dermatitis-eczema-in-mongolian-children-reduced-with-1000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/atopic-dermatitis-and-eczema-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Atopic Dermatitis and Eczema - many studies">Atopic Dermatitis and Eczema - many studies</a>
+* [Atopic Dermatitis and Eczema - many studies](/posts/atopic-dermatitis-and-eczema-many-studies)
 
 * [Supplements survey: Fish oil 1st, Vitamin D 4th, Magnesium 6th, Calcium 7th - March 2015](/posts/supplements-survey-fish-oil-1st-vitamin-d-4th-magnesium-6th-calcium-7th)
 

@@ -51,6 +51,6 @@ PMID: 25866148
 
 * [Save 2 billion dollars annually in fractures if take Vitamin D and Calcium – Frost and Sullivan Sept 2013](/posts/save-2-billion-dollars-annually-in-fractures-if-take-vitamin-d-and-calcium-frost-and-sullivan)
 
-* <a href="/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: VA showed increased vitamin D associated with lower health costs - Lancet May 2012">VA showed increased vitamin D associated with lower health costs - Lancet May 2012</a>
+* [VA showed increased vitamin D associated with lower health costs - Lancet May 2012](/posts/va-showed-increased-vitamin-d-associated-with-lower-health-costs-lancet)
 
-* <a href="/posts/more-likely-to-report-that-productvitiy-was-effected-by-health-problems-if-low-vitamin-d-2012" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More likely to report that productvitiy was effected by health problems if low vitamin D - 2012">More likely to report that productvitiy was effected by health problems if low vitamin D - 2012</a>
+* [More likely to report that productvitiy was effected by health problems if low vitamin D - 2012](/posts/more-likely-to-report-that-productvitiy-was-effected-by-health-problems-if-low-vitamin-d-2012)

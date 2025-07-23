@@ -25,13 +25,13 @@ After switching to a vegan form, they had no allerigc reaction - with 5,000 IU D
 
 ## See also VitaminDWiki
 
-* <a href="/posts/how-vitamin-d3-is-made-from-wool" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How vitamin D3 is made from wool">How vitamin D3 is made from wool</a>
+* [How vitamin D3 is made from wool](/posts/how-vitamin-d3-is-made-from-wool)
 
-* <a href="/posts/how-vitamin-d-is-made-from-sheep-wool" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How vitamin D is made from sheep wool - Feb 2011">How vitamin D is made from sheep wool - Feb 2011</a>
+* [How vitamin D is made from sheep wool - Feb 2011](/posts/how-vitamin-d-is-made-from-sheep-wool)
 
-* <a href="/posts/vitamin-d3-for-vegans-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 for Vegans - many studies">Vitamin D3 for Vegans - many studies</a> - not made from wool - many suppliers, not too much more expensive
+* [Vitamin D3 for Vegans - many studies](/posts/vitamin-d3-for-vegans-many-studies) - not made from wool - many suppliers, not too much more expensive
 
-* <a href="/posts/overview-rare-allergic-reaction-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rare Allergic reaction to vitamin D">Overview Rare Allergic reaction to vitamin D</a> Low Magnesium is a strong possibility
+* [Overview Rare Allergic reaction to vitamin D](/posts/overview-rare-allergic-reaction-to-vitamin-d) Low Magnesium is a strong possibility
 
 ## See also web
 

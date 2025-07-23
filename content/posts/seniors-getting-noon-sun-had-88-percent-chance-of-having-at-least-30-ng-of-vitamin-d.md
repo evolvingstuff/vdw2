@@ -55,15 +55,15 @@ Study was done in 5 areas in France
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Seniors and Vitamin D">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 * [Activity and being outdoors helps seniors – GPS and Vitamin D Dec 2012 ](/posts/activity-and-being-outdoors-helps-seniors-gps-and-vitamin-d)
 
-* <a href="/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012">Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012</a>
+* [Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012](/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy)
 
-* <a href="/posts/sunlight-officers-in-some-australian-senior-facilities" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: "Sunlight Officers" in some Australian senior facilities - Sept 2011">"Sunlight Officers" in some Australian senior facilities - Sept 2011</a>
+* ["Sunlight Officers" in some Australian senior facilities - Sept 2011](/posts/sunlight-officers-in-some-australian-senior-facilities)
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a>
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough)
 
 * [Increase your vitamin D from the sun by wearing a tan-through instead of standard shirt](/posts/increase-your-vitamin-d-from-the-sun-by-wearing-a-tan-through-instead-of-standard-shirt) a possibility for seniors
 

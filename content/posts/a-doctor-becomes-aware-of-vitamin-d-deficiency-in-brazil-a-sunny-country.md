@@ -148,11 +148,11 @@ There are about a dozen minor errors in this publication, but it nicely conveys 
 
 ### See also VitaminDWiki
 
-* <a href="/posts/if-you-are-getting-a-lung-transplant-you-must-have-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: If you are getting a lung transplant you must have vitamin D - April 2012">If you are getting a lung transplant you must have vitamin D - April 2012</a>
+* [If you are getting a lung transplant you must have vitamin D - April 2012](/posts/if-you-are-getting-a-lung-transplant-you-must-have-vitamin-d)
 
-* <a href="/posts/stem-cell-transplants-consume-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Stem Cell Transplants consume vitamin D – July 2011">Stem Cell Transplants consume vitamin D – July 2011</a>
+* [Stem Cell Transplants consume vitamin D – July 2011](/posts/stem-cell-transplants-consume-vitamin-d)
 
-* <a href="/posts/hypothesis-stem-cells-need-vitamin-d-too" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Stem cells need vitamin D too – Jan 2012">Hypothesis: Stem cells need vitamin D too – Jan 2012</a>
+* [Hypothesis: Stem cells need vitamin D too – Jan 2012](/posts/hypothesis-stem-cells-need-vitamin-d-too)
 
 * [Seniors in Brazil do not have enough vitamin D, even in the summer – Oct 2013](/posts/seniors-in-brazil-do-not-have-enough-vitamin-d-even-in-the-summer)
 

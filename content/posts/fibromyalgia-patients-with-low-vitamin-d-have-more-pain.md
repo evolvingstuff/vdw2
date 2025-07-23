@@ -147,10 +147,10 @@ PMID:     24315268  PDF cost $14.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fibromyalgia or Chronic Fatigue and vitamin D">Overview Fibromyalgia or Chronic Fatigue and vitamin D</a>
+* [Overview Fibromyalgia or Chronic Fatigue and vitamin D](/posts/overview-fibromyalgia-or-chronic-fatigue-and-vitamin-d)
 
-* <a href="/posts/overview-pain-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pain and Vitamin D">Overview Pain and Vitamin D</a>
+* [Overview Pain and Vitamin D](/posts/overview-pain-and-vitamin-d)
 
 * [Chronic Fatigue Syndrome reduced with 25,000 IU of vitamin D weekly – June 2013](/posts/chronic-fatigue-syndrome-reduced-with-25000-iu-of-vitamin-d-weekly)
 
-* <a href="/posts/literature-review-of-fibromyalgia-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Literature review of Fibromyalgia and vitamin D – Sept 2011">Literature review of Fibromyalgia and vitamin D – Sept 2011</a>
+* [Literature review of Fibromyalgia and vitamin D – Sept 2011](/posts/literature-review-of-fibromyalgia-and-vitamin-d)

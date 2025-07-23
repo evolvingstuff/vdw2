@@ -60,6 +60,6 @@
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/yellow-fever-map.jpg" alt="image" width="250">
 
- **Compare that map to <a href="/posts/zika-suitability-map-of" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7287">Zika suitability map of April 2016</a>** 
+ **Compare that map to [Zika suitability map of April 2016](/tags/zika-suitability-map-of-april-2016.html)** 
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/zika-suitability-map-april-2016.jpg" alt="image">

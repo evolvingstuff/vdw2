@@ -46,10 +46,10 @@ Conclusions: Our results suggest that vitamin D deficiency may be a risk factor 
 
 * [Search VitaminDWiki for "Urinary tract infection" OR UTI](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22Urinary+tract+infection%22+OR+UTI&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 56 items as of July 2016
 
-* <a href="/posts/bladder-infection-and-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Bladder infection and Vitamin D - many studies">Bladder infection and Vitamin D - many studies</a>
+* [Bladder infection and Vitamin D - many studies](/posts/bladder-infection-and-vitamin-d-many-studies)
 
 * [Recurrent urinary tract infection 4X more likely if low vitamin D – Aug 2013](/posts/recurrent-urinary-tract-infection-4x-more-likely-if-low-vitamin-d) which is similar to study on this page
 
-* [Inflammation](/categories/inflammation) category listing with associated searches
+* [Inflammation](/tags/inflammation.html) category listing with associated searches
 
 * [UTI associated with low Vitamin D as well as treated - many studies](/posts/uti-associated-with-low-vitamin-d-as-well-as-treated-many-studies)

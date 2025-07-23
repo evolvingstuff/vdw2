@@ -66,10 +66,10 @@ Which is about the silhouette of person, so 600 sq cm is OK
 
 #### See also VitaminDWiki
 
-* <a href="/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: No – 10 minutes per day of sun-UVB is NOT enough">No – 10 minutes per day of sun-UVB is NOT enough</a> 
+* [No – 10 minutes per day of sun-UVB is NOT enough](/posts/no-10-minutes-per-day-of-sun-uvb-is-not-enough) 
 
 * [Increase your vitamin D from the sun by wearing a tan-through instead of standard shirt](/posts/increase-your-vitamin-d-from-the-sun-by-wearing-a-tan-through-instead-of-standard-shirt)
 
-* <a href="/posts/minutes-in-the-sun-for-1000-iu" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Minutes in the Sun for 1000 IU">Minutes in the Sun for 1000 IU</a>
+* [Minutes in the Sun for 1000 IU](/posts/minutes-in-the-sun-for-1000-iu)
 
 * [Time in sun (in Spain) to get 4,000 IU of vitamin D: half hour in July , 2 hours in October – Sept 2016](/posts/time-in-sun-in-spain-to-get-4000-iu-of-vitamin-d-half-hour-in-july-2-hours-in-october)

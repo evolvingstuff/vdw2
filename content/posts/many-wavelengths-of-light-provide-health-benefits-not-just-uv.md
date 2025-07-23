@@ -88,7 +88,7 @@ MICHAEL F. HOLICK, Section of Endocrinology, Diabetes and Nutrition, Department 
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:800px">
 
-* <a href="/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Health benefit of Sunlight is more than Vitamin D in the blood - many studies">Health benefit of Sunlight is more than Vitamin D in the blood - many studies</a>
+* [Health benefit of Sunlight is more than Vitamin D in the blood - many studies](/posts/health-benefit-of-sunlight-is-more-than-vitamin-d-in-the-blood-many-studies)
 
 * [Nitric oxide (from Sun, UVA, Vitamin D) reduces cardiovascular problems](/posts/nitric-oxide-from-sun-uva-vitamin-d-reduces-cardiovascular-problems)
 

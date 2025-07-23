@@ -47,9 +47,9 @@ Dietary Surveys and Nutritional Epidemiology
 
 * [Folic acid reduces both premature births and neural tube defects – March 2017](/posts/folic-acid-reduces-both-premature-births-and-neural-tube-defects)
 
-* <a href="/posts/vitamin-d-is-at-least-100-x-better-than-folic-acid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D is at least 100 X better than Folic Acid">Vitamin D is at least 100 X better than Folic Acid</a>
+* [Vitamin D is at least 100 X better than Folic Acid](/posts/vitamin-d-is-at-least-100-x-better-than-folic-acid)
 
-* <a href="/posts/autism-risk-reduced-2x-by-prenatal-vitamins-vitamin-d-or-folic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk reduced 2X by prenatal vitamins (Vitamin D or Folic) – Feb 2019">Autism risk reduced 2X by prenatal vitamins (Vitamin D or Folic) – Feb 2019</a>
+* [Autism risk reduced 2X by prenatal vitamins (Vitamin D or Folic) – Feb 2019](/posts/autism-risk-reduced-2x-by-prenatal-vitamins-vitamin-d-or-folic)
 
 </div>
 
@@ -89,4 +89,4 @@ Maternal nutrient intake during pregnancy and lactation potentially influences t
 
 Thus, maternal nutrient intake during pregnancy and lactation may affect the development of CMA in offspring. Supplementation with folic acid may not be beneficial in terms of CMA development, especially in children of allergic mothers. The association between dietary supplement use and CMA risk can at least partly be explained by increased health-seeking behaviour among more educated mothers who also use more dietary supplements.
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;10.1017/S0007114516002464**
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;10.1017/S0007114516002464**

@@ -63,6 +63,6 @@ PMID: 22344194
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 * [All items in Cardiovascular and Vitamin D](https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&sort_mode=created_desc) 153 items as of July 2012

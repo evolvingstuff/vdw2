@@ -142,19 +142,19 @@ Lima = 5080 feet, 12 deg S latitude.
 
  **Cusco has twice the altitude of Lima** 
 
-<a href="/posts/high-altitude-cusco-peru-has-far-lower-rate-of-covid-19-than-others-high-uvb-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High-altitude Cusco, Peru has far lower rate of COVID-19 than others (high UVB and Vitamin D) - June 2020">High-altitude Cusco, Peru has far lower rate of COVID-19 than others (high UVB and Vitamin D) - June 2020</a>
+[High-altitude Cusco, Peru has far lower rate of COVID-19 than others (high UVB and Vitamin D) - June 2020](/posts/high-altitude-cusco-peru-has-far-lower-rate-of-covid-19-than-others-high-uvb-and-vitamin-d)
 
 ---
 
 ### Not have to move to Colorado or Peru to increase your health: other options include
 
-1. If living in a hot climate, you can <a href="/posts/make-a-heat-shield" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3121">make a heat shield</a> which blocks all of the heat and light of the sun, but does not block the UVB
+1. If living in a hot climate, you can [make a heat shield](/tags/make-a-heat-shield.html) which blocks all of the heat and light of the sun, but does not block the UVB
 
-1. <a href="/posts/buy-and-use-a-uvb-light" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3154">Buy and use a UVB light</a>
+1. [Buy and use a UVB light](/tags/buy-and-use-a-uvb-light.html)
 
-1. Wear a <a href="/posts/tan-thru-shirt" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4293">tan-thru shirt</a> to get more vitamin D from your time in the sun
+1. Wear a [tan-thru shirt](/tags/tan-thru-shirt.html) to get more vitamin D from your time in the sun
 
-1. Take a <a href="/posts/suncation" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3363">suncation</a> (Vacation in a sunny climate)
+1. Take a [suncation](/tags/suncation.html) (Vacation in a sunny climate)
 
 1. Take Vitamin D supplements - which is the lowest cost option
 

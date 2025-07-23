@@ -90,7 +90,7 @@ BC: breast cancer; CRC: colorectal cancer; CC: colon cancer; PC: prostate cancer
 
 * [Mayo clinic starting Cancer RCT using grossly inadequate 2,000 IU of vitamin D – Sept 2013](/posts/mayo-clinic-starting-cancer-rct-using-grossly-inadequate-2000-iu-of-vitamin-d)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> which has the follow chart
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) which has the follow chart
 
  **A high percentage of all cancer deaths are prevented by a high enough level of vitamin D in your bloodstream** 
 

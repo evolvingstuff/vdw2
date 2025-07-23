@@ -80,8 +80,8 @@ Essential fatty acids appear to also increase the production of Calcitriol
 
 ## See also VitaminDWiki
 
-* <a href="/posts/omega-3-increased-active-vitamin-d-in-the-blood" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3171">Omega 3 increased active vitamin D in the blood – Aug 2012</a>
+* [Omega 3 increased active vitamin D in the blood – Aug 2012](/tags/omega-3-increased-active-vitamin-d-in-the-blood-aug-2012.html)
 
 * [Google Search for Calcitriol in VitaminDWiki ](https://www.google.com/search?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=Calcitriol&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com)   **<span style="color:#00F;">669 items as of Aug 2012</span>** 
 
-* <a href="/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2127">Vitamin D3 becomes Calcidiol which becomes Calcitriol</a>
+* [Vitamin D3 becomes Calcidiol which becomes Calcitriol](/posts/vitamin-d3-becomes-calcidiol-which-becomes-calcitriol)

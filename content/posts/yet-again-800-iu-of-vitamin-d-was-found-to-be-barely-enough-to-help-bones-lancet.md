@@ -210,13 +210,13 @@ Interpretation: Continuing widespread use of vitamin D for osteoporosis preventi
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
-* <a href="/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012">Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012</a>
+* [Vitamin D, K2, Magnesium, etc increase bone density when taking together– Jan 2012](/posts/vitamin-d-k2-magnesium-etc-increase-bone-density-when-taking-together)
 
 * [Vitamin K-2 (180 ug MK-7) helped both bone density and strength – RCT March 2013](/posts/vitamin-k-2-180-ug-mk-7-helped-both-bone-density-and-strength-rct)
 
-* <a href="/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 4000 IU Vitamin D intervention helped elderly bones – March 2010">4000 IU Vitamin D intervention helped elderly bones – March 2010</a>
+* [4000 IU Vitamin D intervention helped elderly bones – March 2010](/posts/4000-iu-vitamin-d-intervention-helped-elderly-bones)
 
 * [Both Vitamin D and Calcium are needed to reduce bone loss – RCT Sept 2013](/posts/both-vitamin-d-and-calcium-are-needed-to-reduce-bone-loss-rct)
 
@@ -224,11 +224,11 @@ Interpretation: Continuing widespread use of vitamin D for osteoporosis preventi
 
 * [European Osteo group recommends 20-50 ng of vitamin D – Jan 2013](/posts/european-osteo-group-recommends-20-50-ng-of-vitamin-d)
 
-* <a href="/posts/osteoporsis-doctors-need-to-prescribe-800-iu-of-vitamin-d-study-proposed-of-how-to-tell-them" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Osteoporsis doctors need to prescribe 800 IU of vitamin D - study proposed of how to tell them – May 2012">Osteoporsis doctors need to prescribe 800 IU of vitamin D - study proposed of how to tell them – May 2012</a>
+* [Osteoporsis doctors need to prescribe 800 IU of vitamin D - study proposed of how to tell them – May 2012](/posts/osteoporsis-doctors-need-to-prescribe-800-iu-of-vitamin-d-study-proposed-of-how-to-tell-them)
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-falls-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and Falls and Vitamin D">Overview Fractures and Falls and Vitamin D</a>
+* [Overview Fractures and Falls and Vitamin D](/posts/overview-fractures-and-falls-and-vitamin-d)
 
 * [Half as many hip fractures if take Calcium, hormones, and a tiny amount of vitamin D – July 2013](/posts/half-as-many-hip-fractures-if-take-calcium-hormones-and-a-tiny-amount-of-vitamin-d)
 

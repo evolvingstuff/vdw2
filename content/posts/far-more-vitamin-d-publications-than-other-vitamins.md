@@ -23,6 +23,6 @@
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 
- **<a href="/posts/click-here" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2421">CLICK HERE</a> for more information** 
+ **[CLICK HERE](/tags/click-here.html) for more information** 
 
  **<span style="color:#090;">short url of this page = is.gd/pubmedvit</span>**

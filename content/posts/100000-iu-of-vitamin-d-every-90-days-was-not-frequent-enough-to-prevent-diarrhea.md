@@ -77,15 +77,15 @@ Can expect than 33,000 IU monthly would have been of some benefit.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/300000-iu-of-vitamin-d-every-3-months-may-not-have-been-enough" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 644">300000 IU of vitamin D every 3 months may not have been enough – July 2010</a>
+* [300000 IU of vitamin D every 3 months may not have been enough – July 2010](/posts/300000-iu-of-vitamin-d-every-3-months-may-not-have-been-enough)
 
 * [200,000 every 3 months (= 2222 IU daily) to achieve 20-30 ng target](http://clinicaltrials.gov/ct2/show/NCT01067898)
 
-* <a href="/posts/100000-iu-of-vitamin-d-every-three-months-had-problems-2011" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2599">100000 IU of vitamin D every three months had problems – 2011</a>
+* [100000 IU of vitamin D every three months had problems – 2011](/posts/100000-iu-of-vitamin-d-every-three-months-had-problems-2011)
 
 * [2X more childhood diarrhea or ear infection if less than 20 ng of vitamin D – Jan 2013](/posts/2x-more-childhood-diarrhea-or-ear-infection-if-less-than-20-ng-of-vitamin-d)
 
-* <a href="/posts/take-vitamin-d3-daily-weekly-or-bi-weekly" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Take vitamin D3 daily, weekly, or bi-weekly">Take vitamin D3 daily, weekly, or bi-weekly</a> had the following graphics
+* [Take vitamin D3 daily, weekly, or bi-weekly](/posts/take-vitamin-d3-daily-weekly-or-bi-weekly) had the following graphics
 
 <img src="/attachments/d3.mock.jpg" alt="image">
 

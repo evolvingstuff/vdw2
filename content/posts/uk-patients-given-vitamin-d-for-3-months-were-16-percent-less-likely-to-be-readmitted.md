@@ -62,7 +62,7 @@ Zaidi SA1, Singh G2, Owojori O3, Kela R4, Spoors S5, Abbas M1, Barton F6, Rogers
 
 > [Dr. who got patients to vitamin D level of 80 ng](/posts/dr-who-got-patients-to-vitamin-d-level-of-80-ng)
 
-* <a href="/posts/perhaps-4000-dollars-annual-less-health-care-costs-if-supplement-with-5-dollars-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps 4,000 dollars annual less health care costs if supplement with 5 dollars of Vitamin D">Perhaps 4,000 dollars annual less health care costs if supplement with 5 dollars of Vitamin D</a>
+* [Perhaps 4,000 dollars annual less health care costs if supplement with 5 dollars of Vitamin D](/posts/perhaps-4000-dollars-annual-less-health-care-costs-if-supplement-with-5-dollars-of-vitamin-d)
 
 * [Seniors need at least 4,000 IU vitamin D, no test needed – Consensus Jan 2014](/posts/seniors-need-at-least-4000-iu-vitamin-d-no-test-needed-consensus)
 

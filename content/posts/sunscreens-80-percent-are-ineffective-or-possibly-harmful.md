@@ -35,4 +35,4 @@
 
 * [Melanoma huge increase - perhaps due to use of sunscreen or lower vitamin D - Aug 2014](/posts/melanoma-huge-increase-perhaps-due-to-use-of-sunscreen-or-lower-vitamin-d) - free book
 
-* <a href="/posts/uv-spectra-of-the-sun-and-sunscreens" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: UV spectra of the sun and sunscreens">UV spectra of the sun and sunscreens</a>
+* [UV spectra of the sun and sunscreens](/posts/uv-spectra-of-the-sun-and-sunscreens)

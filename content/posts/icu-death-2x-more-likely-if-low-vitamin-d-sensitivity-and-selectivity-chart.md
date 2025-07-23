@@ -80,7 +80,7 @@ IIUniversidade Federal do Rio Grande do Sul, Hospital de Clínicas de Porto Aleg
 
  **135 ICU patients in Brazil** 
 
-* <a href="/posts/critical-care-patients-need-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Critical Care patients need vitamin D">Critical Care patients need vitamin D</a>
+* [Critical Care patients need vitamin D](/posts/critical-care-patients-need-vitamin-d)
 
 * [Critically ill need vitamin D – how much and which test to use is TBD – Nov 2014](/posts/critically-ill-need-vitamin-d-how-much-and-which-test-to-use-is-tbd)
 

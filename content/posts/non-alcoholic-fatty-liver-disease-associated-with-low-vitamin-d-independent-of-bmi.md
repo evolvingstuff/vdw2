@@ -66,6 +66,6 @@ PMID: 24611991
 
 * [Search for Fatty Liver in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%22fatty+liver%22&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 129 items Dec 2014
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a> has the following graphic
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d) has the following graphic
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/png/nafld.png" alt="image">

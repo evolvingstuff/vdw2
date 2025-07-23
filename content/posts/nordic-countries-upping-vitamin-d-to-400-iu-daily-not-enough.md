@@ -37,9 +37,9 @@
 
 * [Vitamin D Deficiency](/posts/vitamin-d-deficiency)
 
-* <a href="/posts/vitamin-d-recommendations-around-the-world-iu-and-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D Recommendations around the world - IU and ng">Vitamin D Recommendations around the world - IU and ng</a>
+* [Vitamin D Recommendations around the world - IU and ng](/posts/vitamin-d-recommendations-around-the-world-iu-and-ng)
 
-* <a href="/posts/germany-span-stylecolor00f800-iuspan-as-of" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2304">Germany =   **<span style="color:#00F;">800 IU</span>**   as of Jan 2012</a>
+* [Germany =   **<span style="color:#00F;">800 IU</span>**   as of Jan 2012](/tags/germany-span-stylecolor00f800-iuspan-as-of-jan-2012.html)
 
 * [Veiled Somali pregnant women in Sweden had low vitamin D and were weak – Dec 2013](/posts/veiled-somali-pregnant-women-in-sweden-had-low-vitamin-d-and-were-weak) 
 
@@ -51,4 +51,4 @@
 
 * [Dark skinned pregnant women far from equator were very vitamin D deficient – Sept 2012](/posts/dark-skinned-pregnant-women-far-from-equator-were-very-vitamin-d-deficient)
 
-* <a href="/posts/people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011">People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011</a>
+* [People with no UV for 6 months in the winter need at least 2000 IU of vitamin D – April 2011](/posts/people-with-no-uv-for-6-months-in-the-winter-need-at-least-2000-iu-of-vitamin-d)

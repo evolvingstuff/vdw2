@@ -72,11 +72,11 @@ The results of this study suggest a protective effect of vitamin D supplementati
 
  **[VitaminDWiki RTI studies](https://VitaminDWiki.com/Respiratory+Tract+Infections+during+cold+weather+%E2%80%93+similar+rates+for+low+and+very+low+vitamin+D+%E2%80%93+Sept+2021#VitaminDWiki_pages_containing_RESPIRATORY_TRACT_INFECTION_or_RTI_in_title)<span style="color:#F00;">26</span> as of Sept 2021** 
 
-* <a href="/posts/small-vitamin-d-doses-provide-small-benefits-for-acute-respiratory-infections-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Small vitamin D doses provide small benefits for acute respiratory infections – Meta-analysis March 2021">Small vitamin D doses provide small benefits for acute respiratory infections – Meta-analysis March 2021</a>
+* [Small vitamin D doses provide small benefits for acute respiratory infections – Meta-analysis March 2021](/posts/small-vitamin-d-doses-provide-small-benefits-for-acute-respiratory-infections-meta-analysis)
 
-* <a href="/posts/respiratory-tract-infection-risk-reduced-2x-by-vitamin-d-loading-doses-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021">Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021</a>
+* [Respiratory Tract Infection risk reduced 2X by Vitamin D loading doses – meta-analysis Jan 2021](/posts/respiratory-tract-infection-risk-reduced-2x-by-vitamin-d-loading-doses-meta-analysis)
 
-* <a href="/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018">Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018</a>
+* [Common cold prevented and treated by Vitamin D, Vitamin C, Zinc, and Echinacea – review April 2018](/posts/common-cold-prevented-and-treated-by-vitamin-d-vitamin-c-zinc-and-echinacea-review)
 
 * [Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013](/posts/vitamin-d-and-respiratory-tract-infections-meta-analysis-with-charts)
 

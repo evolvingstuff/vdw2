@@ -128,9 +128,9 @@
 
 *  **[Overview Iron Supplements and Vitamin D](/posts/overview-iron-supplements-and-vitamin-d)** 
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Liver and vitamin D">Overview Liver and vitamin D</a> There are many Vitamin D options if the liver is not fully functioning
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d) There are many Vitamin D options if the liver is not fully functioning
 
-* <a href="/posts/oral-contraceptives-may-reduce-or-increase-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Oral contraceptives may reduce or increase vitamin D">Oral contraceptives may reduce or increase vitamin D</a>   **probably due to less blood/iron loss when using the pill** 
+* [Oral contraceptives may reduce or increase vitamin D](/posts/oral-contraceptives-may-reduce-or-increase-vitamin-d)   **probably due to less blood/iron loss when using the pill** 
 
 * [Vitamin D pages containing "anemia" in title](https://VitaminDWiki.com/Overview+Iron+Supplements+and+Vitamin+D#Vitamin_D_pages_containing_anemia_in_title) 15 pages as of June 2021
 
@@ -254,7 +254,7 @@ Lane DJ1, Jansson PJ1, Richardson DR1.
 
  **Plasma concentrations of 25-hydroxyvitamin D in meat eaters, fish eaters, vegetarians and vegans: results from the EPIC-Oxford study.** 
 
-* <a href="/posts/vegan-vitamin-d-levels-are-only-22-ng" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vegan vitamin D levels are only 22 ng – Feb 2011">Vegan vitamin D levels are only 22 ng – Feb 2011</a> in VitaminDWiki, along with PDF of the study
+* [Vegan vitamin D levels are only 22 ng – Feb 2011](/posts/vegan-vitamin-d-levels-are-only-22-ng) in VitaminDWiki, along with PDF of the study
 
 > The study accounted for  the vitamin D from meat, fish, and vegetables
 
@@ -272,7 +272,7 @@ That is: increase of 100 IU ==> increase of 10 ng
 
 But, other studies show that need 400 IU to 800 IU ==> 10ng
 
-* <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a> which shows about 800 IU needed to raise blood level by 10ng
+* [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response) which shows about 800 IU needed to raise blood level by 10ng
 
 * [Every 400 IU increase of vitamin D3 increases serum level about 8 ng– Systematic Review Aug 2012](/posts/every-400-iu-increase-of-vitamin-d3-increases-serum-level-about-8-ng-systematic-review)
 
@@ -282,11 +282,11 @@ But, other studies show that need 400 IU to 800 IU ==> 10ng
 
 1. Eat vegetables along  with vitamin C - which increases the amount of Iron available from plants.
 
-1. Supplement with vitamin D3 (<a href="/posts/three-companies-sell-vegan-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2136">Three companies sell Vegan D3</a>)
+1. Supplement with vitamin D3 ([Three companies sell Vegan D3](/tags/three-companies-sell-vegan-d3.html))
 
 1. Spend more time in the sun or with a UV lamp
 
-1. <a href="/posts/how-you-might-double-your-response-to-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: How you might double your response to vitamin D">How you might double your response to vitamin D</a>
+1. [How you might double your response to vitamin D](/posts/how-you-might-double-your-response-to-vitamin-d)
 
 ### Iron Deficiency material follows
 

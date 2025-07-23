@@ -49,7 +49,7 @@ Novel starch based nanoparticles were developed for entrapment of Vitamin D3. Hi
 
 * [Time-release form of active vitamin D granted a patent for chronic kidney disease – July 2014](/posts/time-release-form-of-active-vitamin-d-granted-a-patent-for-chronic-kidney-disease)
 
-* <a href="/posts/nanoencapsulated-vitamin-d-is-stable-and-bioavailable" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Nanoencapsulated vitamin D is stable and bioavailable – May 2012">Nanoencapsulated vitamin D is stable and bioavailable – May 2012</a>
+* [Nanoencapsulated vitamin D is stable and bioavailable – May 2012](/posts/nanoencapsulated-vitamin-d-is-stable-and-bioavailable)
 
 * [Typically takes a century for govts to fortify food with nutrients (like vitamin D) ](/posts/typically-takes-a-century-for-govts-to-fortify-food-with-nutrients-like-vitamin-d)
 

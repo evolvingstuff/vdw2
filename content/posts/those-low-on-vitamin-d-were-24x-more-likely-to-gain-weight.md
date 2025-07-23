@@ -55,7 +55,7 @@ The aim of this study was to assess the relationship between obesity and vitamin
 
 @@!!See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Vitamin D and Obesity – Review March 2013](/posts/vitamin-d-and-obesity-review)
 
@@ -67,4 +67,4 @@ The aim of this study was to assess the relationship between obesity and vitamin
 
 * [Metabolic Syndrome 10% less likely for every 4 ng increase in Vitamin D – Jan 2013](/posts/metabolic-syndrome-10-percent-less-likely-for-every-4-ng-increase-in-vitamin-d)
 
-* <a href="/posts/metabolic-syndrome-70-percent-more-likely-if-vitamin-d-insufficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metabolic Syndrome 70 percent more likely if vitamin D insufficient - March 2012">Metabolic Syndrome 70 percent more likely if vitamin D insufficient - March 2012</a>
+* [Metabolic Syndrome 70 percent more likely if vitamin D insufficient - March 2012](/posts/metabolic-syndrome-70-percent-more-likely-if-vitamin-d-insufficient)

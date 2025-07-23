@@ -40,4 +40,4 @@
 </div>
 
 #### Selecione o idioma Português na caixa -de-rosa na parte superior direita,   
-&nbsp; &nbsp;<a href="/posts/em-seguida-clique-aqui-para-detalhes-completos-zika" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 7287">em seguida, clique aqui para detalhes completos Zika</a>
+&nbsp; &nbsp;[em seguida, clique aqui para detalhes completos Zika](/tags/em-seguida-clique-aqui-para-detalhes-completos-zika.html)

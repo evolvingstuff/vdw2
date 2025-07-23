@@ -66,11 +66,11 @@ PMID: 25154401
 
 ## See also VitaminDWiki
 
-* [Depression](/categories/depression) category listing with extensive associated searches
+* [Depression](/tags/depression.html) category listing with extensive associated searches
 
 * [Post stroke depression 9X more likely if low vitamin D – Dec 2014](/posts/post-stroke-depression-9x-more-likely-if-low-vitamin-d)
 
-* <a href="/posts/overview-stroke-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Stroke and vitamin D">Overview Stroke and vitamin D</a> has the following on depression leading to stroke
+* [Overview Stroke and vitamin D](/posts/overview-stroke-and-vitamin-d) has the following on depression leading to stroke
 
 > [Article about Brigham Women's Hospital Study](http://www.bizjournals.com/boston/news/2011/08/12/study-links-depression-to-stroke.html) which was published in Stroke 
 
@@ -80,7 +80,7 @@ PMID: 25154401
 
 > "More than 1000 cases of stroke were documented among the women during the six years."
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> has the following chart: Note that Depression has 5 links to other diseases
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) has the following chart: Note that Depression has 5 links to other diseases
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400"> 
 

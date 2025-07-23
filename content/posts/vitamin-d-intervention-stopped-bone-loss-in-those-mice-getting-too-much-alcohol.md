@@ -60,11 +60,11 @@ Received May 31, 2012., Revision received August 13, 2012, Accepted August 13, 2
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-liver-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2177">Overview Liver and vitamin D</a> 
+* [Overview Liver and vitamin D](/posts/overview-liver-and-vitamin-d) 
 
-* <a href="/posts/alcoholics-have-osteoprorosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1121">Alcoholics have osteoprorosis – Nov 2010</a>
+* [Alcoholics have osteoprorosis – Nov 2010](/tags/alcoholics-have-osteoprorosis-nov-2010.html)
 
-* <a href="/posts/alcoholics-with-low-vitamin-d-get-more-bone-fractures" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1339">Alcoholics with low vitamin D get more bone fractures – Jan 2011</a>
+* [Alcoholics with low vitamin D get more bone fractures – Jan 2011](/posts/alcoholics-with-low-vitamin-d-get-more-bone-fractures)
 
 * [Magnesium and vitamin D](/posts/magnesium-and-vitamin-d) Alcohol uses up Magnesium, which is needed for bone strength
 

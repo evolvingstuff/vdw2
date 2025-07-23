@@ -64,8 +64,8 @@ PMID:     2367346
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-women-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Women and Vitamin D">Overview Women and Vitamin D</a>
+* [Overview Women and Vitamin D](/posts/overview-women-and-vitamin-d)
 
 * [Women around the world want whiter skin](/posts/women-around-the-world-want-whiter-skin)
 
-* <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking reduces vitamin D - many studies</a>
+* [Smoking reduces vitamin D - many studies](/posts/smoking-reduces-vitamin-d-many-studies)

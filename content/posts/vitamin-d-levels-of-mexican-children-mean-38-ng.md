@@ -87,6 +87,6 @@ MF was co-author of the research proposal, wrote the manuscript, and reviewed th
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-deficiency-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Deficiency of vitamin D">Overview Deficiency of vitamin D</a>
+* [Overview Deficiency of vitamin D](/posts/overview-deficiency-of-vitamin-d)
 
 * [Mexico has low levels of vitamin D (less than 20 ng) - Oct 2015](/posts/mexico-has-low-levels-of-vitamin-d-less-than-20-ng)

@@ -42,7 +42,7 @@ Drop users were 35 X more likely to be insufficient at the end of the study
 
  **Possible problems of drops include** 
 
-* <a href="/posts/intestines-do-not-process-active-vitamin-d-as-well-as-you-age" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Intestines do not process active vitamin D as well as you age – June 2012">Intestines do not process active vitamin D as well as you age – June 2012</a> 
+* [Intestines do not process active vitamin D as well as you age – June 2012](/posts/intestines-do-not-process-active-vitamin-d-as-well-as-you-age) 
 
 > content of capsules might be more bio-available
 

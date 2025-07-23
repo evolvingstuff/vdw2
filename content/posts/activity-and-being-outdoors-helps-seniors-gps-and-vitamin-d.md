@@ -55,11 +55,11 @@ Received: 26 October 2012; in revised form: 30 November 2012 / Accepted: 30 Nove
 
 ## See also VitaminDWiki
 
-* <a href="/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2624">Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012</a>
+* [Many Italian seniors garden, have high levels of vitamin D and are healthy - April 2012](/posts/many-italian-seniors-garden-have-high-levels-of-vitamin-d-and-are-healthy)
 
 * [Community dwelling seniors got vitamin D when outdoors gardening or biking – April 2013](/posts/community-dwelling-seniors-got-vitamin-d-when-outdoors-gardening-or-biking)
 
-* <a href="/posts/overview-seniors-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 28">Overview Seniors and Vitamin D</a>
+* [Overview Seniors and Vitamin D](/posts/overview-seniors-and-vitamin-d)
 
 ---
 

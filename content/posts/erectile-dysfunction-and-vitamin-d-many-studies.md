@@ -440,7 +440,7 @@ International Journal of Impotence Research (2019), https://doi.org/10.1038/s414
 
 Levi Charles Holland & Joseph Scott Gabrielsen 
 
- **<a href="/posts/off-topic-10-ways-to-find-medical-studies-on-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off Topic: 10 ways to find medical studies on the web">PDF is available free at Sci-Hub</a> &nbsp;** 
+ **[PDF is available free at Sci-Hub](/posts/off-topic-10-ways-to-find-medical-studies-on-the-web) &nbsp;** 
 
 Primarily commenting on
 

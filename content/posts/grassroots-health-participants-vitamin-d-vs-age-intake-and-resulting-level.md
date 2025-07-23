@@ -27,7 +27,7 @@
 #### Note: the D-action participants pay a lot to keep their vitamin D levels 40-50 ng   
 They are tested 4X per year (@ $70/test), so they pay about<span style="color:#F00;">$300/year.</span> ($ test + $ vitamin d)
 
- **Note: Henry Lahore, admin of VitaminDWiki, pays<a href="/posts/47" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 266">$47</a> for a test once every 18 months, for a total annual cost of $47*2/3 + $17(vitamin D) = <span style="color:#F00;">$50/year</span>** 
+ **Note: Henry Lahore, admin of VitaminDWiki, pays[$47](/tags/47.html) for a test once every 18 months, for a total annual cost of $47*2/3 + $17(vitamin D) = <span style="color:#F00;">$50/year</span>** 
 
 Neither cost  includes cofactors: Omega-3 is the most expensive cofactor
 
@@ -51,7 +51,7 @@ Neither cost  includes cofactors: Omega-3 is the most expensive cofactor
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400"> 
 
-#### <a href="/posts/overview-vitamin-d-dose-response" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D Dose-Response">Overview Vitamin D Dose-Response</a>
+#### [Overview Vitamin D Dose-Response](/posts/overview-vitamin-d-dose-response)
 
 <img src="/attachments/d3.mock.jpg" alt="image" width="400">
 

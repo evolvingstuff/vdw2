@@ -97,7 +97,7 @@ PMID:     22776787
 
 * [Autoimmunity and vitamin D – review Jan 2013](/posts/autoimmunity-and-vitamin-d-review)
 
-* [Autoimmune](/categories/autoimmune) category listing with associated searches
+* [Autoimmune](/tags/autoimmune.html) category listing with associated searches
 
 * [Video by Dr. Coimbra – 95 percent of auto-immune cured with vitamin D in high doses - April 2014](/posts/video-by-dr-coimbra-95-percent-of-auto-immune-cured-with-vitamin-d-in-high-doses)
 

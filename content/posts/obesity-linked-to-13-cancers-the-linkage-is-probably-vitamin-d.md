@@ -49,7 +49,7 @@
 | --- | --- |
 | Type of Cancer | Some studies in VitaminDWiki |
 | adenocarcinoma of the esophagus | [Cancer of glands (Adenocarcinoma) associated with 2X lower vitamin D levels – Aug 2013](/posts/cancer-of-glands-adenocarcinoma-associated-with-2x-lower-vitamin-d-levels) |
-| colorectal cancer | <a href="/posts/overview-cancer-colon-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer-Colon and vitamin D">Overview Cancer-Colon and vitamin D</a> |
+| colorectal cancer | [Overview Cancer-Colon and vitamin D](/posts/overview-cancer-colon-and-vitamin-d) |
 | breast cancer in postmenopausal women | [Overview Breast Cancer and Vitamin D](/posts/overview-breast-cancer-and-vitamin-d) |
 | uterine cancer | [Endometrial cancer and Vitamin D – many studies](/posts/endometrial-cancer-and-vitamin-d-many-studies) |
 | kidney cancers | [5X less risk of Kidney cancer if good ratio of Vitamin D binding protein to circulating vitamin D – Nov 2013](/posts/5x-less-risk-of-kidney-cancer-if-good-ratio-of-vitamin-d-binding-protein-to-circulating-vitamin-d) |
@@ -58,9 +58,9 @@
 | liver cancer | [Liver cancer half as likely if high level of vitamin D – Feb 2014](/posts/liver-cancer-half-as-likely-if-high-level-of-vitamin-d) |
 | gallbladder cancer |  |
 | pancreatic cancer | [Cancer - Pancreatic](/posts/cancer-pancreatic) |
-| thyroid cancer | <a href="/posts/overview-thyroid-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Thyroid and Vitamin D">Overview Thyroid and Vitamin D</a> |
+| thyroid cancer | [Overview Thyroid and Vitamin D](/posts/overview-thyroid-and-vitamin-d) |
 | ovarian cancer | [Cancer - Ovarian](/posts/cancer-ovarian) |
-| meningioma, a usually benign<br> type of brain cancer; | <a href="/posts/brain-cancer-in-175-countries-related-to-low-uvb-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010">Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010</a> |
+| meningioma, a usually benign<br> type of brain cancer; | [Brain cancer in 175 countries related to low UVB and low vitamin D – Oct 2010](/posts/brain-cancer-in-175-countries-related-to-low-uvb-and-low-vitamin-d) |
 | multiple myeloma, a blood cancer | [Multiple Myeloma (blood cell cancer) treated by vitamin D - many studies](/posts/multiple-myeloma-blood-cell-cancer-treated-by-vitamin-d-many-studies)  |
 
  **[Publisher wants $20 for the study](http://www.nejm.org/doi/full/10.1056/NEJMsr1606602)** 
@@ -73,8 +73,8 @@ DOI: 10.1056/NEJMsr1606602
 
 * [Obesity causes 20 percent of all cancer, low vitamin D may be the connection – meta-analysis - Sept 2014](/posts/obesity-causes-20-percent-of-all-cancer-low-vitamin-d-may-be-the-connection-meta-analysis)
 
-* <a href="/posts/getting-little-uv-is-associated-with-15-types-of-cancer" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Getting little UV is associated with 15 types of Cancer – Jan 2012">Getting little UV is associated with 15 types of Cancer – Jan 2012</a>
+* [Getting little UV is associated with 15 types of Cancer – Jan 2012](/posts/getting-little-uv-is-associated-with-15-types-of-cancer)
 
-* <a href="/posts/overview-cancer-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Cancer and vitamin D">Overview Cancer and vitamin D</a> which has the following chart
+* [Overview Cancer and vitamin D](/posts/overview-cancer-and-vitamin-d) which has the following chart
 
 > <img src="/attachments/d3.mock.jpg" alt="image">

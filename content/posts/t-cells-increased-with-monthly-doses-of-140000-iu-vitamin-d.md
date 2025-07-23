@@ -75,7 +75,7 @@ Our results indicate a substantial effect of a supplementation with inactive vit
 
 #### See also VitaminDWiki
 
-* <a href="/posts/fight-cancer-with-more-than-cut-burn-and-poison-nobel-prize-for-t-cell" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018">Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018</a>
+* [Fight Cancer with more than cut, burn, and poison – Nobel prize for T-Cell – Oct 2018](/posts/fight-cancer-with-more-than-cut-burn-and-poison-nobel-prize-for-t-cell)
 
 * [The vitamin D receptor and T cell function – June 2013](/posts/the-vitamin-d-receptor-and-t-cell-function)
 

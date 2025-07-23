@@ -60,7 +60,7 @@
 }
 
 
-## This page is on the web  <a href="/posts/vitamindwiki" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3485">VitaminDWiki</a>
+## This page is on the web  [VitaminDWiki](/tags/vitamindwiki.html)
 
 ## VitaminDWiki update (in progress), it now looks like the following
 
@@ -74,7 +74,7 @@
 
 <img src="/attachments/d3.mock.jpg" alt="Less D from sun and food makes for less D in body which results in more disease">
 
-#### &nbsp; &nbsp; &nbsp;<a href="/posts/click-here-for-details" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 63">Click here for details</a>
+#### &nbsp; &nbsp; &nbsp;[Click here for details](/tags/click-here-for-details.html)
 
 ---
 
@@ -574,47 +574,47 @@ style='color:blue'><o:p>&nbsp;</o:p></span></b></p>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-### <a href="/posts/when-you-have-one-vitamin-d-deficiency-problem-you-tend-to-get-at-least-one-more" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1817">When you have one vitamin D deficiency problem you tend to get at least one more</a>
+### [When you have one vitamin D deficiency problem you tend to get at least one more](/tags/when-you-have-one-vitamin-d-deficiency-problem-you-tend-to-get-at-least-one-more.html)
 
 #### &nbsp; &nbsp; &nbsp;as of Nov 2012:
 
-* <a href="/posts/statins-many-diseases-associated-with-low-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 444">Statins ==> many diseases associated with low vitamin D</a>&nbsp; &nbsp;<a href="/posts/update" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2308">update Jan 2012</a>
+* [Statins ==> many diseases associated with low vitamin D](/tags/statins-many-diseases-associated-with-low-vitamin-d.html)&nbsp; &nbsp;[update Jan 2012](/tags/update-jan-2012.html)
 
-* <a href="/posts/parkinsons-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 484">Parkinson's ==> Osteoporosis</a>
+* [Parkinson's ==> Osteoporosis](/tags/parkinsons-osteoporosis.html)
 
-* <a href="/posts/skin-wrinkles-fragile-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1710">Skin wrinkles ==>fragile bones</a>
+* [Skin wrinkles ==>fragile bones](/tags/skin-wrinkles-fragile-bones.html)
 
-* <a href="/posts/depression-fragile-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3066">Depression ==> Fragile bones</a>
+* [Depression ==> Fragile bones](/tags/depression-fragile-bones.html)
 
-* <a href="/posts/dental-problems-depression-pregnancy" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1384">Dental problems==> depression (pregnancy)</a>
+* [Dental problems==> depression (pregnancy)](/tags/dental-problems-depression-pregnancy.html)
 
-* <a href="/posts/pregnancy-dental-problems" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1384">Pregnancy ==> dental problems</a>
+* [Pregnancy ==> dental problems](/tags/pregnancy-dental-problems.html)
 
-* <a href="/posts/smoking-weak-bones" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 341">Smoking ==> weak bones</a>
+* [Smoking ==> weak bones](/tags/smoking-weak-bones.html)
 
-* <a href="/posts/prostate-cancer-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1798">Prostate Cancer ==> Osteoporosis</a>
+* [Prostate Cancer ==> Osteoporosis](/tags/prostate-cancer-osteoporosis.html)
 
-* <a href="/posts/no-molar-12x-increase-in-breast-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1832">No molar ==> 12X increase in Breast Cancer</a>
+* [No molar ==> 12X increase in Breast Cancer](/tags/no-molar-12x-increase-in-breast-cancer.html)
 
-* <a href="/posts/obesity-diabetes" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2213">Obesity ==> Diabetes</a>
+* [Obesity ==> Diabetes](/tags/obesity-diabetes.html)
 
 * [Obesity ==> Cognitive Decline](http://www.neurology.org/content/79/8/755) web Aug 2012
 
-* <a href="/posts/diabetes-rheumatoid-arthritis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1900">Diabetes ==> Rheumatoid Arthritis</a>
+* [Diabetes ==> Rheumatoid Arthritis](/tags/diabetes-rheumatoid-arthritis.html)
 
-* <a href="/posts/diabetes-vertebral-fracture" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3278">Diabetes ==> Vertebral fracture</a> in men only
+* [Diabetes ==> Vertebral fracture](/tags/diabetes-vertebral-fracture.html) in men only
 
-* <a href="/posts/aortic-calcification-vertebral-fracture" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3283">Aortic calcification==> Vertebral fracture</a>
+* [Aortic calcification==> Vertebral fracture](/tags/aortic-calcification-vertebral-fracture.html)
 
-* <a href="/posts/low-vitamin-d-for-various-reasons-9x-suicide" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 537">Low vitamin D for various reasons ==> 9X Suicide</a>
+* [Low vitamin D for various reasons ==> 9X Suicide](/tags/low-vitamin-d-for-various-reasons-9x-suicide.html)
 
-* <a href="/posts/immune-system-disease-cvid-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2315">Immune System disease (CVID) ==> Osteoporosis</a>
+* [Immune System disease (CVID) ==> Osteoporosis](/tags/immune-system-disease-cvid-osteoporosis.html)
 
-* <a href="/posts/hiv-osteoporosis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3164">HIV ==> Osteoporosis</a>
+* [HIV ==> Osteoporosis](/tags/hiv-osteoporosis.html)
 
-* <a href="/posts/asthma-heart-problems-and-death" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3361">Asthma ==> Heart Problems and death</a>
+* [Asthma ==> Heart Problems and death](/tags/asthma-heart-problems-and-death.html)
 
-* <a href="/posts/kidney-tooth-loss-7x-increase" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3476">Kidney ==> Tooth loss (7x increase)</a>
+* [Kidney ==> Tooth loss (7x increase)](/tags/kidney-tooth-loss-7x-increase.html)
 
 * [Multiple Sclerosis ==> 2.6X increased Migrane Headache,  web, full text online](http://www.ncbi.nlm.nih.gov/pubmed/23024814)
 
@@ -622,6 +622,6 @@ style='color:blue'><o:p>&nbsp;</o:p></span></b></p>
 
 * [Psorasis ==> Metabolic Syndrome](http://www.ncbi.nlm.nih.gov/pubmed/21747838)  on the web
 
-#### <a href="/posts/click-here-for-oct-2012-update" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3314">CLICK HERE for Oct 2012 update</a>
+#### [CLICK HERE for Oct 2012 update](/tags/click-here-for-oct-2012-update.html)
 
 [Vitamin D Wiki News for Dec 2012 and Jan 2013](/posts/vitamin-d-wiki-news-for-dec-2012-and)

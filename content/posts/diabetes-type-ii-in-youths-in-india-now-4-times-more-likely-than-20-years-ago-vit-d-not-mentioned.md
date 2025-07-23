@@ -50,7 +50,7 @@
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Overview Diabetes and vitamin D</a>
+* [Overview Diabetes and vitamin D](/posts/overview-diabetes-and-vitamin-d)
 
 * [4 percent less type 2 diabetes for every 4 ng more vitamin D – meta-analysis May 2013](/posts/4-percent-less-type-2-diabetes-for-every-4-ng-more-vitamin-d-meta-analysis)
 
@@ -60,22 +60,22 @@
 
 * [Diabetes 6X more likely for those abdominal obese who have insufficient vitamin D – June 2012](/posts/diabetes-6x-more-likely-for-those-abdominal-obese-who-have-insufficient-vitamin-d)
 
-* <a href="/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011">Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011</a>
+* [Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011](/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children)
 
 * [Magnesium is associated with prevention and treatment of Diabetes – Meta-analysis Aug 2016](/posts/magnesium-is-associated-with-prevention-and-treatment-of-diabetes-meta-analysis)
 
 * [Type II Diabetes might be prevented and treated with Magnesium – Review Feb 2015](/posts/type-ii-diabetes-might-be-prevented-and-treated-with-magnesium-review)
 
- **<a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diabetes leads to many diseases - need to restore the vitamin D levels</a>** 
+ **[Diabetes leads to many diseases - need to restore the vitamin D levels](/posts/diseases-that-may-be-related-via-low-vitamin-d)** 
 
-<a href="/posts/diabetes-cognitive-impairment" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 4507">Diabetes ==> Cognitive impairment</a>
+[Diabetes ==> Cognitive impairment](/tags/diabetes-cognitive-impairment.html)
 
-<a href="/posts/diabetes-vertebral-fracture" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3278">Diabetes ==> Vertebral fracture</a> in men only
+[Diabetes ==> Vertebral fracture](/tags/diabetes-vertebral-fracture.html) in men only
 
-<a href="/posts/diabetes-rheumatoid-arthritis" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1900">Diabetes ==> Rheumatoid Arthritis</a>
+[Diabetes ==> Rheumatoid Arthritis](/tags/diabetes-rheumatoid-arthritis.html)
 
-<a href="/posts/diabetes-pancreatic-cancer" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3579">Diabetes ==> Pancreatic Cancer</a>
+[Diabetes ==> Pancreatic Cancer](/tags/diabetes-pancreatic-cancer.html)
 
-<a href="/posts/diabetes-alzheimers" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2021">Diabetes ==> Alzheimer's</a>
+[Diabetes ==> Alzheimer's](/tags/diabetes-alzheimers.html)
 
 [Depression <==> Diabetes](/posts/depression-2x-more-common-among-diabetics-both-associated-with-low-vitamin-d-2014)

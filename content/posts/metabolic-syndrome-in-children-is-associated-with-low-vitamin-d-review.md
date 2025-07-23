@@ -105,25 +105,25 @@ CHAOS (in Australia)
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Metabolic Syndrome and vitamin D">Overview Metabolic Syndrome and vitamin D</a>
+* [Overview Metabolic Syndrome and vitamin D](/posts/overview-metabolic-syndrome-and-vitamin-d)
 
-* <a href="/posts/metabolic-syndrome-reduced-2x-after-one-year-of-more-sunlight" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Metabolic Syndrome reduced 2X after one year of more sunlight - Nov 2011">Metabolic Syndrome reduced 2X after one year of more sunlight - Nov 2011</a>
+* [Metabolic Syndrome reduced 2X after one year of more sunlight - Nov 2011](/posts/metabolic-syndrome-reduced-2x-after-one-year-of-more-sunlight)
 
-* <a href="/posts/review-of-metabolic-syndrome-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Review of Metabolic Syndrome and vitamin D - June 2012">Review of Metabolic Syndrome and vitamin D - June 2012</a>
+* [Review of Metabolic Syndrome and vitamin D - June 2012](/posts/review-of-metabolic-syndrome-and-vitamin-d)
 
 * [UVB added in classroom reduced cavities, increased height, increased academics. etc](/posts/uvb-added-in-classroom-reduced-cavities-increased-height-increased-academics-etc)
 
-* <a href="/posts/like-their-diabetic-mothers-infants-had-low-vitamin-d-and-were-slightly-diabetic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Like their diabetic mothers, infants had low vitamin D and were slightly diabetic – May 2012">Like their diabetic mothers, infants had low vitamin D and were slightly diabetic – May 2012</a>
+* [Like their diabetic mothers, infants had low vitamin D and were slightly diabetic – May 2012](/posts/like-their-diabetic-mothers-infants-had-low-vitamin-d-and-were-slightly-diabetic)
 
 * [Heavier kids more vitamin D deficient, especially if dark skinned – Pediatrics Dec 2012](/posts/heavier-kids-more-vitamin-d-deficient-especially-if-dark-skinned-pediatrics)
 
 * [3X more abdominal obesity among Korean children having low vitamin D – July 2012](/posts/3x-more-abdominal-obesity-among-korean-children-having-low-vitamin-d)
 
-* <a href="/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011">Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011</a>
+* [Obesity lowers vitamin D which increases probability of diabetes in children – Nov 2011](/posts/obesity-lowers-vitamin-d-which-increases-probability-of-diabetes-in-children)
 
-* <a href="/posts/obama-task-force-told-that-childhood-obesity-linked-to-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Obama task force told that childhood Obesity linked to Vitamin D Deficiency – Aug 2010 ">Obama task force told that childhood Obesity linked to Vitamin D Deficiency – Aug 2010 </a>
+* [Obama task force told that childhood Obesity linked to Vitamin D Deficiency – Aug 2010 ](/posts/obama-task-force-told-that-childhood-obesity-linked-to-vitamin-d-deficiency)
 
-* <a href="/posts/vitamin-d-and-metabolic-syndrome" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2637">Vitamin D and metabolic syndrome - April 2012</a> need more vitamin D
+* [Vitamin D and metabolic syndrome - April 2012](/tags/vitamin-d-and-metabolic-syndrome-april-2012.html) need more vitamin D
 
 #### See also Clinical Trials for Metabolic Syndrome
 

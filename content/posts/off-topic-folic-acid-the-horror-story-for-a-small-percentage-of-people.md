@@ -54,9 +54,9 @@ Adding supplements to natural sources excess Folic acid can become a problem, es
 
 #### See also VitaminDWiki
 
-* <a href="/posts/vitamin-d-and-folate-fortification-of-foods" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and Folate fortification of foods - April 2012">Vitamin D and Folate fortification of foods - April 2012</a>
+* [Vitamin D and Folate fortification of foods - April 2012](/posts/vitamin-d-and-folate-fortification-of-foods)
 
-* <a href="/posts/autism-risk-reduced-2x-by-prenatal-vitamins-vitamin-d-or-folic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Autism risk reduced 2X by prenatal vitamins (Vitamin D or Folic) – Feb 2019">Autism risk reduced 2X by prenatal vitamins (Vitamin D or Folic) – Feb 2019</a>
+* [Autism risk reduced 2X by prenatal vitamins (Vitamin D or Folic) – Feb 2019](/posts/autism-risk-reduced-2x-by-prenatal-vitamins-vitamin-d-or-folic)
 
 * [Neural tube defects of pregnant mice reduced by Vitamin D (perhaps less Folate needed) – April 2015](/posts/neural-tube-defects-of-pregnant-mice-reduced-by-vitamin-d-perhaps-less-folate-needed)
 
@@ -66,7 +66,7 @@ Adding supplements to natural sources excess Folic acid can become a problem, es
 
 > Unaware if Folic Acid fortification of bread is "excessive"
 
-* <a href="/posts/neural-tube-defects-more-likely-due-to-low-vitamin-d-than-low-folate" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Neural tube defects more likely due to low vitamin D than low Folate – April 2017">Neural tube defects more likely due to low vitamin D than low Folate – April 2017</a>
+* [Neural tube defects more likely due to low vitamin D than low Folate – April 2017](/posts/neural-tube-defects-more-likely-due-to-low-vitamin-d-than-low-folate)
 
 * [Prenatal VITAMIN D is more important than other prenatal vitamins](/posts/prenatal-vitamin-d-is-more-important-than-other-prenatal-vitamins)
 
@@ -74,9 +74,9 @@ Adding supplements to natural sources excess Folic acid can become a problem, es
 
 * [Increased cows milk allergy if Folic acid or Folate added to vitamin D during pregnancy – June 2016](/posts/increased-cows-milk-allergy-if-folic-acid-or-folate-added-to-vitamin-d-during-pregnancy)
 
-* <a href="/posts/off-topic-folate-can-be-produced-by-micro-organisms-can-avoid-synthetic-folic-acid" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Off topic – Folate can be produced by micro-organisms, can avoid synthetic Folic Acid – Aug 2018">Off topic – Folate can be produced by micro-organisms, can avoid synthetic Folic Acid – Aug 2018</a>
+* [Off topic – Folate can be produced by micro-organisms, can avoid synthetic Folic Acid – Aug 2018](/posts/off-topic-folate-can-be-produced-by-micro-organisms-can-avoid-synthetic-folic-acid)
 
-* <a href="/posts/dr-coimbra-discusses-vitamin-d-magnesium-folic-acid-b12-autism-depression-etc" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Coimbra discusses Vitamin D, Magnesium, Folic Acid, B12, Autism, Depression, etc – Sept 2018">Dr. Coimbra discusses Vitamin D, Magnesium, Folic Acid, B12, Autism, Depression, etc – Sept 2018</a>
+* [Dr. Coimbra discusses Vitamin D, Magnesium, Folic Acid, B12, Autism, Depression, etc – Sept 2018](/posts/dr-coimbra-discusses-vitamin-d-magnesium-folic-acid-b12-autism-depression-etc)
 
 #### See also web
 

@@ -70,7 +70,7 @@ We wonder how many stress-related diseases result in lowered vitamin D levels.
 
 * [Mental stress, physical stress associations with low vitamin D - many studies](/posts/mental-stress-physical-stress-associations-with-low-vitamin-d-many-studies)
 
-* <a href="/posts/20-percent-change-in-vitamin-d-levels-of-critically-ill-during-a-24-hour-period" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 20 percent change in vitamin D levels of critically ill during a 24 hour period – Oct 2011">20 percent change in vitamin D levels of critically ill during a 24 hour period – Oct 2011</a> which has the following chart
+* [20 percent change in vitamin D levels of critically ill during a 24 hour period – Oct 2011](/posts/20-percent-change-in-vitamin-d-levels-of-critically-ill-during-a-24-hour-period) which has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/24-h-variability-graph.jpg" alt="image">
 

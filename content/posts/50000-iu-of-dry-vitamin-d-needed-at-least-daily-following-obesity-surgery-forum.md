@@ -34,13 +34,13 @@ Dry form is good for everyone, including people with malabsorption of fat
 
 * [Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014](/posts/prior-to-bariatric-surgery-96-percent-were-vitamin-d-deficient)
 
-* <a href="/posts/people-with-gut-problems-are-low-on-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: People with gut problems are low on vitamin D">People with gut problems are low on vitamin D</a>
+* [People with gut problems are low on vitamin D](/posts/people-with-gut-problems-are-low-on-vitamin-d)
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a> 
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d) 
 
-* <a href="/posts/gut-surgery-appears-to-benefit-from-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 403">Gut surgery appears to benefit from vitamin D</a>
+* [Gut surgery appears to benefit from vitamin D](/posts/gut-surgery-appears-to-benefit-from-vitamin-d)
 
-* <a href="/posts/gallbladder-removal-and-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gallbladder removal and vitamin D deficiency">Gallbladder removal and vitamin D deficiency</a> 
+* [Gallbladder removal and vitamin D deficiency](/posts/gallbladder-removal-and-vitamin-d-deficiency) 
 
 > another fat malabsorption problem which could benefit from dry vitamin D
 

@@ -118,7 +118,7 @@ Lara Pizzorno has an M.A. (Divinity) from Yale University, an M.A. (Literature) 
 
 * She wrote [Your Bones: How You Can Prevent Osteoporosis and Have Strong Bones for Life-Naturally](https://www.amazon.com/Your-Bones-Prevent-Osteoporosis-Life-Naturally-ebook/dp/B00BSS98ZQ/?ref=la_B001IGQG0I_1_2&s=books&ie=UTF8&qid=1446580685&sr=1-2&tag=suppstacked-20) Amazon March 2013
 
-   * See in VitaminDWiki <a href="/posts/prevent-osteoporosis-and-have-strong-bones-book-2013" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Prevent Osteoporosis and Have Strong Bones - book 2013">Prevent Osteoporosis and Have Strong Bones - book 2013</a>
+   * See in VitaminDWiki [Prevent Osteoporosis and Have Strong Bones - book 2013](/posts/prevent-osteoporosis-and-have-strong-bones-book-2013)
 
    * Incudes information on calcium, strontium, vitamin K2, and zinc, but did not mention Boron
 

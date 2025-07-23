@@ -56,7 +56,7 @@ PMID: 26903577
 
 ## See also VitaminDWiki
 
-* <a href="/posts/16-percent-less-prostate-cancer-sometimes-for-each-10-ng-vitamin-d-increase-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 16 percent less Prostate Cancer sometimes for each 10 ng vitamin D increase - meta-analysis Jan 2011">16 percent less Prostate Cancer sometimes for each 10 ng vitamin D increase - meta-analysis Jan 2011</a>
+* [16 percent less Prostate Cancer sometimes for each 10 ng vitamin D increase - meta-analysis Jan 2011](/posts/16-percent-less-prostate-cancer-sometimes-for-each-10-ng-vitamin-d-increase-meta-analysis)
 
 * [Overview Prostate Cancer and Vitamin D](/posts/overview-prostate-cancer-and-vitamin-d)
 

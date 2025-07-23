@@ -56,15 +56,15 @@ If this works, it will be a real breakthru for getting vitamin D:
 
 ## See also VitaminDWiki
 
-* <a href="/posts/who-said-vitamin-d-could-not-be-patented" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Who said vitamin D could not be patented">Who said vitamin D could not be patented</a>
+* [Who said vitamin D could not be patented](/posts/who-said-vitamin-d-could-not-be-patented)
 
 * [Search for lumisterol OR tachysterol  in VitaminDWiki](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=+lumisterol+OR+tachysterol+&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 34 items as of Nov 2013
 
-* <a href="/posts/complex-relationship-between-uvb-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Complex relationship between UVB and vitamin D – April 2012">Complex relationship between UVB and vitamin D – April 2012</a> which contains the following
+* [Complex relationship between UVB and vitamin D – April 2012](/posts/complex-relationship-between-uvb-and-vitamin-d) which contains the following
 
 > Both pre-vitamin D3 and vitamin D can absorb UV radiation and this can lead to isomerization of these molecules to form inert photoproducts, such as lumisterol, tachysterol and 5,6-transvitamin D3 as well as suprasterol I and II <sup>[14,15]</sup>. 
 
-* <a href="/posts/improved-health-due-to-vitamin-d-fortification-in-finland" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Improved health due to vitamin D fortification in Finland">Improved health due to vitamin D fortification in Finland</a> which contains the following
+* [Improved health due to vitamin D fortification in Finland](/posts/improved-health-due-to-vitamin-d-fortification-in-finland) which contains the following
 
 > In the event of excess UVB radiation, previtamin D3 will be degraded into inactive sterols lumisterol and tachysterol, or be retransformed to 7-DHC
 

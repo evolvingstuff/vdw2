@@ -33,7 +33,7 @@ Cao Y1, Wang X1, Cao Z1, Cheng X1.
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:650px">
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
 * [Tuberculosis 4.5X more likely if vitamin D less than 10 nanogram – meta-analysis May 2015](/posts/tuberculosis-45x-more-likely-if-vitamin-d-less-than-10-nanogram-meta-analysis)
 

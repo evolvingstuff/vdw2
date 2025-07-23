@@ -66,7 +66,7 @@ Osteoarthritis is a debilitating and degenerative disease which affects millions
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/overview-osteoarthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoarthritis and Vitamin D">Overview Osteoarthritis and Vitamin D</a>
+* [Overview Osteoarthritis and Vitamin D](/posts/overview-osteoarthritis-and-vitamin-d)
 
 * [Knee osteoarthritis treated with vitamin D, weekly 50,000 IU – May 2015](/posts/knee-osteoarthritis-treated-with-vitamin-d-weekly-50000-iu)
 

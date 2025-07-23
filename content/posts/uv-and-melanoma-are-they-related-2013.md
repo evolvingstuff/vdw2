@@ -100,7 +100,7 @@ Comparisons of skin cancer data from Norway, Australia and New Zealand indicate 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a>
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d)
 
 * [Melanoma is 44 percent LESS LIKELY if get sun on the job – Nov 2013](/posts/melanoma-is-44-percent-less-likely-if-get-sun-on-the-job)
 

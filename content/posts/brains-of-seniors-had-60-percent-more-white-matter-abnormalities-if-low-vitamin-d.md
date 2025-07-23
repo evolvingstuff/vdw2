@@ -71,7 +71,7 @@ Vitamin D insufficiency was associated with increased WMA volume in the studied 
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-alzheimers-cognition-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Alzheimer's-Cognition and Vitamin D">Overview Alzheimer's-Cognition and Vitamin D</a>
+* [Overview Alzheimer's-Cognition and Vitamin D](/posts/overview-alzheimers-cognition-and-vitamin-d)
 
 * [Fewer white spots in MRI brain scans if had more vitamin D – Jan 2014](/posts/fewer-white-spots-in-mri-brain-scans-if-had-more-vitamin-d)
 

@@ -60,6 +60,6 @@ PMID:    22927914
 
 * [Transgeneration vitamin D deficiency related to MS was found in mice – Aug 2012](/posts/transgeneration-vitamin-d-deficiency-related-to-ms-was-found-in-mice)
 
-* <a href="/posts/learning-about-ms-and-vitamin-d-in-offspring-from-mice" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Learning about MS and vitamin D in offspring from mice – Sept 2011">Learning about MS and vitamin D in offspring from mice – Sept 2011</a>
+* [Learning about MS and vitamin D in offspring from mice – Sept 2011](/posts/learning-about-ms-and-vitamin-d-in-offspring-from-mice)
 
-* <a href="/posts/epigenetics-and-vitamin-d-june-2010-clips-from-the-web" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Epigenetics and vitamin D – June 2010 clips from the web">Epigenetics and vitamin D – June 2010 clips from the web</a>
+* [Epigenetics and vitamin D – June 2010 clips from the web](/posts/epigenetics-and-vitamin-d-june-2010-clips-from-the-web)

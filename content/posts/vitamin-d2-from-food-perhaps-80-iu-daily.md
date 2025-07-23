@@ -56,4 +56,4 @@ PMID: 24780068
 
 * [Vitamin D3 increased and Vitamin D2 decreased the D3 serum levels – RCT Sept 2013](/posts/vitamin-d3-increased-and-vitamin-d2-decreased-the-d3-serum-levels-rct)
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Vitamin D3 not D2">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)

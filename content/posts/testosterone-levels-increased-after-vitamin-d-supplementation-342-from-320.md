@@ -34,7 +34,7 @@ Note: as little as 2,000 IU might be enough for most men, but some will need 4,0
 
 ## See also VitaminDWiki
 
-* <a href="/posts/testosterone-increased-20-percent-with-daily-3332-iu-vitamin-d-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Testosterone increased __20 percent__ with daily 3332 IU vitamin D – RCT Dec 2010">Testosterone increased  **20 percent**  with daily 3332 IU vitamin D – RCT Dec 2010</a>
+* [Testosterone increased  **20 percent**  with daily 3332 IU vitamin D – RCT Dec 2010](/posts/testosterone-increased-20-percent-with-daily-3332-iu-vitamin-d-rct)
 
 * [Vitamin D and fertility – Lerchbaum 2012, 2014](/posts/vitamin-d-and-fertility-lerchbaum-2012-2014)
 
@@ -48,4 +48,4 @@ Note: as little as 2,000 IU might be enough for most men, but some will need 4,0
 
 * [Erectile Dysfunction and vitamin D - many studies](/posts/erectile-dysfunction-and-vitamin-d-many-studies)
 
-* <a href="/posts/increased-testosterone-and-erectile-function-decreased-weight-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increased Testosterone and Erectile function, decreased weight with Vitamin D – March 2017">Increased Testosterone and Erectile function, decreased weight with Vitamin D – March 2017</a>
+* [Increased Testosterone and Erectile function, decreased weight with Vitamin D – March 2017](/posts/increased-testosterone-and-erectile-function-decreased-weight-with-vitamin-d)

@@ -46,11 +46,11 @@ After 1 year of daily Vitamin D and Calcium (1.2 grams)
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-osteoporosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Osteoporosis and vitamin D">Overview Osteoporosis and vitamin D</a>
+* [Overview Osteoporosis and vitamin D](/posts/overview-osteoporosis-and-vitamin-d)
 
-* <a href="/posts/overview-fractures-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Fractures and vitamin D">Overview Fractures and vitamin D</a>
+* [Overview Fractures and vitamin D](/posts/overview-fractures-and-vitamin-d)
 
-* <a href="/posts/probably-fractures-of-the-tibia-can-be-healed-with-100000-iu-of-vitamin-d-weekly-rct-2023" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Probably Fractures of the Tibia can be healed with 100,000 IU of vitamin D weekly – RCT 2023">Probably Fractures of the Tibia can be healed with 100,000 IU of vitamin D weekly – RCT 2023</a>
+* [Probably Fractures of the Tibia can be healed with 100,000 IU of vitamin D weekly – RCT 2023](/posts/probably-fractures-of-the-tibia-can-be-healed-with-100000-iu-of-vitamin-d-weekly-rct-2023)
 
 * [Hypothesis: increased bone mineral density needs protein, Ca, Mg, Vitamin D and K](/posts/hypothesis-increased-bone-mineral-density-needs-protein-ca-mg-vitamin-d-and-k)
 
@@ -58,13 +58,13 @@ After 1 year of daily Vitamin D and Calcium (1.2 grams)
 
 * [Vitamin D injections of a total of 1,800,000 IU reduced shinbone tenderness – Feb 2013](/posts/vitamin-d-injections-of-a-total-of-1800000-iu-reduced-shinbone-tenderness)
 
-* <a href="/posts/perhaps-stress-fractures-2x-less-frequent-if-4000-iu-of-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D – June 2011">Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D – June 2011</a>
+* [Perhaps Stress fractures 2X less frequent if 4000 IU of vitamin D – June 2011](/posts/perhaps-stress-fractures-2x-less-frequent-if-4000-iu-of-vitamin-d)
 
-* <a href="/posts/shin-splints-decrease-with-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Shin splints decrease with vitamin D">Shin splints decrease with vitamin D</a>
+* [Shin splints decrease with vitamin D](/posts/shin-splints-decrease-with-vitamin-d)
 
 * [Vitamin D and fractures – 24 meta-analyses and counting – Dec 2014](/posts/vitamin-d-and-fractures-24-meta-analyses-and-counting)
 
-* <a href="/posts/quick-free-self-test-for-vitamin-d-deficiency" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Quick, FREE, self-test for Vitamin D deficiency">Quick, FREE, self-test for Vitamin D deficiency</a> has the following chart
+* [Quick, FREE, self-test for Vitamin D deficiency](/posts/quick-free-self-test-for-vitamin-d-deficiency) has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/tibia.jpg" alt="image" height="300">
 

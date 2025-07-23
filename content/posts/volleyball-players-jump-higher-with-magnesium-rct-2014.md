@@ -43,15 +43,15 @@ Up to 3 cm higher jump in those getting Magnesium
 
  **See also VitaminDWiki** 
 
-* <a href="/posts/overview-sports-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Sports and vitamin D ">Overview Sports and vitamin D </a>  wonder amount of jump increase if add Vitamin D AND Magnesium
+* [Overview Sports and vitamin D ](/posts/overview-sports-and-vitamin-d)  wonder amount of jump increase if add Vitamin D AND Magnesium
 
-* <a href="/posts/more-muscle-response-when-have-adequate-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: More muscle response when have adequate vitamin D">More muscle response when have adequate vitamin D</a> chart of increase muscle response when vitamin D is added
+* [More muscle response when have adequate vitamin D](/posts/more-muscle-response-when-have-adequate-vitamin-d) chart of increase muscle response when vitamin D is added
 
 * [Vitamin D supplementation improves muscle strength in healthy adults – meta-analysis of 6 RCT Aug 2014](/posts/vitamin-d-supplementation-improves-muscle-strength-in-healthy-adults-meta-analysis-of-6-rct)
 
 * [Sports benefits from up to 50 ng of Vitamin – meta-analysis - Nov 2012](/posts/sports-benefits-from-up-to-50-ng-of-vitamin-meta-analysis)
 
-* <a href="/posts/overview-magnesium-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Magnesium and vitamin D">Overview Magnesium and vitamin D</a>
+* [Overview Magnesium and vitamin D](/posts/overview-magnesium-and-vitamin-d)
 
 * [Magnesium and Vitamin D very synergistic – Aug 2013](/posts/magnesium-and-vitamin-d-very-synergistic)
 

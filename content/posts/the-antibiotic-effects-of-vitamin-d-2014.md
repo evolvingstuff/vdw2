@@ -55,9 +55,9 @@ The improvement of  **lupus vulgaris**  patients with very high dose vitamin D t
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-tuberculosis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Tuberculosis and Vitamin D">Overview Tuberculosis and Vitamin D</a>
+* [Overview Tuberculosis and Vitamin D](/posts/overview-tuberculosis-and-vitamin-d)
 
-* [Lupus](/categories/lupus) category listing with associated searches
+* [Lupus](/tags/lupus.html) category listing with associated searches
 
 * [Lupus reduced with vitamin D intervention – Feb 2014](/posts/lupus-reduced-with-vitamin-d-intervention)
 

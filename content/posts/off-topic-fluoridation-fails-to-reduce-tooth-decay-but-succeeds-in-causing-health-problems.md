@@ -77,9 +77,9 @@ Includes video with transcript, references, comments, etc.
 
 ### See also VitaminDWiki
 
-* <a href="/posts/high-fluoride-in-water-5x-more-likely-to-be-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: High fluoride in water: 5X more likely to be Vitamin D deficient – Jan 2023">High fluoride in water: 5X more likely to be Vitamin D deficient – Jan 2023</a>
+* [High fluoride in water: 5X more likely to be Vitamin D deficient – Jan 2023](/posts/high-fluoride-in-water-5x-more-likely-to-be-vitamin-d-deficient)
 
-* <a href="/posts/hypothesis-fluoridation-reduces-magnesium-in-body" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hypothesis: Fluoridation reduces magnesium in body">Hypothesis: Fluoridation reduces magnesium in body</a>
+* [Hypothesis: Fluoridation reduces magnesium in body](/posts/hypothesis-fluoridation-reduces-magnesium-in-body)
 
 * [Most of the world does not have Fluoride in the water (lowers levels of Magnesium) - 1995](/posts/most-of-the-world-does-not-have-fluoride-in-the-water-lowers-levels-of-magnesium-1995)
 

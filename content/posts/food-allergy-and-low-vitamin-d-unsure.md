@@ -74,19 +74,19 @@ Summary Although the role of vitamin D in extraskeletal function is certainly in
 
 <div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:700px">
 
-* <a href="/posts/allergy-overview" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Allergy - Overview">Allergy - Overview</a>
+* [Allergy - Overview](/posts/allergy-overview)
 
-* <a href="/posts/is-vitamin-d-supplementation-responsible-for-the-allergy-pandemic" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Is Vitamin D Supplementation Responsible for the Allergy Pandemic – May 2012">Is Vitamin D Supplementation Responsible for the Allergy Pandemic – May 2012</a>
+* [Is Vitamin D Supplementation Responsible for the Allergy Pandemic – May 2012](/posts/is-vitamin-d-supplementation-responsible-for-the-allergy-pandemic)
 
-* <a href="/posts/increase-food-sensitization-by-80-percent-if-vitamin-d-deficient-with-specific-genotypes" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Increase food sensitization by 80 percent if vitamin D deficient with specific genotypes – Aug 2011">Increase food sensitization by 80 percent if vitamin D deficient with specific genotypes – Aug 2011</a>
+* [Increase food sensitization by 80 percent if vitamin D deficient with specific genotypes – Aug 2011](/posts/increase-food-sensitization-by-80-percent-if-vitamin-d-deficient-with-specific-genotypes)
 
 * [11X more non-immigrant children allergic to peanuts if vitamin D less than 20 ng – Feb 2013](/posts/11x-more-non-immigrant-children-allergic-to-peanuts-if-vitamin-d-less-than-20-ng)
 
 * [30 to 40 ng of vitamin D associated with the least peanut allergy – Nov 2012](/posts/30-to-40-ng-of-vitamin-d-associated-with-the-least-peanut-allergy)
 
-* <a href="/posts/3x-more-allergy-to-peanuts-if-child-born-with-low-uv" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 3X more allergy to peanuts if child born with low UV – Feb 2011">3X more allergy to peanuts if child born with low UV – Feb 2011</a>
+* [3X more allergy to peanuts if child born with low UV – Feb 2011](/posts/3x-more-allergy-to-peanuts-if-child-born-with-low-uv)
 
-* <a href="/posts/vitamin-d-may-be-linked-to-food-allergies-by-intestinal-flora" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D may be linked to food allergies by intestinal flora – July 2010">Vitamin D may be linked to food allergies by intestinal flora – July 2010</a>
+* [Vitamin D may be linked to food allergies by intestinal flora – July 2010](/posts/vitamin-d-may-be-linked-to-food-allergies-by-intestinal-flora)
 
 * [Food allergy 12X more likely if low vitamin D and vitamin D binding gene problem – Aug 2015](/posts/food-allergy-12x-more-likely-if-low-vitamin-d-and-vitamin-d-binding-gene-problem)
 

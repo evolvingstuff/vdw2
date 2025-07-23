@@ -136,7 +136,7 @@ The limitation of our study is that the numbers are smaller in both the groups k
 
    * take large dose less often (say 2 weeks)
 
-   * use [Injection](/categories/injection) 
+   * use [Injection](/tags/injection.html) 
 
    * [add it to food/drink consumed over weeks](/posts/vitamin-d-home-fortification-dont-wait-100-years-for-your-govt)
 
@@ -218,19 +218,19 @@ Dalal A. Bubshait a, b, *, Dakheel A. Al-Dakheel a, b, Fawaz M. Alanii a, b
 
 *  **[Topical Vitamin D](/posts/topical-vitamin-d)** 
 
-* <a href="/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011">Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011</a>
+* [Vaginal suppository of 6300 IU vitamin D stopped vaginal infection – Feb 2011](/posts/vaginal-suppository-of-6300-iu-vitamin-d-stopped-vaginal-infection)
 
-* <a href="/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Alternatives if not swallow pills or not absorb vitamin D">Alternatives if not swallow pills or not absorb vitamin D</a>
+* [Alternatives if not swallow pills or not absorb vitamin D](/posts/alternatives-if-not-swallow-pills-or-not-absorb-vitamin-d)
 
 * [Topical vitamin D might be more bio-available than oral – Oct 2015](/posts/topical-vitamin-d-might-be-more-bio-available-than-oral)
 
 * [Review of Psoriasis treatments – including vitamin D – Aug 2012](/posts/review-of-psoriasis-treatments-including-vitamin-d)  full PDFof the study is attached
 
-* <a href="/posts/gut-friendly-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gut-Friendly Vitamin D">Gut-Friendly Vitamin D</a>
+* [Gut-Friendly Vitamin D](/posts/gut-friendly-vitamin-d)
 
 * [Spray vitamin D inside cheek in case of emergency](https://www.VitaminDWiki.com/blogpost102-Spray-vitamin-D-inside-cheek-in-case-of-emergency) VitaminDWiki Blog post
 
-* <a href="/posts/low-cost-vitamin-d-including-liquid-and-bulk" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Low Cost vitamin D - including liquid and bulk">Low Cost vitamin D - including liquid and bulk</a>  includes expensive topical - with added Magnesium
+* [Low Cost vitamin D - including liquid and bulk](/posts/low-cost-vitamin-d-including-liquid-and-bulk)  includes expensive topical - with added Magnesium
 
 ---
 

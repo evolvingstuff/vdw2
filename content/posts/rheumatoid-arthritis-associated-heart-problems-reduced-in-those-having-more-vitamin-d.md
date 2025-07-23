@@ -217,8 +217,8 @@ Conclusion. Vitamin D deficiency in RA may affect Th17 responses and microvascul
 
 * [100 percent of rheumatoid arthritis patients with very low vitamin D had very severe RA – Jan 2013](/posts/100-percent-of-rheumatoid-arthritis-patients-with-very-low-vitamin-d-had-very-severe-ra)
 
-* <a href="/posts/overview-rheumatoid-arthritis-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Rheumatoid Arthritis and vitamin D">Overview Rheumatoid Arthritis and vitamin D</a>
+* [Overview Rheumatoid Arthritis and vitamin D](/posts/overview-rheumatoid-arthritis-and-vitamin-d)
 
-* <a href="/posts/diseases-that-may-be-related-via-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diseases that may be related via low vitamin D">Diseases that may be related via low vitamin D</a> which has the following graphic
+* [Diseases that may be related via low vitamin D](/posts/diseases-that-may-be-related-via-low-vitamin-d) which has the following graphic
 
 <img src="/attachments/d3.mock.jpg" alt="image">

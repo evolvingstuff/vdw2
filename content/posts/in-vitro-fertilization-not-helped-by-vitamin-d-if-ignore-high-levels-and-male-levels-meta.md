@@ -62,7 +62,7 @@ VitaminDWiki bought the PDF (~$40) to find out how they disagreed with all previ
 
 * [Many fertility disorders associated with low vitamin D, still unsure how much is needed – Dec 2016](/posts/many-fertility-disorders-associated-with-low-vitamin-d-still-unsure-how-much-is-needed)
 
-* <a href="/posts/conception-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Conception and vitamin D">Conception and vitamin D</a> Overview
+* [Conception and vitamin D](/posts/conception-and-vitamin-d) Overview
 
 > Vitamin D increases fertility of BOTH the man and the woman. 
 

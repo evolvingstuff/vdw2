@@ -39,15 +39,15 @@
 
 * [Chance of dying increases by 25 percent in seniors if low vitamin D – Meta-analysis July 2013](/posts/chance-of-dying-increases-by-25-percent-in-seniors-if-low-vitamin-d-meta-analysis)
 
-* <a href="/posts/vitamin-d-with-calcium-reduces-mortality-by-7-percent-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D with Calcium reduces mortality by 7 percent – meta-analysis May 2012">Vitamin D with Calcium reduces mortality by 7 percent – meta-analysis May 2012</a>
+* [Vitamin D with Calcium reduces mortality by 7 percent – meta-analysis May 2012](/posts/vitamin-d-with-calcium-reduces-mortality-by-7-percent-meta-analysis)
 
-* <a href="/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012">Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012</a>
+* [Death rate reduced 8 percent for 8 nanogram more vitamin D – meta-analysis Feb 2012](/posts/death-rate-reduced-8-percent-for-8-nanogram-more-vitamin-d-meta-analysis)
 
-* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012">40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012</a>
+* [40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)
 
-* <a href="/posts/vitamin-d3-but-not-d2-reduces-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D3 but not D2 reduces mortality – meta-analysis July 2011">Vitamin D3 but not D2 reduces mortality – meta-analysis July 2011</a>
+* [Vitamin D3 but not D2 reduces mortality – meta-analysis July 2011](/posts/vitamin-d3-but-not-d2-reduces-mortality-meta-analysis)
 
-* <a href="/posts/vitamin-d-and-mortality-a-meta-analysis-of-rct-2008" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Vitamin D and mortality a meta-analysis of RCT - 2008">Vitamin D and mortality a meta-analysis of RCT - 2008</a>
+* [Vitamin D and mortality a meta-analysis of RCT - 2008](/posts/vitamin-d-and-mortality-a-meta-analysis-of-rct-2008)
 
 * [Cancer survival 4 percent more likely with just a little more vitamin D (4 ng) - meta-analysis July 2014](/posts/cancer-survival-4-percent-more-likely-with-just-a-little-more-vitamin-d-4-ng-meta-analysis)
 

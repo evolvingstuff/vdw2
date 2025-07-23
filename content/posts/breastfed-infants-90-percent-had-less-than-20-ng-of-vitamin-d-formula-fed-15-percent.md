@@ -84,7 +84,7 @@ Formula in Korea =  258 IU of vitamin D / Liter, and infants often take < 1 lite
 
 * [Comparison of Vitamin D supplementation guidelines for children – China 400 IU 2012 ](/posts/comparison-of-vitamin-d-supplementation-guidelines-for-children-china-400-iu-2012)
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
 * [Vitamin D DRI for children lowered to 200 IU in Korea – Jan 2013](/posts/vitamin-d-dri-for-children-lowered-to-200-iu-in-korea)
 

@@ -69,11 +69,11 @@ Our findings agree with a National Academy of Sciences report, except the cutoff
 
 * [Low levels of vitamin D associated with all cause mortality – Oct 2012](/posts/low-levels-of-vitamin-d-associated-with-all-cause-mortality)
 
-* <a href="/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012">40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012</a>
+* [40 ng Vitamin D perhaps optimal for reduced mortality – Meta-analysis Jan 2012](/posts/40-ng-vitamin-d-perhaps-optimal-for-reduced-mortality-meta-analysis)
 
-* <a href="/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Dr. Grant on vitamin D and mortality in VitaminDWiki">Dr. Grant on vitamin D and mortality in VitaminDWiki</a> Dr. Grant is one of the authors of the study on this page
+* [Dr. Grant on vitamin D and mortality in VitaminDWiki](/posts/dr-grant-on-vitamin-d-and-mortality-in-vitamindwiki) Dr. Grant is one of the authors of the study on this page
 
-* <a href="/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012">Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012</a> 
+* [Death rate 2X higher at age 60 if low vitamin D - 180,000 in Israel May 2012](/posts/death-rate-2x-higher-at-age-60-if-low-vitamin-d-180000-in-israel) 
 
 > very similar to the conclusion of the study on this page - see following chart
 

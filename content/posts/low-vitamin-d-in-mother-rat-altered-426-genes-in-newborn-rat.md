@@ -65,10 +65,10 @@ PMID:     23963738
 
 #### See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Pregnancy and vitamin D">Overview Pregnancy and vitamin D</a>
+* [Overview Pregnancy and vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
 * [Common Vitamin D gene variants and resulting diseases – Jan 2013](/posts/common-vitamin-d-gene-variants-and-resulting-diseases)
 
 * [291 genes improved expression by 2000 IU of vitamin D – RCT March 2013](/posts/291-genes-improved-expression-by-2000-iu-of-vitamin-d-rct)
 
-* <a href="/posts/430-genes-changed-when-3800-iu-vitamin-d-added-in-late-second-trimester-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 430 genes changed when 3,800 IU Vitamin D added in late second trimester – RCT May 2018">430 genes changed when 3,800 IU Vitamin D added in late second trimester – RCT May 2018</a>
+* [430 genes changed when 3,800 IU Vitamin D added in late second trimester – RCT May 2018](/posts/430-genes-changed-when-3800-iu-vitamin-d-added-in-late-second-trimester-rct)

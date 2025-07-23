@@ -84,8 +84,8 @@ For areas with abundant sun exposure like Thailand, vitamin D supplementation at
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and Vitamin D</a>
+* [Overview Pregnancy and Vitamin D](/posts/overview-pregnancy-and-vitamin-d)
 
-* <a href="/posts/overview-pregnancy-with-dark-skins-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1566">Overview Pregnancy with dark skins and Vitamin D</a> Thai do not have light colored skins 
+* [Overview Pregnancy with dark skins and Vitamin D](/tags/overview-pregnancy-with-dark-skins-and-vitamin-d.html) Thai do not have light colored skins 
 
 > and Thai women may tend to avoid the sun so as to get lighter colored skin

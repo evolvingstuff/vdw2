@@ -54,7 +54,7 @@ One type of diabetic nephropathy is peripheral nephropathy,
 
 ## See also VitaminDWiki
 
-* <a href="/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019">Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019</a>
+* [Diabetic nephropathy (Kidney) treated by 50,000 IU of vitamin D weekly – RCT Jan 2019](/posts/diabetic-nephropathy-kidney-treated-by-50000-iu-of-vitamin-d-weekly-rct)
 
 * [Diabetic Neuropathy sometimes can be reversed by vitamin D](/posts/diabetic-neuropathy-sometimes-can-be-reversed-by-vitamin-d)
 

@@ -375,7 +375,7 @@ TRIAL REGISTRATION: isrctn.org: ISRCTN35739639.
 
 #### Cataract Risk factors in Europe include smoking and diabetes - 2013
 
- **Note: Both <a href="/posts/smoking-reduces-vitamin-d-many-studies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Smoking reduces vitamin D - many studies">Smoking</a> and <a href="/posts/overview-diabetes-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Diabetes and vitamin D">Diabetes</a> lower vitamin D levels** 
+ **Note: Both [Smoking](/posts/smoking-reduces-vitamin-d-many-studies) and [Diabetes](/posts/overview-diabetes-and-vitamin-d) lower vitamin D levels** 
 
 | | |
 | --- | --- |

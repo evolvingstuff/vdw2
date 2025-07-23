@@ -55,7 +55,7 @@ Non-alcoholic fatty liver disease (NAFLD) is currently not a component of the di
 
 #### See also VitaminDWiki
 
-* <a href="/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Strong association of non alcoholic fatty liver disease and low vitamin D">Strong association of non alcoholic fatty liver disease and low vitamin D</a>
+* [Strong association of non alcoholic fatty liver disease and low vitamin D](/posts/strong-association-of-non-alcoholic-fatty-liver-disease-and-low-vitamin-d)
 
 * [Non-alcoholic Fatty Liver Disease (4 in 10 seniors) and Vitamin D ](/posts/non-alcoholic-fatty-liver-disease-4-in-10-seniors-and-vitamin-d)
 

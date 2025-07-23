@@ -46,7 +46,7 @@ PMID:     24130335
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-obesity-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Obesity and Vitamin D">Overview Obesity and Vitamin D</a>
+* [Overview Obesity and Vitamin D](/posts/overview-obesity-and-vitamin-d)
 
 * [Those low on vitamin D were 2.4X more likely to gain weight – June 2013](/posts/those-low-on-vitamin-d-were-24x-more-likely-to-gain-weight)
 

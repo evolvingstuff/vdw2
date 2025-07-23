@@ -101,29 +101,29 @@ This is not a loading dose, but my on-going dose.
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-vitamin-d3-not-d2" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2138">Overview Vitamin D3 not D2</a>
+* [Overview Vitamin D3 not D2](/posts/overview-vitamin-d3-not-d2)
 
 > Note: several studies have shown that vitamin D2 actually DECREASE vitamin D3 levels in the body
 
-* <a href="/posts/how-often-should-i-take-50000-iu-of-vitamin-d3" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3188">How often should I take 50000 IU of vitamin D3</a>
+* [How often should I take 50000 IU of vitamin D3](/tags/how-often-should-i-take-50000-iu-of-vitamin-d3.html)
 
 * [Doctors able to prescribe vitamin D3 - March 2012](https://www.VitaminDWiki.com/tiki-view_blog_post.php?postId=72)
 
-* <a href="/posts/huge-gap-between-vitamin-d-advice-and-actual-prescriptions" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 2616">Huge gap between vitamin D advice and actual prescriptions – April 2012</a> 
+* [Huge gap between vitamin D advice and actual prescriptions – April 2012](/posts/huge-gap-between-vitamin-d-advice-and-actual-prescriptions) 
 
 > only 1.4% got a loading dose - Kaiser appears to be doing much better
 
-* <a href="/posts/vitamin-d2-half-life-about-3-days" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3137">Vitamin D2 half-life about 3 days – April 2012</a> note: chart time line is HOURS, not days
+* [Vitamin D2 half-life about 3 days – April 2012](/tags/vitamin-d2-half-life-about-3-days-april-2012.html) note: chart time line is HOURS, not days
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/d2-half-life.jpg" alt="image" style="max-width: 400px;">
 
 * [Half-life of vitamin D varies](/posts/half-life-of-vitamin-d-varies) and D2 has the shortest half-life
 
-* <a href="/posts/many-ways-to-increase-the-response-to-a-dose-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1918">Many ways to increase the response to a dose of vitamin D</a>
+* [Many ways to increase the response to a dose of vitamin D](/tags/many-ways-to-increase-the-response-to-a-dose-of-vitamin-d.html)
 
 > Probably increase the response to a vitamin D dose by > 2X
 
-* <a href="/posts/overview-loading-of-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 326">Overview Loading of vitamin D</a> which has the following chart
+* [Overview Loading of vitamin D](/posts/overview-loading-of-vitamin-d) which has the following chart
 
 <img src="https://d378j1rmrlek7x.cloudfront.net/attachments/gif/loading-dose-guideline---april-2010.gif" alt="image">
 
@@ -131,6 +131,6 @@ Notice: Loading dose (D3) should be a function of patient weight – not a fixed
 
 Equation:  **<span style="color:#00F;">30ng (in ng and pounds) = 35 x (30-serum 25-OHD(3)) x body weight.</span>** 
 
-* <a href="/posts/review-of-kaiser-hmo-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1993">Review of Kaiser HMO and Vitamin D</a>
+* [Review of Kaiser HMO and Vitamin D](/tags/review-of-kaiser-hmo-and-vitamin-d.html)
 
  **Short url =**  http://is.gd/3ZdlXu

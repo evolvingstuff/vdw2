@@ -77,6 +77,6 @@ Received May 2, 2012, Accepted July 6, 2012, Copyright © 2012 by The Endocrine 
 
 # See also VitaminDWiki
 
-* <a href="/posts/overview-cardiovascular-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 1422">Overview Cardiovascular and vitamin D</a>
+* [Overview Cardiovascular and vitamin D](/posts/overview-cardiovascular-and-vitamin-d)
 
 > Many previous studies have shown that at least 2,000 IU of vitamin D is needed

@@ -48,15 +48,15 @@ Conclusion: Free-range farming offers an efficient alternative to fortify eggs w
 
 *  **[Vitamin D from animal increases 6X when consider that already processed by animal livers](/posts/vitamin-d-from-animal-increases-6x-when-consider-that-already-processed-by-animal-livers)** 
 
-* <a href="/posts/200-iu-per-100-gram-of-egg-yoke-when-add-vitamin-d-to-poultry-feed-in-europe" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 200 IU per 100 gram of egg yoke when add vitamin D to poultry feed in Europe – Aug 2011">200 IU per 100 gram of egg yoke when add vitamin D to poultry feed in Europe – Aug 2011</a>
+* [200 IU per 100 gram of egg yoke when add vitamin D to poultry feed in Europe – Aug 2011](/posts/200-iu-per-100-gram-of-egg-yoke-when-add-vitamin-d-to-poultry-feed-in-europe)
 
 * [UVB on legs of chickens resulted in 70 IU vitamin D per egg yoke – July 2013](/posts/uvb-on-legs-of-chickens-resulted-in-70-iu-vitamin-d-per-egg-yoke)
 
-* <a href="/posts/hens-with-vitamin-d-were-better-in-at-least-5-ways-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Hens with Vitamin D were better in at least 5 ways – RCT Aug 2018">Hens with Vitamin D were better in at least 5 ways – RCT Aug 2018</a>
+* [Hens with Vitamin D were better in at least 5 ways – RCT Aug 2018](/posts/hens-with-vitamin-d-were-better-in-at-least-5-ways-rct)
 
-* <a href="/posts/egg-vitamin-d-levels-are-not-permitted-to-be-restored-to-levels-before-chickens-were-raised-indoors" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Egg vitamin D levels are not permitted to be restored to levels before chickens were raised indoors – Feb 2017">Egg vitamin D levels are not permitted to be restored to levels before chickens were raised indoors – Feb 2017</a>
+* [Egg vitamin D levels are not permitted to be restored to levels before chickens were raised indoors – Feb 2017](/posts/egg-vitamin-d-levels-are-not-permitted-to-be-restored-to-levels-before-chickens-were-raised-indoors)
 
-* <a href="/posts/infant-higher-vitamin-d-if-mom-took-sun-took-vit-d-was-not-obese-or-ate-eggs-china" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Infant higher Vitamin D if mom took sun, took Vit D, was not obese, or ate eggs (China) – Feb 2019">Infant higher Vitamin D if mom took sun, took Vit D, was not obese, or ate eggs (China) – Feb 2019</a>
+* [Infant higher Vitamin D if mom took sun, took Vit D, was not obese, or ate eggs (China) – Feb 2019](/posts/infant-higher-vitamin-d-if-mom-took-sun-took-vit-d-was-not-obese-or-ate-eggs-china)
 
 * [Feed chicken lots of vitamin D, get 6000 IU per egg with no change in production – Nov 2013](/posts/feed-chicken-lots-of-vitamin-d-get-6000-iu-per-egg-with-no-change-in-production)
 

@@ -39,7 +39,7 @@ Although the epidemiologic evidence that adequate vitamin D nutrition protects a
 
 ## See also VitaminDWiki
 
-* <a href="/posts/overview-suntan-melanoma-and-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Overview Suntan, melanoma and vitamin D">Overview Suntan, melanoma and vitamin D</a> both kinds of skin cancer
+* [Overview Suntan, melanoma and vitamin D](/posts/overview-suntan-melanoma-and-vitamin-d) both kinds of skin cancer
 
 * [Cancer - Skin](/posts/cancer-skin) category overview
 
