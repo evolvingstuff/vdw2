@@ -45,6 +45,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [taxonomies]
   category = "categories"
+  tag = "tags"
 
 # Add pagination settings
 [params]

@@ -10,15 +10,17 @@
     "categories": [
         "Thyroid and parathyroid",
         "Cancer - Other",
-        "Vitamin D Receptor"
+        "Vit D Receptor"
     ],
     "tags": [
         "Cancer - Other",
         "Thyroid and parathyroid",
-        "Vitamin D Receptor",
+        "Vit D Receptor",
         "blood levels",
         "cancer",
         "cancer in VDR",
+        "child",
+        "childhood cancer",
         "genetics",
         "thyroid cancer",
         "vitamin d",
@@ -87,7 +89,7 @@ Conclusion:  **Unexpectedly, serum levels of vitamin D in test group were higher
 
 Tru9I polymorphism is significantly correlated to medullary thyroid carcinoma prevalence.
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/vdr-medullary-thyroid-cancer---not-english.pdf">Download the non-English PDF from VitaminDWiki</a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/vdr-medullary-thyroid-cancer---not-english.pdf">Download the non-English PDF from VitaminDWiki</a>** 
 
 * Note: in some VDR cases the blood levels of vitamin D are higher.  It appears that the body somewhat compensates for getting low vitamin D to the cells by increasing the vitamin D levels in the blood
 
@@ -99,4 +101,425 @@ Tru9I polymorphism is significantly correlated to medullary thyroid carcinoma pr
 
 * Vitamin D receptor expression and its clinical significance in papillary thyroid cancer - Feb 2022 Japan [FREE PDF Dissertation](https://ir.ymlib.yonsei.ac.kr/handle/22282913/189797)
 
-* Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea &nbsp; **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/tc-feb-2022-compresspdf.pdf">PDF</a>**
+* Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea &nbsp; **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/tc-feb-2022-compresspdf.pdf">PDF</a>** 
+
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+{{&lt; toc &gt;}} 
+
+---
+
+#### Vitamin d deficiency as a potentially modifiable risk factor for thyroid cancer.
+
+J Otolaryngol Head Neck Surg. 2012 Jun 1;41(3):160-3.
+
+Roskies M, Dolev Y, Caglar D, Hier MP, Mlynarek A, Majdan A, Payne RJ.
+
+Background:Vitamin D, classically involved in calcium homeostasis, has garnered recent interest for its potential role in cancer prevention and therapy. Although few risk factors have been established in the development of well-differentiated thyroid carcinoma, some would argue that no clear modifiable risk factor exists. Our study is one of the first to explore the relationship between vitamin D deficiency and thyroid cancer.
+
+Methods:This retrospective cohort study was done at a university-affiliated thyroid cancer centre. In 2010, 212 patients undergoing thyroidectomy had their preoperative 25-hydroxyvitamin D3 levels recorded in addition to the final pathologies of their resected thyroid nodule. The patients were stratified based on vitamin D status; vitamin D deficiency (VDD), reflecting levels under the established threshold of 37.5 nmol/L; and vitamin D sufficiency (VDS), reflecting levels above it. The primary outcome of malignancy rate was used to compare the proportion of malignant nodules in the VDD versus the VDS groups.
+
+Results:The malignancy rate rises when comparing the VDS and VDD groups, from 37.5 (33 of 88) to 75% (9 of 12), respectively, corresponding to a relative risk of  **2.0**  (p ?=? .03, 95% CI 1.07-2.66).
+
+Conclusion:This is the first study to demonstrate the inverse relationship between VDD and well-differentiated thyroid carcinoma. Larger prospective studies are needed to replicate these results. Should this happen, VDD may be the first modifiable risk factor for thyroid cancer.
+
+---
+
+#### Vitamin D Receptor and medullary thyroid cancer - July 2016
+
+ **Association of vitamin D levels and receptor gene polymorphisms with medullary thyroid cancer** 
+
+Volume 74, Number 4 (July 2016) | Tehran Univ Med J 2016, 74(4): 274-281 | Back to browse issues page
+
+Mehrnoosh Ramezani1, Mehdi Hedayati2, Saeed Hoseini Asl1, Meraj Tabatabaei3, Mohammad Mazani 4, Shirzad Nasiri5
+
+1- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. 
+
+2- Cellular and Molecular Research Center, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran. 
+
+3- Department of Immunology, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. 
+
+4- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. , m.mazani@arums.ac.ir
+
+5- General Surgery and Cancer, Associate Professor of Tehran University of Medical Sciences, Shariati Hospital, Tehran, Iran.
+
+Background: Thyroid cancer is the most common endocrine malignancy. Accounting for approximately 1-2% of all cancers. Thyroid cancers have been divided into four main types: papillary, follicular, medullary and anaplastic. The active form of vitamin D (1,25- (OH) 2-vitamin D3) by binding to its receptor, using genomic and non-genomic mechanisms inhibits the proliferative effect of TSH on thyroid cells. Therefore, vitamin D may have a role in regulating of thyroid gland cell proliferation. Many studies have shown anti-cancer effects of vitamin D in cancers. Polymorphisms of Vitamin D receptor can influence the prevalence to various cancers. In the present study, serum level of vitamin D and FokI, BsmI and Tru9I polymorphism of vitamin D receptor was investigated.
+
+Methods: This case-control study was performed in the summer of 2015 in Endocrinology and Metabolism Center of Shahid Beheshti University of Medical Sciences, Tehran, Iran. Forty medullary thyroid cancer patients and 40 healthy controls were investigated. Genomic DNA of subjects was extracted with saturated salt/proteinase K and polymorphisms of vitamin D receptor gene investigated by polymerase chain reaction-sequencing. Serum level of vitamin D evaluated by ELISA technique. The results were analyzed by SPSS, ver. 20 (Chicago, IL, USA) and GraphPad Prism, ver. 5 (GraphPad, Inc., CA, USA) softwares.
+
+Results: Genotypic and allelic abundance of FokI and BsmI polymorphisms between test and control groups have not shown significant different.
+
+In Tru9I polymorphism, 
+
+* Tt genotype abundance in test group were 45 percent and in 
+
+* control group were 17.5 percent and 
+
+* t allelic abundance in test group were 25 percent and in 
+
+* control group were 8.7 percent which this different were significant. 
+
+Average serum level of vitamin D in test group was 23.32 ng/ml and in control group was 18.95 ng/ml which was statistically significant.
+
+Conclusion:  **Unexpectedly, serum levels of vitamin D in test group were higher than control group.** 
+
+Tru9I polymorphism is significantly correlated to medullary thyroid carcinoma prevalence.
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/vdr-medullary-thyroid-cancer---not-english.pdf&quot;&gt;Download the non-English PDF from VitaminDWiki&lt;/a&gt;** 
+
+* Note: in some VDR cases the blood levels of vitamin D are higher.  It appears that the body somewhat compensates for getting low vitamin D to the cells by increasing the vitamin D levels in the blood
+
+---
+
+#### 2,000+ studies contain &quot;Thyroid Cancer&quot; and &quot;vitamin D Receptor&quot;
+
+ **[Google Scholar - March 2023](https://scholar.google.com/scholar?q=%22Thyroid+Cancer%22+%22vitamin+D+Receptor%22+&amp;hl=en&amp;as_sdt=0,48)** 
+
+* Vitamin D receptor expression and its clinical significance in papillary thyroid cancer - Feb 2022 Japan [FREE PDF Dissertation](https://ir.ymlib.yonsei.ac.kr/handle/22282913/189797)
+
+* Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea &amp;nbsp; **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/tc-feb-2022-compresspdf.pdf&quot;&gt;PDF&lt;/a&gt;** 
+
+
+
+AST Structure:
+-------------
+├── DivNode
+│   full_match: `{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV}`
+│   inner_content: `{maketoc}`
+│   attrs_dict:
+│   │   raw_content: (class=&quot;lefth4&quot;)
+│   │   class: lefth4
+│   children:
+│   ├── MakeTocNode
+│   │   full_match: `{maketoc}`
+│   │   inner_content: ``
+│   │   attrs_dict:
+│   │   │   raw_content: ├── TextNode
+│   full_match: ` `
+│   inner_content: ` `├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin d deficiency as a potentially modifiable risk factor for thyroid cancer.`
+│   inner_content: `Vitamin d deficiency as a potentially modifiable risk factor for thyroid cancer.`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin d deficiency as a potentially modifiable risk factor for thyroid cancer.`
+│   │   inner_content: `Vitamin d deficiency as a potentially modifiable risk factor for thyroid cancer.`├── TextNode
+│   full_match: `\nJ Otolaryngol Head Neck Surg. 2012 Jun 1;41(3):160-3.\nRoskies M, Dolev Y, Caglar D, Hier MP, Mlynarek A, Majdan A, Payne RJ.\n\nBackground:Vitamin D, classically involved in calcium homeostasis, has garnered recent interest for its potential role in cancer prevention and therapy. Although few risk factors have been established in the development of well-differentiated thyroid carcinoma, some would argue that no clear modifiable risk factor exists. Our study is one of the first to explore the relationship between vitamin D deficiency and thyroid cancer.\n\nMethods:This retrospective cohort study was done at a university-affiliated thyroid cancer centre. In 2010, 212 patients undergoing thyroidectomy had their preoperative 25-hydroxyvitamin D3 levels recorded in addition to the final pathologies of their resected thyroid nodule. The patients were stratified based on vitamin D status; vitamin D deficiency (VDD), reflecting levels under the established threshold of 37.5 nmol/L; and vitamin D sufficiency (VDS), reflecting levels above it. The primary outcome of malignancy rate was used to compare the proportion of malignant nodules in the VDD versus the VDS groups.\n\nResults:The malignancy rate rises when comparing the VDS and VDD groups, from 37.5 (33 of 88) to 75% (9 of 12), respectively, corresponding to a relative risk of `
+│   inner_content: `\nJ Otolaryngol Head Neck Surg. 2012 Jun 1;41(3):160-3.\nRoskies M, Dolev Y, Caglar D, Hier MP, Mlynarek A, Majdan A, Payne RJ.\n\nBackground:Vitamin D, classically involved in calcium homeostasis, has garnered recent interest for its potential role in cancer prevention and therapy. Although few risk factors have been established in the development of well-differentiated thyroid carcinoma, some would argue that no clear modifiable risk factor exists. Our study is one of the first to explore the relationship between vitamin D deficiency and thyroid cancer.\n\nMethods:This retrospective cohort study was done at a university-affiliated thyroid cancer centre. In 2010, 212 patients undergoing thyroidectomy had their preoperative 25-hydroxyvitamin D3 levels recorded in addition to the final pathologies of their resected thyroid nodule. The patients were stratified based on vitamin D status; vitamin D deficiency (VDD), reflecting levels under the established threshold of 37.5 nmol/L; and vitamin D sufficiency (VDS), reflecting levels above it. The primary outcome of malignancy rate was used to compare the proportion of malignant nodules in the VDD versus the VDS groups.\n\nResults:The malignancy rate rises when comparing the VDS and VDD groups, from 37.5 (33 of 88) to 75% (9 of 12), respectively, corresponding to a relative risk of `├── BoldNode
+│   full_match: `__2.0__`
+│   inner_content: `2.0`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2.0`
+│   │   inner_content: `2.0`├── TextNode
+│   full_match: ` (p ?=? .03, 95% CI 1.07-2.66).\n\nConclusion:This is the first study to demonstrate the inverse relationship between VDD and well-differentiated thyroid carcinoma. Larger prospective studies are needed to replicate these results. Should this happen, VDD may be the first modifiable risk factor for thyroid cancer.`
+│   inner_content: ` (p ?=? .03, 95% CI 1.07-2.66).\n\nConclusion:This is the first study to demonstrate the inverse relationship between VDD and well-differentiated thyroid carcinoma. Larger prospective studies are needed to replicate these results. Should this happen, VDD may be the first modifiable risk factor for thyroid cancer.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!7+ item in  Cancer- Other category with THYROID in title`
+│   inner_content: `7+ item in  Cancer- Other category with THYROID in title`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `7+ item in  Cancer- Other category with THYROID in title`
+│   │   inner_content: `7+ item in  Cancer- Other category with THYROID in title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;50&quot;}\n{filter categories=&quot;113&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROID&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;113&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROID&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;113&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROID&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;50&quot;}\n{filter categories=&quot;113&quot;}\n{filter field=&quot;title&quot; content=&quot;THYROID&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!Vitamin D Receptor and medullary thyroid cancer - July 2016`
+│   inner_content: `Vitamin D Receptor and medullary thyroid cancer - July 2016`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Receptor and medullary thyroid cancer - July 2016`
+│   │   inner_content: `Vitamin D Receptor and medullary thyroid cancer - July 2016`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__Association of vitamin D levels and receptor gene polymorphisms with medullary thyroid cancer__`
+│   inner_content: `Association of vitamin D levels and receptor gene polymorphisms with medullary thyroid cancer`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Association of vitamin D levels and receptor gene polymorphisms with medullary thyroid cancer`
+│   │   inner_content: `Association of vitamin D levels and receptor gene polymorphisms with medullary thyroid cancer`├── TextNode
+│   full_match: `\nVolume 74, Number 4 (July 2016) | Tehran Univ Med J 2016, 74(4): 274-281 | Back to browse issues page\nMehrnoosh Ramezani1, Mehdi Hedayati2, Saeed Hoseini Asl1, Meraj Tabatabaei3, Mohammad Mazani 4, Shirzad Nasiri5\n1- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. \n2- Cellular and Molecular Research Center, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran. \n3- Department of Immunology, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. \n4- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. , m.mazani@arums.ac.ir\n5- General Surgery and Cancer, Associate Professor of Tehran University of Medical Sciences, Shariati Hospital, Tehran, Iran.\n\nBackground: Thyroid cancer is the most common endocrine malignancy. Accounting for approximately 1-2% of all cancers. Thyroid cancers have been divided into four main types: papillary, follicular, medullary and anaplastic. The active form of vitamin D (1,25- (OH) 2-vitamin D3) by binding to its receptor, using genomic and non-genomic mechanisms inhibits the proliferative effect of TSH on thyroid cells. Therefore, vitamin D may have a role in regulating of thyroid gland cell proliferation. Many studies have shown anti-cancer effects of vitamin D in cancers. Polymorphisms of Vitamin D receptor can influence the prevalence to various cancers. In the present study, serum level of vitamin D and FokI, BsmI and Tru9I polymorphism of vitamin D receptor was investigated.\n\nMethods: This case-control study was performed in the summer of 2015 in Endocrinology and Metabolism Center of Shahid Beheshti University of Medical Sciences, Tehran, Iran. Forty medullary thyroid cancer patients and 40 healthy controls were investigated. Genomic DNA of subjects was extracted with saturated salt/proteinase K and polymorphisms of vitamin D receptor gene investigated by polymerase chain reaction-sequencing. Serum level of vitamin D evaluated by ELISA technique. The results were analyzed by SPSS, ver. 20 (Chicago, IL, USA) and GraphPad Prism, ver. 5 (GraphPad, Inc., CA, USA) softwares.\n\nResults: Genotypic and allelic abundance of FokI and BsmI polymorphisms between test and control groups have not shown significant different.\nIn Tru9I polymorphism, \n`
+│   inner_content: `\nVolume 74, Number 4 (July 2016) | Tehran Univ Med J 2016, 74(4): 274-281 | Back to browse issues page\nMehrnoosh Ramezani1, Mehdi Hedayati2, Saeed Hoseini Asl1, Meraj Tabatabaei3, Mohammad Mazani 4, Shirzad Nasiri5\n1- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. \n2- Cellular and Molecular Research Center, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran. \n3- Department of Immunology, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. \n4- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. , m.mazani@arums.ac.ir\n5- General Surgery and Cancer, Associate Professor of Tehran University of Medical Sciences, Shariati Hospital, Tehran, Iran.\n\nBackground: Thyroid cancer is the most common endocrine malignancy. Accounting for approximately 1-2% of all cancers. Thyroid cancers have been divided into four main types: papillary, follicular, medullary and anaplastic. The active form of vitamin D (1,25- (OH) 2-vitamin D3) by binding to its receptor, using genomic and non-genomic mechanisms inhibits the proliferative effect of TSH on thyroid cells. Therefore, vitamin D may have a role in regulating of thyroid gland cell proliferation. Many studies have shown anti-cancer effects of vitamin D in cancers. Polymorphisms of Vitamin D receptor can influence the prevalence to various cancers. In the present study, serum level of vitamin D and FokI, BsmI and Tru9I polymorphism of vitamin D receptor was investigated.\n\nMethods: This case-control study was performed in the summer of 2015 in Endocrinology and Metabolism Center of Shahid Beheshti University of Medical Sciences, Tehran, Iran. Forty medullary thyroid cancer patients and 40 healthy controls were investigated. Genomic DNA of subjects was extracted with saturated salt/proteinase K and polymorphisms of vitamin D receptor gene investigated by polymerase chain reaction-sequencing. Serum level of vitamin D evaluated by ELISA technique. The results were analyzed by SPSS, ver. 20 (Chicago, IL, USA) and GraphPad Prism, ver. 5 (GraphPad, Inc., CA, USA) softwares.\n\nResults: Genotypic and allelic abundance of FokI and BsmI polymorphisms between test and control groups have not shown significant different.\nIn Tru9I polymorphism, \n`├── ListItemNode
+│   full_match: `*Tt genotype abundance in test group were 45 percent and in `
+│   inner_content: `Tt genotype abundance in test group were 45 percent and in `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tt genotype abundance in test group were 45 percent and in `
+│   │   inner_content: `Tt genotype abundance in test group were 45 percent and in `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*control group were 17.5 percent and `
+│   inner_content: `control group were 17.5 percent and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `control group were 17.5 percent and `
+│   │   inner_content: `control group were 17.5 percent and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*t allelic abundance in test group were 25 percent and in `
+│   inner_content: `t allelic abundance in test group were 25 percent and in `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `t allelic abundance in test group were 25 percent and in `
+│   │   inner_content: `t allelic abundance in test group were 25 percent and in `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*control group were 8.7 percent which this different were significant. `
+│   inner_content: `control group were 8.7 percent which this different were significant. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `control group were 8.7 percent which this different were significant. `
+│   │   inner_content: `control group were 8.7 percent which this different were significant. `├── TextNode
+│   full_match: `\nAverage serum level of vitamin D in test group was 23.32 ng/ml and in control group was 18.95 ng/ml which was statistically significant.\n\nConclusion: `
+│   inner_content: `\nAverage serum level of vitamin D in test group was 23.32 ng/ml and in control group was 18.95 ng/ml which was statistically significant.\n\nConclusion: `├── BoldNode
+│   full_match: `__Unexpectedly, serum levels of vitamin D in test group were higher than control group. __`
+│   inner_content: `Unexpectedly, serum levels of vitamin D in test group were higher than control group. `
+│   children:
+│   ├── TextNode
+│   │   full_match: `Unexpectedly, serum levels of vitamin D in test group were higher than control group. `
+│   │   inner_content: `Unexpectedly, serum levels of vitamin D in test group were higher than control group. `├── TextNode
+│   full_match: `\nTru9I polymorphism is significantly correlated to medullary thyroid carcinoma prevalence.\n\n`
+│   inner_content: `\nTru9I polymorphism is significantly correlated to medullary thyroid carcinoma prevalence.\n\n`├── BoldNode
+│   full_match: `__~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;7580&quot; icon=&quot;1&quot;)}Download the non-English PDF from VitaminDWiki{ATTACH}~~__`
+│   inner_content: `~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;7580&quot; icon=&quot;1&quot;)}Download the non-English PDF from VitaminDWiki{ATTACH}~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;7580&quot; icon=&quot;1&quot;)}Download the non-English PDF from VitaminDWiki{ATTACH}~~`
+│   │   inner_content: ` {ATTACH(inline=&quot;1&quot; id=&quot;7580&quot; icon=&quot;1&quot;)}Download the non-English PDF from VitaminDWiki{ATTACH}`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;7580&quot; icon=&quot;1&quot;)}Download the non-English PDF from VitaminDWiki{ATTACH}`
+│   │   │   inner_content: `Download the non-English PDF from VitaminDWiki`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;7580&quot; icon=&quot;1&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 7580
+│   │   │   │   icon: 1
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Download the non-English PDF from VitaminDWiki`
+│   │   │   │   inner_content: `Download the non-English PDF from VitaminDWiki`├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── ListItemNode
+│   full_match: `*Note: in some VDR cases the blood levels of vitamin D are higher.  It appears that the body somewhat compensates for getting low vitamin D to the cells by increasing the vitamin D levels in the blood`
+│   inner_content: `Note: in some VDR cases the blood levels of vitamin D are higher.  It appears that the body somewhat compensates for getting low vitamin D to the cells by increasing the vitamin D levels in the blood`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note: in some VDR cases the blood levels of vitamin D are higher.  It appears that the body somewhat compensates for getting low vitamin D to the cells by increasing the vitamin D levels in the blood`
+│   │   inner_content: `Note: in some VDR cases the blood levels of vitamin D are higher.  It appears that the body somewhat compensates for getting low vitamin D to the cells by increasing the vitamin D levels in the blood`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!81+ Vitamin D Receptor pages with CANCER in the VitaminDWiki title`
+│   inner_content: `81+ Vitamin D Receptor pages with CANCER in the VitaminDWiki title`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `81+ Vitamin D Receptor pages with CANCER in the VitaminDWiki title`
+│   │   inner_content: `81+ Vitamin D Receptor pages with CANCER in the VitaminDWiki title`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── EmphasisNode
+│   full_match: `&#39;&#39;This list is automatically updated&#39;&#39;`
+│   inner_content: `This list is automatically updated`
+│   children:
+│   ├── TextNode
+│   │   full_match: `This list is automatically updated`
+│   │   inner_content: `This list is automatically updated`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListNode
+│   full_match: `{LIST()}\n{list max=&quot;150&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n{LIST}`
+│   inner_content: `\n{list max=&quot;150&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   attrs_dict:
+│   │   raw_content: 
+│   children:
+│   ├── TextNode
+│   │   full_match: `\n{list max=&quot;150&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`
+│   │   inner_content: `\n{list max=&quot;150&quot;}\n{filter categories=&quot;142&quot;}\n{filter field=&quot;title&quot; content=&quot;CANCER&quot;}\n{filter type=&quot;wiki page&quot;}\n{sort mode=&quot;modification_date_major_desc&quot;}\n{OUTPUT(template=&quot;table&quot;)}\n{tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}\n{column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}\n{column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}\n{OUTPUT}\n{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}\n{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!!!2,000+ studies contain &quot;Thyroid Cancer&quot; and &quot;vitamin D Receptor&quot; `
+│   inner_content: `2,000+ studies contain &quot;Thyroid Cancer&quot; and &quot;vitamin D Receptor&quot;`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2,000+ studies contain &quot;Thyroid Cancer&quot; and &quot;vitamin D Receptor&quot;`
+│   │   inner_content: `2,000+ studies contain &quot;Thyroid Cancer&quot; and &quot;vitamin D Receptor&quot;`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__[https://scholar.google.com/scholar?q=%22Thyroid+Cancer%22+%22vitamin+D+Receptor%22+&amp;hl=en&amp;as_sdt=0,48|Google Scholar - March 2023]__`
+│   inner_content: `[https://scholar.google.com/scholar?q=%22Thyroid+Cancer%22+%22vitamin+D+Receptor%22+&amp;hl=en&amp;as_sdt=0,48|Google Scholar - March 2023]`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://scholar.google.com/scholar?q=%22Thyroid+Cancer%22+%22vitamin+D+Receptor%22+&amp;hl=en&amp;as_sdt=0,48|Google Scholar - March 2023]`
+│   │   inner_content: `Google Scholar - March 2023`
+│   │   url: `https://scholar.google.com/scholar?q=%22Thyroid+Cancer%22+%22vitamin+D+Receptor%22+&amp;hl=en&amp;as_sdt=0,48`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Google Scholar - March 2023`
+│   │   │   inner_content: `Google Scholar - March 2023`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Vitamin D receptor expression and its clinical significance in papillary thyroid cancer - Feb 2022 Japan [https://ir.ymlib.yonsei.ac.kr/handle/22282913/189797|FREE PDF Dissertation]`
+│   inner_content: `Vitamin D receptor expression and its clinical significance in papillary thyroid cancer - Feb 2022 Japan [https://ir.ymlib.yonsei.ac.kr/handle/22282913/189797|FREE PDF Dissertation]`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D receptor expression and its clinical significance in papillary thyroid cancer - Feb 2022 Japan `
+│   │   inner_content: `Vitamin D receptor expression and its clinical significance in papillary thyroid cancer - Feb 2022 Japan `
+│   ├── LinkNode
+│   │   full_match: `[https://ir.ymlib.yonsei.ac.kr/handle/22282913/189797|FREE PDF Dissertation]`
+│   │   inner_content: `FREE PDF Dissertation`
+│   │   url: `https://ir.ymlib.yonsei.ac.kr/handle/22282913/189797`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `FREE PDF Dissertation`
+│   │   │   inner_content: `FREE PDF Dissertation`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19344&quot;)}PDF{ATTACH}__`
+│   inner_content: `Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19344&quot;)}PDF{ATTACH}__`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea `
+│   │   inner_content: `Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea `
+│   ├── HorizontalSpaceNode
+│   │   full_match: `~hs~`
+│   │   inner_content: ``
+│   │   repetitions: `1`
+│   ├── BoldNode
+│   │   full_match: `__{ATTACH(inline=&quot;1&quot; id=&quot;19344&quot;)}PDF{ATTACH}__`
+│   │   inner_content: `{ATTACH(inline=&quot;1&quot; id=&quot;19344&quot;)}PDF{ATTACH}`
+│   │   children:
+│   │   ├── AttachNode
+│   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;19344&quot;)}PDF{ATTACH}`
+│   │   │   inner_content: `PDF`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;19344&quot;)
+│   │   │   │   inline: 1
+│   │   │   │   id: 19344
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `PDF`
+│   │   │   │   inner_content: `PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`
+
+Original Tiki:
+-------------
+{DIV(class=&quot;lefth4&quot;)}{maketoc}{DIV} 
+---
+!!!!Vitamin d deficiency as a potentially modifiable risk factor for thyroid cancer.
+J Otolaryngol Head Neck Surg. 2012 Jun 1;41(3):160-3.
+Roskies M, Dolev Y, Caglar D, Hier MP, Mlynarek A, Majdan A, Payne RJ.
+
+Background:Vitamin D, classically involved in calcium homeostasis, has garnered recent interest for its potential role in cancer prevention and therapy. Although few risk factors have been established in the development of well-differentiated thyroid carcinoma, some would argue that no clear modifiable risk factor exists. Our study is one of the first to explore the relationship between vitamin D deficiency and thyroid cancer.
+
+Methods:This retrospective cohort study was done at a university-affiliated thyroid cancer centre. In 2010, 212 patients undergoing thyroidectomy had their preoperative 25-hydroxyvitamin D3 levels recorded in addition to the final pathologies of their resected thyroid nodule. The patients were stratified based on vitamin D status; vitamin D deficiency (VDD), reflecting levels under the established threshold of 37.5 nmol/L; and vitamin D sufficiency (VDS), reflecting levels above it. The primary outcome of malignancy rate was used to compare the proportion of malignant nodules in the VDD versus the VDS groups.
+
+Results:The malignancy rate rises when comparing the VDS and VDD groups, from 37.5 (33 of 88) to 75% (9 of 12), respectively, corresponding to a relative risk of __2.0__ (p ?=? .03, 95% CI 1.07-2.66).
+
+Conclusion:This is the first study to demonstrate the inverse relationship between VDD and well-differentiated thyroid carcinoma. Larger prospective studies are needed to replicate these results. Should this happen, VDD may be the first modifiable risk factor for thyroid cancer.
+---
+!!!!7+ item in  Cancer- Other category with THYROID in title
+&#39;&#39;This list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;50&quot;}
+{filter categories=&quot;113&quot;}
+{filter field=&quot;title&quot; content=&quot;THYROID&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!Vitamin D Receptor and medullary thyroid cancer - July 2016
+__Association of vitamin D levels and receptor gene polymorphisms with medullary thyroid cancer__
+Volume 74, Number 4 (July 2016) | Tehran Univ Med J 2016, 74(4): 274-281 | Back to browse issues page
+Mehrnoosh Ramezani1, Mehdi Hedayati2, Saeed Hoseini Asl1, Meraj Tabatabaei3, Mohammad Mazani 4, Shirzad Nasiri5
+1- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. 
+2- Cellular and Molecular Research Center, Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran. 
+3- Department of Immunology, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. 
+4- Department of Biochemistry, School of Medicine, Ardabil University of Medical Science, Ardabil Iran. , m.mazani@arums.ac.ir
+5- General Surgery and Cancer, Associate Professor of Tehran University of Medical Sciences, Shariati Hospital, Tehran, Iran.
+
+Background: Thyroid cancer is the most common endocrine malignancy. Accounting for approximately 1-2% of all cancers. Thyroid cancers have been divided into four main types: papillary, follicular, medullary and anaplastic. The active form of vitamin D (1,25- (OH) 2-vitamin D3) by binding to its receptor, using genomic and non-genomic mechanisms inhibits the proliferative effect of TSH on thyroid cells. Therefore, vitamin D may have a role in regulating of thyroid gland cell proliferation. Many studies have shown anti-cancer effects of vitamin D in cancers. Polymorphisms of Vitamin D receptor can influence the prevalence to various cancers. In the present study, serum level of vitamin D and FokI, BsmI and Tru9I polymorphism of vitamin D receptor was investigated.
+
+Methods: This case-control study was performed in the summer of 2015 in Endocrinology and Metabolism Center of Shahid Beheshti University of Medical Sciences, Tehran, Iran. Forty medullary thyroid cancer patients and 40 healthy controls were investigated. Genomic DNA of subjects was extracted with saturated salt/proteinase K and polymorphisms of vitamin D receptor gene investigated by polymerase chain reaction-sequencing. Serum level of vitamin D evaluated by ELISA technique. The results were analyzed by SPSS, ver. 20 (Chicago, IL, USA) and GraphPad Prism, ver. 5 (GraphPad, Inc., CA, USA) softwares.
+
+Results: Genotypic and allelic abundance of FokI and BsmI polymorphisms between test and control groups have not shown significant different.
+In Tru9I polymorphism, 
+*Tt genotype abundance in test group were 45 percent and in 
+*control group were 17.5 percent and 
+*t allelic abundance in test group were 25 percent and in 
+*control group were 8.7 percent which this different were significant. 
+Average serum level of vitamin D in test group was 23.32 ng/ml and in control group was 18.95 ng/ml which was statistically significant.
+
+Conclusion: __Unexpectedly, serum levels of vitamin D in test group were higher than control group. __
+Tru9I polymorphism is significantly correlated to medullary thyroid carcinoma prevalence.
+
+__~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;7580&quot; icon=&quot;1&quot;)}Download the non-English PDF from VitaminDWiki{ATTACH}~~__
+
+*Note: in some VDR cases the blood levels of vitamin D are higher.  It appears that the body somewhat compensates for getting low vitamin D to the cells by increasing the vitamin D levels in the blood
+---
+!!!!81+ Vitamin D Receptor pages with CANCER in the VitaminDWiki title
+&#39;&#39;This list is automatically updated&#39;&#39;
+{LIST()}
+{list max=&quot;150&quot;}
+{filter categories=&quot;142&quot;}
+{filter field=&quot;title&quot; content=&quot;CANCER&quot;}
+{filter type=&quot;wiki page&quot;}
+{sort mode=&quot;modification_date_major_desc&quot;}
+{OUTPUT(template=&quot;table&quot;)}
+   {tableparams allowtableexpansion=&quot;n&quot; shownbitems=&quot;y&quot; title=&quot;&quot;}
+    {column sort=&quot;title&quot; label=&quot;Title&quot; field=&quot;title&quot; mode=&quot;raw&quot;}{column}
+    {column label=&quot;Modified&quot; sort=&quot;modification_date_major&quot; field=&quot;modification_date_major&quot;}
+{OUTPUT}
+{FORMAT(name=&quot;title&quot;)}{display name=title format=&quot;objectlink&quot;}{FORMAT}
+{FORMAT(name=&quot;modification_date_major&quot;)}{display name=modification_date_major format=&quot;date&quot;}{FORMAT}
+{LIST}
+---
+!!!!2,000+ studies contain &quot;Thyroid Cancer&quot; and &quot;vitamin D Receptor&quot; 
+__[https://scholar.google.com/scholar?q=%22Thyroid+Cancer%22+%22vitamin+D+Receptor%22+&amp;hl=en&amp;as_sdt=0,48|Google Scholar - March 2023]__
+*Vitamin D receptor expression and its clinical significance in papillary thyroid cancer - Feb 2022 Japan [https://ir.ymlib.yonsei.ac.kr/handle/22282913/189797|FREE PDF Dissertation]
+*Vitamin D Receptor Expression and its Clinical Significance in Papillary Thyroid Cancer - Feb 2022 Korea ~hs~__{ATTACH(inline=&quot;1&quot; id=&quot;19344&quot;)}PDF{ATTACH}__
+
+</code>
+</pre>

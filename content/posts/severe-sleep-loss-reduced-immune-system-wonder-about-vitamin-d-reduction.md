@@ -13,6 +13,313 @@
     ],
     "tags": [
         "Immunity",
-        "Sleep"
+        "Sleep",
+        "child",
+        "childhood obesity",
+        "diabetes",
+        "health risk",
+        "hypertension",
+        "immunity",
+        "metabolic",
+        "obesity",
+        "vitamin d"
     ]
 }
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!Clipped from [http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does] Medical News  Today`
+│   inner_content: `Clipped from [http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does] Medical News  Today`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Clipped from `
+│   │   inner_content: `Clipped from `
+│   ├── LinkNode
+│   │   full_match: `[http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does]`
+│   │   inner_content: `Severe Sleep Loss Affects Immune System Like Physical Stress Does`
+│   │   url: `http://www.medicalnewstoday.com/articles/247320.php `
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Severe Sleep Loss Affects Immune System Like Physical Stress Does`
+│   │   │   inner_content: `Severe Sleep Loss Affects Immune System Like Physical Stress Does`
+│   ├── TextNode
+│   │   full_match: ` Medical News  Today`
+│   │   inner_content: ` Medical News  Today`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!Note – no mention of vitamin D in the abstract `
+│   inner_content: `Note – no mention of vitamin D in the abstract`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Note – no mention of vitamin D in the abstract`
+│   │   inner_content: `Note – no mention of vitamin D in the abstract`├── TextNode
+│   full_match: `\n\nFound a link between lack of sleep and the development of certain diseases and conditions, such as \n`
+│   inner_content: `\n\nFound a link between lack of sleep and the development of certain diseases and conditions, such as \n`├── ListItemNode
+│   full_match: `*high blood pressure (hypertension), `
+│   inner_content: `high blood pressure (hypertension), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `high blood pressure (hypertension), `
+│   │   inner_content: `high blood pressure (hypertension), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*diabetes and `
+│   inner_content: `diabetes and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `diabetes and `
+│   │   inner_content: `diabetes and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*obesity.`
+│   inner_content: `obesity.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `obesity.`
+│   │   inner_content: `obesity.`├── TextNode
+│   full_match: `\n\nStudy deprived 15 men of sleep for 27 hours. When deprived of sleep &quot;The granulocytes reacted immediately to the physical stress of sleep loss and directly mirrored the body&#39;s stress response.&quot;\n\nA granulocyte is a type of white blood cell that is full of microscopic granules - tiny sacs that contain enzymes for digesting microorganisms. Granulocytes form part of our innate immune system.\n`
+│   inner_content: `\n\nStudy deprived 15 men of sleep for 27 hours. When deprived of sleep &quot;The granulocytes reacted immediately to the physical stress of sleep loss and directly mirrored the body&#39;s stress response.&quot;\n\nA granulocyte is a type of white blood cell that is full of microscopic granules - tiny sacs that contain enzymes for digesting microorganisms. Granulocytes form part of our innate immune system.\n`├── HeadingNode
+│   full_match: `\n!!Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`
+│   inner_content: `Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`
+│   │   inner_content: `Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`├── TextNode
+│   full_match: `\nSleep Volume 35, ISSUE 07 \nKatrin Ackermann, PhD1; Victoria L. Revell, PhD3; Oscar Lao, PhD1; Elwin J. Rombouts, PhD2; Debra J. Skene, PhD3; Manfred Kayser, PhD1\n1Department of Forensic Molecular Biology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n2 Department of Haematology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n3 Centre for Chronobiology, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey, United Kingdom\n\nThe sleep/wake cycle is accompanied by changes in circulating numbers of immune cells. The goal of this study was to provide an in-depth characterization of diurnal rhythms in different blood cell populations and to investigate the effect of acute sleep deprivation on the immune system, as an indicator of the body&#39;s acute stress response.\n\nSetting: Home environment and Clinical Research Centre.\n\nParticipants: 15 healthy male participants aged 23.7 ± 5.4 (standard deviation) yr.\n\nInterventions: Total sleep deprivation.\n\nMeasurements and Results:\n\nDiurnal rhythms of several blood cell populations were assessed under a normal sleep/wake cycle followed by 29 hr of extended wakefulness. The effect of condition (sleep versus sleep deprivation) on peak time and amplitude was investigated. Interindividual variation of, and the level of correlation between, the different cell populations was assessed.\n\nComprehensive nonlinear curve fitting showed significant diurnal rhythms for all blood cell types investigated, with CD4 (naïve) cells exhibiting the most robust rhythms independent of condition. For those participants exhibiting significant diurnal rhythms in blood cell populations, only the amplitude of the granulocyte rhythm was significantly reduced by sleep deprivation. Granulocytes were the most diverse population, being most strongly affected by condition, and showed the lowest correlations with any other given cell type while exhibiting the largest interindividual variation in abundance.\n\nConclusions:\nGranulocyte levels and diurnal rhythmicity are directly affected by acute sleep deprivation; these changes mirror the body&#39;s immediate immune response upon exposure to stress.\n\n`
+│   inner_content: `\nSleep Volume 35, ISSUE 07 \nKatrin Ackermann, PhD1; Victoria L. Revell, PhD3; Oscar Lao, PhD1; Elwin J. Rombouts, PhD2; Debra J. Skene, PhD3; Manfred Kayser, PhD1\n1Department of Forensic Molecular Biology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n2 Department of Haematology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n3 Centre for Chronobiology, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey, United Kingdom\n\nThe sleep/wake cycle is accompanied by changes in circulating numbers of immune cells. The goal of this study was to provide an in-depth characterization of diurnal rhythms in different blood cell populations and to investigate the effect of acute sleep deprivation on the immune system, as an indicator of the body&#39;s acute stress response.\n\nSetting: Home environment and Clinical Research Centre.\n\nParticipants: 15 healthy male participants aged 23.7 ± 5.4 (standard deviation) yr.\n\nInterventions: Total sleep deprivation.\n\nMeasurements and Results:\n\nDiurnal rhythms of several blood cell populations were assessed under a normal sleep/wake cycle followed by 29 hr of extended wakefulness. The effect of condition (sleep versus sleep deprivation) on peak time and amplitude was investigated. Interindividual variation of, and the level of correlation between, the different cell populations was assessed.\n\nComprehensive nonlinear curve fitting showed significant diurnal rhythms for all blood cell types investigated, with CD4 (naïve) cells exhibiting the most robust rhythms independent of condition. For those participants exhibiting significant diurnal rhythms in blood cell populations, only the amplitude of the granulocyte rhythm was significantly reduced by sleep deprivation. Granulocytes were the most diverse population, being most strongly affected by condition, and showed the lowest correlations with any other given cell type while exhibiting the largest interindividual variation in abundance.\n\nConclusions:\nGranulocyte levels and diurnal rhythmicity are directly affected by acute sleep deprivation; these changes mirror the body&#39;s immediate immune response upon exposure to stress.\n\n`├── LinkNode
+│   full_match: `[http://www.journalsleep.org/ViewAbstract.aspx?pid=28578 |Full study is available from the publisher for only $8.00]`
+│   inner_content: `Full study is available from the publisher for only $8.00`
+│   url: `http://www.journalsleep.org/ViewAbstract.aspx?pid=28578 `
+│   children:
+│   ├── TextNode
+│   │   full_match: `Full study is available from the publisher for only $8.00`
+│   │   inner_content: `Full study is available from the publisher for only $8.00`├── TextNode
+│   full_match: `\n\n- - - - - - \n`
+│   inner_content: `\n\n- - - - - - \n`├── HeadingNode
+│   full_match: `!See also VitaminDWiki `
+│   inner_content: `See also VitaminDWiki`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]`
+│   │   inner_content: `Poor sleep and lack of vitamin D - Nov 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2139`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Poor sleep and lack of vitamin D - Nov 2011`
+│   │   │   inner_content: `Poor sleep and lack of vitamin D - Nov 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Discusses sleep quality improving when enough vitamin D was added.`
+│   inner_content: `Discusses sleep quality improving when enough vitamin D was added.`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Discusses sleep quality improving when enough vitamin D was added.`
+│   │   inner_content: `Discusses sleep quality improving when enough vitamin D was added.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+The study above discusses sleep quality being reduced ==&gt; stress on the body which has been shown to reduce levels of vitamin D`
+│   inner_content: `The study above discusses sleep quality being reduced ==&gt; stress on the body which has been shown to reduce levels of vitamin D`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `The study above discusses sleep quality being reduced ==&gt; stress on the body which has been shown to reduce levels of vitamin D`
+│   │   inner_content: `The study above discusses sleep quality being reduced ==&gt; stress on the body which has been shown to reduce levels of vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]`
+│   │   inner_content: `Vitamin D is number one stress buster – Huntington Post May 2010`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=224`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D is number one stress buster – Huntington Post May 2010`
+│   │   │   inner_content: `Vitamin D is number one stress buster – Huntington Post May 2010`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;sort_mode=created_desc|All items in category After Surgery and Stress]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;sort_mode=created_desc|All items in category After Surgery and Stress]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;sort_mode=created_desc|All items in category After Surgery and Stress]`
+│   │   inner_content: `All items in category After Surgery and Stress`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items in category After Surgery and Stress`
+│   │   │   inner_content: `All items in category After Surgery and Stress`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Vitamin D reduced by 40% in 2 days following surgery or trauma`
+│   inner_content: `Vitamin D reduced by 40% in 2 days following surgery or trauma`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D reduced by 40% in 2 days following surgery or trauma`
+│   │   inner_content: `Vitamin D reduced by 40% in 2 days following surgery or trauma`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]`
+│   │   inner_content: `An update on vitamin D and human immunity – Oct 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2099`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `An update on vitamin D and human immunity – Oct 2011`
+│   │   │   inner_content: `An update on vitamin D and human immunity – Oct 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent] 2008`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent] 2008`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent]`
+│   │   inner_content: `Immune system and vitamin D patent`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1792`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Immune system and vitamin D patent`
+│   │   │   inner_content: `Immune system and vitamin D patent`
+│   ├── TextNode
+│   │   full_match: ` 2008`
+│   │   inner_content: ` 2008`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;sort_mode=created_desc|All items in category Immune System] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;sort_mode=created_desc|All items in category Immune System] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;sort_mode=created_desc|All items in category Immune System]`
+│   │   inner_content: `All items in category Immune System`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items in category Immune System`
+│   │   │   inner_content: `All items in category Immune System`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│   │   inner_content: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]`
+│   │   inner_content: `Cow, mouse, and human immune system and vitamin D – March 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2495`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Cow, mouse, and human immune system and vitamin D – March 2012`
+│   │   │   inner_content: `Cow, mouse, and human immune system and vitamin D – March 2012`
+
+Original Tiki:
+-------------
+!!Clipped from [http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does] Medical News  Today
+
+!Note – no mention of vitamin D in the abstract 
+
+Found a link between lack of sleep and the development of certain diseases and conditions, such as 
+*high blood pressure (hypertension), 
+*diabetes and 
+*obesity.
+
+Study deprived 15 men of sleep for 27 hours. When deprived of sleep &quot;The granulocytes reacted immediately to the physical stress of sleep loss and directly mirrored the body&#39;s stress response.&quot;
+
+A granulocyte is a type of white blood cell that is full of microscopic granules - tiny sacs that contain enzymes for digesting microorganisms. Granulocytes form part of our innate immune system.
+
+!!Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men
+ Sleep Volume 35, ISSUE 07 
+Katrin Ackermann, PhD1; Victoria L. Revell, PhD3; Oscar Lao, PhD1; Elwin J. Rombouts, PhD2; Debra J. Skene, PhD3; Manfred Kayser, PhD1
+1Department of Forensic Molecular Biology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; 
+2 Department of Haematology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; 
+3 Centre for Chronobiology, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey, United Kingdom
+
+The sleep/wake cycle is accompanied by changes in circulating numbers of immune cells. The goal of this study was to provide an in-depth characterization of diurnal rhythms in different blood cell populations and to investigate the effect of acute sleep deprivation on the immune system, as an indicator of the body&#39;s acute stress response.
+
+Setting: Home environment and Clinical Research Centre.
+
+Participants: 15 healthy male participants aged 23.7 ± 5.4 (standard deviation) yr.
+
+Interventions: Total sleep deprivation.
+
+Measurements and Results:
+
+Diurnal rhythms of several blood cell populations were assessed under a normal sleep/wake cycle followed by 29 hr of extended wakefulness. The effect of condition (sleep versus sleep deprivation) on peak time and amplitude was investigated. Interindividual variation of, and the level of correlation between, the different cell populations was assessed.
+
+Comprehensive nonlinear curve fitting showed significant diurnal rhythms for all blood cell types investigated, with CD4 (naïve) cells exhibiting the most robust rhythms independent of condition. For those participants exhibiting significant diurnal rhythms in blood cell populations, only the amplitude of the granulocyte rhythm was significantly reduced by sleep deprivation. Granulocytes were the most diverse population, being most strongly affected by condition, and showed the lowest correlations with any other given cell type while exhibiting the largest interindividual variation in abundance.
+
+Conclusions:
+Granulocyte levels and diurnal rhythmicity are directly affected by acute sleep deprivation; these changes mirror the body&#39;s immediate immune response upon exposure to stress.
+
+[http://www.journalsleep.org/ViewAbstract.aspx?pid=28578 |Full study is available from the publisher for only $8.00]
+
+- - - - - - 
+!See also VitaminDWiki 
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]
++Discusses sleep quality improving when enough vitamin D was added.
++The study above discusses sleep quality being reduced ==&gt; stress on the body which has been shown to reduce levels of vitamin D
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;sort_mode=created_desc|All items in category After Surgery and Stress]
++Vitamin D reduced by 40% in 2 days following surgery or trauma
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent] 2008
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;sort_mode=created_desc|All items in category Immune System] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]
+</code>
+</pre>

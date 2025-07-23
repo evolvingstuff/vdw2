@@ -146,7 +146,6 @@ class LightSPA {
         }
         console.log('check point 2')
 
-        debugger;
         console.log('[navigateTo] Starting navigation to:', url, 'pushState:', pushState);
         
         // Check for URL fixer function - FAIL EXPLICITLY if missing

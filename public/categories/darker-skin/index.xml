@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Darker Skin on VitaminDWiki</title><link>/categories/darker-skin.html</link><description>Recent content in Darker Skin on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/categories/darker-skin/index.xml" rel="self" type="application/rss+xml"/><item><title>Pregnant blacks 50 pcnt more likely to be depressed if 3 ng less vitamin D</title><link>/posts/pregnant-blacks-50-pcnt-more-likely-to-be-depressed-if-3-ng-less-vitamin-d.html</link><pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/pregnant-blacks-50-pcnt-more-likely-to-be-depressed-if-3-ng-less-vitamin-d.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`
+│ inner_content: `Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`
+│ │ inner_content: `Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women`├── TextNode
+│ full_match: `\nJournal of Women&amp;#39;s Health. Online Ahead of Print: July 23, 2012\nAndrea E. Cassidy-Bushrow, Ph.D. acassid1@hfhs.org, M.P.H.,1 Rosalind M. Peters, Ph.D., R.N., FAAN,2 Dayna A. Johnson, M.P.H., M.S.W., M.S.,1 Jia Li, Ph.D.,1 and D. Sudhaker Rao, MBBS3\n1 Department of Public Health Sciences, Henry Ford Hospital, Detroit, Michigan.\n2 College of Nursing, Wayne State University, Detroit, Michigan.\n3 Bone &amp;amp; Mineral Research Laboratory, Henry Ford Hospital, Detroit, Michigan.\n\nBackground: Vitamin D deficiency is associated with depression; however, no studies have examined the relationship of vitamin D and antenatal depression. Antenatal depression increases the risk of adverse birth outcomes and poorer postpartum maternal and infant health. African American women are at increased risk for vitamin D deficiency and antenatal depression. Thus, we examined if early pregnancy vitamin D nutrition (VDN) was associated with antenatal depressive symptoms among African American women in the second trimester of pregnancy.\n\nMethods: Women (n=178) were recruited from obstetrics clinics of a large health system. VDN was assessed by serum 25-hydroxyvitamin D (25-OHD). \nDepression symptoms were measured with the Center for Epidemiological Studies Depression (CES-D) scale; \nCES-D?16 equates with criteria for `
+│ inner_content: `\nJournal of Women&amp;#39;s Health. Online Ahead of Print: July 23, 2012\nAndrea E. Cassidy-Bushrow, Ph.D. acassid1@hfhs.org, M.P.H.,1 Rosalind M. Peters, Ph.D., R.N., FAAN,2 Dayna A. Johnson, M.P.H., M.S.W., M.S.,1 Jia Li, Ph.D.,1 and D. Sudhaker Rao, MBBS3\n1 Department of Public Health Sciences, Henry Ford Hospital, Detroit, Michigan.\n2 College of Nursing, Wayne State University, Detroit, Michigan.\n3 Bone &amp;amp; Mineral Research Laboratory, Henry Ford Hospital, Detroit, Michigan.\n\nBackground: Vitamin D deficiency is associated with depression; however, no studies have examined the relationship of vitamin D and antenatal depression. Antenatal depression increases the risk of adverse birth outcomes and poorer postpartum maternal and infant health. African American women are at increased risk for vitamin D deficiency and antenatal depression. Thus, we examined if early pregnancy vitamin D nutrition (VDN) was associated with antenatal depressive symptoms among African American women in the second trimester of pregnancy.\n\nMethods: Women (n=178) were recruited from obstetrics clinics of a large health system. VDN was assessed by serum 25-hydroxyvitamin D (25-OHD). \nDepression symptoms were measured with the Center for Epidemiological Studies Depression (CES-D) scale; \nCES-D?16 equates with criteria for `├── BoldNode
+│ full_match: `__clinical depression__`
+│ inner_content: `clinical depression`
+│ children:
+│ ├── TextNode
+│ │ full_match: `clinical depression`
+│ │ inner_content: `clinical depression`├── TextNode
+│ full_match: `. \nLogistic regression was used to examine the association of log-transformed 25-OHD and elevated depression symptoms (CES-D?16).\n\nResults: Mean 25-OHD was 13.4±8.4?ng/mL; most women (82.6%, n=147) were vitamin D inadequate or deficient (25-OHD&amp;lt;20?ng/mL). \nMean CES-D was 15.2±10.7, and 74 (41.6%) women had a CES-D?16, suggestive of clinical depression.\nA significant inverse relationship was found between log (25-OHD) and CES-D?16 (odds ratio `
+│ inner_content: `. \nLogistic regression was used to examine the association of log-transformed 25-OHD and elevated depression symptoms (CES-D?16).\n\nResults: Mean 25-OHD was 13.4±8.4?ng/mL; most women (82.6%, n=147) were vitamin D inadequate or deficient (25-OHD&amp;lt;20?ng/mL). \nMean CES-D was 15.2±10.7, and 74 (41.6%) women had a CES-D?16, suggestive of clinical depression.\nA significant inverse relationship was found between log (25-OHD) and CES-D?16 (odds ratio `├── BoldNode
+│ full_match: `__[OR] 0.54__`
+│ inner_content: `[OR] 0.54`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[OR]`
+│ │ inner_content: `OR`
+│ │ url: `OR`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `OR`
+│ │ │ inner_content: `OR`
+│ ├── TextNode
+│ │ full_match: ` 0.54`
+│ │ inner_content: ` 0.54`├── TextNode
+│ full_match: `, 95% confidence interval `
+│ inner_content: `, 95% confidence interval `├── LinkNode
+│ full_match: `[CI]`
+│ inner_content: `CI`
+│ url: `CI`
+│ children:
+│ ├── TextNode
+│ │ full_match: `CI`
+│ │ inner_content: `CI`├── TextNode
+│ full_match: ` 0.29-0.99, p=0.046). \n\n`
+│ inner_content: ` 0.29-0.99, p=0.046). \n\n`├── BoldNode
+│ full_match: `__For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.__`
+│ inner_content: `For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.`
+│ children:
+│ ├── TextNode
+│ │ full_match: `For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.`
+│ │ inner_content: `For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.`├── TextNode
+│ full_match: `\n\nConclusions: African American women with lower VDN exhibit increased depressive symptoms. \nResearch on vitamin D supplementation for reducing antenatal depressive symptoms is needed.\n– – – – – – – – – – – \n`
+│ inner_content: `\n\nConclusions: African American women with lower VDN exhibit increased depressive symptoms. \nResearch on vitamin D supplementation for reducing antenatal depressive symptoms is needed.\n– – – – – – – – – – – \n`├── HeadingNode
+│ full_match: `!!Summary by VitaminDWiki`
+│ inner_content: `Summary by VitaminDWiki`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Summary by VitaminDWiki`
+│ │ inner_content: `Summary by VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── NumListItemNode
+│ full_match: `#Fact: Depresion is associated with low levels of vitamin D`
+│ inner_content: `Fact: Depresion is associated with low levels of vitamin D`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Fact: Depresion is associated with low levels of vitamin D`
+│ │ inner_content: `Fact: Depresion is associated with low levels of vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── NumListItemNode
+│ full_match: `#Fact: Dark skin women have lower vitamin D than those with white skins`
+│ inner_content: `Fact: Dark skin women have lower vitamin D than those with white skins`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Fact: Dark skin women have lower vitamin D than those with white skins`
+│ │ inner_content: `Fact: Dark skin women have lower vitamin D than those with white skins`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── NumListItemNode
+│ full_match: `#Fact: Pregnancy decreases vitamin D`
+│ inner_content: `Fact: Pregnancy decreases vitamin D`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Fact: Pregnancy decreases vitamin D`
+│ │ inner_content: `Fact: Pregnancy decreases vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*1+2+3 = The direction of the results of this study`
+│ inner_content: `1+2+3 = The direction of the results of this study`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `1+2+3 = The direction of the results of this study`
+│ │ inner_content: `1+2+3 = The direction of the results of this study`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`
+│ inner_content: `Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`
+│ │ inner_content: `Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!See also VitaminDWiki `
+│ inner_content: `See also VitaminDWiki`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Depression)) category listing with many associated searches`
+│ inner_content: `((Depression)) category listing with many associated searches`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Depression))`
+│ │ inner_content: `Depression`
+│ │ page: `Depression`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Depression`
+│ │ │ inner_content: `Depression`
+│ ├── TextNode
+│ │ full_match: ` category listing with many associated searches`
+│ │ inner_content: ` category listing with many associated searches`├── TextNode
+│ full_match: `\nItems tagged in both categories `
+│ inner_content: `\nItems tagged in both categories `├── BoldNode
+│ full_match: `__Depression AND Pregnancy__`
+│ inner_content: `Depression AND Pregnancy`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Depression AND Pregnancy`
+│ │ inner_content: `Depression AND Pregnancy`├── TextNode
+│ full_match: ` `
+│ inner_content: ` `├── CategoryNode
+│ full_match: `{category id=&amp;quot;48+12&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot; showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: id=&amp;quot;48+12&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot; showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;
+│ │ id: 48+12
+│ │ types: wiki
+│ │ sort: created_desc
+│ │ split: n
+│ │ and: y
+│ │ sub: n
+│ │ showdescription: n
+│ │ showname: y
+│ │ showtype: n
+│ │ one: y
+│ │ showTitle: n├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
+│ │ inner_content: `Dark skin births are much riskier due to lack of vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1566`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Dark skin births are much riskier due to lack of vitamin D`
+│ │ │ inner_content: `Dark skin births are much riskier due to lack of vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
+│ │ inner_content: `Overview Pregnancy and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=816`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Pregnancy and Vitamin D`
+│ │ │ inner_content: `Overview Pregnancy and Vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D]`
+│ │ inner_content: `All items in depression and vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in depression and vitamin D`
+│ │ │ inner_content: `All items in depression and vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]`
+│ │ inner_content: `Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2772`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012`
+│ │ │ inner_content: `Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]`
+│ │ inner_content: `Concealing clothing resulted in only 8 ng vitamin D – Feb 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1441`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Concealing clothing resulted in only 8 ng vitamin D – Feb 2011`
+│ │ │ inner_content: `Concealing clothing resulted in only 8 ng vitamin D – Feb 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]`
+│ │ inner_content: `Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1782`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011`
+│ │ │ inner_content: `Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]`
+│ │ inner_content: `Many reasons why vitamin D deficiency has become epidemic`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1586`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Many reasons why vitamin D deficiency has become epidemic`
+│ │ │ inner_content: `Many reasons why vitamin D deficiency has become epidemic`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+ # 2 was indoors, # 16 was clothing as of Oct 2011`
+│ inner_content: ` # 2 was indoors, # 16 was clothing as of Oct 2011`
+│ level: `1`
+│ children:
+│ ├── NumListItemNode
+│ │ full_match: `# 2 was indoors, # 16 was clothing as of Oct 2011`
+│ │ inner_content: ` 2 was indoors, # 16 was clothing as of Oct 2011`
+│ │ depth: `1`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `2 was indoors, # 16 was clothing as of Oct 2011`
+│ │ │ inner_content: `2 was indoors, # 16 was clothing as of Oct 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]`
+│ │ inner_content: `Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1898`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011`
+│ │ │ inner_content: `Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010] clothing restricts access to the sun`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010] clothing restricts access to the sun`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010]`
+│ │ inner_content: `Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1190`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010`
+│ │ │ inner_content: `Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010`
+│ ├── TextNode
+│ │ full_match: ` clothing restricts access to the sun`
+│ │ inner_content: ` clothing restricts access to the sun`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]`
+│ │ inner_content: `70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2484`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012`
+│ │ │ inner_content: `70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]`
+│ │ inner_content: `Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1898`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011`
+│ │ │ inner_content: `Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]`
+│ │ inner_content: `Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2708`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012`
+│ │ │ inner_content: `Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]`
+│ │ inner_content: `Less than 20 ng vitamin D increases depression by 80 % – Dec 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1205`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Less than 20 ng vitamin D increases depression by 80 % – Dec 2010`
+│ │ │ inner_content: `Less than 20 ng vitamin D increases depression by 80 % – Dec 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]`
+│ │ inner_content: `An Exploratory Study of Postpartum Depression and Vitamin D - May 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=838`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `An Exploratory Study of Postpartum Depression and Vitamin D - May 2010`
+│ │ │ inner_content: `An Exploratory Study of Postpartum Depression and Vitamin D - May 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`
+
+Original Tiki:
+-------------
+!!!Vitamin D Nutritional Status and Antenatal Depressive Symptoms in African American Women
+Journal of Women&amp;#39;s Health. Online Ahead of Print: July 23, 2012
+Andrea E. Cassidy-Bushrow, Ph.D. acassid1@hfhs.org, M.P.H.,1 Rosalind M. Peters, Ph.D., R.N., FAAN,2 Dayna A. Johnson, M.P.H., M.S.W., M.S.,1 Jia Li, Ph.D.,1 and D. Sudhaker Rao, MBBS3
+1 Department of Public Health Sciences, Henry Ford Hospital, Detroit, Michigan.
+2 College of Nursing, Wayne State University, Detroit, Michigan.
+3 Bone &amp;amp; Mineral Research Laboratory, Henry Ford Hospital, Detroit, Michigan.
+
+Background: Vitamin D deficiency is associated with depression; however, no studies have examined the relationship of vitamin D and antenatal depression. Antenatal depression increases the risk of adverse birth outcomes and poorer postpartum maternal and infant health. African American women are at increased risk for vitamin D deficiency and antenatal depression. Thus, we examined if early pregnancy vitamin D nutrition (VDN) was associated with antenatal depressive symptoms among African American women in the second trimester of pregnancy.
+
+Methods: Women (n=178) were recruited from obstetrics clinics of a large health system. VDN was assessed by serum 25-hydroxyvitamin D (25-OHD). 
+Depression symptoms were measured with the Center for Epidemiological Studies Depression (CES-D) scale; 
+CES-D?16 equates with criteria for __clinical depression__. 
+Logistic regression was used to examine the association of log-transformed 25-OHD and elevated depression symptoms (CES-D?16).
+
+Results: Mean 25-OHD was 13.4±8.4?ng/mL; most women (82.6%, n=147) were vitamin D inadequate or deficient (25-OHD&amp;lt;20?ng/mL). 
+Mean CES-D was 15.2±10.7, and 74 (41.6%) women had a CES-D?16, suggestive of clinical depression.
+A significant inverse relationship was found between log (25-OHD) and CES-D?16 (odds ratio __[OR] 0.54__, 95% confidence interval [CI] 0.29-0.99, p=0.046). 
+
+__For every 1-unit increase in log (25-OHD) (corresponding to 2.72?ng/mL increase in 25-OHD), the odds of CES-D?16 decreased by 46%.__
+
+Conclusions: African American women with lower VDN exhibit increased depressive symptoms. 
+Research on vitamin D supplementation for reducing antenatal depressive symptoms is needed.
+– – – – – – – – – – – 
+!!Summary by VitaminDWiki
+#Fact: Depresion is associated with low levels of vitamin D
+#Fact: Dark skin women have lower vitamin D than those with white skins
+#Fact: Pregnancy decreases vitamin D
+*1+2+3 = The direction of the results of this study
+*Note: Without supplementation vitamin D levels drop in early pregnancy and remain low for up to a year after birth,
+!!See also VitaminDWiki 
+*((Depression)) category listing with many associated searches
+Items tagged in both categories __Depression AND Pregnancy__ {category id=&amp;quot;48+12&amp;quot; types=&amp;quot;wiki&amp;quot; sort=&amp;quot;created_desc&amp;quot; split=&amp;quot;n&amp;quot; and=&amp;quot;y&amp;quot; sub=&amp;quot;n&amp;quot; showdescription=&amp;quot;n&amp;quot; showname=&amp;quot;y&amp;quot; showtype=&amp;quot;n&amp;quot; one=&amp;quot;y&amp;quot; showTitle=&amp;quot;n&amp;quot;}
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2772|Concealing Clothing in Canada: half the level of vitamin D in blood – May 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1441|Concealing clothing resulted in only 8 ng vitamin D – Feb 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1782|Iranian vitamin D levels 13 ng summer, 12 ng winter – June 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic]
++ # 2 was indoors, # 16 was clothing as of Oct 2011
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Jordanian women vitamin D – 16 ng if Western Dress – 12 ng otherwise – Aug 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1190|Ultra-orthodox jews also suffer from 10 ng vitamin D levels – Nov 2010] clothing restricts access to the sun
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2484|70 % of Saudi women were extremely vitamin D deficient, but only 40 % of men – March 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1898|Excessive clothes and being indoors results in very low vitamin D levels – Nov 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2708|Psychosis in dark skinned people 3.5 X higher if low level of vitamin D – May 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1205|Less than 20 ng vitamin D increases depression by 80 % – Dec 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=838|An Exploratory Study of Postpartum Depression and Vitamin D - May 2010]
+
+&lt;/code>
+&lt;/pre></description></item><item><title>98 percent of black women had less than 20 ng of vitamin D</title><link>/posts/98-percent-of-black-women-had-less-than-20-ng-of-vitamin-d.html</link><pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/98-percent-of-black-women-had-less-than-20-ng-of-vitamin-d.html</guid><description>&lt;h1 id="determination-of-vitamin-d-in-relation-to-body-mass-index-and-race-in-a-defined-population-of-black-and-white-women">Determination of vitamin D in relation to body mass index and race in a defined population of black and white women.&lt;/h1>
+&lt;p>Int J Gynaecol Obstet. 2012 Jul 17.&lt;/p>
+&lt;p>Coney P, Demers LM, Dodson WC, Kunselman AR, Ladson G, Legro RS.&lt;/p>
+&lt;p>Departments of Obstetrics and Gynecology, Meharry Medical College, Nashville, TN, USA.&lt;/p>
+&lt;p>OBJECTIVE: To examine the contributions of obesity and race to levels of 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> and parathyroid hormone (PTH) in a defined cohort of black and white women.&lt;/p></description></item><item><title>Blacks with HIV were 3.5X more likely to be vitamin D deficient than whites</title><link>/posts/blacks-with-hiv-were-35x-more-likely-to-be-vitamin-d-deficient-than-whites.html</link><pubDate>Mon, 23 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/blacks-with-hiv-were-35x-more-likely-to-be-vitamin-d-deficient-than-whites.html</guid><description>&lt;h1 id="risk-factors-for-vitamin-d-deficiency-in-hiv-infected-patients-in-the-south-central-united-states">Risk factors for vitamin D deficiency in HIV-infected patients in the south central United States.&lt;/h1>
+&lt;p>AIDS Res Hum Retroviruses. 2012 May;28(5):454-9. Epub 2011 Oct 19.&lt;/p>
+&lt;p>Crutchley RD, Gathe J Jr, Mayberry C, Trieu A, Abughosh S, Garey KW.&lt;/p>
+&lt;p>University of Houston, College of Pharmacy, Department of Clinical Sciences and Administration, 1441 Moursund Street, Houston, TX 77030, USA. &lt;a href="mailto:rdcrutchley@uh.edu">rdcrutchley@uh.edu&lt;/a>&lt;/p>
+&lt;p>We evaluated the prevalence of serum 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> deficiency and the risk factors for vitamin D deficiency in HIV-infected patients in the South-Central United States. The study consisted of a cross-sectional assessment of vitamin D levels in HIV-infected patients receiving routine clinical care from a private practice in Houston, Texas (latitude 29°N). Vitamin D deficiency was defined as 25(OH)D less than 20?ng/ml (&amp;lt;50?nmol/liter). Two-hundred enrolled patients were surveyed with a vitamin D questionnaire to determine daily supplemental vitamin D intake, dietary vitamin D intake, and average sunlight exposure (minutes/day). Multivariate logistic regression analysis was used to determine significant risk factors for vitamin D deficiency. Median 25(OH)D was 15.5?ng/ml (interquartile range 10.9-24.6) for the total population (n=200).&lt;/p></description></item><item><title>Fair skin has lower vitamin D levels than dark skin – contrary to other studies – 2009</title><link>/posts/fair-skin-has-lower-vitamin-d-levels-than-dark-skin-contrary-to-other-studies-2009.html</link><pubDate>Fri, 20 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/fair-skin-has-lower-vitamin-d-levels-than-dark-skin-contrary-to-other-studies-2009.html</guid><description>&lt;h4 id="pigmentation-and-vitamin-d-metabolism-in-caucasians-low-vitamin-d-serum-levels-in-fair-skin-types-in-the-uk">Pigmentation and vitamin D metabolism in Caucasians: low vitamin D serum levels in fair skin types in the UK.&lt;/h4>
+&lt;p>PLoS One. 2009 Aug 3;4(8):e6477.&lt;/p>
+&lt;p>Glass D, Lens M, Swaminathan R, Spector TD, Bataille V.&lt;/p>
+&lt;p>Department of Twin Research and Genetic Epidemiology, Kings College London, St Thomas&amp;rsquo; Hospital Campus, London, UK.&lt;/p>
+&lt;div class="border" style="background-color:#FFFAE2;padding:15px;margin:10px 0;border-radius:5px;width:800px">
+&lt;ul>
+&lt;li>&lt;a href="/posts/skin-fairness-red-hair-both-associated-with-poor-health-perhaps-low-vitamin-d" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019">Skin fairness, red hair both associated with poor health (perhaps low vitamin D) – Dec 2019&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>&lt;span style="color:#F00;">RED highlight&lt;/span> for those with p value = 0.005 (very likely, normally p = 0.05)&lt;/strong>&lt;/p></description></item><item><title>Half of the US will be people of color – wonder how many will be vitamin D deficient</title><link>/posts/half-of-the-us-will-be-people-of-color-wonder-how-many-will-be-vitamin-d-deficient.html</link><pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/half-of-the-us-will-be-people-of-color-wonder-how-many-will-be-vitamin-d-deficient.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── ImgBlockNode
+│ full_match: `{IMG(attId=&amp;quot;1459&amp;quot; max =&amp;quot;400&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: attId=&amp;quot;1459&amp;quot; max =&amp;quot;400&amp;quot;
+│ │ attId: 1459
+│ │ max: 400├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!from [http://www.catalyst.org/publication/356/people-of-color-in-the-us|People of Color in the U.S.] June 2012`
+│ inner_content: `from [http://www.catalyst.org/publication/356/people-of-color-in-the-us|People of Color in the U.S.] June 2012`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `from `
+│ │ inner_content: `from `
+│ ├── LinkNode
+│ │ full_match: `[http://www.catalyst.org/publication/356/people-of-color-in-the-us|People of Color in the U.S.]`
+│ │ inner_content: `People of Color in the U.S.`
+│ │ url: `http://www.catalyst.org/publication/356/people-of-color-in-the-us`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `People of Color in the U.S.`
+│ │ │ inner_content: `People of Color in the U.S.`
+│ ├── TextNode
+│ │ full_match: ` June 2012`
+│ │ inner_content: ` June 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__Which is based on US Census projections for 2004: in thumbnail__`
+│ inner_content: `Which is based on US Census projections for 2004: in thumbnail`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Which is based on US Census projections for 2004: in thumbnail`
+│ │ inner_content: `Which is based on US Census projections for 2004: in thumbnail`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ImgBlockNode
+│ full_match: `{IMG(attId=&amp;quot;1458&amp;quot;,thumb=&amp;quot;y&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: attId=&amp;quot;1458&amp;quot;,thumb=&amp;quot;y&amp;quot;
+│ │ attId: 1458
+│ │ thumb: y├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!Vitamin D Deficiency 10X more likely for blacks, 2.5X Hispanic, and 3X other people of color`
+│ inner_content: `Vitamin D Deficiency 10X more likely for blacks, 2.5X Hispanic, and 3X other people of color`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D Deficiency 10X more likely for blacks, 2.5X Hispanic, and 3X other people of color`
+│ │ inner_content: `Vitamin D Deficiency 10X more likely for blacks, 2.5X Hispanic, and 3X other people of color`├── TextNode
+│ full_match: `\nDeficiency is &amp;lt; 17.5 nanograms of vitamin D in this chart\n`
+│ inner_content: `\nDeficiency is &amp;lt; 17.5 nanograms of vitamin D in this chart\n`├── ImgBlockNode
+│ full_match: `{IMG(fileId=&amp;quot;1154&amp;quot; max =&amp;quot;600&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: fileId=&amp;quot;1154&amp;quot; max =&amp;quot;600&amp;quot;
+│ │ fileId: 1154
+│ │ max: 600├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1064|Overview Dark Skin and Vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1064|Overview Dark Skin and Vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1064|Overview Dark Skin and Vitamin D]`
+│ │ inner_content: `Overview Dark Skin and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1064`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Dark Skin and Vitamin D`
+│ │ │ inner_content: `Overview Dark Skin and Vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[http://www.springerlink.com/content/m51223560h01k11q/|Blacks born in Africa and moved to US had ~~#F00:27X higher rate of TB~~ than people born in the US 2000-2009]`
+│ inner_content: `[http://www.springerlink.com/content/m51223560h01k11q/|Blacks born in Africa and moved to US had ~~#F00:27X higher rate of TB~~ than people born in the US 2000-2009]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://www.springerlink.com/content/m51223560h01k11q/|Blacks born in Africa and moved to US had ~~#F00:27X higher rate of TB~~ than people born in the US 2000-2009]`
+│ │ inner_content: `Blacks born in Africa and moved to US had ~~#F00:27X higher rate of TB~~ than people born in the US 2000-2009`
+│ │ url: `http://www.springerlink.com/content/m51223560h01k11q/`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Blacks born in Africa and moved to US had `
+│ │ │ inner_content: `Blacks born in Africa and moved to US had `
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#F00:27X higher rate of TB~~`
+│ │ │ inner_content: `27X higher rate of TB`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #F00
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `27X higher rate of TB`
+│ │ │ │ inner_content: `27X higher rate of TB`
+│ │ ├── TextNode
+│ │ │ full_match: ` than people born in the US 2000-2009`
+│ │ │ inner_content: ` than people born in the US 2000-2009`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1534|~~#F00:82 %~~ of black US adults &amp;lt; 20 ng of vitamin D – Jan 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1534|~~#F00:82 %~~ of black US adults &amp;lt; 20 ng of vitamin D – Jan 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1534|~~#F00:82 %~~ of black US adults &amp;lt; 20 ng of vitamin D – Jan 2011]`
+│ │ inner_content: `~~#F00:82 %~~ of black US adults &amp;lt; 20 ng of vitamin D – Jan 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1534`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#F00:82 %~~`
+│ │ │ inner_content: `82 %`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #F00
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `82 %`
+│ │ │ │ inner_content: `82 %`
+│ │ ├── TextNode
+│ │ │ full_match: ` of black US adults &amp;lt; 20 ng of vitamin D – Jan 2011`
+│ │ │ inner_content: ` of black US adults &amp;lt; 20 ng of vitamin D – Jan 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2632|~~#F00:80 %~~ of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2632|~~#F00:80 %~~ of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2632|~~#F00:80 %~~ of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012]`
+│ │ inner_content: `~~#F00:80 %~~ of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2632`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#F00:80 %~~`
+│ │ │ inner_content: `80 %`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #F00
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `80 %`
+│ │ │ │ inner_content: `80 %`
+│ │ ├── TextNode
+│ │ │ full_match: ` of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012`
+│ │ │ inner_content: ` of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1967|~~#F00:88 %~~ of African immigrants to Melborne had &amp;lt; 20 ng of vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1967|~~#F00:88 %~~ of African immigrants to Melborne had &amp;lt; 20 ng of vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1967|~~#F00:88 %~~ of African immigrants to Melborne had &amp;lt; 20 ng of vitamin D]`
+│ │ inner_content: `~~#F00:88 %~~ of African immigrants to Melborne had &amp;lt; 20 ng of vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1967`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#F00:88 %~~`
+│ │ │ inner_content: `88 %`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #F00
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `88 %`
+│ │ │ │ inner_content: `88 %`
+│ │ ├── TextNode
+│ │ │ full_match: ` of African immigrants to Melborne had &amp;lt; 20 ng of vitamin D`
+│ │ │ inner_content: ` of African immigrants to Melborne had &amp;lt; 20 ng of vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2241|Immigrant vitamin D deficiency in Europe – May 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2241|Immigrant vitamin D deficiency in Europe – May 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2241|Immigrant vitamin D deficiency in Europe – May 2011]`
+│ │ inner_content: `Immigrant vitamin D deficiency in Europe – May 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2241`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Immigrant vitamin D deficiency in Europe – May 2011`
+│ │ │ inner_content: `Immigrant vitamin D deficiency in Europe – May 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&amp;amp;sort_mode=created_desc|All items in Skin Color and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&amp;amp;sort_mode=created_desc|All items in Skin Color and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&amp;amp;sort_mode=created_desc|All items in Skin Color and vitamin D]`
+│ │ inner_content: `All items in Skin Color and vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in Skin Color and vitamin D`
+│ │ │ inner_content: `All items in Skin Color and vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]`
+│ │ inner_content: `5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2796`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012`
+│ │ │ inner_content: `5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]`
+│ │ inner_content: `Dark skin births are much riskier due to lack of vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1566`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Dark skin births are much riskier due to lack of vitamin D`
+│ │ │ inner_content: `Dark skin births are much riskier due to lack of vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1758|Overview Vitamin D deficiency in the Middle East]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1758|Overview Vitamin D deficiency in the Middle East]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1758|Overview Vitamin D deficiency in the Middle East]`
+│ │ inner_content: `Overview Vitamin D deficiency in the Middle East`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1758`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Vitamin D deficiency in the Middle East`
+│ │ │ inner_content: `Overview Vitamin D deficiency in the Middle East`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2117|Virtually all Native American children low on vitamin D and had indications of diabetes – Oct 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2117|Virtually all Native American children low on vitamin D and had indications of diabetes – Oct 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2117|Virtually all Native American children low on vitamin D and had indications of diabetes – Oct 2011]`
+│ │ inner_content: `Virtually all Native American children low on vitamin D and had indications of diabetes – Oct 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2117`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Virtually all Native American children low on vitamin D and had indications of diabetes – Oct 2011`
+│ │ │ inner_content: `Virtually all Native American children low on vitamin D and had indications of diabetes – Oct 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2200|Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2200|Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2200|Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011]`
+│ │ inner_content: `Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2200`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011`
+│ │ │ inner_content: `Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]`
+│ │ inner_content: `Black Sudanese children 350X more likely to have rickets than other Australians – April 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2602`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Black Sudanese children 350X more likely to have rickets than other Australians – April 2012`
+│ │ │ inner_content: `Black Sudanese children 350X more likely to have rickets than other Australians – April 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]`
+│ │ inner_content: `Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1866`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D insufficiency in UK youths – `
+│ │ │ inner_content: `Vitamin D insufficiency in UK youths – `
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#F00:37X more likely if dark skin~~`
+│ │ │ inner_content: `37X more likely if dark skin`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #F00
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `37X more likely if dark skin`
+│ │ │ │ inner_content: `37X more likely if dark skin`
+│ │ ├── TextNode
+│ │ │ full_match: ` – July 2011`
+│ │ │ inner_content: ` – July 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1663|Race vs vitamin D level - Veith May 2011] has the following chart`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1663|Race vs vitamin D level - Veith May 2011] has the following chart`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1663|Race vs vitamin D level - Veith May 2011]`
+│ │ inner_content: `Race vs vitamin D level - Veith May 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1663`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Race vs vitamin D level - Veith May 2011`
+│ │ │ inner_content: `Race vs vitamin D level - Veith May 2011`
+│ ├── TextNode
+│ │ full_match: ` has the following chart`
+│ │ inner_content: ` has the following chart`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__University of Toronto, Canada Students__`
+│ inner_content: `University of Toronto, Canada Students`
+│ children:
+│ ├── TextNode
+│ │ full_match: `University of Toronto, Canada Students`
+│ │ inner_content: `University of Toronto, Canada Students`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__African, East Asian, South Asian, Other - virtually all vitamin D deficient in the winter__`
+│ inner_content: `African, East Asian, South Asian, Other - virtually all vitamin D deficient in the winter`
+│ children:
+│ ├── TextNode
+│ │ full_match: `African, East Asian, South Asian, Other - virtually all vitamin D deficient in the winter`
+│ │ inner_content: `African, East Asian, South Asian, Other - virtually all vitamin D deficient in the winter`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ImgNode
+│ full_match: `{img fileId=&amp;quot;1870&amp;quot; max =&amp;quot;600&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: fileId=&amp;quot;1870&amp;quot; max =&amp;quot;600&amp;quot;
+│ │ fileId: 1870
+│ │ max: 600├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!Dark skinned people have almost the same health problems vitamin D deficient whites`
+│ inner_content: `Dark skinned people have almost the same health problems vitamin D deficient whites`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Dark skinned people have almost the same health problems vitamin D deficient whites`
+│ │ inner_content: `Dark skinned people have almost the same health problems vitamin D deficient whites`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── TableNode
+│ full_match: `|| | Black vs White|White: low D vs high D\nbreast cancer| 1.34 | 1.26\ncolorectal cancer| 1.43 | 1.44\ncardiovascular disease|1.29 | 1.27\nall-cause mortality| 1.26 | 1.26 ||`
+│ inner_content: ` | Black vs White|White: low D vs high D\nbreast cancer| 1.34 | 1.26\ncolorectal cancer| 1.43 | 1.44\ncardiovascular disease|1.29 | 1.27\nall-cause mortality| 1.26 | 1.26 `
+│ children:
+│ ├── TableRowNode
+│ │ full_match: ` | Black vs White|White: low D vs high D`
+│ │ inner_content: ` | Black vs White|White: low D vs high D`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: ` `
+│ │ │ inner_content: ` `
+│ │ ├── TableCellNode
+│ │ │ full_match: ` Black vs White`
+│ │ │ inner_content: ` Black vs White`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Black vs White`
+│ │ │ │ inner_content: `Black vs White`
+│ │ ├── TableCellNode
+│ │ │ full_match: `White: low D vs high D`
+│ │ │ inner_content: `White: low D vs high D`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `White: low D vs high D`
+│ │ │ │ inner_content: `White: low D vs high D`
+│ ├── TableRowNode
+│ │ full_match: `breast cancer| 1.34 | 1.26`
+│ │ inner_content: `breast cancer| 1.34 | 1.26`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `breast cancer`
+│ │ │ inner_content: `breast cancer`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `breast cancer`
+│ │ │ │ inner_content: `breast cancer`
+│ │ ├── TableCellNode
+│ │ │ full_match: ` 1.34 `
+│ │ │ inner_content: ` 1.34 `
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.34 `
+│ │ │ │ inner_content: `1.34 `
+│ │ ├── TableCellNode
+│ │ │ full_match: ` 1.26`
+│ │ │ inner_content: ` 1.26`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.26`
+│ │ │ │ inner_content: `1.26`
+│ ├── TableRowNode
+│ │ full_match: `colorectal cancer| 1.43 | 1.44`
+│ │ inner_content: `colorectal cancer| 1.43 | 1.44`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `colorectal cancer`
+│ │ │ inner_content: `colorectal cancer`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `colorectal cancer`
+│ │ │ │ inner_content: `colorectal cancer`
+│ │ ├── TableCellNode
+│ │ │ full_match: ` 1.43 `
+│ │ │ inner_content: ` 1.43 `
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.43 `
+│ │ │ │ inner_content: `1.43 `
+│ │ ├── TableCellNode
+│ │ │ full_match: ` 1.44`
+│ │ │ inner_content: ` 1.44`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.44`
+│ │ │ │ inner_content: `1.44`
+│ ├── TableRowNode
+│ │ full_match: `cardiovascular disease|1.29 | 1.27`
+│ │ inner_content: `cardiovascular disease|1.29 | 1.27`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `cardiovascular disease`
+│ │ │ inner_content: `cardiovascular disease`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `cardiovascular disease`
+│ │ │ │ inner_content: `cardiovascular disease`
+│ │ ├── TableCellNode
+│ │ │ full_match: `1.29 `
+│ │ │ inner_content: `1.29 `
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.29 `
+│ │ │ │ inner_content: `1.29 `
+│ │ ├── TableCellNode
+│ │ │ full_match: ` 1.27`
+│ │ │ inner_content: ` 1.27`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.27`
+│ │ │ │ inner_content: `1.27`
+│ ├── TableRowNode
+│ │ full_match: `all-cause mortality| 1.26 | 1.26 `
+│ │ inner_content: `all-cause mortality| 1.26 | 1.26 `
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `all-cause mortality`
+│ │ │ inner_content: `all-cause mortality`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `all-cause mortality`
+│ │ │ │ inner_content: `all-cause mortality`
+│ │ ├── TableCellNode
+│ │ │ full_match: ` 1.26 `
+│ │ │ inner_content: ` 1.26 `
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.26 `
+│ │ │ │ inner_content: `1.26 `
+│ │ ├── TableCellNode
+│ │ │ full_match: ` 1.26 `
+│ │ │ inner_content: ` 1.26 `
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1.26 `
+│ │ │ │ inner_content: `1.26 `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── LinkNode
+│ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1096|CLICK HERE]`
+│ inner_content: `CLICK HERE`
+│ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1096`
+│ children:
+│ ├── TextNode
+│ │ full_match: `CLICK HERE`
+│ │ inner_content: `CLICK HERE`├── TextNode
+│ full_match: ` for details, Dr. Grant\n`
+│ inner_content: ` for details, Dr. Grant\n`├── HeadingNode
+│ full_match: `!!Factoids from 2010 US Census`
+│ inner_content: `Factoids from 2010 US Census`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Factoids from 2010 US Census`
+│ │ inner_content: `Factoids from 2010 US Census`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*More than half of the growth in the total population of the United States between 2000 and 2010 was due to the increase in the Hispanic population.`
+│ inner_content: `More than half of the growth in the total population of the United States between 2000 and 2010 was due to the increase in the Hispanic population.`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `More than half of the growth in the total population of the United States between 2000 and 2010 was due to the increase in the Hispanic population.`
+│ │ inner_content: `More than half of the growth in the total population of the United States between 2000 and 2010 was due to the increase in the Hispanic population.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*The Asian population grew faster than any other major race group between 2000 and 2010.`
+│ inner_content: `The Asian population grew faster than any other major race group between 2000 and 2010.`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The Asian population grew faster than any other major race group between 2000 and 2010.`
+│ │ inner_content: `The Asian population grew faster than any other major race group between 2000 and 2010.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*The populations of California, the District of Columbia, Hawaii, and New Mexico are &amp;quot;majority-minority,&amp;quot; `
+│ inner_content: `The populations of California, the District of Columbia, Hawaii, and New Mexico are &amp;quot;majority-minority,&amp;quot; `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The populations of California, the District of Columbia, Hawaii, and New Mexico are &amp;quot;majority-minority,&amp;quot; `
+│ │ inner_content: `The populations of California, the District of Columbia, Hawaii, and New Mexico are &amp;quot;majority-minority,&amp;quot; `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+meaning over 50% of the population was a minority.`
+│ inner_content: `meaning over 50% of the population was a minority.`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `meaning over 50% of the population was a minority.`
+│ │ inner_content: `meaning over 50% of the population was a minority.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!Also called [http://en.wikipedia.org/wiki/Visible_minority|Visible Minority] WikiPedia`
+│ inner_content: `Also called [http://en.wikipedia.org/wiki/Visible_minority|Visible Minority] WikiPedia`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Also called `
+│ │ inner_content: `Also called `
+│ ├── LinkNode
+│ │ full_match: `[http://en.wikipedia.org/wiki/Visible_minority|Visible Minority]`
+│ │ inner_content: `Visible Minority`
+│ │ url: `http://en.wikipedia.org/wiki/Visible_minority`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Visible Minority`
+│ │ │ inner_content: `Visible Minority`
+│ ├── TextNode
+│ │ full_match: ` WikiPedia`
+│ │ inner_content: ` WikiPedia`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ColorNode
+│ full_match: `~~#F00:__Canada__~~`
+│ inner_content: `__Canada__`
+│ attrs_dict:
+│ │ raw_content: #F00
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__Canada__`
+│ │ inner_content: `Canada`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Canada`
+│ │ │ inner_content: `Canada`├── TextNode
+│ full_match: `: 2001 `
+│ inner_content: `: 2001 `├── BoldNode
+│ full_match: `__13.4%__`
+│ inner_content: `13.4%`
+│ children:
+│ ├── TextNode
+│ │ full_match: `13.4%`
+│ │ inner_content: `13.4%`├── TextNode
+│ full_match: `; 2006 `
+│ inner_content: `; 2006 `├── BoldNode
+│ full_match: `__16.2%__`
+│ inner_content: `16.2%`
+│ children:
+│ ├── TextNode
+│ │ full_match: `16.2%`
+│ │ inner_content: `16.2%`├── TextNode
+│ full_match: `; 2012 `
+│ inner_content: `; 2012 `├── BoldNode
+│ full_match: `__19.6%__`
+│ inner_content: `19.6%`
+│ children:
+│ ├── TextNode
+│ │ full_match: `19.6%`
+│ │ inner_content: `19.6%`├── TextNode
+│ full_match: ` (projected)\nIn Canada &amp;quot;visible minority&amp;quot; describes\nBlacks, Chinese, Filipinos, Japanese, Koreans, Latin Americans, Pacific Islanders, South Asians, and West Asians/Arabs\nIn Vancouver, Canada &amp;quot;visible minorities&amp;quot; actually comprise the majority of the population.\n`
+│ inner_content: ` (projected)\nIn Canada &amp;quot;visible minority&amp;quot; describes\nBlacks, Chinese, Filipinos, Japanese, Koreans, Latin Americans, Pacific Islanders, South Asians, and West Asians/Arabs\nIn Vancouver, Canada &amp;quot;visible minorities&amp;quot; actually comprise the majority of the population.\n`├── LinkNode
+│ full_match: `[http://en.wikipedia.org/wiki/Demographics_of_Canada#Visible_minorities_and_Aboriginals|Distribution of &amp;quot;visible minorities&amp;quot; in Canada]`
+│ inner_content: `Distribution of &amp;quot;visible minorities&amp;quot; in Canada`
+│ url: `http://en.wikipedia.org/wiki/Demographics_of_Canada#Visible_minorities_and_Aboriginals`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Distribution of &amp;quot;visible minorities&amp;quot; in Canada`
+│ │ inner_content: `Distribution of &amp;quot;visible minorities&amp;quot; in Canada`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!![http://en.wikipedia.org/wiki/Ethnic_groups_in_London|Ethnic Groups in London from Wikipedia]`
+│ inner_content: `[http://en.wikipedia.org/wiki/Ethnic_groups_in_London|Ethnic Groups in London from Wikipedia]`
+│ level: `2`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://en.wikipedia.org/wiki/Ethnic_groups_in_London|Ethnic Groups in London from Wikipedia]`
+│ │ inner_content: `Ethnic Groups in London from Wikipedia`
+│ │ url: `http://en.wikipedia.org/wiki/Ethnic_groups_in_London`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Ethnic Groups in London from Wikipedia`
+│ │ │ inner_content: `Ethnic Groups in London from Wikipedia`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ImgBlockNode
+│ full_match: `{IMG(attId=&amp;quot;1460&amp;quot; max=&amp;quot;700&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: attId=&amp;quot;1460&amp;quot; max=&amp;quot;700&amp;quot;
+│ │ attId: 1460
+│ │ max: 700
+
+Original Tiki:
+-------------
+{IMG(attId=&amp;quot;1459&amp;quot; max =&amp;quot;400&amp;quot;)}{IMG}
+
+!!from [http://www.catalyst.org/publication/356/people-of-color-in-the-us|People of Color in the U.S.] June 2012
+__Which is based on US Census projections for 2004: in thumbnail__
+{IMG(attId=&amp;quot;1458&amp;quot;,thumb=&amp;quot;y&amp;quot;)}{IMG}
+
+!!Vitamin D Deficiency 10X more likely for blacks, 2.5X Hispanic, and 3X other people of color
+Deficiency is &amp;lt; 17.5 nanograms of vitamin D in this chart
+{IMG(fileId=&amp;quot;1154&amp;quot; max =&amp;quot;600&amp;quot;)}{IMG}
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1064|Overview Dark Skin and Vitamin D]
+*[http://www.springerlink.com/content/m51223560h01k11q/|Blacks born in Africa and moved to US had ~~#F00:27X higher rate of TB~~ than people born in the US 2000-2009]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1534|~~#F00:82 %~~ of black US adults &amp;lt; 20 ng of vitamin D – Jan 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2632|~~#F00:80 %~~ of South Asian Women in UK had less than 10 ng of vitamin D in winter – April 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1967|~~#F00:88 %~~ of African immigrants to Melborne had &amp;lt; 20 ng of vitamin D]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2241|Immigrant vitamin D deficiency in Europe – May 2011]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=2&amp;amp;sort_mode=created_desc|All items in Skin Color and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=2{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1566|Dark skin births are much riskier due to lack of vitamin D]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1758|Overview Vitamin D deficiency in the Middle East]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2117|Virtually all Native American children low on vitamin D and had indications of diabetes – Oct 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2200|Striking ethnic health disparity – blacks dying due to lack of vitamin D – Nov 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1663|Race vs vitamin D level - Veith May 2011] has the following chart
+__University of Toronto, Canada Students__
+__African, East Asian, South Asian, Other - virtually all vitamin D deficient in the winter__
+{img fileId=&amp;quot;1870&amp;quot; max =&amp;quot;600&amp;quot;}
+
+!!Dark skinned people have almost the same health problems vitamin D deficient whites
+|| | Black vs White|White: low D vs high D
+ breast cancer| 1.34 | 1.26
+ colorectal cancer| 1.43 | 1.44
+cardiovascular disease|1.29 | 1.27
+ all-cause mortality| 1.26 | 1.26 ||
+[https://www.VitaminDWiki.com/tiki-index.php?page_id=1096|CLICK HERE] for details, Dr. Grant
+!!Factoids from 2010 US Census
+*More than half of the growth in the total population of the United States between 2000 and 2010 was due to the increase in the Hispanic population.
+*The Asian population grew faster than any other major race group between 2000 and 2010.
+*The populations of California, the District of Columbia, Hawaii, and New Mexico are &amp;quot;majority-minority,&amp;quot; 
++meaning over 50% of the population was a minority.
+!!Also called [http://en.wikipedia.org/wiki/Visible_minority|Visible Minority] WikiPedia
+~~#F00:__Canada__~~: 2001 __13.4%__; 2006 __16.2%__; 2012 __19.6%__ (projected)
+In Canada &amp;quot;visible minority&amp;quot; describes
+Blacks, Chinese, Filipinos, Japanese, Koreans, Latin Americans, Pacific Islanders, South Asians, and West Asians/Arabs
+In Vancouver, Canada &amp;quot;visible minorities&amp;quot; actually comprise the majority of the population.
+[http://en.wikipedia.org/wiki/Demographics_of_Canada#Visible_minorities_and_Aboriginals|Distribution of &amp;quot;visible minorities&amp;quot; in Canada]
+
+!![http://en.wikipedia.org/wiki/Ethnic_groups_in_London|Ethnic Groups in London from Wikipedia]
+{IMG(attId=&amp;quot;1460&amp;quot; max=&amp;quot;700&amp;quot;)}{IMG}
+&lt;/code>
+&lt;/pre></description></item><item><title>Survey finds that Non-Caucasians do not feel that people need sun exposure</title><link>/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure.html</link><pubDate>Thu, 05 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/survey-finds-that-non-caucasians-do-not-feel-that-people-need-sun-exposure.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!Vitamin D Beliefs and Associations with Sunburns, Sun Exposure, and Sun Protection`
+│ inner_content: `Vitamin D Beliefs and Associations with Sunburns, Sun Exposure, and Sun Protection`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D Beliefs and Associations with Sunburns, Sun Exposure, and Sun Protection`
+│ │ inner_content: `Vitamin D Beliefs and Associations with Sunburns, Sun Exposure, and Sun Protection`├── TextNode
+│ full_match: `\nInt. J. Environ. Res. Public Health 2012, 9(7), 2386-2395; doi:10.3390/ijerph9072386\nArticle\nBang Hyun Kim1, bangk@upenn.edu, Karen Glanz 1 and Eric J. Nehl 2 \n1 Center for Health Behavior Research, Perelman School of Medicine, University of Pennsylvania, 110 Blockley Hall, 423 Guardian Ave., University of Pennsylvania, Philadelphia, PA 19104, USA\n2 Emory Rollins School of Public Health, Emory University, 1518 Clifton Road NE, Atlanta, GA 30222, USA\nReceived: 30 April 2012; in revised form: 12 June 2012 / Accepted: 28 June 2012 / Published: 4 July 2012\n\n(This article belongs to the Special Issue Sunbathing Habits and Skin Cancer)\n\nAbstract: The main objective of this study was to examine certain beliefs about vitamin D and associations with sun exposure, sun protection behaviors, and sunburns. A total of 3,922 lifeguards, pool managers, and parents completed a survey in 2006 about beliefs regarding vitamin D and sun-related behaviors. Multivariate ordinal regression analyses and linear regression analysis were used to examine associations of beliefs and other variables. Results revealed that Non-Caucasian lifeguards and pool managers were less likely to agree that they needed to go out in the sun to get enough vitamin D.\n\nLifeguards and parents who were non-Caucasian were less likely to report that sunlight helped the body to produce vitamin D. \nA stronger belief about the need to go out in the sun to get enough vitamin D predicted more sun exposure for lifeguards. \nFor parents, a stronger belief that they can get enough vitamin D from foods predicted greater sun protection and a stronger belief that sunlight helps the body produce vitamin D predicted lower sun exposure. This study provides information regarding vitamin D beliefs and their association with certain sun related behaviors across different demographic groups that can inform education efforts about vitamin D and sun protection.\n\n`
+│ inner_content: `\nInt. J. Environ. Res. Public Health 2012, 9(7), 2386-2395; doi:10.3390/ijerph9072386\nArticle\nBang Hyun Kim1, bangk@upenn.edu, Karen Glanz 1 and Eric J. Nehl 2 \n1 Center for Health Behavior Research, Perelman School of Medicine, University of Pennsylvania, 110 Blockley Hall, 423 Guardian Ave., University of Pennsylvania, Philadelphia, PA 19104, USA\n2 Emory Rollins School of Public Health, Emory University, 1518 Clifton Road NE, Atlanta, GA 30222, USA\nReceived: 30 April 2012; in revised form: 12 June 2012 / Accepted: 28 June 2012 / Published: 4 July 2012\n\n(This article belongs to the Special Issue Sunbathing Habits and Skin Cancer)\n\nAbstract: The main objective of this study was to examine certain beliefs about vitamin D and associations with sun exposure, sun protection behaviors, and sunburns. A total of 3,922 lifeguards, pool managers, and parents completed a survey in 2006 about beliefs regarding vitamin D and sun-related behaviors. Multivariate ordinal regression analyses and linear regression analysis were used to examine associations of beliefs and other variables. Results revealed that Non-Caucasian lifeguards and pool managers were less likely to agree that they needed to go out in the sun to get enough vitamin D.\n\nLifeguards and parents who were non-Caucasian were less likely to report that sunlight helped the body to produce vitamin D. \nA stronger belief about the need to go out in the sun to get enough vitamin D predicted more sun exposure for lifeguards. \nFor parents, a stronger belief that they can get enough vitamin D from foods predicted greater sun protection and a stronger belief that sunlight helps the body produce vitamin D predicted lower sun exposure. This study provides information regarding vitamin D beliefs and their association with certain sun related behaviors across different demographic groups that can inform education efforts about vitamin D and sun protection.\n\n`├── BoldNode
+│ full_match: `__~~#00F:PDF is attached at the bottom of this page~~__`
+│ inner_content: `~~#00F:PDF is attached at the bottom of this page~~`
+│ children:
+│ ├── ColorNode
+│ │ full_match: `~~#00F:PDF is attached at the bottom of this page~~`
+│ │ inner_content: `PDF is attached at the bottom of this page`
+│ │ attrs_dict:
+│ │ │ raw_content: #00F
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `PDF is attached at the bottom of this page`
+│ │ │ inner_content: `PDF is attached at the bottom of this page`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!See also VitaminDWiki`
+│ inner_content: `See also VitaminDWiki`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2680|Complex relationship between UVB and vitamin D – April 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2680|Complex relationship between UVB and vitamin D – April 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2680|Complex relationship between UVB and vitamin D – April 2012]`
+│ │ inner_content: `Complex relationship between UVB and vitamin D – April 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2680`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Complex relationship between UVB and vitamin D – April 2012`
+│ │ │ inner_content: `Complex relationship between UVB and vitamin D – April 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+This article may result in a re-write of this web page. It questions many of the assumptions made here about `
+│ inner_content: `This article may result in a re-write of this web page. It questions many of the assumptions made here about `
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `This article may result in a re-write of this web page. It questions many of the assumptions made here about `
+│ │ inner_content: `This article may result in a re-write of this web page. It questions many of the assumptions made here about `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+Amount of skin area, color or skin, obesity, etc. There are several reasons why the study may be wrong however.`
+│ inner_content: `Amount of skin area, color or skin, obesity, etc. There are several reasons why the study may be wrong however.`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Amount of skin area, color or skin, obesity, etc. There are several reasons why the study may be wrong however.`
+│ │ inner_content: `Amount of skin area, color or skin, obesity, etc. There are several reasons why the study may be wrong however.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc|All items in category Sun and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc|All items in category Sun and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc|All items in category Sun and vitamin D]`
+│ │ inner_content: `All items in category Sun and vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in category Sun and vitamin D`
+│ │ │ inner_content: `All items in category Sun and vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1672|Urban residents had 2X less vitamin D – 2008]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1672|Urban residents had 2X less vitamin D – 2008]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1672|Urban residents had 2X less vitamin D – 2008]`
+│ │ inner_content: `Urban residents had 2X less vitamin D – 2008`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1672`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Urban residents had 2X less vitamin D – 2008`
+│ │ │ inner_content: `Urban residents had 2X less vitamin D – 2008`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1206|4X more suburban UV than urban UV – Nov 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1206|4X more suburban UV than urban UV – Nov 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1206|4X more suburban UV than urban UV – Nov 2010]`
+│ │ inner_content: `4X more suburban UV than urban UV – Nov 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1206`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `4X more suburban UV than urban UV – Nov 2010`
+│ │ │ inner_content: `4X more suburban UV than urban UV – Nov 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&amp;amp;sort_mode=created_desc|all items in Category Deficiency of D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&amp;amp;sort_mode=created_desc|all items in Category Deficiency of D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&amp;amp;sort_mode=created_desc|all items in Category Deficiency of D]`
+│ │ inner_content: `all items in Category Deficiency of D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `all items in Category Deficiency of D`
+│ │ │ inner_content: `all items in Category Deficiency of D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1213|An overview analysis of the time people spend outdoors – Dec 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1213|An overview analysis of the time people spend outdoors – Dec 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1213|An overview analysis of the time people spend outdoors – Dec 2010]`
+│ │ inner_content: `An overview analysis of the time people spend outdoors – Dec 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1213`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `An overview analysis of the time people spend outdoors – Dec 2010`
+│ │ │ inner_content: `An overview analysis of the time people spend outdoors – Dec 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1685|Melanoma risk with sunburns - 2010.PDF]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1685|Melanoma risk with sunburns - 2010.PDF]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1685|Melanoma risk with sunburns - 2010.PDF]`
+│ │ inner_content: `Melanoma risk with sunburns - 2010.PDF`
+│ │ url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1685`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Melanoma risk with sunburns - 2010.PDF`
+│ │ │ inner_content: `Melanoma risk with sunburns - 2010.PDF`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1691|UVB causes sunburn - UVA causes melanoma - 2011.PDF]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1691|UVB causes sunburn - UVA causes melanoma - 2011.PDF]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1691|UVB causes sunburn - UVA causes melanoma - 2011.PDF]`
+│ │ inner_content: `UVB causes sunburn - UVA causes melanoma - 2011.PDF`
+│ │ url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1691`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `UVB causes sunburn - UVA causes melanoma - 2011.PDF`
+│ │ │ inner_content: `UVB causes sunburn - UVA causes melanoma - 2011.PDF`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1375|Poor knowledge by office workers of vitamin D and sunscreen - July 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1375|Poor knowledge by office workers of vitamin D and sunscreen - July 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1375|Poor knowledge by office workers of vitamin D and sunscreen - July 2010]`
+│ │ inner_content: `Poor knowledge by office workers of vitamin D and sunscreen - July 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1375`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Poor knowledge by office workers of vitamin D and sunscreen - July 2010`
+│ │ │ inner_content: `Poor knowledge by office workers of vitamin D and sunscreen - July 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1337|Scared Out of the Sun for Fifty Years – Jan 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1337|Scared Out of the Sun for Fifty Years – Jan 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1337|Scared Out of the Sun for Fifty Years – Jan 2011]`
+│ │ inner_content: `Scared Out of the Sun for Fifty Years – Jan 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1337`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Scared Out of the Sun for Fifty Years – Jan 2011`
+│ │ │ inner_content: `Scared Out of the Sun for Fifty Years – Jan 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans and melanoma]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans and melanoma]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans and melanoma]`
+│ │ inner_content: `Overview Suntans and melanoma`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1462`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Suntans and melanoma`
+│ │ │ inner_content: `Overview Suntans and melanoma`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1108|Increased UVB intensity did not increase vitamin D generated – Nov 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1108|Increased UVB intensity did not increase vitamin D generated – Nov 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1108|Increased UVB intensity did not increase vitamin D generated – Nov 2010]`
+│ │ inner_content: `Increased UVB intensity did not increase vitamin D generated – Nov 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1108`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Increased UVB intensity did not increase vitamin D generated – Nov 2010`
+│ │ │ inner_content: `Increased UVB intensity did not increase vitamin D generated – Nov 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `**Is there a limit as to how much vitamin D the body will produce over a several day time period? replenish cholesterol?`
+│ inner_content: `Is there a limit as to how much vitamin D the body will produce over a several day time period? replenish cholesterol?`
+│ depth: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Is there a limit as to how much vitamin D the body will produce over a several day time period? replenish cholesterol?`
+│ │ inner_content: `Is there a limit as to how much vitamin D the body will produce over a several day time period? replenish cholesterol?`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1635|For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1635|For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1635|For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011]`
+│ │ inner_content: `For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1635`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011`
+│ │ │ inner_content: `For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=39|Minutes in the Sun for 1000 IU] default 30 degrees North`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=39|Minutes in the Sun for 1000 IU] default 30 degrees North`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=39|Minutes in the Sun for 1000 IU]`
+│ │ inner_content: `Minutes in the Sun for 1000 IU`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=39`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Minutes in the Sun for 1000 IU`
+│ │ │ inner_content: `Minutes in the Sun for 1000 IU`
+│ ├── TextNode
+│ │ full_match: ` default 30 degrees North`
+│ │ inner_content: ` default 30 degrees North`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `**Face 3.5%, neck 2%, trunk 26%, hands 6%, arms 14%, legs 14%, thighs 18%`
+│ inner_content: `Face 3.5%, neck 2%, trunk 26%, hands 6%, arms 14%, legs 14%, thighs 18%`
+│ depth: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Face 3.5%, neck 2%, trunk 26%, hands 6%, arms 14%, legs 14%, thighs 18%`
+│ │ inner_content: `Face 3.5%, neck 2%, trunk 26%, hands 6%, arms 14%, legs 14%, thighs 18%`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1840|Sun increases but tanning bed decreases longevity - April 2011] PDF file`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1840|Sun increases but tanning bed decreases longevity - April 2011] PDF file`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1840|Sun increases but tanning bed decreases longevity - April 2011]`
+│ │ inner_content: `Sun increases but tanning bed decreases longevity - April 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1840`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Sun increases but tanning bed decreases longevity - April 2011`
+│ │ │ inner_content: `Sun increases but tanning bed decreases longevity - April 2011`
+│ ├── TextNode
+│ │ full_match: ` PDF file`
+│ │ inner_content: ` PDF file`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=622|UV calculators on the web]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=622|UV calculators on the web]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=622|UV calculators on the web]`
+│ │ inner_content: `UV calculators on the web`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=622`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `UV calculators on the web`
+│ │ │ inner_content: `UV calculators on the web`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic in past 30-40 years]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic in past 30-40 years]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic in past 30-40 years]`
+│ │ inner_content: `Many reasons why vitamin D deficiency has become epidemic in past 30-40 years`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1586`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Many reasons why vitamin D deficiency has become epidemic in past 30-40 years`
+│ │ │ inner_content: `Many reasons why vitamin D deficiency has become epidemic in past 30-40 years`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1264|Weekly UV almost doubled elderly Vitamin D levels to 20 ng – Dec 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1264|Weekly UV almost doubled elderly Vitamin D levels to 20 ng – Dec 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1264|Weekly UV almost doubled elderly Vitamin D levels to 20 ng – Dec 2010]`
+│ │ inner_content: `Weekly UV almost doubled elderly Vitamin D levels to 20 ng – Dec 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1264`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Weekly UV almost doubled elderly Vitamin D levels to 20 ng – Dec 2010`
+│ │ │ inner_content: `Weekly UV almost doubled elderly Vitamin D levels to 20 ng – Dec 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2659|Tanning while getting little vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2659|Tanning while getting little vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2659|Tanning while getting little vitamin D]`
+│ │ inner_content: `Tanning while getting little vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2659`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Tanning while getting little vitamin D`
+│ │ │ inner_content: `Tanning while getting little vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2913|Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2913|Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2913|Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012]`
+│ │ inner_content: `Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2913`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012`
+│ │ │ inner_content: `Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+No decrease, however, for reported use of sunscreen`
+│ inner_content: `No decrease, however, for reported use of sunscreen`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `No decrease, however, for reported use of sunscreen`
+│ │ inner_content: `No decrease, however, for reported use of sunscreen`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1865|UK survey of vitamin D knowledge of midwives - 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1865|UK survey of vitamin D knowledge of midwives - 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1865|UK survey of vitamin D knowledge of midwives - 2011]`
+│ │ inner_content: `UK survey of vitamin D knowledge of midwives - 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1865`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `UK survey of vitamin D knowledge of midwives - 2011`
+│ │ │ inner_content: `UK survey of vitamin D knowledge of midwives - 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1151|Survey of patient and doctor vitamin D knowledge - Nov 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1151|Survey of patient and doctor vitamin D knowledge - Nov 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1151|Survey of patient and doctor vitamin D knowledge - Nov 2010]`
+│ │ inner_content: `Survey of patient and doctor vitamin D knowledge - Nov 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1151`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Survey of patient and doctor vitamin D knowledge - Nov 2010`
+│ │ │ inner_content: `Survey of patient and doctor vitamin D knowledge - Nov 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2297|28 pct of dark skinned people in UK not heard of vitamin D and 54 pct not know symptoms – Jan 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2297|28 pct of dark skinned people in UK not heard of vitamin D and 54 pct not know symptoms – Jan 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2297|28 pct of dark skinned people in UK not heard of vitamin D and 54 pct not know symptoms – Jan 2012]`
+│ │ inner_content: `28 pct of dark skinned people in UK not heard of vitamin D and 54 pct not know symptoms – Jan 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2297`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `28 pct of dark skinned people in UK not heard of vitamin D and 54 pct not know symptoms – Jan 2012`
+│ │ │ inner_content: `28 pct of dark skinned people in UK not heard of vitamin D and 54 pct not know symptoms – Jan 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012]`
+│ │ inner_content: `UK pediatricians have a lot to learn about vitamin D – May 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2797`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `UK pediatricians have a lot to learn about vitamin D – May 2012`
+│ │ │ inner_content: `UK pediatricians have a lot to learn about vitamin D – May 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2488|15 minutes of education improved vitamin D compliance – Mar 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2488|15 minutes of education improved vitamin D compliance – Mar 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2488|15 minutes of education improved vitamin D compliance – Mar 2012]`
+│ │ inner_content: `15 minutes of education improved vitamin D compliance – Mar 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2488`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `15 minutes of education improved vitamin D compliance – Mar 2012`
+│ │ │ inner_content: `15 minutes of education improved vitamin D compliance – Mar 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2567|After learning they were vitamin D deficient, only 8 percent normalized – April 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2567|After learning they were vitamin D deficient, only 8 percent normalized – April 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2567|After learning they were vitamin D deficient, only 8 percent normalized – April 2012]`
+│ │ inner_content: `After learning they were vitamin D deficient, only 8 percent normalized – April 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2567`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `After learning they were vitamin D deficient, only 8 percent normalized – April 2012`
+│ │ │ inner_content: `After learning they were vitamin D deficient, only 8 percent normalized – April 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!See also web`
+│ inner_content: `See also web`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also web`
+│ │ inner_content: `See also web`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[http://www.ncbi.nlm.nih.gov/pubmed/21800747|Sun-seeking behavior to increase cutaneous vitamin D synthesis: when prevention messages conflict] 2011 full text on-line`
+│ inner_content: `[http://www.ncbi.nlm.nih.gov/pubmed/21800747|Sun-seeking behavior to increase cutaneous vitamin D synthesis: when prevention messages conflict] 2011 full text on-line`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://www.ncbi.nlm.nih.gov/pubmed/21800747|Sun-seeking behavior to increase cutaneous vitamin D synthesis: when prevention messages conflict]`
+│ │ inner_content: `Sun-seeking behavior to increase cutaneous vitamin D synthesis: when prevention messages conflict`
+│ │ url: `http://www.ncbi.nlm.nih.gov/pubmed/21800747`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Sun-seeking behavior to increase cutaneous vitamin D synthesis: when prevention messages conflict`
+│ │ │ inner_content: `Sun-seeking behavior to increase cutaneous vitamin D synthesis: when prevention messages conflict`
+│ ├── TextNode
+│ │ full_match: ` 2011 full text on-line`
+│ │ inner_content: ` 2011 full text on-line`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+ 30 % were aware that unprotected sun exposure increased vitamin D levels.`
+│ inner_content: ` 30 % were aware that unprotected sun exposure increased vitamin D levels.`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `30 % were aware that unprotected sun exposure increased vitamin D levels.`
+│ │ inner_content: `30 % were aware that unprotected sun exposure increased vitamin D levels.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+Women were a little more aware of this interaction than men (32 % vs. 28 %)`
+│ inner_content: `Women were a little more aware of this interaction than men (32 % vs. 28 %)`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Women were a little more aware of this interaction than men (32 % vs. 28 %)`
+│ │ inner_content: `Women were a little more aware of this interaction than men (32 % vs. 28 %)`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+42 % of people who took vitamin D supplements were aware of the vitamin D-sun exposure interaction`
+│ inner_content: `42 % of people who took vitamin D supplements were aware of the vitamin D-sun exposure interaction`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `42 % of people who took vitamin D supplements were aware of the vitamin D-sun exposure interaction`
+│ │ inner_content: `42 % of people who took vitamin D supplements were aware of the vitamin D-sun exposure interaction`
+
+Original Tiki:
+-------------
+!Vitamin D Beliefs and Associations with Sunburns, Sun Exposure, and Sun Protection
+Int. J. Environ. Res. Public Health 2012, 9(7), 2386-2395; doi:10.3390/ijerph9072386
+Article
+Bang Hyun Kim1, bangk@upenn.edu, Karen Glanz 1 and Eric J. Nehl 2 
+1 Center for Health Behavior Research, Perelman School of Medicine, University of Pennsylvania, 110 Blockley Hall, 423 Guardian Ave., University of Pennsylvania, Philadelphia, PA 19104, USA
+2 Emory Rollins School of Public Health, Emory University, 1518 Clifton Road NE, Atlanta, GA 30222, USA
+Received: 30 April 2012; in revised form: 12 June 2012 / Accepted: 28 June 2012 / Published: 4 July 2012
+
+(This article belongs to the Special Issue Sunbathing Habits and Skin Cancer)
+
+Abstract: The main objective of this study was to examine certain beliefs about vitamin D and associations with sun exposure, sun protection behaviors, and sunburns. A total of 3,922 lifeguards, pool managers, and parents completed a survey in 2006 about beliefs regarding vitamin D and sun-related behaviors. Multivariate ordinal regression analyses and linear regression analysis were used to examine associations of beliefs and other variables. Results revealed that Non-Caucasian lifeguards and pool managers were less likely to agree that they needed to go out in the sun to get enough vitamin D.
+
+ Lifeguards and parents who were non-Caucasian were less likely to report that sunlight helped the body to produce vitamin D. 
+A stronger belief about the need to go out in the sun to get enough vitamin D predicted more sun exposure for lifeguards. 
+For parents, a stronger belief that they can get enough vitamin D from foods predicted greater sun protection and a stronger belief that sunlight helps the body produce vitamin D predicted lower sun exposure. This study provides information regarding vitamin D beliefs and their association with certain sun related behaviors across different demographic groups that can inform education efforts about vitamin D and sun protection.
+
+__~~#00F:PDF is attached at the bottom of this page~~__
+!See also VitaminDWiki
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2680|Complex relationship between UVB and vitamin D – April 2012]
++This article may result in a re-write of this web page. It questions many of the assumptions made here about 
++Amount of skin area, color or skin, obesity, etc. There are several reasons why the study may be wrong however.
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc|All items in category Sun and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1672|Urban residents had 2X less vitamin D – 2008]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1206|4X more suburban UV than urban UV – Nov 2010]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=3&amp;amp;sort_mode=created_desc|all items in Category Deficiency of D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=3{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1213|An overview analysis of the time people spend outdoors – Dec 2010]
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1685|Melanoma risk with sunburns - 2010.PDF]
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1691|UVB causes sunburn - UVA causes melanoma - 2011.PDF]
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1375|Poor knowledge by office workers of vitamin D and sunscreen - July 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1337|Scared Out of the Sun for Fifty Years – Jan 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans and melanoma]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1108|Increased UVB intensity did not increase vitamin D generated – Nov 2010]
+**Is there a limit as to how much vitamin D the body will produce over a several day time period? replenish cholesterol?
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1635|For small amounts of sunshine the amount of skin exposed may not matter – Jan 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=39|Minutes in the Sun for 1000 IU] default 30 degrees North
+**Face 3.5%, neck 2%, trunk 26%, hands 6%, arms 14%, legs 14%, thighs 18%
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1840|Sun increases but tanning bed decreases longevity - April 2011] PDF file
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=622|UV calculators on the web]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1586|Many reasons why vitamin D deficiency has become epidemic in past 30-40 years]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1264|Weekly UV almost doubled elderly Vitamin D levels to 20 ng – Dec 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2659|Tanning while getting little vitamin D]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2913|Whites were 2X more likely to be vitamin D deficient if wear long sleeves – Jan 2012]
++No decrease, however, for reported use of sunscreen
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1865|UK survey of vitamin D knowledge of midwives - 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1151|Survey of patient and doctor vitamin D knowledge - Nov 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2297|28 pct of dark skinned people in UK not heard of vitamin D and 54 pct not know symptoms – Jan 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2488|15 minutes of education improved vitamin D compliance – Mar 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2567|After learning they were vitamin D deficient, only 8 percent normalized – April 2012]
+!!See also web
+*[http://www.ncbi.nlm.nih.gov/pubmed/21800747|Sun-seeking behavior to increase cutaneous vitamin D synthesis: when prevention messages conflict] 2011 full text on-line
++ 30 % were aware that unprotected sun exposure increased vitamin D levels.
++Women were a little more aware of this interaction than men (32 % vs. 28 %)
++42 % of people who took vitamin D supplements were aware of the vitamin D-sun exposure interaction
+&lt;/code>
+&lt;/pre></description></item><item><title>Extra 4,000 IU daily raised the vitamin D levels of blacks to that of whites</title><link>/posts/extra-4000-iu-daily-raised-the-vitamin-d-levels-of-blacks-to-that-of-whites.html</link><pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/extra-4000-iu-daily-raised-the-vitamin-d-levels-of-blacks-to-that-of-whites.html</guid><description>&lt;h3 id="vitamin-d3-supplementation-4000-iud-for-1-y-eliminates-differences-in-circulating-25-hydroxyvitamin-d-between-african-american-and-white-men-1234">Vitamin D3 supplementation (4000 IU/d for 1 y) eliminates differences in circulating 25-hydroxyvitamin D between African American and white men 1,2,3,4&lt;/h3>
+&lt;p>Elizabeth Garrett-Mayer, Carol L Wagner, Bruce W Hollis, Mark S Kindy, and Sebastiano Gattoni-Celli&lt;/p>
+&lt;p>1 From the Division of Biostatistics and Epidemiology, Department of Medicine (EG-M), and the Departments of Pediatrics (CLW and BWH), Neurosciences (MSK), and Radiation Oncology (SG-C), Medical University of South Carolina, Charleston, SC, and the Ralph H Johnson VA Medical Center, Charleston, SC (MSK and SG-C).&lt;/p></description></item><item><title>Bariatric surgery less than 30 ng of vitamin D – 82 pcnt teens, 100 pcnt of black teens</title><link>/posts/bariatric-surgery-less-than-30-ng-of-vitamin-d-82-pcnt-teens-100-pcnt-of-black-teens.html</link><pubDate>Thu, 28 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/bariatric-surgery-less-than-30-ng-of-vitamin-d-82-pcnt-teens-100-pcnt-of-black-teens.html</guid><description>&lt;h4 id="check-vitamin-d-in-adolescents-before-bariatric-surgeryhttpwwwfamilypracticenewscomnewsmore-top-newssingle-viewcheck-vitamin-d-in-adolescents-before-bariatric-surgery9fe0deca25b9ee123ab565b28f2d1a9ehtml20-family-practice-news">&lt;a href="http://www.familypracticenews.com/news/more-top-news/single-view/check-vitamin-d-in-adolescents-before-bariatric-surgery/9fe0deca25b9ee123ab565b28f2d1a9e.html%20">Check Vitamin D in Adolescents Before Bariatric Surgery&lt;/a> Family Practice News&lt;/h4>
+&lt;p>&lt;strong>clips of paper presented by Dr. Marisa Censani at Endocrine Society. ENDO 2012&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Every kilogram increase in BMI correlated with a 0.2-ng decrease in 25OHD levels,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Roughly 80% of African American deficient , rest had insufficient levels. (100%)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hispanics, nearly 60% deficient, close to 25% had insufficient levels (85%)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+#### [Check Vitamin D in Adolescents Before Bariatric Surgery](http://www.familypracticenews.com/news/more-top-news/single-view/check-vitamin-d-in-adolescents-before-bariatric-surgery/9fe0deca25b9ee123ab565b28f2d1a9e.html%20) Family Practice News
+
+ **clips of paper presented by Dr. Marisa Censani at Endocrine Society. ENDO 2012** 
+
+* Every kilogram increase in BMI correlated with a 0.2-ng decrease in 25OHD levels, 
+
+* Roughly 80% of African American deficient , rest had insufficient levels. (100%)
+
+* Hispanics, nearly 60% deficient, close to 25% had insufficient levels (85%)
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!![http://www.familypracticenews.com/news/more-top-news/single-view/check-vitamin-d-in-adolescents-before-bariatric-surgery/9fe0deca25b9ee123ab565b28f2d1a9e.html |Check Vitamin D in Adolescents Before Bariatric Surgery] Family Practice News`
+│ inner_content: `[http://www.familypracticenews.com/news/more-top-news/single-view/check-vitamin-d-in-adolescents-before-bariatric-surgery/9fe0deca25b9ee123ab565b28f2d1a9e.html |Check Vitamin D in Adolescents Before Bariatric Surgery] Family Practice News`
+│ level: `4`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://www.familypracticenews.com/news/more-top-news/single-view/check-vitamin-d-in-adolescents-before-bariatric-surgery/9fe0deca25b9ee123ab565b28f2d1a9e.html |Check Vitamin D in Adolescents Before Bariatric Surgery]`
+│ │ inner_content: `Check Vitamin D in Adolescents Before Bariatric Surgery`
+│ │ url: `http://www.familypracticenews.com/news/more-top-news/single-view/check-vitamin-d-in-adolescents-before-bariatric-surgery/9fe0deca25b9ee123ab565b28f2d1a9e.html `
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Check Vitamin D in Adolescents Before Bariatric Surgery`
+│ │ │ inner_content: `Check Vitamin D in Adolescents Before Bariatric Surgery`
+│ ├── TextNode
+│ │ full_match: ` Family Practice News`
+│ │ inner_content: ` Family Practice News`├── TextNode
+│ full_match: `\n\n`
+│ inner_content: `\n\n`├── BoldNode
+│ full_match: `__clips of paper presented by Dr. Marisa Censani at Endocrine Society. ENDO 2012__`
+│ inner_content: `clips of paper presented by Dr. Marisa Censani at Endocrine Society. ENDO 2012`
+│ children:
+│ ├── TextNode
+│ │ full_match: `clips of paper presented by Dr. Marisa Censani at Endocrine Society. ENDO 2012`
+│ │ inner_content: `clips of paper presented by Dr. Marisa Censani at Endocrine Society. ENDO 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Every kilogram increase in BMI correlated with a 0.2-ng decrease in 25OHD levels, `
+│ inner_content: `Every kilogram increase in BMI correlated with a 0.2-ng decrease in 25OHD levels, `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Every kilogram increase in BMI correlated with a 0.2-ng decrease in 25OHD levels, `
+│ │ inner_content: `Every kilogram increase in BMI correlated with a 0.2-ng decrease in 25OHD levels, `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Roughly 80% of African American deficient , rest had insufficient levels. (100%)`
+│ inner_content: `Roughly 80% of African American deficient , rest had insufficient levels. (100%)`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Roughly 80% of African American deficient , rest had insufficient levels. (100%)`
+│ │ inner_content: `Roughly 80% of African American deficient , rest had insufficient levels. (100%)`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `* Hispanics, nearly 60% deficient, close to 25% had insufficient levels (85%)`
+│ inner_content: ` Hispanics, nearly 60% deficient, close to 25% had insufficient levels (85%)`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Hispanics, nearly 60% deficient, close to 25% had insufficient levels (85%)`
+│ │ inner_content: `Hispanics, nearly 60% deficient, close to 25% had insufficient levels (85%)`├── HorizontalRuleNode
+│ full_match: `\n---\n`
+│ inner_content: `---`├── HeadingNode
+│ full_match: `!!!!See also VitaminDWiki`
+│ inner_content: `See also VitaminDWiki`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1489|Virtually all Bariatric Surgery patients vitamin D deficient – should we routinely supplement – Jan 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1489|Virtually all Bariatric Surgery patients vitamin D deficient – should we routinely supplement – Jan 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1489|Virtually all Bariatric Surgery patients vitamin D deficient – should we routinely supplement – Jan 2011]`
+│ │ inner_content: `Virtually all Bariatric Surgery patients vitamin D deficient – should we routinely supplement – Jan 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1489`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Virtually all Bariatric Surgery patients vitamin D deficient – should we routinely supplement – Jan 2011`
+│ │ │ inner_content: `Virtually all Bariatric Surgery patients vitamin D deficient – should we routinely supplement – Jan 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+ 96% of French Bariatric patients &amp;lt; 20 nanograms`
+│ inner_content: ` 96% of French Bariatric patients &amp;lt; 20 nanograms`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `96% of French Bariatric patients &amp;lt; 20 nanograms`
+│ │ inner_content: `96% of French Bariatric patients &amp;lt; 20 nanograms`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014))`
+│ inner_content: `((Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014))`
+│ │ inner_content: `Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014`
+│ │ page: `Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014`
+│ │ │ inner_content: `Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Vitamin D probably important for Bariatric Surgery – April 2018))`
+│ inner_content: `((Vitamin D probably important for Bariatric Surgery – April 2018))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D probably important for Bariatric Surgery – April 2018))`
+│ │ inner_content: `Vitamin D probably important for Bariatric Surgery – April 2018`
+│ │ page: `Vitamin D probably important for Bariatric Surgery – April 2018`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D probably important for Bariatric Surgery – April 2018`
+│ │ │ inner_content: `Vitamin D probably important for Bariatric Surgery – April 2018`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016))`
+│ inner_content: `((Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016))`
+│ │ inner_content: `Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016`
+│ │ page: `Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016`
+│ │ │ inner_content: `Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=889|Overview Deficiency of vitamin D] has a chart - a portion of which shows the problems AFTER the surgery`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=889|Overview Deficiency of vitamin D] has a chart - a portion of which shows the problems AFTER the surgery`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=889|Overview Deficiency of vitamin D]`
+│ │ inner_content: `Overview Deficiency of vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=889`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Deficiency of vitamin D`
+│ │ │ inner_content: `Overview Deficiency of vitamin D`
+│ ├── TextNode
+│ │ full_match: ` has a chart - a portion of which shows the problems AFTER the surgery`
+│ │ inner_content: ` has a chart - a portion of which shows the problems AFTER the surgery`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ImgBlockNode
+│ full_match: `{IMG(attId=&amp;quot;1420&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: attId=&amp;quot;1420&amp;quot;
+│ │ attId: 1420├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── BoldNode
+│ full_match: `__((Overview Gut and vitamin D)) contains the following summary__`
+│ inner_content: `((Overview Gut and vitamin D)) contains the following summary`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Overview Gut and vitamin D))`
+│ │ inner_content: `Overview Gut and vitamin D`
+│ │ page: `Overview Gut and vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Gut and vitamin D`
+│ │ │ inner_content: `Overview Gut and vitamin D`
+│ ├── TextNode
+│ │ full_match: ` contains the following summary`
+│ │ inner_content: ` contains the following summary`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Overview Gut and vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Overview Gut and vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Overview Gut and vitamin D
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── TextNode
+│ full_match: `\n\n`
+│ inner_content: `\n\n`├── BoldNode
+│ full_match: `__((Overview Obesity and Vitamin D)) contains the following summary__`
+│ inner_content: `((Overview Obesity and Vitamin D)) contains the following summary`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Overview Obesity and Vitamin D))`
+│ │ inner_content: `Overview Obesity and Vitamin D`
+│ │ page: `Overview Obesity and Vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Obesity and Vitamin D`
+│ │ │ inner_content: `Overview Obesity and Vitamin D`
+│ ├── TextNode
+│ │ full_match: ` contains the following summary`
+│ │ inner_content: ` contains the following summary`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Overview Obesity and Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Overview Obesity and Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Overview Obesity and Vitamin D
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``
+
+Original Tiki:
+-------------
+!!!![http://www.familypracticenews.com/news/more-top-news/single-view/check-vitamin-d-in-adolescents-before-bariatric-surgery/9fe0deca25b9ee123ab565b28f2d1a9e.html |Check Vitamin D in Adolescents Before Bariatric Surgery] Family Practice News
+
+__clips of paper presented by Dr. Marisa Censani at Endocrine Society. ENDO 2012__
+*Every kilogram increase in BMI correlated with a 0.2-ng decrease in 25OHD levels, 
+*Roughly 80% of African American deficient , rest had insufficient levels. (100%)
+* Hispanics, nearly 60% deficient, close to 25% had insufficient levels (85%)
+---
+!!!!See also VitaminDWiki
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1489|Virtually all Bariatric Surgery patients vitamin D deficient – should we routinely supplement – Jan 2011]
++ 96% of French Bariatric patients &amp;lt; 20 nanograms
+*((Prior to Bariatric Surgery 96 percent were vitamin D deficient – July 2014))
+*((Vitamin D probably important for Bariatric Surgery – April 2018))
+*((Bariatric Surgery is Bad for the Bone (reduce vitamin uptake, etc)– 2016))
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=889|Overview Deficiency of vitamin D] has a chart - a portion of which shows the problems AFTER the surgery
+{IMG(attId=&amp;quot;1420&amp;quot;)}{IMG}
+__((Overview Gut and vitamin D)) contains the following summary__
+{include page=&amp;quot;Overview Gut and vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+
+__((Overview Obesity and Vitamin D)) contains the following summary__
+{include page=&amp;quot;Overview Obesity and Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+&lt;/code>
+&lt;/pre></description></item></channel></rss>

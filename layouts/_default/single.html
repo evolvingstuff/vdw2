@@ -23,7 +23,7 @@
         <div class="tags">
             <span>Tags: </span>
             {{ range sort .Params.tags }}
-                <span class="tag">{{ . }}</span>
+                <a href="/tags/{{ . | urlize }}.html"><span class="tag">{{ . }}</span></a>
             {{ end }}
         </div>
         {{ end }}

@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Immunity on VitaminDWiki</title><link>/tags/immunity.html</link><description>Recent content in Immunity on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 29 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/immunity/index.xml" rel="self" type="application/rss+xml"/><item><title>Cystic fibrosis helped with single dose of 250,000 IU of vitamin D – RCT</title><link>/posts/cystic-fibrosis-helped-with-single-dose-of-250000-iu-of-vitamin-d-rct.html</link><pubDate>Sun, 29 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/cystic-fibrosis-helped-with-single-dose-of-250000-iu-of-vitamin-d-rct.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!Impact of vitamin D supplementation on markers of inflammation in adults with cystic fibrosis hospitalized for a pulmonary exacerbation`
+│ inner_content: `Impact of vitamin D supplementation on markers of inflammation in adults with cystic fibrosis hospitalized for a pulmonary exacerbation`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Impact of vitamin D supplementation on markers of inflammation in adults with cystic fibrosis hospitalized for a pulmonary exacerbation`
+│ │ inner_content: `Impact of vitamin D supplementation on markers of inflammation in adults with cystic fibrosis hospitalized for a pulmonary exacerbation`├── TextNode
+│ full_match: `\nShort Communication; European Journal of Clinical Nutrition , (18 July 2012) | doi:10.1038/ejcn.2012.82\nR E Grossmann, S M Zughaier, S Liu, R H Lyles and V Tangpricha\n\nPatients with cystic fibrosis (CF) suffer from chronic lung infection and inflammation leading to respiratory failure. Vitamin D deficiency is common in patients with CF, and correction of vitamin D deficiency may improve innate immunity and reduce inflammation in patients with CF. We conducted a double-blinded, placebo-controlled, randomized clinical trial of high-dose vitamin D to assess the impact of vitamin D therapy on antimicrobial peptide concentrations and markers of inflammation. \n\nWe randomized 30 adults with CF hospitalized with a pulmonary exacerbation to 250?000 IU of cholecalciferol or placebo, and evaluated changes in plasma concentrations of inflammatory markers and the antimicrobial peptide LL-37 at baseline and 12 weeks post intervention. In the vitamin D group, there was a \n`
+│ inner_content: `\nShort Communication; European Journal of Clinical Nutrition , (18 July 2012) | doi:10.1038/ejcn.2012.82\nR E Grossmann, S M Zughaier, S Liu, R H Lyles and V Tangpricha\n\nPatients with cystic fibrosis (CF) suffer from chronic lung infection and inflammation leading to respiratory failure. Vitamin D deficiency is common in patients with CF, and correction of vitamin D deficiency may improve innate immunity and reduce inflammation in patients with CF. We conducted a double-blinded, placebo-controlled, randomized clinical trial of high-dose vitamin D to assess the impact of vitamin D therapy on antimicrobial peptide concentrations and markers of inflammation. \n\nWe randomized 30 adults with CF hospitalized with a pulmonary exacerbation to 250?000 IU of cholecalciferol or placebo, and evaluated changes in plasma concentrations of inflammatory markers and the antimicrobial peptide LL-37 at baseline and 12 weeks post intervention. In the vitamin D group, there was a \n`├── ListItemNode
+│ full_match: `*50.4% reduction in tumor necrosis factor-? (TNF-?) at 12 weeks (P&amp;lt;0.01), `
+│ inner_content: `50.4% reduction in tumor necrosis factor-? (TNF-?) at 12 weeks (P&amp;lt;0.01), `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `50.4% reduction in tumor necrosis factor-? (TNF-?) at 12 weeks (P&amp;lt;0.01), `
+│ │ inner_content: `50.4% reduction in tumor necrosis factor-? (TNF-?) at 12 weeks (P&amp;lt;0.01), `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*and there was a trend for a 64.5% reduction in interleukin-6 (IL-6) (P=0.09). `
+│ inner_content: `and there was a trend for a 64.5% reduction in interleukin-6 (IL-6) (P=0.09). `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `and there was a trend for a 64.5% reduction in interleukin-6 (IL-6) (P=0.09). `
+│ │ inner_content: `and there was a trend for a 64.5% reduction in interleukin-6 (IL-6) (P=0.09). `├── TextNode
+│ full_match: `\nThere were no significant changes in \n`
+│ inner_content: `\nThere were no significant changes in \n`├── ListItemNode
+│ full_match: `*IL-1?, `
+│ inner_content: `IL-1?, `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `IL-1?, `
+│ │ inner_content: `IL-1?, `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*IL-8, `
+│ inner_content: `IL-8, `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `IL-8, `
+│ │ inner_content: `IL-8, `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*IL-10, `
+│ inner_content: `IL-10, `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `IL-10, `
+│ │ inner_content: `IL-10, `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*IL-18BP and `
+│ inner_content: `IL-18BP and `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `IL-18BP and `
+│ │ inner_content: `IL-18BP and `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*NGAL (neutrophil gelatinase-associated lipocalin). `
+│ inner_content: `NGAL (neutrophil gelatinase-associated lipocalin). `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `NGAL (neutrophil gelatinase-associated lipocalin). `
+│ │ inner_content: `NGAL (neutrophil gelatinase-associated lipocalin). `├── TextNode
+│ full_match: `\nWe conclude that a large bolus dose of vitamin D is associated with reductions in two inflammatory cytokines, IL-6 and TNF-?. \nThis study supports the concept that vitamin D may help regulate inflammation in CF, and that further research is needed to elucidate the potential mechanisms involved and the impact on clinical outcomes.\n– – – the rest of the short communication is behind a paywall – – – – – – \n`
+│ inner_content: `\nWe conclude that a large bolus dose of vitamin D is associated with reductions in two inflammatory cytokines, IL-6 and TNF-?. \nThis study supports the concept that vitamin D may help regulate inflammation in CF, and that further research is needed to elucidate the potential mechanisms involved and the impact on clinical outcomes.\n– – – the rest of the short communication is behind a paywall – – – – – – \n`├── HeadingNode
+│ full_match: `!!See also VitaminDWiki `
+│ inner_content: `See also VitaminDWiki`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3055|Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012] apparently the same study`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3055|Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012] apparently the same study`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3055|Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012]`
+│ │ inner_content: `Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3055`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012`
+│ │ │ inner_content: `Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012`
+│ ├── TextNode
+│ │ full_match: ` apparently the same study`
+│ │ inner_content: ` apparently the same study`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=68&amp;amp;sort_mode=created_desc|Category of Cystic Fibrosis] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=68&amp;amp;sort_mode=created_desc|Category of Cystic Fibrosis] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=68&amp;amp;sort_mode=created_desc|Category of Cystic Fibrosis]`
+│ │ inner_content: `Category of Cystic Fibrosis`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=68&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Category of Cystic Fibrosis`
+│ │ │ inner_content: `Category of Cystic Fibrosis`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Vitamin D and Cystic Fibrosis - 2010.PDF] file`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Vitamin D and Cystic Fibrosis - 2010.PDF] file`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Vitamin D and Cystic Fibrosis - 2010.PDF]`
+│ │ inner_content: `Vitamin D and Cystic Fibrosis - 2010.PDF`
+│ │ url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D and Cystic Fibrosis - 2010.PDF`
+│ │ │ inner_content: `Vitamin D and Cystic Fibrosis - 2010.PDF`
+│ ├── TextNode
+│ │ full_match: ` file`
+│ │ inner_content: ` file`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2657|Cystic fibrosis associated with low vitamin D – May 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2657|Cystic fibrosis associated with low vitamin D – May 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2657|Cystic fibrosis associated with low vitamin D – May 2012]`
+│ │ inner_content: `Cystic fibrosis associated with low vitamin D – May 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2657`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Cystic fibrosis associated with low vitamin D – May 2012`
+│ │ │ inner_content: `Cystic fibrosis associated with low vitamin D – May 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1252|A type of vitamin D by Biotics Research for mal-absorption] probably works for Cystic Fibrosis as well`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1252|A type of vitamin D by Biotics Research for mal-absorption] probably works for Cystic Fibrosis as well`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1252|A type of vitamin D by Biotics Research for mal-absorption]`
+│ │ inner_content: `A type of vitamin D by Biotics Research for mal-absorption`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1252`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `A type of vitamin D by Biotics Research for mal-absorption`
+│ │ │ inner_content: `A type of vitamin D by Biotics Research for mal-absorption`
+│ ├── TextNode
+│ │ full_match: ` probably works for Cystic Fibrosis as well`
+│ │ inner_content: ` probably works for Cystic Fibrosis as well`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Review of Cystic Fibrosis and Vitamin D] PDF file, not web page: which has the following figure`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Review of Cystic Fibrosis and Vitamin D] PDF file, not web page: which has the following figure`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Review of Cystic Fibrosis and Vitamin D]`
+│ │ inner_content: `Review of Cystic Fibrosis and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Review of Cystic Fibrosis and Vitamin D`
+│ │ │ inner_content: `Review of Cystic Fibrosis and Vitamin D`
+│ ├── TextNode
+│ │ full_match: ` PDF file, not web page: which has the following figure`
+│ │ inner_content: ` PDF file, not web page: which has the following figure`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ImgBlockNode
+│ full_match: `{IMG(attId=&amp;quot;1280&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: attId=&amp;quot;1280&amp;quot;
+│ │ attId: 1280
+
+Original Tiki:
+-------------
+!!!Impact of vitamin D supplementation on markers of inflammation in adults with cystic fibrosis hospitalized for a pulmonary exacerbation
+Short Communication; European Journal of Clinical Nutrition , (18 July 2012) | doi:10.1038/ejcn.2012.82
+R E Grossmann, S M Zughaier, S Liu, R H Lyles and V Tangpricha
+
+Patients with cystic fibrosis (CF) suffer from chronic lung infection and inflammation leading to respiratory failure. Vitamin D deficiency is common in patients with CF, and correction of vitamin D deficiency may improve innate immunity and reduce inflammation in patients with CF. We conducted a double-blinded, placebo-controlled, randomized clinical trial of high-dose vitamin D to assess the impact of vitamin D therapy on antimicrobial peptide concentrations and markers of inflammation. 
+
+We randomized 30 adults with CF hospitalized with a pulmonary exacerbation to 250?000 IU of cholecalciferol or placebo, and evaluated changes in plasma concentrations of inflammatory markers and the antimicrobial peptide LL-37 at baseline and 12 weeks post intervention. In the vitamin D group, there was a 
+*50.4% reduction in tumor necrosis factor-? (TNF-?) at 12 weeks (P&amp;lt;0.01), 
+*and there was a trend for a 64.5% reduction in interleukin-6 (IL-6) (P=0.09). 
+There were no significant changes in 
+*IL-1?, 
+*IL-8, 
+*IL-10, 
+*IL-18BP and 
+*NGAL (neutrophil gelatinase-associated lipocalin). 
+We conclude that a large bolus dose of vitamin D is associated with reductions in two inflammatory cytokines, IL-6 and TNF-?. 
+This study supports the concept that vitamin D may help regulate inflammation in CF, and that further research is needed to elucidate the potential mechanisms involved and the impact on clinical outcomes.
+ – – – the rest of the short communication is behind a paywall – – – – – – 
+!!See also VitaminDWiki 
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3055|Death due to cystic fibrosis reduced about 4X due to 250000 IU of vitamin D – RCT June 2012] apparently the same study
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=68&amp;amp;sort_mode=created_desc|Category of Cystic Fibrosis] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=68{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Vitamin D and Cystic Fibrosis - 2010.PDF] file
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2657|Cystic fibrosis associated with low vitamin D – May 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1252|A type of vitamin D by Biotics Research for mal-absorption] probably works for Cystic Fibrosis as well
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1677|Review of Cystic Fibrosis and Vitamin D] PDF file, not web page: which has the following figure
+{IMG(attId=&amp;quot;1280&amp;quot;)}{IMG}
+&lt;/code>
+&lt;/pre></description></item><item><title>Vitamin D for children – translated from Spanish</title><link>/posts/vitamin-d-for-children-translated-from-spanish.html</link><pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-for-children-translated-from-spanish.html</guid><description>&lt;h1 id="vitamin-d-pathophysiology-and-clinical-applicability-in-paediatrics">Vitamin D: pathophysiology and clinical applicability in paediatrics&lt;/h1>
+&lt;p>An Pediatr (Barc). 2012; xxx (xx): xxx.e1-xxx.e10&lt;/p>
+&lt;p>PEDIATRICS ANALESDí &lt;a href="https://www.elsevier.es">www.elsevier.es&lt;/a> / anpediatr&lt;/p>
+&lt;p>R.M. Masvidal Alibercha, S. Gómezb Ortigosa, M.C. Baraza Mendozaa and O. Garcia-Algarb&lt;/p>
+&lt;p>to Cútala Institut de la Salut, Dr. Lluís Saye CAP, ABS Raval Nord, Barcelona, ??Spain b Department of Pediatrics, Hospital del Mar, Parc de Salut Mar, Barcelona, ??Spain&lt;/p>
+&lt;p>Received 2 March 2012, accepted May 15, 2012&lt;/p>
+&lt;p>Summary Vitamin D has always been associated with mineral metabolism, but Vitamin D receptors have been found vitamin D or its metabolites in different cells&lt;/p></description></item><item><title>7 percent less likely to get immune mediated disease if born in the fall</title><link>/posts/7-percent-less-likely-to-get-immune-mediated-disease-if-born-in-the-fall.html</link><pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/7-percent-less-likely-to-get-immune-mediated-disease-if-born-in-the-fall.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#month-of-birth-vitamin-d-and-risk-of-immune-mediated-disease-a-case-control-study">Month of birth, vitamin D and risk of immune mediated disease: a case control study&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#october-births-are-12-less-likely-to-get-influenza-they-think-because-of-vaccination---feb-2024">October births are 12% less likely to get influenza (they think because of vaccination) - Feb 2024&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="month-of-birth-vitamin-d-and-risk-of-immune-mediated-disease-a-case-control-study">Month of birth, vitamin D and risk of immune mediated disease: a case control study&lt;/h4>
+&lt;p>BMC Medicine 2012, 10:69 doi:10.1186/1741-7015-10-69&lt;/p>
+&lt;p>Giulio Disanto, George Chaplin, Julia M Morahan, Gavin Giovannoni, Elina Hypponen, George C Ebers and Sreeram V Ramagopalan&lt;/p></description></item><item><title>Probability of getting TB reduced 60 percent with just 800 IU of vitamin D – RCT</title><link>/posts/probability-of-getting-tb-reduced-60-percent-with-just-800-iu-of-vitamin-d-rct.html</link><pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/probability-of-getting-tb-reduced-60-percent-with-just-800-iu-of-vitamin-d-rct.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!!Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`
+│ inner_content: `Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`
+│ │ inner_content: `Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3`├── TextNode
+│ full_match: `\nAm J Clin Nutr August 2012 ajcn.034967\nDavaasambuu Ganmaa, Edward Giovannucci, Barry R Bloom, Wafaie Fawzi, Winthrop Burr, Dulguun Batbaatar, Nyamjav Sumberzul, Michael F Holick, and Walter C Willett\n1 From the Department of Nutrition, Harvard School of Public Health and Channing Laboratory, Brigham and Women&amp;#39;s Hospital and Harvard Medical School, Boston, MA (DG, EG, and WCW); the Health Sciences University of Mongolia, Ulaanbaatar, Mongolia (DG, WB, DB, and NS); the Department of Immunology and Infectious Diseases and Department of Global Health and Population, Harvard School of Public Health, Boston, MA (BRB); Harvard University Health Services, Cambridge, MA (WB); the Department of Nutrition, Epidemiology and Global Health and Population, Harvard School of Public Health, Boston, MA (WF); and the Endocrine, Diabetes and Nutrition Section, Department of Medicine, Boston University Medical Center, Boston, MA (MFH).\n2 Supported by NIH/NHLBI 5 K99 HL089710-02 and 4 R00 HL089710-03. The Tischon Corporation of Salisbury, MD, donated the vitamin D supplements.\n?3 Address correspondence to D Ganmaa, 665 Huntington Avenue, Building II, Room 341B, Harvard School of Public Health and Channing Laboratory, Boston, MA. E-mail: gdavaasa@hsph.harvard.edu.\n\nBackground: By modulating immune function, vitamin D might increase innate immunity and inhibit the growth of initial bacterial invasion and protect against tuberculosis infection.\n\nObjective: We examined the effect of vitamin D supplementation on tuberculin skin test (TST) conversion.\n\nDesign: A double-blind, placebo-controlled study was conducted in 120 Mongol schoolchildren. We estimated the prevalence of latent tuberculosis infection at baseline and examined the effect of vitamin D (800 IU/d) on serum concentrations of 25-hydroxyvitamin D `
+│ inner_content: `\nAm J Clin Nutr August 2012 ajcn.034967\nDavaasambuu Ganmaa, Edward Giovannucci, Barry R Bloom, Wafaie Fawzi, Winthrop Burr, Dulguun Batbaatar, Nyamjav Sumberzul, Michael F Holick, and Walter C Willett\n1 From the Department of Nutrition, Harvard School of Public Health and Channing Laboratory, Brigham and Women&amp;#39;s Hospital and Harvard Medical School, Boston, MA (DG, EG, and WCW); the Health Sciences University of Mongolia, Ulaanbaatar, Mongolia (DG, WB, DB, and NS); the Department of Immunology and Infectious Diseases and Department of Global Health and Population, Harvard School of Public Health, Boston, MA (BRB); Harvard University Health Services, Cambridge, MA (WB); the Department of Nutrition, Epidemiology and Global Health and Population, Harvard School of Public Health, Boston, MA (WF); and the Endocrine, Diabetes and Nutrition Section, Department of Medicine, Boston University Medical Center, Boston, MA (MFH).\n2 Supported by NIH/NHLBI 5 K99 HL089710-02 and 4 R00 HL089710-03. The Tischon Corporation of Salisbury, MD, donated the vitamin D supplements.\n?3 Address correspondence to D Ganmaa, 665 Huntington Avenue, Building II, Room 341B, Harvard School of Public Health and Channing Laboratory, Boston, MA. E-mail: gdavaasa@hsph.harvard.edu.\n\nBackground: By modulating immune function, vitamin D might increase innate immunity and inhibit the growth of initial bacterial invasion and protect against tuberculosis infection.\n\nObjective: We examined the effect of vitamin D supplementation on tuberculin skin test (TST) conversion.\n\nDesign: A double-blind, placebo-controlled study was conducted in 120 Mongol schoolchildren. We estimated the prevalence of latent tuberculosis infection at baseline and examined the effect of vitamin D (800 IU/d) on serum concentrations of 25-hydroxyvitamin D `├── LinkNode
+│ full_match: `[25(OH)D]`
+│ inner_content: `25(OH)D`
+│ url: `25(OH)D`
+│ children:
+│ ├── TextNode
+│ │ full_match: `25(OH)D`
+│ │ inner_content: `25(OH)D`├── TextNode
+│ full_match: ` and TST conversion.\n\nResults: At baseline, the mean (±SD) 25(OH)D concentration was 7 ± 4 ng/mL, and all concentrations were &amp;lt;20 ng/mL. \nVitamin D supplementation increased serum 25(OH)D by a mean of 12.7 ng/mL compared with placebo (P &amp;lt; 0.0001). \n\nAt baseline, 16 children in the vitamin D group and 18 in the placebo group were TST positive (P = 0.7). \nOver 6 mo, TSTs converted to positive in 5 (11%) children receiving vitamin D compared with 11 (27%) receiving placebo (RR: 0.41; 95% CI: 0.16, 1.09; P = 0.06). \n\nOnly one TST conversion occurred among those whose serum 25(OH)D concentration increased to &amp;gt;20 ng/mL, \nwhereas 8 TST conversions occurred in those whose final 25(OH)D concentration remained &amp;lt;10 ng/mL (P = 0.05). \n\nThe mean increase in stature was 2.9 ± 1.6 cm in the vitamin D group and 2.0 ± 1.7 cm in the placebo group (95% CI: 2.16, 2.81; P &amp;lt; 0.003).\n\nConclusions: Vitamin D supplementation for 6 mo had significant favorable effects on serum 25(OH)D concentrations and on growth in stature. \nA trend was seen toward fewer TST conversions in the vitamin D group. \n\nThis trial was registered at clinicaltrials.gov as `
+│ inner_content: ` and TST conversion.\n\nResults: At baseline, the mean (±SD) 25(OH)D concentration was 7 ± 4 ng/mL, and all concentrations were &amp;lt;20 ng/mL. \nVitamin D supplementation increased serum 25(OH)D by a mean of 12.7 ng/mL compared with placebo (P &amp;lt; 0.0001). \n\nAt baseline, 16 children in the vitamin D group and 18 in the placebo group were TST positive (P = 0.7). \nOver 6 mo, TSTs converted to positive in 5 (11%) children receiving vitamin D compared with 11 (27%) receiving placebo (RR: 0.41; 95% CI: 0.16, 1.09; P = 0.06). \n\nOnly one TST conversion occurred among those whose serum 25(OH)D concentration increased to &amp;gt;20 ng/mL, \nwhereas 8 TST conversions occurred in those whose final 25(OH)D concentration remained &amp;lt;10 ng/mL (P = 0.05). \n\nThe mean increase in stature was 2.9 ± 1.6 cm in the vitamin D group and 2.0 ± 1.7 cm in the placebo group (95% CI: 2.16, 2.81; P &amp;lt; 0.003).\n\nConclusions: Vitamin D supplementation for 6 mo had significant favorable effects on serum 25(OH)D concentrations and on growth in stature. \nA trend was seen toward fewer TST conversions in the vitamin D group. \n\nThis trial was registered at clinicaltrials.gov as `├── LinkNode
+│ full_match: `[http://clinicaltrials.gov/ct2/show/NCT01244204|NCT01244204.]`
+│ inner_content: `NCT01244204.`
+│ url: `http://clinicaltrials.gov/ct2/show/NCT01244204`
+│ children:
+│ ├── TextNode
+│ │ full_match: `NCT01244204.`
+│ │ inner_content: `NCT01244204.`├── TextNode
+│ full_match: `\n– – – – – \n`
+│ inner_content: `\n– – – – – \n`├── HeadingNode
+│ full_match: `!!Summary `
+│ inner_content: `Summary`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Summary`
+│ │ inner_content: `Summary`├── TextNode
+│ full_match: `\n27% of controls got TB, and grew 2 cm\n11% of those getting 800 IU of vitamin D got TB and grew 2.9 cm\n2.5X less chance of TB than controls and grew in height 50% more than controls\n`
+│ inner_content: `\n27% of controls got TB, and grew 2 cm\n11% of those getting 800 IU of vitamin D got TB and grew 2.9 cm\n2.5X less chance of TB than controls and grew in height 50% more than controls\n`├── HeadingNode
+│ full_match: `!!See also VitaminDWiki `
+│ inner_content: `See also VitaminDWiki`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]`
+│ │ inner_content: `Overview TB and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1421`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview TB and Vitamin D`
+│ │ │ inner_content: `Overview TB and Vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D]`
+│ │ inner_content: `All items in TB and vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in TB and vitamin D`
+│ │ │ inner_content: `All items in TB and vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]`
+│ │ inner_content: `TB 10X less likely to catch if have sufficient vitamin D – Dec 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2249`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `TB 10X less likely to catch if have sufficient vitamin D – Dec 2011`
+│ │ │ inner_content: `TB 10X less likely to catch if have sufficient vitamin D – Dec 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))`
+│ inner_content: `((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))`
+│ │ inner_content: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
+│ │ page: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
+│ │ │ inner_content: `Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013`
+
+Original Tiki:
+-------------
+!!!!Vitamin D, tuberculin skin test conversion, and latent tuberculosis in Mongolian school-age children: a randomized, double-blind, placebo-controlled feasibility trial1,2,3
+Am J Clin Nutr August 2012 ajcn.034967
+Davaasambuu Ganmaa, Edward Giovannucci, Barry R Bloom, Wafaie Fawzi, Winthrop Burr, Dulguun Batbaatar, Nyamjav Sumberzul, Michael F Holick, and Walter C Willett
+1 From the Department of Nutrition, Harvard School of Public Health and Channing Laboratory, Brigham and Women&amp;#39;s Hospital and Harvard Medical School, Boston, MA (DG, EG, and WCW); the Health Sciences University of Mongolia, Ulaanbaatar, Mongolia (DG, WB, DB, and NS); the Department of Immunology and Infectious Diseases and Department of Global Health and Population, Harvard School of Public Health, Boston, MA (BRB); Harvard University Health Services, Cambridge, MA (WB); the Department of Nutrition, Epidemiology and Global Health and Population, Harvard School of Public Health, Boston, MA (WF); and the Endocrine, Diabetes and Nutrition Section, Department of Medicine, Boston University Medical Center, Boston, MA (MFH).
+2 Supported by NIH/NHLBI 5 K99 HL089710-02 and 4 R00 HL089710-03. The Tischon Corporation of Salisbury, MD, donated the vitamin D supplements.
+?3 Address correspondence to D Ganmaa, 665 Huntington Avenue, Building II, Room 341B, Harvard School of Public Health and Channing Laboratory, Boston, MA. E-mail: gdavaasa@hsph.harvard.edu.
+
+Background: By modulating immune function, vitamin D might increase innate immunity and inhibit the growth of initial bacterial invasion and protect against tuberculosis infection.
+
+Objective: We examined the effect of vitamin D supplementation on tuberculin skin test (TST) conversion.
+
+Design: A double-blind, placebo-controlled study was conducted in 120 Mongol schoolchildren. We estimated the prevalence of latent tuberculosis infection at baseline and examined the effect of vitamin D (800 IU/d) on serum concentrations of 25-hydroxyvitamin D [25(OH)D] and TST conversion.
+
+Results: At baseline, the mean (±SD) 25(OH)D concentration was 7 ± 4 ng/mL, and all concentrations were &amp;lt;20 ng/mL. 
+Vitamin D supplementation increased serum 25(OH)D by a mean of 12.7 ng/mL compared with placebo (P &amp;lt; 0.0001). 
+
+At baseline, 16 children in the vitamin D group and 18 in the placebo group were TST positive (P = 0.7). 
+Over 6 mo, TSTs converted to positive in 5 (11%) children receiving vitamin D compared with 11 (27%) receiving placebo (RR: 0.41; 95% CI: 0.16, 1.09; P = 0.06). 
+
+Only one TST conversion occurred among those whose serum 25(OH)D concentration increased to &amp;gt;20 ng/mL, 
+whereas 8 TST conversions occurred in those whose final 25(OH)D concentration remained &amp;lt;10 ng/mL (P = 0.05). 
+
+The mean increase in stature was 2.9 ± 1.6 cm in the vitamin D group and 2.0 ± 1.7 cm in the placebo group (95% CI: 2.16, 2.81; P &amp;lt; 0.003).
+
+Conclusions: Vitamin D supplementation for 6 mo had significant favorable effects on serum 25(OH)D concentrations and on growth in stature. 
+A trend was seen toward fewer TST conversions in the vitamin D group. 
+
+This trial was registered at clinicaltrials.gov as [http://clinicaltrials.gov/ct2/show/NCT01244204|NCT01244204.]
+– – – – – 
+!!Summary 
+27% of controls got TB, and grew 2 cm
+11% of those getting 800 IU of vitamin D got TB and grew 2.9 cm
+2.5X less chance of TB than controls and grew in height 50% more than controls
+!!See also VitaminDWiki 
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1421|Overview TB and Vitamin D]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=23&amp;amp;sort_mode=created_desc|All items in TB and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=23{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2249|TB 10X less likely to catch if have sufficient vitamin D – Dec 2011]
+*((Every TB patient benefited from 2 doses of 600,000 IU of vitamin D – RCT Jan 2013))
+&lt;/code>
+&lt;/pre></description></item><item><title>Low vitamin D increased probability of low birth weight by 60 percent – meta-analysis</title><link>/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis.html</link><pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/low-vitamin-d-increased-probability-of-low-birth-weight-by-60-percent-meta-analysis.html</guid><description>&lt;h4 id="vitamin-d-during-pregnancy-and-maternal-neonatal-and-infant-health-outcomes-a-systematic-review-and-meta-analysis">Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis&lt;/h4>
+&lt;p>Andrew Thorne-Lyman1,*, Wafaie W. Fawzi1,2,3; Article first published online: 28 JUN 2012&lt;/p>
+&lt;p>© 2012 Blackwell Publishing Ltd&lt;/p>
+&lt;p>Paediatric and Perinatal Epidemiology, Volume 26, Issue Supplement s1, pages 75–90, July 2012&lt;/p>
+&lt;p>Special Issue: Improving maternal, newborn, and child health outcomes through better designed policies and programs that enhance the nutrition of women&lt;/p>
+&lt;div class="border" style="background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:>85%">
+&lt;p>The only daily vitamin D data used in the meta-analysis was 1000 IU of vitamin &lt;strong>&lt;span style="color:#F00;">D2&lt;/span>&lt;/strong>&lt;/p></description></item><item><title>Severe Sleep Loss Reduced Immune System – wonder about vitamin D reduction</title><link>/posts/severe-sleep-loss-reduced-immune-system-wonder-about-vitamin-d-reduction.html</link><pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/severe-sleep-loss-reduced-immune-system-wonder-about-vitamin-d-reduction.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!Clipped from [http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does] Medical News Today`
+│ inner_content: `Clipped from [http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does] Medical News Today`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Clipped from `
+│ │ inner_content: `Clipped from `
+│ ├── LinkNode
+│ │ full_match: `[http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does]`
+│ │ inner_content: `Severe Sleep Loss Affects Immune System Like Physical Stress Does`
+│ │ url: `http://www.medicalnewstoday.com/articles/247320.php `
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Severe Sleep Loss Affects Immune System Like Physical Stress Does`
+│ │ │ inner_content: `Severe Sleep Loss Affects Immune System Like Physical Stress Does`
+│ ├── TextNode
+│ │ full_match: ` Medical News Today`
+│ │ inner_content: ` Medical News Today`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!Note – no mention of vitamin D in the abstract `
+│ inner_content: `Note – no mention of vitamin D in the abstract`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Note – no mention of vitamin D in the abstract`
+│ │ inner_content: `Note – no mention of vitamin D in the abstract`├── TextNode
+│ full_match: `\n\nFound a link between lack of sleep and the development of certain diseases and conditions, such as \n`
+│ inner_content: `\n\nFound a link between lack of sleep and the development of certain diseases and conditions, such as \n`├── ListItemNode
+│ full_match: `*high blood pressure (hypertension), `
+│ inner_content: `high blood pressure (hypertension), `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `high blood pressure (hypertension), `
+│ │ inner_content: `high blood pressure (hypertension), `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*diabetes and `
+│ inner_content: `diabetes and `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `diabetes and `
+│ │ inner_content: `diabetes and `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*obesity.`
+│ inner_content: `obesity.`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `obesity.`
+│ │ inner_content: `obesity.`├── TextNode
+│ full_match: `\n\nStudy deprived 15 men of sleep for 27 hours. When deprived of sleep &amp;quot;The granulocytes reacted immediately to the physical stress of sleep loss and directly mirrored the body&amp;#39;s stress response.&amp;quot;\n\nA granulocyte is a type of white blood cell that is full of microscopic granules - tiny sacs that contain enzymes for digesting microorganisms. Granulocytes form part of our innate immune system.\n`
+│ inner_content: `\n\nStudy deprived 15 men of sleep for 27 hours. When deprived of sleep &amp;quot;The granulocytes reacted immediately to the physical stress of sleep loss and directly mirrored the body&amp;#39;s stress response.&amp;quot;\n\nA granulocyte is a type of white blood cell that is full of microscopic granules - tiny sacs that contain enzymes for digesting microorganisms. Granulocytes form part of our innate immune system.\n`├── HeadingNode
+│ full_match: `\n!!Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`
+│ inner_content: `Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`
+│ │ inner_content: `Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men`├── TextNode
+│ full_match: `\nSleep Volume 35, ISSUE 07 \nKatrin Ackermann, PhD1; Victoria L. Revell, PhD3; Oscar Lao, PhD1; Elwin J. Rombouts, PhD2; Debra J. Skene, PhD3; Manfred Kayser, PhD1\n1Department of Forensic Molecular Biology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n2 Department of Haematology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n3 Centre for Chronobiology, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey, United Kingdom\n\nThe sleep/wake cycle is accompanied by changes in circulating numbers of immune cells. The goal of this study was to provide an in-depth characterization of diurnal rhythms in different blood cell populations and to investigate the effect of acute sleep deprivation on the immune system, as an indicator of the body&amp;#39;s acute stress response.\n\nSetting: Home environment and Clinical Research Centre.\n\nParticipants: 15 healthy male participants aged 23.7 ± 5.4 (standard deviation) yr.\n\nInterventions: Total sleep deprivation.\n\nMeasurements and Results:\n\nDiurnal rhythms of several blood cell populations were assessed under a normal sleep/wake cycle followed by 29 hr of extended wakefulness. The effect of condition (sleep versus sleep deprivation) on peak time and amplitude was investigated. Interindividual variation of, and the level of correlation between, the different cell populations was assessed.\n\nComprehensive nonlinear curve fitting showed significant diurnal rhythms for all blood cell types investigated, with CD4 (naïve) cells exhibiting the most robust rhythms independent of condition. For those participants exhibiting significant diurnal rhythms in blood cell populations, only the amplitude of the granulocyte rhythm was significantly reduced by sleep deprivation. Granulocytes were the most diverse population, being most strongly affected by condition, and showed the lowest correlations with any other given cell type while exhibiting the largest interindividual variation in abundance.\n\nConclusions:\nGranulocyte levels and diurnal rhythmicity are directly affected by acute sleep deprivation; these changes mirror the body&amp;#39;s immediate immune response upon exposure to stress.\n\n`
+│ inner_content: `\nSleep Volume 35, ISSUE 07 \nKatrin Ackermann, PhD1; Victoria L. Revell, PhD3; Oscar Lao, PhD1; Elwin J. Rombouts, PhD2; Debra J. Skene, PhD3; Manfred Kayser, PhD1\n1Department of Forensic Molecular Biology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n2 Department of Haematology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; \n3 Centre for Chronobiology, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey, United Kingdom\n\nThe sleep/wake cycle is accompanied by changes in circulating numbers of immune cells. The goal of this study was to provide an in-depth characterization of diurnal rhythms in different blood cell populations and to investigate the effect of acute sleep deprivation on the immune system, as an indicator of the body&amp;#39;s acute stress response.\n\nSetting: Home environment and Clinical Research Centre.\n\nParticipants: 15 healthy male participants aged 23.7 ± 5.4 (standard deviation) yr.\n\nInterventions: Total sleep deprivation.\n\nMeasurements and Results:\n\nDiurnal rhythms of several blood cell populations were assessed under a normal sleep/wake cycle followed by 29 hr of extended wakefulness. The effect of condition (sleep versus sleep deprivation) on peak time and amplitude was investigated. Interindividual variation of, and the level of correlation between, the different cell populations was assessed.\n\nComprehensive nonlinear curve fitting showed significant diurnal rhythms for all blood cell types investigated, with CD4 (naïve) cells exhibiting the most robust rhythms independent of condition. For those participants exhibiting significant diurnal rhythms in blood cell populations, only the amplitude of the granulocyte rhythm was significantly reduced by sleep deprivation. Granulocytes were the most diverse population, being most strongly affected by condition, and showed the lowest correlations with any other given cell type while exhibiting the largest interindividual variation in abundance.\n\nConclusions:\nGranulocyte levels and diurnal rhythmicity are directly affected by acute sleep deprivation; these changes mirror the body&amp;#39;s immediate immune response upon exposure to stress.\n\n`├── LinkNode
+│ full_match: `[http://www.journalsleep.org/ViewAbstract.aspx?pid=28578 |Full study is available from the publisher for only $8.00]`
+│ inner_content: `Full study is available from the publisher for only $8.00`
+│ url: `http://www.journalsleep.org/ViewAbstract.aspx?pid=28578 `
+│ children:
+│ ├── TextNode
+│ │ full_match: `Full study is available from the publisher for only $8.00`
+│ │ inner_content: `Full study is available from the publisher for only $8.00`├── TextNode
+│ full_match: `\n\n- - - - - - \n`
+│ inner_content: `\n\n- - - - - - \n`├── HeadingNode
+│ full_match: `!See also VitaminDWiki `
+│ inner_content: `See also VitaminDWiki`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]`
+│ │ inner_content: `Poor sleep and lack of vitamin D - Nov 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2139`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Poor sleep and lack of vitamin D - Nov 2011`
+│ │ │ inner_content: `Poor sleep and lack of vitamin D - Nov 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+Discusses sleep quality improving when enough vitamin D was added.`
+│ inner_content: `Discusses sleep quality improving when enough vitamin D was added.`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Discusses sleep quality improving when enough vitamin D was added.`
+│ │ inner_content: `Discusses sleep quality improving when enough vitamin D was added.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+The study above discusses sleep quality being reduced ==&amp;gt; stress on the body which has been shown to reduce levels of vitamin D`
+│ inner_content: `The study above discusses sleep quality being reduced ==&amp;gt; stress on the body which has been shown to reduce levels of vitamin D`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The study above discusses sleep quality being reduced ==&amp;gt; stress on the body which has been shown to reduce levels of vitamin D`
+│ │ inner_content: `The study above discusses sleep quality being reduced ==&amp;gt; stress on the body which has been shown to reduce levels of vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]`
+│ │ inner_content: `Vitamin D is number one stress buster – Huntington Post May 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=224`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D is number one stress buster – Huntington Post May 2010`
+│ │ │ inner_content: `Vitamin D is number one stress buster – Huntington Post May 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;amp;sort_mode=created_desc|All items in category After Surgery and Stress]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;amp;sort_mode=created_desc|All items in category After Surgery and Stress]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;amp;sort_mode=created_desc|All items in category After Surgery and Stress]`
+│ │ inner_content: `All items in category After Surgery and Stress`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in category After Surgery and Stress`
+│ │ │ inner_content: `All items in category After Surgery and Stress`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+Vitamin D reduced by 40% in 2 days following surgery or trauma`
+│ inner_content: `Vitamin D reduced by 40% in 2 days following surgery or trauma`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D reduced by 40% in 2 days following surgery or trauma`
+│ │ inner_content: `Vitamin D reduced by 40% in 2 days following surgery or trauma`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]`
+│ │ inner_content: `An update on vitamin D and human immunity – Oct 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2099`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `An update on vitamin D and human immunity – Oct 2011`
+│ │ │ inner_content: `An update on vitamin D and human immunity – Oct 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent] 2008`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent] 2008`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent]`
+│ │ inner_content: `Immune system and vitamin D patent`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1792`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Immune system and vitamin D patent`
+│ │ │ inner_content: `Immune system and vitamin D patent`
+│ ├── TextNode
+│ │ full_match: ` 2008`
+│ │ inner_content: ` 2008`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in category Immune System] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in category Immune System] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in category Immune System]`
+│ │ inner_content: `All items in category Immune System`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in category Immune System`
+│ │ │ inner_content: `All items in category Immune System`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]`
+│ │ inner_content: `Cow, mouse, and human immune system and vitamin D – March 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2495`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Cow, mouse, and human immune system and vitamin D – March 2012`
+│ │ │ inner_content: `Cow, mouse, and human immune system and vitamin D – March 2012`
+
+Original Tiki:
+-------------
+!!Clipped from [http://www.medicalnewstoday.com/articles/247320.php |Severe Sleep Loss Affects Immune System Like Physical Stress Does] Medical News Today
+
+!Note – no mention of vitamin D in the abstract 
+
+Found a link between lack of sleep and the development of certain diseases and conditions, such as 
+*high blood pressure (hypertension), 
+*diabetes and 
+*obesity.
+
+Study deprived 15 men of sleep for 27 hours. When deprived of sleep &amp;quot;The granulocytes reacted immediately to the physical stress of sleep loss and directly mirrored the body&amp;#39;s stress response.&amp;quot;
+
+A granulocyte is a type of white blood cell that is full of microscopic granules - tiny sacs that contain enzymes for digesting microorganisms. Granulocytes form part of our innate immune system.
+
+!!Diurnal Rhythms in Blood Cell Populations and the Effect of Acute Sleep Deprivation in Healthy Young Men
+ Sleep Volume 35, ISSUE 07 
+Katrin Ackermann, PhD1; Victoria L. Revell, PhD3; Oscar Lao, PhD1; Elwin J. Rombouts, PhD2; Debra J. Skene, PhD3; Manfred Kayser, PhD1
+1Department of Forensic Molecular Biology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; 
+2 Department of Haematology, Erasmus MC University Medical Centre Rotterdam, Rotterdam, The Netherlands; 
+3 Centre for Chronobiology, Faculty of Health and Medical Sciences, University of Surrey, Guildford, Surrey, United Kingdom
+
+The sleep/wake cycle is accompanied by changes in circulating numbers of immune cells. The goal of this study was to provide an in-depth characterization of diurnal rhythms in different blood cell populations and to investigate the effect of acute sleep deprivation on the immune system, as an indicator of the body&amp;#39;s acute stress response.
+
+Setting: Home environment and Clinical Research Centre.
+
+Participants: 15 healthy male participants aged 23.7 ± 5.4 (standard deviation) yr.
+
+Interventions: Total sleep deprivation.
+
+Measurements and Results:
+
+Diurnal rhythms of several blood cell populations were assessed under a normal sleep/wake cycle followed by 29 hr of extended wakefulness. The effect of condition (sleep versus sleep deprivation) on peak time and amplitude was investigated. Interindividual variation of, and the level of correlation between, the different cell populations was assessed.
+
+Comprehensive nonlinear curve fitting showed significant diurnal rhythms for all blood cell types investigated, with CD4 (naïve) cells exhibiting the most robust rhythms independent of condition. For those participants exhibiting significant diurnal rhythms in blood cell populations, only the amplitude of the granulocyte rhythm was significantly reduced by sleep deprivation. Granulocytes were the most diverse population, being most strongly affected by condition, and showed the lowest correlations with any other given cell type while exhibiting the largest interindividual variation in abundance.
+
+Conclusions:
+Granulocyte levels and diurnal rhythmicity are directly affected by acute sleep deprivation; these changes mirror the body&amp;#39;s immediate immune response upon exposure to stress.
+
+[http://www.journalsleep.org/ViewAbstract.aspx?pid=28578 |Full study is available from the publisher for only $8.00]
+
+- - - - - - 
+!See also VitaminDWiki 
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2139|Poor sleep and lack of vitamin D - Nov 2011]
++Discusses sleep quality improving when enough vitamin D was added.
++The study above discusses sleep quality being reduced ==&amp;gt; stress on the body which has been shown to reduce levels of vitamin D
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=224|Vitamin D is number one stress buster – Huntington Post May 2010]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=64&amp;amp;sort_mode=created_desc|All items in category After Surgery and Stress]
++Vitamin D reduced by 40% in 2 days following surgery or trauma
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2099|An update on vitamin D and human immunity – Oct 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1792|Immune system and vitamin D patent] 2008
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in category Immune System] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2495|Cow, mouse, and human immune system and vitamin D – March 2012]
+&lt;/code>
+&lt;/pre></description></item><item><title>Acute lower respiratory infection 5X more frequent with low vitamin D intake</title><link>/posts/acute-lower-respiratory-infection-5x-more-frequent-with-low-vitamin-d-intake.html</link><pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/acute-lower-respiratory-infection-5x-more-frequent-with-low-vitamin-d-intake.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!!Vitamin D intake in young children with acute lower respiratory infection`
+│ inner_content: `Vitamin D intake in young children with acute lower respiratory infection`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D intake in young children with acute lower respiratory infection`
+│ │ inner_content: `Vitamin D intake in young children with acute lower respiratory infection`├── TextNode
+│ full_match: `\nKaren S Leis, J Dayre McNally, Matthew R Montgomery, Koravangattu Sankaran, Chandima Karunanayake, Alan M Rosenberg\nTranslational Pediatrics\n\nObjective: To determine if vitamin D intake is associated with acute lower respiratory infections (ALRI) in children.\n\nMethods: The vitamin D intakes of children younger than 5 years of age admitted to hospital with either bronchiolitis or pneumonia were compared to an unmatched control group of the same age without respiratory infection. \n\nCaregivers of 197 children completed a questionnaire collecting information on demographic variables, ALRI risk factors and diet.\n\nAssociations of ALRI with vitamin D intake and other ALRI risk factors were determined.\n\nResults: The mean vitamin D intake of children with ALRI was 48 IU/kg/d compared to 60 IU/kg/d in the control group.\n\nWhen controlling for age, ethnicity, socio-economic status, northern residence, breastfeeding, immunizations and smoking contact, children with a vitamin D intake of less than 80 IU/kg/d were greater than 4 times more likely to have ALRI compared to children with a vitamin D intake exceeding `
+│ inner_content: `\nKaren S Leis, J Dayre McNally, Matthew R Montgomery, Koravangattu Sankaran, Chandima Karunanayake, Alan M Rosenberg\nTranslational Pediatrics\n\nObjective: To determine if vitamin D intake is associated with acute lower respiratory infections (ALRI) in children.\n\nMethods: The vitamin D intakes of children younger than 5 years of age admitted to hospital with either bronchiolitis or pneumonia were compared to an unmatched control group of the same age without respiratory infection. \n\nCaregivers of 197 children completed a questionnaire collecting information on demographic variables, ALRI risk factors and diet.\n\nAssociations of ALRI with vitamin D intake and other ALRI risk factors were determined.\n\nResults: The mean vitamin D intake of children with ALRI was 48 IU/kg/d compared to 60 IU/kg/d in the control group.\n\nWhen controlling for age, ethnicity, socio-economic status, northern residence, breastfeeding, immunizations and smoking contact, children with a vitamin D intake of less than 80 IU/kg/d were greater than 4 times more likely to have ALRI compared to children with a vitamin D intake exceeding `├── BoldNode
+│ full_match: `__80 IU/kg/day (OR 4.9__`
+│ inner_content: `80 IU/kg/day (OR 4.9`
+│ children:
+│ ├── TextNode
+│ │ full_match: `80 IU/kg/day (OR 4.9`
+│ │ inner_content: `80 IU/kg/day (OR 4.9`├── TextNode
+│ full_match: `, CI: 1.5, 16.4).\n\nConclusions: A higher vitamin D intake than currently recommended might be needed to offer protection against diseases such as ALRI. \nIncreased vitamin D supplementation could have important public health consequences, as bronchiolitis and pneumonia are the most common reasons for hospitalization in young children.\n\n`
+│ inner_content: `, CI: 1.5, 16.4).\n\nConclusions: A higher vitamin D intake than currently recommended might be needed to offer protection against diseases such as ALRI. \nIncreased vitamin D supplementation could have important public health consequences, as bronchiolitis and pneumonia are the most common reasons for hospitalization in young children.\n\n`├── BoldNode
+│ full_match: `__~~#00F:PDF is attached at the bottom of this page~~__`
+│ inner_content: `~~#00F:PDF is attached at the bottom of this page~~`
+│ children:
+│ ├── ColorNode
+│ │ full_match: `~~#00F:PDF is attached at the bottom of this page~~`
+│ │ inner_content: `PDF is attached at the bottom of this page`
+│ │ attrs_dict:
+│ │ │ raw_content: #00F
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `PDF is attached at the bottom of this page`
+│ │ │ inner_content: `PDF is attached at the bottom of this page`├── TextNode
+│ full_match: `\n- - - - - - \n`
+│ inner_content: `\n- - - - - - \n`├── BoldNode
+│ full_match: `__Very pleased to see that this study considered how much vitamin D the child was taking vs weight__`
+│ inner_content: `Very pleased to see that this study considered how much vitamin D the child was taking vs weight`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Very pleased to see that this study considered how much vitamin D the child was taking vs weight`
+│ │ inner_content: `Very pleased to see that this study considered how much vitamin D the child was taking vs weight`├── TextNode
+│ full_match: `\nvarious groups, such as in `
+│ inner_content: `\nvarious groups, such as in `├── LinkNode
+│ full_match: `[tiki-index.php?page_id=1757|Poland]`
+│ inner_content: `Poland`
+│ url: `tiki-index.php?page_id=1757`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Poland`
+│ │ inner_content: `Poland`├── TextNode
+│ full_match: ` recommend 100 IU/kg daily\n`
+│ inner_content: ` recommend 100 IU/kg daily\n`├── ImgBlockNode
+│ full_match: `{IMG(fileId=&amp;quot;2127&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: fileId=&amp;quot;2127&amp;quot;
+│ │ fileId: 2127├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!!!!Editorial in same issue [http://www.amepc.org/tp/article/view/644/693|Vitamin D is a friend of younger children]`
+│ inner_content: `Editorial in same issue [http://www.amepc.org/tp/article/view/644/693|Vitamin D is a friend of younger children]`
+│ level: `5`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Editorial in same issue `
+│ │ inner_content: `Editorial in same issue `
+│ ├── LinkNode
+│ │ full_match: `[http://www.amepc.org/tp/article/view/644/693|Vitamin D is a friend of younger children]`
+│ │ inner_content: `Vitamin D is a friend of younger children`
+│ │ url: `http://www.amepc.org/tp/article/view/644/693`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D is a friend of younger children`
+│ │ │ inner_content: `Vitamin D is a friend of younger children`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!!!See also VitaminDWiki`
+│ inner_content: `See also VitaminDWiki`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[tiki-browse_categories.php?parentId=7&amp;amp;sort_mode=created_desc|All items in category Breathing and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__`
+│ inner_content: `[tiki-browse_categories.php?parentId=7&amp;amp;sort_mode=created_desc|All items in category Breathing and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[tiki-browse_categories.php?parentId=7&amp;amp;sort_mode=created_desc|All items in category Breathing and Vitamin D]`
+│ │ inner_content: `All items in category Breathing and Vitamin D`
+│ │ url: `tiki-browse_categories.php?parentId=7&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in category Breathing and Vitamin D`
+│ │ │ inner_content: `All items in category Breathing and Vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015)) infants`
+│ inner_content: `((Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015)) infants`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015))`
+│ │ inner_content: `Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015`
+│ │ page: `Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015`
+│ │ │ inner_content: `Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015`
+│ ├── TextNode
+│ │ full_match: ` infants`
+│ │ inner_content: ` infants`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[tiki-index.php?page_id=3145|Hypothesis: Respiratory problems will decrease with increased vitamin D – Jan 2012] `
+│ inner_content: `[tiki-index.php?page_id=3145|Hypothesis: Respiratory problems will decrease with increased vitamin D – Jan 2012] `
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[tiki-index.php?page_id=3145|Hypothesis: Respiratory problems will decrease with increased vitamin D – Jan 2012]`
+│ │ inner_content: `Hypothesis: Respiratory problems will decrease with increased vitamin D – Jan 2012`
+│ │ url: `tiki-index.php?page_id=3145`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Hypothesis: Respiratory problems will decrease with increased vitamin D – Jan 2012`
+│ │ │ inner_content: `Hypothesis: Respiratory problems will decrease with increased vitamin D – Jan 2012`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[tiki-index.php?page_id=2689|100 % of Acute Respiratory Failure patients had low vitamin D - April 2012]`
+│ inner_content: `[tiki-index.php?page_id=2689|100 % of Acute Respiratory Failure patients had low vitamin D - April 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[tiki-index.php?page_id=2689|100 % of Acute Respiratory Failure patients had low vitamin D - April 2012]`
+│ │ inner_content: `100 % of Acute Respiratory Failure patients had low vitamin D - April 2012`
+│ │ url: `tiki-index.php?page_id=2689`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `100 % of Acute Respiratory Failure patients had low vitamin D - April 2012`
+│ │ │ inner_content: `100 % of Acute Respiratory Failure patients had low vitamin D - April 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[tiki-index.php?page_id=3170|Just 300 IU daily of vitamin D reduced respiratory infections by 50% – RCT Aug 2012]`
+│ inner_content: `[tiki-index.php?page_id=3170|Just 300 IU daily of vitamin D reduced respiratory infections by 50% – RCT Aug 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[tiki-index.php?page_id=3170|Just 300 IU daily of vitamin D reduced respiratory infections by 50% – RCT Aug 2012]`
+│ │ inner_content: `Just 300 IU daily of vitamin D reduced respiratory infections by 50% – RCT Aug 2012`
+│ │ url: `tiki-index.php?page_id=3170`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Just 300 IU daily of vitamin D reduced respiratory infections by 50% – RCT Aug 2012`
+│ │ │ inner_content: `Just 300 IU daily of vitamin D reduced respiratory infections by 50% – RCT Aug 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[tiki-index.php?page_id=3473|Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012]`
+│ inner_content: `[tiki-index.php?page_id=3473|Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[tiki-index.php?page_id=3473|Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012]`
+│ │ inner_content: `Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012`
+│ │ url: `tiki-index.php?page_id=3473`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012`
+│ │ │ inner_content: `Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013))`
+│ inner_content: `((Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013))`
+│ │ inner_content: `Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013`
+│ │ page: `Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013`
+│ │ │ inner_content: `Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013))`
+│ inner_content: `((Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013))`
+│ │ inner_content: `Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013`
+│ │ page: `Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013`
+│ │ │ inner_content: `Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=anti-biotic&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for antibiotic] 167 items as of Oct 2013`
+│ inner_content: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=anti-biotic&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for antibiotic] 167 items as of Oct 2013`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=anti-biotic&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for antibiotic]`
+│ │ inner_content: `Search VitaminDWiki for antibiotic`
+│ │ url: `https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=anti-biotic&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Search VitaminDWiki for antibiotic`
+│ │ │ inner_content: `Search VitaminDWiki for antibiotic`
+│ ├── TextNode
+│ │ full_match: ` 167 items as of Oct 2013`
+│ │ inner_content: ` 167 items as of Oct 2013`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in Immunity and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in Immunity and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in Immunity and Vitamin D]`
+│ │ inner_content: `All items in Immunity and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in Immunity and Vitamin D`
+│ │ │ inner_content: `All items in Immunity and Vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://VitaminDWiki.com/Breathing#Breathing_items_with_ACUTE_in_title| Breathing category with ACUTE in title]`
+│ inner_content: `[https://VitaminDWiki.com/Breathing#Breathing_items_with_ACUTE_in_title| Breathing category with ACUTE in title]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://VitaminDWiki.com/Breathing#Breathing_items_with_ACUTE_in_title| Breathing category with ACUTE in title]`
+│ │ inner_content: ` Breathing category with ACUTE in title`
+│ │ url: `https://VitaminDWiki.com/Breathing#Breathing_items_with_ACUTE_in_title`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Breathing category with ACUTE in title`
+│ │ │ inner_content: `Breathing category with ACUTE in title`
+
+Original Tiki:
+-------------
+!!!!Vitamin D intake in young children with acute lower respiratory infection
+Karen S Leis, J Dayre McNally, Matthew R Montgomery, Koravangattu Sankaran, Chandima Karunanayake, Alan M Rosenberg
+Translational Pediatrics
+
+Objective: To determine if vitamin D intake is associated with acute lower respiratory infections (ALRI) in children.
+
+Methods: The vitamin D intakes of children younger than 5 years of age admitted to hospital with either bronchiolitis or pneumonia were compared to an unmatched control group of the same age without respiratory infection. 
+
+Caregivers of 197 children completed a questionnaire collecting information on demographic variables, ALRI risk factors and diet.
+
+Associations of ALRI with vitamin D intake and other ALRI risk factors were determined.
+
+Results: The mean vitamin D intake of children with ALRI was 48 IU/kg/d compared to 60 IU/kg/d in the control group.
+
+When controlling for age, ethnicity, socio-economic status, northern residence, breastfeeding, immunizations and smoking contact, children with a vitamin D intake of less than 80 IU/kg/d were greater than 4 times more likely to have ALRI compared to children with a vitamin D intake exceeding __80 IU/kg/day (OR 4.9__, CI: 1.5, 16.4).
+
+Conclusions: A higher vitamin D intake than currently recommended might be needed to offer protection against diseases such as ALRI. 
+Increased vitamin D supplementation could have important public health consequences, as bronchiolitis and pneumonia are the most common reasons for hospitalization in young children.
+
+__~~#00F:PDF is attached at the bottom of this page~~__
+- - - - - - 
+__Very pleased to see that this study considered how much vitamin D the child was taking vs weight__
+various groups, such as in [tiki-index.php?page_id=1757|Poland] recommend 100 IU/kg daily
+{IMG(fileId=&amp;quot;2127&amp;quot;)}{IMG}
+
+!!!!!Editorial in same issue [http://www.amepc.org/tp/article/view/644/693|Vitamin D is a friend of younger children]
+
+!!!!See also VitaminDWiki
+*[tiki-browse_categories.php?parentId=7&amp;amp;sort_mode=created_desc|All items in category Breathing and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__
+*((Newborn acute lower respiratory tract infection associated with low maternal vitamin D – March 2015)) infants
+*[tiki-index.php?page_id=3145|Hypothesis: Respiratory problems will decrease with increased vitamin D – Jan 2012] 
+*[tiki-index.php?page_id=2689|100 % of Acute Respiratory Failure patients had low vitamin D - April 2012]
+*[tiki-index.php?page_id=3170|Just 300 IU daily of vitamin D reduced respiratory infections by 50% – RCT Aug 2012]
+*[tiki-index.php?page_id=3473|Vitamin D reduces respiratory tract infections by 40 percent– meta-analysis Dec 2012]
+*((Vitamin D and Respiratory Tract Infections – meta-analysis with charts June 2013))
+*((Antibiotic use cut in half by elderly (over 70) after monthly 60,000 IU of vitamin D – RCT Dec 2013))
+*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=anti-biotic&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for antibiotic] 167 items as of Oct 2013
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=35&amp;amp;sort_mode=created_desc|All items in Immunity and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=35{SQL} items~~__
+*[https://VitaminDWiki.com/Breathing#Breathing_items_with_ACUTE_in_title| Breathing category with ACUTE in title]
+&lt;/code>
+&lt;/pre></description></item><item><title>Quarterly vitamin D3 is too infrequent – it increases the occurrence of pneumonia</title><link>/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia.html</link><pubDate>Fri, 29 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/quarterly-vitamin-d3-is-too-infrequent-it-increases-the-occurrence-of-pneumonia.html</guid><description>&lt;h3 id="is-quarterly-bolus-vitamin-d3-supplementation-adequate-to-prevent-childhood-pneumonia">Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?&lt;/h3>
+&lt;p>?Transl Pediatr 2012 Jun 11. DOI: 10.3978/j.issn.2224-4336.2012.06.01&lt;/p>
+&lt;p>Ursula Thiem1, Enikö Kállay2, Kyra Borchhardt1&lt;/p>
+&lt;p>1Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, Vienna, Austria;&lt;/p>
+&lt;p>2 Department of Pathophysiology and Allergy Research, Medical University of Vienna, Spitalgasse 23, Vienna, Austria&lt;/p>
+&lt;p>Corresponding to: Priv.-Doz. Dr. Kyra Borchhardt, Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, 1090 Vienna, Austria. Email: &lt;a href="mailto:kyra.borchhardt@meduniwien.ac.at">kyra.borchhardt@meduniwien.ac.at&lt;/a>.&lt;/p></description></item></channel></rss>

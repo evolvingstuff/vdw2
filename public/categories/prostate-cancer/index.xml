@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prostate Cancer on VitaminDWiki</title><link>/categories/prostate-cancer.html</link><description>Recent content in Prostate Cancer on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 20 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/categories/prostate-cancer/index.xml" rel="self" type="application/rss+xml"/><item><title>Surviving Prostate Cancer - Book</title><link>/posts/surviving-prostate-cancer-book.html</link><pubDate>Fri, 20 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/surviving-prostate-cancer-book.html</guid><description>&lt;h2 id="amazonhttpwwwamazoncompatrick-walshs-surviving-prostate-cancerdp1455504181refsr_1_1sbooksieutf8qid1344653599sr1-1keywordspatrickwalsh27sguidetosurvivingprostatecancer">&lt;a href="http://www.amazon.com/Patrick-Walshs-Surviving-Prostate-Cancer/dp/1455504181/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1344653599&amp;amp;sr=1-1&amp;amp;keywords=+Patrick+Walsh%27s+Guide+to+Surviving+Prostate+Cancer">Amazon&lt;/a>&lt;/h2>
+&lt;h3 id="dr-patrick-walshs-guide-to-surviving-prostate-cancer-by-patrick-c-walsh-and-janet-farrar-worthington-jun-19-2012-1129">Dr. Patrick Walsh&amp;rsquo;s Guide to Surviving Prostate Cancer by Patrick C. Walsh and Janet Farrar Worthington (Jun 19, 2012) $11.29&lt;/h3>
+&lt;p>3rd edition&lt;/p>
+&lt;p>Looking inside the book at Amazon finds Vitamin D mentioned 16 times&lt;/p>
+&lt;p>80 5 star reviews on Amazon&lt;/p>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+## [Amazon](http://www.amazon.com/Patrick-Walshs-Surviving-Prostate-Cancer/dp/1455504181/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1344653599&amp;amp;sr=1-1&amp;amp;keywords=+Patrick+Walsh%27s+Guide+to+Surviving+Prostate+Cancer)
+
+### Dr. Patrick Walsh&amp;#39;s Guide to Surviving Prostate Cancer by Patrick C. Walsh and Janet Farrar Worthington (Jun 19, 2012) $11.29
+
+3rd edition
+
+Looking inside the book at Amazon finds Vitamin D mentioned 16 times
+
+80 5 star reviews on Amazon
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!![http://www.amazon.com/Patrick-Walshs-Surviving-Prostate-Cancer/dp/1455504181/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1344653599&amp;amp;sr=1-1&amp;amp;keywords=+Patrick+Walsh%27s+Guide+to+Surviving+Prostate+Cancer|Amazon] `
+│ inner_content: `[http://www.amazon.com/Patrick-Walshs-Surviving-Prostate-Cancer/dp/1455504181/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1344653599&amp;amp;sr=1-1&amp;amp;keywords=+Patrick+Walsh%27s+Guide+to+Surviving+Prostate+Cancer|Amazon]`
+│ level: `2`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://www.amazon.com/Patrick-Walshs-Surviving-Prostate-Cancer/dp/1455504181/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1344653599&amp;amp;sr=1-1&amp;amp;keywords=+Patrick+Walsh%27s+Guide+to+Surviving+Prostate+Cancer|Amazon]`
+│ │ inner_content: `Amazon`
+│ │ url: `http://www.amazon.com/Patrick-Walshs-Surviving-Prostate-Cancer/dp/1455504181/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1344653599&amp;amp;sr=1-1&amp;amp;keywords=+Patrick+Walsh%27s+Guide+to+Surviving+Prostate+Cancer`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Amazon`
+│ │ │ inner_content: `Amazon`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!!Dr. Patrick Walsh&amp;#39;s Guide to Surviving Prostate Cancer by Patrick C. Walsh and Janet Farrar Worthington (Jun 19, 2012) $11.29`
+│ inner_content: `Dr. Patrick Walsh&amp;#39;s Guide to Surviving Prostate Cancer by Patrick C. Walsh and Janet Farrar Worthington (Jun 19, 2012) $11.29`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Dr. Patrick Walsh&amp;#39;s Guide to Surviving Prostate Cancer by Patrick C. Walsh and Janet Farrar Worthington (Jun 19, 2012) $11.29`
+│ │ inner_content: `Dr. Patrick Walsh&amp;#39;s Guide to Surviving Prostate Cancer by Patrick C. Walsh and Janet Farrar Worthington (Jun 19, 2012) $11.29`├── TextNode
+│ full_match: `\n3rd edition\n\nLooking inside the book at Amazon finds Vitamin D mentioned 16 times\n80 5 star reviews on Amazon`
+│ inner_content: `\n3rd edition\n\nLooking inside the book at Amazon finds Vitamin D mentioned 16 times\n80 5 star reviews on Amazon`
+
+Original Tiki:
+-------------
+!![http://www.amazon.com/Patrick-Walshs-Surviving-Prostate-Cancer/dp/1455504181/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1344653599&amp;amp;sr=1-1&amp;amp;keywords=+Patrick+Walsh%27s+Guide+to+Surviving+Prostate+Cancer|Amazon] 
+
+!!!Dr. Patrick Walsh&amp;#39;s Guide to Surviving Prostate Cancer by Patrick C. Walsh and Janet Farrar Worthington (Jun 19, 2012) $11.29
+3rd edition
+
+Looking inside the book at Amazon finds Vitamin D mentioned 16 times
+80 5 star reviews on Amazon
+&lt;/code>
+&lt;/pre></description></item><item><title>Low risk Prostate Cancer decreased with 4,000 IU of vitamin D</title><link>/posts/low-risk-prostate-cancer-decreased-with-4000-iu-of-vitamin-d.html</link><pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/low-risk-prostate-cancer-decreased-with-4000-iu-of-vitamin-d.html</guid><description>&lt;h4 id="results-in-a-decrease-of-positive-cores-at-repeat-biopsy-in-subjects-with-low-risk-prostate-cancer-under-active-surveillance">Results in a Decrease of Positive Cores at Repeat Biopsy in Subjects with Low-Risk Prostate Cancer under Active Surveillance&lt;/h4>
+&lt;p>The Journal of Clinical Endocrinology &amp;amp; Metabolism July 1, 2012 vol. 97 no. 7 2315-2324&lt;/p>
+&lt;p>David T. Marshall, Stephen J. Savage, Elizabeth Garrett-Mayer, Thomas E. Keane, Bruce W. Hollis, Ronald L. Horst, Linda H. Ambrose, Mark S. Kindy and Sebastiano Gattoni-Celli&lt;/p>
+&lt;p>Departments of Radiation Oncology (D.T.M., L.H.A., S.G.-C.), Urology (S.J.S., T.E.K.), Medicine (Biostatistics) (E.G.-M.), Pediatrics (B.W.H.), and Neurosciences (M.S.K.), Medical University of South Carolina, Charleston, South Carolina 29425; Ralph H. Johnson Veterans Affairs Medical Center (S.J.S., M.S.K., S.G.-C.), Charleston, South Carolina 29401; and Department of Animal Science (R.L.H.), Iowa State University, Ames, Iowa 50011&lt;/p></description></item></channel></rss>

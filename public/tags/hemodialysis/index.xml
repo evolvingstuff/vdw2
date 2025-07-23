@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hemodialysis on VitaminDWiki</title><link>/tags/hemodialysis.html</link><description>Recent content in Hemodialysis on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 30 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hemodialysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Aortic Calcification 85 percent more likely if vitamin D level lower than 29 ng</title><link>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</link><pubDate>Sat, 30 Jun 2012 00:00:00 +0000</pubDate><guid>/posts/aortic-calcification-85-percent-more-likely-if-vitamin-d-level-lower-than-29-ng.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
+│ inner_content: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`
+│ │ inner_content: `ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.`├── TextNode
+│ full_match: `\nKidney Research and Clinical Practice, Volume 31, Issue 2, Page A31\nMaria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni\n\nThe best biomarker of Vitamin D status is calcifediol `
+│ inner_content: `\nKidney Research and Clinical Practice, Volume 31, Issue 2, Page A31\nMaria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni\n\nThe best biomarker of Vitamin D status is calcifediol `├── LinkNode
+│ full_match: `[25(OH)D]`
+│ inner_content: `25(OH)D`
+│ url: `25(OH)D`
+│ children:
+│ ├── TextNode
+│ │ full_match: `25(OH)D`
+│ │ inner_content: `25(OH)D`├── TextNode
+│ full_match: `. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. \n\nBone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). \n- - - - - - - - - -\n`
+│ inner_content: `. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. \n\nBone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). \n- - - - - - - - - -\n`├── HeadingNode
+│ full_match: `!See also VitaminDWiki`
+│ inner_content: `See also VitaminDWiki`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]`
+│ │ inner_content: `Overview Cardiovascular and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1422`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Cardiovascular and Vitamin D`
+│ │ │ inner_content: `Overview Cardiovascular and Vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] `
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] `
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011]`
+│ │ inner_content: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1955`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
+│ │ │ inner_content: `24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D]`
+│ │ inner_content: `All items in Cardiovascular and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in Cardiovascular and Vitamin D`
+│ │ │ inner_content: `All items in Cardiovascular and Vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]`
+│ │ inner_content: `Arterial stiffness reduced with vitamin D intervention – June 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1787`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Arterial stiffness reduced with vitamin D intervention – June 2011`
+│ │ │ inner_content: `Arterial stiffness reduced with vitamin D intervention – June 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]`
+│ │ inner_content: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=376`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`
+│ │ │ inner_content: `Low vitamin D may contribute to Peripheral Arterial Disease – June 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]`
+│ │ inner_content: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2987`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`
+│ │ │ inner_content: `Stiff arteries in seniors associated with low vitamin D levels – July 2012`├── TextNode
+│ full_match: `\n- - - - - - - - - - - - - - - - - - - - -\nNo associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), \nwhile we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). \n\nFurthermore, we found a `
+│ inner_content: `\n- - - - - - - - - - - - - - - - - - - - -\nNo associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), \nwhile we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). \n\nFurthermore, we found a `├── BoldNode
+│ full_match: `__OR 1.85__`
+│ inner_content: `OR 1.85`
+│ children:
+│ ├── TextNode
+│ │ full_match: `OR 1.85`
+│ │ inner_content: `OR 1.85`├── TextNode
+│ full_match: ` (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. \n\nDuring follow-up (2.7±0.5 years) mortality was of 19.9%. \n\nNo association was found between mortality and calcifediol levels (p=0.5394). \n\nIn conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification `
+│ inner_content: ` (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. \n\nDuring follow-up (2.7±0.5 years) mortality was of 19.9%. \n\nNo association was found between mortality and calcifediol levels (p=0.5394). \n\nIn conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification `
+
+Original Tiki:
+-------------
+!!!ASSOCIATION OF CALCIFEDIOL LEVELS WITH VERTEBRAL FRACTURES, VASCULAR CALCIFICATIONS AND MORTALITY.
+Kidney Research and Clinical Practice, Volume 31, Issue 2, Page A31
+Maria Fusaro, Giovanni Tripepi, Marianna Noale, Angela D’Angelo, Agostino Naso, Davide Miozzo, Maurizio Gallieni
+
+The best biomarker of Vitamin D status is calcifediol [25(OH)D]. We investigated the relationship between serum calcifediol levels and vertebral fractures (VF), vascular calcifications (VC) and mortality in hemodialysis patients. Within a multicenter, cross-sectional study in 18 hospital based dialysis centers in Italy, we included 387 hemodialysis patients (143 F, 37% ; 244 M, 63%), mean age 64±14 (SD) years, median dialytic age 49 months, BMI 25± 4 Kg/m2. We determined total 25(OH)D using the LIASON® 25 OH Vitamin D kit (DiaSorin Inc., Stillwater MN, USA). We evaluated VF with a computerized analysis of scanned L-L vertebral X-rays (T4 to L5). Reduction of &amp;gt; 20% of vertebral body height was considered a VF, while reductions between 15% and 20% were considered borderline fractures (BF). Fracture severity was estimated as mild, moderate or severe (reduction: 20–25%, 25–40% or &amp;gt;40%, respectively). VC assessments were also centralized. Witteman’s method (Lancet, 1994) was used for blinded assessments in duplicate. VC were quantified by measuring the length of calcific deposits along the anterior and posterior wall of the aorta (mild 0.1-5 cm, moderate 5.1-10 cm and severe &amp;gt;10 cm). We also evaluated the presence or absence of calcifications of the iliac arteries in the same radiograph (mild 0.1-3 cm, moderate 3.1-5 cm and severe &amp;gt;5cm). Any differences in VC were resolved by consensus. Follow up was 2.7±0.5 years. 
+
+Bone markers were: Ca 9.15±0.68 mg/dl, P 4.8± 1.28 mg/dl, median ALP 83 U/L and median PTH 244 pg/ml. We found a median 25(OH)D level of 28.9 ng/ml. Nine ( 2.3%) patients had vitamin D deficiency (&amp;lt;10 ng/ml), 198 (51.2%) patients had vitamin D insufficiency (between 10-29.9 ng/ml) and 180 (46.5%) patients had normal levels ( &amp;gt;30 ng/ml). We found that 55% of patients had VF and 30.9% of patients had BF. Prevalence of VC was 80.6% (mild 20.1%, moderate 30.8%, severe 29.7%) in the aorta and 55,1% in the iliac arteries. Males had more VF than Females (60% versus 48%, P=0.019). 
+- - - - - - - - - -
+!See also VitaminDWiki
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1422|Overview Cardiovascular and Vitamin D]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1955|24X less Calcification of Aorta for PAD with modest level of vitamin D – Aug 2011] 
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=13&amp;amp;sort_mode=created_desc|All items in Cardiovascular and Vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=13{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1787|Arterial stiffness reduced with vitamin D intervention – June 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=376|Low vitamin D may contribute to Peripheral Arterial Disease – June 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2987|Stiff arteries in seniors associated with low vitamin D levels – July 2012]
+- - - - - - - - - - - - - - - - - - - - -
+No associations were found between VF and biochemical parameters including calcifediol levels (p=0.662), 
+while we found an association between low calcifediol levels and a higher prevalence of severe aortic calcifications (36.8 vs 28.2, p=0.0044). 
+
+Furthermore, we found a __OR 1.85__ (1.04-3.29 CI, p=0.0367) for Aortic Calcification in patients with calcifediol levels lower than the median value of 29 ng/ml. 
+
+During follow-up (2.7±0.5 years) mortality was of 19.9%. 
+
+No association was found between mortality and calcifediol levels (p=0.5394). 
+
+In conclusion, despite good control of bone and mineral metabolism parameters, hemodialysis patients showed high prevalence of VF and VC. Our study suggests that high calcifediol levels could be protective against progression of severe aortic calcification 
+&lt;/code>
+&lt;/pre></description></item></channel></rss>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vitamin A on VitaminDWiki</title><link>/tags/vitamin-a.html</link><description>Recent content in Vitamin A on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vitamin-a/index.xml" rel="self" type="application/rss+xml"/><item><title>Vitamin A and dioxin-like compounds in fish liver, etc may block vitamin D</title><link>/posts/vitamin-a-and-dioxin-like-compounds-in-fish-liver-etc-may-block-vitamin-d.html</link><pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-a-and-dioxin-like-compounds-in-fish-liver-etc-may-block-vitamin-d.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!!Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`
+│ inner_content: `Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`
+│ │ inner_content: `Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.`├── TextNode
+│ full_match: `\nMol Nutr Food Res. 2012 Mar;56(3):388-98. `
+│ inner_content: `\nMol Nutr Food Res. 2012 Mar;56(3):388-98. `├── DoiLinkNode
+│ full_match: `doi: 10.1002/mnfr.201100395.`
+│ inner_content: `10.1002/mnfr.201100395.`├── TextNode
+│ full_match: ` Epub 2012 Feb 8.\nBirgisdottir BE, Brantsaeter AL, Kvalem HE, Knutsen HK, Haugen M, Alexander J, Hetland RB, Aksnes L, Meltzer HM.\nDivision of Environmental Medicine, Norwegian Institute of Public Health, Oslo, Norway. bryndis.eva.birgisdottir@fhi.no\n\nSCOPE: Fish liver, fish liver oil, oily fish and seagull eggs have been major sources of vitamin D for the coastal population of Norway. They also provide dioxin and polychlorinated dioxin-like compounds (dl-compounds), which may interfere with vitamin D homeostasis. We investigated whether serum 25-hydroxyvitamin D (25(OH)D) might be compromised by concomitant intake of dl-compounds.\n\nMETHODS AND RESULTS: We studied 182 adults participating in the Norwegian Fish and Game Study. Participants who consumed fish liver and/or seagull eggs had higher dl-compound intake and blood concentrations than non-consumers (p &amp;lt; 0.001). \n\nVitamin D intake was higher (p &amp;lt; 0.001), whereas serum 25(OH)D was lower (p = 0.029) in consumers than in non-consumers. \n\nAmong non-consumers, vitamin D intake was associated with serum 25(OH)D (?=1.06; 95% CI: 0.48, 1.63). This association was weaker among consumers (? = 0.52; 95% CI: -0.05, 1.08), but strengthened when adjusted for retinol intake (? = 0.66; 95% CI: 0.12, 1.21). The association between vitamin D intake and serum 25(OH)D did not seem to be compromised by intake of dl-compounds.\n\nCONCLUSION: To secure adequate vitamin D status while keeping the intake of dioxins and dl-polychlorinated biphenyls low, a healthy diet should include both supplemental vitamin D and oily fish. \n`
+│ inner_content: ` Epub 2012 Feb 8.\nBirgisdottir BE, Brantsaeter AL, Kvalem HE, Knutsen HK, Haugen M, Alexander J, Hetland RB, Aksnes L, Meltzer HM.\nDivision of Environmental Medicine, Norwegian Institute of Public Health, Oslo, Norway. bryndis.eva.birgisdottir@fhi.no\n\nSCOPE: Fish liver, fish liver oil, oily fish and seagull eggs have been major sources of vitamin D for the coastal population of Norway. They also provide dioxin and polychlorinated dioxin-like compounds (dl-compounds), which may interfere with vitamin D homeostasis. We investigated whether serum 25-hydroxyvitamin D (25(OH)D) might be compromised by concomitant intake of dl-compounds.\n\nMETHODS AND RESULTS: We studied 182 adults participating in the Norwegian Fish and Game Study. Participants who consumed fish liver and/or seagull eggs had higher dl-compound intake and blood concentrations than non-consumers (p &amp;lt; 0.001). \n\nVitamin D intake was higher (p &amp;lt; 0.001), whereas serum 25(OH)D was lower (p = 0.029) in consumers than in non-consumers. \n\nAmong non-consumers, vitamin D intake was associated with serum 25(OH)D (?=1.06; 95% CI: 0.48, 1.63). This association was weaker among consumers (? = 0.52; 95% CI: -0.05, 1.08), but strengthened when adjusted for retinol intake (? = 0.66; 95% CI: 0.12, 1.21). The association between vitamin D intake and serum 25(OH)D did not seem to be compromised by intake of dl-compounds.\n\nCONCLUSION: To secure adequate vitamin D status while keeping the intake of dioxins and dl-polychlorinated biphenyls low, a healthy diet should include both supplemental vitamin D and oily fish. \n`├── BoldNode
+│ full_match: `__Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.__`
+│ inner_content: `Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.`
+│ │ inner_content: `Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.`├── TextNode
+│ full_match: `\n\nCopyright © 2012 WILEY-VCH Verlag GmbH &amp;amp; Co. KGaA, Weinheim.\n\nPMID: 22319024\n– – – – – – – – – – \n`
+│ inner_content: `\n\nCopyright © 2012 WILEY-VCH Verlag GmbH &amp;amp; Co. KGaA, Weinheim.\n\nPMID: 22319024\n– – – – – – – – – – \n`├── HeadingNode
+│ full_match: `!See also VitaminDWiki`
+│ inner_content: `See also VitaminDWiki`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]`
+│ │ inner_content: `Vitamin D needs some vitamin A, but not too much – Nov 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2208`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D needs some vitamin A, but not too much – Nov 2011`
+│ │ │ inner_content: `Vitamin D needs some vitamin A, but not too much – Nov 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
+│ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=583`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
+│ │ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]`
+│ │ inner_content: `Masterjohn on relationships between Vitamin A D and K – Dec 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1240`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Masterjohn on relationships between Vitamin A D and K – Dec 2010`
+│ │ │ inner_content: `Masterjohn on relationships between Vitamin A D and K – Dec 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]`
+│ │ inner_content: `Vitamin A and risk of prostate cancer – March 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1475`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin A and risk of prostate cancer – March 2011`
+│ │ │ inner_content: `Vitamin A and risk of prostate cancer – March 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]`
+│ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=583`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`
+│ │ │ inner_content: `Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]`
+│ │ inner_content: `Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1200`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010`
+│ │ │ inner_content: `Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]`
+│ │ inner_content: `Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3041`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012`
+│ │ │ inner_content: `Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]`
+│ │ inner_content: `Increased salt consumption decreased vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2737`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Increased salt consumption decreased vitamin D`
+│ │ │ inner_content: `Increased salt consumption decreased vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+decreases effectiveness of vitamin D by depleting [https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium] and [https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium] [https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]`
+│ inner_content: `decreases effectiveness of vitamin D by depleting [https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium] and [https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium] [https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `decreases effectiveness of vitamin D by depleting `
+│ │ inner_content: `decreases effectiveness of vitamin D by depleting `
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium]`
+│ │ inner_content: `Magnesium`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=947`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Magnesium`
+│ │ │ inner_content: `Magnesium`
+│ ├── TextNode
+│ │ full_match: ` and `
+│ │ inner_content: ` and `
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium]`
+│ │ inner_content: `Calcium`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1446`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Calcium`
+│ │ │ inner_content: `Calcium`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]`
+│ │ inner_content: `cofactors`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1270`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `cofactors`
+│ │ │ inner_content: `cofactors`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))`
+│ inner_content: `((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))`
+│ │ inner_content: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`
+│ │ page: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`
+│ │ │ inner_content: `Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A]`
+│ │ inner_content: `All items in category Vitamin A`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in category Vitamin A`
+│ │ │ inner_content: `All items in category Vitamin A`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!See also web`
+│ inner_content: `See also web`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also web`
+│ │ inner_content: `See also web`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia] __dioxin-like compounds__`
+│ inner_content: `[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia] __dioxin-like compounds__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia]`
+│ │ inner_content: `Wikipedia`
+│ │ url: `http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Wikipedia`
+│ │ │ inner_content: `Wikipedia`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__dioxin-like compounds__`
+│ │ inner_content: `dioxin-like compounds`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `dioxin-like compounds`
+│ │ │ inner_content: `dioxin-like compounds`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+are by-products of various industrial processes,`
+│ inner_content: `are by-products of various industrial processes,`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `are by-products of various industrial processes,`
+│ │ inner_content: `are by-products of various industrial processes,`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
+│ inner_content: `are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
+│ │ inner_content: `are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants`
+
+Original Tiki:
+-------------
+!!!!Fish liver and seagull eggs, vitamin D-rich foods with a shadow: results from the Norwegian Fish and Game Study.
+Mol Nutr Food Res. 2012 Mar;56(3):388-98. doi: 10.1002/mnfr.201100395. Epub 2012 Feb 8.
+Birgisdottir BE, Brantsaeter AL, Kvalem HE, Knutsen HK, Haugen M, Alexander J, Hetland RB, Aksnes L, Meltzer HM.
+Division of Environmental Medicine, Norwegian Institute of Public Health, Oslo, Norway. bryndis.eva.birgisdottir@fhi.no
+
+SCOPE: Fish liver, fish liver oil, oily fish and seagull eggs have been major sources of vitamin D for the coastal population of Norway. They also provide dioxin and polychlorinated dioxin-like compounds (dl-compounds), which may interfere with vitamin D homeostasis. We investigated whether serum 25-hydroxyvitamin D (25(OH)D) might be compromised by concomitant intake of dl-compounds.
+
+METHODS AND RESULTS: We studied 182 adults participating in the Norwegian Fish and Game Study. Participants who consumed fish liver and/or seagull eggs had higher dl-compound intake and blood concentrations than non-consumers (p &amp;lt; 0.001). 
+
+Vitamin D intake was higher (p &amp;lt; 0.001), whereas serum 25(OH)D was lower (p = 0.029) in consumers than in non-consumers. 
+
+Among non-consumers, vitamin D intake was associated with serum 25(OH)D (?=1.06; 95% CI: 0.48, 1.63). This association was weaker among consumers (? = 0.52; 95% CI: -0.05, 1.08), but strengthened when adjusted for retinol intake (? = 0.66; 95% CI: 0.12, 1.21). The association between vitamin D intake and serum 25(OH)D did not seem to be compromised by intake of dl-compounds.
+
+CONCLUSION: To secure adequate vitamin D status while keeping the intake of dioxins and dl-polychlorinated biphenyls low, a healthy diet should include both supplemental vitamin D and oily fish. 
+__Despite high nutrient content, dietary fish liver and seagull eggs should be restricted, due to dl-compounds and possible vitamin A-D antagonism.__
+
+Copyright © 2012 WILEY-VCH Verlag GmbH &amp;amp; Co. KGaA, Weinheim.
+
+PMID: 22319024
+– – – – – – – – – – 
+!See also VitaminDWiki
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2208|Vitamin D needs some vitamin A, but not too much – Nov 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1240|Masterjohn on relationships between Vitamin A D and K – Dec 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1475|Vitamin A and risk of prostate cancer – March 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=583|Vitamin A may thwart the ability of vitamin D to reduce risk of osteoporosis – June 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1200|Price and Masterjohn on Vitamin A Vitamin D and Vitamin K – 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3041|Vitamin D protects against lung cancer unless there is excess vitamin A – July 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2737|Increased salt consumption decreased vitamin D]
++decreases effectiveness of vitamin D by depleting [https://www.VitaminDWiki.com/tiki-index.php?page_id=947|Magnesium] and [https://www.VitaminDWiki.com/tiki-index.php?page_id=1446|Calcium] [https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|cofactors]
+*((Vitamin A serum levels of more than 2.2 micromols may interfere with vitamin D – April 2013))
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=118&amp;amp;sort_mode=created_desc|All items in category Vitamin A] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=118{SQL} items~~__
+!See also web
+*[http://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds|Wikipedia] __dioxin-like compounds__
++are by-products of various industrial processes,
++are commonly regarded as highly toxic compounds that are environmental pollutants and persistent organic pollutants
+&lt;/code>
+&lt;/pre></description></item><item><title>Vitamin D protects against lung cancer unless there is excess vitamin A</title><link>/posts/vitamin-d-protects-against-lung-cancer-unless-there-is-excess-vitamin-a.html</link><pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/vitamin-d-protects-against-lung-cancer-unless-there-is-excess-vitamin-a.html</guid><description>&lt;h3 id="serum-25-hydroxyvitamin-d-vitamin-a-and-lung-cancer-mortality-in-the-us-population-a-potential-nutrient-nutrient-interaction">Serum 25-hydroxyvitamin D, vitamin A, and lung cancer mortality in the US population: a potential nutrient-nutrient interaction.&lt;/h3>
+&lt;p>Cancer Causes Control. 2012 Jul 25.&lt;/p>
+&lt;p>Cheng TY, Neuhouser ML.&lt;/p>
+&lt;p>Public Health Sciences Division, Fred Hutchinson Cancer Research Center, 1100 Fairview Avenue North, M4B402, Seattle, WA, 98109-1024, USA, &lt;a href="mailto:tcheng@fhcrc.org">tcheng@fhcrc.org&lt;/a>.&lt;/p>
+&lt;p>OBJECTIVE: Excess vitamin A may interrupt vitamin D-mediated transcription of target genes. This study investigated whether serum 25-hydroxyvitamin D &lt;span>[25(OH)D]&lt;/span> concentrations were associated with lung cancer mortality, and whether this association varied by excess circulating vitamin A and vitamin A/?-carotene supplement use.&lt;/p></description></item></channel></rss>

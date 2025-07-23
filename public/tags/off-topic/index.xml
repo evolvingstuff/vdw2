@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Off Topic on VitaminDWiki</title><link>/tags/off-topic.html</link><description>Recent content in Off Topic on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 26 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/off-topic/index.xml" rel="self" type="application/rss+xml"/><item><title>Off topic: 55 million without health insurance: 26 states</title><link>/posts/off-topic-55-million-without-health-insurance-26-states.html</link><pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/off-topic-55-million-without-health-insurance-26-states.html</guid><description>&lt;p>There are a TOTAL of 55 million people living in the following states&lt;/p>
+&lt;p>&lt;a href="http://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population%20">wikipedia information July 2012&lt;/a>&lt;/p>
+&lt;p>Alaska&lt;/p>
+&lt;p>Arkansas&lt;/p>
+&lt;p>Connecticut&lt;/p>
+&lt;p>Delaware&lt;/p>
+&lt;p>Hawaii&lt;/p>
+&lt;p>Idaho&lt;/p>
+&lt;p>Iowa&lt;/p>
+&lt;p>Kansas&lt;/p>
+&lt;p>Kentucky&lt;/p>
+&lt;p>Maine&lt;/p>
+&lt;p>Mississippi&lt;/p>
+&lt;p>Montana&lt;/p>
+&lt;p>Nebraska&lt;/p>
+&lt;p>Nevada&lt;/p>
+&lt;p>New Hampshire&lt;/p>
+&lt;p>New Mexico&lt;/p>
+&lt;p>North Dakota&lt;/p>
+&lt;p>Oklahoma&lt;/p>
+&lt;p>Oregon&lt;/p>
+&lt;p>Rhode Island&lt;/p>
+&lt;p>South Dakota&lt;/p>
+&lt;p>Utah&lt;/p>
+&lt;p>Vermont&lt;/p>
+&lt;p>Washington, DC&lt;/p>
+&lt;p>West Virginia&lt;/p>
+&lt;p>Wyoming&lt;/p>
+&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+There are a TOTAL of 55 million people living in the following states 
+
+[wikipedia information July 2012](http://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population%20)
+
+Alaska
+
+Arkansas
+
+Connecticut
+
+Delaware
+
+Hawaii
+
+Idaho
+
+Iowa
+
+Kansas
+
+Kentucky
+
+Maine
+
+Mississippi
+
+Montana
+
+Nebraska
+
+Nevada
+
+New Hampshire
+
+New Mexico
+
+North Dakota
+
+Oklahoma
+
+Oregon
+
+Rhode Island
+
+South Dakota
+
+Utah
+
+Vermont
+
+Washington, DC
+
+West Virginia
+
+Wyoming
+
+
+
+AST Structure:
+-------------
+├── TextNode
+│ full_match: `There are a TOTAL of 55 million people living in the following states \n`
+│ inner_content: `There are a TOTAL of 55 million people living in the following states \n`├── LinkNode
+│ full_match: `[http://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population |wikipedia information July 2012]`
+│ inner_content: `wikipedia information July 2012`
+│ url: `http://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population `
+│ children:
+│ ├── TextNode
+│ │ full_match: `wikipedia information July 2012`
+│ │ inner_content: `wikipedia information July 2012`├── TextNode
+│ full_match: `\n\nAlaska\nArkansas\nConnecticut\nDelaware\nHawaii\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Mexico\nNorth Dakota\nOklahoma\nOregon\nRhode Island\nSouth Dakota\nUtah\nVermont\nWashington, DC\nWest Virginia\nWyoming\n`
+│ inner_content: `\n\nAlaska\nArkansas\nConnecticut\nDelaware\nHawaii\nIdaho\nIowa\nKansas\nKentucky\nMaine\nMississippi\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Mexico\nNorth Dakota\nOklahoma\nOregon\nRhode Island\nSouth Dakota\nUtah\nVermont\nWashington, DC\nWest Virginia\nWyoming\n`
+
+Original Tiki:
+-------------
+There are a TOTAL of 55 million people living in the following states 
+[http://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population |wikipedia information July 2012]
+
+ Alaska
+ Arkansas
+ Connecticut
+ Delaware
+ Hawaii
+ Idaho
+ Iowa
+ Kansas
+ Kentucky
+ Maine
+ Mississippi
+ Montana
+ Nebraska
+ Nevada
+ New Hampshire
+ New Mexico
+ North Dakota
+ Oklahoma
+ Oregon
+ Rhode Island
+ South Dakota
+ Utah
+ Vermont
+ Washington, DC
+ West Virginia
+ Wyoming
+
+&lt;/code>
+&lt;/pre></description></item><item><title>Off topic: Survey of medicine usage in Australia</title><link>/posts/off-topic-survey-of-medicine-usage-in-australia.html</link><pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/off-topic-survey-of-medicine-usage-in-australia.html</guid><description>&lt;h1 id="a-national-census-of-medicines-use-a-24-hour-snapshot-of-australians-aged-50-years-and-older">A national census of medicines use: a 24-hour snapshot of Australians aged 50 years and older&lt;/h1>
+&lt;p>Tessa K Morgan, Margaret Williamson, Marie Pirotta, Kay Stewart, Stephen P Myers and Joanne Barnes&lt;/p>
+&lt;p>Med J Aust 2012; 196 (1): 50-53.&lt;/p>
+&lt;p>Objective: To explore the current use of conventional and complementary medicines in Australians aged ? 50 years.&lt;/p>
+&lt;p>Design, setting and participants: Cross-sectional postal survey sent to a random sample of 4500 Australians aged ? 50 years between June 2009 and February 2010.&lt;/p></description></item><item><title>Off topic: 'War on Health' video by Garry Null focusing on the FDA</title><link>/posts/off-topic-war-on-health-video-by-garry-null-focusing-on-the-fda.html</link><pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/off-topic-war-on-health-video-by-garry-null-focusing-on-the-fda.html</guid><description>&lt;p>Review by &lt;a href="http://global-peace-timnolan7.blogspot.com/2012/07/war-on-health-fdas-cult-of-tyranny.html%20">Global Peace&lt;/a>&lt;/p>
+&lt;p>&amp;lsquo;War on Health&amp;rsquo; is the first documentary detailing and challenging the FDA agenda and its allegiance with the international Codex Alimentarius, which hopes to establish a monolithic food and health regime. &lt;strong>Betraying its founding mandate&lt;/strong> to assure drug, food and chemical safety in the interests of public health, the FDA today is a repressive bureaucracy serving pharmaceutical and agricultural greed and profits. Vaccines, medical devices, prescription drugs are fast tracked at alarming rates through the FDA at the expense of scientific oversight to assure their efficacy and safety. The result is hundreds of thousands premature deaths annually from pharmaceutical drugs, vaccines and medical devices and an epidemic of medical incompetence and fraud sanctioned by federal health officials.&lt;/p></description></item></channel></rss>

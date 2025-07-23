@@ -8,11 +8,469 @@
     "tiki_page_id": 3040,
     "date": "2012-07-25",
     "categories": [
-        "Vitamin D in Europe",
+        "Europe",
         "Infant-Child"
     ],
     "tags": [
+        "Europe",
         "Infant-Child",
-        "Vitamin D in Europe"
+        "bone",
+        "breastfed",
+        "child",
+        "childhood obesity",
+        "dosage",
+        "health risk",
+        "high dose",
+        "obesity",
+        "pregnancy",
+        "rickets",
+        "therapeutic intervention",
+        "vitamin d"
     ]
 }
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!!! £ 5,000 funding for nursery staff who run Vitamin D projects: Date of article: 25-Jul-12`
+│   inner_content: `£ 5,000 funding for nursery staff who run Vitamin D projects: Date of article: 25-Jul-12`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `£ 5,000 funding for nursery staff who run Vitamin D projects: Date of article: 25-Jul-12`
+│   │   inner_content: `£ 5,000 funding for nursery staff who run Vitamin D projects: Date of article: 25-Jul-12`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── LinkNode
+│   full_match: `[http://www.daynurseries.co.uk/news/article.cfm/id/1557577/5000-pounds-funding-for-nursery-staff-who-run-vitamin-d-projects|Article by: Sue Learner, News Editor]`
+│   inner_content: `Article by: Sue Learner, News Editor`
+│   url: `http://www.daynurseries.co.uk/news/article.cfm/id/1557577/5000-pounds-funding-for-nursery-staff-who-run-vitamin-d-projects`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Article by: Sue Learner, News Editor`
+│   │   inner_content: `Article by: Sue Learner, News Editor`├── TextNode
+│   full_match: `\n\nNursery staff who run projects that support vitamin supplements and the promotion of vitamin D intake in children under five, could be eligible for £5,000 grants.\n\nThe Feeding for Life Foundation (FfLF) has launched a Promoting Best Practice Grant Scheme to provide a total of £20,000 worth of funding for grass roots projects.\n\nThe issue of vitamin D deficiency has been placed back on the public health agenda as a result of the latest National Diet and Nutrition Survey (NDNS), which found toddlers are only achieving an average of 27 per cent of the recommended dietary intake of vitamin D from food sources.\n\nThe recent FfLF &#39;Mind the Gap&#39; report found 51 per cent of health care professionals and 74 per cent of parents surveyed were unaware of the Department of Health recommendations that all pregnant and breastfeeding women and children aged six months to five years should take a vitamin D supplement.\n\nIn response to the growing concern over poor vitamin D intake, the UK’s chief medical officers wrote to health care professionals to remind them of the importance of vitamin D supplementation and to highlight the groups most at risk of vitamin D deficiency.\n\nPinki Sahota, professor of nutrition and obesity at Leeds Metropolitan University and chair of the FfLF, said: &quot;The issue of vitamin D deficiency is becoming an increasing problem in the UK.\n\n&quot;This scheme aims to help health care professionals and early years professionals tackle this issue and share best practice, by funding initiatives that raise awareness of the importance of vitamin D supplementation amongst parents of young children.&quot;\n\nYou can find out further information on the Promoting Best Practice Grant Scheme on the Feeding for Life Foundation website.\n\nClosing dates for 2012 applications are Friday 14th September and Monday 31st December.\n- - - - - - - - - - - - - - - - - - - - - - \n`
+│   inner_content: `\n\nNursery staff who run projects that support vitamin supplements and the promotion of vitamin D intake in children under five, could be eligible for £5,000 grants.\n\nThe Feeding for Life Foundation (FfLF) has launched a Promoting Best Practice Grant Scheme to provide a total of £20,000 worth of funding for grass roots projects.\n\nThe issue of vitamin D deficiency has been placed back on the public health agenda as a result of the latest National Diet and Nutrition Survey (NDNS), which found toddlers are only achieving an average of 27 per cent of the recommended dietary intake of vitamin D from food sources.\n\nThe recent FfLF &#39;Mind the Gap&#39; report found 51 per cent of health care professionals and 74 per cent of parents surveyed were unaware of the Department of Health recommendations that all pregnant and breastfeeding women and children aged six months to five years should take a vitamin D supplement.\n\nIn response to the growing concern over poor vitamin D intake, the UK’s chief medical officers wrote to health care professionals to remind them of the importance of vitamin D supplementation and to highlight the groups most at risk of vitamin D deficiency.\n\nPinki Sahota, professor of nutrition and obesity at Leeds Metropolitan University and chair of the FfLF, said: &quot;The issue of vitamin D deficiency is becoming an increasing problem in the UK.\n\n&quot;This scheme aims to help health care professionals and early years professionals tackle this issue and share best practice, by funding initiatives that raise awareness of the importance of vitamin D supplementation amongst parents of young children.&quot;\n\nYou can find out further information on the Promoting Best Practice Grant Scheme on the Feeding for Life Foundation website.\n\nClosing dates for 2012 applications are Friday 14th September and Monday 31st December.\n- - - - - - - - - - - - - - - - - - - - - - \n`├── ColorNode
+│   full_match: `~~#090:__Nice to see some improvement in the UK vitamin D levels__~~`
+│   inner_content: `__Nice to see some improvement in the UK vitamin D levels__`
+│   attrs_dict:
+│   │   raw_content: #090
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__Nice to see some improvement in the UK vitamin D levels__`
+│   │   inner_content: `Nice to see some improvement in the UK vitamin D levels`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Nice to see some improvement in the UK vitamin D levels`
+│   │   │   inner_content: `Nice to see some improvement in the UK vitamin D levels`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!See also VitaminDWiki`
+│   inner_content: `See also VitaminDWiki`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]`
+│   │   inner_content: `Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1866`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D insufficiency in UK youths – `
+│   │   │   inner_content: `Vitamin D insufficiency in UK youths – `
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#F00:37X more likely if dark skin~~`
+│   │   │   inner_content: `37X more likely if dark skin`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #F00
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `37X more likely if dark skin`
+│   │   │   │   inner_content: `37X more likely if dark skin`
+│   │   ├── TextNode
+│   │   │   full_match: ` – July 2011`
+│   │   │   inner_content: ` – July 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=12&amp;sort_mode=created_desc|All items in category Before, During and After Pregnancy] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL} items~~__`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=12&amp;sort_mode=created_desc|All items in category Before, During and After Pregnancy] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL} items~~__`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=12&amp;sort_mode=created_desc|All items in category Before, During and After Pregnancy]`
+│   │   inner_content: `All items in category Before, During and After Pregnancy`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=12&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items in category Before, During and After Pregnancy`
+│   │   │   inner_content: `All items in category Before, During and After Pregnancy`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL} items~~__`
+│   │   inner_content: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL} items~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]`
+│   │   inner_content: `5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2796`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012`
+│   │   │   inner_content: `5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2623|Infants lacking vitamin D supplementation were 19X more likely to be deficient – April 2012]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2623|Infants lacking vitamin D supplementation were 19X more likely to be deficient – April 2012]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2623|Infants lacking vitamin D supplementation were 19X more likely to be deficient – April 2012]`
+│   │   inner_content: `Infants lacking vitamin D supplementation were 19X more likely to be deficient – April 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2623`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Infants lacking vitamin D supplementation were 19X more likely to be deficient – April 2012`
+│   │   │   inner_content: `Infants lacking vitamin D supplementation were 19X more likely to be deficient – April 2012`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1757|Recommend 100 IU of vitamin D per kg of infant weight in Poland – July 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1757|Recommend 100 IU of vitamin D per kg of infant weight in Poland – July 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1757|Recommend 100 IU of vitamin D per kg of infant weight in Poland – July 2011]`
+│   │   inner_content: `Recommend 100 IU of vitamin D per kg of infant weight in Poland – July 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1757`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Recommend 100 IU of vitamin D per kg of infant weight in Poland – July 2011`
+│   │   │   inner_content: `Recommend 100 IU of vitamin D per kg of infant weight in Poland – July 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2459|Death of Babies in UK due to vitamin D deficiency – Jan 2012] Dr. Gillie`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2459|Death of Babies in UK due to vitamin D deficiency – Jan 2012] Dr. Gillie`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2459|Death of Babies in UK due to vitamin D deficiency – Jan 2012]`
+│   │   inner_content: `Death of Babies in UK due to vitamin D deficiency – Jan 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2459`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Death of Babies in UK due to vitamin D deficiency – Jan 2012`
+│   │   │   inner_content: `Death of Babies in UK due to vitamin D deficiency – Jan 2012`
+│   ├── TextNode
+│   │   full_match: ` Dr. Gillie`
+│   │   inner_content: ` Dr. Gillie`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=22&amp;sort_mode=created_desc|All items in category Rickets and vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL} items~~__`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=22&amp;sort_mode=created_desc|All items in category Rickets and vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL} items~~__`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=22&amp;sort_mode=created_desc|All items in category Rickets and vitamin D]`
+│   │   inner_content: `All items in category Rickets and vitamin D`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=22&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items in category Rickets and vitamin D`
+│   │   │   inner_content: `All items in category Rickets and vitamin D`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL} items~~__`
+│   │   inner_content: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL} items~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]`
+│   │   inner_content: `Black Sudanese children 350X more likely to have rickets than other Australians – April 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2602`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Black Sudanese children 350X more likely to have rickets than other Australians – April 2012`
+│   │   │   inner_content: `Black Sudanese children 350X more likely to have rickets than other Australians – April 2012`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=109sort_mode=created_desc|All items in category Infant-Child and Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL} items~~__`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=109sort_mode=created_desc|All items in category Infant-Child and Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL} items~~__`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=109sort_mode=created_desc|All items in category Infant-Child and Vitamin D]`
+│   │   inner_content: `All items in category Infant-Child and Vitamin D`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=109sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items in category Infant-Child and Vitamin D`
+│   │   │   inner_content: `All items in category Infant-Child and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL} items~~__`
+│   │   inner_content: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL} items~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1829|FOODLets or Sprinkles might increase vitamin D in children]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1829|FOODLets or Sprinkles might increase vitamin D in children]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1829|FOODLets or Sprinkles might increase vitamin D in children]`
+│   │   inner_content: `FOODLets or Sprinkles might increase vitamin D in children`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1829`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `FOODLets or Sprinkles might increase vitamin D in children`
+│   │   │   inner_content: `FOODLets or Sprinkles might increase vitamin D in children`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1369|Chief UK Medical Officer recommends only 280 IU for children - Jan 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1369|Chief UK Medical Officer recommends only 280 IU for children - Jan 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1369|Chief UK Medical Officer recommends only 280 IU for children - Jan 2011]`
+│   │   inner_content: `Chief UK Medical Officer recommends only 280 IU for children - Jan 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1369`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Chief UK Medical Officer recommends only 280 IU for children - Jan 2011`
+│   │   │   inner_content: `Chief UK Medical Officer recommends only 280 IU for children - Jan 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012] which has the following`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012] which has the following`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012]`
+│   │   inner_content: `UK pediatricians have a lot to learn about vitamin D – May 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2797`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `UK pediatricians have a lot to learn about vitamin D – May 2012`
+│   │   │   inner_content: `UK pediatricians have a lot to learn about vitamin D – May 2012`
+│   ├── TextNode
+│   │   full_match: ` which has the following`
+│   │   inner_content: ` which has the following`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Identify additional groups of children who are also at high risk, not just dark skin (e.g. excess fat)`
+│   inner_content: `Identify additional groups of children who are also at high risk, not just dark skin (e.g. excess fat)`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Identify additional groups of children who are also at high risk, not just dark skin (e.g. excess fat)`
+│   │   inner_content: `Identify additional groups of children who are also at high risk, not just dark skin (e.g. excess fat)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Test for a rare allergic reaction to vitamin D before giving high doses.`
+│   inner_content: `Test for a rare allergic reaction to vitamin D before giving high doses.`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Test for a rare allergic reaction to vitamin D before giving high doses.`
+│   │   inner_content: `Test for a rare allergic reaction to vitamin D before giving high doses.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Dose size should increase with the number of high risk categories a child is in`
+│   inner_content: `Dose size should increase with the number of high risk categories a child is in`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Dose size should increase with the number of high risk categories a child is in`
+│   │   inner_content: `Dose size should increase with the number of high risk categories a child is in`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Also provide some cofactors, not just vitamin D`
+│   inner_content: `Also provide some cofactors, not just vitamin D`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Also provide some cofactors, not just vitamin D`
+│   │   inner_content: `Also provide some cofactors, not just vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Followup with maintenance doses after the loading dose.`
+│   inner_content: `Followup with maintenance doses after the loading dose.`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Followup with maintenance doses after the loading dose.`
+│   │   inner_content: `Followup with maintenance doses after the loading dose.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=71|Scotland and Vitamin D]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=71|Scotland and Vitamin D]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=71|Scotland and Vitamin D]`
+│   │   inner_content: `Scotland and Vitamin D`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=71`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Scotland and Vitamin D`
+│   │   │   inner_content: `Scotland and Vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3581|UVB added in classroom reduced cavities, increased height, increased academics. etc] probably great in day care as well`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3581|UVB added in classroom reduced cavities, increased height, increased academics. etc] probably great in day care as well`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3581|UVB added in classroom reduced cavities, increased height, increased academics. etc]`
+│   │   inner_content: `UVB added in classroom reduced cavities, increased height, increased academics. etc`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3581`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `UVB added in classroom reduced cavities, increased height, increased academics. etc`
+│   │   │   inner_content: `UVB added in classroom reduced cavities, increased height, increased academics. etc`
+│   ├── TextNode
+│   │   full_match: ` probably great in day care as well`
+│   │   inner_content: ` probably great in day care as well`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+ perhaps less than $1,000 installed UVB to reduce infections, colds, etc. `
+│   inner_content: ` perhaps less than $1,000 installed UVB to reduce infections, colds, etc. `
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `perhaps less than $1,000 installed UVB to reduce infections, colds, etc. `
+│   │   inner_content: `perhaps less than $1,000 installed UVB to reduce infections, colds, etc. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Providing UVB to all is probably much easier than trying to give vitamin D to young children`
+│   inner_content: `Providing UVB to all is probably much easier than trying to give vitamin D to young children`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Providing UVB to all is probably much easier than trying to give vitamin D to young children`
+│   │   inner_content: `Providing UVB to all is probably much easier than trying to give vitamin D to young children`
+
+Original Tiki:
+-------------
+!!!! £ 5,000 funding for nursery staff who run Vitamin D projects: Date of article: 25-Jul-12
+[http://www.daynurseries.co.uk/news/article.cfm/id/1557577/5000-pounds-funding-for-nursery-staff-who-run-vitamin-d-projects|Article by: Sue Learner, News Editor]
+
+Nursery staff who run projects that support vitamin supplements and the promotion of vitamin D intake in children under five, could be eligible for £5,000 grants.
+
+The Feeding for Life Foundation (FfLF) has launched a Promoting Best Practice Grant Scheme to provide a total of £20,000 worth of funding for grass roots projects.
+
+The issue of vitamin D deficiency has been placed back on the public health agenda as a result of the latest National Diet and Nutrition Survey (NDNS), which found toddlers are only achieving an average of 27 per cent of the recommended dietary intake of vitamin D from food sources.
+
+The recent FfLF &#39;Mind the Gap&#39; report found 51 per cent of health care professionals and 74 per cent of parents surveyed were unaware of the Department of Health recommendations that all pregnant and breastfeeding women and children aged six months to five years should take a vitamin D supplement.
+
+In response to the growing concern over poor vitamin D intake, the UK’s chief medical officers wrote to health care professionals to remind them of the importance of vitamin D supplementation and to highlight the groups most at risk of vitamin D deficiency.
+
+Pinki Sahota, professor of nutrition and obesity at Leeds Metropolitan University and chair of the FfLF, said: &quot;The issue of vitamin D deficiency is becoming an increasing problem in the UK.
+
+&quot;This scheme aims to help health care professionals and early years professionals tackle this issue and share best practice, by funding initiatives that raise awareness of the importance of vitamin D supplementation amongst parents of young children.&quot;
+
+You can find out further information on the Promoting Best Practice Grant Scheme on the Feeding for Life Foundation website.
+
+Closing dates for 2012 applications are Friday 14th September and Monday 31st December.
+- - - - - - - - - - - - - - - - - - - - - - 
+~~#090:__Nice to see some improvement in the UK vitamin D levels__~~
+
+!See also VitaminDWiki
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1866|Vitamin D insufficiency in UK youths – ~~#F00:37X more likely if dark skin~~ – July 2011]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=12&amp;sort_mode=created_desc|All items in category Before, During and After Pregnancy] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=12{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2796|5 out of 6 UK dark skinned kids who were vitamin D deficient had no symptoms – May 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2623|Infants lacking vitamin D supplementation were 19X more likely to be deficient – April 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1757|Recommend 100 IU of vitamin D per kg of infant weight in Poland – July 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2459|Death of Babies in UK due to vitamin D deficiency – Jan 2012] Dr. Gillie
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=22&amp;sort_mode=created_desc|All items in category Rickets and vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=22{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2602|Black Sudanese children 350X more likely to have rickets than other Australians – April 2012]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=109sort_mode=created_desc|All items in category Infant-Child and Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=109{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1829|FOODLets or Sprinkles might increase vitamin D in children]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1369|Chief UK Medical Officer recommends only 280 IU for children - Jan 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2797|UK pediatricians have a lot to learn about vitamin D – May 2012] which has the following
++Identify additional groups of children who are also at high risk, not just dark skin (e.g. excess fat)
++Test for a rare allergic reaction to vitamin D before giving high doses.
++Dose size should increase with the number of high risk categories a child is in
++Also provide some cofactors, not just vitamin D
++Followup with maintenance doses after the loading dose.
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=71|Scotland and Vitamin D]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3581|UVB added in classroom reduced cavities, increased height, increased academics. etc] probably great in day care as well
++ perhaps less than $1,000 installed UVB to reduce infections, colds, etc. 
++Providing UVB to all is probably much easier than trying to give vitamin D to young children
+</code>
+</pre>

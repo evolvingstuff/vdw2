@@ -3,8 +3,10 @@
     {{ $paginator := .Paginate .Pages }}
     {{ range $paginator.Pages }}
         <article>
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <time>{{ .Date.Format "January 2, 2006" }}</time>
+            <div class="post-header">
+                <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <span class="post-date">{{ .Date.Format "January 2006" }}</span>
+            </div>
         </article>
     {{ end }}
     

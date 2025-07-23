@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Statins on VitaminDWiki</title><link>/tags/statins.html</link><description>Recent content in Statins on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 11 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/statins/index.xml" rel="self" type="application/rss+xml"/><item><title>Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011</title><link>/posts/seniors-like-everyone-else-need-vitamin-d-and-should-avoid-sunburns-2011.html</link><pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/seniors-like-everyone-else-need-vitamin-d-and-should-avoid-sunburns-2011.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`
+│ inner_content: `Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`
+│ │ inner_content: `Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?`├── TextNode
+│ full_match: `\nGlossmann H.\nGerontology. 2011;57(4):350-3. Epub 2010 Dec 22.\nInstitute for Biochemical Pharmacology, University of Innsbruck, Innsbruck, Austria. Hartmut.Glossmann@i-med.ac.at\n\nThere is mounting concern about vitamin D insufficiency, especially in the ageing population. Increases in indoor lifestyle, obesity, car travel, clothing habits, the use of photo-protective makeup, and campaigns driven by dermatologists, governments, and the cosmetic industry to avoid or protect against the sun as much as possible are contributing to this trend. \n\nIn a recent article in Gerontology, Barysch et al. `
+│ inner_content: `\nGlossmann H.\nGerontology. 2011;57(4):350-3. Epub 2010 Dec 22.\nInstitute for Biochemical Pharmacology, University of Innsbruck, Innsbruck, Austria. Hartmut.Glossmann@i-med.ac.at\n\nThere is mounting concern about vitamin D insufficiency, especially in the ageing population. Increases in indoor lifestyle, obesity, car travel, clothing habits, the use of photo-protective makeup, and campaigns driven by dermatologists, governments, and the cosmetic industry to avoid or protect against the sun as much as possible are contributing to this trend. \n\nIn a recent article in Gerontology, Barysch et al. `├── LinkNode
+│ full_match: `[1]`
+│ inner_content: `1`
+│ url: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `1`
+│ │ inner_content: `1`├── TextNode
+│ full_match: ` recommend that the ageing population avoid any &amp;#39;intentional&amp;#39; UV radiation as well as &amp;#39;minimize sun exposure&amp;#39; based on known dangers of developing skin cancer. They warn that &amp;#39;studies with vitamin D supplements reported increased risks of prostate and esophagus cancer as well as atopy in childhood&amp;#39; and concluded that &amp;#39;adequate levels of vitamin D are essential for the elderly&amp;#39;, but do not suggest which level is optimal. I will argue that the ageing population should keep their serum 25-(OH)-vitamin D(3) (25-(OH)-D) levels in the 75-100 nmol/l range. An oral cholecalciferol intake of ?2,000 IU/day is recommended as a supplement throughout the year for those who cannot enjoy the sun in summer or only during &amp;#39;vitamin D winter&amp;#39; for the others.\n\nCopyright © 2010 S. Karger AG, Basel.\n\nPMID: 21196703\n`
+│ inner_content: ` recommend that the ageing population avoid any &amp;#39;intentional&amp;#39; UV radiation as well as &amp;#39;minimize sun exposure&amp;#39; based on known dangers of developing skin cancer. They warn that &amp;#39;studies with vitamin D supplements reported increased risks of prostate and esophagus cancer as well as atopy in childhood&amp;#39; and concluded that &amp;#39;adequate levels of vitamin D are essential for the elderly&amp;#39;, but do not suggest which level is optimal. I will argue that the ageing population should keep their serum 25-(OH)-vitamin D(3) (25-(OH)-D) levels in the 75-100 nmol/l range. An oral cholecalciferol intake of ?2,000 IU/day is recommended as a supplement throughout the year for those who cannot enjoy the sun in summer or only during &amp;#39;vitamin D winter&amp;#39; for the others.\n\nCopyright © 2010 S. Karger AG, Basel.\n\nPMID: 21196703\n`├── HeadingNode
+│ full_match: `\n!!Interesting statements in the paper`
+│ inner_content: `Interesting statements in the paper`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Interesting statements in the paper`
+│ │ inner_content: `Interesting statements in the paper`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`
+│ inner_content: `Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`
+│ │ inner_content: `Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation [15]`
+│ inner_content: `The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation [15]`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation `
+│ │ inner_content: `The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation `
+│ ├── LinkNode
+│ │ full_match: `[15]`
+│ │ inner_content: `15`
+│ │ url: `15`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `15`
+│ │ │ inner_content: `15`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`
+│ inner_content: `. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`
+│ │ inner_content: `. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`
+│ inner_content: `. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`
+│ │ inner_content: `. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`
+│ inner_content: `’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`
+│ │ inner_content: `’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Are your chances of dying – compared to a population without BCC or SCC – better or worse? `
+│ inner_content: `Are your chances of dying – compared to a population without BCC or SCC – better or worse? `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Are your chances of dying – compared to a population without BCC or SCC – better or worse? `
+│ │ inner_content: `Are your chances of dying – compared to a population without BCC or SCC – better or worse? `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+The answer is surprising and unexpected: `
+│ inner_content: `The answer is surprising and unexpected: `
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The answer is surprising and unexpected: `
+│ │ inner_content: `The answer is surprising and unexpected: `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`
+│ inner_content: `you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`
+│ │ inner_content: `you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)`├── TextNode
+│ full_match: `\n– – – – – – – – \n`
+│ inner_content: `\n– – – – – – – – \n`├── HeadingNode
+│ full_match: `!See also VitaminDWiki`
+│ inner_content: `See also VitaminDWiki`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n(all of the following are on the VitaminDWiki, but do not have time to make all of the hyperlinks)\n`
+│ inner_content: `\n(all of the following are on the VitaminDWiki, but do not have time to make all of the hyperlinks)\n`├── ListItemNode
+│ full_match: `*Seniors need 3X as much time in the sun to get same amount of vitamin D`
+│ inner_content: `Seniors need 3X as much time in the sun to get same amount of vitamin D`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Seniors need 3X as much time in the sun to get same amount of vitamin D`
+│ │ inner_content: `Seniors need 3X as much time in the sun to get same amount of vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Need about 2X more if overweight`
+│ inner_content: `Need about 2X more if overweight`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Need about 2X more if overweight`
+│ │ inner_content: `Need about 2X more if overweight`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Various anti-oxidants reduce the chance of sunburns`
+│ inner_content: `Various anti-oxidants reduce the chance of sunburns`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Various anti-oxidants reduce the chance of sunburns`
+│ │ inner_content: `Various anti-oxidants reduce the chance of sunburns`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Maximize the amount of vitamin D while minimizing the chance of sunburn `
+│ inner_content: `Maximize the amount of vitamin D while minimizing the chance of sunburn `
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Maximize the amount of vitamin D while minimizing the chance of sunburn `
+│ │ inner_content: `Maximize the amount of vitamin D while minimizing the chance of sunburn `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+by spending a small amount of time out in the hot sun with a minimum of clothing.`
+│ inner_content: `by spending a small amount of time out in the hot sun with a minimum of clothing.`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `by spending a small amount of time out in the hot sun with a minimum of clothing.`
+│ │ inner_content: `by spending a small amount of time out in the hot sun with a minimum of clothing.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Perhaps having enough vitamin D reduces chance of sunburning`
+│ inner_content: `Perhaps having enough vitamin D reduces chance of sunburning`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Perhaps having enough vitamin D reduces chance of sunburning`
+│ │ inner_content: `Perhaps having enough vitamin D reduces chance of sunburning`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun] _~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun] _~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun]`
+│ │ inner_content: ` All items in Noontime Sun`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in Noontime Sun`
+│ │ │ inner_content: `All items in Noontime Sun`
+│ ├── TextNode
+│ │ full_match: ` _`
+│ │ inner_content: ` _`
+│ ├── ColorNode
+│ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~`
+│ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items`
+│ │ attrs_dict:
+│ │ │ raw_content: #00F
+│ │ children:
+│ │ ├── SqlNode
+│ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL}`
+│ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ db: &amp;gt;vitamind
+│ │ ├── TextNode
+│ │ │ full_match: ` items`
+│ │ │ inner_content: ` items`
+│ ├── TextNode
+│ │ full_match: `__`
+│ │ inner_content: `__`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]`
+│ │ inner_content: `Overview Suntans melanoma and vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1462`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Suntans melanoma and vitamin D`
+│ │ │ inner_content: `Overview Suntans melanoma and vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]`
+│ │ inner_content: `Overview Seniors and Vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=28`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Overview Seniors and Vitamin D`
+│ │ │ inner_content: `Overview Seniors and Vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki] 32 items as of May 2013`
+│ inner_content: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki] 32 items as of May 2013`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki]`
+│ │ inner_content: ` Search for Glossman on VitaminDWiki`
+│ │ url: `https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Search for Glossman on VitaminDWiki`
+│ │ │ inner_content: `Search for Glossman on VitaminDWiki`
+│ ├── TextNode
+│ │ full_match: ` 32 items as of May 2013`
+│ │ inner_content: ` 32 items as of May 2013`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))`
+│ inner_content: `((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))`
+│ │ inner_content: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`
+│ │ page: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`
+│ │ │ inner_content: `Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))`
+│ inner_content: `((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))`
+│ │ inner_content: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`
+│ │ page: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`
+│ │ │ inner_content: `The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))`
+│ inner_content: `((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))`
+│ │ inner_content: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`
+│ │ page: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`
+│ │ │ inner_content: `Nice Overview of Vitamin D in 64 slides - Glossmann 2013`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011] a subsequent paper by Dr. Glossmann`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011] a subsequent paper by Dr. Glossmann`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011]`
+│ │ inner_content: `Pharmacology of vitamin D - April 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2269`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Pharmacology of vitamin D - April 2011`
+│ │ │ inner_content: `Pharmacology of vitamin D - April 2011`
+│ ├── TextNode
+│ │ full_match: ` a subsequent paper by Dr. Glossmann`
+│ │ inner_content: ` a subsequent paper by Dr. Glossmann`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough] which has the following graphic`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough] which has the following graphic`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough]`
+│ │ inner_content: `No – 10 minutes per day of sun-UVB is NOT enough`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1689`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `No – 10 minutes per day of sun-UVB is NOT enough`
+│ │ │ inner_content: `No – 10 minutes per day of sun-UVB is NOT enough`
+│ ├── TextNode
+│ │ full_match: ` which has the following graphic`
+│ │ inner_content: ` which has the following graphic`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ImgBlockNode
+│ full_match: `{IMG(fileId=&amp;quot;2105&amp;quot; max =&amp;quot;700&amp;quot;)}{IMG}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: fileId=&amp;quot;2105&amp;quot; max =&amp;quot;700&amp;quot;
+│ │ fileId: 2105
+│ │ max: 700
+
+Original Tiki:
+-------------
+!Vitamin D, UV, and skin cancer in the elderly: to expose or not to expose?
+Glossmann H.
+Gerontology. 2011;57(4):350-3. Epub 2010 Dec 22.
+Institute for Biochemical Pharmacology, University of Innsbruck, Innsbruck, Austria. Hartmut.Glossmann@i-med.ac.at
+
+There is mounting concern about vitamin D insufficiency, especially in the ageing population. Increases in indoor lifestyle, obesity, car travel, clothing habits, the use of photo-protective makeup, and campaigns driven by dermatologists, governments, and the cosmetic industry to avoid or protect against the sun as much as possible are contributing to this trend. 
+
+In a recent article in Gerontology, Barysch et al. [1] recommend that the ageing population avoid any &amp;#39;intentional&amp;#39; UV radiation as well as &amp;#39;minimize sun exposure&amp;#39; based on known dangers of developing skin cancer. They warn that &amp;#39;studies with vitamin D supplements reported increased risks of prostate and esophagus cancer as well as atopy in childhood&amp;#39; and concluded that &amp;#39;adequate levels of vitamin D are essential for the elderly&amp;#39;, but do not suggest which level is optimal. I will argue that the ageing population should keep their serum 25-(OH)-vitamin D(3) (25-(OH)-D) levels in the 75-100 nmol/l range. An oral cholecalciferol intake of ?2,000 IU/day is recommended as a supplement throughout the year for those who cannot enjoy the sun in summer or only during &amp;#39;vitamin D winter&amp;#39; for the others.
+
+Copyright © 2010 S. Karger AG, Basel.
+
+PMID: 21196703
+
+!!Interesting statements in the paper
+*Intense (with sunburns) and intermittent (vacation or weekend) UVR exposure, especially in early childhood, predispose to MM
+*The MM risk of the trunk and limbs increases with a higher socioeconomic status (more recreational, intermittent sun exposure) but is surprisingly largely uninfluenced by latitude and ambient UV-B radiation [15]
+*. . the incidence has been rising continuously since as early as 1940, but this increase has mainly occurred in indoor but not outdoor workers. . .
+*. .higher 25-(OH)-D levels at the time of diagnosis are associated with both thinner tumors and better survival . . .
+*’Nitric oxide production in the skin is increased at the same time by UV-A, which lowers the system blood pressure, indicating that there are many activities of natural sunlight extending beyond vitamin D
+*Are your chances of dying – compared to a population without BCC or SCC – better or worse? 
++The answer is surprising and unexpected: 
++you are going to live longer, by ~9%, if you have been diagnosed with a BCC based on a 10–year mortality rate ratio (MRR = 0.91)
+– – – – – – – – 
+!See also VitaminDWiki
+(all of the following are on the VitaminDWiki, but do not have time to make all of the hyperlinks)
+*Seniors need 3X as much time in the sun to get same amount of vitamin D
+*Need about 2X more if overweight
+*Various anti-oxidants reduce the chance of sunburns
+*Maximize the amount of vitamin D while minimizing the chance of sunburn 
++by spending a small amount of time out in the hot sun with a minimum of clothing.
+*Perhaps having enough vitamin D reduces chance of sunburning
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=9&amp;amp;sort_mode=created_desc| All items in Noontime Sun] _~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=9{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1462|Overview Suntans melanoma and vitamin D]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=28|Overview Seniors and Vitamin D]
+*[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;amp;oe=UTF-8&amp;amp;ie=UTF-8&amp;amp;btnG=Google+Search&amp;amp;googles.x=0&amp;amp;googles.y=0&amp;amp;q=glossmann&amp;amp;domains=VitaminDWiki.com&amp;amp;sitesearch=VitaminDWiki.com| Search for Glossman on VitaminDWiki] 32 items as of May 2013
+*((Seniors, like everyone else, need vitamin D and should avoid sunburns – 2011))
+*((The statin Crestor dramatically increases levels of vitamin D in the blood – Jan 2012))
+*((Nice Overview of Vitamin D in 64 slides - Glossmann 2013))
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2269|Pharmacology of vitamin D - April 2011] a subsequent paper by Dr. Glossmann
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1689|No – 10 minutes per day of sun-UVB is NOT enough] which has the following graphic
+{IMG(fileId=&amp;quot;2105&amp;quot; max =&amp;quot;700&amp;quot;)}{IMG}
+&lt;/code>
+&lt;/pre></description></item></channel></rss>

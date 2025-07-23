@@ -11,6 +11,383 @@
         "Breathing"
     ],
     "tags": [
-        "Breathing"
+        "Breathing",
+        "blood levels",
+        "bone",
+        "bone loss",
+        "breathing",
+        "child",
+        "childhood obesity",
+        "childhood pneumonia",
+        "depression",
+        "dosage",
+        "health risk",
+        "mood disorders",
+        "obesity",
+        "osteoporosis",
+        "pneumonia",
+        "smoking",
+        "vitamin d",
+        "vitamin d blood test"
     ]
 }
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!Chronic Obstructive Pulmonary Disease Is Associated with Low Levels of Vitamin D`
+│   inner_content: `Chronic Obstructive Pulmonary Disease Is Associated with Low Levels of Vitamin D`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chronic Obstructive Pulmonary Disease Is Associated with Low Levels of Vitamin D`
+│   │   inner_content: `Chronic Obstructive Pulmonary Disease Is Associated with Low Levels of Vitamin D`├── TextNode
+│   full_match: `\nLouise Jeanette Pauline Persson 1*, Marianne Aanerud 1, Pieter Sicco Hiemstra 3, Jon Andrew Hardie 1,2, Per Sigvald Bakke 2, Tomas Mikal Lind Eagan 1,2\n1 Department of Thoracic Medicine, Haukeland University Hospital, Bergen, Norway, \n2 Institute of Medicine, University of Bergen, Bergen, Norway, \n3 Department of Pulmonology, Leiden University Medical Center, Leiden, The Netherlands\n`
+│   inner_content: `\nLouise Jeanette Pauline Persson 1*, Marianne Aanerud 1, Pieter Sicco Hiemstra 3, Jon Andrew Hardie 1,2, Per Sigvald Bakke 2, Tomas Mikal Lind Eagan 1,2\n1 Department of Thoracic Medicine, Haukeland University Hospital, Bergen, Norway, \n2 Institute of Medicine, University of Bergen, Bergen, Norway, \n3 Department of Pulmonology, Leiden University Medical Center, Leiden, The Netherlands\n`├── ListItemNode
+│   full_match: `* E-mail: louise.persson@med.uib.no`
+│   inner_content: ` E-mail: louise.persson@med.uib.no`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `E-mail: louise.persson@med.uib.no`
+│   │   inner_content: `E-mail: louise.persson@med.uib.no`├── TextNode
+│   full_match: `\nReceived: February 18, 2012; Accepted: May 14, 2012; Published: June 21, 2012\n\nIntroduction: COPD patients may be at increased risk for vitamin D (25(OH)D) deficiency, but risk factors for deficiency among COPD patients have not been extensively reported.\n\nMethods: Serum 25(OH)D levels were measured by liquid chromatography double mass spectrometry in subjects aged 40–76 years from Western Norway, including 433 COPD patients (GOLD stage II-IV) and 325 controls. Levels &lt;20 ng/mL defined deficiency. Season, sex, age, body mass index (BMI), smoking, GOLD stage, exacerbation frequency, arterial oxygen tension (PaO2), respiratory symptoms, depression (CES-D score?16), comorbidities (Charlson score), treatment for osteoporosis, use of inhaled steroids, and total white blood count were examined for associations with 25(OH)D in both linear and logistic regression models.\n\nResults: COPD patients had an increased risk for vitamin D deficiency compared to controls after adjustment for seasonality, age, smoking and BMI. \nVariables associated with lower 25(OH)D levels in COPD patients were \n`
+│   inner_content: `\nReceived: February 18, 2012; Accepted: May 14, 2012; Published: June 21, 2012\n\nIntroduction: COPD patients may be at increased risk for vitamin D (25(OH)D) deficiency, but risk factors for deficiency among COPD patients have not been extensively reported.\n\nMethods: Serum 25(OH)D levels were measured by liquid chromatography double mass spectrometry in subjects aged 40–76 years from Western Norway, including 433 COPD patients (GOLD stage II-IV) and 325 controls. Levels &lt;20 ng/mL defined deficiency. Season, sex, age, body mass index (BMI), smoking, GOLD stage, exacerbation frequency, arterial oxygen tension (PaO2), respiratory symptoms, depression (CES-D score?16), comorbidities (Charlson score), treatment for osteoporosis, use of inhaled steroids, and total white blood count were examined for associations with 25(OH)D in both linear and logistic regression models.\n\nResults: COPD patients had an increased risk for vitamin D deficiency compared to controls after adjustment for seasonality, age, smoking and BMI. \nVariables associated with lower 25(OH)D levels in COPD patients were \n`├── ListItemNode
+│   full_match: `*obesity ( = ?6.63), `
+│   inner_content: `obesity ( = ?6.63), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `obesity ( = ?6.63), `
+│   │   inner_content: `obesity ( = ?6.63), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*current smoking ( = ?4.02), `
+│   inner_content: `current smoking ( = ?4.02), `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `current smoking ( = ?4.02), `
+│   │   inner_content: `current smoking ( = ?4.02), `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*GOLD stage III- IV ( = ?4.71, = ?5.64), and`
+│   inner_content: `GOLD stage III- IV ( = ?4.71, = ?5.64), and`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `GOLD stage III- IV ( = ?4.71, = ?5.64), and`
+│   │   inner_content: `GOLD stage III- IV ( = ?4.71, = ?5.64), and`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `* depression ( = ?3.29). `
+│   inner_content: ` depression ( = ?3.29). `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `depression ( = ?3.29). `
+│   │   inner_content: `depression ( = ?3.29). `├── TextNode
+│   full_match: `\nSummertime decreased the risk of vitamin D deficiency (OR = 0.22).\n\nConclusion: COPD was associated with an increased risk of vitamin D deficiency, and important disease characteristics were significantly related to 25(OH)D levels.\n\nCopyright: © 2012 Persson et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.\n`
+│   inner_content: `\nSummertime decreased the risk of vitamin D deficiency (OR = 0.22).\n\nConclusion: COPD was associated with an increased risk of vitamin D deficiency, and important disease characteristics were significantly related to 25(OH)D levels.\n\nCopyright: © 2012 Persson et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.\n`├── HeadingNode
+│   full_match: `\n!!!Table 4 from PDF`
+│   inner_content: `Table 4 from PDF`
+│   level: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Table 4 from PDF`
+│   │   inner_content: `Table 4 from PDF`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgBlockNode
+│   full_match: `{IMG(attId=&quot;1419&quot; max =&quot;600&quot;)}{IMG}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: attId=&quot;1419&quot; max =&quot;600&quot;
+│   │   attId: 1419
+│   │   max: 600├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── BoldNode
+│   full_match: `__~~#00F:PDF is attached at the bottom of this page~~__`
+│   inner_content: `~~#00F:PDF is attached at the bottom of this page~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:PDF is attached at the bottom of this page~~`
+│   │   inner_content: `PDF is attached at the bottom of this page`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PDF is attached at the bottom of this page`
+│   │   │   inner_content: `PDF is attached at the bottom of this page`├── TextNode
+│   full_match: `\n- - - - - - - - - - - - - - - - - - - - - - - - - - - \n`
+│   inner_content: `\n- - - - - - - - - - - - - - - - - - - - - - - - - - - \n`├── HeadingNode
+│   full_match: `!!COPD 4X more likely among former smokers  having low vitamin D – April 2012`
+│   inner_content: `COPD 4X more likely among former smokers  having low vitamin D – April 2012`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `COPD 4X more likely among former smokers  having low vitamin D – April 2012`
+│   │   inner_content: `COPD 4X more likely among former smokers  having low vitamin D – April 2012`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!Serum levels of 25-hydroxyvitamin D, oral health and chronic obstructive pulmonary disease.`
+│   inner_content: `Serum levels of 25-hydroxyvitamin D, oral health and chronic obstructive pulmonary disease.`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Serum levels of 25-hydroxyvitamin D, oral health and chronic obstructive pulmonary disease.`
+│   │   inner_content: `Serum levels of 25-hydroxyvitamin D, oral health and chronic obstructive pulmonary disease.`├── TextNode
+│   full_match: `\nJ Clin Periodontol. 2012 Apr;39(4):350-6. `
+│   inner_content: `\nJ Clin Periodontol. 2012 Apr;39(4):350-6. `├── DoiLinkNode
+│   full_match: `doi: 10.1111/j.1600-051X.2012.01852.x.`
+│   inner_content: `10.1111/j.1600-051X.2012.01852.x.`├── TextNode
+│   full_match: ` Epub 2012 Feb 1.\nZhou X, Han J, Song Y, Zhang J, Wang Z.\nDepartment of Stomatology, Beijing ChaoYang Hospital affiliated to Capital Medical University, Beijing, China.\n\nAIM: To evaluate the associations of serum 25-Hydroxyvitamin D `
+│   inner_content: ` Epub 2012 Feb 1.\nZhou X, Han J, Song Y, Zhang J, Wang Z.\nDepartment of Stomatology, Beijing ChaoYang Hospital affiliated to Capital Medical University, Beijing, China.\n\nAIM: To evaluate the associations of serum 25-Hydroxyvitamin D `├── LinkNode
+│   full_match: `[25(OH)D]`
+│   inner_content: `25(OH)D`
+│   url: `25(OH)D`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D`
+│   │   inner_content: `25(OH)D`├── TextNode
+│   full_match: ` levels with periodontal health and chronic obstructive pulmonary disease (COPD).\n\nMATERIAL AND METHODS: We conducted a case-control study of 193 COPD patients and 181 controls. \nTheir periodontal status and lung function were examined, and serum 25(OH)D levels were measured.\n\nRESULTS: Mean serum 25(OH)D concentrations were significantly lower in the COPD group than in the controls (32.1 versus 35.8 nmol/l; p = 0.002). \nSerum 25(OH)D concentrations were positively correlated with lung function among non-smokers and negatively correlated with plaque index (PLI) among former smokers. After adjustment for age, gender, body mass index, season and smoking status, periodontal indexes were significantly associated with serum 25(OH)D concentrations (number of remaining teeth among all groups; probing depth, clinical attachment level, bleeding index, PLI and alveolar bone loss among COPD group). \n\nLower serum 25(OH)D concentrations were significantly associated with an increased risk of COPD among former smokers (`
+│   inner_content: ` levels with periodontal health and chronic obstructive pulmonary disease (COPD).\n\nMATERIAL AND METHODS: We conducted a case-control study of 193 COPD patients and 181 controls. \nTheir periodontal status and lung function were examined, and serum 25(OH)D levels were measured.\n\nRESULTS: Mean serum 25(OH)D concentrations were significantly lower in the COPD group than in the controls (32.1 versus 35.8 nmol/l; p = 0.002). \nSerum 25(OH)D concentrations were positively correlated with lung function among non-smokers and negatively correlated with plaque index (PLI) among former smokers. After adjustment for age, gender, body mass index, season and smoking status, periodontal indexes were significantly associated with serum 25(OH)D concentrations (number of remaining teeth among all groups; probing depth, clinical attachment level, bleeding index, PLI and alveolar bone loss among COPD group). \n\nLower serum 25(OH)D concentrations were significantly associated with an increased risk of COPD among former smokers (`├── BoldNode
+│   full_match: `__Odd ratio 4.11__`
+│   inner_content: `Odd ratio 4.11`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Odd ratio 4.11`
+│   │   inner_content: `Odd ratio 4.11`├── TextNode
+│   full_match: `; 95% confidence interval 1.47-11.5; p = 0.007) after adjustment for periodontal indexes and other variables.\n\nCONCLUSIONS: Lower serum 25(OH)D concentrations were significantly associated with poor periodontal health and an increased risk of COPD.\n\n© 2012 John Wiley &amp; Sons A/S. PMID: 22296704\n- - - - - - - - - - - - \n`
+│   inner_content: `; 95% confidence interval 1.47-11.5; p = 0.007) after adjustment for periodontal indexes and other variables.\n\nCONCLUSIONS: Lower serum 25(OH)D concentrations were significantly associated with poor periodontal health and an increased risk of COPD.\n\n© 2012 John Wiley &amp; Sons A/S. PMID: 22296704\n- - - - - - - - - - - - \n`├── HeadingNode
+│   full_match: `!See also VitaminDWiki `
+│   inner_content: `See also VitaminDWiki`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1401|Vitamin D Pneumonia and COPD - thesis 105 pages 2010] file`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1401|Vitamin D Pneumonia and COPD - thesis 105 pages 2010] file`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1401|Vitamin D Pneumonia and COPD - thesis 105 pages 2010]`
+│   │   inner_content: `Vitamin D Pneumonia and COPD - thesis 105 pages 2010`
+│   │   url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1401`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D Pneumonia and COPD - thesis 105 pages 2010`
+│   │   │   inner_content: `Vitamin D Pneumonia and COPD - thesis 105 pages 2010`
+│   ├── TextNode
+│   │   full_match: ` file`
+│   │   inner_content: ` file`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339|COPD related to vitamin D by a gene in China. - Aug 2010] file`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339|COPD related to vitamin D by a gene in China. - Aug 2010] file`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339|COPD related to vitamin D by a gene in China. - Aug 2010]`
+│   │   inner_content: `COPD related to vitamin D by a gene in China. - Aug 2010`
+│   │   url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COPD related to vitamin D by a gene in China. - Aug 2010`
+│   │   │   inner_content: `COPD related to vitamin D by a gene in China. - Aug 2010`
+│   ├── TextNode
+│   │   full_match: ` file`
+│   │   inner_content: ` file`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1453|COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1453|COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1453|COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011]`
+│   │   inner_content: `COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1453`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011`
+│   │   │   inner_content: `COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=89|Vitamin D deficiency is highly prevalent in COPD - 2010]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=89|Vitamin D deficiency is highly prevalent in COPD - 2010]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=89|Vitamin D deficiency is highly prevalent in COPD - 2010]`
+│   │   inner_content: `Vitamin D deficiency is highly prevalent in COPD - 2010`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=89`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D deficiency is highly prevalent in COPD - 2010`
+│   │   │   inner_content: `Vitamin D deficiency is highly prevalent in COPD - 2010`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=913|Genetic link found between vitamin D and COPD – June 2010]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=913|Genetic link found between vitamin D and COPD – June 2010]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=913|Genetic link found between vitamin D and COPD – June 2010]`
+│   │   inner_content: `Genetic link found between vitamin D and COPD – June 2010`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=913`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Genetic link found between vitamin D and COPD – June 2010`
+│   │   │   inner_content: `Genetic link found between vitamin D and COPD – June 2010`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2047|Vitamin D, COPD, and Epigenertics – Aug 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2047|Vitamin D, COPD, and Epigenertics – Aug 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2047|Vitamin D, COPD, and Epigenertics – Aug 2011]`
+│   │   inner_content: `Vitamin D, COPD, and Epigenertics – Aug 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2047`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D, COPD, and Epigenertics – Aug 2011`
+│   │   │   inner_content: `Vitamin D, COPD, and Epigenertics – Aug 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items Breathing and Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items Breathing and Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items Breathing and Vitamin D]`
+│   │   inner_content: `All items Breathing and Vitamin D`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items Breathing and Vitamin D`
+│   │   │   inner_content: `All items Breathing and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__`
+│   │   inner_content: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1563|COPD and vitamin D in a vicious circle – April 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1563|COPD and vitamin D in a vicious circle – April 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1563|COPD and vitamin D in a vicious circle – April 2011]`
+│   │   inner_content: `COPD and vitamin D in a vicious circle – April 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1563`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `COPD and vitamin D in a vicious circle – April 2011`
+│   │   │   inner_content: `COPD and vitamin D in a vicious circle – April 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1646|100000 IU vitamin D monthly helped COPD patients – 2011 and 2012]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1646|100000 IU vitamin D monthly helped COPD patients – 2011 and 2012]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1646|100000 IU vitamin D monthly helped COPD patients – 2011 and 2012]`
+│   │   inner_content: `100000 IU vitamin D monthly helped COPD patients – 2011 and 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1646`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `100000 IU vitamin D monthly helped COPD patients – 2011 and 2012`
+│   │   │   inner_content: `100000 IU vitamin D monthly helped COPD patients – 2011 and 2012`
+
+Original Tiki:
+-------------
+!Chronic Obstructive Pulmonary Disease Is Associated with Low Levels of Vitamin D
+Louise Jeanette Pauline Persson 1*, Marianne Aanerud 1, Pieter Sicco Hiemstra 3, Jon Andrew Hardie 1,2, Per Sigvald Bakke 2, Tomas Mikal Lind Eagan 1,2
+1 Department of Thoracic Medicine, Haukeland University Hospital, Bergen, Norway, 
+2 Institute of Medicine, University of Bergen, Bergen, Norway, 
+3 Department of Pulmonology, Leiden University Medical Center, Leiden, The Netherlands
+ * E-mail: louise.persson@med.uib.no
+Received: February 18, 2012; Accepted: May 14, 2012; Published: June 21, 2012
+
+Introduction: COPD patients may be at increased risk for vitamin D (25(OH)D) deficiency, but risk factors for deficiency among COPD patients have not been extensively reported.
+
+Methods: Serum 25(OH)D levels were measured by liquid chromatography double mass spectrometry in subjects aged 40–76 years from Western Norway, including 433 COPD patients (GOLD stage II-IV) and 325 controls. Levels &lt;20 ng/mL defined deficiency. Season, sex, age, body mass index (BMI), smoking, GOLD stage, exacerbation frequency, arterial oxygen tension (PaO2), respiratory symptoms, depression (CES-D score?16), comorbidities (Charlson score), treatment for osteoporosis, use of inhaled steroids, and total white blood count were examined for associations with 25(OH)D in both linear and logistic regression models.
+
+Results: COPD patients had an increased risk for vitamin D deficiency compared to controls after adjustment for seasonality, age, smoking and BMI. 
+Variables associated with lower 25(OH)D levels in COPD patients were 
+*obesity ( = ?6.63), 
+*current smoking ( = ?4.02), 
+*GOLD stage III- IV ( = ?4.71, = ?5.64), and
+* depression ( = ?3.29). 
+Summertime decreased the risk of vitamin D deficiency (OR = 0.22).
+
+Conclusion: COPD was associated with an increased risk of vitamin D deficiency, and important disease characteristics were significantly related to 25(OH)D levels.
+
+Copyright: © 2012 Persson et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+!!!Table 4 from PDF
+{IMG(attId=&quot;1419&quot; max =&quot;600&quot;)}{IMG}
+__~~#00F:PDF is attached at the bottom of this page~~__
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+!!COPD 4X more likely among former smokers  having low vitamin D – April 2012
+
+!!Serum levels of 25-hydroxyvitamin D, oral health and chronic obstructive pulmonary disease.
+J Clin Periodontol. 2012 Apr;39(4):350-6. doi: 10.1111/j.1600-051X.2012.01852.x. Epub 2012 Feb 1.
+Zhou X, Han J, Song Y, Zhang J, Wang Z.
+Department of Stomatology, Beijing ChaoYang Hospital affiliated to Capital Medical University, Beijing, China.
+
+AIM: To evaluate the associations of serum 25-Hydroxyvitamin D [25(OH)D] levels with periodontal health and chronic obstructive pulmonary disease (COPD).
+
+MATERIAL AND METHODS: We conducted a case-control study of 193 COPD patients and 181 controls. 
+Their periodontal status and lung function were examined, and serum 25(OH)D levels were measured.
+
+RESULTS: Mean serum 25(OH)D concentrations were significantly lower in the COPD group than in the controls (32.1 versus 35.8 nmol/l; p = 0.002). 
+Serum 25(OH)D concentrations were positively correlated with lung function among non-smokers and negatively correlated with plaque index (PLI) among former smokers. After adjustment for age, gender, body mass index, season and smoking status, periodontal indexes were significantly associated with serum 25(OH)D concentrations (number of remaining teeth among all groups; probing depth, clinical attachment level, bleeding index, PLI and alveolar bone loss among COPD group). 
+
+Lower serum 25(OH)D concentrations were significantly associated with an increased risk of COPD among former smokers (__Odd ratio 4.11__; 95% confidence interval 1.47-11.5; p = 0.007) after adjustment for periodontal indexes and other variables.
+
+CONCLUSIONS: Lower serum 25(OH)D concentrations were significantly associated with poor periodontal health and an increased risk of COPD.
+
+© 2012 John Wiley &amp; Sons A/S. PMID: 22296704
+- - - - - - - - - - - - 
+!See also VitaminDWiki 
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1401|Vitamin D Pneumonia and COPD - thesis 105 pages 2010] file
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1339|COPD related to vitamin D by a gene in China. - Aug 2010] file
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1453|COPD – Bone Metabolism – Osteoporosis – Vitamin D appear related – Mar 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=89|Vitamin D deficiency is highly prevalent in COPD - 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=913|Genetic link found between vitamin D and COPD – June 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2047|Vitamin D, COPD, and Epigenertics – Aug 2011]
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items Breathing and Vitamin D] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1563|COPD and vitamin D in a vicious circle – April 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1646|100000 IU vitamin D monthly helped COPD patients – 2011 and 2012]
+</code>
+</pre>

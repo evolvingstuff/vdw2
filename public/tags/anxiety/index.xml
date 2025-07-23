@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anxiety on VitaminDWiki</title><link>/tags/anxiety.html</link><description>Recent content in Anxiety on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 13 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/anxiety/index.xml" rel="self" type="application/rss+xml"/><item><title>Depression not reduced with 5700 IU vitamin D average in 6 months</title><link>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</link><pubDate>Fri, 13 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/depression-not-reduced-with-5700-iu-vitamin-d-average-in-6-months.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!!Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial`
+│ inner_content: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: `
+│ │ inner_content: `Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: `
+│ ├── NewlineNode
+│ │ full_match: `%%%`
+│ │ inner_content: ``
+│ ├── TextNode
+│ │ full_match: `nested case–control study and randomised clinical trial`
+│ │ inner_content: `nested case–control study and randomised clinical trial`├── TextNode
+│ full_match: `\nMarie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde\nCorrespondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no\nBJ Psych July 12, 2012, `
+│ inner_content: `\nMarie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde\nCorrespondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no\nBJ Psych July 12, 2012, `├── DoiLinkNode
+│ full_match: `doi: 10.1192/bjp.bp.111.104349`
+│ inner_content: `10.1192/bjp.bp.111.104349`├── TextNode
+│ full_match: `\n\nAims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.\n\nMethod Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov (`
+│ inner_content: `\n\nAims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.\n\nMethod Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov (`├── LinkNode
+│ full_match: `[http://clinicaltrials.gov/ct2/show/NCT00960232|NCT00960232]`
+│ inner_content: `NCT00960232`
+│ url: `http://clinicaltrials.gov/ct2/show/NCT00960232`
+│ children:
+│ ├── TextNode
+│ │ full_match: `NCT00960232`
+│ │ inner_content: `NCT00960232`├── TextNode
+│ full_match: `).\n\nResults Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). \nIn the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.\n\nConclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.\n– – – – – – – – – – \n`
+│ inner_content: `).\n\nResults Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). \nIn the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.\n\nConclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.\n– – – – – – – – – – \n`├── HeadingNode
+│ full_match: `!See also VitaminDWiki `
+│ inner_content: `See also VitaminDWiki`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D]`
+│ │ inner_content: `All items in depression and vitamin D`
+│ │ url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `All items in depression and vitamin D`
+│ │ │ inner_content: `All items in depression and vitamin D`
+│ ├── TextNode
+│ │ full_match: ` `
+│ │ inner_content: ` `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__`
+│ │ inner_content: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~`
+│ │ │ inner_content: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── SqlNode
+│ │ │ │ full_match: `{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL}`
+│ │ │ │ inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48`
+│ │ │ │ attrs_dict:
+│ │ │ │ │ raw_content: db=&amp;gt;vitamind
+│ │ │ │ │ db: &amp;gt;vitamind
+│ │ │ ├── TextNode
+│ │ │ │ full_match: ` items`
+│ │ │ │ inner_content: ` items`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011]`
+│ │ inner_content: `36 percent less depression when have high level of vitamin D – July 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1864`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `36 percent less depression when have high level of vitamin D – July 2011`
+│ │ │ inner_content: `36 percent less depression when have high level of vitamin D – July 2011`
+│ ├── TextNode
+│ │ full_match: ` also by Kjærgaard`
+│ │ inner_content: ` also by Kjærgaard`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]`
+│ │ inner_content: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2439`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`
+│ │ │ inner_content: `Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+The teen study used a loading dose for 1 month, and got great results in just 3 months`
+│ inner_content: `The teen study used a loading dose for 1 month, and got great results in just 3 months`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `The teen study used a loading dose for 1 month, and got great results in just 3 months`
+│ │ inner_content: `The teen study used a loading dose for 1 month, and got great results in just 3 months`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]`
+│ │ inner_content: `Much less depression if more than 43 ng of vitamin D – Oct 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3289`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Much less depression if more than 43 ng of vitamin D – Oct 2012`
+│ │ │ inner_content: `Much less depression if more than 43 ng of vitamin D – Oct 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!See also web`
+│ inner_content: `See also web`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also web`
+│ │ inner_content: `See also web`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article`
+│ inner_content: `[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://www.medscape.com/viewarticle/767799?src=rss|Medscape]`
+│ │ inner_content: `Medscape`
+│ │ url: `http://www.medscape.com/viewarticle/767799?src=rss`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Medscape`
+│ │ │ inner_content: `Medscape`
+│ ├── TextNode
+│ │ full_match: ` review of article`
+│ │ inner_content: ` review of article`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article`
+│ inner_content: `[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council]`
+│ │ inner_content: `Vitamin D Council`
+│ │ url: `http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D Council`
+│ │ │ inner_content: `Vitamin D Council`
+│ ├── TextNode
+│ │ full_match: ` review of article`
+│ │ inner_content: ` review of article`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
+│ inner_content: `&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
+│ level: `1`
+│ children:
+│ ├── EmphasisNode
+│ │ full_match: `&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;`
+│ │ inner_content: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`
+│ │ │ inner_content: `After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
+│ inner_content: `&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
+│ level: `1`
+│ children:
+│ ├── EmphasisNode
+│ │ full_match: `&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;`
+│ │ inner_content: `The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `The `
+│ │ │ inner_content: `The `
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:__authors note that the biggest limitation__~~`
+│ │ │ inner_content: `__authors note that the biggest limitation__`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── BoldNode
+│ │ │ │ full_match: `__authors note that the biggest limitation__`
+│ │ │ │ inner_content: `authors note that the biggest limitation`
+│ │ │ │ children:
+│ │ │ │ ├── TextNode
+│ │ │ │ │ full_match: `authors note that the biggest limitation`
+│ │ │ │ │ inner_content: `authors note that the biggest limitation`
+│ │ ├── TextNode
+│ │ │ full_match: ` in their study was study length at 6 months in a disorder that may take several years to develop.`
+│ │ │ inner_content: ` in their study was study length at 6 months in a disorder that may take several years to develop.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013`
+│ inner_content: `[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention]`
+│ │ inner_content: `Clinical Trials for Depression with vitamin D intervention`
+│ │ url: `http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Clinical Trials for Depression with vitamin D intervention`
+│ │ │ inner_content: `Clinical Trials for Depression with vitamin D intervention`
+│ ├── TextNode
+│ │ full_match: ` 22 INTERVENTION trials listed as of Jan 2013`
+│ │ inner_content: ` 22 INTERVENTION trials listed as of Jan 2013`
+
+Original Tiki:
+-------------
+!!!Effect of vitamin D supplement on depression scores in people with low levels of serum 25-hydroxyvitamin D: %%%nested case–control study and randomised clinical trial
+Marie Kjærgaard, Knut Waterloo, Catharina E. A. Wang, Bjørg Almås, Yngve Figenschau, Moira S. Hutchinson, Johan Svartberg and Rolf Jorde
+Correspondence: Marie Kjærgaard, Medical Clinic, University Hospital of North Norway N-9038 Tromsø, Norway. Email: marie.kjaergaard@unn.no
+BJ Psych July 12, 2012, doi: 10.1192/bjp.bp.111.104349
+
+Aims To compare depressive symptoms in participants with low and high serum 25-hydroxyvitamin D (25(OH)D) levels and to examine whether supplementation with vitamin D3 would improve symptoms in those with low serum 25(OH)D levels.
+
+Method Participants with low 25(OH)D levels were randomised to either placebo or 40 000 IU vitamin D3 per week for 6 months. Individuals with high serum 25(OH)D levels were used as nested controls. Depressive symptoms were evaluated with the Beck Depression Inventory, Hospital Anxiety and Depression Scale, Seasonal Pattern Assessment Scale and Montgomery–Åsberg Depression Rating Scale. The study was registered at ClinicalTrials.gov ([http://clinicaltrials.gov/ct2/show/NCT00960232|NCT00960232]).
+
+Results Participants with low 25(OH)D levels (n = 230) at baseline were more depressed (P&amp;lt;0.05) than participants with high 25(OH)D levels (n = 114). 
+In the intervention study no significant effect of high-dose vitamin D was found on depressive symptom scores when compared with placebo.
+
+Conclusions Low levels of serum 25(OH)D are associated with depressive symptoms, but no effect was found with vitamin D supplementation.
+– – – – – – – – – – 
+!See also VitaminDWiki 
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=48&amp;amp;sort_mode=created_desc|All items in depression and vitamin D] __~~#00F:{SQL(db=&amp;gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=48{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1864|36 percent less depression when have high level of vitamin D – July 2011] also by Kjærgaard
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2439|Teens no longer depressed after vitamin D raised to 36 ng – Feb 2012]
++The teen study used a loading dose for 1 month, and got great results in just 3 months
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3289|Much less depression if more than 43 ng of vitamin D – Oct 2012]
+!!See also web
+*[http://www.medscape.com/viewarticle/767799?src=rss|Medscape] review of article
+*[http://blog.vitamindcouncil.org/2012/07/20/can-vitamin-d-supplementation-help-relieve-the-symptoms-of-depression/|Vitamin D Council] review of article
++&amp;#39;&amp;#39;After 6 months, the vitamin D group’s vitamin D levels rose from 19 ng/ml to a mean level of 59 ng/ml&amp;#39;&amp;#39;
++&amp;#39;&amp;#39;The ~~#00F:__authors note that the biggest limitation__~~ in their study was study length at 6 months in a disorder that may take several years to develop.&amp;#39;&amp;#39;
+*[http://clinicaltrials.gov/ct2/results?term=depression&amp;amp;recr=&amp;amp;rslt=&amp;amp;type=Intr&amp;amp;cond=&amp;amp;intr=vitamin+d&amp;amp;outc=&amp;amp;spons=&amp;amp;lead=&amp;amp;id=&amp;amp;state1=&amp;amp;cntry1=&amp;amp;state2=&amp;amp;cntry2=&amp;amp;state3=&amp;amp;cntry3=&amp;amp;locn=&amp;amp;gndr=&amp;amp;rcv_s=&amp;amp;rcv_e=&amp;amp;lup_s=&amp;amp;lup_e=|Clinical Trials for Depression with vitamin D intervention] 22 INTERVENTION trials listed as of Jan 2013
+&lt;/code>
+&lt;/pre></description></item><item><title>Fertility problem (PCOS) reduced by vitamin D, etc: many studies</title><link>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</link><pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/fertility-problem-pcos-reduced-by-vitamin-d-etc-many-studies.html</guid><description>&lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>
+ &lt;ul>
+ &lt;li>&lt;a href="#pcos-risk-decreased-27-by-omega-3-mendelian-study--sept-2024">PCOS risk decreased 27% by Omega-3 (Mendelian study) – Sept 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-treatment-needs-about-3000-iu-of-vitamin-d---meta-analysis-sept-2024">PCOS treatment needs about 3,000 IU of Vitamin D - meta-analysis Sept 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#need-more-pcos-studies-with-3000-iu-dosing---meta-analysis-sept-2023">Need more PCOS studies with &amp;gt;3,000 IU dosing - meta-analysis Sept 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-and-vitamin-d-a-clinical-appraisal---sept-2023">PCOS and vitamin D: a clinical appraisal - Sept 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-is-more-than-just-a-fertility-problem---pcos-reduces-longevity-by-1-year---2023">PCOS is more than just a fertility problem - PCOS reduces longevity by 1 year - 2023&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-appears-to-be-helped-by-vitamn-d-probiotics-omega-3-etc---meta-analysis-sept-2022">PCOS appears to be helped by Vitamn D, probiotics, Omega-3, etc - meta-analysis Sept 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-physiopathology-and-vitamin-d-deficiency---aug-2022">PCOS Physiopathology and Vitamin D Deficiency - Aug 2022&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos---menstrual-frequency-improved-by-50000-iu-vitamin-dweek--low-calorie-diet---rct-may-2018">PCOS - menstrual frequency improved by 50,000 IU Vitamin D/week &amp;amp; low calorie diet - RCT May 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-problems-reduced-by-vitamin-d-plus-omega-3--rct-june-2018">PCOS problems reduced by Vitamin D plus Omega-3 – RCT June 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos--live-birth-strongly-a-function-of-vitamin-d-level--rct-may-2016">PCOS – Live birth strongly a function of vitamin D level – RCT May 2016&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-decreased-by-23-x-with-vitamin-d---meta-analysis-feb-2017">PCOS decreased by 2.3 X with Vitamin D - meta-analysis Feb 2017&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-problems-greatly-reduced-by-vitamin-d-50000-iu-weekly--oct-2015">PCOS problems greatly reduced by Vitamin D (50,000 IU weekly) – Oct 2015&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#therapeutic-implications-of-vitamin-d-and-calcium-in-overweight-women-with-polycystic-ovary-syndrome-8500-iu-2012">Therapeutic implications of vitamin D and calcium in overweight women with polycystic ovary syndrome. (8500 IU, 2012)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#vitamin-d-seems-to-have-helped-pcos-somewhat-2012">Vitamin D seems to have helped PCOS somewhat (2012)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#probable-connection-antimüllerian-hormone-levels---april-2014-50000-iu-weekly-helped">Probable connection: antimüllerian hormone levels - April 2014 50,000 IU weekly helped&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#-30-ng-recommended-to-reduce-pcos-june-2014">&amp;gt; 30 ng recommended to reduce PCOS (June 2014)&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-may-be-due-to-being-overweight---turkey-which-also-has-low-vit-d-oct-2014">PCOS may be due to being overweight - Turkey (which also has low Vit D) Oct 2014&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#wikipedia-highlights-on-pcos">Wikipedia highlights on PCOS&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-decreased-by-magnesium-zinc-calcium-and-200-iu-of-vitamind---march-2018">PCOS decreased by Magnesium, Zinc, Calcium, and 200 IU of VitaminD - March 2018&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#pcos-treatment-by-vitamin-d-is-aided-by-metformin---meta-analysis-feb-2024">PCOS treatment by Vitamin D is aided by Metformin - meta-analysis Feb 2024&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#see-also-web">See also web&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;hr>
+&lt;h4 id="pcos-risk-decreased-27-by-omega-3-mendelian-study--sept-2024">PCOS risk decreased 27% by Omega-3 (Mendelian study) – Sept 2024&lt;/h4>
+&lt;p>&lt;strong>Causal relationship between fertility nutrients supplementation and PCOS risk: a Mendelian randomization study&lt;/strong>&lt;/p></description></item><item><title>Overview Schizophrenia and Vitamin D</title><link>/posts/overview-schizophrenia-and-vitamin-d.html</link><pubDate>Thu, 05 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/overview-schizophrenia-and-vitamin-d.html</guid><description>&lt;!-- ~tc~ start ~/tc~ -->
+&lt;p>&lt;strong>15 reasons to think that schizophrenia is associated with low vitamin D&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>97% of patients with schizophrenia are vitamin D deficient&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Schizophrenia varies with latitude (UVB) by 10X (controversy)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Schizophrenia is more common in those with dark skin (when away from the equator)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Schizophrenia is associated with low natal vitamin D&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Schizophrenia has been increasing around the world when vitamin D has been decreasing (controversy)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Schizophrenia is associated with low birth rate, which is associated with low vitamin D&lt;/p></description></item></channel></rss>

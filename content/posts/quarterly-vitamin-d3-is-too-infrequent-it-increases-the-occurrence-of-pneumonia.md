@@ -9,11 +9,11 @@
     "date": "2012-06-29",
     "categories": [
         "Breathing",
-        "How, when to take Vit. D"
+        "How, and when"
     ],
     "tags": [
         "Breathing",
-        "How, when to take Vit. D",
+        "How, and when",
         "bacteria",
         "bone",
         "bone cancer",
@@ -24,10 +24,13 @@
         "childhood pneumonia",
         "diabetes",
         "dialysis",
+        "dosage",
         "high dose",
         "immunity",
         "kidney",
         "life span",
+        "magnesium",
+        "magnesium and cancer",
         "metabolic",
         "mortality",
         "pneumonia",
@@ -36,7 +39,8 @@
         "therapeutic intervention",
         "tuberculosis",
         "vitamin d",
-        "vitamin d blood test"
+        "vitamin d blood test",
+        "vitamin k"
     ]
 }
 
@@ -92,3 +96,322 @@ Disclosure: The authors declare no conflict of interest.
 * Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current knowledge and recommendations. Pediatrics 2008; 122:398-417.
 
 * Alonso A, Rodríguez J, Carvajal I, et al. Prophylactic vitamin D in healthy infants: assessing the need. Metabolism 2011;60:1719-25.
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+### Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?
+
+?Transl Pediatr 2012 Jun 11. DOI: 10.3978/j.issn.2224-4336.2012.06.01
+
+Ursula Thiem1, Enikö Kállay2, Kyra Borchhardt1
+
+1Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, Vienna, Austria; 
+
+2 Department of Pathophysiology and Allergy Research, Medical University of Vienna, Spitalgasse 23, Vienna, Austria
+
+Corresponding to: Priv.-Doz. Dr. Kyra Borchhardt, Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, 1090 Vienna, Austria. Email: kyra.borchhardt@meduniwien.ac.at.
+
+Already in 1922, based on the observation of 64 malnourished Viennese infants, Chick and colleagues postulated a factor present in both cod-liver oil and sunlight that is able to cure rickets (1). This factor later turned out to be vitamin D. Today, it is evident that the actions of the active vitamin D metabolite, i.e. 1,25-dihydroxyvitamin D3 (calcitriol), go far beyond bone health, including diverse actions on the immune system as recently reviewed (2). However, in children, evidence on its non-skeletal actions is lacking. In a recent community-based randomized controlled trial published in The Lancet, Manaseki-Holland and colleagues investigated whether treatment with vitamin D3 (cholecalciferol) reduces the incidence and severity of pneumonia in infants in Kabul, Afghanistan, where vitamin D deficiency is highly prevalent and pneumonia is one of the leading causes of mortality in children (3). 3,046 infants aged 1 to 11 months were given either oral vitamin D3 at a quarterly dose of 100.000 International Units or placebo over 18 months. 
+
+The children were assessed every 2 weeks for clinical signs of pneumonia such as coughing, chest indrawing, increased respiratory rate and body temperature and, if present, were admitted to the hospital for radiographic confirmation and treatment. In this study, the incidence of the first episode of pneumonia confirmed by chest radiograph did not differ between the two treatment groups (incidence rate ratio 1.06, 95% CI, 0.89-1.27). 
+
+Unexpectedly, repeated episodes of pneumonia occurred significantly more often in children treated with vitamin D3 (incidence rate ratio 1.68, 95% CI, 1.28-2.21).
+
+One possible explanation for these findings might involve the treatment strategy used in this study, i.e. quarterly boluses of 100.000 International Units of vitamin D3. This led to a rapid increase in serum 25-hydroxyvitamin D3 (calcidiol) levels immediately after the treatment. Subsequently, 25-hydroxyvitamin D3 levels declined continuously and returned to baseline levels after approximately 3 to 4 months. 
+
+It was suggested that strong variations in serum 25-hydroxyvitamin D3 levels are harmful for adults and might explain the unusual U-shaped association of 25-hydroxyvitamin D3 levels with increased risk for e.g., prostate cancer or all-cause mortality, as reported by Durup and colleagues (4,5). 
+
+Moreover, the high dose might have triggered a shortterm increase in expression of the renal 24-hydroxylase, the enzyme that catabolizes both 25-hydroxyvitamin D3 and 1,25-dihydroxyvitamin D3, leading to an early decrease of the vitamin D metabolites, thereby impeding the infection preventing effects. It is unknown also, whether these strong variations in 25-hydroxyvitamin D3 levels influence the immune system in a way that is counterproductive for the clearance of infections, bearing in mind the pleiotropic immunomodulatory actions of the active vitamin D3. On the one hand, the active vitamin D3 boosts the innate immune system e.g., by up-regulating the expression of antimicrobial peptides such as cathelicidin, which is important for the clearance of pathogens as demonstrated for Mycobacterium tuberculosis (6). On the other hand, it exerts suppressive effects on the adaptive immune system. It shifts the T-cell response away from an inflammatory to a more regulatory T-helper cell phenotype. In a healthy population, monthly therapy with 140.000 International Units of vitamin D3 over three months significantly increased the amount of peripheral regulatory T-cells compared with placebo (7). However, whether this goes along with an impaired host defense, remains to be investigated. Guidelines of the American Academy of Pediatrics on vitamin D intake recommend 400 International Units of vitamin D3 for all infants and children starting within days of birth (8). Administering lower doses of vitamin D3 at shorter intervals raises and maintains 25-hydroxyvitamin D3 levels in the optimal range (9), thereby possibly inducing different immunomodulatory effects. Even though not demonstrating a preventive effect of vitamin D3 on childhood pneumonia, this study provides valuable information for the design of future clinical trials.
+
+## Acknowledgements
+
+This work was supported by the European Union, FP7- PEOPLE-2010: 
+
+Multifaceted CaSR (#264663) for E.K. and a DOC-fFORTE fellowship (#23478) from the Austrian Academy of Science for U.T.
+
+Disclosure: The authors declare no conflict of interest.
+
+## References
+
+* Chick H, Dalyell EJ, Hume M, et al. The aetiology of rickets in infants: prophylactic and curative observations at the Vienna University Kinderklinik. Lancet 1922; ii:7-11.
+
+* Hewison M. An update on vitamin D and human immunity. Clin Endocrinol (Oxf) 2012;76:315-25.
+
+* Manaseki-Holland S, Maroof Z, Bruce J, et al. Effect on the incidence of pneumonia of vitamin D supplementation by quarterly bolus dose to infants in Kabul: a randomised controlled superiority trial. Lancet 2012;379:1419-27.
+
+* Tuohimaa P, Lou YR. Optimal serum calcidiol concentration for cancer prevention. Anticancer Res 2012;32:373-81.
+
+* Durup D, Jorgensen HL, Christensen J, et al. A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice, the CopD Study. J Clin Endocrinol Metab 2012. 
+
+* Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science 2006;311:1770-3.
+
+* Bock G, Prietl B, Mader JK, et al. The effect of vitamin D supplementation on peripheral regulatory T cells and beta cell function in healthy humans: a randomized controlled trial. Diabetes Metab Res Rev 2011;27:942-5.
+
+* Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current knowledge and recommendations. Pediatrics 2008; 122:398-417.
+
+* Alonso A, Rodríguez J, Carvajal I, et al. Prophylactic vitamin D in healthy infants: assessing the need. Metabolism 2011;60:1719-25.
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!!Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?`
+│   inner_content: `Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?`
+│   level: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?`
+│   │   inner_content: `Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?`├── TextNode
+│   full_match: `\n?Transl Pediatr 2012 Jun 11. DOI: 10.3978/j.issn.2224-4336.2012.06.01\nUrsula Thiem1, Enikö Kállay2, Kyra Borchhardt1\n1Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, Vienna, Austria; \n2 Department of Pathophysiology and Allergy Research, Medical University of Vienna, Spitalgasse 23, Vienna, Austria\nCorresponding to: Priv.-Doz. Dr. Kyra Borchhardt, Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, 1090 Vienna, Austria. Email: kyra.borchhardt@meduniwien.ac.at.\n\nAlready in 1922, based on the observation of 64 malnourished Viennese infants, Chick and colleagues postulated a factor present in both cod-liver oil and sunlight that is able to cure rickets (1). This factor later turned out to be vitamin D. Today, it is evident that the actions of the active vitamin D metabolite, i.e. 1,25-dihydroxyvitamin D3 (calcitriol), go far beyond bone health, including diverse actions on the immune system as recently reviewed (2). However, in children, evidence on its non-skeletal actions is lacking. In a recent community-based randomized controlled trial published in The Lancet, Manaseki-Holland and colleagues investigated whether treatment with vitamin D3 (cholecalciferol) reduces the incidence and severity of pneumonia in infants in Kabul, Afghanistan, where vitamin D deficiency is highly prevalent and pneumonia is one of the leading causes of mortality in children (3). 3,046 infants aged 1 to 11 months were given either oral vitamin D3 at a quarterly dose of 100.000 International Units or placebo over 18 months. \n\nThe children were assessed every 2 weeks for clinical signs of pneumonia such as coughing, chest indrawing, increased respiratory rate and body temperature and, if present, were admitted to the hospital for radiographic confirmation and treatment. In this study, the incidence of the first episode of pneumonia confirmed by chest radiograph did not differ between the two treatment groups (incidence rate ratio 1.06, 95% CI, 0.89-1.27). \n\nUnexpectedly, repeated episodes of pneumonia occurred significantly more often in children treated with vitamin D3 (incidence rate ratio 1.68, 95% CI, 1.28-2.21).\n\nOne possible explanation for these findings might involve the treatment strategy used in this study, i.e. quarterly boluses of 100.000 International Units of vitamin D3. This led to a rapid increase in serum 25-hydroxyvitamin D3 (calcidiol) levels immediately after the treatment. Subsequently, 25-hydroxyvitamin D3 levels declined continuously and returned to baseline levels after approximately 3 to 4 months. \n\nIt was suggested that strong variations in serum 25-hydroxyvitamin D3 levels are harmful for adults and might explain the unusual U-shaped association of 25-hydroxyvitamin D3 levels with increased risk for e.g., prostate cancer or all-cause mortality, as reported by Durup and colleagues (4,5). \n\nMoreover, the high dose might have triggered a shortterm increase in expression of the renal 24-hydroxylase, the enzyme that catabolizes both 25-hydroxyvitamin D3 and 1,25-dihydroxyvitamin D3, leading to an early decrease of the vitamin D metabolites, thereby impeding the infection preventing effects. It is unknown also, whether these strong variations in 25-hydroxyvitamin D3 levels influence the immune system in a way that is counterproductive for the clearance of infections, bearing in mind the pleiotropic immunomodulatory actions of the active vitamin D3. On the one hand, the active vitamin D3 boosts the innate immune system e.g., by up-regulating the expression of antimicrobial peptides such as cathelicidin, which is important for the clearance of pathogens as demonstrated for Mycobacterium tuberculosis (6). On the other hand, it exerts suppressive effects on the adaptive immune system. It shifts the T-cell response away from an inflammatory to a more regulatory T-helper cell phenotype. In a healthy population, monthly therapy with 140.000 International Units of vitamin D3 over three months significantly increased the amount of peripheral regulatory T-cells compared with placebo (7). However, whether this goes along with an impaired host defense, remains to be investigated. Guidelines of the American Academy of Pediatrics on vitamin D intake recommend 400 International Units of vitamin D3 for all infants and children starting within days of birth (8). Administering lower doses of vitamin D3 at shorter intervals raises and maintains 25-hydroxyvitamin D3 levels in the optimal range (9), thereby possibly inducing different immunomodulatory effects. Even though not demonstrating a preventive effect of vitamin D3 on childhood pneumonia, this study provides valuable information for the design of future clinical trials.\n`
+│   inner_content: `\n?Transl Pediatr 2012 Jun 11. DOI: 10.3978/j.issn.2224-4336.2012.06.01\nUrsula Thiem1, Enikö Kállay2, Kyra Borchhardt1\n1Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, Vienna, Austria; \n2 Department of Pathophysiology and Allergy Research, Medical University of Vienna, Spitalgasse 23, Vienna, Austria\nCorresponding to: Priv.-Doz. Dr. Kyra Borchhardt, Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, 1090 Vienna, Austria. Email: kyra.borchhardt@meduniwien.ac.at.\n\nAlready in 1922, based on the observation of 64 malnourished Viennese infants, Chick and colleagues postulated a factor present in both cod-liver oil and sunlight that is able to cure rickets (1). This factor later turned out to be vitamin D. Today, it is evident that the actions of the active vitamin D metabolite, i.e. 1,25-dihydroxyvitamin D3 (calcitriol), go far beyond bone health, including diverse actions on the immune system as recently reviewed (2). However, in children, evidence on its non-skeletal actions is lacking. In a recent community-based randomized controlled trial published in The Lancet, Manaseki-Holland and colleagues investigated whether treatment with vitamin D3 (cholecalciferol) reduces the incidence and severity of pneumonia in infants in Kabul, Afghanistan, where vitamin D deficiency is highly prevalent and pneumonia is one of the leading causes of mortality in children (3). 3,046 infants aged 1 to 11 months were given either oral vitamin D3 at a quarterly dose of 100.000 International Units or placebo over 18 months. \n\nThe children were assessed every 2 weeks for clinical signs of pneumonia such as coughing, chest indrawing, increased respiratory rate and body temperature and, if present, were admitted to the hospital for radiographic confirmation and treatment. In this study, the incidence of the first episode of pneumonia confirmed by chest radiograph did not differ between the two treatment groups (incidence rate ratio 1.06, 95% CI, 0.89-1.27). \n\nUnexpectedly, repeated episodes of pneumonia occurred significantly more often in children treated with vitamin D3 (incidence rate ratio 1.68, 95% CI, 1.28-2.21).\n\nOne possible explanation for these findings might involve the treatment strategy used in this study, i.e. quarterly boluses of 100.000 International Units of vitamin D3. This led to a rapid increase in serum 25-hydroxyvitamin D3 (calcidiol) levels immediately after the treatment. Subsequently, 25-hydroxyvitamin D3 levels declined continuously and returned to baseline levels after approximately 3 to 4 months. \n\nIt was suggested that strong variations in serum 25-hydroxyvitamin D3 levels are harmful for adults and might explain the unusual U-shaped association of 25-hydroxyvitamin D3 levels with increased risk for e.g., prostate cancer or all-cause mortality, as reported by Durup and colleagues (4,5). \n\nMoreover, the high dose might have triggered a shortterm increase in expression of the renal 24-hydroxylase, the enzyme that catabolizes both 25-hydroxyvitamin D3 and 1,25-dihydroxyvitamin D3, leading to an early decrease of the vitamin D metabolites, thereby impeding the infection preventing effects. It is unknown also, whether these strong variations in 25-hydroxyvitamin D3 levels influence the immune system in a way that is counterproductive for the clearance of infections, bearing in mind the pleiotropic immunomodulatory actions of the active vitamin D3. On the one hand, the active vitamin D3 boosts the innate immune system e.g., by up-regulating the expression of antimicrobial peptides such as cathelicidin, which is important for the clearance of pathogens as demonstrated for Mycobacterium tuberculosis (6). On the other hand, it exerts suppressive effects on the adaptive immune system. It shifts the T-cell response away from an inflammatory to a more regulatory T-helper cell phenotype. In a healthy population, monthly therapy with 140.000 International Units of vitamin D3 over three months significantly increased the amount of peripheral regulatory T-cells compared with placebo (7). However, whether this goes along with an impaired host defense, remains to be investigated. Guidelines of the American Academy of Pediatrics on vitamin D intake recommend 400 International Units of vitamin D3 for all infants and children starting within days of birth (8). Administering lower doses of vitamin D3 at shorter intervals raises and maintains 25-hydroxyvitamin D3 levels in the optimal range (9), thereby possibly inducing different immunomodulatory effects. Even though not demonstrating a preventive effect of vitamin D3 on childhood pneumonia, this study provides valuable information for the design of future clinical trials.\n`├── HeadingNode
+│   full_match: `\n!!Acknowledgements`
+│   inner_content: `Acknowledgements`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Acknowledgements`
+│   │   inner_content: `Acknowledgements`├── TextNode
+│   full_match: `\nThis work was supported by the European Union, FP7- PEOPLE-2010: \nMultifaceted CaSR (#264663) for E.K. and a DOC-fFORTE fellowship (#23478) from the Austrian Academy of Science for U.T.\n\nDisclosure: The authors declare no conflict of interest.\n`
+│   inner_content: `\nThis work was supported by the European Union, FP7- PEOPLE-2010: \nMultifaceted CaSR (#264663) for E.K. and a DOC-fFORTE fellowship (#23478) from the Austrian Academy of Science for U.T.\n\nDisclosure: The authors declare no conflict of interest.\n`├── HeadingNode
+│   full_match: `\n!!References`
+│   inner_content: `References`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `References`
+│   │   inner_content: `References`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Chick H, Dalyell EJ, Hume M, et al. The aetiology of rickets in infants: prophylactic and curative observations at the Vienna University Kinderklinik. Lancet 1922; ii:7-11.`
+│   inner_content: `Chick H, Dalyell EJ, Hume M, et al. The aetiology of rickets in infants: prophylactic and curative observations at the Vienna University Kinderklinik. Lancet 1922; ii:7-11.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Chick H, Dalyell EJ, Hume M, et al. The aetiology of rickets in infants: prophylactic and curative observations at the Vienna University Kinderklinik. Lancet 1922; ii:7-11.`
+│   │   inner_content: `Chick H, Dalyell EJ, Hume M, et al. The aetiology of rickets in infants: prophylactic and curative observations at the Vienna University Kinderklinik. Lancet 1922; ii:7-11.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Hewison M. An update on vitamin D and human immunity. Clin Endocrinol (Oxf) 2012;76:315-25.`
+│   inner_content: `Hewison M. An update on vitamin D and human immunity. Clin Endocrinol (Oxf) 2012;76:315-25.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Hewison M. An update on vitamin D and human immunity. Clin Endocrinol (Oxf) 2012;76:315-25.`
+│   │   inner_content: `Hewison M. An update on vitamin D and human immunity. Clin Endocrinol (Oxf) 2012;76:315-25.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Manaseki-Holland S, Maroof Z, Bruce J, et al. Effect on the incidence of pneumonia of vitamin D supplementation by quarterly bolus dose to infants in Kabul: a randomised controlled superiority trial. Lancet 2012;379:1419-27.`
+│   inner_content: `Manaseki-Holland S, Maroof Z, Bruce J, et al. Effect on the incidence of pneumonia of vitamin D supplementation by quarterly bolus dose to infants in Kabul: a randomised controlled superiority trial. Lancet 2012;379:1419-27.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Manaseki-Holland S, Maroof Z, Bruce J, et al. Effect on the incidence of pneumonia of vitamin D supplementation by quarterly bolus dose to infants in Kabul: a randomised controlled superiority trial. Lancet 2012;379:1419-27.`
+│   │   inner_content: `Manaseki-Holland S, Maroof Z, Bruce J, et al. Effect on the incidence of pneumonia of vitamin D supplementation by quarterly bolus dose to infants in Kabul: a randomised controlled superiority trial. Lancet 2012;379:1419-27.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Tuohimaa P, Lou YR. Optimal serum calcidiol concentration for cancer prevention. Anticancer Res 2012;32:373-81.`
+│   inner_content: `Tuohimaa P, Lou YR. Optimal serum calcidiol concentration for cancer prevention. Anticancer Res 2012;32:373-81.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Tuohimaa P, Lou YR. Optimal serum calcidiol concentration for cancer prevention. Anticancer Res 2012;32:373-81.`
+│   │   inner_content: `Tuohimaa P, Lou YR. Optimal serum calcidiol concentration for cancer prevention. Anticancer Res 2012;32:373-81.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Durup D, Jorgensen HL, Christensen J, et al. A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice, the CopD Study. J Clin Endocrinol Metab 2012. `
+│   inner_content: `Durup D, Jorgensen HL, Christensen J, et al. A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice, the CopD Study. J Clin Endocrinol Metab 2012. `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Durup D, Jorgensen HL, Christensen J, et al. A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice, the CopD Study. J Clin Endocrinol Metab 2012. `
+│   │   inner_content: `Durup D, Jorgensen HL, Christensen J, et al. A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice, the CopD Study. J Clin Endocrinol Metab 2012. `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science 2006;311:1770-3.`
+│   inner_content: `Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science 2006;311:1770-3.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science 2006;311:1770-3.`
+│   │   inner_content: `Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science 2006;311:1770-3.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Bock G, Prietl B, Mader JK, et al. The effect of vitamin D supplementation on peripheral regulatory T cells and beta cell function in healthy humans: a randomized controlled trial. Diabetes Metab Res Rev 2011;27:942-5.`
+│   inner_content: `Bock G, Prietl B, Mader JK, et al. The effect of vitamin D supplementation on peripheral regulatory T cells and beta cell function in healthy humans: a randomized controlled trial. Diabetes Metab Res Rev 2011;27:942-5.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Bock G, Prietl B, Mader JK, et al. The effect of vitamin D supplementation on peripheral regulatory T cells and beta cell function in healthy humans: a randomized controlled trial. Diabetes Metab Res Rev 2011;27:942-5.`
+│   │   inner_content: `Bock G, Prietl B, Mader JK, et al. The effect of vitamin D supplementation on peripheral regulatory T cells and beta cell function in healthy humans: a randomized controlled trial. Diabetes Metab Res Rev 2011;27:942-5.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current knowledge and recommendations. Pediatrics 2008; 122:398-417.`
+│   inner_content: `Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current knowledge and recommendations. Pediatrics 2008; 122:398-417.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current knowledge and recommendations. Pediatrics 2008; 122:398-417.`
+│   │   inner_content: `Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current knowledge and recommendations. Pediatrics 2008; 122:398-417.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*Alonso A, Rodríguez J, Carvajal I, et al. Prophylactic vitamin D in healthy infants: assessing the need. Metabolism 2011;60:1719-25.`
+│   inner_content: `Alonso A, Rodríguez J, Carvajal I, et al. Prophylactic vitamin D in healthy infants: assessing the need. Metabolism 2011;60:1719-25.`
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Alonso A, Rodríguez J, Carvajal I, et al. Prophylactic vitamin D in healthy infants: assessing the need. Metabolism 2011;60:1719-25.`
+│   │   inner_content: `Alonso A, Rodríguez J, Carvajal I, et al. Prophylactic vitamin D in healthy infants: assessing the need. Metabolism 2011;60:1719-25.`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!Quarterly has been shown to be too long of an interval between doses.`
+│   inner_content: `Quarterly has been shown to be too long of an interval between doses.`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Quarterly has been shown to be too long of an interval between doses.`
+│   │   inner_content: `Quarterly has been shown to be too long of an interval between doses.`├── TextNode
+│   full_match: `\nQuarterly doses result in huge oscillations of the vitamin D levels in the body.\nMonthly doses are OK, Bi-weekly is better\n`
+│   inner_content: `\nQuarterly doses result in huge oscillations of the vitamin D levels in the body.\nMonthly doses are OK, Bi-weekly is better\n`├── HeadingNode
+│   full_match: `!!See also VitaminDWiki `
+│   inner_content: `See also VitaminDWiki`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items in Breathing and Vitamin D] number of items = {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL}`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items in Breathing and Vitamin D] number of items = {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL}`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items in Breathing and Vitamin D]`
+│   │   inner_content: `All items in Breathing and Vitamin D`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items in Breathing and Vitamin D`
+│   │   │   inner_content: `All items in Breathing and Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` number of items = `
+│   │   inner_content: ` number of items = `
+│   ├── SqlNode
+│   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL}`
+│   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7`
+│   │   attrs_dict:
+│   │   │   raw_content: db=&gt;vitamind
+│   │   │   db: &gt;vitamind├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|Should also take cofactors with the Vitamin D] Magnesium, Vitamin K2, etc.`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|Should also take cofactors with the Vitamin D] Magnesium, Vitamin K2, etc.`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|Should also take cofactors with the Vitamin D]`
+│   │   inner_content: `Should also take cofactors with the Vitamin D`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1270`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Should also take cofactors with the Vitamin D`
+│   │   │   inner_content: `Should also take cofactors with the Vitamin D`
+│   ├── TextNode
+│   │   full_match: ` Magnesium, Vitamin K2, etc.`
+│   │   inner_content: ` Magnesium, Vitamin K2, etc.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=828|50,000 IU vitamin D bi-monthly for infants worked well – May 2010]  2 months worked OK, vs 3 months in the current study`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=828|50,000 IU vitamin D bi-monthly for infants worked well – May 2010]  2 months worked OK, vs 3 months in the current study`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=828|50,000 IU vitamin D bi-monthly for infants worked well – May 2010]`
+│   │   inner_content: `50,000 IU vitamin D bi-monthly for infants worked well – May 2010`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=828`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `50,000 IU vitamin D bi-monthly for infants worked well – May 2010`
+│   │   │   inner_content: `50,000 IU vitamin D bi-monthly for infants worked well – May 2010`
+│   ├── TextNode
+│   │   full_match: `  2 months worked OK, vs 3 months in the current study`
+│   │   inner_content: `  2 months worked OK, vs 3 months in the current study`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] which has the following graph`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] which has the following graph`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly]`
+│   │   inner_content: `Take vitamin D3 daily or weekly`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2475`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Take vitamin D3 daily or weekly`
+│   │   │   inner_content: `Take vitamin D3 daily or weekly`
+│   ├── TextNode
+│   │   full_match: ` which has the following graph`
+│   │   inner_content: ` which has the following graph`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgNode
+│   full_match: `{img fileId=&quot;2132&quot;  max =&quot;500&quot;}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content:  fileId=&quot;2132&quot;  max =&quot;500&quot;
+│   │   fileId: 2132
+│   │   max: 500
+
+Original Tiki:
+-------------
+!!!Is quarterly bolus vitamin D3 supplementation adequate to prevent childhood pneumonia?
+?Transl Pediatr 2012 Jun 11. DOI: 10.3978/j.issn.2224-4336.2012.06.01
+Ursula Thiem1, Enikö Kállay2, Kyra Borchhardt1
+1Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, Vienna, Austria; 
+2 Department of Pathophysiology and Allergy Research, Medical University of Vienna, Spitalgasse 23, Vienna, Austria
+Corresponding to: Priv.-Doz. Dr. Kyra Borchhardt, Department of Medicine III, Division of Nephrology and Dialysis, Medical University of Vienna, Spitalgasse 23, 1090 Vienna, Austria. Email: kyra.borchhardt@meduniwien.ac.at.
+
+Already in 1922, based on the observation of 64 malnourished Viennese infants, Chick and colleagues postulated a factor present in both cod-liver oil and sunlight that is able to cure rickets (1). This factor later turned out to be vitamin D. Today, it is evident that the actions of the active vitamin D metabolite, i.e. 1,25-dihydroxyvitamin D3 (calcitriol), go far beyond bone health, including diverse actions on the immune system as recently reviewed (2). However, in children, evidence on its non-skeletal actions is lacking. In a recent community-based randomized controlled trial published in The Lancet, Manaseki-Holland and colleagues investigated whether treatment with vitamin D3 (cholecalciferol) reduces the incidence and severity of pneumonia in infants in Kabul, Afghanistan, where vitamin D deficiency is highly prevalent and pneumonia is one of the leading causes of mortality in children (3). 3,046 infants aged 1 to 11 months were given either oral vitamin D3 at a quarterly dose of 100.000 International Units or placebo over 18 months. 
+
+The children were assessed every 2 weeks for clinical signs of pneumonia such as coughing, chest indrawing, increased respiratory rate and body temperature and, if present, were admitted to the hospital for radiographic confirmation and treatment. In this study, the incidence of the first episode of pneumonia confirmed by chest radiograph did not differ between the two treatment groups (incidence rate ratio 1.06, 95% CI, 0.89-1.27). 
+
+Unexpectedly, repeated episodes of pneumonia occurred significantly more often in children treated with vitamin D3 (incidence rate ratio 1.68, 95% CI, 1.28-2.21).
+
+One possible explanation for these findings might involve the treatment strategy used in this study, i.e. quarterly boluses of 100.000 International Units of vitamin D3. This led to a rapid increase in serum 25-hydroxyvitamin D3 (calcidiol) levels immediately after the treatment. Subsequently, 25-hydroxyvitamin D3 levels declined continuously and returned to baseline levels after approximately 3 to 4 months. 
+
+It was suggested that strong variations in serum 25-hydroxyvitamin D3 levels are harmful for adults and might explain the unusual U-shaped association of 25-hydroxyvitamin D3 levels with increased risk for e.g., prostate cancer or all-cause mortality, as reported by Durup and colleagues (4,5). 
+
+Moreover, the high dose might have triggered a shortterm increase in expression of the renal 24-hydroxylase, the enzyme that catabolizes both 25-hydroxyvitamin D3 and 1,25-dihydroxyvitamin D3, leading to an early decrease of the vitamin D metabolites, thereby impeding the infection preventing effects. It is unknown also, whether these strong variations in 25-hydroxyvitamin D3 levels influence the immune system in a way that is counterproductive for the clearance of infections, bearing in mind the pleiotropic immunomodulatory actions of the active vitamin D3. On the one hand, the active vitamin D3 boosts the innate immune system e.g., by up-regulating the expression of antimicrobial peptides such as cathelicidin, which is important for the clearance of pathogens as demonstrated for Mycobacterium tuberculosis (6). On the other hand, it exerts suppressive effects on the adaptive immune system. It shifts the T-cell response away from an inflammatory to a more regulatory T-helper cell phenotype. In a healthy population, monthly therapy with 140.000 International Units of vitamin D3 over three months significantly increased the amount of peripheral regulatory T-cells compared with placebo (7). However, whether this goes along with an impaired host defense, remains to be investigated. Guidelines of the American Academy of Pediatrics on vitamin D intake recommend 400 International Units of vitamin D3 for all infants and children starting within days of birth (8). Administering lower doses of vitamin D3 at shorter intervals raises and maintains 25-hydroxyvitamin D3 levels in the optimal range (9), thereby possibly inducing different immunomodulatory effects. Even though not demonstrating a preventive effect of vitamin D3 on childhood pneumonia, this study provides valuable information for the design of future clinical trials.
+
+!!Acknowledgements
+This work was supported by the European Union, FP7- PEOPLE-2010: 
+Multifaceted CaSR (#264663) for E.K. and a DOC-fFORTE fellowship (#23478) from the Austrian Academy of Science for U.T.
+
+Disclosure: The authors declare no conflict of interest.
+
+!!References
+*Chick H, Dalyell EJ, Hume M, et al. The aetiology of rickets in infants: prophylactic and curative observations at the Vienna University Kinderklinik. Lancet 1922; ii:7-11.
+*Hewison M. An update on vitamin D and human immunity. Clin Endocrinol (Oxf) 2012;76:315-25.
+*Manaseki-Holland S, Maroof Z, Bruce J, et al. Effect on the incidence of pneumonia of vitamin D supplementation by quarterly bolus dose to infants in Kabul: a randomised controlled superiority trial. Lancet 2012;379:1419-27.
+*Tuohimaa P, Lou YR. Optimal serum calcidiol concentration for cancer prevention. Anticancer Res 2012;32:373-81.
+*Durup D, Jorgensen HL, Christensen J, et al. A Reverse J-Shaped Association of All-Cause Mortality with Serum 25-Hydroxyvitamin D in General Practice, the CopD Study. J Clin Endocrinol Metab 2012. 
+*Liu PT, Stenger S, Li H, et al. Toll-like receptor triggering of a vitamin D-mediated human antimicrobial response. Science 2006;311:1770-3.
+*Bock G, Prietl B, Mader JK, et al. The effect of vitamin D supplementation on peripheral regulatory T cells and beta cell function in healthy humans: a randomized controlled trial. Diabetes Metab Res Rev 2011;27:942-5.
+*Misra M, Pacaud D, Petryk A, et al. Vitamin D deficiency in children and its management: review of current knowledge and recommendations. Pediatrics 2008; 122:398-417.
+*Alonso A, Rodríguez J, Carvajal I, et al. Prophylactic vitamin D in healthy infants: assessing the need. Metabolism 2011;60:1719-25.
+---
+!!Quarterly has been shown to be too long of an interval between doses.
+Quarterly doses result in huge oscillations of the vitamin D levels in the body.
+Monthly doses are OK, Bi-weekly is better
+!!See also VitaminDWiki 
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=7&amp;sort_mode=created_desc|All items in Breathing and Vitamin D] number of items = {SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=7{SQL}
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1270|Should also take cofactors with the Vitamin D] Magnesium, Vitamin K2, etc.
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=828|50,000 IU vitamin D bi-monthly for infants worked well – May 2010]  2 months worked OK, vs 3 months in the current study
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2475|Take vitamin D3 daily or weekly] which has the following graph
+{img fileId=&quot;2132&quot;  max =&quot;500&quot;}
+</code>
+</pre>

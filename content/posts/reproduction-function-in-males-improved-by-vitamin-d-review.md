@@ -13,6 +13,444 @@
     ],
     "tags": [
         "Fertility and sperm",
-        "Top news"
+        "Top news",
+        "child",
+        "dosage",
+        "fertility sperm",
+        "genetics",
+        "in vitro fertilization",
+        "magnesium",
+        "magnesium and pregnancy",
+        "pregnancy",
+        "vitamin d",
+        "vitamin d receptor"
     ]
 }
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!Vitamin D metabolism, sex hormones, and male reproductive function`
+│   inner_content: `Vitamin D metabolism, sex hormones, and male reproductive function`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D metabolism, sex hormones, and male reproductive function`
+│   │   inner_content: `Vitamin D metabolism, sex hormones, and male reproductive function`├── TextNode
+│   full_match: `\nReproduction August 1, 2012 144 135-152 \nMartin Blomberg Jensen blombergjensen@gmail.com\nUniversity Department of Growth and Reproduction,\nRigshospitalet, Section 5064, Blegdamsvej 9, 2100 Copenhagen, Denmark\n\nThe spectrum of vitamin D (VD)-mediated effects has expanded in recent years, and VD is now recognized as a versatile signaling molecule rather than being solely a regulator of bone health and calcium homeostasis. One of the recently identified target areas of VD is male reproductive function. The VD receptor (VDR) and the VD metabolizing enzyme expression studies documented the presence of this system in the testes, mature spermatozoa, and ejaculatory tract, suggesting that both systemic and local VD metabolism may influence male reproductive function. However, it is still debated which cell is the main VD target in the testis and to what extent VD is important for sex hormone production and function of spermatozoa. \n\nThis review summarizes descriptive studies on testicular VD metabolism and spatial distribution of VDR and the VD metabolizing enzymes in the mammalian testes and discusses mechanistic and association studies conducted in animals and humans. The reviewed evidence suggests some effects of VD on estrogen and testosterone biosynthesis and implicates involvement of both systemic and local VD metabolism in the regulation of male fertility potential.\n\nReceived 27 February 2012, 2012 Society for Reproduction and Fertility\n\n`
+│   inner_content: `\nReproduction August 1, 2012 144 135-152 \nMartin Blomberg Jensen blombergjensen@gmail.com\nUniversity Department of Growth and Reproduction,\nRigshospitalet, Section 5064, Blegdamsvej 9, 2100 Copenhagen, Denmark\n\nThe spectrum of vitamin D (VD)-mediated effects has expanded in recent years, and VD is now recognized as a versatile signaling molecule rather than being solely a regulator of bone health and calcium homeostasis. One of the recently identified target areas of VD is male reproductive function. The VD receptor (VDR) and the VD metabolizing enzyme expression studies documented the presence of this system in the testes, mature spermatozoa, and ejaculatory tract, suggesting that both systemic and local VD metabolism may influence male reproductive function. However, it is still debated which cell is the main VD target in the testis and to what extent VD is important for sex hormone production and function of spermatozoa. \n\nThis review summarizes descriptive studies on testicular VD metabolism and spatial distribution of VDR and the VD metabolizing enzymes in the mammalian testes and discusses mechanistic and association studies conducted in animals and humans. The reviewed evidence suggests some effects of VD on estrogen and testosterone biosynthesis and implicates involvement of both systemic and local VD metabolism in the regulation of male fertility potential.\n\nReceived 27 February 2012, 2012 Society for Reproduction and Fertility\n\n`├── BoldNode
+│   full_match: `__~~#00F:PDF is attached at the bottom of this page~~__`
+│   inner_content: `~~#00F:PDF is attached at the bottom of this page~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:PDF is attached at the bottom of this page~~`
+│   │   inner_content: `PDF is attached at the bottom of this page`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PDF is attached at the bottom of this page`
+│   │   │   inner_content: `PDF is attached at the bottom of this page`├── TextNode
+│   full_match: `\n- - - - - - - - - - - - - - - - - - - - - - - - - \n`
+│   inner_content: `\n- - - - - - - - - - - - - - - - - - - - - - - - - \n`├── HeadingNode
+│   full_match: `!!A portion of Table: 2 Rats from 1992 data`
+│   inner_content: `A portion of Table: 2 Rats from 1992 data`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `A portion of Table: 2 Rats from 1992 data`
+│   │   inner_content: `A portion of Table: 2 Rats from 1992 data`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── TableNode
+│   full_match: `||Variable|lots of D|little D\nPositive sperm smear/day|0.20|0.11\nFemales giving birth to normal litters|32|20\nPregnancies per day|0.15|0.04\nMean litter size| 12.6|10.4||`
+│   inner_content: `Variable|lots of D|little D\nPositive sperm smear/day|0.20|0.11\nFemales giving birth to normal litters|32|20\nPregnancies per day|0.15|0.04\nMean litter size| 12.6|10.4`
+│   children:
+│   ├── TableRowNode
+│   │   full_match: `Variable|lots of D|little D`
+│   │   inner_content: `Variable|lots of D|little D`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Variable`
+│   │   │   inner_content: `Variable`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Variable`
+│   │   │   │   inner_content: `Variable`
+│   │   ├── TableCellNode
+│   │   │   full_match: `lots of D`
+│   │   │   inner_content: `lots of D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `lots of D`
+│   │   │   │   inner_content: `lots of D`
+│   │   ├── TableCellNode
+│   │   │   full_match: `little D`
+│   │   │   inner_content: `little D`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `little D`
+│   │   │   │   inner_content: `little D`
+│   ├── TableRowNode
+│   │   full_match: `Positive sperm smear/day|0.20|0.11`
+│   │   inner_content: `Positive sperm smear/day|0.20|0.11`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Positive sperm smear/day`
+│   │   │   inner_content: `Positive sperm smear/day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Positive sperm smear/day`
+│   │   │   │   inner_content: `Positive sperm smear/day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.20`
+│   │   │   inner_content: `0.20`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.20`
+│   │   │   │   inner_content: `0.20`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.11`
+│   │   │   inner_content: `0.11`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.11`
+│   │   │   │   inner_content: `0.11`
+│   ├── TableRowNode
+│   │   full_match: `Females giving birth to normal litters|32|20`
+│   │   inner_content: `Females giving birth to normal litters|32|20`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Females giving birth to normal litters`
+│   │   │   inner_content: `Females giving birth to normal litters`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Females giving birth to normal litters`
+│   │   │   │   inner_content: `Females giving birth to normal litters`
+│   │   ├── TableCellNode
+│   │   │   full_match: `32`
+│   │   │   inner_content: `32`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `32`
+│   │   │   │   inner_content: `32`
+│   │   ├── TableCellNode
+│   │   │   full_match: `20`
+│   │   │   inner_content: `20`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `20`
+│   │   │   │   inner_content: `20`
+│   ├── TableRowNode
+│   │   full_match: `Pregnancies per day|0.15|0.04`
+│   │   inner_content: `Pregnancies per day|0.15|0.04`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Pregnancies per day`
+│   │   │   inner_content: `Pregnancies per day`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Pregnancies per day`
+│   │   │   │   inner_content: `Pregnancies per day`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.15`
+│   │   │   inner_content: `0.15`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.15`
+│   │   │   │   inner_content: `0.15`
+│   │   ├── TableCellNode
+│   │   │   full_match: `0.04`
+│   │   │   inner_content: `0.04`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `0.04`
+│   │   │   │   inner_content: `0.04`
+│   ├── TableRowNode
+│   │   full_match: `Mean litter size| 12.6|10.4`
+│   │   inner_content: `Mean litter size| 12.6|10.4`
+│   │   children:
+│   │   ├── TableCellNode
+│   │   │   full_match: `Mean litter size`
+│   │   │   inner_content: `Mean litter size`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Mean litter size`
+│   │   │   │   inner_content: `Mean litter size`
+│   │   ├── TableCellNode
+│   │   │   full_match: ` 12.6`
+│   │   │   inner_content: ` 12.6`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `12.6`
+│   │   │   │   inner_content: `12.6`
+│   │   ├── TableCellNode
+│   │   │   full_match: `10.4`
+│   │   │   inner_content: `10.4`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `10.4`
+│   │   │   │   inner_content: `10.4`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!See also VitaminDWiki`
+│   inner_content: `See also VitaminDWiki`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;sort_mode=created_desc|All items in category Fertility and sperm] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;sort_mode=created_desc|All items in category Fertility and sperm] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;sort_mode=created_desc|All items in category Fertility and sperm]`
+│   │   inner_content: `All items in category Fertility and sperm`
+│   │   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;sort_mode=created_desc`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `All items in category Fertility and sperm`
+│   │   │   inner_content: `All items in category Fertility and sperm`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__`
+│   │   inner_content: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012] males and females with lots of graphs`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012] males and females with lots of graphs`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012]`
+│   │   inner_content: `Vitamin D and fertility: a systematic review – May 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2666`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D and fertility: a systematic review – May 2012`
+│   │   │   inner_content: `Vitamin D and fertility: a systematic review – May 2012`
+│   ├── TextNode
+│   │   full_match: ` males and females with lots of graphs`
+│   │   inner_content: ` males and females with lots of graphs`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]`
+│   │   inner_content: `Testosterone increased with daily 3332 IU vitamin D – Dec 2010`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1237`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Testosterone increased with daily 3332 IU vitamin D – Dec 2010`
+│   │   │   inner_content: `Testosterone increased with daily 3332 IU vitamin D – Dec 2010`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011]  good overview`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011]  good overview`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011]`
+│   │   inner_content: `Clinical Trial vitamin D levels and IVF success – May 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1636`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Clinical Trial vitamin D levels and IVF success – May 2011`
+│   │   │   inner_content: `Clinical Trial vitamin D levels and IVF success – May 2011`
+│   ├── TextNode
+│   │   full_match: `  good overview`
+│   │   inner_content: `  good overview`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]`
+│   │   inner_content: `Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1723`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium`
+│   │   │   inner_content: `Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&#39;s reproductive health - Nov 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&#39;s reproductive health - Nov 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&#39;s reproductive health - Nov 2011]`
+│   │   inner_content: `Vitamin D - roles in women&#39;s reproductive health - Nov 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2144`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D - roles in women&#39;s reproductive health - Nov 2011`
+│   │   │   inner_content: `Vitamin D - roles in women&#39;s reproductive health - Nov 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]`
+│   │   inner_content: `Vitamin D increases sperm motility – Aug 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1980`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Vitamin D increases sperm motility – Aug 2011`
+│   │   │   inner_content: `Vitamin D increases sperm motility – Aug 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]`
+│   │   inner_content: `More vitamin D associated with better sperm – May 2011`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1639`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `More vitamin D associated with better sperm – May 2011`
+│   │   │   inner_content: `More vitamin D associated with better sperm – May 2011`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Male fertility is improved in many ways by vitamin D – Jan 2014)) same author, later publication`
+│   inner_content: `((Male fertility is improved in many ways by vitamin D – Jan 2014)) same author, later publication`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Male fertility is improved in many ways by vitamin D – Jan 2014))`
+│   │   inner_content: `Male fertility is improved in many ways by vitamin D – Jan 2014`
+│   │   page: `Male fertility is improved in many ways by vitamin D – Jan 2014`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Male fertility is improved in many ways by vitamin D – Jan 2014`
+│   │   │   inner_content: `Male fertility is improved in many ways by vitamin D – Jan 2014`
+│   ├── TextNode
+│   │   full_match: ` same author, later publication`
+│   │   inner_content: ` same author, later publication`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]`
+│   │   inner_content: `Overview Conception and vitamin D`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1031`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Overview Conception and vitamin D`
+│   │   │   inner_content: `Overview Conception and vitamin D`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Vitamin D increases fertility of BOTH the man and the woman.`
+│   inner_content: `Vitamin D increases fertility of BOTH the man and the woman.`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D increases fertility of BOTH the man and the woman.`
+│   │   inner_content: `Vitamin D increases fertility of BOTH the man and the woman.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`
+│   inner_content: `Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`
+│   │   inner_content: `Each 1 ng increase in blood level of vitamin D increases fertility by 1%.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+You may not have heard much about it since it was was patented back in 1990.`
+│   inner_content: `You may not have heard much about it since it was was patented back in 1990.`
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `You may not have heard much about it since it was was patented back in 1990.`
+│   │   inner_content: `You may not have heard much about it since it was was patented back in 1990.`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── IndentNode
+│   full_match: `+Vitamin D has been used by zoos and vets for a long time. `
+│   inner_content: `Vitamin D has been used by zoos and vets for a long time. `
+│   level: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D has been used by zoos and vets for a long time. `
+│   │   inner_content: `Vitamin D has been used by zoos and vets for a long time. `
+
+Original Tiki:
+-------------
+!Vitamin D metabolism, sex hormones, and male reproductive function
+Reproduction August 1, 2012 144 135-152 
+Martin Blomberg Jensen blombergjensen@gmail.com
+University Department of Growth and Reproduction,
+Rigshospitalet, Section 5064, Blegdamsvej 9, 2100 Copenhagen, Denmark
+
+The spectrum of vitamin D (VD)-mediated effects has expanded in recent years, and VD is now recognized as a versatile signaling molecule rather than being solely a regulator of bone health and calcium homeostasis. One of the recently identified target areas of VD is male reproductive function. The VD receptor (VDR) and the VD metabolizing enzyme expression studies documented the presence of this system in the testes, mature spermatozoa, and ejaculatory tract, suggesting that both systemic and local VD metabolism may influence male reproductive function. However, it is still debated which cell is the main VD target in the testis and to what extent VD is important for sex hormone production and function of spermatozoa. 
+
+This review summarizes descriptive studies on testicular VD metabolism and spatial distribution of VDR and the VD metabolizing enzymes in the mammalian testes and discusses mechanistic and association studies conducted in animals and humans. The reviewed evidence suggests some effects of VD on estrogen and testosterone biosynthesis and implicates involvement of both systemic and local VD metabolism in the regulation of male fertility potential.
+
+Received 27 February 2012, 2012 Society for Reproduction and Fertility
+
+__~~#00F:PDF is attached at the bottom of this page~~__
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+!!A portion of Table: 2 Rats from 1992 data
+||Variable|lots of D|little D
+Positive sperm smear/day|0.20|0.11
+Females giving birth to normal litters|32|20
+Pregnancies per day|0.15|0.04
+Mean litter size| 12.6|10.4||
+
+!See also VitaminDWiki
+*[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=65&amp;sort_mode=created_desc|All items in category Fertility and sperm] __~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=65{SQL} items~~__
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2666|Vitamin D and fertility: a systematic review – May 2012] males and females with lots of graphs
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1237|Testosterone increased with daily 3332 IU vitamin D – Dec 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1636|Clinical Trial vitamin D levels and IVF success – May 2011]  good overview
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1723|Hypothesis – Fatigue the day after sex is due to deficiency of vitamin D or Magnesium]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2144|Vitamin D - roles in women&#39;s reproductive health - Nov 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1980|Vitamin D increases sperm motility – Aug 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1639|More vitamin D associated with better sperm – May 2011]
+*((Male fertility is improved in many ways by vitamin D – Jan 2014)) same author, later publication
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1031|Overview Conception and vitamin D]
++Vitamin D increases fertility of BOTH the man and the woman.
++Each 1 ng increase in blood level of vitamin D increases fertility by 1%.
++You may not have heard much about it since it was was patented back in 1990.
++Vitamin D has been used by zoos and vets for a long time. 
+</code>
+</pre>

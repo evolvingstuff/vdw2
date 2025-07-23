@@ -9,12 +9,12 @@
     "date": "2012-07-02",
     "categories": [
         "Pregnancy",
-        "Meta-analysis of Vitamin D",
+        "Meta-analysis",
         "Top news"
     ],
     "tags": [
         "CYPR",
-        "Meta-analysis of Vitamin D",
+        "Meta-analysis",
         "Pregnancy",
         "Top news",
         "bacteria",
@@ -81,33 +81,33 @@ Can expect much better results if D3 were to be used and with more IU
 
 ### See also VitaminDWiki
 
-* [Overview Pregnancy and Vitamin D](/posts/overview-pregnancy-and-vitamin-d)
+* <a href="/posts/overview-pregnancy-and-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 816">Overview Pregnancy and Vitamin D</a>
 
-* [Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015](/posts/improved-births-with-2000-iu-vitamin-d-during-pregnancy-in-india-rct)
+* <a href="/posts/improved-births-with-2000-iu-vitamin-d-during-pregnancy-in-india-rct" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015">Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015</a>
 
-* [2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013](/posts/2x-more-likely-to-have-preeclampsia-if-less-than-20-ng-of-vitamin-d-meta-analysis)   **Meta-analysis** 
+* <a href="/posts/2x-more-likely-to-have-preeclampsia-if-less-than-20-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013">2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013</a>   **Meta-analysis** 
 
-* [2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013](/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis)   **Meta-analysis** 
+* <a href="/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: 2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013">2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013</a>   **Meta-analysis** 
 
-* [Pregnancy and vitamin D meta-analysis – July 2012](/posts/pregnancy-and-vitamin-d-meta-analysis)  **Meta-analysis** 
+* <a href="/posts/pregnancy-and-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Pregnancy and vitamin D meta-analysis – July 2012">Pregnancy and vitamin D meta-analysis – July 2012</a>  **Meta-analysis** 
 
-* [Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012](/posts/gestational-diabetes-60-percent-more-likely-below-20-ng-of-vitamin-d-meta-analysis)  **Meta-analysis** 
+* <a href="/posts/gestational-diabetes-60-percent-more-likely-below-20-ng-of-vitamin-d-meta-analysis" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012">Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012</a>  **Meta-analysis** 
 
 * <a href="/posts/span-stylecolor0907xspan-more-likely-to-have-low-birth-weight-babies-when-mother-ow-on-vitamin-d" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 467"> **<span style="color:#090;">7X</span>**  more likely to have low birth weight babies when mother very low on vitamin D – March 2010</a>
 
-* [Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012](/posts/low-vitamin-d-pregnancy-associated-with-both-low-birth-weight-and-more-weight-in-child-later)
+* <a href="/posts/low-vitamin-d-pregnancy-associated-with-both-low-birth-weight-and-more-weight-in-child-later" style="color: red; text-decoration: underline;" title="This link has an unknown page_id: 3198">Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012</a>
 
 *  **[Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com%20) 901 items as of July 2016** 
 
 * __[Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )](https://www.VitaminDWiki.com/Search+Results?hl=en&oe=UTF-8&ie=UTF-8&btnG=Google+Search&googles.x=0&googles.y=0&q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&domains=VitaminDWiki.com&sitesearch=VitaminDWiki.com) 265 items as of Dec 2016
 
-* [Less vitamin D makes for low birth weight for white babies - May 2010](/posts/less-vitamin-d-makes-for-low-birth-weight-for-white-babies)
+* <a href="/posts/less-vitamin-d-makes-for-low-birth-weight-for-white-babies" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Less vitamin D makes for low birth weight for white babies - May 2010">Less vitamin D makes for low birth weight for white babies - May 2010</a>
 
-* [Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013](/posts/opening-windows-while-pregnant-cut-the-number-of-low-birth-weight-infants-by-half)
+* <a href="/posts/opening-windows-while-pregnant-cut-the-number-of-low-birth-weight-infants-by-half" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013">Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013</a>
 
 > It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half
 
-* [Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015](/posts/small-for-gestational-age-birth-was-65x-more-likely-if-mother-was-vitamin-d-deficient)
+* <a href="/posts/small-for-gestational-age-birth-was-65x-more-likely-if-mother-was-vitamin-d-deficient" style="color: red; text-decoration: underline;" title="This post/category does not exist yet: Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015">Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015</a>
 
 ## See also web
 
@@ -123,7 +123,7 @@ Can expect much better results if D3 were to be used and with more IU
 
 The following text has been extracted from PDF
 
- **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d1bk1kqxc0sym.cloudfront.net/attachments/pdf/pregnancy-meta-analysis-june-2012.pdf">Download the PDF from VitaminDWiki.</a>** 
+ **<i class="fas fa-file-pdf" style="margin-right: 0.3em;"></i><a href="https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/pregnancy-meta-analysis-june-2012.pdf">Download the PDF from VitaminDWiki.</a>** 
 
 </div>
 
@@ -325,7 +325,7 @@ Two observational studies74,89	None (I2 = 0%, P = 0.33)	Both null	Both in high-i
 
 Fixed effects
 
-<img src="https://d1bk1kqxc0sym.cloudfront.net/attachments/jpeg/low-birthweight-june-2012.jpg" alt="image" style="max-width: 800px;">
+<img src="https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/low-birthweight-june-2012.jpg" alt="image" style="max-width: 800px;">
 
 Pooled analysis of three trials revealed that supplementation led to a significant 60% reduction in the risk of low birthweight (Figure 2), and disaggregated analysis of bolus high dose trials also suggested a strong benefit <span>[two trials, risk ratio (RR) = 0.25 [0.11, 0.61]</span> although daily supplementation trials did not show statistically significant benefit (two trials, RR = 0.56 <span>[0.27, 1.13]</span>) (Figure S2).
 
@@ -446,3 +446,1729 @@ Table S4. Prospective observational studies of the relationship between maternal
 Table S5. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and pre-eclampsia.
 
 Table S6. Baseline and attained levels of maternal 25(OH)D at delivery in trials.
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+#### Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis
+
+Andrew Thorne-Lyman1,*, Wafaie W. Fawzi1,2,3; Article first published online: 28 JUN 2012
+
+© 2012 Blackwell Publishing Ltd
+
+Paediatric and Perinatal Epidemiology, Volume 26, Issue Supplement s1, pages 75–90, July 2012
+
+Special Issue: Improving maternal, newborn, and child health outcomes through better designed policies and programs that enhance the nutrition of women
+
+&lt;div class=&quot;border&quot; style=&quot;background-color:#FF9;padding:15px;margin:10px 0;border-radius:5px;width:&gt;85%&quot;&gt;
+
+The only daily vitamin D data used in the meta-analysis was 1000 IU of vitamin  **&lt;span style=&quot;color:#F00;&quot;&gt;D2&lt;/span&gt;** 
+
+Can expect much better results if D3 were to be used and with more IU
+
+### See also VitaminDWiki
+
+* &lt;a href=&quot;/posts/overview-pregnancy-and-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 816&quot;&gt;Overview Pregnancy and Vitamin D&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/improved-births-with-2000-iu-vitamin-d-during-pregnancy-in-india-rct&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015&quot;&gt;Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/2x-more-likely-to-have-preeclampsia-if-less-than-20-ng-of-vitamin-d-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013&quot;&gt;2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013&lt;/a&gt;   **Meta-analysis** 
+
+* &lt;a href=&quot;/posts/2x-more-preeclampsia-when-vitamin-d-less-than-30-ng-etc-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: 2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013&quot;&gt;2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013&lt;/a&gt;   **Meta-analysis** 
+
+* &lt;a href=&quot;/posts/pregnancy-and-vitamin-d-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Pregnancy and vitamin D meta-analysis – July 2012&quot;&gt;Pregnancy and vitamin D meta-analysis – July 2012&lt;/a&gt;  **Meta-analysis** 
+
+* &lt;a href=&quot;/posts/gestational-diabetes-60-percent-more-likely-below-20-ng-of-vitamin-d-meta-analysis&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012&quot;&gt;Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012&lt;/a&gt;  **Meta-analysis** 
+
+* &lt;a href=&quot;/posts/span-stylecolor0907xspan-more-likely-to-have-low-birth-weight-babies-when-mother-ow-on-vitamin-d&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 467&quot;&gt; **&lt;span style=&quot;color:#090;&quot;&gt;7X&lt;/span&gt;**  more likely to have low birth weight babies when mother very low on vitamin D – March 2010&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/low-vitamin-d-pregnancy-associated-with-both-low-birth-weight-and-more-weight-in-child-later&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This link has an unknown page_id: 3198&quot;&gt;Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012&lt;/a&gt;
+
+*  **[Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)](https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com%20) 901 items as of July 2016** 
+
+* __[Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )](https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com) 265 items as of Dec 2016
+
+* &lt;a href=&quot;/posts/less-vitamin-d-makes-for-low-birth-weight-for-white-babies&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Less vitamin D makes for low birth weight for white babies - May 2010&quot;&gt;Less vitamin D makes for low birth weight for white babies - May 2010&lt;/a&gt;
+
+* &lt;a href=&quot;/posts/opening-windows-while-pregnant-cut-the-number-of-low-birth-weight-infants-by-half&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013&quot;&gt;Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013&lt;/a&gt;
+
+&gt; It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half
+
+* &lt;a href=&quot;/posts/small-for-gestational-age-birth-was-65x-more-likely-if-mother-was-vitamin-d-deficient&quot; style=&quot;color: red; text-decoration: underline;&quot; title=&quot;This post/category does not exist yet: Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015&quot;&gt;Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015&lt;/a&gt;
+
+## See also web
+
+* [Pre-term births report by CDC](http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1) USA-Today May 2012
+
+&gt; Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%
+
+&gt; For 62 out of 65 countries, the rate of premature births has been increasing 
+
+* [Births of Low Birthweight as a Percent of All Births by Race/Ethnicity ](http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0)Kaiser Foundation
+
+&gt; Black 13%, White 7% - 2014 details by state
+
+The following text has been extracted from PDF
+
+ **&lt;i class=&quot;fas fa-file-pdf&quot; style=&quot;margin-right: 0.3em;&quot;&gt;&lt;/i&gt;&lt;a href=&quot;https://d378j1rmrlek7x.cloudfront.net/attachments/pdf/pregnancy-meta-analysis-june-2012.pdf&quot;&gt;Download the PDF from VitaminDWiki.&lt;/a&gt;** 
+
+&lt;/div&gt;
+
+---
+
+## Abstract
+
+Vitamin D has well-defined classical functions related to calcium metabolism and bone health but also has non-classical effects that may influence other aspects of health. There has been considerable recent interest in the role of vitamin D on outcomes related to pregnancy and young child health but few efforts have been made to systematically consolidate this evidence to inform the research and policy agenda for low-income countries.
+
+A systematic review was undertaken to identify intervention and observational studies of vitamin D supplementation, intake or status (25-hydroxy-vitamin D) during pregnancy on perinatal and infant health outcomes. Data from trials and observational studies isolating the effect of vitamin D supplementation and intake were extracted and study quality was evaluated. Meta-analysis was used to pool effect estimates. 
+
+We identified five randomised trials with outcomes of relevance to our review. All had small sample size and dosage amount, duration and frequency varied as did the ability to correct deficiency. 
+
+Pooled analysis of trials using fixed-effects models suggested  **protective effects of supplementation on low birthweight**  (three trials, risk ratio (RR) = 0.40 &lt;span&gt;[95% confidence interval (CI) 0.23, 0.71]&lt;/span&gt;) and 
+
+non-significant but suggestive effects of daily supplementation on small-for-gestational age (two trials, RR = 0.67 &lt;span&gt;[0.40, 1.11]&lt;/span&gt;). 
+
+No effect on preterm delivery (&lt;37 weeks) was evident (two trials, RR = 0.77 &lt;span&gt;[0.35, 1.66]&lt;/span&gt;). 
+
+Little evidence from trials exists to evaluate the effect of vitamin D supplementation during pregnancy on maternal, perinatal or infant health outcomes. 
+
+Based on both trials and observational studies, we recommend that future research explore 
+
+* small-for-gestational age, 
+
+* preterm delivery, 
+
+* pre-eclampsia, and 
+
+* maternal and childhood infections, 
+
+as outcomes of interest. 
+
+Trials should focus on populations with a high prevalence of vitamin D deficiency, explore the relevance of timing of supplementation, and the dosage used in such trials should be sufficient to correct deficiency.
+
+There is evidence of early interest in the relationship between vitamin D status and perinatal health outcomes. ‘Rachitic pelvis’ was noted as a common obstetric complication in the early 20th century, and may have contributed to the development of caesarian section birthing procedures.1 In the 1930s, Green and Mellanby speculated that vitamin D had little ‘anti-infective’ activity but ‘might prove of significance in connexion with other obstetric difficulties, such as uterine inertia’.2 Associations between childhood rickets, sunlight or cod-liver oil and risk of respiratory infections such as tuberculosis and pneumonia were recognised a century ago, although it has only been in recent years that the effects of vitamin D on immunity have been revisited and the underlying mechanisms behind its putative effects have started to become more clear.3
+
+Vitamin D can be synthesised in the skin through exposure to ultraviolet (UV) light or can be obtained through dietary intake. Sunlight exposure is often the major influence on vitamin D status and is influenced by skin colour, latitude, season, as well as life style and cultural practices. In comparison, diet is often thought to exert a minor influence on vitamin D status although consumption of supplements can strongly influence status.4,5
+
+Globally, it has been estimated that a billion people may be affected by vitamin D deficiency or insufficiency.6 Generally, populations from countries near the equator (particularly agrarian and nomadic populations) are thought to have sufficient exposure to UV wavelengths required for optimal vitamin D status, and this has indeed been the case in some surveys.4,7 Yet, childhood rickets, a condition caused vitamin D and/or calcium deficiency, has long been noted in certain equatorial populations, particularly those in which head covering or spending time indoors is common.4 Recent studies in Ethiopia and India have also found that more than 80% and 66% of pregnant women suffered from vitamin D deficiency using a cut-off of &lt;50 nmol/L 25(OH)D, indicating the need for more research on potential adverse effects of deficiency and benefits of supplementation in developing country contexts.8,9
+
+## Metabolism of vitamin D during pregnancy and maternal-fetal links
+
+Once ingested or produced by the body, vitamin D3 is transported to the liver for hydroxylation to 25(OH)D, the main circulating form of vitamin D and best measure of vitamin D status, and then to the kidney where the active hormonal form of vitamin D, 1,25(OH)2D, is produced. Maternal 25(OH)D is thought to freely cross the human placenta as it does in rats.10 The placenta expresses vitamin D receptors and also produces the enzyme CYP27B1 to convert 25(OH)D to its active form.11
+
+The most widely appreciated role of vitamin D in the human body is to maintain normal levels of calcium and phosphate in the blood, which in turn facilitate other essential processes such as bone mineralisation, contraction of muscles, nervous system activities and cellular function.12 Adequate vitamin D status is critically important for the neonate, with neonatal hypocalcaemia and rickets being major consequences of deficiency.10 In areas where vitamin D deficiency is endemic, rickets may be diagnosed soon after birth.10 In general, breastmilk is thought to be a relatively poor source of vitamin D, thus maternal vitamin D status during pregnancy is important for vitamin D status of the child during early infancy.10,13,14
+
+There are a number of plausible biological pathways through which vitamin D could influence placental, fetal and maternal health or growth during pregnancy. Vitamin D has important immune-modulating properties of vitamin D, which may help to establish a proper maternal immune response to the placenta.15–17 It also regulates key target genes associated with proper implantation of the placenta.18 Vitamin D has a direct role in the production of antimicrobial peptides such as cathelicidin, which are produced upon activation of up-regulated vitamin D receptors, require 25(OH)D as a substrate for production, and may play an important role in preventing infection during pregnancy or early childhood.3,19–22 In its active form, vitamin D regulates expression of human chorionic gonadotropin in syncytiotrophoblasts and stimulates production of sex steroids.23,24In vitro and animal studies have also suggested that vitamin D has important roles in glucose and insulin metabolism, which may affect availability of energy to the fetus.16,25,26 Vitamin D also influences musculo-skeletal growth.27–30
+
+## Requirements for vitamin D
+
+The recommended daily allowance of vitamin D for women in the US aged 19–50 years, including during pregnancy, was recently established at 600 international units (IU) per day.31 This recommendation was based on the amount of intake necessary to sustain blood levels of 25(OH)D above 50 nmol/L for populations with minimal sunlight exposure and was developed solely based on outcomes related to skeletal health.31 This recommendation was contentious as many researchers have argued that insufficiency should be defined at thresholds of 75 nmol/L or even higher, which would require a much higher intake to reach.32,33
+
+A number of recent reviews have covered a rapidly growing body of literature on vitamin D during pregnancy,4,16,34–37 although few have taken a systematic approach35 and only a couple have focused on the implications for low-income country settings.4,38 To address this gap, we undertook a systematic review of the literature on vitamin D during pregnancy and perinatal and infant health outcomes.
+
+## Methods
+
+The primary aim of our literature search was to identify epidemiological studies that isolated the effect of intake of vitamin D from supplements or diet on the outcomes presented in Table 1. Skeletal health-related outcomes such as bone mineralisation and rickets were not part of this review and have been detailed elsewhere.10,31,39 Recognising in advance that few supplementation trials had been published, we sought to also identify prospective observational studies with intake of vitamin D or maternal blood 25(OH)D levels during pregnancy as exposures. Using the search strings outlined in Table S1 we searched the NLM Pubmed database and Cochrane Library through June 2011 as well as the bibliographies of reviews and relevant studies.
+
+Table 1.  Primary outcomes covered by this review
+
+A =outcomes for which outcomes from more than one study could not be extracted for meta-analysis.
+
+ALRI, Acute lower respiratory infection.
+
+1.?Low birthweight due to intra-uterine growth restriction
+
+1a.?Small-for-gestational age
+
+1b.?Low birthweight
+
+1c.?Mean birthweight
+
+1d.?Weight gain during pregnancy
+
+1e.?Mean heel-crown length at delivery
+
+2.?Preterm birth
+
+2a.?Preterm birth (&lt;37 weeks)
+
+2b.?Early preterm birth (&lt;34 weeks) a
+
+2c.?Mean gestational age at delivery
+
+3.?Neonatal growth, morbidity and mortality
+
+3a.?Early infant mortality (first 6 weeks) a
+
+4.?Infant or child growth, morbidity and mortality
+
+4a.?Mean weight a
+
+4b.?Mean height a
+
+4c.?Low weight-for-age a
+
+4d.?Low height-for-age a
+
+4e.?All-cause mortality a
+
+4f.?Mortality due to measles, diarrhoea, ALRI or malaria a
+
+4g.?Mother-to-child transmission of HIV a
+
+4h.?Morbidity (diarrhoea, measles, malaria, ALRI) a
+
+5.?Maternal morbidity and mortality
+
+5a.?Mortality (all cause) a
+
+5b.?Mortality due to haemorrhage, sepsis or obstructed labour a
+
+5c.?Delivery complications (caesarian section) a
+
+5d.?Pre-eclampsia
+
+An initial review of titles and abstracts was undertaken by one reviewer followed by an in-depth review of full papers that could not be initially excluded (AT-L). We excluded (1) non-human studies, (2) studies not in English, French or Spanish, (3) reviews, case reports and commentaries, (4) topics unrelated to the review, (5) studies that could not isolate the effects of vitamin D supplementation or intake, and (6) cross-sectional and non-prospective case–control studies. A modified version of the Child Health Epidemiology Reference Group&#39;s GRADE tool was used to evaluate intervention studies and observational studies of vitamin D intake for risk of bias, and those with a study quality of ‘Very Low’ were excluded. Authors of recent trials presenting clinical outcomes were requested to provide additional data on other outcomes of relevance to the meta-analysis.
+
+Study data were extracted using a standard spreadsheet. Review Manager 5.140 was used to generate pooled effect estimates for all outcomes with data from more than one eligible study. For studies with continuous outcomes we generated mean differences and for dichotomous outcomes we calculated relative risk or odds ratio estimates, each with 95% confidence intervals (CI). Inverse variance weights were used to generate pooled effect estimates with a fixed-effects model in absence of significant heterogeneity. Heterogeneity was explored through visual inspection of Forest plots as well as through I2 values and ?2-tests for heterogeneity. In the presence of significant heterogeneity (P &lt; 0.10), we used a random-effects model. For trials testing multiple intervention arms (of daily or bolus doses), we pooled data from intervention arms, calculated the pooled mean and standard deviation41 where appropriate, and also presented separate analysis for daily vs. bolus dosage. For observational studies, comparisons were made of extreme categories.
+
+## Results
+
+Identification of studies
+
+We identified 944 hits through our database searches and five additional studies through bibliographical searches (Figure 1). Five trials of vitamin D supplementation during pregnancy met our inclusion criteria, one of which did not provide sufficient data for inclusion in quantitative analysis,42 and one study was excluded that ranked ‘Very Low’ on GRADE criteria (Table 2 and Table S2).43 Additional data were received from the authors of two recently published trials (personal communication with Dr Yu, November 2011 and Drs Hollis/Wagner, January 2012). Six observational studies of vitamin D intake were identified of which two44,45 ranked ‘Very Low’ on GRADE criteria (Table S3). We also found 13 studies with prospective assessment of 25(OH)D prior to birth outcomes (Table S4) and four studies in which pre-eclampsia was reported as an outcome (Table S5).
+
+Figure 1. Study flow.
+
+Table 2.  Description of intervention studies of vitamin D supplementation and observational studies of vitamin D intake (including supplements) eligible for inclusion in meta-analyses
+
+All but one trial 46 and four observational studies of 25(OH)D were conducted in high-income country settings, and most populations had either a presumed risk or high prevalence of deficiency at baseline (Table 1).9,47–50 Dosing approaches in the trials varied: two trials contained multiple intervention arms testing both daily supplementation (800 IU and 1000 IU   **&lt;span style=&quot;color:#F00;&quot;&gt;D2&lt;/span&gt;** ) and high single dose supplementation (200 000 IU) in the third trimester.42,51 
+
+One recent trial tested both daily 2000 IU D3 and daily 4000 IU D3, the latter at the upper limit of the current US recommendations and a study in India tested the effects of two bolus doses of 600 000 IU.31
+
+Vitamin D supplementation appeared to improve maternal 25(OH)D levels in all four trials with available data although mean attained levels at term in two trials indicated that the dosage tested was not sufficient to alleviate deficiency in much of the population (Table S6).42,51 In contrast, the results of trials by Hollis and Brooke indicated a substantial improvement in vitamin D status, and there is some speculation that the dose used in the latter trial may have been higher than reported.5,36,52
+
+## Birthweight, low birthweight and crown–heel length at birth
+
+The results of all meta-analyses are summarised in Table 3. Pooled analysis of all five trials with information on mean birthweight suggested no significant overall effect (Figure S1), although significant heterogeneity was apparent (I2 = 70%, P = 0.0009) due largely to the divergent results of studies testing a large bolus dose the two. Pooled results of observational studies indicated a significant 52 g increase &lt;span&gt;[3.5, 102]&lt;/span&gt; comparing the highest vs. lowest categories of intake (Figure S1). An observational study in New Zealand also found a significant 71 g birthweight difference across quartiles of intake noting low median intakes of 68 IU/day in the population although data were insufficient for pooling.53
+
+Table 3.  Summary of findings and overall assessment of quality of evidence for randomised trials and observational studies
+
+Quality assessment	Summary of findings
+
+No. studies and study design	Heterogeneity of results?	Consistent size of effect?	Generalisable to population of interest?	Generalisable to intervention of interest?	Other sources of bias (e.g. major limitations in study design)	n	Statistical method	Effect estimate &lt;span&gt;[95% CI]&lt;/span&gt;
+
+CI, confidence interval: IU, international units; RCT, randomised controlled trial; RR, risk ratio, MD, mean difference, IV, inverse variance; OR, odds ratio.
+
+Trials: Small-for-gestational age, overall quality of evidence grade = Low
+
+Two RCTs42,52 (one with two arms)	Low (I2 = 0%), P = 0.39	Both protective	Both in the UK among deficient largely non-white populations	Similar dose (800 IU and 1000 IU daily); both in the third trimester	Both small studies	305	RR, IV	0.67 &lt;span&gt;[0.40, 1.11]&lt;/span&gt;
+
+Fixed effects
+
+Trials: Weight gain during the third trimester (g), overall quality of evidence grade = Low
+
+Two RCTs46,91	High (I2 = 65%, P = 0.09)	Yes – both showed increased weight gain in vitamin D group	India, Asian immigrants in the UK	Both in the third trimester; one with daily 1000 IU vs. one with 600 000 IU at month 7 and 8	Both small studies	326	MD, IV	11.8 g/day &lt;span&gt;[3.4, 20.2]&lt;/span&gt;
+
+Random effects
+
+Trials and observational studies: mean birthweight, overall quality of evidence grade = Low
+
+1. Trials: five RCTs (three with two intervention arms)5,42,46,51,52	1. High (I2 = 70%, P = 0.0.009);	Most trials null; one increased weight, one arm decreased weight	All in deficient populations; one from India, remaining from high-income settings	Wide variety of doses tested ranging from 800 IU daily to 4000 IU daily and large bolus doses up to 2× 600 000 IU	Only two had blinded control groups; all small sample size; high or unclear dropout in two studies	932	MD, IV	58.1 &lt;span&gt;[?63.9, 180.0]&lt;/span&gt;
+
+Random
+
+2. Observational studies: two studies60,63	2. None (I2 = 0%, P = 0.49)	1497	MD, IV	52.7 &lt;span&gt;[3.5, 101.8]&lt;/span&gt;
+
+Fixed
+
+Trials: Low birthweight (&lt;2.5 kg), overall quality of evidence grade = Low
+
+Three RCTs (one with two intervention arms).42,46,52	Low (I2 = 5%, P = 0.35)	RR ranged from 0.21 to 0.55 (only one significant)	One in India, others in London among Asian migrants and mixed population	Mix of daily supplementation (800–1000 IU) and bolus dosing at high doses, all in the third trimester	Only one study placebo controlled	507	RR	0.40 &lt;span&gt;[0.23, 0.71]&lt;/span&gt;
+
+(IV, Fixed, 95% CI)
+
+Trials: Crown–heel length at birth (cm), overall quality of evidence grade = Low
+
+Two RCTs46,52	High (I2 = 82%, P = 0.02).	One null, one with significantly greater weight gain	One in India, one among Asian immigrants to the UK	1000 IU D2; Bolus 600 000 IU at month 7 and 8	One unblinded	317	MD, IV	1.02 &lt;span&gt;[?0.26, 2.30]&lt;/span&gt; cm
+
+Random effects
+
+Trials: Preterm delivery (&lt;37 weeks), overall quality of evidence grade = Low
+
+Two RCTs5,42 (both had two intervention arms pooled here)	Moderate (I2 = 46%, P = 0.17)	Both null in opposite directions	Both in multi-ethnic populations in high-income countries	(1) 4000 or 2000 IU vs. 400 IU, (2) daily 800 or bolus 200 000 IU vs. nothing	One unblinded	529	RR, IV	0.77 &lt;span&gt;[0.35, 1.66]&lt;/span&gt;
+
+Fixed effects
+
+Trials and observational studies: mean gestational age at delivery (in weeks), overall quality of evidence grade = Low
+
+Two RCTs5,42 with two intervention arms	Low (I2 = 7%, P = 0.30);	All null	All in high-income countries	Comparison of 4000/2000 IU vs. 400 IU and daily 800 IU vs. nothing	One unblinded; one observational study did not adjust for confounding	529	MD, IV	0.17 &lt;span&gt;[?0.16, 0.51]&lt;/span&gt;
+
+Two observational studies60,63	None (I2 = 0%, P = 0.75)	1497	Fixed effects	0.08 &lt;span&gt;[?0.12, 0.28]&lt;/span&gt;
+
+Observational studies: pre-eclampsia, overall quality of evidence grade = Very Low
+
+Two observational studies74,89	None (I2 = 0%, P = 0.33)	Both null	Both in high-income countries	One comparison of &lt;200 vs. &gt;800 IU; one based on continuous exposure	 	12 626	OR, IV	0.95 &lt;span&gt;[0.86, 1.06]&lt;/span&gt;
+
+Fixed effects
+
+&lt;img src=&quot;https://d378j1rmrlek7x.cloudfront.net/attachments/jpeg/low-birthweight-june-2012.jpg&quot; alt=&quot;image&quot; style=&quot;max-width: 800px;&quot;&gt;
+
+Pooled analysis of three trials revealed that supplementation led to a significant 60% reduction in the risk of low birthweight (Figure 2), and disaggregated analysis of bolus high dose trials also suggested a strong benefit &lt;span&gt;[two trials, risk ratio (RR) = 0.25 [0.11, 0.61]&lt;/span&gt; although daily supplementation trials did not show statistically significant benefit (two trials, RR = 0.56 &lt;span&gt;[0.27, 1.13]&lt;/span&gt;) (Figure S2).
+
+Figure 2. Trials of vitamin D supplementation and risk of low birthweight and small-for-gestational age (SGA). IV, inverse variance; CI, confidence interval; IU, international units.
+
+The majority of studies examining relationships between maternal vitamin D status and mean or low birthweight found no association.9,30,47,49,54,55 However, two large studies, one from the Netherlands and the other from Australia, both found significantly lower birthweight among infants born to women with vitamin D deficiency (using thresholds of &lt;25 and 29 nmol/L).56,57 Another study from Australia found no overall effect of low maternal 25(OH)D levels (&lt;28 nmol/L) on mean birthweight, yet effect modification was found by infant vitamin D receptor (Fokl) genotype: offspring born to women in the with higher 25(OH)D levels were significantly heavier within the FF or Ff but not the ff genotypes.58
+
+Pooled analysis of two supplementation trials showed no significant difference in mean crown–heel length associated with supplementation (Figure S3). None of the observational studies we identified reported a significant association between maternal 25(OH)D status and crown–heel length at birth.9,30,47,54,55,57,59
+
+## Small-for-gestational age and gestational weight gain
+
+Pooled analyses indicated significantly greater average daily weight gain in the third trimester among women supplemented with vitamin D (two trials, 11.8 g/day &lt;span&gt;[3.4, 20.2]&lt;/span&gt;) (Figure S4), and a non-statistically significant 33% decrease in the risk of small-for-gestational age (SGA) (Figure 2). However, an observational cohort study from Boston reported no difference in birthweight for gestational age by quartile of vitamin D intake in unadjusted analysis.60
+
+Prospective observational studies of vitamin D status and SGA have had mixed findings (Table S4). Two studies, one of HIV-positive women in Tanzania and another among pregnant adolescents in the UK, did not find statistically significant associations between maternal 25(OH)D levels and SGA.49,61 However, the largest study to date, from the Netherlands, found that the risk of SGA among vitamin D-deficient women [25(OH)D &lt; 30 nmol/L](25(OH)D%20&lt;%2030%20nmol/L) was nearly twice that of women with adequate status in multivariable adjusted models (adjusted odds ratio (OR) 1.9 &lt;span&gt;[95% CI 1.4, 2.7]&lt;/span&gt;).57 A recent nested case–control study from Pittsburgh found evidence of a U-shaped relationship between vitamin D status and SGA among white women in the study: those with serum 25(OH)D levels less than 37.5 nmol/L had a 7.5-fold &lt;span&gt;[95% CI 1.8, 31.9]&lt;/span&gt; higher risk of SGA compared with those with levels between 37.5 and 75 nmol and those with levels exceeding 75 nmol/L had a 2.1 times higher risk &lt;span&gt;[1.2, 3.8]&lt;/span&gt;.62 Effect modification by race was also evident as no statistically significant relationships between serum 25(OH)D levels and SGA risk were observed among black women included in the study.
+
+## Preterm birth
+
+No significant association was evident between vitamin D supplementation and preterm delivery (&lt;37 weeks) or mean duration of gestation in pooled analyses (Figure 3, Figure S5), or in two observational studies of intake of vitamin D and mean duration of gestation (Figure S6).5,42,60,63
+
+Figure 3. Trials of vitamin D supplementation and risk of preterm delivery and mean duration of gestation. IV, inverse variance; CI, confidence interval; IU, international units.
+
+Two studies examined relationships with blood levels of 25(OH)D during pregnancy and preterm birth. In Tanzania, no difference in risk of preterm birth (&lt;37 weeks, RR = 0.84 &lt;span&gt;[0.55–1.28]&lt;/span&gt;) or early preterm birth (&lt;34 weeks, RR = 0.77 &lt;span&gt;[0.50, 1.18]&lt;/span&gt;) was observed among HIV-positive women using a cut-off of 80 nmol/L.49 Similarly, no difference in the third trimester 25(OH)D levels was found for adolescents in the UK delivering preterm vs. normal gestational length babies.61
+
+Observational studies with serum 25(OH)D levels as an exposure did suggest longer gestational duration associated with higher 25(OH)D levels. In the Netherlands, women with serum levels &gt;50 nmol/L had a slightly longer gestational length of 40.2 weeks vs. 40.0 weeks vs. women in two categories of lower intake (P &lt; 0.001).57 An Australian study noted a significant 0.7-week shorter gestation &lt;span&gt;[?1.3, ?0.1]&lt;/span&gt; among women with blood 25(OH)D levels &lt;28 nmol/L compared with those with higher levels.30 A hospital-based study from Japan also found lower mean 25(OH)D levels among mothers with threatened premature delivery.64
+
+## Fetal loss
+
+One trial reported a case of stillbirth in the non-intervention arm, but we found no other trials or observational studies of vitamin D intake with data on fetal loss.42 One study among HIV-positive women from Tanzania found no significant difference in fetal loss among women with deficiency vs. those with sufficient status (RR = 1.05 &lt;span&gt;[95% CI 0.63, 1.74]&lt;/span&gt;).49
+
+## Pre-eclampsia, caesarian section and maternal mortality
+
+We did not find any published data from trials on the effects of vitamin D supplementation on risk of pre-eclampsia. Preliminary data shared with us by investigators from the trial in South Carolina indicate monotonic reductions in risk with increasing supplement dosage (400, 2000, 4000 IU) for a composite pre-eclampsia/eclampsia/gestational hypertension outcome, which, although not significant in intent-to-treat analysis, became significant after controlling for race (personnal communication, Bruce Hollis, Jan 9, 2012).
+
+Pooled analysis of a very large (n = 23 423) study from Norway and a large (n = 1718) study from Massachusetts (Figure S7) revealed no significant difference in risk of pre-eclampsia between top and bottom categories of total vitamin D intake (OR = 0.95 &lt;span&gt;[95% CI 0.86, 1.06]&lt;/span&gt;).89 While the comparison between &gt;800 IU with &lt;200 IU of total vitamin D intake in the Norwegian study was not statistically significant (OR = 0.89 &lt;span&gt;[0.75, 1.06), women with intake between 600 and 800 IU had significantly reduced risk of pre-eclampsia (adjusted OR 0.77 [0.61–0.96]&lt;/span&gt;) compared with those consuming &lt;200 IU/day. In contrast, a heightened risk of gestational hypertension was associated with increased vitamin D intake in the study from Massachusetts (adjusted OR = 1.11 &lt;span&gt;[1.01, 1.21]&lt;/span&gt;).
+
+Observational studies of vitamin D status during pregnancy and risk of pre-eclampsia have not shown consistent associations (Table S5) Investigators of a study from Pittsburgh observed an inverse monotonic dose response relationship between 25(OH)D levels in early pregnancy and pre-eclampsia: for every 50 nmol/L decline in 25(OH)D levels, the risk of pre-eclampsia more than doubled (adjusted OR 2.4 &lt;span&gt;[1.1, 5.4]&lt;/span&gt;).65 Similarly, a nested case control study from North Carolina reported that women with 25(OH)D levels &lt;50 nmol/L had more than five times greater risk of severe preeclapsia compared with those with levels &gt;75 nmol/L (adjusted OR 5.41 &lt;span&gt;[2.02, 14.52]&lt;/span&gt;).66 In contrast, a recent nested case control study conducted in Massachusetts found no statistically significant difference in risk of pre-eclampsia for women with 25(OH)D levels &lt;37.5 nmol/L (adjusted OR 1.35 &lt;span&gt;[0.40, 4.50]&lt;/span&gt;).67 Another prospective cohort study of pregnancies at high risk for pre-eclampsia in Canada found no effect of 25(OH)D during early pregnancy on pre-eclampsia risk.68
+
+In a recently published trial from South Carolina, no statistically significant differences in mode of delivery (caesarian section vs. vaginal delivery) were noted by vitamin D supplementation group, although adjustment for race reportedly led to a statistical significant trend of increasing protection with higher dosage.5 An observational study undertaken in Boston found that women with vitamin D levels 25(OH)D &lt; 37.5 nmol/L during pregnancy were found to have nearly a four times greater risk of caesarian delivery (adjusted OR 3.84 &lt;span&gt;[1.71, 8.62]&lt;/span&gt;).1 Similarly no association between maternal vitamin D status and mode of delivery was found in an Australian observational study.56
+
+No trials or observational studies of vitamin D supplementation/intake and maternal mortality or morbidity during pregnancy were identified. However, a study from Tanzania found that pregnant women with 25(OH)D levels &lt;80 nmol/L had increased risk of HIV disease progression and that risk of all-cause mortality was significantly lower in the highest quintile of 25(OH)D compared with the lowest (incidence RR = 0.58 &lt;span&gt;[0.40, 0.84]&lt;/span&gt;).48
+
+## Neonatal and infant growth
+
+One supplementation trial in the UK reported significantly greater weight gain among infants born to women supplemented with vitamin D compared with the placebo group at 3, 6, 9 and 12 months of life &lt;span&gt;[12-month comparison: 6.39 vs. 5.92 kg in the control group (P &lt; 0.01)]&lt;/span&gt;.69 Up to 6 months of age, there were no differences in attained height between groups, but by 1 year of age, those in the vitamin D group had grown 27.9 vs. 24.6 cm in the placebo group (P &lt; 0.001).
+
+A large observational study in the Netherlands found no differences in multivariable adjusted mean weight-for-age z scores by category of maternal vitamin D status during pregnancy for any measure taken during the first year of life. While infants born to mothers with 25(OH)D levels &lt;30 nmol/L had significantly lower mean length for age z scores at 1 month compared with those born to women adequate status (&gt;50 nmol/L), paradoxically they had higher z scores by 12 months with no differences observed at 3, 6 or 9 months.57 In another study conducted in the Gambia among a population with high vitamin D status, no significant relationships or trends were found by maternal 25(OH)D status taken at either week 20 or week 36 of pregnancy and weight or height-for-age z scores at 2, 13 or 52 weeks.47 A cohort study of the effects of maternal vitamin D status during pregnancy on subsequent outcomes in Southampton, UK, found no differences in attained weight or length at 9 months of follow-up across quartiles of 25(OH)D status measured in late pregnancy (with cut points at &lt;30, 50, 75 and &gt;75 nmol/L).54 However, in a linear regression model examining predictors of height at 9 months that included height measured at birth, a significant association with maternal 25(OH)D was observed (P = 0.02).54,70 A study in India found no difference in attained height at age 5 years between children of mothers with 25(OH)D levels above vs. below 50 nmol/L during pregnancy.50
+
+## Neonatal and infant morbidity and mortality
+
+We did not identify any trials of vitamin D supplementation during pregnancy with outcomes related to infant or child mortality, although a death was noted in one trial.42 In a cohort study of 1194 children from Massachusetts, no significant trend was found across quintiles of maternal vitamin D intake during pregnancy on risk of reported diagnosis of respiratory infections by a health professional up to 3 years of age in multivariable adjusted analysis.60 A study of 922 infants in New Zealand found significantly greater risk of respiratory infection (a composite variable of colds, cough, whooping cough, chest infections and ear infections) by 3 months of age among infants with cord blood levels of 25(OH)D less than 25 nmol/L in adjusted analysis compared with levels at or above 75 nmol/L (OR = 2.04 &lt;span&gt;[1.13, 3.17]&lt;/span&gt;).71 In contrast to these findings, a cohort study from Southampton, England, which followed up children at age 9 months, found that mothers in the top quartile of 25(OH)D status in late pregnancy were significantly more likely to report their children having been diagnosed with pneumonia or bronchiolitis, compared with those in the bottom quartile (unadjusted OR 4.80 &lt;span&gt;[1.01, 22.73]&lt;/span&gt;), although no differences in risk for respiratory infections overall or for chest infections or bronchitis were observed.54 The same study unexpectedly also found that children of mothers in the highest quartile of vitamin D status were more likely to have reported having one or more bouts of diarrhoea vs. those in the bottom quartile (OR = 1.87 &lt;span&gt;[1.01, 3.46]&lt;/span&gt;. In a study of infants born to HIV-positive mothers in Tanzania, vitamin D insufficiency during pregnancy (&lt;80 nmol/L) was associated with heightened risk of a composite end-point of infant mortality/HIV infection (RR = 1.49 &lt;span&gt;[1.07, 2.09]&lt;/span&gt;).49
+
+## Comments
+
+Scientific understanding of the importance of vitamin D during pregnancy for perinatal and child health outcomes is growing rapidly, and our review consolidates a great deal of new information from trials and observational studies not incorporated in a prior meta-analysis on the topic.35 In addition to its classical functions related to calcium homeostasis and bone development, emerging evidence suggests that adequate maternal vitamin D status could play important roles in ensuring proper fetal and placental development and proper immune response and function during pregnancy, although the relative importance of its different putative effects on pathways leading to clinical outcomes is not well understood.16,22,65
+
+It is important to interpret the findings of our pooled analyses with caution, particularly given the small number and small sample size of existing trials and the heterogeneity observed across a number of outcomes. Most trials tested the effects of vitamin D supplements provided during the third trimester and in two trials, supplementation did not bring mean levels above 50 nmol/L (Table S6).42,51 All trials to date, with the exception of one46, were conducted among populations living at northern latitudes with evidence of vitamin D deficiency or insufficiency. The generalizability of findings of these trials to populations living near the equator with potentially greater exposure to sunlight is uncertain, although it is important to consider the role that cultural practices of head covering and urban lifestyles may have in contributing to vitamin D insufficiency even in tropical countries.
+
+Despite the lack of a statistical significance of the effect observed in our pooled analysis of SGA, we found fairly consistent evidence from trials suggesting that vitamin D has the potential to influence fetal growth among deficient populations, supported by significant effects observed in the meta-analysis of data on gestational weight gain and low birthweight. Our findings suggested either a null or a modest effect on mean birth weight. It is well accepted that mean birthweight is limited in its ability to capture fetal growth restriction, partly because it also reflects gestational age.62 Only one observational study suggested that the risk of SGA might increase at higher levels of 25(OH)D, but many studies appeared to only examine 25(OH)D as a dichotomous categorical variable. Future observational studies should examine potential non-linear relationships across the entire distribution.62 Further exploration of heterogeneity in effects by race and/or vitamin D receptor genotype may be important.58,62
+
+Some, but not all, studies suggested an effect of vitamin D on risk of pre-eclampsia. In addition to the studies we reviewed, a trial using cod liver oil containing vitamin D along with multi-micronutrient supplement found a significant 32% reduction in preeclampsia risk, and a trial of vitamin D and calcium from India indicated a non-significant benefit on pre-eclampsia.72,73 It has been speculated that early pregnancy, when the placenta is still developing, might be the most aetiologically relevant time period for vitamin D supplementation on pre-eclampsia but this hypothesis requires further testing and received limited support from the one observational study to explore the importance of timing of supplementation during pregnancy.74
+
+We found little evidence to evaluate the effect of vitamin D on preterm birth or any of its obstetric precursors. Approximately 25–40% of all preterm births are thought to be associated with intra-uterine infection.75 An influence of vitamin D status on bacterial infections during pregnancy is plausible and is supported by the consistency of findings of several cross-sectional observational studies in the US suggesting inverse relationships between 25(OH)D and bacterial vaginosis during pregnancy.15,76,77 Larger observational studies or trials with more detailed outcome evaluation are needed to assess the potential for vitamin D to influence risk of preterm birth.
+
+Both the observational study from Massachusetts and the trial from South Carolina provide support for an effect of vitamin D on risk of primary caesarean section.1,5 In apparent contrast to these findings, two studies excluded from our analysis because of their non-prospective nature suggest no association between mode of delivery or dystocia and maternal vitamin D status.78,79 Heterogeneity in these associations is not entirely unexpected because decision making related to caesarian delivery may vary across settings. Given the strength of the association observed in the study from Massachusetts, the role of vitamin D in regulation of calcium (which may help to initiate labour and influence muscle function), and the potential role on pre-eclampsia, further exploration would be worthwhile.80
+
+Maternal serum levels of 25(OH)D during pregnancy are correlated with cord blood and neonatal levels of 25(OH)D could influence neonatal and early childhood health and growth, particularly because breastmilk is a poor source of vitamin D in absence of high dose maternal supplementation.5 A growing number of studies suggest the importance of adequate vitamin D status during childhood to the prevention of respiratory infections. A study from Ethiopia found that children with rickets had a 13-fold higher risk of pneumonia compared with controls5 while a trial in Afghanistan found that vitamin D supplementation of children diagnosed with pneumonia both significantly reduced the risk of repeat episodes during 90 days of follow-up by 22% and increased the time to repeat episode.81 Limitations of the studies we identified include reliance on maternal reports of doctor&#39;s diagnosis, little specificity of outcomes, and in the case of the study from England showing increased risk associated with better vitamin D status, a lack of adjustment for potential confounders such as access to health care or education.54 Infections remain an important cause of neonatal and early childhood mortality in many countries, and trials of maternal vitamin D supplementation in such settings should also include follow-up of children for respiratory infections (and HIV seroconversion in high-prevalence settings).48,49,82
+
+The importance of vitamin D to linear growth during childhood was considered at least as early the 1930s.83,84 The strongest support for a direct role of vitamin D supplementation on child growth comes from the trial in the UK. Beneficial effects on linear growth were observed at 9 months but not prior to that time.69 It is difficult to explain the inconsistencies between these findings and observations from the Netherlands showing that children born to vitamin D-deficient mothers appeared to have greater growth velocity, although residual confounding and vitamin D supplementation practices during early childhood in the latter study have been offered as explanations.57
+
+## Policy implications and future research directions
+
+Despite growing interest in the relationships between vitamin D status during pregnancy and perinatal and infant health outcomes, the epidemiological evidence base remains weak for all of the outcomes we included in our review. Compelling evidence exists for a potential role of vitamin D on a number of perinatal and maternal health outcomes and more randomised trials of vitamin D supplementation during pregnancy are needed to evaluate the potential for vitamin D supplementation to prevent adverse outcomes. Such trials should be undertaken in settings in which vitamin D deficiency is likely to be a risk: latitude, cultural practices of head covering, urban life style, poor dietary intake of vitamin D and season are all factors that may be useful to consider when selecting populations for such trials.
+
+Dosage for such trials should be guided by population 25(OH)D levels at baseline and desired target levels.85 The threshold used to define optimal serum 25(OH)D levels is contentious, although many researchers have argued that levels of at least 75–80 nmol or even higher are desirable based on observational studies and estimates of circulating levels from living under UV-rich conditions similar to which humans evolved.32,37 Recent research from the multi-dose trial of pregnant women suggests that serum levels of 25(OH)D exceeding 100 nmol/L may be needed to optimise production of 1,25(OH)D.5
+
+The fat soluble properties of vitamin D mean that intermittent (e.g. weekly or monthly) dosage is possible, which may be particularly useful in countries with weak health infrastructure, but also raises the need to consider potential adverse effects due to toxicity. The upper limit of intake above which adverse health outcomes such as hypercalcaemia during pregnancy may develop is uncertain. The US tolerable upper limit for women of reproductive age including pregnant women was recently set at 4000 IU/day although it has been argued that there is little evidence of toxicity of higher levels up to 10 000 IU/day.33 Dosages administered during recent trials without adverse effects include daily provision of up to 4000 IU/day vitamin D3 throughout pregnancy in the trial from South Carolina5 (although women with high baseline serum levels were excluded from the highest dose group and supplementation began at 16 weeks), provision of a weekly dose of 35 000 IU D3 during the third trimester in Bangladesh,86 and a one time dose of 200 000 IU vitamin D3 in the third trimester of pregnancy.42,51 Monitoring of adverse events in clinical trials using high intermittent dosing may also be an important consideration.87
+
+Lastly, we note that the vast majority of studies published to date on vitamin D and perinatal health outcomes have been undertaken in high-income countries. While populations in these settings may be at greater risk for vitamin D deficiency because of lower UV light exposure, more research is needed in populations from low-income countries, which may have lower dietary intake, higher disease burden, and for which vitamin D deficiency may be a growing problem associated with urbanisation.
+
+## Conclusion
+
+In a systematic review of the literature we found only a low level of evidence relating vitamin D supplementation or intake during pregnancy on perinatal and infant health-related outcomes. Emerging evidence suggesting plausible effects on intra-uterine growth restriction, pre-eclampsia, and both maternal and infant infections as important outcomes in need of further research in low-income settings. Several trials are underway including in Pakistan and Bangladesh and should help to clarify the importance of vitamin D supplementation as an intervention for perinatal, maternal and infant health outcomes.5,88 Vitamin D is an essential nutrient with well-established roles in calcium metabolism and the prevention of rickets that are important for policymakers to consider alongside the outcomes reviewed here.
+
+### Acknowledgements
+
+We greatly appreciate the willingness of Dr Christina Yu and Dr Bruce Hollis and Dr Carol Wagner to share additional data for this analysis. Andrew Thorne-Lyman is supported by training grant T32 #DK 007703 from the U.S. National Institutes of Health (NIH) and a Julius B. Richmond Fellowship from the Center on the Developing Child at Harvard University.
+
+### Conflicts of interests
+
+The authors have no conflicts of interest to report related to this article.
+
+## References:  **&lt;span style=&quot;color:#00F;&quot;&gt;{See attached PDF}&lt;/span&gt;** 
+
+## Supporting Information  **&lt;span style=&quot;color:#00F;&quot;&gt;{in attached supplement}&lt;/span&gt;** 
+
+Figure S1. Trials and observational studies of vitamin D supplementation and mean birthweight (in grams).
+
+Figure S2. Trials of vitamin D supplementation and SGA and low birthweight, disaggregated by dosing approach.
+
+Figure S3. Trials of vitamin D supplementation and mean crown–heel length (in cm).
+
+Figure S4. Trials of vitamin D supplementation and mean daily weight gain during the 3rd trimester (in grams).
+
+Figure S5. Supplementation and preterm delivery and mean duration of gestation, disaggregated by dosing approach.
+
+Figure S6. Observational studies of vitamin D intake and mean gestational age.
+
+Figure S7. Observational studies of vitamin D intake and pre-eclampsia risk.
+
+Table S1. Search strategy and keywords.
+
+Table S2. Evaluation of the quality of eligible trials for potential inclusion in the meta-analysis.
+
+Table S3. Evaluation of the quality of evidence of individual observational studies for potential inclusion in the meta-analysis.
+
+Table S4. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and measures of fetal growth, birth weight, and preterm birth.
+
+Table S5. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and pre-eclampsia.
+
+Table S6. Baseline and attained levels of maternal 25(OH)D at delivery in trials.
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!!!Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis`
+│   inner_content: `Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis`
+│   │   inner_content: `Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis`├── TextNode
+│   full_match: `\nAndrew Thorne-Lyman1,*, Wafaie W. Fawzi1,2,3; Article first published online: 28 JUN 2012\n© 2012 Blackwell Publishing Ltd\nPaediatric and Perinatal Epidemiology, Volume 26, Issue Supplement s1, pages 75–90, July 2012\nSpecial Issue: Improving maternal, newborn, and child health outcomes through better designed policies and programs that enhance the nutrition of women\n`
+│   inner_content: `\nAndrew Thorne-Lyman1,*, Wafaie W. Fawzi1,2,3; Article first published online: 28 JUN 2012\n© 2012 Blackwell Publishing Ltd\nPaediatric and Perinatal Epidemiology, Volume 26, Issue Supplement s1, pages 75–90, July 2012\nSpecial Issue: Improving maternal, newborn, and child health outcomes through better designed policies and programs that enhance the nutrition of women\n`├── BoxNode
+│   full_match: `{BOX(title=&gt;VitaminDWiki Comments, links class=&quot;border&quot; bg=&gt;#FF9,width=&gt;85%)}\nThe only daily vitamin D data used in the meta-analysis was 1000 IU of vitamin __~~#F00:D2~~__\nCan expect much better results if D3 were to be used and with more IU\n!!!See also VitaminDWiki\n* [https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]\n*((Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015))\n*((2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013))  ~~#00F:__Meta-analysis__~~\n*((2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013))  ~~#00F:__Meta-analysis__~~\n*((Pregnancy and vitamin D meta-analysis – July 2012)) ~~#00F:__Meta-analysis__~~\n*((Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012)) ~~#00F:__Meta-analysis__~~\n*[https://www.VitaminDWiki.com/tiki-index.php?page_id=467|__~~#090:7X~~__ more likely to have low birth weight babies when mother very low on vitamin D – March 2010]\n*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3198|Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012]\n*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)] 901 items as of July 2016__\n*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )] 265 items as of Dec 2016\n*((Less vitamin D makes for low birth weight for white babies - May 2010))\n*((Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013))\n+It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half\n*((Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015))\n!!See also web\n*[http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1|Pre-term births report by CDC] USA-Today May 2012\n+Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%\n+For 62 out of 65 countries, the rate of premature births has been increasing \n*[http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0|Births of Low Birthweight as a Percent of All Births by Race/Ethnicity ]Kaiser Foundation\n+Black 13%, White 7% - 2014 details by state\nThe following text has been extracted from PDF\n__~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}~~__\n{BOX}`
+│   inner_content: `\nThe only daily vitamin D data used in the meta-analysis was 1000 IU of vitamin __~~#F00:D2~~__\nCan expect much better results if D3 were to be used and with more IU\n!!!See also VitaminDWiki\n* [https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]\n*((Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015))\n*((2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013))  ~~#00F:__Meta-analysis__~~\n*((2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013))  ~~#00F:__Meta-analysis__~~\n*((Pregnancy and vitamin D meta-analysis – July 2012)) ~~#00F:__Meta-analysis__~~\n*((Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012)) ~~#00F:__Meta-analysis__~~\n*[https://www.VitaminDWiki.com/tiki-index.php?page_id=467|__~~#090:7X~~__ more likely to have low birth weight babies when mother very low on vitamin D – March 2010]\n*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3198|Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012]\n*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)] 901 items as of July 2016__\n*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )] 265 items as of Dec 2016\n*((Less vitamin D makes for low birth weight for white babies - May 2010))\n*((Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013))\n+It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half\n*((Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015))\n!!See also web\n*[http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1|Pre-term births report by CDC] USA-Today May 2012\n+Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%\n+For 62 out of 65 countries, the rate of premature births has been increasing \n*[http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0|Births of Low Birthweight as a Percent of All Births by Race/Ethnicity ]Kaiser Foundation\n+Black 13%, White 7% - 2014 details by state\nThe following text has been extracted from PDF\n__~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}~~__\n`
+│   attrs_dict:
+│   │   raw_content: title=&gt;VitaminDWiki Comments, links class=&quot;border&quot; bg=&gt;#FF9,width=&gt;85%
+│   │   title: &gt;VitaminDWiki
+│   │   class: border
+│   │   bg: &gt;#FF9
+│   │   width: &gt;85%
+│   children:
+│   ├── TextNode
+│   │   full_match: `\nThe only daily vitamin D data used in the meta-analysis was 1000 IU of vitamin `
+│   │   inner_content: `\nThe only daily vitamin D data used in the meta-analysis was 1000 IU of vitamin `
+│   ├── BoldNode
+│   │   full_match: `__~~#F00:D2~~__`
+│   │   inner_content: `~~#F00:D2~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#F00:D2~~`
+│   │   │   inner_content: `D2`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #F00
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `D2`
+│   │   │   │   inner_content: `D2`
+│   ├── TextNode
+│   │   full_match: `\nCan expect much better results if D3 were to be used and with more IU\n`
+│   │   inner_content: `\nCan expect much better results if D3 were to be used and with more IU\n`
+│   ├── HeadingNode
+│   │   full_match: `!!!See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`
+│   │   level: `3`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `See also VitaminDWiki`
+│   │   │   inner_content: `See also VitaminDWiki`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `* [https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
+│   │   inner_content: ` [https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LinkNode
+│   │   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]`
+│   │   │   inner_content: `Overview Pregnancy and Vitamin D`
+│   │   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=816`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Overview Pregnancy and Vitamin D`
+│   │   │   │   inner_content: `Overview Pregnancy and Vitamin D`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015))`
+│   │   inner_content: `((Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015))`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015))`
+│   │   │   inner_content: `Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015`
+│   │   │   page: `Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015`
+│   │   │   │   inner_content: `Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013))  ~~#00F:__Meta-analysis__~~`
+│   │   inner_content: `((2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013))  ~~#00F:__Meta-analysis__~~`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013))`
+│   │   │   inner_content: `2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013`
+│   │   │   page: `2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013`
+│   │   │   │   inner_content: `2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013`
+│   │   ├── TextNode
+│   │   │   full_match: `  `
+│   │   │   inner_content: `  `
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:__Meta-analysis__~~`
+│   │   │   inner_content: `__Meta-analysis__`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Meta-analysis__`
+│   │   │   │   inner_content: `Meta-analysis`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Meta-analysis`
+│   │   │   │   │   inner_content: `Meta-analysis`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013))  ~~#00F:__Meta-analysis__~~`
+│   │   inner_content: `((2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013))  ~~#00F:__Meta-analysis__~~`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013))`
+│   │   │   inner_content: `2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013`
+│   │   │   page: `2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013`
+│   │   │   │   inner_content: `2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013`
+│   │   ├── TextNode
+│   │   │   full_match: `  `
+│   │   │   inner_content: `  `
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:__Meta-analysis__~~`
+│   │   │   inner_content: `__Meta-analysis__`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Meta-analysis__`
+│   │   │   │   inner_content: `Meta-analysis`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Meta-analysis`
+│   │   │   │   │   inner_content: `Meta-analysis`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((Pregnancy and vitamin D meta-analysis – July 2012)) ~~#00F:__Meta-analysis__~~`
+│   │   inner_content: `((Pregnancy and vitamin D meta-analysis – July 2012)) ~~#00F:__Meta-analysis__~~`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Pregnancy and vitamin D meta-analysis – July 2012))`
+│   │   │   inner_content: `Pregnancy and vitamin D meta-analysis – July 2012`
+│   │   │   page: `Pregnancy and vitamin D meta-analysis – July 2012`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Pregnancy and vitamin D meta-analysis – July 2012`
+│   │   │   │   inner_content: `Pregnancy and vitamin D meta-analysis – July 2012`
+│   │   ├── TextNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:__Meta-analysis__~~`
+│   │   │   inner_content: `__Meta-analysis__`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Meta-analysis__`
+│   │   │   │   inner_content: `Meta-analysis`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Meta-analysis`
+│   │   │   │   │   inner_content: `Meta-analysis`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012)) ~~#00F:__Meta-analysis__~~`
+│   │   inner_content: `((Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012)) ~~#00F:__Meta-analysis__~~`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012))`
+│   │   │   inner_content: `Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012`
+│   │   │   page: `Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012`
+│   │   │   │   inner_content: `Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012`
+│   │   ├── TextNode
+│   │   │   full_match: ` `
+│   │   │   inner_content: ` `
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:__Meta-analysis__~~`
+│   │   │   inner_content: `__Meta-analysis__`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__Meta-analysis__`
+│   │   │   │   inner_content: `Meta-analysis`
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Meta-analysis`
+│   │   │   │   │   inner_content: `Meta-analysis`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=467|__~~#090:7X~~__ more likely to have low birth weight babies when mother very low on vitamin D – March 2010]`
+│   │   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=467|__~~#090:7X~~__ more likely to have low birth weight babies when mother very low on vitamin D – March 2010]`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LinkNode
+│   │   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=467|__~~#090:7X~~__ more likely to have low birth weight babies when mother very low on vitamin D – March 2010]`
+│   │   │   inner_content: `__~~#090:7X~~__ more likely to have low birth weight babies when mother very low on vitamin D – March 2010`
+│   │   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=467`
+│   │   │   children:
+│   │   │   ├── BoldNode
+│   │   │   │   full_match: `__~~#090:7X~~__`
+│   │   │   │   inner_content: `~~#090:7X~~`
+│   │   │   │   children:
+│   │   │   │   ├── ColorNode
+│   │   │   │   │   full_match: `~~#090:7X~~`
+│   │   │   │   │   inner_content: `7X`
+│   │   │   │   │   attrs_dict:
+│   │   │   │   │   │   raw_content: #090
+│   │   │   │   │   children:
+│   │   │   │   │   ├── TextNode
+│   │   │   │   │   │   full_match: `7X`
+│   │   │   │   │   │   inner_content: `7X`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` more likely to have low birth weight babies when mother very low on vitamin D – March 2010`
+│   │   │   │   inner_content: ` more likely to have low birth weight babies when mother very low on vitamin D – March 2010`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3198|Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012]`
+│   │   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3198|Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012]`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LinkNode
+│   │   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=3198|Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012]`
+│   │   │   inner_content: `Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012`
+│   │   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=3198`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012`
+│   │   │   │   inner_content: `Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)] 901 items as of July 2016__`
+│   │   inner_content: `__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)] 901 items as of July 2016__`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── BoldNode
+│   │   │   full_match: `__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)] 901 items as of July 2016__`
+│   │   │   inner_content: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)] 901 items as of July 2016`
+│   │   │   children:
+│   │   │   ├── LinkNode
+│   │   │   │   full_match: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)]`
+│   │   │   │   inner_content: ` Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)`
+│   │   │   │   url: `https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com `
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)`
+│   │   │   │   │   inner_content: `Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)`
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` 901 items as of July 2016`
+│   │   │   │   inner_content: ` 901 items as of July 2016`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )] 265 items as of Dec 2016`
+│   │   inner_content: `__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )] 265 items as of Dec 2016`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `__`
+│   │   │   inner_content: `__`
+│   │   ├── LinkNode
+│   │   │   full_match: `[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )]`
+│   │   │   inner_content: `Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )`
+│   │   │   url: `https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )`
+│   │   │   │   inner_content: `Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )`
+│   │   ├── TextNode
+│   │   │   full_match: ` 265 items as of Dec 2016`
+│   │   │   inner_content: ` 265 items as of Dec 2016`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((Less vitamin D makes for low birth weight for white babies - May 2010))`
+│   │   inner_content: `((Less vitamin D makes for low birth weight for white babies - May 2010))`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Less vitamin D makes for low birth weight for white babies - May 2010))`
+│   │   │   inner_content: `Less vitamin D makes for low birth weight for white babies - May 2010`
+│   │   │   page: `Less vitamin D makes for low birth weight for white babies - May 2010`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Less vitamin D makes for low birth weight for white babies - May 2010`
+│   │   │   │   inner_content: `Less vitamin D makes for low birth weight for white babies - May 2010`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013))`
+│   │   inner_content: `((Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013))`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013))`
+│   │   │   inner_content: `Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013`
+│   │   │   page: `Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013`
+│   │   │   │   inner_content: `Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half`
+│   │   inner_content: `It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half`
+│   │   level: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half`
+│   │   │   inner_content: `It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*((Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015))`
+│   │   inner_content: `((Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015))`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LocalLinkNode
+│   │   │   full_match: `((Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015))`
+│   │   │   inner_content: `Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015`
+│   │   │   page: `Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015`
+│   │   │   │   inner_content: `Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── HeadingNode
+│   │   full_match: `!!See also web`
+│   │   inner_content: `See also web`
+│   │   level: `2`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `See also web`
+│   │   │   inner_content: `See also web`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*[http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1|Pre-term births report by CDC] USA-Today May 2012`
+│   │   inner_content: `[http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1|Pre-term births report by CDC] USA-Today May 2012`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LinkNode
+│   │   │   full_match: `[http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1|Pre-term births report by CDC]`
+│   │   │   inner_content: `Pre-term births report by CDC`
+│   │   │   url: `http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Pre-term births report by CDC`
+│   │   │   │   inner_content: `Pre-term births report by CDC`
+│   │   ├── TextNode
+│   │   │   full_match: ` USA-Today May 2012`
+│   │   │   inner_content: ` USA-Today May 2012`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%`
+│   │   inner_content: `Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%`
+│   │   level: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%`
+│   │   │   inner_content: `Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+For 62 out of 65 countries, the rate of premature births has been increasing `
+│   │   inner_content: `For 62 out of 65 countries, the rate of premature births has been increasing `
+│   │   level: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `For 62 out of 65 countries, the rate of premature births has been increasing `
+│   │   │   inner_content: `For 62 out of 65 countries, the rate of premature births has been increasing `
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── ListItemNode
+│   │   full_match: `*[http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0|Births of Low Birthweight as a Percent of All Births by Race/Ethnicity ]Kaiser Foundation`
+│   │   inner_content: `[http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0|Births of Low Birthweight as a Percent of All Births by Race/Ethnicity ]Kaiser Foundation`
+│   │   depth: `1`
+│   │   children:
+│   │   ├── LinkNode
+│   │   │   full_match: `[http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0|Births of Low Birthweight as a Percent of All Births by Race/Ethnicity ]`
+│   │   │   inner_content: `Births of Low Birthweight as a Percent of All Births by Race/Ethnicity `
+│   │   │   url: `http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0`
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Births of Low Birthweight as a Percent of All Births by Race/Ethnicity `
+│   │   │   │   inner_content: `Births of Low Birthweight as a Percent of All Births by Race/Ethnicity `
+│   │   ├── TextNode
+│   │   │   full_match: `Kaiser Foundation`
+│   │   │   inner_content: `Kaiser Foundation`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`
+│   ├── IndentNode
+│   │   full_match: `+Black 13%, White 7% - 2014 details by state`
+│   │   inner_content: `Black 13%, White 7% - 2014 details by state`
+│   │   level: `1`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Black 13%, White 7% - 2014 details by state`
+│   │   │   inner_content: `Black 13%, White 7% - 2014 details by state`
+│   ├── TextNode
+│   │   full_match: `\nThe following text has been extracted from PDF\n`
+│   │   inner_content: `\nThe following text has been extracted from PDF\n`
+│   ├── BoldNode
+│   │   full_match: `__~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}~~__`
+│   │   inner_content: `~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}~~`
+│   │   │   inner_content: ` {ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── AttachNode
+│   │   │   │   full_match: `{ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}`
+│   │   │   │   inner_content: `Download the PDF from VitaminDWiki.`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: (inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)
+│   │   │   │   │   inline: 1
+│   │   │   │   │   id: 1435
+│   │   │   │   │   icon: 1
+│   │   │   │   children:
+│   │   │   │   ├── TextNode
+│   │   │   │   │   full_match: `Download the PDF from VitaminDWiki.`
+│   │   │   │   │   inner_content: `Download the PDF from VitaminDWiki.`
+│   ├── TextNode
+│   │   full_match: `\n`
+│   │   inner_content: `\n`├── HorizontalRuleNode
+│   full_match: `\n---\n`
+│   inner_content: `---`├── HeadingNode
+│   full_match: `!!Abstract`
+│   inner_content: `Abstract`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Abstract`
+│   │   inner_content: `Abstract`├── TextNode
+│   full_match: `\nVitamin D has well-defined classical functions related to calcium metabolism and bone health but also has non-classical effects that may influence other aspects of health. There has been considerable recent interest in the role of vitamin D on outcomes related to pregnancy and young child health but few efforts have been made to systematically consolidate this evidence to inform the research and policy agenda for low-income countries.\n\nA systematic review was undertaken to identify intervention and observational studies of vitamin D supplementation, intake or status (25-hydroxy-vitamin D) during pregnancy on perinatal and infant health outcomes. Data from trials and observational studies isolating the effect of vitamin D supplementation and intake were extracted and study quality was evaluated. Meta-analysis was used to pool effect estimates. \n\nWe identified five randomised trials with outcomes of relevance to our review. All had small sample size and dosage amount, duration and frequency varied as did the ability to correct deficiency. \n\nPooled analysis of trials using fixed-effects models suggested `
+│   inner_content: `\nVitamin D has well-defined classical functions related to calcium metabolism and bone health but also has non-classical effects that may influence other aspects of health. There has been considerable recent interest in the role of vitamin D on outcomes related to pregnancy and young child health but few efforts have been made to systematically consolidate this evidence to inform the research and policy agenda for low-income countries.\n\nA systematic review was undertaken to identify intervention and observational studies of vitamin D supplementation, intake or status (25-hydroxy-vitamin D) during pregnancy on perinatal and infant health outcomes. Data from trials and observational studies isolating the effect of vitamin D supplementation and intake were extracted and study quality was evaluated. Meta-analysis was used to pool effect estimates. \n\nWe identified five randomised trials with outcomes of relevance to our review. All had small sample size and dosage amount, duration and frequency varied as did the ability to correct deficiency. \n\nPooled analysis of trials using fixed-effects models suggested `├── BoldNode
+│   full_match: `__protective effects of supplementation on low birthweight__`
+│   inner_content: `protective effects of supplementation on low birthweight`
+│   children:
+│   ├── TextNode
+│   │   full_match: `protective effects of supplementation on low birthweight`
+│   │   inner_content: `protective effects of supplementation on low birthweight`├── TextNode
+│   full_match: ` (three trials, risk ratio (RR) = 0.40 `
+│   inner_content: ` (three trials, risk ratio (RR) = 0.40 `├── LinkNode
+│   full_match: `[95% confidence interval (CI) 0.23, 0.71]`
+│   inner_content: `95% confidence interval (CI) 0.23, 0.71`
+│   url: `95% confidence interval (CI) 0.23, 0.71`
+│   children:
+│   ├── TextNode
+│   │   full_match: `95% confidence interval (CI) 0.23, 0.71`
+│   │   inner_content: `95% confidence interval (CI) 0.23, 0.71`├── TextNode
+│   full_match: `) and \nnon-significant but suggestive effects of daily supplementation on small-for-gestational age (two trials, RR = 0.67 `
+│   inner_content: `) and \nnon-significant but suggestive effects of daily supplementation on small-for-gestational age (two trials, RR = 0.67 `├── LinkNode
+│   full_match: `[0.40, 1.11]`
+│   inner_content: `0.40, 1.11`
+│   url: `0.40, 1.11`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.40, 1.11`
+│   │   inner_content: `0.40, 1.11`├── TextNode
+│   full_match: `). \nNo effect on preterm delivery (&lt;37 weeks) was evident (two trials, RR = 0.77 `
+│   inner_content: `). \nNo effect on preterm delivery (&lt;37 weeks) was evident (two trials, RR = 0.77 `├── LinkNode
+│   full_match: `[0.35, 1.66]`
+│   inner_content: `0.35, 1.66`
+│   url: `0.35, 1.66`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.35, 1.66`
+│   │   inner_content: `0.35, 1.66`├── TextNode
+│   full_match: `). \nLittle evidence from trials exists to evaluate the effect of vitamin D supplementation during pregnancy on maternal, perinatal or infant health outcomes. \nBased on both trials and observational studies, we recommend that future research explore \n`
+│   inner_content: `). \nLittle evidence from trials exists to evaluate the effect of vitamin D supplementation during pregnancy on maternal, perinatal or infant health outcomes. \nBased on both trials and observational studies, we recommend that future research explore \n`├── ListItemNode
+│   full_match: `*small-for-gestational age, `
+│   inner_content: `small-for-gestational age, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `small-for-gestational age, `
+│   │   inner_content: `small-for-gestational age, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*preterm delivery, `
+│   inner_content: `preterm delivery, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `preterm delivery, `
+│   │   inner_content: `preterm delivery, `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*pre-eclampsia, and `
+│   inner_content: `pre-eclampsia, and `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `pre-eclampsia, and `
+│   │   inner_content: `pre-eclampsia, and `├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*maternal and childhood infections, `
+│   inner_content: `maternal and childhood infections, `
+│   depth: `1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `maternal and childhood infections, `
+│   │   inner_content: `maternal and childhood infections, `├── TextNode
+│   full_match: `\nas outcomes of interest. \n\nTrials should focus on populations with a high prevalence of vitamin D deficiency, explore the relevance of timing of supplementation, and the dosage used in such trials should be sufficient to correct deficiency.\n\nThere is evidence of early interest in the relationship between vitamin D status and perinatal health outcomes. ‘Rachitic pelvis’ was noted as a common obstetric complication in the early 20th century, and may have contributed to the development of caesarian section birthing procedures.1 In the 1930s, Green and Mellanby speculated that vitamin D had little ‘anti-infective’ activity but ‘might prove of significance in connexion with other obstetric difficulties, such as uterine inertia’.2 Associations between childhood rickets, sunlight or cod-liver oil and risk of respiratory infections such as tuberculosis and pneumonia were recognised a century ago, although it has only been in recent years that the effects of vitamin D on immunity have been revisited and the underlying mechanisms behind its putative effects have started to become more clear.3\n\nVitamin D can be synthesised in the skin through exposure to ultraviolet (UV) light or can be obtained through dietary intake. Sunlight exposure is often the major influence on vitamin D status and is influenced by skin colour, latitude, season, as well as life style and cultural practices. In comparison, diet is often thought to exert a minor influence on vitamin D status although consumption of supplements can strongly influence status.4,5\n\nGlobally, it has been estimated that a billion people may be affected by vitamin D deficiency or insufficiency.6 Generally, populations from countries near the equator (particularly agrarian and nomadic populations) are thought to have sufficient exposure to UV wavelengths required for optimal vitamin D status, and this has indeed been the case in some surveys.4,7 Yet, childhood rickets, a condition caused vitamin D and/or calcium deficiency, has long been noted in certain equatorial populations, particularly those in which head covering or spending time indoors is common.4 Recent studies in Ethiopia and India have also found that more than 80% and 66% of pregnant women suffered from vitamin D deficiency using a cut-off of &lt;50 nmol/L 25(OH)D, indicating the need for more research on potential adverse effects of deficiency and benefits of supplementation in developing country contexts.8,9\n`
+│   inner_content: `\nas outcomes of interest. \n\nTrials should focus on populations with a high prevalence of vitamin D deficiency, explore the relevance of timing of supplementation, and the dosage used in such trials should be sufficient to correct deficiency.\n\nThere is evidence of early interest in the relationship between vitamin D status and perinatal health outcomes. ‘Rachitic pelvis’ was noted as a common obstetric complication in the early 20th century, and may have contributed to the development of caesarian section birthing procedures.1 In the 1930s, Green and Mellanby speculated that vitamin D had little ‘anti-infective’ activity but ‘might prove of significance in connexion with other obstetric difficulties, such as uterine inertia’.2 Associations between childhood rickets, sunlight or cod-liver oil and risk of respiratory infections such as tuberculosis and pneumonia were recognised a century ago, although it has only been in recent years that the effects of vitamin D on immunity have been revisited and the underlying mechanisms behind its putative effects have started to become more clear.3\n\nVitamin D can be synthesised in the skin through exposure to ultraviolet (UV) light or can be obtained through dietary intake. Sunlight exposure is often the major influence on vitamin D status and is influenced by skin colour, latitude, season, as well as life style and cultural practices. In comparison, diet is often thought to exert a minor influence on vitamin D status although consumption of supplements can strongly influence status.4,5\n\nGlobally, it has been estimated that a billion people may be affected by vitamin D deficiency or insufficiency.6 Generally, populations from countries near the equator (particularly agrarian and nomadic populations) are thought to have sufficient exposure to UV wavelengths required for optimal vitamin D status, and this has indeed been the case in some surveys.4,7 Yet, childhood rickets, a condition caused vitamin D and/or calcium deficiency, has long been noted in certain equatorial populations, particularly those in which head covering or spending time indoors is common.4 Recent studies in Ethiopia and India have also found that more than 80% and 66% of pregnant women suffered from vitamin D deficiency using a cut-off of &lt;50 nmol/L 25(OH)D, indicating the need for more research on potential adverse effects of deficiency and benefits of supplementation in developing country contexts.8,9\n`├── HeadingNode
+│   full_match: `\n!!Metabolism of vitamin D during pregnancy and maternal-fetal links`
+│   inner_content: `Metabolism of vitamin D during pregnancy and maternal-fetal links`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Metabolism of vitamin D during pregnancy and maternal-fetal links`
+│   │   inner_content: `Metabolism of vitamin D during pregnancy and maternal-fetal links`├── TextNode
+│   full_match: `\nOnce ingested or produced by the body, vitamin D3 is transported to the liver for hydroxylation to 25(OH)D, the main circulating form of vitamin D and best measure of vitamin D status, and then to the kidney where the active hormonal form of vitamin D, 1,25(OH)2D, is produced. Maternal 25(OH)D is thought to freely cross the human placenta as it does in rats.10 The placenta expresses vitamin D receptors and also produces the enzyme CYP27B1 to convert 25(OH)D to its active form.11\n\nThe most widely appreciated role of vitamin D in the human body is to maintain normal levels of calcium and phosphate in the blood, which in turn facilitate other essential processes such as bone mineralisation, contraction of muscles, nervous system activities and cellular function.12 Adequate vitamin D status is critically important for the neonate, with neonatal hypocalcaemia and rickets being major consequences of deficiency.10 In areas where vitamin D deficiency is endemic, rickets may be diagnosed soon after birth.10 In general, breastmilk is thought to be a relatively poor source of vitamin D, thus maternal vitamin D status during pregnancy is important for vitamin D status of the child during early infancy.10,13,14\n\nThere are a number of plausible biological pathways through which vitamin D could influence placental, fetal and maternal health or growth during pregnancy. Vitamin D has important immune-modulating properties of vitamin D, which may help to establish a proper maternal immune response to the placenta.15–17 It also regulates key target genes associated with proper implantation of the placenta.18 Vitamin D has a direct role in the production of antimicrobial peptides such as cathelicidin, which are produced upon activation of up-regulated vitamin D receptors, require 25(OH)D as a substrate for production, and may play an important role in preventing infection during pregnancy or early childhood.3,19–22 In its active form, vitamin D regulates expression of human chorionic gonadotropin in syncytiotrophoblasts and stimulates production of sex steroids.23,24In vitro and animal studies have also suggested that vitamin D has important roles in glucose and insulin metabolism, which may affect availability of energy to the fetus.16,25,26 Vitamin D also influences musculo-skeletal growth.27–30\n`
+│   inner_content: `\nOnce ingested or produced by the body, vitamin D3 is transported to the liver for hydroxylation to 25(OH)D, the main circulating form of vitamin D and best measure of vitamin D status, and then to the kidney where the active hormonal form of vitamin D, 1,25(OH)2D, is produced. Maternal 25(OH)D is thought to freely cross the human placenta as it does in rats.10 The placenta expresses vitamin D receptors and also produces the enzyme CYP27B1 to convert 25(OH)D to its active form.11\n\nThe most widely appreciated role of vitamin D in the human body is to maintain normal levels of calcium and phosphate in the blood, which in turn facilitate other essential processes such as bone mineralisation, contraction of muscles, nervous system activities and cellular function.12 Adequate vitamin D status is critically important for the neonate, with neonatal hypocalcaemia and rickets being major consequences of deficiency.10 In areas where vitamin D deficiency is endemic, rickets may be diagnosed soon after birth.10 In general, breastmilk is thought to be a relatively poor source of vitamin D, thus maternal vitamin D status during pregnancy is important for vitamin D status of the child during early infancy.10,13,14\n\nThere are a number of plausible biological pathways through which vitamin D could influence placental, fetal and maternal health or growth during pregnancy. Vitamin D has important immune-modulating properties of vitamin D, which may help to establish a proper maternal immune response to the placenta.15–17 It also regulates key target genes associated with proper implantation of the placenta.18 Vitamin D has a direct role in the production of antimicrobial peptides such as cathelicidin, which are produced upon activation of up-regulated vitamin D receptors, require 25(OH)D as a substrate for production, and may play an important role in preventing infection during pregnancy or early childhood.3,19–22 In its active form, vitamin D regulates expression of human chorionic gonadotropin in syncytiotrophoblasts and stimulates production of sex steroids.23,24In vitro and animal studies have also suggested that vitamin D has important roles in glucose and insulin metabolism, which may affect availability of energy to the fetus.16,25,26 Vitamin D also influences musculo-skeletal growth.27–30\n`├── HeadingNode
+│   full_match: `\n!!Requirements for vitamin D`
+│   inner_content: `Requirements for vitamin D`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Requirements for vitamin D`
+│   │   inner_content: `Requirements for vitamin D`├── TextNode
+│   full_match: `\nThe recommended daily allowance of vitamin D for women in the US aged 19–50 years, including during pregnancy, was recently established at 600 international units (IU) per day.31 This recommendation was based on the amount of intake necessary to sustain blood levels of 25(OH)D above 50 nmol/L for populations with minimal sunlight exposure and was developed solely based on outcomes related to skeletal health.31 This recommendation was contentious as many researchers have argued that insufficiency should be defined at thresholds of 75 nmol/L or even higher, which would require a much higher intake to reach.32,33\n\nA number of recent reviews have covered a rapidly growing body of literature on vitamin D during pregnancy,4,16,34–37 although few have taken a systematic approach35 and only a couple have focused on the implications for low-income country settings.4,38 To address this gap, we undertook a systematic review of the literature on vitamin D during pregnancy and perinatal and infant health outcomes.\n`
+│   inner_content: `\nThe recommended daily allowance of vitamin D for women in the US aged 19–50 years, including during pregnancy, was recently established at 600 international units (IU) per day.31 This recommendation was based on the amount of intake necessary to sustain blood levels of 25(OH)D above 50 nmol/L for populations with minimal sunlight exposure and was developed solely based on outcomes related to skeletal health.31 This recommendation was contentious as many researchers have argued that insufficiency should be defined at thresholds of 75 nmol/L or even higher, which would require a much higher intake to reach.32,33\n\nA number of recent reviews have covered a rapidly growing body of literature on vitamin D during pregnancy,4,16,34–37 although few have taken a systematic approach35 and only a couple have focused on the implications for low-income country settings.4,38 To address this gap, we undertook a systematic review of the literature on vitamin D during pregnancy and perinatal and infant health outcomes.\n`├── HeadingNode
+│   full_match: `\n!!Methods`
+│   inner_content: `Methods`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Methods`
+│   │   inner_content: `Methods`├── TextNode
+│   full_match: `\nThe primary aim of our literature search was to identify epidemiological studies that isolated the effect of intake of vitamin D from supplements or diet on the outcomes presented in Table 1. Skeletal health-related outcomes such as bone mineralisation and rickets were not part of this review and have been detailed elsewhere.10,31,39 Recognising in advance that few supplementation trials had been published, we sought to also identify prospective observational studies with intake of vitamin D or maternal blood 25(OH)D levels during pregnancy as exposures. Using the search strings outlined in Table S1 we searched the NLM Pubmed database and Cochrane Library through June 2011 as well as the bibliographies of reviews and relevant studies.\n\nTable 1.  Primary outcomes covered by this review\nA =outcomes for which outcomes from more than one study could not be extracted for meta-analysis.\nALRI, Acute lower respiratory infection.\n1.?Low birthweight due to intra-uterine growth restriction\n1a.?Small-for-gestational age\n1b.?Low birthweight\n1c.?Mean birthweight\n1d.?Weight gain during pregnancy\n1e.?Mean heel-crown length at delivery\n2.?Preterm birth\n2a.?Preterm birth (&lt;37 weeks)\n2b.?Early preterm birth (&lt;34 weeks) a\n2c.?Mean gestational age at delivery\n3.?Neonatal growth, morbidity and mortality\n3a.?Early infant mortality (first 6 weeks) a\n4.?Infant or child growth, morbidity and mortality\n4a.?Mean weight a\n4b.?Mean height a\n4c.?Low weight-for-age a\n4d.?Low height-for-age a\n4e.?All-cause mortality a\n4f.?Mortality due to measles, diarrhoea, ALRI or malaria a\n4g.?Mother-to-child transmission of HIV a\n4h.?Morbidity (diarrhoea, measles, malaria, ALRI) a\n5.?Maternal morbidity and mortality\n5a.?Mortality (all cause) a\n5b.?Mortality due to haemorrhage, sepsis or obstructed labour a\n5c.?Delivery complications (caesarian section) a\n5d.?Pre-eclampsia\nAn initial review of titles and abstracts was undertaken by one reviewer followed by an in-depth review of full papers that could not be initially excluded (AT-L). We excluded (1) non-human studies, (2) studies not in English, French or Spanish, (3) reviews, case reports and commentaries, (4) topics unrelated to the review, (5) studies that could not isolate the effects of vitamin D supplementation or intake, and (6) cross-sectional and non-prospective case–control studies. A modified version of the Child Health Epidemiology Reference Group&#39;s GRADE tool was used to evaluate intervention studies and observational studies of vitamin D intake for risk of bias, and those with a study quality of ‘Very Low’ were excluded. Authors of recent trials presenting clinical outcomes were requested to provide additional data on other outcomes of relevance to the meta-analysis.\n\nStudy data were extracted using a standard spreadsheet. Review Manager 5.140 was used to generate pooled effect estimates for all outcomes with data from more than one eligible study. For studies with continuous outcomes we generated mean differences and for dichotomous outcomes we calculated relative risk or odds ratio estimates, each with 95% confidence intervals (CI). Inverse variance weights were used to generate pooled effect estimates with a fixed-effects model in absence of significant heterogeneity. Heterogeneity was explored through visual inspection of Forest plots as well as through I2 values and ?2-tests for heterogeneity. In the presence of significant heterogeneity (P &lt; 0.10), we used a random-effects model. For trials testing multiple intervention arms (of daily or bolus doses), we pooled data from intervention arms, calculated the pooled mean and standard deviation41 where appropriate, and also presented separate analysis for daily vs. bolus dosage. For observational studies, comparisons were made of extreme categories.\n`
+│   inner_content: `\nThe primary aim of our literature search was to identify epidemiological studies that isolated the effect of intake of vitamin D from supplements or diet on the outcomes presented in Table 1. Skeletal health-related outcomes such as bone mineralisation and rickets were not part of this review and have been detailed elsewhere.10,31,39 Recognising in advance that few supplementation trials had been published, we sought to also identify prospective observational studies with intake of vitamin D or maternal blood 25(OH)D levels during pregnancy as exposures. Using the search strings outlined in Table S1 we searched the NLM Pubmed database and Cochrane Library through June 2011 as well as the bibliographies of reviews and relevant studies.\n\nTable 1.  Primary outcomes covered by this review\nA =outcomes for which outcomes from more than one study could not be extracted for meta-analysis.\nALRI, Acute lower respiratory infection.\n1.?Low birthweight due to intra-uterine growth restriction\n1a.?Small-for-gestational age\n1b.?Low birthweight\n1c.?Mean birthweight\n1d.?Weight gain during pregnancy\n1e.?Mean heel-crown length at delivery\n2.?Preterm birth\n2a.?Preterm birth (&lt;37 weeks)\n2b.?Early preterm birth (&lt;34 weeks) a\n2c.?Mean gestational age at delivery\n3.?Neonatal growth, morbidity and mortality\n3a.?Early infant mortality (first 6 weeks) a\n4.?Infant or child growth, morbidity and mortality\n4a.?Mean weight a\n4b.?Mean height a\n4c.?Low weight-for-age a\n4d.?Low height-for-age a\n4e.?All-cause mortality a\n4f.?Mortality due to measles, diarrhoea, ALRI or malaria a\n4g.?Mother-to-child transmission of HIV a\n4h.?Morbidity (diarrhoea, measles, malaria, ALRI) a\n5.?Maternal morbidity and mortality\n5a.?Mortality (all cause) a\n5b.?Mortality due to haemorrhage, sepsis or obstructed labour a\n5c.?Delivery complications (caesarian section) a\n5d.?Pre-eclampsia\nAn initial review of titles and abstracts was undertaken by one reviewer followed by an in-depth review of full papers that could not be initially excluded (AT-L). We excluded (1) non-human studies, (2) studies not in English, French or Spanish, (3) reviews, case reports and commentaries, (4) topics unrelated to the review, (5) studies that could not isolate the effects of vitamin D supplementation or intake, and (6) cross-sectional and non-prospective case–control studies. A modified version of the Child Health Epidemiology Reference Group&#39;s GRADE tool was used to evaluate intervention studies and observational studies of vitamin D intake for risk of bias, and those with a study quality of ‘Very Low’ were excluded. Authors of recent trials presenting clinical outcomes were requested to provide additional data on other outcomes of relevance to the meta-analysis.\n\nStudy data were extracted using a standard spreadsheet. Review Manager 5.140 was used to generate pooled effect estimates for all outcomes with data from more than one eligible study. For studies with continuous outcomes we generated mean differences and for dichotomous outcomes we calculated relative risk or odds ratio estimates, each with 95% confidence intervals (CI). Inverse variance weights were used to generate pooled effect estimates with a fixed-effects model in absence of significant heterogeneity. Heterogeneity was explored through visual inspection of Forest plots as well as through I2 values and ?2-tests for heterogeneity. In the presence of significant heterogeneity (P &lt; 0.10), we used a random-effects model. For trials testing multiple intervention arms (of daily or bolus doses), we pooled data from intervention arms, calculated the pooled mean and standard deviation41 where appropriate, and also presented separate analysis for daily vs. bolus dosage. For observational studies, comparisons were made of extreme categories.\n`├── HeadingNode
+│   full_match: `\n!!Results`
+│   inner_content: `Results`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Results`
+│   │   inner_content: `Results`├── TextNode
+│   full_match: `\nIdentification of studies\nWe identified 944 hits through our database searches and five additional studies through bibliographical searches (Figure 1). Five trials of vitamin D supplementation during pregnancy met our inclusion criteria, one of which did not provide sufficient data for inclusion in quantitative analysis,42 and one study was excluded that ranked ‘Very Low’ on GRADE criteria (Table 2 and Table S2).43 Additional data were received from the authors of two recently published trials (personal communication with Dr Yu, November 2011 and Drs Hollis/Wagner, January 2012). Six observational studies of vitamin D intake were identified of which two44,45 ranked ‘Very Low’ on GRADE criteria (Table S3). We also found 13 studies with prospective assessment of 25(OH)D prior to birth outcomes (Table S4) and four studies in which pre-eclampsia was reported as an outcome (Table S5).\n\nFigure 1. Study flow.\n\nTable 2.  Description of intervention studies of vitamin D supplementation and observational studies of vitamin D intake (including supplements) eligible for inclusion in meta-analyses\n\nAll but one trial 46 and four observational studies of 25(OH)D were conducted in high-income country settings, and most populations had either a presumed risk or high prevalence of deficiency at baseline (Table 1).9,47–50 Dosing approaches in the trials varied: two trials contained multiple intervention arms testing both daily supplementation (800 IU and 1000 IU  `
+│   inner_content: `\nIdentification of studies\nWe identified 944 hits through our database searches and five additional studies through bibliographical searches (Figure 1). Five trials of vitamin D supplementation during pregnancy met our inclusion criteria, one of which did not provide sufficient data for inclusion in quantitative analysis,42 and one study was excluded that ranked ‘Very Low’ on GRADE criteria (Table 2 and Table S2).43 Additional data were received from the authors of two recently published trials (personal communication with Dr Yu, November 2011 and Drs Hollis/Wagner, January 2012). Six observational studies of vitamin D intake were identified of which two44,45 ranked ‘Very Low’ on GRADE criteria (Table S3). We also found 13 studies with prospective assessment of 25(OH)D prior to birth outcomes (Table S4) and four studies in which pre-eclampsia was reported as an outcome (Table S5).\n\nFigure 1. Study flow.\n\nTable 2.  Description of intervention studies of vitamin D supplementation and observational studies of vitamin D intake (including supplements) eligible for inclusion in meta-analyses\n\nAll but one trial 46 and four observational studies of 25(OH)D were conducted in high-income country settings, and most populations had either a presumed risk or high prevalence of deficiency at baseline (Table 1).9,47–50 Dosing approaches in the trials varied: two trials contained multiple intervention arms testing both daily supplementation (800 IU and 1000 IU  `├── BoldNode
+│   full_match: `__~~#F00:D2~~__`
+│   inner_content: `~~#F00:D2~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#F00:D2~~`
+│   │   inner_content: `D2`
+│   │   attrs_dict:
+│   │   │   raw_content: #F00
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `D2`
+│   │   │   inner_content: `D2`├── TextNode
+│   full_match: `) and high single dose supplementation (200 000 IU) in the third trimester.42,51 \nOne recent trial tested both daily 2000 IU D3 and daily 4000 IU D3, the latter at the upper limit of the current US recommendations and a study in India tested the effects of two bolus doses of 600 000 IU.31\n\nVitamin D supplementation appeared to improve maternal 25(OH)D levels in all four trials with available data although mean attained levels at term in two trials indicated that the dosage tested was not sufficient to alleviate deficiency in much of the population (Table S6).42,51 In contrast, the results of trials by Hollis and Brooke indicated a substantial improvement in vitamin D status, and there is some speculation that the dose used in the latter trial may have been higher than reported.5,36,52\n`
+│   inner_content: `) and high single dose supplementation (200 000 IU) in the third trimester.42,51 \nOne recent trial tested both daily 2000 IU D3 and daily 4000 IU D3, the latter at the upper limit of the current US recommendations and a study in India tested the effects of two bolus doses of 600 000 IU.31\n\nVitamin D supplementation appeared to improve maternal 25(OH)D levels in all four trials with available data although mean attained levels at term in two trials indicated that the dosage tested was not sufficient to alleviate deficiency in much of the population (Table S6).42,51 In contrast, the results of trials by Hollis and Brooke indicated a substantial improvement in vitamin D status, and there is some speculation that the dose used in the latter trial may have been higher than reported.5,36,52\n`├── HeadingNode
+│   full_match: `\n!!Birthweight, low birthweight and crown–heel length at birth`
+│   inner_content: `Birthweight, low birthweight and crown–heel length at birth`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Birthweight, low birthweight and crown–heel length at birth`
+│   │   inner_content: `Birthweight, low birthweight and crown–heel length at birth`├── TextNode
+│   full_match: `\nThe results of all meta-analyses are summarised in Table 3. Pooled analysis of all five trials with information on mean birthweight suggested no significant overall effect (Figure S1), although significant heterogeneity was apparent (I2 = 70%, P = 0.0009) due largely to the divergent results of studies testing a large bolus dose the two. Pooled results of observational studies indicated a significant 52 g increase `
+│   inner_content: `\nThe results of all meta-analyses are summarised in Table 3. Pooled analysis of all five trials with information on mean birthweight suggested no significant overall effect (Figure S1), although significant heterogeneity was apparent (I2 = 70%, P = 0.0009) due largely to the divergent results of studies testing a large bolus dose the two. Pooled results of observational studies indicated a significant 52 g increase `├── LinkNode
+│   full_match: `[3.5, 102]`
+│   inner_content: `3.5, 102`
+│   url: `3.5, 102`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3.5, 102`
+│   │   inner_content: `3.5, 102`├── TextNode
+│   full_match: ` comparing the highest vs. lowest categories of intake (Figure S1). An observational study in New Zealand also found a significant 71 g birthweight difference across quartiles of intake noting low median intakes of 68 IU/day in the population although data were insufficient for pooling.53\n\nTable 3.  Summary of findings and overall assessment of quality of evidence for randomised trials and observational studies\nQuality assessment\tSummary of findings\nNo. studies and study design\tHeterogeneity of results?\tConsistent size of effect?\tGeneralisable to population of interest?\tGeneralisable to intervention of interest?\tOther sources of bias (e.g. major limitations in study design)\tn\tStatistical method\tEffect estimate `
+│   inner_content: ` comparing the highest vs. lowest categories of intake (Figure S1). An observational study in New Zealand also found a significant 71 g birthweight difference across quartiles of intake noting low median intakes of 68 IU/day in the population although data were insufficient for pooling.53\n\nTable 3.  Summary of findings and overall assessment of quality of evidence for randomised trials and observational studies\nQuality assessment\tSummary of findings\nNo. studies and study design\tHeterogeneity of results?\tConsistent size of effect?\tGeneralisable to population of interest?\tGeneralisable to intervention of interest?\tOther sources of bias (e.g. major limitations in study design)\tn\tStatistical method\tEffect estimate `├── LinkNode
+│   full_match: `[95% CI]`
+│   inner_content: `95% CI`
+│   url: `95% CI`
+│   children:
+│   ├── TextNode
+│   │   full_match: `95% CI`
+│   │   inner_content: `95% CI`├── TextNode
+│   full_match: `\nCI, confidence interval: IU, international units; RCT, randomised controlled trial; RR, risk ratio, MD, mean difference, IV, inverse variance; OR, odds ratio.\nTrials: Small-for-gestational age, overall quality of evidence grade = Low\nTwo RCTs42,52 (one with two arms)\tLow (I2 = 0%), P = 0.39\tBoth protective\tBoth in the UK among deficient largely non-white populations\tSimilar dose (800 IU and 1000 IU daily); both in the third trimester\tBoth small studies\t305\tRR, IV\t0.67 `
+│   inner_content: `\nCI, confidence interval: IU, international units; RCT, randomised controlled trial; RR, risk ratio, MD, mean difference, IV, inverse variance; OR, odds ratio.\nTrials: Small-for-gestational age, overall quality of evidence grade = Low\nTwo RCTs42,52 (one with two arms)\tLow (I2 = 0%), P = 0.39\tBoth protective\tBoth in the UK among deficient largely non-white populations\tSimilar dose (800 IU and 1000 IU daily); both in the third trimester\tBoth small studies\t305\tRR, IV\t0.67 `├── LinkNode
+│   full_match: `[0.40, 1.11]`
+│   inner_content: `0.40, 1.11`
+│   url: `0.40, 1.11`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.40, 1.11`
+│   │   inner_content: `0.40, 1.11`├── TextNode
+│   full_match: `\nFixed effects\nTrials: Weight gain during the third trimester (g), overall quality of evidence grade = Low\nTwo RCTs46,91\tHigh (I2 = 65%, P = 0.09)\tYes – both showed increased weight gain in vitamin D group\tIndia, Asian immigrants in the UK\tBoth in the third trimester; one with daily 1000 IU vs. one with 600 000 IU at month 7 and 8\tBoth small studies\t326\tMD, IV\t11.8 g/day `
+│   inner_content: `\nFixed effects\nTrials: Weight gain during the third trimester (g), overall quality of evidence grade = Low\nTwo RCTs46,91\tHigh (I2 = 65%, P = 0.09)\tYes – both showed increased weight gain in vitamin D group\tIndia, Asian immigrants in the UK\tBoth in the third trimester; one with daily 1000 IU vs. one with 600 000 IU at month 7 and 8\tBoth small studies\t326\tMD, IV\t11.8 g/day `├── LinkNode
+│   full_match: `[3.4, 20.2]`
+│   inner_content: `3.4, 20.2`
+│   url: `3.4, 20.2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3.4, 20.2`
+│   │   inner_content: `3.4, 20.2`├── TextNode
+│   full_match: `\nRandom effects\nTrials and observational studies: mean birthweight, overall quality of evidence grade = Low\n1. Trials: five RCTs (three with two intervention arms)5,42,46,51,52\t1. High (I2 = 70%, P = 0.0.009);\tMost trials null; one increased weight, one arm decreased weight\tAll in deficient populations; one from India, remaining from high-income settings\tWide variety of doses tested ranging from 800 IU daily to 4000 IU daily and large bolus doses up to 2× 600 000 IU\tOnly two had blinded control groups; all small sample size; high or unclear dropout in two studies\t932\tMD, IV\t58.1 `
+│   inner_content: `\nRandom effects\nTrials and observational studies: mean birthweight, overall quality of evidence grade = Low\n1. Trials: five RCTs (three with two intervention arms)5,42,46,51,52\t1. High (I2 = 70%, P = 0.0.009);\tMost trials null; one increased weight, one arm decreased weight\tAll in deficient populations; one from India, remaining from high-income settings\tWide variety of doses tested ranging from 800 IU daily to 4000 IU daily and large bolus doses up to 2× 600 000 IU\tOnly two had blinded control groups; all small sample size; high or unclear dropout in two studies\t932\tMD, IV\t58.1 `├── LinkNode
+│   full_match: `[?63.9, 180.0]`
+│   inner_content: `?63.9, 180.0`
+│   url: `?63.9, 180.0`
+│   children:
+│   ├── TextNode
+│   │   full_match: `?63.9, 180.0`
+│   │   inner_content: `?63.9, 180.0`├── TextNode
+│   full_match: `\nRandom\n2. Observational studies: two studies60,63\t2. None (I2 = 0%, P = 0.49)\t1497\tMD, IV\t52.7 `
+│   inner_content: `\nRandom\n2. Observational studies: two studies60,63\t2. None (I2 = 0%, P = 0.49)\t1497\tMD, IV\t52.7 `├── LinkNode
+│   full_match: `[3.5, 101.8]`
+│   inner_content: `3.5, 101.8`
+│   url: `3.5, 101.8`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3.5, 101.8`
+│   │   inner_content: `3.5, 101.8`├── TextNode
+│   full_match: `\nFixed\nTrials: Low birthweight (&lt;2.5 kg), overall quality of evidence grade = Low\nThree RCTs (one with two intervention arms).42,46,52\tLow (I2 = 5%, P = 0.35)\tRR ranged from 0.21 to 0.55 (only one significant)\tOne in India, others in London among Asian migrants and mixed population\tMix of daily supplementation (800–1000 IU) and bolus dosing at high doses, all in the third trimester\tOnly one study placebo controlled\t507\tRR\t0.40 `
+│   inner_content: `\nFixed\nTrials: Low birthweight (&lt;2.5 kg), overall quality of evidence grade = Low\nThree RCTs (one with two intervention arms).42,46,52\tLow (I2 = 5%, P = 0.35)\tRR ranged from 0.21 to 0.55 (only one significant)\tOne in India, others in London among Asian migrants and mixed population\tMix of daily supplementation (800–1000 IU) and bolus dosing at high doses, all in the third trimester\tOnly one study placebo controlled\t507\tRR\t0.40 `├── LinkNode
+│   full_match: `[0.23, 0.71]`
+│   inner_content: `0.23, 0.71`
+│   url: `0.23, 0.71`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.23, 0.71`
+│   │   inner_content: `0.23, 0.71`├── TextNode
+│   full_match: `\n(IV, Fixed, 95% CI)\nTrials: Crown–heel length at birth (cm), overall quality of evidence grade = Low\nTwo RCTs46,52\tHigh (I2 = 82%, P = 0.02).\tOne null, one with significantly greater weight gain\tOne in India, one among Asian immigrants to the UK\t1000 IU D2; Bolus 600 000 IU at month 7 and 8\tOne unblinded\t317\tMD, IV\t1.02 `
+│   inner_content: `\n(IV, Fixed, 95% CI)\nTrials: Crown–heel length at birth (cm), overall quality of evidence grade = Low\nTwo RCTs46,52\tHigh (I2 = 82%, P = 0.02).\tOne null, one with significantly greater weight gain\tOne in India, one among Asian immigrants to the UK\t1000 IU D2; Bolus 600 000 IU at month 7 and 8\tOne unblinded\t317\tMD, IV\t1.02 `├── LinkNode
+│   full_match: `[?0.26, 2.30]`
+│   inner_content: `?0.26, 2.30`
+│   url: `?0.26, 2.30`
+│   children:
+│   ├── TextNode
+│   │   full_match: `?0.26, 2.30`
+│   │   inner_content: `?0.26, 2.30`├── TextNode
+│   full_match: ` cm\nRandom effects\nTrials: Preterm delivery (&lt;37 weeks), overall quality of evidence grade = Low\nTwo RCTs5,42 (both had two intervention arms pooled here)\tModerate (I2 = 46%, P = 0.17)\tBoth null in opposite directions\tBoth in multi-ethnic populations in high-income countries\t(1) 4000 or 2000 IU vs. 400 IU, (2) daily 800 or bolus 200 000 IU vs. nothing\tOne unblinded\t529\tRR, IV\t0.77 `
+│   inner_content: ` cm\nRandom effects\nTrials: Preterm delivery (&lt;37 weeks), overall quality of evidence grade = Low\nTwo RCTs5,42 (both had two intervention arms pooled here)\tModerate (I2 = 46%, P = 0.17)\tBoth null in opposite directions\tBoth in multi-ethnic populations in high-income countries\t(1) 4000 or 2000 IU vs. 400 IU, (2) daily 800 or bolus 200 000 IU vs. nothing\tOne unblinded\t529\tRR, IV\t0.77 `├── LinkNode
+│   full_match: `[0.35, 1.66]`
+│   inner_content: `0.35, 1.66`
+│   url: `0.35, 1.66`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.35, 1.66`
+│   │   inner_content: `0.35, 1.66`├── TextNode
+│   full_match: `\nFixed effects\nTrials and observational studies: mean gestational age at delivery (in weeks), overall quality of evidence grade = Low\nTwo RCTs5,42 with two intervention arms\tLow (I2 = 7%, P = 0.30);\tAll null\tAll in high-income countries\tComparison of 4000/2000 IU vs. 400 IU and daily 800 IU vs. nothing\tOne unblinded; one observational study did not adjust for confounding\t529\tMD, IV\t0.17 `
+│   inner_content: `\nFixed effects\nTrials and observational studies: mean gestational age at delivery (in weeks), overall quality of evidence grade = Low\nTwo RCTs5,42 with two intervention arms\tLow (I2 = 7%, P = 0.30);\tAll null\tAll in high-income countries\tComparison of 4000/2000 IU vs. 400 IU and daily 800 IU vs. nothing\tOne unblinded; one observational study did not adjust for confounding\t529\tMD, IV\t0.17 `├── LinkNode
+│   full_match: `[?0.16, 0.51]`
+│   inner_content: `?0.16, 0.51`
+│   url: `?0.16, 0.51`
+│   children:
+│   ├── TextNode
+│   │   full_match: `?0.16, 0.51`
+│   │   inner_content: `?0.16, 0.51`├── TextNode
+│   full_match: `\nTwo observational studies60,63\tNone (I2 = 0%, P = 0.75)\t1497\tFixed effects\t0.08 `
+│   inner_content: `\nTwo observational studies60,63\tNone (I2 = 0%, P = 0.75)\t1497\tFixed effects\t0.08 `├── LinkNode
+│   full_match: `[?0.12, 0.28]`
+│   inner_content: `?0.12, 0.28`
+│   url: `?0.12, 0.28`
+│   children:
+│   ├── TextNode
+│   │   full_match: `?0.12, 0.28`
+│   │   inner_content: `?0.12, 0.28`├── TextNode
+│   full_match: `\nObservational studies: pre-eclampsia, overall quality of evidence grade = Very Low\nTwo observational studies74,89\tNone (I2 = 0%, P = 0.33)\tBoth null\tBoth in high-income countries\tOne comparison of &lt;200 vs. &gt;800 IU; one based on continuous exposure\t \t12 626\tOR, IV\t0.95 `
+│   inner_content: `\nObservational studies: pre-eclampsia, overall quality of evidence grade = Very Low\nTwo observational studies74,89\tNone (I2 = 0%, P = 0.33)\tBoth null\tBoth in high-income countries\tOne comparison of &lt;200 vs. &gt;800 IU; one based on continuous exposure\t \t12 626\tOR, IV\t0.95 `├── LinkNode
+│   full_match: `[0.86, 1.06]`
+│   inner_content: `0.86, 1.06`
+│   url: `0.86, 1.06`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.86, 1.06`
+│   │   inner_content: `0.86, 1.06`├── TextNode
+│   full_match: `\nFixed effects\n`
+│   inner_content: `\nFixed effects\n`├── ImgBlockNode
+│   full_match: `{IMG(attId=&quot;1437&quot; max=&quot;800&quot;)}{IMG}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: attId=&quot;1437&quot; max=&quot;800&quot;
+│   │   attId: 1437
+│   │   max: 800├── TextNode
+│   full_match: `\nPooled analysis of three trials revealed that supplementation led to a significant 60% reduction in the risk of low birthweight (Figure 2), and disaggregated analysis of bolus high dose trials also suggested a strong benefit `
+│   inner_content: `\nPooled analysis of three trials revealed that supplementation led to a significant 60% reduction in the risk of low birthweight (Figure 2), and disaggregated analysis of bolus high dose trials also suggested a strong benefit `├── LinkNode
+│   full_match: `[two trials, risk ratio (RR) = 0.25 [0.11, 0.61]`
+│   inner_content: `two trials, risk ratio (RR) = 0.25 [0.11, 0.61`
+│   url: `two trials, risk ratio (RR) = 0.25 [0.11, 0.61`
+│   children:
+│   ├── TextNode
+│   │   full_match: `two trials, risk ratio (RR) = 0.25 [0.11, 0.61`
+│   │   inner_content: `two trials, risk ratio (RR) = 0.25 [0.11, 0.61`├── TextNode
+│   full_match: ` although daily supplementation trials did not show statistically significant benefit (two trials, RR = 0.56 `
+│   inner_content: ` although daily supplementation trials did not show statistically significant benefit (two trials, RR = 0.56 `├── LinkNode
+│   full_match: `[0.27, 1.13]`
+│   inner_content: `0.27, 1.13`
+│   url: `0.27, 1.13`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.27, 1.13`
+│   │   inner_content: `0.27, 1.13`├── TextNode
+│   full_match: `) (Figure S2).\n\nFigure 2. Trials of vitamin D supplementation and risk of low birthweight and small-for-gestational age (SGA). IV, inverse variance; CI, confidence interval; IU, international units.\n\nThe majority of studies examining relationships between maternal vitamin D status and mean or low birthweight found no association.9,30,47,49,54,55 However, two large studies, one from the Netherlands and the other from Australia, both found significantly lower birthweight among infants born to women with vitamin D deficiency (using thresholds of &lt;25 and 29 nmol/L).56,57 Another study from Australia found no overall effect of low maternal 25(OH)D levels (&lt;28 nmol/L) on mean birthweight, yet effect modification was found by infant vitamin D receptor (Fokl) genotype: offspring born to women in the with higher 25(OH)D levels were significantly heavier within the FF or Ff but not the ff genotypes.58\n\nPooled analysis of two supplementation trials showed no significant difference in mean crown–heel length associated with supplementation (Figure S3). None of the observational studies we identified reported a significant association between maternal 25(OH)D status and crown–heel length at birth.9,30,47,54,55,57,59\n`
+│   inner_content: `) (Figure S2).\n\nFigure 2. Trials of vitamin D supplementation and risk of low birthweight and small-for-gestational age (SGA). IV, inverse variance; CI, confidence interval; IU, international units.\n\nThe majority of studies examining relationships between maternal vitamin D status and mean or low birthweight found no association.9,30,47,49,54,55 However, two large studies, one from the Netherlands and the other from Australia, both found significantly lower birthweight among infants born to women with vitamin D deficiency (using thresholds of &lt;25 and 29 nmol/L).56,57 Another study from Australia found no overall effect of low maternal 25(OH)D levels (&lt;28 nmol/L) on mean birthweight, yet effect modification was found by infant vitamin D receptor (Fokl) genotype: offspring born to women in the with higher 25(OH)D levels were significantly heavier within the FF or Ff but not the ff genotypes.58\n\nPooled analysis of two supplementation trials showed no significant difference in mean crown–heel length associated with supplementation (Figure S3). None of the observational studies we identified reported a significant association between maternal 25(OH)D status and crown–heel length at birth.9,30,47,54,55,57,59\n`├── HeadingNode
+│   full_match: `\n!!Small-for-gestational age and gestational weight gain`
+│   inner_content: `Small-for-gestational age and gestational weight gain`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Small-for-gestational age and gestational weight gain`
+│   │   inner_content: `Small-for-gestational age and gestational weight gain`├── TextNode
+│   full_match: `\nPooled analyses indicated significantly greater average daily weight gain in the third trimester among women supplemented with vitamin D (two trials, 11.8 g/day `
+│   inner_content: `\nPooled analyses indicated significantly greater average daily weight gain in the third trimester among women supplemented with vitamin D (two trials, 11.8 g/day `├── LinkNode
+│   full_match: `[3.4, 20.2]`
+│   inner_content: `3.4, 20.2`
+│   url: `3.4, 20.2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `3.4, 20.2`
+│   │   inner_content: `3.4, 20.2`├── TextNode
+│   full_match: `) (Figure S4), and a non-statistically significant 33% decrease in the risk of small-for-gestational age (SGA) (Figure 2). However, an observational cohort study from Boston reported no difference in birthweight for gestational age by quartile of vitamin D intake in unadjusted analysis.60\n\nProspective observational studies of vitamin D status and SGA have had mixed findings (Table S4). Two studies, one of HIV-positive women in Tanzania and another among pregnant adolescents in the UK, did not find statistically significant associations between maternal 25(OH)D levels and SGA.49,61 However, the largest study to date, from the Netherlands, found that the risk of SGA among vitamin D-deficient women `
+│   inner_content: `) (Figure S4), and a non-statistically significant 33% decrease in the risk of small-for-gestational age (SGA) (Figure 2). However, an observational cohort study from Boston reported no difference in birthweight for gestational age by quartile of vitamin D intake in unadjusted analysis.60\n\nProspective observational studies of vitamin D status and SGA have had mixed findings (Table S4). Two studies, one of HIV-positive women in Tanzania and another among pregnant adolescents in the UK, did not find statistically significant associations between maternal 25(OH)D levels and SGA.49,61 However, the largest study to date, from the Netherlands, found that the risk of SGA among vitamin D-deficient women `├── LinkNode
+│   full_match: `[25(OH)D &lt; 30 nmol/L]`
+│   inner_content: `25(OH)D &lt; 30 nmol/L`
+│   url: `25(OH)D &lt; 30 nmol/L`
+│   children:
+│   ├── TextNode
+│   │   full_match: `25(OH)D &lt; 30 nmol/L`
+│   │   inner_content: `25(OH)D &lt; 30 nmol/L`├── TextNode
+│   full_match: ` was nearly twice that of women with adequate status in multivariable adjusted models (adjusted odds ratio (OR) 1.9 `
+│   inner_content: ` was nearly twice that of women with adequate status in multivariable adjusted models (adjusted odds ratio (OR) 1.9 `├── LinkNode
+│   full_match: `[95% CI 1.4, 2.7]`
+│   inner_content: `95% CI 1.4, 2.7`
+│   url: `95% CI 1.4, 2.7`
+│   children:
+│   ├── TextNode
+│   │   full_match: `95% CI 1.4, 2.7`
+│   │   inner_content: `95% CI 1.4, 2.7`├── TextNode
+│   full_match: `).57 A recent nested case–control study from Pittsburgh found evidence of a U-shaped relationship between vitamin D status and SGA among white women in the study: those with serum 25(OH)D levels less than 37.5 nmol/L had a 7.5-fold `
+│   inner_content: `).57 A recent nested case–control study from Pittsburgh found evidence of a U-shaped relationship between vitamin D status and SGA among white women in the study: those with serum 25(OH)D levels less than 37.5 nmol/L had a 7.5-fold `├── LinkNode
+│   full_match: `[95% CI 1.8, 31.9]`
+│   inner_content: `95% CI 1.8, 31.9`
+│   url: `95% CI 1.8, 31.9`
+│   children:
+│   ├── TextNode
+│   │   full_match: `95% CI 1.8, 31.9`
+│   │   inner_content: `95% CI 1.8, 31.9`├── TextNode
+│   full_match: ` higher risk of SGA compared with those with levels between 37.5 and 75 nmol and those with levels exceeding 75 nmol/L had a 2.1 times higher risk `
+│   inner_content: ` higher risk of SGA compared with those with levels between 37.5 and 75 nmol and those with levels exceeding 75 nmol/L had a 2.1 times higher risk `├── LinkNode
+│   full_match: `[1.2, 3.8]`
+│   inner_content: `1.2, 3.8`
+│   url: `1.2, 3.8`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.2, 3.8`
+│   │   inner_content: `1.2, 3.8`├── TextNode
+│   full_match: `.62 Effect modification by race was also evident as no statistically significant relationships between serum 25(OH)D levels and SGA risk were observed among black women included in the study.\n`
+│   inner_content: `.62 Effect modification by race was also evident as no statistically significant relationships between serum 25(OH)D levels and SGA risk were observed among black women included in the study.\n`├── HeadingNode
+│   full_match: `\n!!Preterm birth`
+│   inner_content: `Preterm birth`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Preterm birth`
+│   │   inner_content: `Preterm birth`├── TextNode
+│   full_match: `\nNo significant association was evident between vitamin D supplementation and preterm delivery (&lt;37 weeks) or mean duration of gestation in pooled analyses (Figure 3, Figure S5), or in two observational studies of intake of vitamin D and mean duration of gestation (Figure S6).5,42,60,63\n\nFigure 3. Trials of vitamin D supplementation and risk of preterm delivery and mean duration of gestation. IV, inverse variance; CI, confidence interval; IU, international units.\n\nTwo studies examined relationships with blood levels of 25(OH)D during pregnancy and preterm birth. In Tanzania, no difference in risk of preterm birth (&lt;37 weeks, RR = 0.84 `
+│   inner_content: `\nNo significant association was evident between vitamin D supplementation and preterm delivery (&lt;37 weeks) or mean duration of gestation in pooled analyses (Figure 3, Figure S5), or in two observational studies of intake of vitamin D and mean duration of gestation (Figure S6).5,42,60,63\n\nFigure 3. Trials of vitamin D supplementation and risk of preterm delivery and mean duration of gestation. IV, inverse variance; CI, confidence interval; IU, international units.\n\nTwo studies examined relationships with blood levels of 25(OH)D during pregnancy and preterm birth. In Tanzania, no difference in risk of preterm birth (&lt;37 weeks, RR = 0.84 `├── LinkNode
+│   full_match: `[0.55–1.28]`
+│   inner_content: `0.55–1.28`
+│   url: `0.55–1.28`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.55–1.28`
+│   │   inner_content: `0.55–1.28`├── TextNode
+│   full_match: `) or early preterm birth (&lt;34 weeks, RR = 0.77 `
+│   inner_content: `) or early preterm birth (&lt;34 weeks, RR = 0.77 `├── LinkNode
+│   full_match: `[0.50, 1.18]`
+│   inner_content: `0.50, 1.18`
+│   url: `0.50, 1.18`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.50, 1.18`
+│   │   inner_content: `0.50, 1.18`├── TextNode
+│   full_match: `) was observed among HIV-positive women using a cut-off of 80 nmol/L.49 Similarly, no difference in the third trimester 25(OH)D levels was found for adolescents in the UK delivering preterm vs. normal gestational length babies.61\n\nObservational studies with serum 25(OH)D levels as an exposure did suggest longer gestational duration associated with higher 25(OH)D levels. In the Netherlands, women with serum levels &gt;50 nmol/L had a slightly longer gestational length of 40.2 weeks vs. 40.0 weeks vs. women in two categories of lower intake (P &lt; 0.001).57 An Australian study noted a significant 0.7-week shorter gestation `
+│   inner_content: `) was observed among HIV-positive women using a cut-off of 80 nmol/L.49 Similarly, no difference in the third trimester 25(OH)D levels was found for adolescents in the UK delivering preterm vs. normal gestational length babies.61\n\nObservational studies with serum 25(OH)D levels as an exposure did suggest longer gestational duration associated with higher 25(OH)D levels. In the Netherlands, women with serum levels &gt;50 nmol/L had a slightly longer gestational length of 40.2 weeks vs. 40.0 weeks vs. women in two categories of lower intake (P &lt; 0.001).57 An Australian study noted a significant 0.7-week shorter gestation `├── LinkNode
+│   full_match: `[?1.3, ?0.1]`
+│   inner_content: `?1.3, ?0.1`
+│   url: `?1.3, ?0.1`
+│   children:
+│   ├── TextNode
+│   │   full_match: `?1.3, ?0.1`
+│   │   inner_content: `?1.3, ?0.1`├── TextNode
+│   full_match: ` among women with blood 25(OH)D levels &lt;28 nmol/L compared with those with higher levels.30 A hospital-based study from Japan also found lower mean 25(OH)D levels among mothers with threatened premature delivery.64\n`
+│   inner_content: ` among women with blood 25(OH)D levels &lt;28 nmol/L compared with those with higher levels.30 A hospital-based study from Japan also found lower mean 25(OH)D levels among mothers with threatened premature delivery.64\n`├── HeadingNode
+│   full_match: `\n!!Fetal loss`
+│   inner_content: `Fetal loss`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Fetal loss`
+│   │   inner_content: `Fetal loss`├── TextNode
+│   full_match: `\nOne trial reported a case of stillbirth in the non-intervention arm, but we found no other trials or observational studies of vitamin D intake with data on fetal loss.42 One study among HIV-positive women from Tanzania found no significant difference in fetal loss among women with deficiency vs. those with sufficient status (RR = 1.05 `
+│   inner_content: `\nOne trial reported a case of stillbirth in the non-intervention arm, but we found no other trials or observational studies of vitamin D intake with data on fetal loss.42 One study among HIV-positive women from Tanzania found no significant difference in fetal loss among women with deficiency vs. those with sufficient status (RR = 1.05 `├── LinkNode
+│   full_match: `[95% CI 0.63, 1.74]`
+│   inner_content: `95% CI 0.63, 1.74`
+│   url: `95% CI 0.63, 1.74`
+│   children:
+│   ├── TextNode
+│   │   full_match: `95% CI 0.63, 1.74`
+│   │   inner_content: `95% CI 0.63, 1.74`├── TextNode
+│   full_match: `).49\n`
+│   inner_content: `).49\n`├── HeadingNode
+│   full_match: `\n!!Pre-eclampsia, caesarian section and maternal mortality`
+│   inner_content: `Pre-eclampsia, caesarian section and maternal mortality`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Pre-eclampsia, caesarian section and maternal mortality`
+│   │   inner_content: `Pre-eclampsia, caesarian section and maternal mortality`├── TextNode
+│   full_match: `\nWe did not find any published data from trials on the effects of vitamin D supplementation on risk of pre-eclampsia. Preliminary data shared with us by investigators from the trial in South Carolina indicate monotonic reductions in risk with increasing supplement dosage (400, 2000, 4000 IU) for a composite pre-eclampsia/eclampsia/gestational hypertension outcome, which, although not significant in intent-to-treat analysis, became significant after controlling for race (personnal communication, Bruce Hollis, Jan 9, 2012).\n\nPooled analysis of a very large (n = 23 423) study from Norway and a large (n = 1718) study from Massachusetts (Figure S7) revealed no significant difference in risk of pre-eclampsia between top and bottom categories of total vitamin D intake (OR = 0.95 `
+│   inner_content: `\nWe did not find any published data from trials on the effects of vitamin D supplementation on risk of pre-eclampsia. Preliminary data shared with us by investigators from the trial in South Carolina indicate monotonic reductions in risk with increasing supplement dosage (400, 2000, 4000 IU) for a composite pre-eclampsia/eclampsia/gestational hypertension outcome, which, although not significant in intent-to-treat analysis, became significant after controlling for race (personnal communication, Bruce Hollis, Jan 9, 2012).\n\nPooled analysis of a very large (n = 23 423) study from Norway and a large (n = 1718) study from Massachusetts (Figure S7) revealed no significant difference in risk of pre-eclampsia between top and bottom categories of total vitamin D intake (OR = 0.95 `├── LinkNode
+│   full_match: `[95% CI 0.86, 1.06]`
+│   inner_content: `95% CI 0.86, 1.06`
+│   url: `95% CI 0.86, 1.06`
+│   children:
+│   ├── TextNode
+│   │   full_match: `95% CI 0.86, 1.06`
+│   │   inner_content: `95% CI 0.86, 1.06`├── TextNode
+│   full_match: `).89 While the comparison between &gt;800 IU with &lt;200 IU of total vitamin D intake in the Norwegian study was not statistically significant (OR = 0.89 `
+│   inner_content: `).89 While the comparison between &gt;800 IU with &lt;200 IU of total vitamin D intake in the Norwegian study was not statistically significant (OR = 0.89 `├── LinkNode
+│   full_match: `[0.75, 1.06), women with intake between 600 and 800 IU had significantly reduced risk of pre-eclampsia (adjusted OR 0.77 [0.61–0.96]`
+│   inner_content: `0.75, 1.06), women with intake between 600 and 800 IU had significantly reduced risk of pre-eclampsia (adjusted OR 0.77 [0.61–0.96`
+│   url: `0.75, 1.06), women with intake between 600 and 800 IU had significantly reduced risk of pre-eclampsia (adjusted OR 0.77 [0.61–0.96`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.75, 1.06), women with intake between 600 and 800 IU had significantly reduced risk of pre-eclampsia (adjusted OR 0.77 [0.61–0.96`
+│   │   inner_content: `0.75, 1.06), women with intake between 600 and 800 IU had significantly reduced risk of pre-eclampsia (adjusted OR 0.77 [0.61–0.96`├── TextNode
+│   full_match: `) compared with those consuming &lt;200 IU/day. In contrast, a heightened risk of gestational hypertension was associated with increased vitamin D intake in the study from Massachusetts (adjusted OR = 1.11 `
+│   inner_content: `) compared with those consuming &lt;200 IU/day. In contrast, a heightened risk of gestational hypertension was associated with increased vitamin D intake in the study from Massachusetts (adjusted OR = 1.11 `├── LinkNode
+│   full_match: `[1.01, 1.21]`
+│   inner_content: `1.01, 1.21`
+│   url: `1.01, 1.21`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.01, 1.21`
+│   │   inner_content: `1.01, 1.21`├── TextNode
+│   full_match: `).\n\nObservational studies of vitamin D status during pregnancy and risk of pre-eclampsia have not shown consistent associations (Table S5) Investigators of a study from Pittsburgh observed an inverse monotonic dose response relationship between 25(OH)D levels in early pregnancy and pre-eclampsia: for every 50 nmol/L decline in 25(OH)D levels, the risk of pre-eclampsia more than doubled (adjusted OR 2.4 `
+│   inner_content: `).\n\nObservational studies of vitamin D status during pregnancy and risk of pre-eclampsia have not shown consistent associations (Table S5) Investigators of a study from Pittsburgh observed an inverse monotonic dose response relationship between 25(OH)D levels in early pregnancy and pre-eclampsia: for every 50 nmol/L decline in 25(OH)D levels, the risk of pre-eclampsia more than doubled (adjusted OR 2.4 `├── LinkNode
+│   full_match: `[1.1, 5.4]`
+│   inner_content: `1.1, 5.4`
+│   url: `1.1, 5.4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.1, 5.4`
+│   │   inner_content: `1.1, 5.4`├── TextNode
+│   full_match: `).65 Similarly, a nested case control study from North Carolina reported that women with 25(OH)D levels &lt;50 nmol/L had more than five times greater risk of severe preeclapsia compared with those with levels &gt;75 nmol/L (adjusted OR 5.41 `
+│   inner_content: `).65 Similarly, a nested case control study from North Carolina reported that women with 25(OH)D levels &lt;50 nmol/L had more than five times greater risk of severe preeclapsia compared with those with levels &gt;75 nmol/L (adjusted OR 5.41 `├── LinkNode
+│   full_match: `[2.02, 14.52]`
+│   inner_content: `2.02, 14.52`
+│   url: `2.02, 14.52`
+│   children:
+│   ├── TextNode
+│   │   full_match: `2.02, 14.52`
+│   │   inner_content: `2.02, 14.52`├── TextNode
+│   full_match: `).66 In contrast, a recent nested case control study conducted in Massachusetts found no statistically significant difference in risk of pre-eclampsia for women with 25(OH)D levels &lt;37.5 nmol/L (adjusted OR 1.35 `
+│   inner_content: `).66 In contrast, a recent nested case control study conducted in Massachusetts found no statistically significant difference in risk of pre-eclampsia for women with 25(OH)D levels &lt;37.5 nmol/L (adjusted OR 1.35 `├── LinkNode
+│   full_match: `[0.40, 4.50]`
+│   inner_content: `0.40, 4.50`
+│   url: `0.40, 4.50`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.40, 4.50`
+│   │   inner_content: `0.40, 4.50`├── TextNode
+│   full_match: `).67 Another prospective cohort study of pregnancies at high risk for pre-eclampsia in Canada found no effect of 25(OH)D during early pregnancy on pre-eclampsia risk.68\n\nIn a recently published trial from South Carolina, no statistically significant differences in mode of delivery (caesarian section vs. vaginal delivery) were noted by vitamin D supplementation group, although adjustment for race reportedly led to a statistical significant trend of increasing protection with higher dosage.5 An observational study undertaken in Boston found that women with vitamin D levels 25(OH)D &lt; 37.5 nmol/L during pregnancy were found to have nearly a four times greater risk of caesarian delivery (adjusted OR 3.84 `
+│   inner_content: `).67 Another prospective cohort study of pregnancies at high risk for pre-eclampsia in Canada found no effect of 25(OH)D during early pregnancy on pre-eclampsia risk.68\n\nIn a recently published trial from South Carolina, no statistically significant differences in mode of delivery (caesarian section vs. vaginal delivery) were noted by vitamin D supplementation group, although adjustment for race reportedly led to a statistical significant trend of increasing protection with higher dosage.5 An observational study undertaken in Boston found that women with vitamin D levels 25(OH)D &lt; 37.5 nmol/L during pregnancy were found to have nearly a four times greater risk of caesarian delivery (adjusted OR 3.84 `├── LinkNode
+│   full_match: `[1.71, 8.62]`
+│   inner_content: `1.71, 8.62`
+│   url: `1.71, 8.62`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.71, 8.62`
+│   │   inner_content: `1.71, 8.62`├── TextNode
+│   full_match: `).1 Similarly no association between maternal vitamin D status and mode of delivery was found in an Australian observational study.56\n\nNo trials or observational studies of vitamin D supplementation/intake and maternal mortality or morbidity during pregnancy were identified. However, a study from Tanzania found that pregnant women with 25(OH)D levels &lt;80 nmol/L had increased risk of HIV disease progression and that risk of all-cause mortality was significantly lower in the highest quintile of 25(OH)D compared with the lowest (incidence RR = 0.58 `
+│   inner_content: `).1 Similarly no association between maternal vitamin D status and mode of delivery was found in an Australian observational study.56\n\nNo trials or observational studies of vitamin D supplementation/intake and maternal mortality or morbidity during pregnancy were identified. However, a study from Tanzania found that pregnant women with 25(OH)D levels &lt;80 nmol/L had increased risk of HIV disease progression and that risk of all-cause mortality was significantly lower in the highest quintile of 25(OH)D compared with the lowest (incidence RR = 0.58 `├── LinkNode
+│   full_match: `[0.40, 0.84]`
+│   inner_content: `0.40, 0.84`
+│   url: `0.40, 0.84`
+│   children:
+│   ├── TextNode
+│   │   full_match: `0.40, 0.84`
+│   │   inner_content: `0.40, 0.84`├── TextNode
+│   full_match: `).48\n`
+│   inner_content: `).48\n`├── HeadingNode
+│   full_match: `\n!!Neonatal and infant growth`
+│   inner_content: `Neonatal and infant growth`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Neonatal and infant growth`
+│   │   inner_content: `Neonatal and infant growth`├── TextNode
+│   full_match: `\nOne supplementation trial in the UK reported significantly greater weight gain among infants born to women supplemented with vitamin D compared with the placebo group at 3, 6, 9 and 12 months of life `
+│   inner_content: `\nOne supplementation trial in the UK reported significantly greater weight gain among infants born to women supplemented with vitamin D compared with the placebo group at 3, 6, 9 and 12 months of life `├── LinkNode
+│   full_match: `[12-month comparison: 6.39 vs. 5.92 kg in the control group (P &lt; 0.01)]`
+│   inner_content: `12-month comparison: 6.39 vs. 5.92 kg in the control group (P &lt; 0.01)`
+│   url: `12-month comparison: 6.39 vs. 5.92 kg in the control group (P &lt; 0.01)`
+│   children:
+│   ├── TextNode
+│   │   full_match: `12-month comparison: 6.39 vs. 5.92 kg in the control group (P &lt; 0.01)`
+│   │   inner_content: `12-month comparison: 6.39 vs. 5.92 kg in the control group (P &lt; 0.01)`├── TextNode
+│   full_match: `.69 Up to 6 months of age, there were no differences in attained height between groups, but by 1 year of age, those in the vitamin D group had grown 27.9 vs. 24.6 cm in the placebo group (P &lt; 0.001).\n\nA large observational study in the Netherlands found no differences in multivariable adjusted mean weight-for-age z scores by category of maternal vitamin D status during pregnancy for any measure taken during the first year of life. While infants born to mothers with 25(OH)D levels &lt;30 nmol/L had significantly lower mean length for age z scores at 1 month compared with those born to women adequate status (&gt;50 nmol/L), paradoxically they had higher z scores by 12 months with no differences observed at 3, 6 or 9 months.57 In another study conducted in the Gambia among a population with high vitamin D status, no significant relationships or trends were found by maternal 25(OH)D status taken at either week 20 or week 36 of pregnancy and weight or height-for-age z scores at 2, 13 or 52 weeks.47 A cohort study of the effects of maternal vitamin D status during pregnancy on subsequent outcomes in Southampton, UK, found no differences in attained weight or length at 9 months of follow-up across quartiles of 25(OH)D status measured in late pregnancy (with cut points at &lt;30, 50, 75 and &gt;75 nmol/L).54 However, in a linear regression model examining predictors of height at 9 months that included height measured at birth, a significant association with maternal 25(OH)D was observed (P = 0.02).54,70 A study in India found no difference in attained height at age 5 years between children of mothers with 25(OH)D levels above vs. below 50 nmol/L during pregnancy.50\n`
+│   inner_content: `.69 Up to 6 months of age, there were no differences in attained height between groups, but by 1 year of age, those in the vitamin D group had grown 27.9 vs. 24.6 cm in the placebo group (P &lt; 0.001).\n\nA large observational study in the Netherlands found no differences in multivariable adjusted mean weight-for-age z scores by category of maternal vitamin D status during pregnancy for any measure taken during the first year of life. While infants born to mothers with 25(OH)D levels &lt;30 nmol/L had significantly lower mean length for age z scores at 1 month compared with those born to women adequate status (&gt;50 nmol/L), paradoxically they had higher z scores by 12 months with no differences observed at 3, 6 or 9 months.57 In another study conducted in the Gambia among a population with high vitamin D status, no significant relationships or trends were found by maternal 25(OH)D status taken at either week 20 or week 36 of pregnancy and weight or height-for-age z scores at 2, 13 or 52 weeks.47 A cohort study of the effects of maternal vitamin D status during pregnancy on subsequent outcomes in Southampton, UK, found no differences in attained weight or length at 9 months of follow-up across quartiles of 25(OH)D status measured in late pregnancy (with cut points at &lt;30, 50, 75 and &gt;75 nmol/L).54 However, in a linear regression model examining predictors of height at 9 months that included height measured at birth, a significant association with maternal 25(OH)D was observed (P = 0.02).54,70 A study in India found no difference in attained height at age 5 years between children of mothers with 25(OH)D levels above vs. below 50 nmol/L during pregnancy.50\n`├── HeadingNode
+│   full_match: `\n!!Neonatal and infant morbidity and mortality`
+│   inner_content: `Neonatal and infant morbidity and mortality`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Neonatal and infant morbidity and mortality`
+│   │   inner_content: `Neonatal and infant morbidity and mortality`├── TextNode
+│   full_match: `\nWe did not identify any trials of vitamin D supplementation during pregnancy with outcomes related to infant or child mortality, although a death was noted in one trial.42 In a cohort study of 1194 children from Massachusetts, no significant trend was found across quintiles of maternal vitamin D intake during pregnancy on risk of reported diagnosis of respiratory infections by a health professional up to 3 years of age in multivariable adjusted analysis.60 A study of 922 infants in New Zealand found significantly greater risk of respiratory infection (a composite variable of colds, cough, whooping cough, chest infections and ear infections) by 3 months of age among infants with cord blood levels of 25(OH)D less than 25 nmol/L in adjusted analysis compared with levels at or above 75 nmol/L (OR = 2.04 `
+│   inner_content: `\nWe did not identify any trials of vitamin D supplementation during pregnancy with outcomes related to infant or child mortality, although a death was noted in one trial.42 In a cohort study of 1194 children from Massachusetts, no significant trend was found across quintiles of maternal vitamin D intake during pregnancy on risk of reported diagnosis of respiratory infections by a health professional up to 3 years of age in multivariable adjusted analysis.60 A study of 922 infants in New Zealand found significantly greater risk of respiratory infection (a composite variable of colds, cough, whooping cough, chest infections and ear infections) by 3 months of age among infants with cord blood levels of 25(OH)D less than 25 nmol/L in adjusted analysis compared with levels at or above 75 nmol/L (OR = 2.04 `├── LinkNode
+│   full_match: `[1.13, 3.17]`
+│   inner_content: `1.13, 3.17`
+│   url: `1.13, 3.17`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.13, 3.17`
+│   │   inner_content: `1.13, 3.17`├── TextNode
+│   full_match: `).71 In contrast to these findings, a cohort study from Southampton, England, which followed up children at age 9 months, found that mothers in the top quartile of 25(OH)D status in late pregnancy were significantly more likely to report their children having been diagnosed with pneumonia or bronchiolitis, compared with those in the bottom quartile (unadjusted OR 4.80 `
+│   inner_content: `).71 In contrast to these findings, a cohort study from Southampton, England, which followed up children at age 9 months, found that mothers in the top quartile of 25(OH)D status in late pregnancy were significantly more likely to report their children having been diagnosed with pneumonia or bronchiolitis, compared with those in the bottom quartile (unadjusted OR 4.80 `├── LinkNode
+│   full_match: `[1.01, 22.73]`
+│   inner_content: `1.01, 22.73`
+│   url: `1.01, 22.73`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.01, 22.73`
+│   │   inner_content: `1.01, 22.73`├── TextNode
+│   full_match: `), although no differences in risk for respiratory infections overall or for chest infections or bronchitis were observed.54 The same study unexpectedly also found that children of mothers in the highest quartile of vitamin D status were more likely to have reported having one or more bouts of diarrhoea vs. those in the bottom quartile (OR = 1.87 `
+│   inner_content: `), although no differences in risk for respiratory infections overall or for chest infections or bronchitis were observed.54 The same study unexpectedly also found that children of mothers in the highest quartile of vitamin D status were more likely to have reported having one or more bouts of diarrhoea vs. those in the bottom quartile (OR = 1.87 `├── LinkNode
+│   full_match: `[1.01, 3.46]`
+│   inner_content: `1.01, 3.46`
+│   url: `1.01, 3.46`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.01, 3.46`
+│   │   inner_content: `1.01, 3.46`├── TextNode
+│   full_match: `. In a study of infants born to HIV-positive mothers in Tanzania, vitamin D insufficiency during pregnancy (&lt;80 nmol/L) was associated with heightened risk of a composite end-point of infant mortality/HIV infection (RR = 1.49 `
+│   inner_content: `. In a study of infants born to HIV-positive mothers in Tanzania, vitamin D insufficiency during pregnancy (&lt;80 nmol/L) was associated with heightened risk of a composite end-point of infant mortality/HIV infection (RR = 1.49 `├── LinkNode
+│   full_match: `[1.07, 2.09]`
+│   inner_content: `1.07, 2.09`
+│   url: `1.07, 2.09`
+│   children:
+│   ├── TextNode
+│   │   full_match: `1.07, 2.09`
+│   │   inner_content: `1.07, 2.09`├── TextNode
+│   full_match: `).49\n`
+│   inner_content: `).49\n`├── HeadingNode
+│   full_match: `\n!!Comments`
+│   inner_content: `Comments`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Comments`
+│   │   inner_content: `Comments`├── TextNode
+│   full_match: `\nScientific understanding of the importance of vitamin D during pregnancy for perinatal and child health outcomes is growing rapidly, and our review consolidates a great deal of new information from trials and observational studies not incorporated in a prior meta-analysis on the topic.35 In addition to its classical functions related to calcium homeostasis and bone development, emerging evidence suggests that adequate maternal vitamin D status could play important roles in ensuring proper fetal and placental development and proper immune response and function during pregnancy, although the relative importance of its different putative effects on pathways leading to clinical outcomes is not well understood.16,22,65\n\nIt is important to interpret the findings of our pooled analyses with caution, particularly given the small number and small sample size of existing trials and the heterogeneity observed across a number of outcomes. Most trials tested the effects of vitamin D supplements provided during the third trimester and in two trials, supplementation did not bring mean levels above 50 nmol/L (Table S6).42,51 All trials to date, with the exception of one46, were conducted among populations living at northern latitudes with evidence of vitamin D deficiency or insufficiency. The generalizability of findings of these trials to populations living near the equator with potentially greater exposure to sunlight is uncertain, although it is important to consider the role that cultural practices of head covering and urban lifestyles may have in contributing to vitamin D insufficiency even in tropical countries.\n\nDespite the lack of a statistical significance of the effect observed in our pooled analysis of SGA, we found fairly consistent evidence from trials suggesting that vitamin D has the potential to influence fetal growth among deficient populations, supported by significant effects observed in the meta-analysis of data on gestational weight gain and low birthweight. Our findings suggested either a null or a modest effect on mean birth weight. It is well accepted that mean birthweight is limited in its ability to capture fetal growth restriction, partly because it also reflects gestational age.62 Only one observational study suggested that the risk of SGA might increase at higher levels of 25(OH)D, but many studies appeared to only examine 25(OH)D as a dichotomous categorical variable. Future observational studies should examine potential non-linear relationships across the entire distribution.62 Further exploration of heterogeneity in effects by race and/or vitamin D receptor genotype may be important.58,62\n\nSome, but not all, studies suggested an effect of vitamin D on risk of pre-eclampsia. In addition to the studies we reviewed, a trial using cod liver oil containing vitamin D along with multi-micronutrient supplement found a significant 32% reduction in preeclampsia risk, and a trial of vitamin D and calcium from India indicated a non-significant benefit on pre-eclampsia.72,73 It has been speculated that early pregnancy, when the placenta is still developing, might be the most aetiologically relevant time period for vitamin D supplementation on pre-eclampsia but this hypothesis requires further testing and received limited support from the one observational study to explore the importance of timing of supplementation during pregnancy.74\n\nWe found little evidence to evaluate the effect of vitamin D on preterm birth or any of its obstetric precursors. Approximately 25–40% of all preterm births are thought to be associated with intra-uterine infection.75 An influence of vitamin D status on bacterial infections during pregnancy is plausible and is supported by the consistency of findings of several cross-sectional observational studies in the US suggesting inverse relationships between 25(OH)D and bacterial vaginosis during pregnancy.15,76,77 Larger observational studies or trials with more detailed outcome evaluation are needed to assess the potential for vitamin D to influence risk of preterm birth.\n\nBoth the observational study from Massachusetts and the trial from South Carolina provide support for an effect of vitamin D on risk of primary caesarean section.1,5 In apparent contrast to these findings, two studies excluded from our analysis because of their non-prospective nature suggest no association between mode of delivery or dystocia and maternal vitamin D status.78,79 Heterogeneity in these associations is not entirely unexpected because decision making related to caesarian delivery may vary across settings. Given the strength of the association observed in the study from Massachusetts, the role of vitamin D in regulation of calcium (which may help to initiate labour and influence muscle function), and the potential role on pre-eclampsia, further exploration would be worthwhile.80\n\nMaternal serum levels of 25(OH)D during pregnancy are correlated with cord blood and neonatal levels of 25(OH)D could influence neonatal and early childhood health and growth, particularly because breastmilk is a poor source of vitamin D in absence of high dose maternal supplementation.5 A growing number of studies suggest the importance of adequate vitamin D status during childhood to the prevention of respiratory infections. A study from Ethiopia found that children with rickets had a 13-fold higher risk of pneumonia compared with controls5 while a trial in Afghanistan found that vitamin D supplementation of children diagnosed with pneumonia both significantly reduced the risk of repeat episodes during 90 days of follow-up by 22% and increased the time to repeat episode.81 Limitations of the studies we identified include reliance on maternal reports of doctor&#39;s diagnosis, little specificity of outcomes, and in the case of the study from England showing increased risk associated with better vitamin D status, a lack of adjustment for potential confounders such as access to health care or education.54 Infections remain an important cause of neonatal and early childhood mortality in many countries, and trials of maternal vitamin D supplementation in such settings should also include follow-up of children for respiratory infections (and HIV seroconversion in high-prevalence settings).48,49,82\n\nThe importance of vitamin D to linear growth during childhood was considered at least as early the 1930s.83,84 The strongest support for a direct role of vitamin D supplementation on child growth comes from the trial in the UK. Beneficial effects on linear growth were observed at 9 months but not prior to that time.69 It is difficult to explain the inconsistencies between these findings and observations from the Netherlands showing that children born to vitamin D-deficient mothers appeared to have greater growth velocity, although residual confounding and vitamin D supplementation practices during early childhood in the latter study have been offered as explanations.57\n`
+│   inner_content: `\nScientific understanding of the importance of vitamin D during pregnancy for perinatal and child health outcomes is growing rapidly, and our review consolidates a great deal of new information from trials and observational studies not incorporated in a prior meta-analysis on the topic.35 In addition to its classical functions related to calcium homeostasis and bone development, emerging evidence suggests that adequate maternal vitamin D status could play important roles in ensuring proper fetal and placental development and proper immune response and function during pregnancy, although the relative importance of its different putative effects on pathways leading to clinical outcomes is not well understood.16,22,65\n\nIt is important to interpret the findings of our pooled analyses with caution, particularly given the small number and small sample size of existing trials and the heterogeneity observed across a number of outcomes. Most trials tested the effects of vitamin D supplements provided during the third trimester and in two trials, supplementation did not bring mean levels above 50 nmol/L (Table S6).42,51 All trials to date, with the exception of one46, were conducted among populations living at northern latitudes with evidence of vitamin D deficiency or insufficiency. The generalizability of findings of these trials to populations living near the equator with potentially greater exposure to sunlight is uncertain, although it is important to consider the role that cultural practices of head covering and urban lifestyles may have in contributing to vitamin D insufficiency even in tropical countries.\n\nDespite the lack of a statistical significance of the effect observed in our pooled analysis of SGA, we found fairly consistent evidence from trials suggesting that vitamin D has the potential to influence fetal growth among deficient populations, supported by significant effects observed in the meta-analysis of data on gestational weight gain and low birthweight. Our findings suggested either a null or a modest effect on mean birth weight. It is well accepted that mean birthweight is limited in its ability to capture fetal growth restriction, partly because it also reflects gestational age.62 Only one observational study suggested that the risk of SGA might increase at higher levels of 25(OH)D, but many studies appeared to only examine 25(OH)D as a dichotomous categorical variable. Future observational studies should examine potential non-linear relationships across the entire distribution.62 Further exploration of heterogeneity in effects by race and/or vitamin D receptor genotype may be important.58,62\n\nSome, but not all, studies suggested an effect of vitamin D on risk of pre-eclampsia. In addition to the studies we reviewed, a trial using cod liver oil containing vitamin D along with multi-micronutrient supplement found a significant 32% reduction in preeclampsia risk, and a trial of vitamin D and calcium from India indicated a non-significant benefit on pre-eclampsia.72,73 It has been speculated that early pregnancy, when the placenta is still developing, might be the most aetiologically relevant time period for vitamin D supplementation on pre-eclampsia but this hypothesis requires further testing and received limited support from the one observational study to explore the importance of timing of supplementation during pregnancy.74\n\nWe found little evidence to evaluate the effect of vitamin D on preterm birth or any of its obstetric precursors. Approximately 25–40% of all preterm births are thought to be associated with intra-uterine infection.75 An influence of vitamin D status on bacterial infections during pregnancy is plausible and is supported by the consistency of findings of several cross-sectional observational studies in the US suggesting inverse relationships between 25(OH)D and bacterial vaginosis during pregnancy.15,76,77 Larger observational studies or trials with more detailed outcome evaluation are needed to assess the potential for vitamin D to influence risk of preterm birth.\n\nBoth the observational study from Massachusetts and the trial from South Carolina provide support for an effect of vitamin D on risk of primary caesarean section.1,5 In apparent contrast to these findings, two studies excluded from our analysis because of their non-prospective nature suggest no association between mode of delivery or dystocia and maternal vitamin D status.78,79 Heterogeneity in these associations is not entirely unexpected because decision making related to caesarian delivery may vary across settings. Given the strength of the association observed in the study from Massachusetts, the role of vitamin D in regulation of calcium (which may help to initiate labour and influence muscle function), and the potential role on pre-eclampsia, further exploration would be worthwhile.80\n\nMaternal serum levels of 25(OH)D during pregnancy are correlated with cord blood and neonatal levels of 25(OH)D could influence neonatal and early childhood health and growth, particularly because breastmilk is a poor source of vitamin D in absence of high dose maternal supplementation.5 A growing number of studies suggest the importance of adequate vitamin D status during childhood to the prevention of respiratory infections. A study from Ethiopia found that children with rickets had a 13-fold higher risk of pneumonia compared with controls5 while a trial in Afghanistan found that vitamin D supplementation of children diagnosed with pneumonia both significantly reduced the risk of repeat episodes during 90 days of follow-up by 22% and increased the time to repeat episode.81 Limitations of the studies we identified include reliance on maternal reports of doctor&#39;s diagnosis, little specificity of outcomes, and in the case of the study from England showing increased risk associated with better vitamin D status, a lack of adjustment for potential confounders such as access to health care or education.54 Infections remain an important cause of neonatal and early childhood mortality in many countries, and trials of maternal vitamin D supplementation in such settings should also include follow-up of children for respiratory infections (and HIV seroconversion in high-prevalence settings).48,49,82\n\nThe importance of vitamin D to linear growth during childhood was considered at least as early the 1930s.83,84 The strongest support for a direct role of vitamin D supplementation on child growth comes from the trial in the UK. Beneficial effects on linear growth were observed at 9 months but not prior to that time.69 It is difficult to explain the inconsistencies between these findings and observations from the Netherlands showing that children born to vitamin D-deficient mothers appeared to have greater growth velocity, although residual confounding and vitamin D supplementation practices during early childhood in the latter study have been offered as explanations.57\n`├── HeadingNode
+│   full_match: `\n!!Policy implications and future research directions`
+│   inner_content: `Policy implications and future research directions`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Policy implications and future research directions`
+│   │   inner_content: `Policy implications and future research directions`├── TextNode
+│   full_match: `\nDespite growing interest in the relationships between vitamin D status during pregnancy and perinatal and infant health outcomes, the epidemiological evidence base remains weak for all of the outcomes we included in our review. Compelling evidence exists for a potential role of vitamin D on a number of perinatal and maternal health outcomes and more randomised trials of vitamin D supplementation during pregnancy are needed to evaluate the potential for vitamin D supplementation to prevent adverse outcomes. Such trials should be undertaken in settings in which vitamin D deficiency is likely to be a risk: latitude, cultural practices of head covering, urban life style, poor dietary intake of vitamin D and season are all factors that may be useful to consider when selecting populations for such trials.\n\nDosage for such trials should be guided by population 25(OH)D levels at baseline and desired target levels.85 The threshold used to define optimal serum 25(OH)D levels is contentious, although many researchers have argued that levels of at least 75–80 nmol or even higher are desirable based on observational studies and estimates of circulating levels from living under UV-rich conditions similar to which humans evolved.32,37 Recent research from the multi-dose trial of pregnant women suggests that serum levels of 25(OH)D exceeding 100 nmol/L may be needed to optimise production of 1,25(OH)D.5\n\nThe fat soluble properties of vitamin D mean that intermittent (e.g. weekly or monthly) dosage is possible, which may be particularly useful in countries with weak health infrastructure, but also raises the need to consider potential adverse effects due to toxicity. The upper limit of intake above which adverse health outcomes such as hypercalcaemia during pregnancy may develop is uncertain. The US tolerable upper limit for women of reproductive age including pregnant women was recently set at 4000 IU/day although it has been argued that there is little evidence of toxicity of higher levels up to 10 000 IU/day.33 Dosages administered during recent trials without adverse effects include daily provision of up to 4000 IU/day vitamin D3 throughout pregnancy in the trial from South Carolina5 (although women with high baseline serum levels were excluded from the highest dose group and supplementation began at 16 weeks), provision of a weekly dose of 35 000 IU D3 during the third trimester in Bangladesh,86 and a one time dose of 200 000 IU vitamin D3 in the third trimester of pregnancy.42,51 Monitoring of adverse events in clinical trials using high intermittent dosing may also be an important consideration.87\n\nLastly, we note that the vast majority of studies published to date on vitamin D and perinatal health outcomes have been undertaken in high-income countries. While populations in these settings may be at greater risk for vitamin D deficiency because of lower UV light exposure, more research is needed in populations from low-income countries, which may have lower dietary intake, higher disease burden, and for which vitamin D deficiency may be a growing problem associated with urbanisation.\n`
+│   inner_content: `\nDespite growing interest in the relationships between vitamin D status during pregnancy and perinatal and infant health outcomes, the epidemiological evidence base remains weak for all of the outcomes we included in our review. Compelling evidence exists for a potential role of vitamin D on a number of perinatal and maternal health outcomes and more randomised trials of vitamin D supplementation during pregnancy are needed to evaluate the potential for vitamin D supplementation to prevent adverse outcomes. Such trials should be undertaken in settings in which vitamin D deficiency is likely to be a risk: latitude, cultural practices of head covering, urban life style, poor dietary intake of vitamin D and season are all factors that may be useful to consider when selecting populations for such trials.\n\nDosage for such trials should be guided by population 25(OH)D levels at baseline and desired target levels.85 The threshold used to define optimal serum 25(OH)D levels is contentious, although many researchers have argued that levels of at least 75–80 nmol or even higher are desirable based on observational studies and estimates of circulating levels from living under UV-rich conditions similar to which humans evolved.32,37 Recent research from the multi-dose trial of pregnant women suggests that serum levels of 25(OH)D exceeding 100 nmol/L may be needed to optimise production of 1,25(OH)D.5\n\nThe fat soluble properties of vitamin D mean that intermittent (e.g. weekly or monthly) dosage is possible, which may be particularly useful in countries with weak health infrastructure, but also raises the need to consider potential adverse effects due to toxicity. The upper limit of intake above which adverse health outcomes such as hypercalcaemia during pregnancy may develop is uncertain. The US tolerable upper limit for women of reproductive age including pregnant women was recently set at 4000 IU/day although it has been argued that there is little evidence of toxicity of higher levels up to 10 000 IU/day.33 Dosages administered during recent trials without adverse effects include daily provision of up to 4000 IU/day vitamin D3 throughout pregnancy in the trial from South Carolina5 (although women with high baseline serum levels were excluded from the highest dose group and supplementation began at 16 weeks), provision of a weekly dose of 35 000 IU D3 during the third trimester in Bangladesh,86 and a one time dose of 200 000 IU vitamin D3 in the third trimester of pregnancy.42,51 Monitoring of adverse events in clinical trials using high intermittent dosing may also be an important consideration.87\n\nLastly, we note that the vast majority of studies published to date on vitamin D and perinatal health outcomes have been undertaken in high-income countries. While populations in these settings may be at greater risk for vitamin D deficiency because of lower UV light exposure, more research is needed in populations from low-income countries, which may have lower dietary intake, higher disease burden, and for which vitamin D deficiency may be a growing problem associated with urbanisation.\n`├── HeadingNode
+│   full_match: `\n!!Conclusion`
+│   inner_content: `Conclusion`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Conclusion`
+│   │   inner_content: `Conclusion`├── TextNode
+│   full_match: `\nIn a systematic review of the literature we found only a low level of evidence relating vitamin D supplementation or intake during pregnancy on perinatal and infant health-related outcomes. Emerging evidence suggesting plausible effects on intra-uterine growth restriction, pre-eclampsia, and both maternal and infant infections as important outcomes in need of further research in low-income settings. Several trials are underway including in Pakistan and Bangladesh and should help to clarify the importance of vitamin D supplementation as an intervention for perinatal, maternal and infant health outcomes.5,88 Vitamin D is an essential nutrient with well-established roles in calcium metabolism and the prevention of rickets that are important for policymakers to consider alongside the outcomes reviewed here.\n`
+│   inner_content: `\nIn a systematic review of the literature we found only a low level of evidence relating vitamin D supplementation or intake during pregnancy on perinatal and infant health-related outcomes. Emerging evidence suggesting plausible effects on intra-uterine growth restriction, pre-eclampsia, and both maternal and infant infections as important outcomes in need of further research in low-income settings. Several trials are underway including in Pakistan and Bangladesh and should help to clarify the importance of vitamin D supplementation as an intervention for perinatal, maternal and infant health outcomes.5,88 Vitamin D is an essential nutrient with well-established roles in calcium metabolism and the prevention of rickets that are important for policymakers to consider alongside the outcomes reviewed here.\n`├── HeadingNode
+│   full_match: `\n!!!Acknowledgements`
+│   inner_content: `Acknowledgements`
+│   level: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Acknowledgements`
+│   │   inner_content: `Acknowledgements`├── TextNode
+│   full_match: `\nWe greatly appreciate the willingness of Dr Christina Yu and Dr Bruce Hollis and Dr Carol Wagner to share additional data for this analysis. Andrew Thorne-Lyman is supported by training grant T32 #DK 007703 from the U.S. National Institutes of Health (NIH) and a Julius B. Richmond Fellowship from the Center on the Developing Child at Harvard University.\n`
+│   inner_content: `\nWe greatly appreciate the willingness of Dr Christina Yu and Dr Bruce Hollis and Dr Carol Wagner to share additional data for this analysis. Andrew Thorne-Lyman is supported by training grant T32 #DK 007703 from the U.S. National Institutes of Health (NIH) and a Julius B. Richmond Fellowship from the Center on the Developing Child at Harvard University.\n`├── HeadingNode
+│   full_match: `\n!!!Conflicts of interests`
+│   inner_content: `Conflicts of interests`
+│   level: `3`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Conflicts of interests`
+│   │   inner_content: `Conflicts of interests`├── TextNode
+│   full_match: `\nThe authors have no conflicts of interest to report related to this article.\n`
+│   inner_content: `\nThe authors have no conflicts of interest to report related to this article.\n`├── HeadingNode
+│   full_match: `\n!!References: __~~#00F:{See attached PDF}~~__`
+│   inner_content: `References: __~~#00F:{See attached PDF}~~__`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `References: `
+│   │   inner_content: `References: `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{See attached PDF}~~__`
+│   │   inner_content: `~~#00F:{See attached PDF}~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{See attached PDF}~~`
+│   │   │   inner_content: `{See attached PDF}`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `{See attached PDF}`
+│   │   │   │   inner_content: `{See attached PDF}`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `!!Supporting Information __~~#00F:{in attached supplement}~~__`
+│   inner_content: `Supporting Information __~~#00F:{in attached supplement}~~__`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Supporting Information `
+│   │   inner_content: `Supporting Information `
+│   ├── BoldNode
+│   │   full_match: `__~~#00F:{in attached supplement}~~__`
+│   │   inner_content: `~~#00F:{in attached supplement}~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{in attached supplement}~~`
+│   │   │   inner_content: `{in attached supplement}`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `{in attached supplement}`
+│   │   │   │   inner_content: `{in attached supplement}`├── TextNode
+│   full_match: `\nFigure S1. Trials and observational studies of vitamin D supplementation and mean birthweight (in grams).\nFigure S2. Trials of vitamin D supplementation and SGA and low birthweight, disaggregated by dosing approach.\nFigure S3. Trials of vitamin D supplementation and mean crown–heel length (in cm).\nFigure S4. Trials of vitamin D supplementation and mean daily weight gain during the 3rd trimester (in grams).\nFigure S5. Supplementation and preterm delivery and mean duration of gestation, disaggregated by dosing approach.\nFigure S6. Observational studies of vitamin D intake and mean gestational age.\nFigure S7. Observational studies of vitamin D intake and pre-eclampsia risk.\nTable S1. Search strategy and keywords.\nTable S2. Evaluation of the quality of eligible trials for potential inclusion in the meta-analysis.\nTable S3. Evaluation of the quality of evidence of individual observational studies for potential inclusion in the meta-analysis.\nTable S4. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and measures of fetal growth, birth weight, and preterm birth.\nTable S5. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and pre-eclampsia.\nTable S6. Baseline and attained levels of maternal 25(OH)D at delivery in trials.`
+│   inner_content: `\nFigure S1. Trials and observational studies of vitamin D supplementation and mean birthweight (in grams).\nFigure S2. Trials of vitamin D supplementation and SGA and low birthweight, disaggregated by dosing approach.\nFigure S3. Trials of vitamin D supplementation and mean crown–heel length (in cm).\nFigure S4. Trials of vitamin D supplementation and mean daily weight gain during the 3rd trimester (in grams).\nFigure S5. Supplementation and preterm delivery and mean duration of gestation, disaggregated by dosing approach.\nFigure S6. Observational studies of vitamin D intake and mean gestational age.\nFigure S7. Observational studies of vitamin D intake and pre-eclampsia risk.\nTable S1. Search strategy and keywords.\nTable S2. Evaluation of the quality of eligible trials for potential inclusion in the meta-analysis.\nTable S3. Evaluation of the quality of evidence of individual observational studies for potential inclusion in the meta-analysis.\nTable S4. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and measures of fetal growth, birth weight, and preterm birth.\nTable S5. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and pre-eclampsia.\nTable S6. Baseline and attained levels of maternal 25(OH)D at delivery in trials.`
+
+Original Tiki:
+-------------
+!!!!Vitamin D During Pregnancy and Maternal, Neonatal and Infant Health Outcomes: A Systematic Review and Meta-analysis
+Andrew Thorne-Lyman1,*, Wafaie W. Fawzi1,2,3; Article first published online: 28 JUN 2012
+© 2012 Blackwell Publishing Ltd
+Paediatric and Perinatal Epidemiology, Volume 26, Issue Supplement s1, pages 75–90, July 2012
+Special Issue: Improving maternal, newborn, and child health outcomes through better designed policies and programs that enhance the nutrition of women
+{BOX(title=&gt;VitaminDWiki Comments, links class=&quot;border&quot; bg=&gt;#FF9,width=&gt;85%)}
+The only daily vitamin D data used in the meta-analysis was 1000 IU of vitamin __~~#F00:D2~~__
+Can expect much better results if D3 were to be used and with more IU
+!!!See also VitaminDWiki
+* [https://www.VitaminDWiki.com/tiki-index.php?page_id=816|Overview Pregnancy and Vitamin D]
+*((Improved births with 2,000 IU vitamin D during pregnancy in India - RCT Feb 2015))
+*((2X more likely to have preeclampsia if less than 20 ng of vitamin D – Meta-analysis Jan 2013))  ~~#00F:__Meta-analysis__~~
+*((2X more preeclampsia when vitamin D less than 30 ng, etc. - meta-analysis March 2013))  ~~#00F:__Meta-analysis__~~
+*((Pregnancy and vitamin D meta-analysis – July 2012)) ~~#00F:__Meta-analysis__~~
+*((Gestational diabetes 60 percent more likely below 20 ng of vitamin D – meta-analysis Feb 2012)) ~~#00F:__Meta-analysis__~~
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=467|__~~#090:7X~~__ more likely to have low birth weight babies when mother very low on vitamin D – March 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=3198|Low vitamin D pregnancy associated with both low birth weight and more weight in child later – July 2012]
+*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=+%28%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+OR+preemie+OR+preemies+OR+preterm%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com | Search VitaminDWiki for(Stunting OR “low birth weight” OR LBW OR preemie OR preemies OR preterm)] 901 items as of July 2016__
+*__[https://www.VitaminDWiki.com/Search+Results?hl=en&amp;oe=UTF-8&amp;ie=UTF-8&amp;btnG=Google+Search&amp;googles.x=0&amp;googles.y=0&amp;q=%28Stunting+OR+%E2%80%9Clow+birth+weight%E2%80%9D+OR+LBW+%29&amp;domains=VitaminDWiki.com&amp;sitesearch=VitaminDWiki.com|Search VitaminDWiki for (Stunting OR “low birth weight” OR LBW )] 265 items as of Dec 2016
+*((Less vitamin D makes for low birth weight for white babies - May 2010))
+*((Opening windows while pregnant cut the number of low birth weight infants by half – Feb 2013))
++It is thus likely that supplementing with VitaminD would also reduce the low birth weight by half
+*((Small for gestational age birth was 6.5X more likely if mother was vitamin D deficient – March 2015))
+!!See also web
+*[http://www.usatoday.com/news/health/story/2012-05-02/CDC-preterm-premature-births/54692356/1|Pre-term births report by CDC] USA-Today May 2012
++Of all births: US Blacks 17%, US whites 11%, Germany 9%, UK Canada, Australia 8%, France 7%, Japan 6%
++For 62 out of 65 countries, the rate of premature births has been increasing 
+*[http://kff.org/other/state-indicator/low-birthweight-by-raceethnicity/?currentTimeframe=0|Births of Low Birthweight as a Percent of All Births by Race/Ethnicity ]Kaiser Foundation
++Black 13%, White 7% - 2014 details by state
+The following text has been extracted from PDF
+__~~#00F: {ATTACH(inline=&quot;1&quot; id=&quot;1435&quot; icon=&quot;1&quot;)}Download the PDF from VitaminDWiki.{ATTACH}~~__
+{BOX}
+---
+!!Abstract
+Vitamin D has well-defined classical functions related to calcium metabolism and bone health but also has non-classical effects that may influence other aspects of health. There has been considerable recent interest in the role of vitamin D on outcomes related to pregnancy and young child health but few efforts have been made to systematically consolidate this evidence to inform the research and policy agenda for low-income countries.
+
+ A systematic review was undertaken to identify intervention and observational studies of vitamin D supplementation, intake or status (25-hydroxy-vitamin D) during pregnancy on perinatal and infant health outcomes. Data from trials and observational studies isolating the effect of vitamin D supplementation and intake were extracted and study quality was evaluated. Meta-analysis was used to pool effect estimates. 
+
+We identified five randomised trials with outcomes of relevance to our review. All had small sample size and dosage amount, duration and frequency varied as did the ability to correct deficiency. 
+
+Pooled analysis of trials using fixed-effects models suggested __protective effects of supplementation on low birthweight__ (three trials, risk ratio (RR) = 0.40 [95% confidence interval (CI) 0.23, 0.71]) and 
+non-significant but suggestive effects of daily supplementation on small-for-gestational age (two trials, RR = 0.67 [0.40, 1.11]). 
+No effect on preterm delivery (&lt;37 weeks) was evident (two trials, RR = 0.77 [0.35, 1.66]). 
+Little evidence from trials exists to evaluate the effect of vitamin D supplementation during pregnancy on maternal, perinatal or infant health outcomes. 
+Based on both trials and observational studies, we recommend that future research explore 
+*small-for-gestational age, 
+*preterm delivery, 
+*pre-eclampsia, and 
+*maternal and childhood infections, 
+as outcomes of interest. 
+
+Trials should focus on populations with a high prevalence of vitamin D deficiency, explore the relevance of timing of supplementation, and the dosage used in such trials should be sufficient to correct deficiency.
+
+There is evidence of early interest in the relationship between vitamin D status and perinatal health outcomes. ‘Rachitic pelvis’ was noted as a common obstetric complication in the early 20th century, and may have contributed to the development of caesarian section birthing procedures.1 In the 1930s, Green and Mellanby speculated that vitamin D had little ‘anti-infective’ activity but ‘might prove of significance in connexion with other obstetric difficulties, such as uterine inertia’.2 Associations between childhood rickets, sunlight or cod-liver oil and risk of respiratory infections such as tuberculosis and pneumonia were recognised a century ago, although it has only been in recent years that the effects of vitamin D on immunity have been revisited and the underlying mechanisms behind its putative effects have started to become more clear.3
+
+Vitamin D can be synthesised in the skin through exposure to ultraviolet (UV) light or can be obtained through dietary intake. Sunlight exposure is often the major influence on vitamin D status and is influenced by skin colour, latitude, season, as well as life style and cultural practices. In comparison, diet is often thought to exert a minor influence on vitamin D status although consumption of supplements can strongly influence status.4,5
+
+Globally, it has been estimated that a billion people may be affected by vitamin D deficiency or insufficiency.6 Generally, populations from countries near the equator (particularly agrarian and nomadic populations) are thought to have sufficient exposure to UV wavelengths required for optimal vitamin D status, and this has indeed been the case in some surveys.4,7 Yet, childhood rickets, a condition caused vitamin D and/or calcium deficiency, has long been noted in certain equatorial populations, particularly those in which head covering or spending time indoors is common.4 Recent studies in Ethiopia and India have also found that more than 80% and 66% of pregnant women suffered from vitamin D deficiency using a cut-off of &lt;50 nmol/L 25(OH)D, indicating the need for more research on potential adverse effects of deficiency and benefits of supplementation in developing country contexts.8,9
+
+!!Metabolism of vitamin D during pregnancy and maternal-fetal links
+Once ingested or produced by the body, vitamin D3 is transported to the liver for hydroxylation to 25(OH)D, the main circulating form of vitamin D and best measure of vitamin D status, and then to the kidney where the active hormonal form of vitamin D, 1,25(OH)2D, is produced. Maternal 25(OH)D is thought to freely cross the human placenta as it does in rats.10 The placenta expresses vitamin D receptors and also produces the enzyme CYP27B1 to convert 25(OH)D to its active form.11
+
+The most widely appreciated role of vitamin D in the human body is to maintain normal levels of calcium and phosphate in the blood, which in turn facilitate other essential processes such as bone mineralisation, contraction of muscles, nervous system activities and cellular function.12 Adequate vitamin D status is critically important for the neonate, with neonatal hypocalcaemia and rickets being major consequences of deficiency.10 In areas where vitamin D deficiency is endemic, rickets may be diagnosed soon after birth.10 In general, breastmilk is thought to be a relatively poor source of vitamin D, thus maternal vitamin D status during pregnancy is important for vitamin D status of the child during early infancy.10,13,14
+
+There are a number of plausible biological pathways through which vitamin D could influence placental, fetal and maternal health or growth during pregnancy. Vitamin D has important immune-modulating properties of vitamin D, which may help to establish a proper maternal immune response to the placenta.15–17 It also regulates key target genes associated with proper implantation of the placenta.18 Vitamin D has a direct role in the production of antimicrobial peptides such as cathelicidin, which are produced upon activation of up-regulated vitamin D receptors, require 25(OH)D as a substrate for production, and may play an important role in preventing infection during pregnancy or early childhood.3,19–22 In its active form, vitamin D regulates expression of human chorionic gonadotropin in syncytiotrophoblasts and stimulates production of sex steroids.23,24In vitro and animal studies have also suggested that vitamin D has important roles in glucose and insulin metabolism, which may affect availability of energy to the fetus.16,25,26 Vitamin D also influences musculo-skeletal growth.27–30
+
+!!Requirements for vitamin D
+The recommended daily allowance of vitamin D for women in the US aged 19–50 years, including during pregnancy, was recently established at 600 international units (IU) per day.31 This recommendation was based on the amount of intake necessary to sustain blood levels of 25(OH)D above 50 nmol/L for populations with minimal sunlight exposure and was developed solely based on outcomes related to skeletal health.31 This recommendation was contentious as many researchers have argued that insufficiency should be defined at thresholds of 75 nmol/L or even higher, which would require a much higher intake to reach.32,33
+
+A number of recent reviews have covered a rapidly growing body of literature on vitamin D during pregnancy,4,16,34–37 although few have taken a systematic approach35 and only a couple have focused on the implications for low-income country settings.4,38 To address this gap, we undertook a systematic review of the literature on vitamin D during pregnancy and perinatal and infant health outcomes.
+
+!!Methods
+The primary aim of our literature search was to identify epidemiological studies that isolated the effect of intake of vitamin D from supplements or diet on the outcomes presented in Table 1. Skeletal health-related outcomes such as bone mineralisation and rickets were not part of this review and have been detailed elsewhere.10,31,39 Recognising in advance that few supplementation trials had been published, we sought to also identify prospective observational studies with intake of vitamin D or maternal blood 25(OH)D levels during pregnancy as exposures. Using the search strings outlined in Table S1 we searched the NLM Pubmed database and Cochrane Library through June 2011 as well as the bibliographies of reviews and relevant studies.
+
+Table 1.  Primary outcomes covered by this review
+ A =outcomes for which outcomes from more than one study could not be extracted for meta-analysis.
+ALRI, Acute lower respiratory infection.
+1.?Low birthweight due to intra-uterine growth restriction
+ 1a.?Small-for-gestational age
+ 1b.?Low birthweight
+ 1c.?Mean birthweight
+ 1d.?Weight gain during pregnancy
+ 1e.?Mean heel-crown length at delivery
+2.?Preterm birth
+ 2a.?Preterm birth (&lt;37 weeks)
+ 2b.?Early preterm birth (&lt;34 weeks) a
+ 2c.?Mean gestational age at delivery
+3.?Neonatal growth, morbidity and mortality
+ 3a.?Early infant mortality (first 6 weeks) a
+4.?Infant or child growth, morbidity and mortality
+ 4a.?Mean weight a
+ 4b.?Mean height a
+ 4c.?Low weight-for-age a
+ 4d.?Low height-for-age a
+ 4e.?All-cause mortality a
+ 4f.?Mortality due to measles, diarrhoea, ALRI or malaria a
+ 4g.?Mother-to-child transmission of HIV a
+ 4h.?Morbidity (diarrhoea, measles, malaria, ALRI) a
+5.?Maternal morbidity and mortality
+ 5a.?Mortality (all cause) a
+ 5b.?Mortality due to haemorrhage, sepsis or obstructed labour a
+ 5c.?Delivery complications (caesarian section) a
+ 5d.?Pre-eclampsia
+An initial review of titles and abstracts was undertaken by one reviewer followed by an in-depth review of full papers that could not be initially excluded (AT-L). We excluded (1) non-human studies, (2) studies not in English, French or Spanish, (3) reviews, case reports and commentaries, (4) topics unrelated to the review, (5) studies that could not isolate the effects of vitamin D supplementation or intake, and (6) cross-sectional and non-prospective case–control studies. A modified version of the Child Health Epidemiology Reference Group&#39;s GRADE tool was used to evaluate intervention studies and observational studies of vitamin D intake for risk of bias, and those with a study quality of ‘Very Low’ were excluded. Authors of recent trials presenting clinical outcomes were requested to provide additional data on other outcomes of relevance to the meta-analysis.
+
+Study data were extracted using a standard spreadsheet. Review Manager 5.140 was used to generate pooled effect estimates for all outcomes with data from more than one eligible study. For studies with continuous outcomes we generated mean differences and for dichotomous outcomes we calculated relative risk or odds ratio estimates, each with 95% confidence intervals (CI). Inverse variance weights were used to generate pooled effect estimates with a fixed-effects model in absence of significant heterogeneity. Heterogeneity was explored through visual inspection of Forest plots as well as through I2 values and ?2-tests for heterogeneity. In the presence of significant heterogeneity (P &lt; 0.10), we used a random-effects model. For trials testing multiple intervention arms (of daily or bolus doses), we pooled data from intervention arms, calculated the pooled mean and standard deviation41 where appropriate, and also presented separate analysis for daily vs. bolus dosage. For observational studies, comparisons were made of extreme categories.
+
+!!Results
+Identification of studies
+We identified 944 hits through our database searches and five additional studies through bibliographical searches (Figure 1). Five trials of vitamin D supplementation during pregnancy met our inclusion criteria, one of which did not provide sufficient data for inclusion in quantitative analysis,42 and one study was excluded that ranked ‘Very Low’ on GRADE criteria (Table 2 and Table S2).43 Additional data were received from the authors of two recently published trials (personal communication with Dr Yu, November 2011 and Drs Hollis/Wagner, January 2012). Six observational studies of vitamin D intake were identified of which two44,45 ranked ‘Very Low’ on GRADE criteria (Table S3). We also found 13 studies with prospective assessment of 25(OH)D prior to birth outcomes (Table S4) and four studies in which pre-eclampsia was reported as an outcome (Table S5).
+
+Figure 1. Study flow.
+
+Table 2.  Description of intervention studies of vitamin D supplementation and observational studies of vitamin D intake (including supplements) eligible for inclusion in meta-analyses
+
+All but one trial 46 and four observational studies of 25(OH)D were conducted in high-income country settings, and most populations had either a presumed risk or high prevalence of deficiency at baseline (Table 1).9,47–50 Dosing approaches in the trials varied: two trials contained multiple intervention arms testing both daily supplementation (800 IU and 1000 IU  __~~#F00:D2~~__) and high single dose supplementation (200 000 IU) in the third trimester.42,51 
+One recent trial tested both daily 2000 IU D3 and daily 4000 IU D3, the latter at the upper limit of the current US recommendations and a study in India tested the effects of two bolus doses of 600 000 IU.31
+
+Vitamin D supplementation appeared to improve maternal 25(OH)D levels in all four trials with available data although mean attained levels at term in two trials indicated that the dosage tested was not sufficient to alleviate deficiency in much of the population (Table S6).42,51 In contrast, the results of trials by Hollis and Brooke indicated a substantial improvement in vitamin D status, and there is some speculation that the dose used in the latter trial may have been higher than reported.5,36,52
+
+!!Birthweight, low birthweight and crown–heel length at birth
+The results of all meta-analyses are summarised in Table 3. Pooled analysis of all five trials with information on mean birthweight suggested no significant overall effect (Figure S1), although significant heterogeneity was apparent (I2 = 70%, P = 0.0009) due largely to the divergent results of studies testing a large bolus dose the two. Pooled results of observational studies indicated a significant 52 g increase [3.5, 102] comparing the highest vs. lowest categories of intake (Figure S1). An observational study in New Zealand also found a significant 71 g birthweight difference across quartiles of intake noting low median intakes of 68 IU/day in the population although data were insufficient for pooling.53
+
+Table 3.  Summary of findings and overall assessment of quality of evidence for randomised trials and observational studies
+Quality assessment	Summary of findings
+No. studies and study design	Heterogeneity of results?	Consistent size of effect?	Generalisable to population of interest?	Generalisable to intervention of interest?	Other sources of bias (e.g. major limitations in study design)	n	Statistical method	Effect estimate [95% CI]
+CI, confidence interval: IU, international units; RCT, randomised controlled trial; RR, risk ratio, MD, mean difference, IV, inverse variance; OR, odds ratio.
+Trials: Small-for-gestational age, overall quality of evidence grade = Low
+Two RCTs42,52 (one with two arms)	Low (I2 = 0%), P = 0.39	Both protective	Both in the UK among deficient largely non-white populations	Similar dose (800 IU and 1000 IU daily); both in the third trimester	Both small studies	305	RR, IV	0.67 [0.40, 1.11]
+Fixed effects
+Trials: Weight gain during the third trimester (g), overall quality of evidence grade = Low
+Two RCTs46,91	High (I2 = 65%, P = 0.09)	Yes – both showed increased weight gain in vitamin D group	India, Asian immigrants in the UK	Both in the third trimester; one with daily 1000 IU vs. one with 600 000 IU at month 7 and 8	Both small studies	326	MD, IV	11.8 g/day [3.4, 20.2]
+Random effects
+Trials and observational studies: mean birthweight, overall quality of evidence grade = Low
+1. Trials: five RCTs (three with two intervention arms)5,42,46,51,52	1. High (I2 = 70%, P = 0.0.009);	Most trials null; one increased weight, one arm decreased weight	All in deficient populations; one from India, remaining from high-income settings	Wide variety of doses tested ranging from 800 IU daily to 4000 IU daily and large bolus doses up to 2× 600 000 IU	Only two had blinded control groups; all small sample size; high or unclear dropout in two studies	932	MD, IV	58.1 [?63.9, 180.0]
+Random
+2. Observational studies: two studies60,63	2. None (I2 = 0%, P = 0.49)	1497	MD, IV	52.7 [3.5, 101.8]
+Fixed
+Trials: Low birthweight (&lt;2.5 kg), overall quality of evidence grade = Low
+Three RCTs (one with two intervention arms).42,46,52	Low (I2 = 5%, P = 0.35)	RR ranged from 0.21 to 0.55 (only one significant)	One in India, others in London among Asian migrants and mixed population	Mix of daily supplementation (800–1000 IU) and bolus dosing at high doses, all in the third trimester	Only one study placebo controlled	507	RR	0.40 [0.23, 0.71]
+(IV, Fixed, 95% CI)
+Trials: Crown–heel length at birth (cm), overall quality of evidence grade = Low
+Two RCTs46,52	High (I2 = 82%, P = 0.02).	One null, one with significantly greater weight gain	One in India, one among Asian immigrants to the UK	1000 IU D2; Bolus 600 000 IU at month 7 and 8	One unblinded	317	MD, IV	1.02 [?0.26, 2.30] cm
+Random effects
+Trials: Preterm delivery (&lt;37 weeks), overall quality of evidence grade = Low
+Two RCTs5,42 (both had two intervention arms pooled here)	Moderate (I2 = 46%, P = 0.17)	Both null in opposite directions	Both in multi-ethnic populations in high-income countries	(1) 4000 or 2000 IU vs. 400 IU, (2) daily 800 or bolus 200 000 IU vs. nothing	One unblinded	529	RR, IV	0.77 [0.35, 1.66]
+Fixed effects
+Trials and observational studies: mean gestational age at delivery (in weeks), overall quality of evidence grade = Low
+Two RCTs5,42 with two intervention arms	Low (I2 = 7%, P = 0.30);	All null	All in high-income countries	Comparison of 4000/2000 IU vs. 400 IU and daily 800 IU vs. nothing	One unblinded; one observational study did not adjust for confounding	529	MD, IV	0.17 [?0.16, 0.51]
+Two observational studies60,63	None (I2 = 0%, P = 0.75)	1497	Fixed effects	0.08 [?0.12, 0.28]
+Observational studies: pre-eclampsia, overall quality of evidence grade = Very Low
+Two observational studies74,89	None (I2 = 0%, P = 0.33)	Both null	Both in high-income countries	One comparison of &lt;200 vs. &gt;800 IU; one based on continuous exposure	 	12 626	OR, IV	0.95 [0.86, 1.06]
+Fixed effects
+{IMG(attId=&quot;1437&quot; max=&quot;800&quot;)}{IMG}
+Pooled analysis of three trials revealed that supplementation led to a significant 60% reduction in the risk of low birthweight (Figure 2), and disaggregated analysis of bolus high dose trials also suggested a strong benefit [two trials, risk ratio (RR) = 0.25 [0.11, 0.61] although daily supplementation trials did not show statistically significant benefit (two trials, RR = 0.56 [0.27, 1.13]) (Figure S2).
+
+Figure 2. Trials of vitamin D supplementation and risk of low birthweight and small-for-gestational age (SGA). IV, inverse variance; CI, confidence interval; IU, international units.
+
+The majority of studies examining relationships between maternal vitamin D status and mean or low birthweight found no association.9,30,47,49,54,55 However, two large studies, one from the Netherlands and the other from Australia, both found significantly lower birthweight among infants born to women with vitamin D deficiency (using thresholds of &lt;25 and 29 nmol/L).56,57 Another study from Australia found no overall effect of low maternal 25(OH)D levels (&lt;28 nmol/L) on mean birthweight, yet effect modification was found by infant vitamin D receptor (Fokl) genotype: offspring born to women in the with higher 25(OH)D levels were significantly heavier within the FF or Ff but not the ff genotypes.58
+
+Pooled analysis of two supplementation trials showed no significant difference in mean crown–heel length associated with supplementation (Figure S3). None of the observational studies we identified reported a significant association between maternal 25(OH)D status and crown–heel length at birth.9,30,47,54,55,57,59
+
+!!Small-for-gestational age and gestational weight gain
+Pooled analyses indicated significantly greater average daily weight gain in the third trimester among women supplemented with vitamin D (two trials, 11.8 g/day [3.4, 20.2]) (Figure S4), and a non-statistically significant 33% decrease in the risk of small-for-gestational age (SGA) (Figure 2). However, an observational cohort study from Boston reported no difference in birthweight for gestational age by quartile of vitamin D intake in unadjusted analysis.60
+
+Prospective observational studies of vitamin D status and SGA have had mixed findings (Table S4). Two studies, one of HIV-positive women in Tanzania and another among pregnant adolescents in the UK, did not find statistically significant associations between maternal 25(OH)D levels and SGA.49,61 However, the largest study to date, from the Netherlands, found that the risk of SGA among vitamin D-deficient women [25(OH)D &lt; 30 nmol/L] was nearly twice that of women with adequate status in multivariable adjusted models (adjusted odds ratio (OR) 1.9 [95% CI 1.4, 2.7]).57 A recent nested case–control study from Pittsburgh found evidence of a U-shaped relationship between vitamin D status and SGA among white women in the study: those with serum 25(OH)D levels less than 37.5 nmol/L had a 7.5-fold [95% CI 1.8, 31.9] higher risk of SGA compared with those with levels between 37.5 and 75 nmol and those with levels exceeding 75 nmol/L had a 2.1 times higher risk [1.2, 3.8].62 Effect modification by race was also evident as no statistically significant relationships between serum 25(OH)D levels and SGA risk were observed among black women included in the study.
+
+!!Preterm birth
+No significant association was evident between vitamin D supplementation and preterm delivery (&lt;37 weeks) or mean duration of gestation in pooled analyses (Figure 3, Figure S5), or in two observational studies of intake of vitamin D and mean duration of gestation (Figure S6).5,42,60,63
+
+Figure 3. Trials of vitamin D supplementation and risk of preterm delivery and mean duration of gestation. IV, inverse variance; CI, confidence interval; IU, international units.
+
+Two studies examined relationships with blood levels of 25(OH)D during pregnancy and preterm birth. In Tanzania, no difference in risk of preterm birth (&lt;37 weeks, RR = 0.84 [0.55–1.28]) or early preterm birth (&lt;34 weeks, RR = 0.77 [0.50, 1.18]) was observed among HIV-positive women using a cut-off of 80 nmol/L.49 Similarly, no difference in the third trimester 25(OH)D levels was found for adolescents in the UK delivering preterm vs. normal gestational length babies.61
+
+Observational studies with serum 25(OH)D levels as an exposure did suggest longer gestational duration associated with higher 25(OH)D levels. In the Netherlands, women with serum levels &gt;50 nmol/L had a slightly longer gestational length of 40.2 weeks vs. 40.0 weeks vs. women in two categories of lower intake (P &lt; 0.001).57 An Australian study noted a significant 0.7-week shorter gestation [?1.3, ?0.1] among women with blood 25(OH)D levels &lt;28 nmol/L compared with those with higher levels.30 A hospital-based study from Japan also found lower mean 25(OH)D levels among mothers with threatened premature delivery.64
+
+!!Fetal loss
+One trial reported a case of stillbirth in the non-intervention arm, but we found no other trials or observational studies of vitamin D intake with data on fetal loss.42 One study among HIV-positive women from Tanzania found no significant difference in fetal loss among women with deficiency vs. those with sufficient status (RR = 1.05 [95% CI 0.63, 1.74]).49
+
+!!Pre-eclampsia, caesarian section and maternal mortality
+We did not find any published data from trials on the effects of vitamin D supplementation on risk of pre-eclampsia. Preliminary data shared with us by investigators from the trial in South Carolina indicate monotonic reductions in risk with increasing supplement dosage (400, 2000, 4000 IU) for a composite pre-eclampsia/eclampsia/gestational hypertension outcome, which, although not significant in intent-to-treat analysis, became significant after controlling for race (personnal communication, Bruce Hollis, Jan 9, 2012).
+
+Pooled analysis of a very large (n = 23 423) study from Norway and a large (n = 1718) study from Massachusetts (Figure S7) revealed no significant difference in risk of pre-eclampsia between top and bottom categories of total vitamin D intake (OR = 0.95 [95% CI 0.86, 1.06]).89 While the comparison between &gt;800 IU with &lt;200 IU of total vitamin D intake in the Norwegian study was not statistically significant (OR = 0.89 [0.75, 1.06), women with intake between 600 and 800 IU had significantly reduced risk of pre-eclampsia (adjusted OR 0.77 [0.61–0.96]) compared with those consuming &lt;200 IU/day. In contrast, a heightened risk of gestational hypertension was associated with increased vitamin D intake in the study from Massachusetts (adjusted OR = 1.11 [1.01, 1.21]).
+
+Observational studies of vitamin D status during pregnancy and risk of pre-eclampsia have not shown consistent associations (Table S5) Investigators of a study from Pittsburgh observed an inverse monotonic dose response relationship between 25(OH)D levels in early pregnancy and pre-eclampsia: for every 50 nmol/L decline in 25(OH)D levels, the risk of pre-eclampsia more than doubled (adjusted OR 2.4 [1.1, 5.4]).65 Similarly, a nested case control study from North Carolina reported that women with 25(OH)D levels &lt;50 nmol/L had more than five times greater risk of severe preeclapsia compared with those with levels &gt;75 nmol/L (adjusted OR 5.41 [2.02, 14.52]).66 In contrast, a recent nested case control study conducted in Massachusetts found no statistically significant difference in risk of pre-eclampsia for women with 25(OH)D levels &lt;37.5 nmol/L (adjusted OR 1.35 [0.40, 4.50]).67 Another prospective cohort study of pregnancies at high risk for pre-eclampsia in Canada found no effect of 25(OH)D during early pregnancy on pre-eclampsia risk.68
+
+In a recently published trial from South Carolina, no statistically significant differences in mode of delivery (caesarian section vs. vaginal delivery) were noted by vitamin D supplementation group, although adjustment for race reportedly led to a statistical significant trend of increasing protection with higher dosage.5 An observational study undertaken in Boston found that women with vitamin D levels 25(OH)D &lt; 37.5 nmol/L during pregnancy were found to have nearly a four times greater risk of caesarian delivery (adjusted OR 3.84 [1.71, 8.62]).1 Similarly no association between maternal vitamin D status and mode of delivery was found in an Australian observational study.56
+
+No trials or observational studies of vitamin D supplementation/intake and maternal mortality or morbidity during pregnancy were identified. However, a study from Tanzania found that pregnant women with 25(OH)D levels &lt;80 nmol/L had increased risk of HIV disease progression and that risk of all-cause mortality was significantly lower in the highest quintile of 25(OH)D compared with the lowest (incidence RR = 0.58 [0.40, 0.84]).48
+
+!!Neonatal and infant growth
+One supplementation trial in the UK reported significantly greater weight gain among infants born to women supplemented with vitamin D compared with the placebo group at 3, 6, 9 and 12 months of life [12-month comparison: 6.39 vs. 5.92 kg in the control group (P &lt; 0.01)].69 Up to 6 months of age, there were no differences in attained height between groups, but by 1 year of age, those in the vitamin D group had grown 27.9 vs. 24.6 cm in the placebo group (P &lt; 0.001).
+
+A large observational study in the Netherlands found no differences in multivariable adjusted mean weight-for-age z scores by category of maternal vitamin D status during pregnancy for any measure taken during the first year of life. While infants born to mothers with 25(OH)D levels &lt;30 nmol/L had significantly lower mean length for age z scores at 1 month compared with those born to women adequate status (&gt;50 nmol/L), paradoxically they had higher z scores by 12 months with no differences observed at 3, 6 or 9 months.57 In another study conducted in the Gambia among a population with high vitamin D status, no significant relationships or trends were found by maternal 25(OH)D status taken at either week 20 or week 36 of pregnancy and weight or height-for-age z scores at 2, 13 or 52 weeks.47 A cohort study of the effects of maternal vitamin D status during pregnancy on subsequent outcomes in Southampton, UK, found no differences in attained weight or length at 9 months of follow-up across quartiles of 25(OH)D status measured in late pregnancy (with cut points at &lt;30, 50, 75 and &gt;75 nmol/L).54 However, in a linear regression model examining predictors of height at 9 months that included height measured at birth, a significant association with maternal 25(OH)D was observed (P = 0.02).54,70 A study in India found no difference in attained height at age 5 years between children of mothers with 25(OH)D levels above vs. below 50 nmol/L during pregnancy.50
+
+!!Neonatal and infant morbidity and mortality
+We did not identify any trials of vitamin D supplementation during pregnancy with outcomes related to infant or child mortality, although a death was noted in one trial.42 In a cohort study of 1194 children from Massachusetts, no significant trend was found across quintiles of maternal vitamin D intake during pregnancy on risk of reported diagnosis of respiratory infections by a health professional up to 3 years of age in multivariable adjusted analysis.60 A study of 922 infants in New Zealand found significantly greater risk of respiratory infection (a composite variable of colds, cough, whooping cough, chest infections and ear infections) by 3 months of age among infants with cord blood levels of 25(OH)D less than 25 nmol/L in adjusted analysis compared with levels at or above 75 nmol/L (OR = 2.04 [1.13, 3.17]).71 In contrast to these findings, a cohort study from Southampton, England, which followed up children at age 9 months, found that mothers in the top quartile of 25(OH)D status in late pregnancy were significantly more likely to report their children having been diagnosed with pneumonia or bronchiolitis, compared with those in the bottom quartile (unadjusted OR 4.80 [1.01, 22.73]), although no differences in risk for respiratory infections overall or for chest infections or bronchitis were observed.54 The same study unexpectedly also found that children of mothers in the highest quartile of vitamin D status were more likely to have reported having one or more bouts of diarrhoea vs. those in the bottom quartile (OR = 1.87 [1.01, 3.46]. In a study of infants born to HIV-positive mothers in Tanzania, vitamin D insufficiency during pregnancy (&lt;80 nmol/L) was associated with heightened risk of a composite end-point of infant mortality/HIV infection (RR = 1.49 [1.07, 2.09]).49
+
+!!Comments
+Scientific understanding of the importance of vitamin D during pregnancy for perinatal and child health outcomes is growing rapidly, and our review consolidates a great deal of new information from trials and observational studies not incorporated in a prior meta-analysis on the topic.35 In addition to its classical functions related to calcium homeostasis and bone development, emerging evidence suggests that adequate maternal vitamin D status could play important roles in ensuring proper fetal and placental development and proper immune response and function during pregnancy, although the relative importance of its different putative effects on pathways leading to clinical outcomes is not well understood.16,22,65
+
+It is important to interpret the findings of our pooled analyses with caution, particularly given the small number and small sample size of existing trials and the heterogeneity observed across a number of outcomes. Most trials tested the effects of vitamin D supplements provided during the third trimester and in two trials, supplementation did not bring mean levels above 50 nmol/L (Table S6).42,51 All trials to date, with the exception of one46, were conducted among populations living at northern latitudes with evidence of vitamin D deficiency or insufficiency. The generalizability of findings of these trials to populations living near the equator with potentially greater exposure to sunlight is uncertain, although it is important to consider the role that cultural practices of head covering and urban lifestyles may have in contributing to vitamin D insufficiency even in tropical countries.
+
+Despite the lack of a statistical significance of the effect observed in our pooled analysis of SGA, we found fairly consistent evidence from trials suggesting that vitamin D has the potential to influence fetal growth among deficient populations, supported by significant effects observed in the meta-analysis of data on gestational weight gain and low birthweight. Our findings suggested either a null or a modest effect on mean birth weight. It is well accepted that mean birthweight is limited in its ability to capture fetal growth restriction, partly because it also reflects gestational age.62 Only one observational study suggested that the risk of SGA might increase at higher levels of 25(OH)D, but many studies appeared to only examine 25(OH)D as a dichotomous categorical variable. Future observational studies should examine potential non-linear relationships across the entire distribution.62 Further exploration of heterogeneity in effects by race and/or vitamin D receptor genotype may be important.58,62
+
+Some, but not all, studies suggested an effect of vitamin D on risk of pre-eclampsia. In addition to the studies we reviewed, a trial using cod liver oil containing vitamin D along with multi-micronutrient supplement found a significant 32% reduction in preeclampsia risk, and a trial of vitamin D and calcium from India indicated a non-significant benefit on pre-eclampsia.72,73 It has been speculated that early pregnancy, when the placenta is still developing, might be the most aetiologically relevant time period for vitamin D supplementation on pre-eclampsia but this hypothesis requires further testing and received limited support from the one observational study to explore the importance of timing of supplementation during pregnancy.74
+
+We found little evidence to evaluate the effect of vitamin D on preterm birth or any of its obstetric precursors. Approximately 25–40% of all preterm births are thought to be associated with intra-uterine infection.75 An influence of vitamin D status on bacterial infections during pregnancy is plausible and is supported by the consistency of findings of several cross-sectional observational studies in the US suggesting inverse relationships between 25(OH)D and bacterial vaginosis during pregnancy.15,76,77 Larger observational studies or trials with more detailed outcome evaluation are needed to assess the potential for vitamin D to influence risk of preterm birth.
+
+Both the observational study from Massachusetts and the trial from South Carolina provide support for an effect of vitamin D on risk of primary caesarean section.1,5 In apparent contrast to these findings, two studies excluded from our analysis because of their non-prospective nature suggest no association between mode of delivery or dystocia and maternal vitamin D status.78,79 Heterogeneity in these associations is not entirely unexpected because decision making related to caesarian delivery may vary across settings. Given the strength of the association observed in the study from Massachusetts, the role of vitamin D in regulation of calcium (which may help to initiate labour and influence muscle function), and the potential role on pre-eclampsia, further exploration would be worthwhile.80
+
+Maternal serum levels of 25(OH)D during pregnancy are correlated with cord blood and neonatal levels of 25(OH)D could influence neonatal and early childhood health and growth, particularly because breastmilk is a poor source of vitamin D in absence of high dose maternal supplementation.5 A growing number of studies suggest the importance of adequate vitamin D status during childhood to the prevention of respiratory infections. A study from Ethiopia found that children with rickets had a 13-fold higher risk of pneumonia compared with controls5 while a trial in Afghanistan found that vitamin D supplementation of children diagnosed with pneumonia both significantly reduced the risk of repeat episodes during 90 days of follow-up by 22% and increased the time to repeat episode.81 Limitations of the studies we identified include reliance on maternal reports of doctor&#39;s diagnosis, little specificity of outcomes, and in the case of the study from England showing increased risk associated with better vitamin D status, a lack of adjustment for potential confounders such as access to health care or education.54 Infections remain an important cause of neonatal and early childhood mortality in many countries, and trials of maternal vitamin D supplementation in such settings should also include follow-up of children for respiratory infections (and HIV seroconversion in high-prevalence settings).48,49,82
+
+The importance of vitamin D to linear growth during childhood was considered at least as early the 1930s.83,84 The strongest support for a direct role of vitamin D supplementation on child growth comes from the trial in the UK. Beneficial effects on linear growth were observed at 9 months but not prior to that time.69 It is difficult to explain the inconsistencies between these findings and observations from the Netherlands showing that children born to vitamin D-deficient mothers appeared to have greater growth velocity, although residual confounding and vitamin D supplementation practices during early childhood in the latter study have been offered as explanations.57
+
+!!Policy implications and future research directions
+Despite growing interest in the relationships between vitamin D status during pregnancy and perinatal and infant health outcomes, the epidemiological evidence base remains weak for all of the outcomes we included in our review. Compelling evidence exists for a potential role of vitamin D on a number of perinatal and maternal health outcomes and more randomised trials of vitamin D supplementation during pregnancy are needed to evaluate the potential for vitamin D supplementation to prevent adverse outcomes. Such trials should be undertaken in settings in which vitamin D deficiency is likely to be a risk: latitude, cultural practices of head covering, urban life style, poor dietary intake of vitamin D and season are all factors that may be useful to consider when selecting populations for such trials.
+
+Dosage for such trials should be guided by population 25(OH)D levels at baseline and desired target levels.85 The threshold used to define optimal serum 25(OH)D levels is contentious, although many researchers have argued that levels of at least 75–80 nmol or even higher are desirable based on observational studies and estimates of circulating levels from living under UV-rich conditions similar to which humans evolved.32,37 Recent research from the multi-dose trial of pregnant women suggests that serum levels of 25(OH)D exceeding 100 nmol/L may be needed to optimise production of 1,25(OH)D.5
+
+The fat soluble properties of vitamin D mean that intermittent (e.g. weekly or monthly) dosage is possible, which may be particularly useful in countries with weak health infrastructure, but also raises the need to consider potential adverse effects due to toxicity. The upper limit of intake above which adverse health outcomes such as hypercalcaemia during pregnancy may develop is uncertain. The US tolerable upper limit for women of reproductive age including pregnant women was recently set at 4000 IU/day although it has been argued that there is little evidence of toxicity of higher levels up to 10 000 IU/day.33 Dosages administered during recent trials without adverse effects include daily provision of up to 4000 IU/day vitamin D3 throughout pregnancy in the trial from South Carolina5 (although women with high baseline serum levels were excluded from the highest dose group and supplementation began at 16 weeks), provision of a weekly dose of 35 000 IU D3 during the third trimester in Bangladesh,86 and a one time dose of 200 000 IU vitamin D3 in the third trimester of pregnancy.42,51 Monitoring of adverse events in clinical trials using high intermittent dosing may also be an important consideration.87
+
+Lastly, we note that the vast majority of studies published to date on vitamin D and perinatal health outcomes have been undertaken in high-income countries. While populations in these settings may be at greater risk for vitamin D deficiency because of lower UV light exposure, more research is needed in populations from low-income countries, which may have lower dietary intake, higher disease burden, and for which vitamin D deficiency may be a growing problem associated with urbanisation.
+
+!!Conclusion
+In a systematic review of the literature we found only a low level of evidence relating vitamin D supplementation or intake during pregnancy on perinatal and infant health-related outcomes. Emerging evidence suggesting plausible effects on intra-uterine growth restriction, pre-eclampsia, and both maternal and infant infections as important outcomes in need of further research in low-income settings. Several trials are underway including in Pakistan and Bangladesh and should help to clarify the importance of vitamin D supplementation as an intervention for perinatal, maternal and infant health outcomes.5,88 Vitamin D is an essential nutrient with well-established roles in calcium metabolism and the prevention of rickets that are important for policymakers to consider alongside the outcomes reviewed here.
+
+!!!Acknowledgements
+We greatly appreciate the willingness of Dr Christina Yu and Dr Bruce Hollis and Dr Carol Wagner to share additional data for this analysis. Andrew Thorne-Lyman is supported by training grant T32 #DK 007703 from the U.S. National Institutes of Health (NIH) and a Julius B. Richmond Fellowship from the Center on the Developing Child at Harvard University.
+
+!!!Conflicts of interests
+The authors have no conflicts of interest to report related to this article.
+
+!!References: __~~#00F:{See attached PDF}~~__
+!!Supporting Information __~~#00F:{in attached supplement}~~__
+Figure S1. Trials and observational studies of vitamin D supplementation and mean birthweight (in grams).
+Figure S2. Trials of vitamin D supplementation and SGA and low birthweight, disaggregated by dosing approach.
+Figure S3. Trials of vitamin D supplementation and mean crown–heel length (in cm).
+Figure S4. Trials of vitamin D supplementation and mean daily weight gain during the 3rd trimester (in grams).
+Figure S5. Supplementation and preterm delivery and mean duration of gestation, disaggregated by dosing approach.
+Figure S6. Observational studies of vitamin D intake and mean gestational age.
+Figure S7. Observational studies of vitamin D intake and pre-eclampsia risk.
+Table S1. Search strategy and keywords.
+Table S2. Evaluation of the quality of eligible trials for potential inclusion in the meta-analysis.
+Table S3. Evaluation of the quality of evidence of individual observational studies for potential inclusion in the meta-analysis.
+Table S4. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and measures of fetal growth, birth weight, and preterm birth.
+Table S5. Prospective observational studies of the relationship between maternal blood levels of 25(OH)D during pregnancy and pre-eclampsia.
+Table S6. Baseline and attained levels of maternal 25(OH)D at delivery in trials.
+</code>
+</pre>

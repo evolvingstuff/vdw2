@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fortification on VitaminDWiki</title><link>/tags/fortification.html</link><description>Recent content in Fortification on VitaminDWiki</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 08 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/fortification/index.xml" rel="self" type="application/rss+xml"/><item><title>Most people have major problems of milk as a source of vitamin D</title><link>/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d.html</link><pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate><guid>/posts/most-people-have-major-problems-of-milk-as-a-source-of-vitamin-d.html</guid><description>&lt;pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+&lt;code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│ full_match: `!!Highlights from [http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012] `
+│ inner_content: `Highlights from [http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012]`
+│ level: `2`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Highlights from `
+│ │ inner_content: `Highlights from `
+│ ├── LinkNode
+│ │ full_match: `[http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012]`
+│ │ inner_content: `New York Times blog on Milk July 2012`
+│ │ url: `http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ `
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `New York Times blog on Milk July 2012`
+│ │ │ inner_content: `New York Times blog on Milk July 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!!By Bittman, author of book: Food Matters`
+│ inner_content: `By Bittman, author of book: Food Matters`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `By Bittman, author of book: Food Matters`
+│ │ inner_content: `By Bittman, author of book: Food Matters`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`
+│ inner_content: `US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`
+│ │ inner_content: `US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*We do not consume 2 lbs of anything else per day`
+│ inner_content: `We do not consume 2 lbs of anything else per day`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `We do not consume 2 lbs of anything else per day`
+│ │ inner_content: `We do not consume 2 lbs of anything else per day`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+Even the per-capita consumption of soda is only 1 lb per day`
+│ inner_content: `Even the per-capita consumption of soda is only 1 lb per day`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Even the per-capita consumption of soda is only 1 lb per day`
+│ │ inner_content: `Even the per-capita consumption of soda is only 1 lb per day`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Now they have reduced the recommendation to [http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups] = 1.5 lbs per day`
+│ inner_content: `Now they have reduced the recommendation to [http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups] = 1.5 lbs per day`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Now they have reduced the recommendation to `
+│ │ inner_content: `Now they have reduced the recommendation to `
+│ ├── LinkNode
+│ │ full_match: `[http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups]`
+│ │ inner_content: ` 3 cups`
+│ │ url: `http://www.choosemyplate.gov/food-groups/dairy-amount.html`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `3 cups`
+│ │ │ inner_content: `3 cups`
+│ ├── TextNode
+│ │ full_match: ` = 1.5 lbs per day`
+│ │ inner_content: ` = 1.5 lbs per day`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*But, 50 million Americans are lactose intolerant`
+│ inner_content: `But, 50 million Americans are lactose intolerant`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `But, 50 million Americans are lactose intolerant`
+│ │ inner_content: `But, 50 million Americans are lactose intolerant`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+90% of Asian-Americans`
+│ inner_content: `90% of Asian-Americans`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `90% of Asian-Americans`
+│ │ inner_content: `90% of Asian-Americans`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+75% of African-Americans, Mexican-Americans, and Jews`
+│ inner_content: `75% of African-Americans, Mexican-Americans, and Jews`
+│ level: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `75% of African-Americans, Mexican-Americans, and Jews`
+│ │ inner_content: `75% of African-Americans, Mexican-Americans, and Jews`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__`
+│ inner_content: `__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__`
+│ level: `1`
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__`
+│ │ inner_content: `~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~`
+│ │ │ inner_content: `Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #090
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU`
+│ │ │ │ inner_content: `Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!! Highlights from [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]`
+│ inner_content: `Highlights from [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Highlights from `
+│ │ inner_content: `Highlights from `
+│ ├── LinkNode
+│ │ full_match: `[http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]`
+│ │ inner_content: `NIH`
+│ │ url: `http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `NIH`
+│ │ │ inner_content: `NIH`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Premature babies sometimes have lactose intolerance.`
+│ inner_content: `Premature babies sometimes have lactose intolerance.`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Premature babies sometimes have lactose intolerance.`
+│ │ inner_content: `Premature babies sometimes have lactose intolerance.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Approximately 30 million American adults have some amount of lactose intolerance by age 20.`
+│ inner_content: `Approximately 30 million American adults have some amount of lactose intolerance by age 20.`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Approximately 30 million American adults have some amount of lactose intolerance by age 20.`
+│ │ inner_content: `Approximately 30 million American adults have some amount of lactose intolerance by age 20.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!!Highlights from [http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]`
+│ inner_content: `Highlights from [http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]`
+│ level: `3`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Highlights from `
+│ │ inner_content: `Highlights from `
+│ ├── LinkNode
+│ │ full_match: `[http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]`
+│ │ inner_content: `Wikipedia`
+│ │ url: `http://en.wikipedia.org/wiki/Lactose_intolerance`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Wikipedia`
+│ │ │ inner_content: `Wikipedia`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Most mammals normally become lactose intolerant after weaning, but some human populations have developed`
+│ inner_content: `Most mammals normally become lactose intolerant after weaning, but some human populations have developed`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Most mammals normally become lactose intolerant after weaning, but some human populations have developed`
+│ │ inner_content: `Most mammals normally become lactose intolerant after weaning, but some human populations have developed`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+ __lactase persistence__, in which lactase production continues into adulthood. `
+│ inner_content: ` __lactase persistence__, in which lactase production continues into adulthood. `
+│ level: `1`
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__lactase persistence__`
+│ │ inner_content: `lactase persistence`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `lactase persistence`
+│ │ │ inner_content: `lactase persistence`
+│ ├── TextNode
+│ │ full_match: `, in which lactase production continues into adulthood. `
+│ │ inner_content: `, in which lactase production continues into adulthood. `├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*It is estimated that __75% of adults worldwide show some decrease in lactase activity during adulthood__`
+│ inner_content: `It is estimated that __75% of adults worldwide show some decrease in lactase activity during adulthood__`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `It is estimated that `
+│ │ inner_content: `It is estimated that `
+│ ├── BoldNode
+│ │ full_match: `__75% of adults worldwide show some decrease in lactase activity during adulthood__`
+│ │ inner_content: `75% of adults worldwide show some decrease in lactase activity during adulthood`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `75% of adults worldwide show some decrease in lactase activity during adulthood`
+│ │ │ inner_content: `75% of adults worldwide show some decrease in lactase activity during adulthood`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*It has now been shown that lactase persistence is caused by several independently occurring mutations.`
+│ inner_content: `It has now been shown that lactase persistence is caused by several independently occurring mutations.`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `It has now been shown that lactase persistence is caused by several independently occurring mutations.`
+│ │ inner_content: `It has now been shown that lactase persistence is caused by several independently occurring mutations.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IndentNode
+│ full_match: `+__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__`
+│ inner_content: `__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__`
+│ level: `1`
+│ children:
+│ ├── BoldNode
+│ │ full_match: `__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__`
+│ │ inner_content: `~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~`
+│ │ │ inner_content: `Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #090
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans`
+│ │ │ │ inner_content: `Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── TableNode
+│ full_match: `||Dairy product|\tServing size\t|% Lactose\nMilk, regular\t|250 ml\t|4.8%\nMilk, reduced fat|\t250 ml\t|5.2%\nYogurt, plain, regular|\t200 g\t|4.5%\nYogurt, plain, low-fat\t|200 g\t|6.0%\nIce cream\t|50 g|6.0%\nButter\t|1 tsp (5.9ml)\t|0.5%\nCottage cheese\t|30 g\t|0.3%\nCheddar cheese\t|30 g\t|0.07%||`
+│ inner_content: `Dairy product|\tServing size\t|% Lactose\nMilk, regular\t|250 ml\t|4.8%\nMilk, reduced fat|\t250 ml\t|5.2%\nYogurt, plain, regular|\t200 g\t|4.5%\nYogurt, plain, low-fat\t|200 g\t|6.0%\nIce cream\t|50 g|6.0%\nButter\t|1 tsp (5.9ml)\t|0.5%\nCottage cheese\t|30 g\t|0.3%\nCheddar cheese\t|30 g\t|0.07%`
+│ children:
+│ ├── TableRowNode
+│ │ full_match: `Dairy product|\tServing size\t|% Lactose`
+│ │ inner_content: `Dairy product|\tServing size\t|% Lactose`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Dairy product`
+│ │ │ inner_content: `Dairy product`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Dairy product`
+│ │ │ │ inner_content: `Dairy product`
+│ │ ├── TableCellNode
+│ │ │ full_match: `\tServing size\t`
+│ │ │ inner_content: `\tServing size\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Serving size\t`
+│ │ │ │ inner_content: `Serving size\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `% Lactose`
+│ │ │ inner_content: `% Lactose`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `% Lactose`
+│ │ │ │ inner_content: `% Lactose`
+│ ├── TableRowNode
+│ │ full_match: `Milk, regular\t|250 ml\t|4.8%`
+│ │ inner_content: `Milk, regular\t|250 ml\t|4.8%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Milk, regular\t`
+│ │ │ inner_content: `Milk, regular\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Milk, regular\t`
+│ │ │ │ inner_content: `Milk, regular\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `250 ml\t`
+│ │ │ inner_content: `250 ml\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `250 ml\t`
+│ │ │ │ inner_content: `250 ml\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `4.8%`
+│ │ │ inner_content: `4.8%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `4.8%`
+│ │ │ │ inner_content: `4.8%`
+│ ├── TableRowNode
+│ │ full_match: `Milk, reduced fat|\t250 ml\t|5.2%`
+│ │ inner_content: `Milk, reduced fat|\t250 ml\t|5.2%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Milk, reduced fat`
+│ │ │ inner_content: `Milk, reduced fat`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Milk, reduced fat`
+│ │ │ │ inner_content: `Milk, reduced fat`
+│ │ ├── TableCellNode
+│ │ │ full_match: `\t250 ml\t`
+│ │ │ inner_content: `\t250 ml\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `250 ml\t`
+│ │ │ │ inner_content: `250 ml\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `5.2%`
+│ │ │ inner_content: `5.2%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `5.2%`
+│ │ │ │ inner_content: `5.2%`
+│ ├── TableRowNode
+│ │ full_match: `Yogurt, plain, regular|\t200 g\t|4.5%`
+│ │ inner_content: `Yogurt, plain, regular|\t200 g\t|4.5%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Yogurt, plain, regular`
+│ │ │ inner_content: `Yogurt, plain, regular`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Yogurt, plain, regular`
+│ │ │ │ inner_content: `Yogurt, plain, regular`
+│ │ ├── TableCellNode
+│ │ │ full_match: `\t200 g\t`
+│ │ │ inner_content: `\t200 g\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `200 g\t`
+│ │ │ │ inner_content: `200 g\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `4.5%`
+│ │ │ inner_content: `4.5%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `4.5%`
+│ │ │ │ inner_content: `4.5%`
+│ ├── TableRowNode
+│ │ full_match: `Yogurt, plain, low-fat\t|200 g\t|6.0%`
+│ │ inner_content: `Yogurt, plain, low-fat\t|200 g\t|6.0%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Yogurt, plain, low-fat\t`
+│ │ │ inner_content: `Yogurt, plain, low-fat\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Yogurt, plain, low-fat\t`
+│ │ │ │ inner_content: `Yogurt, plain, low-fat\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `200 g\t`
+│ │ │ inner_content: `200 g\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `200 g\t`
+│ │ │ │ inner_content: `200 g\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `6.0%`
+│ │ │ inner_content: `6.0%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `6.0%`
+│ │ │ │ inner_content: `6.0%`
+│ ├── TableRowNode
+│ │ full_match: `Ice cream\t|50 g|6.0%`
+│ │ inner_content: `Ice cream\t|50 g|6.0%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Ice cream\t`
+│ │ │ inner_content: `Ice cream\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Ice cream\t`
+│ │ │ │ inner_content: `Ice cream\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `50 g`
+│ │ │ inner_content: `50 g`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `50 g`
+│ │ │ │ inner_content: `50 g`
+│ │ ├── TableCellNode
+│ │ │ full_match: `6.0%`
+│ │ │ inner_content: `6.0%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `6.0%`
+│ │ │ │ inner_content: `6.0%`
+│ ├── TableRowNode
+│ │ full_match: `Butter\t|1 tsp (5.9ml)\t|0.5%`
+│ │ inner_content: `Butter\t|1 tsp (5.9ml)\t|0.5%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Butter\t`
+│ │ │ inner_content: `Butter\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Butter\t`
+│ │ │ │ inner_content: `Butter\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `1 tsp (5.9ml)\t`
+│ │ │ inner_content: `1 tsp (5.9ml)\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `1 tsp (5.9ml)\t`
+│ │ │ │ inner_content: `1 tsp (5.9ml)\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `0.5%`
+│ │ │ inner_content: `0.5%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `0.5%`
+│ │ │ │ inner_content: `0.5%`
+│ ├── TableRowNode
+│ │ full_match: `Cottage cheese\t|30 g\t|0.3%`
+│ │ inner_content: `Cottage cheese\t|30 g\t|0.3%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Cottage cheese\t`
+│ │ │ inner_content: `Cottage cheese\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Cottage cheese\t`
+│ │ │ │ inner_content: `Cottage cheese\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `30 g\t`
+│ │ │ inner_content: `30 g\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `30 g\t`
+│ │ │ │ inner_content: `30 g\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `0.3%`
+│ │ │ inner_content: `0.3%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `0.3%`
+│ │ │ │ inner_content: `0.3%`
+│ ├── TableRowNode
+│ │ full_match: `Cheddar cheese\t|30 g\t|0.07%`
+│ │ inner_content: `Cheddar cheese\t|30 g\t|0.07%`
+│ │ children:
+│ │ ├── TableCellNode
+│ │ │ full_match: `Cheddar cheese\t`
+│ │ │ inner_content: `Cheddar cheese\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `Cheddar cheese\t`
+│ │ │ │ inner_content: `Cheddar cheese\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `30 g\t`
+│ │ │ inner_content: `30 g\t`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `30 g\t`
+│ │ │ │ inner_content: `30 g\t`
+│ │ ├── TableCellNode
+│ │ │ full_match: `0.07%`
+│ │ │ inner_content: `0.07%`
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `0.07%`
+│ │ │ │ inner_content: `0.07%`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!!!Calcium bioavailability highlights from [http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]`
+│ inner_content: `Calcium bioavailability highlights from [http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Calcium bioavailability highlights from `
+│ │ inner_content: `Calcium bioavailability highlights from `
+│ ├── LinkNode
+│ │ full_match: `[http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]`
+│ │ inner_content: `LiveStrong`
+│ │ url: `http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `LiveStrong`
+│ │ │ inner_content: `LiveStrong`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`
+│ inner_content: `&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`
+│ │ inner_content: `&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*20% almonds, sesame seeds, sweet potatoes and pinto beans`
+│ inner_content: `20% almonds, sesame seeds, sweet potatoes and pinto beans`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `20% almonds, sesame seeds, sweet potatoes and pinto beans`
+│ │ inner_content: `20% almonds, sesame seeds, sweet potatoes and pinto beans`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*30 % milk, cheese and yogurt __~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__`
+│ inner_content: `30 % milk, cheese and yogurt __~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `30 % milk, cheese and yogurt `
+│ │ inner_content: `30 % milk, cheese and yogurt `
+│ ├── BoldNode
+│ │ full_match: `__~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__`
+│ │ inner_content: `~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~`
+│ │ children:
+│ │ ├── ColorNode
+│ │ │ full_match: `~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~`
+│ │ │ inner_content: `{Note: probably varies with vitamin D fortification and fat content}`
+│ │ │ attrs_dict:
+│ │ │ │ raw_content: #00F
+│ │ │ children:
+│ │ │ ├── TextNode
+│ │ │ │ full_match: `{Note: probably varies with vitamin D fortification and fat content}`
+│ │ │ │ inner_content: `{Note: probably varies with vitamin D fortification and fat content}`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`
+│ inner_content: `50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`
+│ │ inner_content: `50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!!!Speculation by VitaminDWiki`
+│ inner_content: `Speculation by VitaminDWiki`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Speculation by VitaminDWiki`
+│ │ inner_content: `Speculation by VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`
+│ inner_content: `Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`
+│ │ inner_content: `Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Now it appears only about 63% of American can drink milk.`
+│ inner_content: `Now it appears only about 63% of American can drink milk.`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Now it appears only about 63% of American can drink milk.`
+│ │ inner_content: `Now it appears only about 63% of American can drink milk.`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`
+│ inner_content: `Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`
+│ depth: `1`
+│ children:
+│ ├── TextNode
+│ │ full_match: `Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`
+│ │ inner_content: `Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!!!See also VitaminDWiki`
+│ inner_content: `See also VitaminDWiki`
+│ level: `4`
+│ children:
+│ ├── TextNode
+│ │ full_match: `See also VitaminDWiki`
+│ │ inner_content: `See also VitaminDWiki`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]`
+│ │ inner_content: `Vitamin D can fortify a variety of food and drinks – even beer – March 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2496`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D can fortify a variety of food and drinks – even beer – March 2012`
+│ │ │ inner_content: `Vitamin D can fortify a variety of food and drinks – even beer – March 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]`
+│ │ inner_content: `Vitamin D history back to Egyptians and fortification - Aug 2011`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2044`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Vitamin D history back to Egyptians and fortification - Aug 2011`
+│ │ │ inner_content: `Vitamin D history back to Egyptians and fortification - Aug 2011`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]`
+│ │ inner_content: `Suppliers surmounting vitamin D fortification challenges – March 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=730`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Suppliers surmounting vitamin D fortification challenges – March 2010`
+│ │ │ inner_content: `Suppliers surmounting vitamin D fortification challenges – March 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]`
+│ │ inner_content: `A plea for vit D food fortification in India May 2010`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=209`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `A plea for vit D food fortification in India May 2010`
+│ │ │ inner_content: `A plea for vit D food fortification in India May 2010`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]`
+│ │ inner_content: `Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2627`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012`
+│ │ │ inner_content: `Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]`
+│ inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]`
+│ depth: `1`
+│ children:
+│ ├── LinkNode
+│ │ full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]`
+│ │ inner_content: `Improved health due to vitamin D fortification in Finland`
+│ │ url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2935`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Improved health due to vitamin D fortification in Finland`
+│ │ │ inner_content: `Improved health due to vitamin D fortification in Finland`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Cheese fortified with vitamin D))`
+│ inner_content: `((Cheese fortified with vitamin D))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Cheese fortified with vitamin D))`
+│ │ inner_content: `Cheese fortified with vitamin D`
+│ │ page: `Cheese fortified with vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Cheese fortified with vitamin D`
+│ │ │ inner_content: `Cheese fortified with vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── ListItemNode
+│ full_match: `*((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))`
+│ inner_content: `((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))`
+│ depth: `1`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))`
+│ │ inner_content: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`
+│ │ page: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`
+│ │ │ inner_content: `Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `!!!!((Fortification with Vitamin D))`
+│ inner_content: `((Fortification with Vitamin D))`
+│ level: `4`
+│ children:
+│ ├── LocalLinkNode
+│ │ full_match: `((Fortification with Vitamin D))`
+│ │ inner_content: `Fortification with Vitamin D`
+│ │ page: `Fortification with Vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Fortification with Vitamin D`
+│ │ │ inner_content: `Fortification with Vitamin D`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;
+│ │ page: Fortification with Vitamin D
+│ │ start: ~tc~ start ~/tc~
+│ │ stop: ~tc~ end ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── HeadingNode
+│ full_match: `\n!!!!((Fortification with Vitamin D|Bread Fortification)) appears to be far better than milk fortification`
+│ inner_content: `((Fortification with Vitamin D|Bread Fortification)) appears to be far better than milk fortification`
+│ level: `4`
+│ children:
+│ ├── AliasedLocalLinkNode
+│ │ full_match: `((Fortification with Vitamin D|Bread Fortification))`
+│ │ inner_content: `Fortification with Vitamin D|Bread Fortification`
+│ │ page: `Fortification with Vitamin D`
+│ │ children:
+│ │ ├── TextNode
+│ │ │ full_match: `Fortification with Vitamin D|Bread Fortification`
+│ │ │ inner_content: `Fortification with Vitamin D|Bread Fortification`
+│ ├── TextNode
+│ │ full_match: ` appears to be far better than milk fortification`
+│ │ inner_content: ` appears to be far better than milk fortification`├── TextNode
+│ full_match: `\n`
+│ inner_content: `\n`├── IncludeNode
+│ full_match: `{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ startb ~/tc~&amp;quot; stop=&amp;quot;~tc~ endb ~/tc~&amp;quot;}`
+│ inner_content: ``
+│ attrs_dict:
+│ │ raw_content: page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ startb ~/tc~&amp;quot; stop=&amp;quot;~tc~ endb ~/tc~&amp;quot;
+│ │ page: Fortification with Vitamin D
+│ │ start: ~tc~ startb ~/tc~
+│ │ stop: ~tc~ endb ~/tc~
+│ children:
+│ ├── TextNode
+│ │ full_match: ``
+│ │ inner_content: ``
+
+Original Tiki:
+-------------
+!!Highlights from [http://opinionator.blogs.nytimes.com/2012/07/07/got-milk-you-dont-need-it/ |New York Times blog on Milk July 2012] 
+!!!By Bittman, author of book: Food Matters
+*US Department of Agriculture, encouraged by the Dairy lobby, had recommended 2 lbs of milk per day ( four 8 ounce glasses)
+*We do not consume 2 lbs of anything else per day
++Even the per-capita consumption of soda is only 1 lb per day
+*Now they have reduced the recommendation to [http://www.choosemyplate.gov/food-groups/dairy-amount.html| 3 cups] = 1.5 lbs per day
+*But, 50 million Americans are lactose intolerant
++90% of Asian-Americans
++75% of African-Americans, Mexican-Americans, and Jews
++__~~#090:Note: 100 IU of vitamin D in one 8 ounce glass of milk, so 3 glasses per day = a paltry 300 IU~~__
+!!! Highlights from [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001321/|NIH]
+*Premature babies sometimes have lactose intolerance.
+*Approximately 30 million American adults have some amount of lactose intolerance by age 20.
+!!!Highlights from [http://en.wikipedia.org/wiki/Lactose_intolerance|Wikipedia]
+*Most mammals normally become lactose intolerant after weaning, but some human populations have developed
++ __lactase persistence__, in which lactase production continues into adulthood. 
+*It is estimated that __75% of adults worldwide show some decrease in lactase activity during adulthood__
+*It has now been shown that lactase persistence is caused by several independently occurring mutations.
++__~~#090:Hmm! Having problems with lactose is the norm for all animals, tolerance is the mutation in some humans~~__
+||Dairy product|	Serving size	|% Lactose
+Milk, regular	|250 ml	|4.8%
+Milk, reduced fat|	250 ml	|5.2%
+Yogurt, plain, regular|	200 g	|4.5%
+Yogurt, plain, low-fat	|200 g	|6.0%
+Ice cream	|50 g|6.0%
+Butter	|1 tsp (5.9ml)	|0.5%
+Cottage cheese	|30 g	|0.3%
+Cheddar cheese	|30 g	|0.07%||
+
+!!!!Calcium bioavailability highlights from [http://www.livestrong.com/article/454597-how-much-calcium-is-absorbed-at-a-time/|LiveStrong]
+*&amp;lt; 5 % spinach, rhubarb and Swiss chard is absorbed, due to oxalates
+*20% almonds, sesame seeds, sweet potatoes and pinto beans
+*30 % milk, cheese and yogurt __~~#00F:{Note: probably varies with vitamin D fortification and fat content}~~__
+*50% Brussels sprouts, kale, mustard greens, broccoli, bok choy, cauliflower
+!!!!Speculation by VitaminDWiki
+*Back when milk was fortified with vitamin D perhaps 85% of Americans could drink milk
+*Now it appears only about 63% of American can drink milk.
+*Wonder when alternate foods will be fortified with vitamin D - in the US and around the world?
+!!!!See also VitaminDWiki
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2496|Vitamin D can fortify a variety of food and drinks – even beer – March 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2044|Vitamin D history back to Egyptians and fortification - Aug 2011]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=730|Suppliers surmounting vitamin D fortification challenges – March 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=209|A plea for vit D food fortification in India May 2010]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2627|Food fortified by 440 IU increased vitamin D levels by 8 ng – meta-analysis April 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2935|Improved health due to vitamin D fortification in Finland]
+*((Cheese fortified with vitamin D))
+*((Milk – Vitamin D deficiency 2X more likely if lactose intolerant, milk allergy, or low fat milk – 2017))
+!!!!((Fortification with Vitamin D))
+{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ start ~/tc~&amp;quot; stop=&amp;quot;~tc~ end ~/tc~&amp;quot;}
+
+!!!!((Fortification with Vitamin D|Bread Fortification)) appears to be far better than milk fortification
+{include page=&amp;quot;Fortification with Vitamin D&amp;quot; start=&amp;quot;~tc~ startb ~/tc~&amp;quot; stop=&amp;quot;~tc~ endb ~/tc~&amp;quot;}
+&lt;/code>
+&lt;/pre></description></item></channel></rss>

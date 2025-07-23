@@ -13,6 +13,311 @@
     ],
     "tags": [
         "Pregnancy",
-        "Season of Birth"
+        "Season of Birth",
+        "autoimmune",
+        "bone",
+        "child",
+        "falls fractures",
+        "high dose",
+        "intervention",
+        "life span",
+        "mortality",
+        "multiple sclerosis",
+        "pediatric autoimmune",
+        "therapeutic intervention",
+        "vitamin d"
     ]
 }
+
+
+<pre style="background-color: #e0e0e0; white-space: pre-wrap;">
+<code class="language-text">
+Markdown:
+--------
+
+
+AST Structure:
+-------------
+├── HeadingNode
+│   full_match: `!!!!Season of Birth and Exceptional Longevity: Comparative Study of American Centenarians, Their Siblings, and Spouses`
+│   inner_content: `Season of Birth and Exceptional Longevity: Comparative Study of American Centenarians, Their Siblings, and Spouses`
+│   level: `4`
+│   children:
+│   ├── TextNode
+│   │   full_match: `Season of Birth and Exceptional Longevity: Comparative Study of American Centenarians, Their Siblings, and Spouses`
+│   │   inner_content: `Season of Birth and Exceptional Longevity: Comparative Study of American Centenarians, Their Siblings, and Spouses`├── TextNode
+│   full_match: `\nJournal of Aging Research, Volume 2011 (2011), Article ID 104616, 11 pages\nLeonid A. Gavrilov and Natalia S. Gavrilova\nCenter on Economics and Demography of Aging, NORC at the University of Chicago, 1155 East 60th Street, Chicago, IL 60637, USA\n\nThis study explores the effects of month of birth (a proxy for early-life environmental influences) on the chances of survival to age 100. Months of birth for 1,574 validated centenarians born in the United States in 1880–1895 were compared to the same information obtained for centenarians&#39; 10,885 shorter-lived siblings and 1,083 spouses. Comparison was conducted using a within-family analysis by the method of conditional logistic regression, which allows researchers to control for unobserved shared childhood or adulthood environment and common genetic background. It was found that months of birth have significant long-lasting effect on survival to age 100: siblings born in September–November have higher odds to become centenarians compared to siblings born in March. A similar month-of-birth pattern was found for centenarian spouses. These results support the idea of early-life programming of human aging and longevity.\n`
+│   inner_content: `\nJournal of Aging Research, Volume 2011 (2011), Article ID 104616, 11 pages\nLeonid A. Gavrilov and Natalia S. Gavrilova\nCenter on Economics and Demography of Aging, NORC at the University of Chicago, 1155 East 60th Street, Chicago, IL 60637, USA\n\nThis study explores the effects of month of birth (a proxy for early-life environmental influences) on the chances of survival to age 100. Months of birth for 1,574 validated centenarians born in the United States in 1880–1895 were compared to the same information obtained for centenarians&#39; 10,885 shorter-lived siblings and 1,083 spouses. Comparison was conducted using a within-family analysis by the method of conditional logistic regression, which allows researchers to control for unobserved shared childhood or adulthood environment and common genetic background. It was found that months of birth have significant long-lasting effect on survival to age 100: siblings born in September–November have higher odds to become centenarians compared to siblings born in March. A similar month-of-birth pattern was found for centenarian spouses. These results support the idea of early-life programming of human aging and longevity.\n`├── ImgBlockNode
+│   full_match: `{IMG(attId=&quot;1442&quot;)}{IMG}`
+│   inner_content: ``
+│   attrs_dict:
+│   │   raw_content: attId=&quot;1442&quot;
+│   │   attId: 1442├── TextNode
+│   full_match: `\n\n`
+│   inner_content: `\n\n`├── BoldNode
+│   full_match: `__~~#00F:PDF is attached at the bottom of this page~~__`
+│   inner_content: `~~#00F:PDF is attached at the bottom of this page~~`
+│   children:
+│   ├── ColorNode
+│   │   full_match: `~~#00F:PDF is attached at the bottom of this page~~`
+│   │   inner_content: `PDF is attached at the bottom of this page`
+│   │   attrs_dict:
+│   │   │   raw_content: #00F
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `PDF is attached at the bottom of this page`
+│   │   │   inner_content: `PDF is attached at the bottom of this page`├── TextNode
+│   full_match: `\n- - - - - - - \n`
+│   inner_content: `\n- - - - - - - \n`├── HeadingNode
+│   full_match: `!!__~~#090:Excellent study, well thought out~~__`
+│   inner_content: `__~~#090:Excellent study, well thought out~~__`
+│   level: `2`
+│   children:
+│   ├── BoldNode
+│   │   full_match: `__~~#090:Excellent study, well thought out~~__`
+│   │   inner_content: `~~#090:Excellent study, well thought out~~`
+│   │   children:
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#090:Excellent study, well thought out~~`
+│   │   │   inner_content: `Excellent study, well thought out`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #090
+│   │   │   children:
+│   │   │   ├── TextNode
+│   │   │   │   full_match: `Excellent study, well thought out`
+│   │   │   │   inner_content: `Excellent study, well thought out`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!You can, however, live a long time even if born in the Spring: take more vitamin D`
+│   inner_content: `You can, however, live a long time even if born in the Spring: take more vitamin D`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `You can, however, live a long time even if born in the Spring: take more vitamin D`
+│   │   inner_content: `You can, however, live a long time even if born in the Spring: take more vitamin D`├── TextNode
+│   full_match: `\nMany studies have `
+│   inner_content: `\nMany studies have `├── LinkNode
+│   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1336|proven that taking more vitamin D]`
+│   inner_content: `proven that taking more vitamin D`
+│   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1336`
+│   children:
+│   ├── TextNode
+│   │   full_match: `proven that taking more vitamin D`
+│   │   inner_content: `proven that taking more vitamin D`├── TextNode
+│   full_match: ` decreases incidence of many diseases and even `
+│   inner_content: ` decreases incidence of many diseases and even `├── LinkNode
+│   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1886|treats a few of them]`
+│   inner_content: `treats a few of them`
+│   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1886`
+│   children:
+│   ├── TextNode
+│   │   full_match: `treats a few of them`
+│   │   inner_content: `treats a few of them`├── TextNode
+│   full_match: `.\nVitamin D also `
+│   inner_content: `.\nVitamin D also `├── LinkNode
+│   full_match: `[https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=30&amp;sort_mode=created_desc|decreases death rate from all sources (mortality)]`
+│   inner_content: `decreases death rate from all sources (mortality)`
+│   url: `https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=30&amp;sort_mode=created_desc`
+│   children:
+│   ├── TextNode
+│   │   full_match: `decreases death rate from all sources (mortality)`
+│   │   inner_content: `decreases death rate from all sources (mortality)`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── HeadingNode
+│   full_match: `\n!!See also VitaminDWiki`
+│   inner_content: `See also VitaminDWiki`
+│   level: `2`
+│   children:
+│   ├── TextNode
+│   │   full_match: `See also VitaminDWiki`
+│   │   inner_content: `See also VitaminDWiki`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Season of Birth)) __category listing  has  ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL} items~~ along with related searches__`
+│   inner_content: `((Season of Birth)) __category listing  has  ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL} items~~ along with related searches__`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Season of Birth))`
+│   │   inner_content: `Season of Birth`
+│   │   page: `Season of Birth`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Season of Birth`
+│   │   │   inner_content: `Season of Birth`
+│   ├── TextNode
+│   │   full_match: ` `
+│   │   inner_content: ` `
+│   ├── BoldNode
+│   │   full_match: `__category listing  has  ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL} items~~ along with related searches__`
+│   │   inner_content: `category listing  has  ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL} items~~ along with related searches`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `category listing  has  `
+│   │   │   inner_content: `category listing  has  `
+│   │   ├── ColorNode
+│   │   │   full_match: `~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL} items~~`
+│   │   │   inner_content: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL} items`
+│   │   │   attrs_dict:
+│   │   │   │   raw_content: #00F
+│   │   │   children:
+│   │   │   ├── SqlNode
+│   │   │   │   full_match: `{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL}`
+│   │   │   │   inner_content: `SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161`
+│   │   │   │   attrs_dict:
+│   │   │   │   │   raw_content: db=&gt;vitamind
+│   │   │   │   │   db: &gt;vitamind
+│   │   │   ├── TextNode
+│   │   │   │   full_match: ` items`
+│   │   │   │   inner_content: ` items`
+│   │   ├── TextNode
+│   │   │   full_match: ` along with related searches`
+│   │   │   inner_content: ` along with related searches`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*((Health problems are related to birth month - June 2015))`
+│   inner_content: `((Health problems are related to birth month - June 2015))`
+│   depth: `1`
+│   children:
+│   ├── LocalLinkNode
+│   │   full_match: `((Health problems are related to birth month - June 2015))`
+│   │   inner_content: `Health problems are related to birth month - June 2015`
+│   │   page: `Health problems are related to birth month - June 2015`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Health problems are related to birth month - June 2015`
+│   │   │   inner_content: `Health problems are related to birth month - June 2015`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1715|Diseases correlated to month of birth – 2008]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1715|Diseases correlated to month of birth – 2008]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=1715|Diseases correlated to month of birth – 2008]`
+│   │   inner_content: `Diseases correlated to month of birth – 2008`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=1715`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Diseases correlated to month of birth – 2008`
+│   │   │   inner_content: `Diseases correlated to month of birth – 2008`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1900|Time of Birth, Residential Solar Radiation and Age at Onset of Multiple Sclerosis] 2010 file`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1900|Time of Birth, Residential Solar Radiation and Age at Onset of Multiple Sclerosis] 2010 file`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1900|Time of Birth, Residential Solar Radiation and Age at Onset of Multiple Sclerosis]`
+│   │   inner_content: `Time of Birth, Residential Solar Radiation and Age at Onset of Multiple Sclerosis`
+│   │   url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1900`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Time of Birth, Residential Solar Radiation and Age at Onset of Multiple Sclerosis`
+│   │   │   inner_content: `Time of Birth, Residential Solar Radiation and Age at Onset of Multiple Sclerosis`
+│   ├── TextNode
+│   │   full_match: ` 2010 file`
+│   │   inner_content: ` 2010 file`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=930|The light of life: Evidence that the sun modulates human lifespan] file`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=930|The light of life: Evidence that the sun modulates human lifespan] file`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=930|The light of life: Evidence that the sun modulates human lifespan]`
+│   │   inner_content: `The light of life: Evidence that the sun modulates human lifespan`
+│   │   url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=930`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `The light of life: Evidence that the sun modulates human lifespan`
+│   │   │   inner_content: `The light of life: Evidence that the sun modulates human lifespan`
+│   ├── TextNode
+│   │   full_match: ` file`
+│   │   inner_content: ` file`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1321|Season of Birth and Later Outcomes: Old Questions, New Answers] file`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1321|Season of Birth and Later Outcomes: Old Questions, New Answers] file`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1321|Season of Birth and Later Outcomes: Old Questions, New Answers]`
+│   │   inner_content: `Season of Birth and Later Outcomes: Old Questions, New Answers`
+│   │   url: `https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1321`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Season of Birth and Later Outcomes: Old Questions, New Answers`
+│   │   │   inner_content: `Season of Birth and Later Outcomes: Old Questions, New Answers`
+│   ├── TextNode
+│   │   full_match: ` file`
+│   │   inner_content: ` file`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2996|7 percent less likely to get immune mediated disease if born in the fall – July 2012]`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2996|7 percent less likely to get immune mediated disease if born in the fall – July 2012]`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2996|7 percent less likely to get immune mediated disease if born in the fall – July 2012]`
+│   │   inner_content: `7 percent less likely to get immune mediated disease if born in the fall – July 2012`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2996`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `7 percent less likely to get immune mediated disease if born in the fall – July 2012`
+│   │   │   inner_content: `7 percent less likely to get immune mediated disease if born in the fall – July 2012`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ListItemNode
+│   full_match: `*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2493|Encourage your senior parents to take more vitamin D, you will get more inheritance] which has the following graphic`
+│   inner_content: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2493|Encourage your senior parents to take more vitamin D, you will get more inheritance] which has the following graphic`
+│   depth: `1`
+│   children:
+│   ├── LinkNode
+│   │   full_match: `[https://www.VitaminDWiki.com/tiki-index.php?page_id=2493|Encourage your senior parents to take more vitamin D, you will get more inheritance]`
+│   │   inner_content: `Encourage your senior parents to take more vitamin D, you will get more inheritance`
+│   │   url: `https://www.VitaminDWiki.com/tiki-index.php?page_id=2493`
+│   │   children:
+│   │   ├── TextNode
+│   │   │   full_match: `Encourage your senior parents to take more vitamin D, you will get more inheritance`
+│   │   │   inner_content: `Encourage your senior parents to take more vitamin D, you will get more inheritance`
+│   ├── TextNode
+│   │   full_match: ` which has the following graphic`
+│   │   inner_content: ` which has the following graphic`├── TextNode
+│   full_match: `\n`
+│   inner_content: `\n`├── ImgBlockNode
+│   full_match: `{IMG(fileId=&quot;1648&quot;)}1648{IMG}`
+│   inner_content: `1648`
+│   attrs_dict:
+│   │   raw_content: fileId=&quot;1648&quot;
+│   │   fileId: 1648
+
+Original Tiki:
+-------------
+!!!!Season of Birth and Exceptional Longevity: Comparative Study of American Centenarians, Their Siblings, and Spouses
+Journal of Aging Research, Volume 2011 (2011), Article ID 104616, 11 pages
+Leonid A. Gavrilov and Natalia S. Gavrilova
+Center on Economics and Demography of Aging, NORC at the University of Chicago, 1155 East 60th Street, Chicago, IL 60637, USA
+
+This study explores the effects of month of birth (a proxy for early-life environmental influences) on the chances of survival to age 100. Months of birth for 1,574 validated centenarians born in the United States in 1880–1895 were compared to the same information obtained for centenarians&#39; 10,885 shorter-lived siblings and 1,083 spouses. Comparison was conducted using a within-family analysis by the method of conditional logistic regression, which allows researchers to control for unobserved shared childhood or adulthood environment and common genetic background. It was found that months of birth have significant long-lasting effect on survival to age 100: siblings born in September–November have higher odds to become centenarians compared to siblings born in March. A similar month-of-birth pattern was found for centenarian spouses. These results support the idea of early-life programming of human aging and longevity.
+{IMG(attId=&quot;1442&quot;)}{IMG}
+
+__~~#00F:PDF is attached at the bottom of this page~~__
+- - - - - - - 
+!!__~~#090:Excellent study, well thought out~~__
+
+!!You can, however, live a long time even if born in the Spring: take more vitamin D
+Many studies have [https://www.VitaminDWiki.com/tiki-index.php?page_id=1336|proven that taking more vitamin D] decreases incidence of many diseases and even [https://www.VitaminDWiki.com/tiki-index.php?page_id=1886|treats a few of them].
+Vitamin D also [https://www.VitaminDWiki.com/tiki-browse_categories.php?parentId=30&amp;sort_mode=created_desc|decreases death rate from all sources (mortality)]
+
+!!See also VitaminDWiki
+*((Season of Birth)) __category listing  has  ~~#00F:{SQL(db=&gt;vitamind)}SELECT COUNT(*) FROM `tiki_category_objects` WHERE `categId`=161{SQL} items~~ along with related searches__
+*((Health problems are related to birth month - June 2015))
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=1715|Diseases correlated to month of birth – 2008]
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1900|Time of Birth, Residential Solar Radiation and Age at Onset of Multiple Sclerosis] 2010 file
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=930|The light of life: Evidence that the sun modulates human lifespan] file
+*[https://www.VitaminDWiki.com/tiki-download_file.php?fileId=1321|Season of Birth and Later Outcomes: Old Questions, New Answers] file
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2996|7 percent less likely to get immune mediated disease if born in the fall – July 2012]
+*[https://www.VitaminDWiki.com/tiki-index.php?page_id=2493|Encourage your senior parents to take more vitamin D, you will get more inheritance] which has the following graphic
+{IMG(fileId=&quot;1648&quot;)}1648{IMG}
+</code>
+</pre>
